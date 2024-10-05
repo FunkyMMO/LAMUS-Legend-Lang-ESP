@@ -12,6 +12,11 @@ Blood Castle=Blood Castle
 
 [Dungeon]
 
+[SkillsName] (Debe mantener el nombre de la Skill y el mismo nombre en las descripciones)
+Twisting Slash=Twisting Slash
+Rageful Blow=Rageful Blow
+
+
 [Items]
 Jewel of Bless=Jewel of Bless
 
