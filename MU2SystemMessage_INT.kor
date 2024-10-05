@@ -1,0 +1,12 @@
+[SystemMessage]
+Msg_CharCreate_Err_MaxName=캐릭터 이름은 16글자 이하여야 합니다.
+Msg_Knightage_Create_Insert=등록하실 기사단의 이름을 입력해 주세요.<br> (최소 1글자 최대 16글자 특수 문자 불가능)
+Msg_Knightage_Create_Err_Title=등록하실 기사단의 이름을 입력해 주세요.<br> (최소 1글자 최대 16글자 특수 문자 불가능)
+Msg_Knightage_Create_Err_Title_Count=기사단 이름은 최소 2글자부터 최대 16글자까지 등록 가능하며 특수 문자는 불가능합니다.
+
+[Platinum]
+Msg_Platinum_ServiceApplied=골드 서비스가 적용됩니다.
+Msg_Platinum_ServiceExtended=골드 서비스 기간이 증가하였습니다.
+Msg_Platinum_PlusServiceApplied=플래티넘 서비스가 적용됩니다.
+Msg_Platinum_PlusServiceExtended=플래티넘 서비스 기간이 증가하였습니다.
+

@@ -1,0 +1,319 @@
+[Title]
+Title_1000=Movement and Attack
+Title_2000=Main Quest Progress
+Title_3000=Learned New Skill
+Title_4000=Obtained Magic Gem
+Title_5000=Soul Level Increase
+Title_6000=Obtained Porystal
+Title_7000=Obtained Pet
+Title_8000=Jewel acquired
+Title_9000=Skill Window
+Title_10000=Rift Overdrive
+Title_11000=World Map
+Title_12000=Rift
+Title_13000=Dungeon Difficulty
+Title_14000=Ranking
+Title_15000=Manage Pets
+Title_16000=Manage Achievements
+Title_17000=Enchant Equipment
+Title_18000=Endless Tower
+Title_19000=Unseal
+Title_20000=Room of Duty
+Title_21000=Magic Gem Mine
+Title_22000=Zen Dungeon
+Title_23000=Material Item Dungeon
+Title_25000=Manage Artifacts
+Title_26000=Obtained Artifact
+Title_27000=Guild
+Title_28000=Contribution
+Title_29000=AI Arena
+Title_30000=Lupa's Labyrinth
+Title_31000=Your true adventure begins!
+Title_35000=Lupa's Labyrinth
+Title_37000=Growing and Evolving Pets
+Title_38000=Wing Growth Stone
+Title_39000=Monster Invasion
+Title_40000=Monster Invasion
+Title_41000=Monster Invasion
+Title_42000=Field Boss Raid
+Title_43000=Field Boss Raid
+Title_44000=Field Boss Raid
+Title_45000=3:3 Co-op Mode
+Title_47000=Pit of the Dead
+Title_48000=Awakened Artifact
+Title_49000=Airship Defense
+Title_53000=Unlocked the power of the Talisman!
+Title_54000=Crafting and Growing Talismans
+Title_55000=Obtained a Talisman Core!
+Title_56000=Extract Ether & Convert Sealstones
+Title_57000=Extract Ether & Convert Sealstones
+Title_58000=Reached Level 25!
+Title_59000=Reached Level 45!
+Title_60000=Reached Level 65!
+Title_61000=Ohrdor
+Title_62000=Artifact acquired!
+Title_63000=Reached Level 70!
+Title_64000=New Continent: Noria
+Title_65000=1st Rebirth
+Title_66000=Crescent Moon Island
+Title_67000=PvP Area
+Title_68000=Reached Level 80!
+
+[Contents]
+Contents_1000=<font color='#FDD889'>You can move and attack</font> by left-clicking the mouse.<br>Left-click on the ground to move.<br>Left-click on an enemy to attack.
+Contents_2000=Left-click on <font color='#FDD889'>Linda</font> on the screen to receive a <font color='#FDD889'>quest</font>.
+Contents_3000=When you learn a new skill, you can equip and use the skill in the skill slot on the bottom. <font color='#FDD889'>Left-click on the skill quickslot</font> to check and change available skills.
+Contents_4000=The <font color='#FDD889'>Magic Gem</font> is a very rare and important currency. You can only obtain them from the <font color='#FDD889'>Magic Gem Mine at Ohrdor - Room of Duty or the Rift</font>.
+Contents_5000=Every time your Soul level increases, you get a Soul Point. You can allocate your Soul Points to various stats in <font color='#FDD889'>Soul Chest (Z)</font>.
+Contents_6000=Use Porystals to access very special dungeons such as Lupa's Library and Ancient Archive. You can use them directly from your inventory by <font color='#FDD889'>right-clicking</font> them. The Porystal dungeons are tougher than regular dungeons. Enter them in a party.
+Contents_7000=Open your inventory and <font color='#FDD889'>right-click</font> a pet to register it to the <font color='#FDD889'>Manage Pets UI</font>.
+Contents_8000=Right-click a Gem, and then click a slotted Equipment item to equip the Gem. You can add slots to your equipment through the <font color='#FDD889'>Gemcutter</font> in town.
+Contents_9000=You can check the information of a variety of skills and equip skill crests. You can obtain <font color='#FDD889'>Expert Skills at Levels 25, 45, and 65</font>.
+Contents_10000=When the Overdrive Gauge reaches the max level, the Rift goes into overdrive.<br>When the Rift goes into overdrive, <font color='#FDD889'>the Rift entry count is unlimited</font>.
+Contents_11000=World map supports <font color='#FDD889'>Auto Move</font>. <font color='#FDD889'>Right-click</font> on a location you wish to move to.
+Contents_12000=The Rift has <font color='#FDD889'>monsters that match the player's level</font>. This dungeon is especially <font color='#FDD889'>abundant in items and Magic Gems</font>.
+Contents_14000=Each ranking category has a different update frequency and rewards.<br>You can check other players' information on the ranking page.
+Contents_15000=Pets provide additional character stats when grown and evolved. Growing pets require <font color='#FDD889'>material pets</font>.
+Contents_16000=When you accomplish achievements, you'll get <font color='#FDD889'>Achievement Points, items, and titles</font>. Achievement Grade rewards include rare items.
+Contents_17000=<font color='#FDD889'>Jewels of Bless</font> can be used to enchant items. Weapons and Armor can be enchanted.<br>Lots of <font color='FF0000'>Zen and Magic Gems</font> are required for enchanting.
+Contents_18000=The Endless Tower consists of 150 stages. Clear a stage <font color='#FDD889'>quickly enough</font>, and you get to skip multiple stages.<br>This Stage Skip feature is useful for bypassing tough stages.
+Contents_19000=If the <font color='#FDD889'>10-minute time limit</font> is exceeded, you fail the challenge. <br>If the Blood Castle clear time is <font color='#FDD889'>shorter</font>, you will get greater rewards!
+Contents_20000=The Room of Duty leads you to various <font color='#FDD889'>mission maps</font> such as Endless Tower and Blood Castle. A mission map is an event battlefield with unique play rules and rewards.
+Contents_21000=Defeat monsters to <font color='#FDD889'>fill the Trenta Gauge</font> to move to the next floor.<br>You can obtain <font color='#FDD889'>a large number of Magic Gems</font> at the Magic Gem Mine.
+Contents_22000=Defeat monsters to <font color='#FDD889'>fill the Trenta Gauge</font> and move to the next floor.<br>You can obtain <font color='#FDD889'>a large amount of Zen</font> in the Secret Vault.
+Contents_23000=Hunt monsters and <font color='#FDD889'>fill the Trenta gauge</font> to move on to the next floor.<br>This garden is <font color='#FDD889'>abundant in crafting materials and rare potions</font>.
+Contents_25000=You can craft and equip artifacts when you reach <font color='#FDD889'>level 65</font>. You can upgrade artifacts by earning artifact EXP in <font color='#FDD889'>Lupa's Labyrinth</font>.<br>As artifacts upgrade, their effects are enhanced.
+Contents_26000=You can check and equip artifacts in Manage Artifact (X). To grow an artifact, you must <font color='#FDD889'>select it as your Growth Artifact</font>.<br>Artifacts that are not selected as the Growth Artifact cannot be grown.
+Contents_27000=You can join a <font color='#FDD889'>Guild or check Guild information</font> in the Guild window.
+Contents_28000=<font color='#FDD889'>Contribution</font> is the Guild money used for guild activities. You will be able to use it at the Contribution Shop after the Faction War is implemented in the game.
+Contents_29000=You can engage in a <font color='#FDD889'>1-on-1 battle with another player's AI character</font> in the Arena.<br>You will earn a small number of <font color='#FDD889'>Magic Gems</font> after winning an Arena match.
+Contents_30000=Hunt monsters inside the Labyrinth, and your <font color='#FDD889'>Charge Rate</font> increases.<br>You must <font color='#FDD889'>reach 100% Charge Rate within the time limit to get the best reward.</font>Your reward decreases if you fail to max out your Charge Rate.
+Contents_31000=LAMUS features a variety of functions for your convenience for easy and fast upgrade.<br>Click <font color='#FDD889'>Details</font> for more info.
+Contents_35000=Make sure to craft an Artifact before entering the Labyrinth. After crafting an artifact, it must be selected as an Artifact before upgrading.<br><font color='FDD889'>An artifact will not gain artifact EXP if it is not selected!</font>
+Contents_37000=Pets need <font color='FDD889'>Pet EXP</font> to grow. Pets gain EXP when your character does.<br>You can <font color='FDD889'>Evolve</font> pets to increase their <font color='FDD889'>Pet tier</font>.
+Contents_38000=Explore the Endless Tower, and you can get <font color='FDD889'>Seals of Power</font> as a reward.<br>Seals of Power are used for buying Wing Growth/Evolution Stones, which are used for growing Wings.<br>Go to the Endless Tower Merchant in Ohrdor.
+Contents_39000=The objective of Monster Invasion mode is to protect the 3 wardstones in the map and eliminate the invasion boss monster.<br>It's important to have an adequate number of players protecting each of the 3 wardstones before all them are destroyed.
+Contents_40000=The objective of Monster Invasion mode is to protect the 3 wardstones in the map and eliminate the invasion boss monster.<br>It's important to have an adequate number of players protecting each of the 3 wardstones before all them are destroyed.
+Contents_41000=The objective of Monster Invasion mode is to protect the 3 wardstones in the map and eliminate the invasion boss monster.<br>It's important to have an adequate number of players protecting each of the 3 wardstones before all them are destroyed.
+Contents_42000=The objective of Field Boss Raid mode is to <font color='FDD889'>eliminate the boss monster within the time limit</font>. The Raid Boss monster flees when it loses HP. You can stop its escape by inflicting great damage.
+Contents_43000=The objective of Field Boss Raid mode is to <font color='FDD889'>eliminate the boss monster within the time limit</font>. The Raid Boss monster flees when it loses HP. You can stop its escape by inflicting great damage.
+Contents_44000=The objective of Field Boss Raid mode is to <font color='FDD889'>eliminate the boss monster within the time limit</font>. The Raid Boss monster flees when it loses HP. You can stop its escape by inflicting great damage.
+Contents_45000=In 3:3 Co-op mode, the team that gains more Kill Points than the other within the time limit wins.<br>The winners get <font color='FDD889'>Fighter's Tokens</font>, which can be exchanged for various other in-game resources through the PvP Merchant in Ohrdor.
+Contents_47000=<br>- <font color='#FDD889'>Multiple Boss Monsters</font> appear in the Pit of the Dead!<br>- Clear each stage quickly for a chance to meet the <font color='#FDD889'>Black Marketeer</font>, who sells rare items!
+Contents_48000=You have obtained an <font color='#FDD889'>Awakened Artifact</font>. Awakened Artifacts can be grown through the <font color='#FDD889'>Awakened Labyrinth</font>.
+Contents_49000=You have entered the <font color='#FDD889'>Airship Defense</font>.<br>Use your <font color='#FDD889'>Talisman skills</font> and protect the airship!
+Contents_53000=The <font color='#FDD889'>Ancient Artifacts, Talismans</font><font color='#FDD889'>, have been unlocked.<br>Press the <font color='#FDD889'>Details</font> button for more details.
+Contents_54000=Craft and grow <font color='#FDD889'>Talismans</font> to get Book Points.<br>Your Book Level increases as you gain Book Points, and your character stats improve significantly.
+Contents_55000=<font color='#FDD889'>Talisman Cores</font> are the main resources used for crafting and breaking through Talismans.<br>You can craft and break through Talismans through <,> in the Talisman Book UI.
+Contents_56000=You can obtain <font color='#FDD890'>useful items</font> from materials you extracted from <font color='#FDD890'>Cubes</font>.
+Contents_57000=You can obtain <font color='#FDD890'>useful items</font> from materials you extracted from <font color='#FDD890'>Cubes</font>.
+Contents_58000=You can learn a <font color='#FDD889'>new Expert Skill!</font><br>- You've acquired a <font color='#FDD889'>new Expert Skill Slot</font>.<br>- Open your <font color='#FDD889'>Skill window (K)</font> to check.
+Contents_59000=You can learn a <font color='#FDD889'>new Expert Skill!</font><br>- You've acquired a <font color='#FDD889'>new Expert Skill Slot</font>.<br>- Open your <font color='#FDD889'>Skill window (K)</font> to check.
+Contents_60000=Congratulations! <font color='#FDD889'>You have reached Level 65!</font><br>- You've acquired a <font color='#FDD889'>new Expert Skill Slot</font>. <br>- You've received the <font color='#FDD889'>Growing Sprout buff</font>. <br>- You can easily learn about making progress through <font color='#FDD889'>Linda's Progression Training</font>.<br>- Press the <font color='#FDD889'>Details</font> button to see more information.
+Contents_61000=<font color='#FDD889'>Ohrdor</font> offers all the amenities you could ask for!<br>- You can enjoy various Mission Maps in the <font color='#FDD889'>Room of Duty</font>.
+Contents_62000=<font color='#FDD889'>You've acquired an Artifact!</font><br>- <font color='#FDD889'>Artifacts</font> can significantly boost your progress. Each type offers a different effect.<br>- Press the <font color='#FDD889'>Details</font> button for more information.
+Contents_63000=Congratulations! <font color='#FDD889'>You've reached Level 70!</font><br>- You can now acquire a <font color='#FDD889'>Talisman.</font><br>- You can now try your luck in <font color='#FDD889'>Lupa's Awakened Labyrinth</font>.<br>- You can now access <font color='#FDD889'>Iris's Training Center</font>.<br>- Press the <font color='#FDD889'>Details</font> button for more information.
+Contents_64000=<font color='#FDD889'>Your adventure on Noria begins!</font><br>- Have you been taking <font color='#FDD889'>Linda's Progression Training?</font><br>- Have you equipped your <font color='#FDD889'>Artifacts?</font>? <br>- The difficulty level will increase in Noria. Make sure you're fully prepared!
+Contents_65000=<font color='#FDD889'>A new power has awakened!</font><br>- You've acquired a <font color='#FDD889'>new Expert Skill Slot</font>.<br>- You can use a <font color='#FDD889'>new Soul Box</font>!
+Contents_66000=<font color='#FDD889'>A new area in Noria has been unlocked.</font><br>- Your adventure in Noria continues!<br>- You can now grow your character to Level 80.
+Contents_67000=This is a <font color='#FDD889'>PvP area</font>!<br>- You can <font color='#FDD889'>attack</font> any character except your party members. <br>- You can find <font color='#FDD889'>the materials for crafting Unique weapons</font> through the PvP quests.
+Contents_68000=Congratulations! <font color='#FDD889'>You've reached Level 80!</font><br>- You can continue to grow your character through the <font color='#FDD889'>Mission Maps</font>.<br>- Test your mettle in the <font color='#FDD889'>Epic Dungeon and in Mythic difficulty</font>!<br>- You can perform rebirth when you reach <font color='#FDD889'>Soul Level 300</font>.<br>- Press the <font color='#FDD889'>Details</font> button for more information.
+
+[SuperGuide_31000]
+SuperGuideTitle=Important information for your adventures!
+Content_Title_1=Auto Move
+Content_SubTitle_1=Automatically moves you to a desired location.
+Content_Text_1=- Right-click on a location on the mini map or the world map. Then your character will automatically move to that location.
+Content_GuideLink_1=1001001
+Content_Image_1=SuperGuide_01
+Content_Title_2=Auto Pickup
+Content_SubTitle_2=You can pick up all nearby items at once.
+Content_Text_2=- Pressing the F key near a dropped item will pick up all items nearby.
+Content_GuideLink_2=1001002
+Content_Image_2=SuperGuide_02
+Content_Title_3=Alt and Shift
+Content_SubTitle_3=Alt and Shift are important function keys.
+Content_Text_3=- While Pressing the Alt key, You can control the UI or load the menu by Right-clicking on another character.<br>- While Pressing the Shift key, You can attack without moving from your current location.
+Content_GuideLink_3=1000002
+Content_Image_3=SuperGuide_03
+
+[SuperGuide_32000]
+SuperGuideTitle=You reached level 25, new content is unlocked!
+Content_Title_1=First Expert Skill
+Content_SubTitle_1=You can learn powerful expert skills.
+Content_Text_1=- Expert skills are extremely powerful skills that you can learn only at Level 25, 45, and 65.<br>- To learn these skills, perform the Expert Skill quests available at the Hall of Light in Ohrdor.
+Content_GuideLink_1=1003002
+Content_Image_1=SuperGuide_04
+Content_Title_2=Metropolis Ohrdor
+Content_SubTitle_2=Ohrdor, the biggest city in the MU Continent, provides all the possible convenience features.
+Content_Text_2=- You can play various Mission maps in the Room of Duty in Ohrdor.<br>- You can learn Expert skills, use the Trade Broker, and meet the Guild Manager.
+Content_GuideLink_2=1023001
+Content_Image_2=SuperGuide_05
+Content_Title_3=Fabrice's Garden
+Content_SubTitle_3=Fabrice's Garden is optimized for material farming.
+Content_Text_3=- It's accessible through the Room of Duty in Ohrdor.<br>- It's abundant in high-grade materials and potions.
+Content_GuideLink_3=1023006
+Content_Image_3=SuperGuide_14
+
+[SuperGuide_33000]
+SuperGuideTitle=You reached level 45, new content is unlocked!
+Content_Title_1=Second Expert Skill
+Content_SubTitle_1=Your can learn another expert skill.
+Content_Text_1=- Expert skills are essential as they provide powerful Passive effects that remain active even if they are not equipped.<br>- You can unlock your second Expert Skill slot by performing the related skill quests in the Hall of Light in Ohrdor.
+Content_GuideLink_1=1003002
+Content_Image_1=SuperGuide_04
+Content_Title_2=Litenberg Continent
+Content_SubTitle_2=Experience the new continent!
+Content_Text_2=- At Level 45 and higher, you can move on to the Litenberg Continent.<br>- Haven't you visited the Litenberg Continent yet? Check your Main quests! More exciting adventures await.
+Content_GuideLink_2=1017002
+Content_Image_2=SuperGuide_08
+Content_Title_3=AI Arena
+Content_SubTitle_3=The AI Arena has been unlocked.
+Content_Text_3=- Try fighting the AI-controlled characters of other players in the AI Arena. You'll get Magic Gems if you win.
+Content_GuideLink_3=1023003
+Content_Image_3=SuperGuide_09
+
+[SuperGuide_34000]
+SuperGuideTitle=Congratulations on reaching Level 65!
+Content_Title_1=Mythic Difficulty
+Content_SubTitle_1=An Axis of the Highest Difficulty Level
+Content_Text_1=- Take up the challenge of the Mythic level, one of the highest difficulty levels in the game.<br>- The last dungeon on each continent has Mythic difficulty available.<br>- Playing Mythic difficulty dungeons fuels your character's growth. Once you master the Mythic difficulty, you can move on to the Epic dungeons.
+Content_GuideLink_1=1019004
+Content_Image_1=SuperGuide_13
+Content_Title_2=Lupa's Labyrinth
+Content_SubTitle_2=Artifact Growth Content
+Content_Text_2=- Lupa's Labyrinth is a unique Mission map whose difficulty can be chosen from 100 different levels.<br>- It's accessible through the Room of Duty in Ohrdor.<br>- You can create and grow artifacts through Lupa's Labyrinth.
+Content_GuideLink_2=1023007
+Content_Image_2=SuperGuide_11
+Content_Title_3=Endless Tower
+Content_SubTitle_3=Grow Your Wings!
+Content_Text_3=- The Endless Tower consists of 150 floors and has a high difficulty level.<br>- Explore the Endless Tower and get Seals of Power and Seals of Transcendence, which can be exchanged for wing growth items through the Endless Tower merchant NPC in Ohrdor.
+Content_GuideLink_3=1023002
+Content_Image_3=SuperGuide_06
+
+[SuperGuide_51000]
+SuperGuideTitle=New Continent: Noria
+Content_Title_1=Welcome to Noria
+Content_SubTitle_1=Climb to Level 70!
+Content_Text_1=- Explore the Noria continent and increase your character up to level 70.<br>- Experience new stories and arm yourself with powerful level-70 equipment!
+Content_GuideLink_1=1017002
+Content_Image_1=SuperGuide_16
+Content_Title_2=Talismans
+Content_SubTitle_2=Boost Your Power!
+Content_Text_2=- At level 70, Talisman content is unlocked.<br>- Acquire the power of the ancient Supana tribe and fight stronger enemies!
+Content_GuideLink_2=1047001
+Content_Image_2=SuperGuide_17
+Content_Title_3=Awakened Artifacts
+Content_SubTitle_3=Awakened Artifact Content
+Content_Text_3=- At level 70, you can enter Lupa's Labyrinth in Awakened mode.<br>- In Awakened mode, you can obtain materials to craft Awakened Artifacts and gain new effects.
+Content_GuideLink_3=1024006
+Content_Image_3=SuperGuide_18
+
+[SuperGuide_52000]
+SuperGuideTitle=Congratulations on reaching level 70!
+Content_Title_1=Talismans
+Content_SubTitle_1=The Strongest Artifacts!
+Content_Text_1=- Craft Talismans and grow stronger.<br>- By increasing your Talisman Book levels, you can increase your Combat Power and other stats.<br>- Collect and grow Talismans regularly for a big advantage!
+Content_GuideLink_1=1047001
+Content_Image_1=SuperGuide_20
+Content_Title_2=Airship Defense
+Content_SubTitle_2=Use Talisman Skills!
+Content_Text_2=- Defend an airship against 20 waves of powerful invaders from Pandemonium.<br>- Accessible from the Guild Harbor in Ohrdor.<br>- Use Talisman skills to triumph in battle.
+Content_GuideLink_2=1048001
+Content_Image_2=SuperGuide_21
+Content_Title_3=Lupa's Awakened Labyrinth
+Content_SubTitle_3=More Powerful Labyrinth
+Content_Text_3=- Lupa's Awakened Labyrinth consists of a total of 50 levels and has a very high difficulty level.<br>- It's accessible from the Room of Duty, just like its normal version.<br>- Craft and grow Awakened Artifacts!
+Content_GuideLink_3=1023009
+Content_Image_3=SuperGuide_22
+
+[SuperGuide_53000]
+SuperGuideTitle=Talismans
+Content_Title_1=Talismans
+Content_SubTitle_1=Craft Talismans!
+Content_Text_1=- You can now use the powers of strong spirits residing in magical Talismans.<br>- Craft Talismans using Talisman Cores.<br>- Search for Talisman Cores across the MU continent and boost your power.
+Content_GuideLink_1=1047001
+Content_Image_1=SuperGuide_23
+Content_Title_2=Talisman Book
+Content_SubTitle_2=Collect Talismans!
+Content_Text_2=- With the Talisman Book (hotkey: , ), you can craft and grow Talismans.<br>- When you grow your Book, your character stats also increase.<br>- Complete your Talisman Book!
+Content_GuideLink_2=1047004
+Content_Image_2=SuperGuide_24
+Content_Title_3=Talisman Skills
+Content_SubTitle_3=New Special Skills!
+Content_Text_3=- You can equip Talismans in Talisman Drivers and use their unique skills.<br>- The Talisman skills, however, are only compatible with certain in-game content.<br>- Create different Talisman skill sets for different combat situations.
+Content_GuideLink_3=1047005
+Content_Image_3=SuperGuide_25
+
+[SuperGuide_60000]
+SuperGuideTitle=Congratulations on reaching Level 65!
+Content_Title_1=Expert Skill
+Content_SubTitle_1=New Expert Skill and Slots
+Content_Text_1=- You can learn a new Expert Skill. <br>- The third Expert Skill Slot has been unlocked.
+Content_GuideLink_1=1003002
+Content_Image_1=SuperGuide_04
+Content_Title_2=Growing Sprout
+Content_SubTitle_2=Powerful growth-support buff
+Content_Text_2=- You've received the Growing Sprout buff!<br>- Certain Mission Maps and dungeons will grant you extra rewards. <br>- Your party members will also receive extra rewards!
+Content_GuideLink_2=1049002
+Content_Image_2=SuperGuide_27
+Content_Title_3=Linda's Progression Training
+Content_SubTitle_3=Easy and quick guide to growth
+Content_Text_3=- Complete simple missions to learn about various features and earn generous rewards.
+Content_GuideLink_3=1049001
+Content_Image_3=SuperGuide_28
+
+[SuperGuide_62000]
+SuperGuideTitle=You've acquired an Artifact!
+Content_Title_1=Artifacts
+Content_SubTitle_1=Powerful growth items
+Content_Text_1=- You've received an Artifact from Kundun!<br>- There are various types of Artifacts. Each Artifact has a powerful effect.<br>- Open the Artifacts window (X) to check and craft Artifacts.
+Content_GuideLink_1=1024001
+Content_Image_1=SuperGuide_12
+Content_Title_2=Lupa's Labyrinth
+Content_SubTitle_2=Artifact-growth content
+Content_Text_2=- Lupa's Labyrinth is a unique Mission Map with up to 100 stages of difficulty.<br>- Defeat the Rift Predator from the Labyrinth and earn Artifact EXP! <br>- Lupa's Labyrinth is located in the Room of Duty.
+Content_GuideLink_2=1023007
+Content_Image_2=SuperGuide_11
+Content_Title_3=Artifact Alchemy
+Content_SubTitle_3=Acquiring items from Artifacts
+Content_Text_3=- Artifacts beyond certain levels can be processed through alchemy. <br>- Artifact alchemy can yield highly valuable materials.
+Content_GuideLink_3=1024004
+Content_Image_3=SuperGuide_29
+
+[SuperGuide_63000]
+SuperGuideTitle=Congratulations on reaching Level 70!
+Content_Title_1=Talismans
+Content_SubTitle_1=Strongest Artifact
+Content_Text_1=- Craft Talismans and grow stronger.<br>- By increasing your Talisman Book Levels, you can increase your Combat Power and other stats.<br>- Collect and grow Talismans regularly for your growth!
+Content_GuideLink_1=1047001
+Content_Image_1=SuperGuide_20
+Content_Title_2=Awakened Artifacts
+Content_SubTitle_2=Unlock the true power of Artifacts
+Content_Text_2=- Awakened Artifacts inherit the effects of their normal counterparts and also gain a more powerful effect. <br>- Try crafting Awakened Artifacts to unleash even more power!
+Content_GuideLink_2=1024006
+Content_Image_2=Coach_30
+Content_Title_3=Iris's Training Center
+Content_SubTitle_3=A place of learning for accelerated growth
+Content_Text_3=- You can gain Soul EXP quickly at Iris's Training Center in Ethedrean.<br>- Collect Iris Tokens to purchase various items for your adventure.
+Content_GuideLink_3=1049003
+Content_Image_3=SuperGuide_30
+
+[SuperGuide_68000]
+SuperGuideTitle=Congratulations on reaching Level 80!
+Content_Title_1=Room of Duty
+Content_SubTitle_1=Various Mission Maps
+Content_Text_1=- The Room of Duty offers various Mission Maps such as the Endless Tower and Lupa's Labyrinth. <br>- You can grow your character endlessly through Mission Maps.
+Content_GuideLink_1=1023001
+Content_Image_1=SuperGuide_26
+Content_Title_2=Epic and Mythic Dungeons
+Content_SubTitle_2=More adventure awaits
+Content_Text_2=- Epic and Mythic difficulty dungeons await you across the continent! <br>- Defeat bosses and earn a wide variety of rewards!
+Content_GuideLink_2=1020003
+Content_Image_2=SuperGuide_32
+Content_Title_3=Rebirth
+Content_SubTitle_3=A newly awakened power
+Content_Text_3=- Rebirth is available when you reach Soul Level 300. <br>- You can use the Rebirth Soul Box when you're reborn."
+Content_GuideLink_3=1051001
+Content_Image_3=SuperGuide_33
+

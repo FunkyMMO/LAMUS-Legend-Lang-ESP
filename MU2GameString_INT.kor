@@ -1,0 +1,27 @@
+[Event]
+Event_3_Tooltip_Description=<font color='#FDC243'>부활절 퍼즐 이벤트</font>
+Event_3_Tooltip_Control=: 이벤트 정보 보기
+Puzzle_1_EventDuration=이벤트 진행 기간 : 2018년 3월 27일 정기 점검 이후 ~ 2018년 04월 09일 정기 점검까지
+Puzzle_1_EventNotify=올 부활절엔 '뮤 레전드'와 함께 재미난 퍼즐도 맞추고<br />부활절 토끼들도 찾아보세요!
+Puzzle_1_SuccessCount=퍼즐 완성 횟수 %d / 14
+Puzzle_1_PuzzleInfoFoot=퍼즐을 완성하고 선물받기 탭에서 특별한 효과를 가진 초콜릿 토끼들도 받아가세요!
+Puzzle_1_GetPuzzle=획득한 퍼즐 조각
+Puzzle_1_Stamp_Title=퍼즐을 1회 완성시킬 때마다 광란의 부활절 토끼들을 1개씩 받을 수 있습니다.
+Puzzle_1_Stamp_EventDescriptionText=퍼즐 완성 횟수 %d / 14
+Puzzle_1_Puzzle_HaveCount=%d
+Puzzle_1_Puzzle_Label=조각 퍼즐 맞추기
+Puzzle_1_Stamp_Label=퍼즐 완성 ! 선물 받기 !!
+Puzzle_1_Stamp_GetinLabel=보상받기
+Puzzle_1_Stamp_DoneText=수령 완료
+Puzzle_1_CloseBtnLabel=닫기(Esc)
+Puzzle_1_PuzzleSetupBtnLable=퍼즐 맞추기
+Puzzle_1_PuzzleNextBtnLable=다음 퍼즐
+Puzzle_1_StampRewardMessage=보상 아이템을 수령하였습니다.
+PSR_1_DurationTitle=이벤트 진행 기간 : 2018년 05월 29일 점검 후 ~ 2018년 06월 12일 점검 전까지
+
+[EventPopup]
+Event_3=오르도르에 있는 레이라를 통해 이벤트에 참가할 수 있습니다!!<br />2018년 03월 27일 ~ 2017년 04월 09일<br />
+Event_4=10월이 되면 카롤산드리아에 수상한 호박들이 나타난다고 전해지는데...<br />1일 입장 횟수 : <font color='#FDC243'>2회</font><br />할로윈 던전 입장 횟수 초기화는 <font color='#FDC243'>매일 오전 05:00 </font>입니다
+Event_5=오르도르에 있는 오락실 관리인 옆 오락기를 통해 참가 할 수 있습니다.<br />2018년 05월 29일 점검 후~ 2018년 06월 12일 점검 전까지
+Event_11=마을에 있는 이벤트 도우미를 통해 이벤트에 참가할 수 있습니다.<br />2018년 11월 6일 ~ 2018년 12월 4일 점검 전까지
+

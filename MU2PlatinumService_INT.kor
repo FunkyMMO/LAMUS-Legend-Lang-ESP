@@ -1,0 +1,50 @@
+[Common]
+Apply_1=적용 중
+Apply_2=사용
+Apply_3=수령
+OX_O=O
+OX_X=-
+
+[PlatinumService]
+Service_501=골드 서비스 선물과 마정석 1,000개
+Service_502=소지품 슬롯 1개 추가
+Service_503=추가 감정 표현 사용 가능
+Service_504=원격 순간 이동 사용 가능
+Service_505=원격 우편 사용 가능
+Service_506=원격 창고 사용 가능
+Service_507=거래 중개인 젠 판매 등록 개수 +10
+Service_508=거래 중개인 젠 판매 수수료 3%
+Service_509=거래 중개인 판매 시간 옵션 추가 (72시간)
+Service_1001=원격 분해
+Service_1002=원격 상점
+Service_1003=골드 서비스 선물을 플래티넘 서비스 선물로 변경
+Service_1004=소지품 슬롯 1개 추가
+Service_1005=몬스터 대상 공격력 +5%
+Service_1006=영혼 경험치 획득량 +30%
+Service_1007=아이템 획득 확률 +20%
+Service_1008=옵션 재설정 선택지 1개 추가
+Service_1009=연금 슬롯 1개 추가
+Service_1010=시공의 틈 입장 횟수 증가 +2
+Service_1011=AI 투기장 입장 횟수 증가 +1
+Service_1012=마정석, 파브리스, 비밀금고 던전 입장 횟수 증가 +1
+Service_1013=거래 중개인 레드젠 판매 등록 개수 +3
+Service_1014=거래 중개인 레드젠 판매 수수료 3%
+
+[MU2GFxPartyView]
+ListItem_0=플래티넘 등급 정보
+ListItem_1=순간 이동
+ListItem_2=개인 창고
+ListItem_3=계정 창고
+ListItem_4=원격 분해
+ListItem_5=원격 물약 상점
+ListItem_6=원격 우편
+ListCmd_0=0
+ListCmd_1=2001
+ListCmd_2=2004
+ListCmd_3=2003
+ListCmd_4=2005
+ListCmd_5=1006
+ListCmd_6=2002
+LS_PlatinumUser=골드 서비스 활성화
+LS_PlaytinumPlus=플래티넘 서비스 활성화
+

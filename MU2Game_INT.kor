@@ -1,0 +1,165 @@
+[MU2GFxFrontEnd_View_CharCustomize]
+LS_CreateCharMsg=캐릭터 이름은 최소 2글자, 최대 16글자입니다.¶특수문자는 두번째 글자부터 언더바(_)만 지원합니다.
+
+[MU2GFxMessageBoxPet]
+LS_PetNamingMsg=펫의 이름은 최소 2글자, 최대 16글자입니다.<br>특수문자는 두번째 글자부터 언더바(_)만 지원합니다.
+
+[MU2GFxKnightAgeCreate]
+LS_DefaultInput=최소 2글자, 최대 16글자, 특수 문자 불가능
+LS_KnightOpenDefaultMsg=등록하실 기사단의 이름을 입력하세요. (최소 2글자, 최대 16글자, 특수 문자 불가능)
+
+[MU2GFxMessageBoxChangeName]
+LS_CharInputDesc=캐릭터 이름은 최소 2글자, 최대 16글자입니다.<br>특수문자는 두 번째 글자부터 언더바(_)만 지원합니다.
+LS_KnightAgeInputDesc=기사단 이름은 최소 2글자, 최대 16글자입니다.<br>특수문자는 두 번째 글자부터 언더바(_)만 지원합니다.
+
+[MU2GFxRaidEstablishment]
+LS_DefaultRaidName=최소 2글자, 최대 16글자까지 입력하세요.
+LS_NoDominionDesc=<font color='#FF0000'>토너먼트 공격대는 출전 신청에 성공하여 출전 권한을 가진 기사단만 창설 할 수 있는 공격대 입니다!</font><br><br> - 토너먼트는 1주 단위로 발생하며, 목요일 저녁 7시부터 1차 출전 신청이 시작 됩니다.<br> - 1차 출전 신청이 종료 되고, 1차 출전 신청에 실패한 기사단을 대상으로 30분 동안 2차 출전 신청 기회를 제공합니다.<br> - 두번의 출전 신청을 통해 특정 영지에 대해 출전 권한을 얻은 경우에만 공격대를 창설 할 수 있습니다.<br> - 이미 이번 토너먼트의 출전 신청 기간이 종료 되었으므로 1주 뒤 다음 토너먼트를 노려보십시오!
+
+[MU2GFxPCCafeReward]
+LS_Caption=접속 보상
+LS_RewardCaption=접속 시간에 따른 아이템 보상
+LS_AcceptButton=수령하기
+LS_RewardActive=<font color='#fdc243'>%s_1</font>
+LS_RewardDeactive=<font color='#885f06'>%s_1</font>
+LS_RewardTimeCaption=접속시간
+LS_RewardTime=%.2d:%.2d
+LS_Time0=접속시
+LS_TimeM=%s_1분
+LS_TimeH=%s_1시간
+LS_AcceptComplete=수령 완료
+LS_LoginReward=접속 보상
+LS_LoginRewardDesc=- 골드 및 플래티넘 서비스를 이용하면 접속 시간에 따른 아이템 보상을 받을 수 있습니다.<br>- 접속 시간 보상은 매일 오전 5시에 초기화 됩니다.
+LS_ServiceCaption=골드 혜택
+LS_ServicePlus=플래티넘 혜택
+LS_ServicePlusDesc=플래티넘 서비스 적용 중에 PC방에 접속 시, 얻는 추가 혜택 입니다.
+LS_PlatinumCaption=골드 접속 보상
+LS_PlatinumPlusCaption=플래티넘 접속 보상
+
+[MU2PcRoom]
+LS_PcRoom=접속 보상
+LS_PcRoomTooltip=<font color='#fdc243'>추가 접속 보상</font><br>골드 및 플래티넘 서비스 사용자만 이용 할 수 있는 추가 접속 보상을 확인하세요!
+LS_PcRoomControl=: 열기
+
+[MU2GFxInventoryView]
+LS_InvenPlatinum1=골드 등급부터 사용 가능
+LS_InvenPlatinum2=플래티넘 등급부터 사용 가능
+
+[MU2GFxAlchemyView]
+LS_PremiumDesc[1]=플래티넘 서비스 사용자가 이용할 수 있습니다.
+LS_PremiumDesc[2]=플래티넘 서비스 사용자가 이용할 수 있습니다.
+
+[MU2GFxPlatinumServiceInfo]
+LS_PlatinumCaption=골드
+LS_PlatinumPlusCaption=플래티넘
+LS_PlatinumPlusChange=플래티넘<br>서비스 전환
+LS_PlatinumService=골드 서비스 효과
+LS_PlatinumPlusService=플래티넘 서비스 전환시 추가 효과
+
+[MU2GFxCashShopView]
+LS_EventClose=닫기(ESC)
+
+[MU2GFxExitMenu]
+LS_PCRoomService=플래티넘 효과로 최대 입장 수가 %s_1 증가하였습니다.
+
+[MU2GFxContentsGuideDetail]
+LS_PCRoomService=플래티넘 효과로 최대 입장 수가 %s_1 증가하였습니다.
+
+[TooltipMsg]
+PCCafeReward=<font color='#ffd461'>접속보상에서 얻는 특수한 아이템 보상</font><br>접속 시간에 따라 더 많은 보상을 얻어 갈 수 있습니다.<br><br>*접속 보상은 매일 오전 5시에 보상 기록이 갱신됩니다.<br>*계정당 1일 접속시간에 따라 1회 받을 수 있습니다.
+LS_PCRoomService=플래티넘 효과로 최대 입장 수가 %s_1 증가하였습니다.
+RewardIcon_50123=진한 호박 맛이 느껴집니다.
+RewardIcon_50124=특별한 맛으로 유명한 유령 사탕입니다.
+RewardIcon_50130=신비한 부활절 토끼"를 획득할 수 있습니다.
+RewardIcon_50140=퍼즐 이벤트에 참여할 수 있는 퍼즐 큐브를 얻을 수 있습니다.
+RewardIcon_50250=신비한 부활절 토끼"를 획득할 수 있습니다.
+
+[MU2GFxExitTimeOut]
+strRewardCaption=%s_1분 후에 접속 보상 선물을 받을 수 있습니다!!
+strRewardCaptionNow=지금 접속 보상을 받을 수 있습니다!!
+
+[MU2GFxTooltip_ActionBarNoticeIcon]
+LS_PlatinumTitle=접속 보상
+LS_PlatinumMain=접속 보상을 받을 수 있습니다.
+LS_PlatinumControl=: 접속 보상창 열기
+
+[MU2GFxMessageBoxPlatinumReward]
+LS_Caption=접속 보상
+
+[MU2GFxSystemMessageView]
+lsMsgPlatinumLevelUp=골드 서비스 등급이 상승하였습니다.
+lsMsgPlatinumPlusLevelUp=플래티넘 서비스 등급이 상승하였습니다.
+
+[MU2GFxSoulPassiveSkill]
+LS_Cancel=취소
+
+[MU2GFxKnightAgeInfo]
+LS_OptionReset=설정 취소
+
+[MU2GFxKnightAgeEmblem]
+LS_EmblemReset=설정 취소
+
+[MU2GFxTournamentApply]
+LS_ApplyDesc=토너먼트 경기 신청은 오직 기사단장만 가능합니다.<br>아래와 같은 규칙에 따라 2번의 토너먼트 출전 신청 기간이 존재합니다.<br><br><font color='#ffff00'>0. 영지 등급별 트로피 규칙</font><br> - 영지 등급에 따라 최소 입찰 트로피에 제한이 있습니다.<br> - 1성 영지 : 300 이상<br> - 2성 영지 : 500 이상<br> - 3성 영지 : 1,500 이상<br><br><font color='#ffff00'>1. 1차 출전 신청 규칙</font><br> - 1차 출전 신청은 목요일 저녁 7시부터 금요일 저녁 7시까지 진행 됩니다.<br> - 출전 신청에는 기사단 트로피가 소모 됩니다.<br> - 최대 경쟁률이 초과 되면 입찰 트로피를 기준으로 출전 권한을 얻습니다.<br> - 신청에 실패 시 모든 트로피를 돌려 받으며 2차 출전 신청에 참가 할 수 있습니다.<br><br><br><font color='#ffff00'>2. 2차 출전 신청 규칙</font><br> - 1차 출전 신청 종료 후 30분 간 진행 되는 추가 기간 입니다.<br> - 1차 출전 신청에서 탈락한 기사단만 신청 할 수 있습니다.<br> - 2차 출전 신청에 실패하면 이번 토너먼트에 참가 할 수 없게 됩니다.<br> - 2차 출전 신청에서는 되도록 경쟁률이 낮은 영지에 도전하는 것이 좋습니다.
+
+[MU2GFxEmpEventPopup]
+LS_Period=진행 기간:2018년 3월 20일 정기점검 이후 ~ 2018년 04월 17일 정기점검까지
+
+[MU2GFxNpcShopEventView]
+LS_ToolTipText_9503=<b><font color='#FDC243'>신비한 차크람</font></b><br><font color='#FDC243'>(아래 던전에서 보스 처치 시 획득 가능)</font></b><br>파브리스 정원-5개</b><br>마정석 광산-5개</b><br>블러드 캐슬-5개</b><br>루에리의 비밀금고-5개</b><br>용기사의 성소-10개</b><br>드래곤의 은신처-10개</b>
+
+[MU2GFxCommonDungeon]
+LS_DungeonDiffText_9040309=부활절 사냥 던전
+Dungeon_Title_9040309=부활절 사냥 던전
+Dungeon_Desc_9040309=부활절에만 열리는 던전.<br>특별한 던전에서 퍼즐 조각을 모으고 토끼를 사냥하며<br>당신의 운을 시험해보세요!
+LS_DungeonLodDescByUiType10_9040309_0=몬스터 생명<font color='#11F210'> 200%</font><br>몬스터 공격력<font color='#11F210'> 305%</font><br>재화 획득<font color='#11F210'> 200%</font><br>희귀 아이템 획득 확률<font color='#11F210'> 350%</font> 증가<br>경험치 획득<font color='#11F210'> 125%</font>
+LS_DungeonLodDescByUiType10_9040309_1=몬스터 생명<font color='#11F210'> 315%</font><br>몬스터 공격력<font color='#11F210'> 390%</font><br>재화 획득<font color='#11F210'> 220%</font><br>희귀 아이템 획득 확률<font color='#11F210'> 400%</font> 증가<br>경험치 획득<font color='#11F210'> 130%</font>
+LS_DungeonLodDescByUiType10_9040309_2=몬스터 생명<font color='#11F210'> 430%</font><br>몬스터 공격력<font color='#11F210'> 480%</font><br>재화 획득<font color='#11F210'> 240%</font><br>희귀 아이템 획득 확률<font color='#11F210'> 450%</font> 증가<br>경험치 획득<font color='#11F210'> 135%</font>
+LS_DungeonLodDescByUiType10_9040309_3=몬스터 생명<font color='#11F210'> 545%</font><br>몬스터 공격력<font color='#11F210'> 575%</font><br>재화 획득<font color='#11F210'> 260%</font><br>희귀 아이템 획득 확률<font color='#11F210'> 500%</font> 증가<br>경험치 획득<font color='#11F210'> 140%</font>
+LS_DungeonLodDescByUiType10_9040309_4=몬스터 생명<font color='#11F210'> 660%</font><br>몬스터 공격력<font color='#11F210'> 675%</font><br>재화 획득<font color='#11F210'> 280%</font><br>희귀 아이템 획득 확률<font color='#11F210'> 550%</font> 증가<br>경험치 획득<font color='#11F210'> 145%</font>
+
+[MU2GFxBossRoomAdv]
+BossRoomName_9600101=부활절 사냥 던전
+Desc1_9600101=모든 파티원이 동시에 입장해야 합니다.
+Desc2_9600101=주의!! 보스 공간에는 부활 거점이 존재하지 않습니다.
+
+[MU2GFxReturnUserEvent]
+LS_Caption=진행 기간: (2018년 3월 20일 정기점검 이후 ~ 2018년 4월 17일 정기점검까지)
+LS_Description=2018년 3월 6일 부터 접속 기록이 없는 분들께 지급되는 상자입니다.<br>소지품이 가득 차 받을 수 없을 경우 소지품을 정리 한 뒤 재접속 해 주시기 바랍니다.
+
+[MU2GFxAirShipDefenceInfo]
+LS_TimeLeftUntilNextWave=다음 스테이지까지 남은 시간
+LS_ClearWave=클리어하지 못한 스테이지
+LS_Wave=스테이지
+
+[MU2GFxLegendMarbleView]
+LS_PlayCountConditionDesc=
+
+[MU2GFxFireworksFestivalEventWidget]
+SubTitle_0=
+SubDesc_0=이벤트 기간: 2018년 11월 6일 정기점검 이후 ~ 2018년 12월 4일 정기점검까지
+
+[MU2GFxTalismanTicketReward]
+LS_InitStep1[5]=지급기간 : 2019년 4월 30일 부터 2019년 8월 6일 까지
+LS_InitStep3[4]=1.  2019년 8월 6일까지 사용 할 수 있는 기간제 아이템 입니다.<br>2.  제작 상인에게 고대 등급 탈리스만을 선별 제작할 수 있습니다.<br>3.  탈리스만 제작 티켓은 계정 공유 아이템입니다.
+LS_InitStep5[2]=<br>탈리스만 제작 티켓은 인벤토리로 지급되며, 인벤토리에 빈 공간이 없으면 획득할 수 없습니다.<br>지급된 탈리스만 제작 티켓은 2019년 8월 6일까지 사용 가능합니다.
+LS_SetStep2Term=님의 계정은 2018년 8월 7일부터 2019년 4월 2일까지
+
+[MU2GFxArtifactView]
+LS_BrannewArtifactDetailDesc=신규 유물은 [지안의 기억] 이벤트 참여 및 레전드 샵을 통해 획득할 수 있습니다.<br>- [지안의 기억] 이벤트 기간 -<br>6월 11일 ~ 7월 9일<br>- 레전드 샵 판매 기간 -<br>6월 11일 ~ 7월 9일<br>기간 종료 후에는 게임 내에서 제작할 수 있습니다.
+
+[MU2GFxArtifactBrannewWindow]
+LS_BrannewArtifactTitle=저항하라. 맞서라. 우리는 영원한 빛으로 찬란하게 기억되리라.
+LS_BrannewArtifactDesc=새로운 유물은 한정 판매 기간 동안 [지안의 기억] 이벤트를 통해 획득할 수 있습니다.<br>레전드 샵에서 신규 유물 패키지를 통해 즉시 구입하는 것도 가능합니다.
+LS_NoneBrannewArtifactTitle=새로운 유물의 힘이 느껴집니다!
+LS_NoneBrannewArtifactDesc=세상은 영웅을 탄생시키는 대장간.<br>운명은 그대들을 역경이라는 모루에 올려두고, 고난이라는 망치로 내려칠 것이다.<br>그 담금질에 굴하지 않는 자, 고통을 벗 삼아 더욱 붉게 달아오르며 날카롭게 벼려질지니.<br>한 낱 잡철로 뒹굴 것인가, 길이 남을 명검이 될 것인가는 오로지 굳건한 의지에 달렸다.<br>저항하라. 맞서라. 우리는 영원한 빛으로 찬란하게 기억되리라.
+LS_ArtifactPeriodInfo=- 이벤트 기간 : 6월 11일 ~ 7월 9일<br> - 기간 종료 후 게임 내 제작으로 획득할 수 있습니다.
+LS_ToolTipText=한정 판매 기간 동안은 이벤트와 레전드 샵으로만 획득할 수 있습니다.<br>기간 종료 후에는 기본 유물로 변경 되어 언제든 제작할 수 있게됩니다.
+LS_LegendShopBtn=레전드샵
+
+[MU2GFxBuffEvent]
+LS_Period=이벤트 기간: 2019년 5월 28일 정기점검 후 ~ 2019년 7월 9일 정기점검 전 까지
+
+[MU2NPCDialogInfo]
+TalismanTicketReward=레드젠 구매
+

@@ -1,0 +1,76 @@
+[Common]
+ErrResult=¶ Error:%s_1
+ErrFcsResult=¶ Error:%s_1, FCS Error:%s_2
+
+[ClientMessage]
+Common_Title=LAMUS Shop
+Common_Unknown=Unknown message.
+Purchase_Success=Check your storage and inventory for your purchases.
+CheckChar_NotInput=No message entered. Please check and try again.
+Gift_Success=Successfully sent the gift to %s_1.
+Cart_Title=LAMUS Shop
+Cart_Cancel=Remove all products in the cart?
+Cart_Full=The cart is full.
+Cart_Cannot=This product cannot be added to the cart.
+
+[ServerError]
+Common_Title=LAMUS Shop
+Common_Unknown=Unknown server error.
+Common_380004=The server is not using FCSA.
+Common_380005=An unknown system error has occurred.
+Common_380006=Cannot use without logging in to FCS.
+Common_380007=FCSA sendAsync() failed
+Common_380008=Failed to process on FCSA end.
+Common_380009=The WShop version does not match.
+Common_380010=Please check the character.
+Common_380011=Cannot find the requested character information, or the account being used is not an FCSA account.
+Common_380012=Already processing a different request...
+Common_380013=Not used at this moment.
+Common_380014=This event was not processed on the server end.
+Common_380015=No purchase requests.
+Common_380016=The requested Order ID does not match the received Order ID.
+Common_380017=Item creation failed on the Zone server's end.
+Common_380018=This target cannot receive gifts.
+Common_380019=Undefined task process.
+Common_380020=Cannot find the entity information in the zone.
+Common_380021=Unclear Cash information.
+Common_380022=It was not processed normally.
+Common_389999=Common Error 389999
+BillingInfo_Title=LAMUS Shop
+BillingInfo_389999=BillingInfo Error 389999
+InvenPage_Title=LAMUS Shop
+InvenPage_389999=InvenPage Error 389999
+Purchase_380017=Item creation failed. Please make sure there is enough space in your inventory, and then try again.
+Purchase_389999=Purchase Error 389999
+CheckChar_380011=Cannot find the user. Please check and try again.
+CheckChar_389999=CheckChar Error 389999
+Gift_389999=Gift Error 389999
+Pickup_380017=Item creation failed. Please make sure there is enough space in your inventory, and then try again.
+Pickup_389999=Gift Error 389999
+EventPickUp_Title=Event Storage
+EventPickUp_Unknown=Failed to load from the storage.
+
+[FCSError]
+Common_Title=LAMUS Shop
+Common_Unknown=Stopped because of an unknown error.
+BillingInfo_Unknown=Failed to load the currency information because of an unknown error.
+InvenPage_Unknown=Failed to load the storage because of an unknown error.
+Purchase_Unknown=Stopped because of an unknown error.
+Purchase_93402=This product is no longer available for purchase. Please check and try again.
+Purchase_93408=This item's purchase period has expired. Please check and try again.
+Purchase_93401=No products left. Please check and try again.
+Purchase_93117=Not enough regular/Redzen to buy the items.
+Purchase_90133=Not enough Cash to buy the items.
+Purchase_90309=Your Cash is locked and can't be used for purchasing items. Please update your Cash settings in G Coin.
+Purchase_80805=This account is restricted from making purchases. Cannot proceed with the order.
+Gift_Unknown=Stopped because of an unknown error.
+Gift_93117=Not enough regular/Redzen to send the item gift.
+Gift_90133=Not enough Cash to send the item gift.
+Gift_93408=This item's gifting period has expired. Please check and try again.
+Gift_93401=No products left. Please check and try again.
+Gift_90309=Your Cash is locked and can't be used for sending item gifts. Please update your Cash settings in G Coin.
+Gift_93402=This product is no longer available for purchase. Please check and try again.
+Gift_93416=You can't send gifts to a character in the same account.
+PickUp_Unknown=Stopped because of an unknown error.
+Pickup_90309=Your Cash is locked and can't be used. Please update your Cash settings in G Coin.
+

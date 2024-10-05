@@ -1,0 +1,120 @@
+[Common]
+Apply_1=In use
+Apply_2=Use
+Apply_3=Claim
+OX_O=O
+OX_X=-
+
+[PlatinumService]
+Service_101=Everyday Free Login Boxes
+Service_103=Additional emoticons
+Service_104=Remote Teleport <font color='#37C7DF'>(F2)</font>
+Service_105=Remote Personal Storage available <font color='#37C7DF'>(F3)</font>
+Service_106=Remote Account Storage available <font color='#37C7DF'>(F4)</font>
+Service_107=Remote Dismantlement <font color='#37C7DF'>(F5)</font>
+Service_108=Remote Potion Shop <font color='#37C7DF'>(F6)</font>
+Service_109=Remote Mail Box <font color='#37C7DF'>(F7)</font>
+Service_110=Additional Trade Broker item registration +10
+Service_111=Trade Broker fee (Zen) and (Redzen) changed to 6%
+Service_112=Trade Broker 72-hour registration option
+Service_201=1 Gold Box and 60,000 Magic Gems every day
+Service_202=2 additional inventory slots
+Service_203=Additional emoticons
+Service_204=Teleport enabled
+Service_205=Remote Mail enabled
+Service_206=Trade Broker Slots +5
+Service_207=Trade Broker fee (Zen) changed to 3%
+Service_208=Trade Broker 72-hour registration option
+Service_301=1 Gold Box and 70,000 Magic Gems every day
+Service_303=2 additional inventory slots
+Service_304=Additional emoticons
+Service_305=Teleport enabled
+Service_306=Remote Mail enabled
+Service_307=Remote Account Storage
+Service_308=Remote Personal Storage
+Service_309=Trade Broker item registration count +8
+Service_310=Trade Broker fee (Zen) changed to 3%
+Service_311=Trade Broker 72-hour registration option
+Service_401=1 Gold Box and 100,000 Magic Gems every day
+Service_402=2 additional inventory slots
+Service_403=Additional emoticons
+Service_404=Teleport enabled
+Service_405=Remote Mail enabled
+Service_406=Remote Account Storage
+Service_407=Remote Personal Storage
+Service_408=Remote Dismantlement
+Service_409=Trade Broker item registration count +8
+Service_410=Trade Broker fee (Zen) changed to 3%
+Service_411=Trade Broker 72-hour registration option
+Service_501=Everyday Free Login Boxes
+Service_503=Additional emoticons
+Service_504=Remote Teleport <font color='#37C7DF'>(F2)</font>
+Service_505=Remote Personal Storage available <font color='#37C7DF'>(F3)</font>
+Service_506=Remote Account Storage available <font color='#37C7DF'>(F4)</font>
+Service_507=Remote Dismantlement <font color='#37C7DF'>(F5)</font>
+Service_508=Remote Potion Shop <font color='#37C7DF'>(F6)</font>
+Service_509=Remote Mail Box <font color='#37C7DF'>(F7)</font>
+Service_510=Additional Trade Broker item registration +10
+Service_511=Trade Broker fee (Zen) and (Redzen) changed to 6%
+Service_512=Trade Broker 72-hour registration option
+Service_1002=Unlocked Full Inventory Tabs
+Service_1003=Everyday Free Login Boxes
+Service_1004=Regular Gift upgraded to Premium Service Gift
+Service_1005=Daily Free Resurrection +10
+Service_1006=Pet Upgrade Slot +2 (Premium)
+Service_1007=Pet Adventure Tokens +2 (Premium)
+Service_1009=Attack against monsters +3%
+Service_1010=Soul EXP Gain +100%
+Service_1011=Item Drop Rate +20%
+Service_1012=1 extra Option Reset choice
+Service_1013=1 additional Alchemy Slot
+Service_1014=AI Arena Entry Tokens +2
+Service_1015=Trade Broker Redzen Item Registration Count +5
+Service_1016=Trade Broker fee (Zen) and (Redzen) changed to 3%
+
+[PlatinumServiceBenefit]
+Service_1=Free Magic Gems every day
+Service_2=One free item every day
+Service_3=Additional inventory slots
+Service_4=Additional emoticons
+Service_5=Teleport
+Service_6=Remote Mail
+Service_7=Account Storage
+Service_8=Personal Storage
+Service_9=Remote Dismantlement
+Service_10=Remote Shop
+Service_11=Trade Broker item registration count
+Service_12=Trade Broker fee (Zen) discount
+Service_13=Trade Broker registration period
+ServceBenefit_1=+%s_1
+ServceBenefit_2=Premium Boxes x%s_1
+ServceBenefit_3=+%s_1
+ServceBenefit_4=%s_1
+ServceBenefit_5=%s_1
+ServceBenefit_6=%s_1
+ServceBenefit_7=%s_1
+ServceBenefit_8=%s_1
+ServceBenefit_9=%s_1
+ServceBenefit_10=%s_1
+ServceBenefit_11=+%s_1
+ServceBenefit_12=%s_1% -> %s_2%.
+ServceBenefit_13=%s_1 hours can be selected.
+
+[MU2GFxPartyView]
+ListItem_0=Grade Info
+ListItem_1=Teleport
+ListItem_2=Personal Storage
+ListItem_3=Account Storage
+ListItem_4=Remote Dismantlement
+ListItem_5=Remote Potion Shop
+ListItem_6=Remote Mail
+ListCmd_0=0
+ListCmd_1=2001
+ListCmd_2=2004
+ListCmd_3=2003
+ListCmd_4=2005
+ListCmd_5=1006
+ListCmd_6=2002
+LS_PlatinumUser=Regular Service
+LS_PlaytinumPlus=Premium Service
+

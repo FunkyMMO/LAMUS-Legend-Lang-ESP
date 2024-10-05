@@ -1,0 +1,18 @@
+[FontLib]
+FontLib=UI_Font.gfxfontlib
+FontLib=UI_Font.fonts_kr
+
+[Fonts]
+MainGlobalFont=TT UD Shin Go Con90 Pr6 M,Bold
+MainKorFont=TT UD Shin Go Con90 Pr6 M,Bold
+MainTitleFont=TT UD Shin Go Con90 Pr6 M,Bold
+
+[IME]
+MoviePath=UI_IME.IME
+
+[Translation]
+Enable=0
+
+[Global]
+No Trigger=No Trigger!
+

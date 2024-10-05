@@ -1,0 +1,12 @@
+[FamilyLevelBenefit]
+Benefit_WingGrowExp=Wing Growth Exp +%s_1
+Benefit_TalismanGrorExp=Talisman Growth Exp +%s_1
+Benefit_DungeonCnt=Dungeon Entry +%s_1
+Benefit_FreeReviveCount=Number of Free revivals +%s_1
+
+[FamilyMissionTitle]
+FamilyMissionTitle_10101=Mission 10101 Title
+
+[FamilyMissionContents]
+FamilyMissionContents_10101=Mission 10101 Content
+
