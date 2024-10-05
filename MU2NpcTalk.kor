@@ -5434,7 +5434,7 @@ Sayhello2=Oh, Guardian, you must be exhausted from fighting in the heat. Why don
 
 [Npc_9503]
 Name=Event Spellbinder Reira
-Sayhello1=The Spellbinder Release event is in progress.
+Sayhello1=The Chakram Event is in progress.
 Sayhello2=Click the event icon on the upper right side.
 
 [Npc_9504]

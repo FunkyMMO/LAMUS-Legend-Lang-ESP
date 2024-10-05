@@ -1,7 +1,6 @@
 [General]
-Upgrade=To enter this server, you need the latest free update to Unreal available from Valofe's Web site:
+Upgrade=Para entrar en este servidor, necesitas la última actualización gratuita de Unreal disponible en la web de Valofe:
 UpgradeURL=http://www.lamus.games/upgrade
-UpgradeQuestion=Do you want to launch your web browser and go to the upgrade page now?
-Version=Version `~
+UpgradeQuestion=¿Desea iniciar su navegador web e ir a la página de actualización ahora?
+Version=Versión `~
 SplashScreen_CopyrightInfo=
-

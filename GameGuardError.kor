@@ -1,34 +1,33 @@
 [InitError]
-NPGAMEMON_ERROR_EXIST=GameGuard is already running. Try again later, or restart your computer.
-NPGAMEMON_ERROR_GAME_EXIST=The game is already open, or GameGuard is already running. Close the game client and try again.
-NPGAMEMON_ERROR_INIT=GameGuard initiation error. Try again after restarting your computer, or close other programs that can cause collision.
-NPGAMEMON_ERROR_AUTH_GAMEGUARD=GameGuard files do not exist or manipulated. Install GameGuard setup file.
-NPGAMEMON_ERROR_NFOUND_GG=GameGuard files do not exist or manipulated. Install GameGuard setup file.
-NPGAMEMON_ERROR_AUTH_INI=GameGuard files do not exist or manipulated. Install GameGuard setup file.
-NPGAMEMON_ERROR_NFOUND_INI=GameGuard files do not exist or manipulated. Install GameGuard setup file.
-NPGAMEMON_ERROR_CRYPTOAPI=Some Windows system files are damaged. Install Internet Explorer again.
-NPGAMEMON_ERROR_EXECUTE=Failed to execute GameGuard. Delete GameGuard folder and try running the game again.
-NPGAMEMON_ERROR_ILLEGAL_PRG=Illegal program detected. Close unnecessary programs and try again.
-NPGMUP_ERROR_ABORT=GameGuard update canceled. If the connection fails again, adjust network or firewall settings.
-NPGMUP_ERROR_CONNECT=Failed to connect to GameGuard update server. Try again later, or check your network settings.
-NPGAMEMON_ERROR_GAMEGUARD=GameGuard initializing error, or GameGuard version is not recent. Install GameGuard setup file again and run the game.
-NPGMUP_ERROR_PARAM=ini file does not exist or manipulated. This can be solved by installing GameGuard setup file.
-NPGMUP_ERROR_INIT=npgmup.des initializing error. Delete GameGuard folder and try running the game again.
-NPGMUP_ERROR_DOWNCFG=Failed to connect to GameGuard update server. Try again later, or adjust firewall settings if you have one.
-NPGMUP_ERROR_AUTH=Failed to update GameGuard. Try again after pausing your virus vaccine, or adjust PC management program settings.
-NPGAMEMON_ERROR_NPSCAN=Failed to load modules for checking viruses and hacking tools. This can be due to lack of memory or virus infection.
-NPGG_ERROR_COLLISION=A program that conflicts with GameGuard has been found.
-NPGL_DEFAULT=An error occurred while running GameGuard.
+NPGAMEMON_ERROR_EXIST=GameGuard ya se está ejecutando. Inténtelo de nuevo más tarde, o reinicie su ordenador.
+NPGAMEMON_ERROR_GAME_EXIST=El juego ya está abierto, o GameGuard ya se está ejecutando. Cierre el cliente de juego e inténtelo de nuevo.
+NPGAMEMON_ERROR_INIT=Error de inicio de GameGuard. Inténtelo de nuevo después de reiniciar su ordenador, o cierre otros programas que puedan causar colisión.
+NPGAMEMON_ERROR_AUTH_GAMEGUARD=Los archivos de GameGuard no existen o han sido manipulados. Instale el archivo de configuración de GameGuard.
+NPGAMEMON_ERROR_NFOUND_GG=Los archivos de GameGuard no existen o no han sido manipulados. Instale el archivo de instalación de GameGuard.
+NPGAMEMON_ERROR_AUTH_INI=Los archivos de GameGuard no existen o han sido manipulados. Instale el archivo de instalación de GameGuard.
+NPGAMEMON_ERROR_NFOUND_INI=Los archivos de GameGuard no existen o han sido manipulados. Instale el archivo de instalación de GameGuard.
+NPGAMEMON_ERROR_CRYPTOAPI=Algunos archivos del sistema Windows están dañados. Vuelva a instalar Internet Explorer.
+NPGAMEMON_ERROR_EXECUTE=No se ha podido ejecutar GameGuard. Borre la carpeta GameGuard e intente ejecutar el juego de nuevo.
+NPGAMEMON_ERROR_ILLEGAL_PRG=Programa ilegal detectado. Cierre los programas innecesarios e inténtelo de nuevo.
+NPGMUP_ERROR_ABORT=Actualización de GameGuard cancelada. Si la conexión vuelve a fallar, ajuste la configuración de la red o del cortafuegos.
+NPGMUP_ERROR_CONNECT=Fallo en la conexión con el servidor de actualización de GameGuard. Inténtelo de nuevo más tarde, o compruebe la configuración de la red.
+NPGAMEMON_ERROR_GAMEGUARD=Error de inicialización de GameGuard, o la versión de GameGuard no es reciente. Instale de nuevo el archivo de configuración de GameGuard y ejecute el juego.
+NPGMUP_ERROR_PARAM=El archivo mini no existe o ha sido manipulado. Esto se puede solucionar instalando el archivo de instalación de GameGuard.
+NPGMUP_ERROR_INIT=error de inicialización de npgmup.des. Borre la carpeta GameGuard e intente ejecutar el juego de nuevo.
+NPGMUP_ERROR_DOWNCFG=Falló la conexión con el servidor de actualización de GameGuard. Inténtelo de nuevo más tarde, o ajuste la configuración del cortafuegos si tiene uno.
+NPGMUP_ERROR_AUTH=No se ha podido actualizar GameGuard. Inténtalo de nuevo después de pausar la vacuna antivirus, o ajusta la configuración del programa de gestión del PC.
+NPGAMEMON_ERROR_NPSCAN=No se han podido cargar los módulos de comprobación de virus y herramientas de hacking. Esto puede deberse a falta de memoria o a una infección por virus.
+NPGG_ERROR_COLLISION=Se ha encontrado un programa que entra en conflicto con GameGuard.
+NPGL_DEFAULT=Ha ocurrido un error al ejecutar GameGuard.
 
 [CheckError]
-NPGL_CHECK=Disconnected from GameGuard.
+NPGL_CHECK=Desconectado de GameGuard.
 
 [CallbackError]
-NPGAMEMON_COMM_ERROR=The connection to GameGuard has ended.
-NPGAMEMON_SPEEDHACK=Speed Hack has been detected.
-NPGAMEMON_GAMEHACK_KILLED=Game Hack has been detected to be running. The program has been terminated.
-NPGAMEMON_GAMEHACK_DETECT=Game Hack has been detected.
-NPGAMEMON_GAMEHACK_DOUBT=Suspicious program detected to be running. The game or GameGuard has been manipulated. Please close unnecessary programs and try again.
-NPGAMEMON_INIT_ERROR=GameGuard execution error.
-NPGAMELIB_LOGSERVER_USERBANNED=The user is restricted.
-
+NPGAMEMON_COMM_ERROR=La conexión con GameGuard ha finalizado.
+NPGAMEMON_SPEEDHACK=Se ha detectado Speed Hack.
+NPGAMEMON_GAMEHACK_KILLED=Se ha detectado que se está ejecutando Game Hack. El programa ha sido terminado.
+NPGAMEMON_GAMEHACK_DETECT=Se ha detectado Game Hack.
+NPGAMEMON_GAMEHACK_DOUBT=Se ha detectado la ejecución de un programa sospechoso. El juego o GameGuard ha sido manipulado. Por favor, cierre los programas innecesarios e inténtelo de nuevo.
+NPGAMEMON_INIT_ERROR=Error de ejecución del GameGuard.
+NPGAMELIB_LOGSERVER_USERBANNED=El usuario está restringido.

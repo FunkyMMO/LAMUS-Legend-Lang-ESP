@@ -1,24 +1,23 @@
 [Title]
-EscapePosition=Emergency Escape
-DeadMsg_Revive_Town=Resurrect in Town
-DeadMsg_Revive_Point_Same_Zone=Resurrect at Point
-DeadMsg_Revive_Point_Another_Zone=Resurrect at Point
+EscapePosition=Escape de emergencia
+DeadMsg_Revive_Town=Resucitar en la ciudad
+DeadMsg_Revive_Point_Same_Zone=Recuperar en el mismo punto
+DeadMsg_Revive_Point_Another_Zone=Resucitar en otro punto
 
-[SubTitle]
-EscapePosition=Return to the entrance to the current area.
+[Subtítulo]
+EscapePosition=Volver a la entrada de la zona actual.
 DeadMsg_Revive_Town=%s_1
 DeadMsg_Revive_Point_Same_Zone=%s_1
 DeadMsg_Revive_Point_Another_Zone=%s_1
 
-[Message]
-EscapePosition=Please use this command only if you are stuck in an inaccessible area.
-DeadMsg_Revive_Town=Return to town.
-DeadMsg_Revive_Point_Same_Zone=Resurrect at the checkpoint in the current area.
-DeadMsg_Revive_Point_Another_Zone=Resurrect at the checkpoint in a different area. Please be careful!
+[Mensaje]
+EscapePosition=Por favor, utiliza este comando sólo si estás atrapado en una zona inaccesible.
+DeadMsg_Revive_Town=Vuelve a la ciudad.
+DeadMsg_Revive_Point_Same_Zone=Recupera en el punto de control de la zona actual.
+DeadMsg_Revive_Point_Another_Zone=Recupera en el punto de control de otra zona. Por favor, ¡ten cuidado!
 
 [WaitTime]
 EscapePosition=20
-DeadMsg_Revive_Town=2
+DeadMsg_Revive_Pueblo=2
 DeadMsg_Revive_Point_Same_Zone=2
 DeadMsg_Revive_Point_Another_Zone=5
-

@@ -2060,7 +2060,7 @@ Item_1023012=Sleepless Gainox Soulstone
 Item_1023013=Greedy Goblin Soulstone
 Item_1023014=Violent Elyraq Soulstone
 Item_1023117=Protection Targash Soulstone
-Item_1023217=Cyclone Slash - Targash Soulstone
+Item_1023217=Twisting Slash - Targash Soulstone
 Item_1023317=Specter Shield - Targash Soulstone
 Item_1023417=Seeping Targash Soulstone
 Item_1023118=Burning Deslan Soulstone
@@ -2154,7 +2154,7 @@ Item_1023445=Bombardment - Orman Soulstone
 Item_1023545=Mutation - Orman Soulstone
 Item_1023046=Ferocious Elyraq Soulstone
 Item_1023146=Vicious Charge - Elyraq Soulstone
-Item_1023246=Earth Cleaver - Elyraq Soulstone
+Item_1023246=Rageful Blow - Elyraq Soulstone
 Item_1023147=Monarch's Touch - Naklokhan Soulstone
 Item_1023247=Leap Attack - Naklokhan Soulstone
 Item_1023347=Meteor Drop - Naklokhan Soulstone
@@ -2196,17 +2196,17 @@ Item_1023253=Guard Kraemten Soulstone (Blader)
 Item_1023353=Guard Kraemten Soulstone (War Mage)
 Item_1023453=Guard Kraemten Soulstone (Whisperer)
 Item_1023553=Guard Kraemten Soulstone (Spellbinder)
-Item_1023154=Dark Avenger - Raging Test Subject's Soulstone
+Item_1023154=Chaotic Diseier - Raging Test Subject's Soulstone
 Item_1023254=Last-ditch Effort - Raging Test Subject's Soulstone
 Item_1023354=Ice Wall - Raging Test Subject's Soulstone
 Item_1023454=Swift Shot - Raging Test Subject's Soulstone
 Item_1023554=Guidance of Despair - Raging Test Subject's Soulstone
 Item_1023654=Essence Blade - Raging Test Subject's Soulstone
-Item_1023155=Destruction Tremor - Baraex's Soulstone
+Item_1023155=Fire Scream - Baraex's Soulstone
 Item_1023255=Gravity Deflection - Baraex's Soulstone
 Item_1023355=Phoenix Onslaught - Baraex's Soulstone
 Item_1023455=Essence of Nature - Baraex's Soulstone
-Item_1023555=Phantasmal Rain - Baraex's Soulstone
+Item_1023555=Lightning Storm - Baraex's Soulstone
 Item_1023655=Dark Ray - Baraex's Soulstone
 Item_80120010=Training Scepter
 Item_80120020=Novice's Scepter
@@ -23876,13 +23876,13 @@ Item_204366=Eternal Fetter (Unlimited)
 Item_204367=Eternal Fetter (Unlimited)
 Item_204368=Eternal Fetter (Unlimited)
 Item_204369=Eternal Fetter (Unlimited)
-Item_77095=Japan Only_New Growth Encouragement Chest (Lv. 5)
-Item_77096=Japan Only_New Growth Encouragement Chest (Lv. 15)
-Item_77097=Japan Only_New Growth Encouragement Chest (Lv. 25)
-Item_77098=Japan Only_New Growth Encouragement Chest (Lv. 35)
-Item_77099=Japan Only_New Growth Encouragement Chest (Lv. 45)
-Item_77100=Japan Only_New Growth Encouragement Chest (Lv. 55)
-Item_77101=Japan Only_New Growth Encouragement Chest (Lv. 65)
+Item_77095=Founder Pack Silver Chest
+Item_77096=Founder Pack Gold Chest
+Item_77097=Founder Pack Platinum Chest
+Item_77098=LAMUS Event Chest
+Item_77099=LAMUS Event Chest
+Item_77100=LAMUS Event Chest
+Item_77101=LAMUS Event Chest
 Item_77102=Dark Essence
 Item_77103=Essence of Pain
 Item_77104=Crunchy Ice
@@ -27684,13 +27684,13 @@ Item_101559=Holy Knight Wings (30 Days)
 Item_101560=Holy Knight Wings (Unlimited)
 Item_1002248=Sun Knight Armor Lucky Chest
 Item_1002249=Sun Knight Wing Lucky Chest
-Item_21176=Envoy's Gift on Monday
-Item_21177=Envoy's Gift on Tuesday
-Item_21178=Envoy's Gift on Wednesday
-Item_21179=Envoy's Gift on Thursday
-Item_21180=Envoy's Gift on Friday
-Item_21181=Envoy's Gift on Saturday
-Item_21182=Envoy's Gift on Sunday
+Item_21176=Daily Gift (Monday)
+Item_21177=Daily Gift (Tuesday)
+Item_21178=Daily Gift (Wednesday)
+Item_21179=Daily Gift (Thursday)
+Item_21180=Daily Gift (Friday)
+Item_21181=Daily Gift (Saturday)
+Item_21182=Daily Gift (Sunday)
 Item_71154=Myun box III
 Item_71155=Special Myun box IV
 Item_71156=Myun box IV
@@ -33732,12 +33732,12 @@ Item_3110303=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFF
 Item_3110304=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>3%</font>
 Item_3110305=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>1%</font>
 Item_3110306=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
-Item_3110401=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
-Item_3110402=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Airborne Effectiveness by <font color='#FF9C00'>15%</font>
-Item_3110403=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>1%</font>
-Item_3110404=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>5%</font>
-Item_3110405=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>1%</font>
-Item_3110406=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
+Item_3110401=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
+Item_3110402=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Airborne Effectiveness by <font color='#FF9C00'>15%</font>
+Item_3110403=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>1%</font>
+Item_3110404=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>5%</font>
+Item_3110405=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>1%</font>
+Item_3110406=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
 Item_3110501=Increases <font color='#FE6D03'>Holy Wallop</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
 Item_3110502=Decreases <font color='#FE6D03'>Holy Wallop</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>5%</font>
 Item_3110503=Decreases <font color='#FE6D03'>Holy Wallop</font><font color='#FFFFFF'>'s</font>¶Attack Speed by <font color='#FF9C00'>5%</font>
@@ -33818,15 +33818,15 @@ Item_3111505=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='
 Item_3111506=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>1%</font>
 Item_3111507=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
 Item_3111508=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>10%</font>
-Item_3111601=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
-Item_3111602=Decreases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>2%</font>
-Item_3111603=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>10%</font>
-Item_3111604=Decreases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>5%</font>
-Item_3111605=Decreases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>5%</font>
-Item_3111606=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
-Item_3111607=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>3%</font>
-Item_3111608=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>1%</font>
-Item_3111609=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
+Item_3111601=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
+Item_3111602=Decreases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>2%</font>
+Item_3111603=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>10%</font>
+Item_3111604=Decreases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>5%</font>
+Item_3111605=Decreases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>5%</font>
+Item_3111606=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
+Item_3111607=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>3%</font>
+Item_3111608=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>1%</font>
+Item_3111609=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
 Item_3111701=Increases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
 Item_3111702=Decreases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>5%</font>
 Item_3111703=Decreases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>5%</font>
@@ -33865,13 +33865,13 @@ Item_3112304=Increases <font color='#FE6D03'>Madness Absorption</font><font colo
 Item_3112305=Increases <font color='#FE6D03'>Madness Absorption</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>3%</font>
 Item_3112306=Increases <font color='#FE6D03'>Madness Absorption</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>1%</font>
 Item_3112307=Increases <font color='#FE6D03'>Madness Absorption</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
-Item_3112401=Increases <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
-Item_3112402=Increases <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>4%</font>
-Item_3112403=Decreases <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>2%</font>
-Item_3112404=Decreases <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶cooldown by <font color='#FF9C00'>2%</font>
-Item_3112405=Increases <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
-Item_3112406=Increases <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>3%</font>
-Item_3112407=Increases <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
+Item_3112401=Increases <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
+Item_3112402=Increases <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>4%</font>
+Item_3112403=Decreases <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>2%</font>
+Item_3112404=Decreases <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶cooldown by <font color='#FF9C00'>2%</font>
+Item_3112405=Increases <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
+Item_3112406=Increases <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>3%</font>
+Item_3112407=Increases <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
 Item_3112501=Increases <font color='#FE6D03'>Rugard's Choice</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
 Item_3112502=Increases <font color='#FE6D03'>Rugard's Choice</font><font color='#FFFFFF'>'s</font>¶Knockback effect by <font color='#FF9C00'>10%</font>
 Item_3112503=Decreases <font color='#FE6D03'>Rugard's Choice</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>2%</font>
@@ -33943,13 +33943,13 @@ Item_3210906=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFF
 Item_3210907=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
 Item_3210908=Decreases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>2%</font>
 Item_3210909=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>10%</font>
-Item_3211001=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
-Item_3211002=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>20%</font>
-Item_3211003=Decreases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>2%</font>
-Item_3211004=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>1%</font>
-Item_3211005=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>3%</font>
-Item_3211006=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>1%</font>
-Item_3211007=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>5%</font>
+Item_3211001=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
+Item_3211002=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>20%</font>
+Item_3211003=Decreases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>2%</font>
+Item_3211004=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>1%</font>
+Item_3211005=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>3%</font>
+Item_3211006=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>1%</font>
+Item_3211007=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>5%</font>
 Item_3211101=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
 Item_3211102=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶Stun Duration by <font color='#FF9C00'>3%</font>
 Item_3211103=Decreases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>2%</font>
@@ -33985,14 +33985,14 @@ Item_3211505=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FF
 Item_3211506=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>5%</font>
 Item_3211507=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>1%</font>
 Item_3211508=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
-Item_3211601=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
-Item_3211602=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Knockback Effect by <font color='#FF9C00'>10%</font>
-Item_3211603=Decreases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>5%</font>
-Item_3211604=Decreases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>4%</font>
-Item_3211605=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>1%</font>
-Item_3211606=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>5%</font>
-Item_3211607=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>1%</font>
-Item_3211608=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
+Item_3211601=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
+Item_3211602=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Knockback Effect by <font color='#FF9C00'>10%</font>
+Item_3211603=Decreases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>5%</font>
+Item_3211604=Decreases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>4%</font>
+Item_3211605=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>1%</font>
+Item_3211606=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>5%</font>
+Item_3211607=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>1%</font>
+Item_3211608=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
 Item_3211701=Increases <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>3%</font>
 Item_3211702=Decreases <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>4%</font>
 Item_3211703=Increases <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>1%</font>
@@ -34084,11 +34084,11 @@ Item_3310502=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFF
 Item_3310503=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>3%</font>
 Item_3310504=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>1%</font>
 Item_3310505=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
-Item_3310601=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
-Item_3310602=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>1%</font>
-Item_3310603=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>3%</font>
-Item_3310604=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3310605=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
+Item_3310601=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
+Item_3310602=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>1%</font>
+Item_3310603=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>3%</font>
+Item_3310604=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
+Item_3310605=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
 Item_3310701=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
 Item_3310702=Decreases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>2%</font>
 Item_3310703=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>10%</font>
@@ -34371,13 +34371,13 @@ Item_3412004=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFF
 Item_3412005=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>3%</font>
 Item_3412006=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>1%</font>
 Item_3412007=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
-Item_3412101=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
-Item_3412102=Decreases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>4%</font>
-Item_3412103=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Attack Speed by <font color='#FF9C00'>2%</font>
-Item_3412104=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>1%</font>
-Item_3412105=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>3%</font>
-Item_3412106=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>1%</font>
-Item_3412107=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
+Item_3412101=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
+Item_3412102=Decreases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>4%</font>
+Item_3412103=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Attack Speed by <font color='#FF9C00'>2%</font>
+Item_3412104=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>1%</font>
+Item_3412105=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>3%</font>
+Item_3412106=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>1%</font>
+Item_3412107=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
 Item_3412201=Increases <font color='#FE6D03'>Ice Wall</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
 Item_3412202=Decreases <font color='#FE6D03'>Ice Wall</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>5%</font>
 Item_3412203=Decreases <font color='#FE6D03'>Ice Wall</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>4%</font>
@@ -34434,11 +34434,11 @@ Item_3120302=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFF
 Item_3120303=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
 Item_3120304=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
 Item_3120305=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
-Item_3120401=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
-Item_3120402=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
-Item_3120403=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>10%</font>
-Item_3120404=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
-Item_3120405=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
+Item_3120401=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
+Item_3120402=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
+Item_3120403=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>10%</font>
+Item_3120404=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
+Item_3120405=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
 Item_3120501=Increases <font color='#FE6D03'>Holy Wallop</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
 Item_3120502=Increases <font color='#FE6D03'>Holy Wallop</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>20%</font>
 Item_3120503=Increases <font color='#FE6D03'>Holy Wallop</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
@@ -34498,13 +34498,13 @@ Item_3121502=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='
 Item_3121504=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
 Item_3121505=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
 Item_3121506=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
-Item_3121601=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
-Item_3121602=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>20%</font>
-Item_3121603=Decreases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>10%</font>
-Item_3121604=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
-Item_3121605=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
-Item_3121606=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
-Item_3121607=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
+Item_3121601=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
+Item_3121602=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>20%</font>
+Item_3121603=Decreases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>10%</font>
+Item_3121604=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
+Item_3121605=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
+Item_3121606=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
+Item_3121607=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
 Item_3121701=Increases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
 Item_3121702=Decreases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>10%</font>
 Item_3121703=Increases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
@@ -34593,12 +34593,12 @@ Item_3220904=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFF
 Item_3220905=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>20%</font>
 Item_3220906=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
 Item_3220907=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
-Item_3221001=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
-Item_3221002=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>10%</font>
-Item_3221003=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
-Item_3221004=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
-Item_3221005=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
-Item_3221006=Decreases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>4%</font>
+Item_3221001=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
+Item_3221002=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>10%</font>
+Item_3221003=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
+Item_3221004=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
+Item_3221005=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
+Item_3221006=Decreases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>4%</font>
 Item_3221101=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
 Item_3221102=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
 Item_3221103=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
@@ -34627,13 +34627,13 @@ Item_3221504=Decreases <font color='#FE6D03'>Turning Blow</font><font color='#FF
 Item_3221505=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
 Item_3221506=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>10%</font>
 Item_3221507=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
-Item_3221601=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
-Item_3221602=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
-Item_3221603=Decreases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>10%</font>
-Item_3221604=Decreases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>8%</font>
-Item_3221605=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
-Item_3221606=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>10%</font>
-Item_3221607=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
+Item_3221601=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
+Item_3221602=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
+Item_3221603=Decreases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>10%</font>
+Item_3221604=Decreases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>8%</font>
+Item_3221605=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
+Item_3221606=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>10%</font>
+Item_3221607=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
 Item_3221702=Decreases <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>8%</font>
 Item_3221703=Increases <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
 Item_3221704=Increases <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
@@ -34699,11 +34699,11 @@ Item_3320502=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFF
 Item_3320503=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
 Item_3320504=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
 Item_3320505=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
-Item_3320601=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
-Item_3320602=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
-Item_3320603=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
-Item_3320604=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
-Item_3320605=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>6%</font>
+Item_3320601=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
+Item_3320602=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
+Item_3320603=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
+Item_3320604=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
+Item_3320605=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>6%</font>
 Item_3320701=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
 Item_3320702=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>20%</font>
 Item_3320703=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
@@ -34924,12 +34924,12 @@ Item_3422003=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFF
 Item_3422004=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
 Item_3422005=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
 Item_3422006=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
-Item_3422101=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
-Item_3422102=Decreases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>8%</font>
-Item_3422103=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
-Item_3422104=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
-Item_3422105=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
-Item_3422106=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
+Item_3422101=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
+Item_3422102=Decreases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>8%</font>
+Item_3422103=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
+Item_3422104=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
+Item_3422105=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
+Item_3422106=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
 Item_3422201=Increases <font color='#FE6D03'>Ice Wall</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
 Item_3422202=Decreases <font color='#FE6D03'>Ice Wall</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>10%</font>
 Item_3422203=Decreases <font color='#FE6D03'>Ice Wall</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>8%</font>
@@ -34982,11 +34982,11 @@ Item_3130302=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFF
 Item_3130303=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
 Item_3130304=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
 Item_3130305=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3130401=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3130402=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3130403=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
-Item_3130404=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3130405=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>12%</font>
+Item_3130401=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
+Item_3130402=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
+Item_3130403=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
+Item_3130404=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
+Item_3130405=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>12%</font>
 Item_3130501=Increases <font color='#FE6D03'>Holy Wallop</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
 Item_3130502=Increases <font color='#FE6D03'>Holy Wallop</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>30%</font>
 Item_3130503=Increases <font color='#FE6D03'>Holy Wallop</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
@@ -35046,13 +35046,13 @@ Item_3131502=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='
 Item_3131504=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
 Item_3131505=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
 Item_3131506=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3131601=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3131602=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>30%</font>
-Item_3131603=Decreases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3131604=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3131605=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
-Item_3131606=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3131607=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
+Item_3131601=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
+Item_3131602=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>30%</font>
+Item_3131603=Decreases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
+Item_3131604=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
+Item_3131605=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
+Item_3131606=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
+Item_3131607=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
 Item_3131701=Increases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
 Item_3131702=Decreases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
 Item_3131703=Increases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
@@ -35141,12 +35141,12 @@ Item_3230904=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFF
 Item_3230905=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>30%</font>
 Item_3230906=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
 Item_3230907=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3231001=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3231003=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>15%</font>
-Item_3231004=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3231005=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3231006=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3231007=Decreases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>6%</font>
+Item_3231001=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
+Item_3231003=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>15%</font>
+Item_3231004=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
+Item_3231005=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
+Item_3231006=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
+Item_3231007=Decreases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>6%</font>
 Item_3231101=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
 Item_3231102=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
 Item_3231103=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
@@ -35175,13 +35175,13 @@ Item_3231504=Decreases <font color='#FE6D03'>Turning Blow</font><font color='#FF
 Item_3231505=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
 Item_3231506=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
 Item_3231507=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3231601=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3231602=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3231603=Decreases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3231604=Decreases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>12%</font>
-Item_3231605=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3231606=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
-Item_3231607=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
+Item_3231601=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
+Item_3231602=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
+Item_3231603=Decreases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
+Item_3231604=Decreases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>12%</font>
+Item_3231605=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
+Item_3231606=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
+Item_3231607=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
 Item_3231702=Decreases <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>12%</font>
 Item_3231703=Increases <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
 Item_3231704=Increases <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
@@ -35247,11 +35247,11 @@ Item_3330502=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFF
 Item_3330503=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
 Item_3330504=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>12%</font>
 Item_3330505=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3330601=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3330602=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3330603=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3330604=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3330605=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>9%</font>
+Item_3330601=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
+Item_3330602=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
+Item_3330603=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
+Item_3330604=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
+Item_3330605=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>9%</font>
 Item_3330701=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
 Item_3330702=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>30%</font>
 Item_3330703=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
@@ -35472,12 +35472,12 @@ Item_3432003=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFF
 Item_3432004=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
 Item_3432005=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
 Item_3432006=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3432101=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3432102=Decreases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>12%</font>
-Item_3432103=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3432104=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3432105=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3432106=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
+Item_3432101=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
+Item_3432102=Decreases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>12%</font>
+Item_3432103=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
+Item_3432104=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
+Item_3432105=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
+Item_3432106=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
 Item_3432201=Increases <font color='#FE6D03'>Ice Wall</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
 Item_3432202=Decreases <font color='#FE6D03'>Ice Wall</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
 Item_3432203=Decreases <font color='#FE6D03'>Ice Wall</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>12%</font>
@@ -35530,11 +35530,11 @@ Item_3140302=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFF
 Item_3140303=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
 Item_3140304=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
 Item_3140305=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
-Item_3140401=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
-Item_3140402=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
-Item_3140403=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>20%</font>
-Item_3140404=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
-Item_3140405=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>16%</font>
+Item_3140401=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
+Item_3140402=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
+Item_3140403=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>20%</font>
+Item_3140404=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
+Item_3140405=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>16%</font>
 Item_3140501=Increases <font color='#FE6D03'>Holy Wallop</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
 Item_3140502=Increases <font color='#FE6D03'>Holy Wallop</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>40%</font>
 Item_3140503=Increases <font color='#FE6D03'>Holy Wallop</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
@@ -35594,13 +35594,13 @@ Item_3141502=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='
 Item_3141504=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
 Item_3141505=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
 Item_3141506=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
-Item_3141601=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
-Item_3141602=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>40%</font>
-Item_3141603=Decreases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>20%</font>
-Item_3141604=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
-Item_3141605=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>8%</font>
-Item_3141606=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
-Item_3141607=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
+Item_3141601=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
+Item_3141602=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>40%</font>
+Item_3141603=Decreases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>20%</font>
+Item_3141604=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
+Item_3141605=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>8%</font>
+Item_3141606=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
+Item_3141607=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
 Item_3141701=Increases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
 Item_3141702=Decreases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>20%</font>
 Item_3141703=Increases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
@@ -35642,12 +35642,12 @@ Item_3142503=Decreases <font color='#FE6D03'>Follower's Spirit</font><font color
 Item_3142504=Increases <font color='#FE6D03'>Follower's Spirit</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
 Item_3142505=Increases <font color='#FE6D03'>Follower's Spirit</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
 Item_3142506=Increases <font color='#FE6D03'>Follower's Spirit</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
-Item_3142601=Increases <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
-Item_3142603=Decreases <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>8%</font>
-Item_3142604=Decreases <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶cooldown by <font color='#FF9C00'>8%</font>
-Item_3142605=Increases <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>8%</font>
-Item_3142606=Increases <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
-Item_3142607=Increases <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>8%</font>
+Item_3142601=Increases <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
+Item_3142603=Decreases <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>8%</font>
+Item_3142604=Decreases <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶cooldown by <font color='#FF9C00'>8%</font>
+Item_3142605=Increases <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>8%</font>
+Item_3142606=Increases <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
+Item_3142607=Increases <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>8%</font>
 Item_3240101=Increases <font color='#FE6D03'>Dismember</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
 Item_3240102=Increases <font color='#FE6D03'>Dismember</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>8%</font>
 Item_3240103=Increases <font color='#FE6D03'>Dismember</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
@@ -35698,12 +35698,12 @@ Item_3240904=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFF
 Item_3240905=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>8%</font>
 Item_3240906=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
 Item_3240907=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
-Item_3241001=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
-Item_3241003=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>20%</font>
-Item_3241004=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
-Item_3241005=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
-Item_3241006=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
-Item_3241007=Decreases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>8%</font>
+Item_3241001=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
+Item_3241003=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>20%</font>
+Item_3241004=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
+Item_3241005=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
+Item_3241006=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
+Item_3241007=Decreases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>8%</font>
 Item_3241101=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>16%</font>
 Item_3241102=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
 Item_3241103=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
@@ -35732,13 +35732,13 @@ Item_3241504=Decreases <font color='#FE6D03'>Turning Blow</font><font color='#FF
 Item_3241505=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
 Item_3241506=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>20%</font>
 Item_3241507=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
-Item_3241601=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>16%</font>
-Item_3241602=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
-Item_3241603=Decreases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>20%</font>
-Item_3241604=Decreases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>16%</font>
-Item_3241605=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
-Item_3241606=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>20%</font>
-Item_3241607=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
+Item_3241601=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>16%</font>
+Item_3241602=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
+Item_3241603=Decreases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>20%</font>
+Item_3241604=Decreases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>16%</font>
+Item_3241605=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
+Item_3241606=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>20%</font>
+Item_3241607=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
 Item_3241702=Decreases <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>16%</font>
 Item_3241703=Increases <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
 Item_3241704=Increases <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
@@ -35807,11 +35807,11 @@ Item_3340502=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFF
 Item_3340503=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
 Item_3340504=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>16%</font>
 Item_3340505=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
-Item_3340601=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
-Item_3340602=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
-Item_3340603=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
-Item_3340604=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
-Item_3340605=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>12%</font>
+Item_3340601=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
+Item_3340602=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
+Item_3340603=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
+Item_3340604=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
+Item_3340605=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>12%</font>
 Item_3340701=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
 Item_3340702=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>40%</font>
 Item_3340703=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
@@ -36038,12 +36038,12 @@ Item_3442003=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFF
 Item_3442004=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>8%</font>
 Item_3442005=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
 Item_3442006=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
-Item_3442101=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
-Item_3442102=Decreases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>16%</font>
-Item_3442103=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
-Item_3442104=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
-Item_3442105=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
-Item_3442106=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
+Item_3442101=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
+Item_3442102=Decreases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>16%</font>
+Item_3442103=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
+Item_3442104=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
+Item_3442105=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
+Item_3442106=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
 Item_3442201=Increases <font color='#FE6D03'>Ice Wall</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
 Item_3442202=Decreases <font color='#FE6D03'>Ice Wall</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>20%</font>
 Item_3442203=Decreases <font color='#FE6D03'>Ice Wall</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>16%</font>
@@ -36096,11 +36096,11 @@ Item_3150302=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFF
 Item_3150303=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>5%</font>
 Item_3150304=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
 Item_3150305=Increases <font color='#FE6D03'>Shield Bash</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>5%</font>
-Item_3150401=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
-Item_3150402=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>5%</font>
-Item_3150403=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>25%</font>
-Item_3150404=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>5%</font>
-Item_3150405=Increases <font color='#FE6D03'>Cyclone Strike</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>20%</font>
+Item_3150401=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
+Item_3150402=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>5%</font>
+Item_3150403=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>25%</font>
+Item_3150404=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>5%</font>
+Item_3150405=Increases <font color='#FE6D03'>Force Wave</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>20%</font>
 Item_3150501=Increases <font color='#FE6D03'>Holy Wallop</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
 Item_3150502=Increases <font color='#FE6D03'>Holy Wallop</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>50%</font>
 Item_3150503=Increases <font color='#FE6D03'>Holy Wallop</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>5%</font>
@@ -36160,13 +36160,13 @@ Item_3151502=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='
 Item_3151504=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>5%</font>
 Item_3151505=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
 Item_3151506=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>5%</font>
-Item_3151601=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
-Item_3151602=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>50%</font>
-Item_3151603=Decreases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>25%</font>
-Item_3151604=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>10%</font>
-Item_3151605=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>10%</font>
-Item_3151606=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
-Item_3151607=Increases <font color='#FE6D03'>Destruction Tremor</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>5%</font>
+Item_3151601=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
+Item_3151602=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>50%</font>
+Item_3151603=Decreases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>25%</font>
+Item_3151604=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>10%</font>
+Item_3151605=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>10%</font>
+Item_3151606=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
+Item_3151607=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>5%</font>
 Item_3151701=Increases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
 Item_3151702=Decreases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>25%</font>
 Item_3151703=Increases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>10%</font>
@@ -36255,12 +36255,12 @@ Item_3250904=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFF
 Item_3250905=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>50%</font>
 Item_3250906=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
 Item_3250907=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>5%</font>
-Item_3251001=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
-Item_3251003=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>25%</font>
-Item_3251004=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>5%</font>
-Item_3251005=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
-Item_3251006=Increases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>5%</font>
-Item_3251007=Decreases <font color='#FE6D03'>Cyclone Slash</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>10%</font>
+Item_3251001=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
+Item_3251003=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>25%</font>
+Item_3251004=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>5%</font>
+Item_3251005=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
+Item_3251006=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>5%</font>
+Item_3251007=Decreases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>10%</font>
 Item_3251101=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>20%</font>
 Item_3251102=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>10%</font>
 Item_3251103=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>5%</font>
@@ -36289,13 +36289,13 @@ Item_3251504=Decreases <font color='#FE6D03'>Turning Blow</font><font color='#FF
 Item_3251505=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>5%</font>
 Item_3251506=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>25%</font>
 Item_3251507=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>5%</font>
-Item_3251601=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>20%</font>
-Item_3251602=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>10%</font>
-Item_3251603=Decreases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>25%</font>
-Item_3251604=Decreases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>20%</font>
-Item_3251605=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>5%</font>
-Item_3251606=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>25%</font>
-Item_3251607=Increases <font color='#FE6D03'>Earth Cleaver</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>5%</font>
+Item_3251601=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>20%</font>
+Item_3251602=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>10%</font>
+Item_3251603=Decreases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>25%</font>
+Item_3251604=Decreases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>20%</font>
+Item_3251605=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>5%</font>
+Item_3251606=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>25%</font>
+Item_3251607=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>5%</font>
 Item_3251702=Decreases <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>20%</font>
 Item_3251703=Increases <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>5%</font>
 Item_3251704=Increases <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
@@ -36361,11 +36361,11 @@ Item_3350502=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFF
 Item_3350503=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
 Item_3350504=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>20%</font>
 Item_3350505=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>5%</font>
-Item_3350601=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
-Item_3350602=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>5%</font>
-Item_3350603=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
-Item_3350604=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>10%</font>
-Item_3350605=Increases <font color='#FE6D03'>Salvo</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>15%</font>
+Item_3350601=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
+Item_3350602=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>5%</font>
+Item_3350603=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
+Item_3350604=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>10%</font>
+Item_3350605=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>15%</font>
 Item_3350701=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
 Item_3350702=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>50%</font>
 Item_3350703=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>10%</font>
@@ -36586,12 +36586,12 @@ Item_3452003=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFF
 Item_3452004=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>10%</font>
 Item_3452005=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
 Item_3452006=Increases <font color='#FE6D03'>Bloodfest</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>5%</font>
-Item_3452101=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
-Item_3452102=Decreases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>20%</font>
-Item_3452103=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>10%</font>
-Item_3452104=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>5%</font>
-Item_3452105=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
-Item_3452106=Increases <font color='#FE6D03'>Specter</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>5%</font>
+Item_3452101=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
+Item_3452102=Decreases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>20%</font>
+Item_3452103=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>10%</font>
+Item_3452104=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>5%</font>
+Item_3452105=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
+Item_3452106=Increases <font color='#FE6D03'>Evil Spirit</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>5%</font>
 Item_3452201=Increases <font color='#FE6D03'>Ice Wall</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
 Item_3452202=Decreases <font color='#FE6D03'>Ice Wall</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>25%</font>
 Item_3452203=Decreases <font color='#FE6D03'>Ice Wall</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>20%</font>
@@ -36769,14 +36769,14 @@ Item_3512004=Increases <font color='#FE6D03'>Illusion Rampage</font><font color=
 Item_3512005=Increases <font color='#FE6D03'>Illusion Rampage</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>3%</font>
 Item_3512006=Increases <font color='#FE6D03'>Illusion Rampage</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
 Item_3512007=Increases <font color='#FE6D03'>Illusion Rampage</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
-Item_3512101=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
-Item_3512102=Decreases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>2%</font>
-Item_3512103=Decreases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>2%</font>
-Item_3512104=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>1%</font>.
-Item_3512105=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>3%</font>
-Item_3512106=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
-Item_3512107=Decreases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>2%</font>
-Item_3512109=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
+Item_3512101=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
+Item_3512102=Decreases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>2%</font>
+Item_3512103=Decreases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>2%</font>
+Item_3512104=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>1%</font>.
+Item_3512105=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>3%</font>
+Item_3512106=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
+Item_3512107=Decreases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>2%</font>
+Item_3512109=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
 Item_3512201=Increases <font color='#FE6D03'>Telekinetic Storm</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>3%</font>
 Item_3512202=Decreases <font color='#FE6D03'>Telekinetic Storm</font><font color='#FFFFFF'>'s</font>¶MP cost by <font color='#FF9C00'>2%</font>
 Item_3512203=Decreases <font color='#FE6D03'>Telekinetic Storm</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>2%</font>
@@ -36946,14 +36946,14 @@ Item_3522004=Increases <font color='#FE6D03'>Illusion Rampage</font><font color=
 Item_3522005=Increases <font color='#FE6D03'>Illusion Rampage</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
 Item_3522006=Increases <font color='#FE6D03'>Illusion Rampage</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>6%</font>
 Item_3522007=Increases <font color='#FE6D03'>Illusion Rampage</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
-Item_3522101=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
-Item_3522102=Decreases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>4%</font>
-Item_3522103=Decreases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>4%</font>
-Item_3522104=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>.
-Item_3522105=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
-Item_3522106=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
-Item_3522107=Decreases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>4%</font>
-Item_3522109=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
+Item_3522101=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
+Item_3522102=Decreases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>4%</font>
+Item_3522103=Decreases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>4%</font>
+Item_3522104=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>.
+Item_3522105=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
+Item_3522106=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
+Item_3522107=Decreases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>4%</font>
+Item_3522109=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
 Item_3522201=Increases <font color='#FE6D03'>Telekinetic Storm</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
 Item_3522202=Decreases <font color='#FE6D03'>Telekinetic Storm</font><font color='#FFFFFF'>'s</font>¶MP cost by <font color='#FF9C00'>4%</font>
 Item_3522203=Decreases <font color='#FE6D03'>Telekinetic Storm</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>4%</font>
@@ -37123,14 +37123,14 @@ Item_3532004=Increases <font color='#FE6D03'>Illusion Rampage</font><font color=
 Item_3532005=Increases <font color='#FE6D03'>Illusion Rampage</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
 Item_3532006=Increases <font color='#FE6D03'>Illusion Rampage</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>9%</font>
 Item_3532007=Increases <font color='#FE6D03'>Illusion Rampage</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3532101=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3532102=Decreases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>6%</font>
-Item_3532103=Decreases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>6%</font>
-Item_3532104=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>.
-Item_3532105=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3532106=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>6%</font>
-Item_3532107=Decreases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>6%</font>
-Item_3532109=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
+Item_3532101=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
+Item_3532102=Decreases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>6%</font>
+Item_3532103=Decreases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>6%</font>
+Item_3532104=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>.
+Item_3532105=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
+Item_3532106=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>6%</font>
+Item_3532107=Decreases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>6%</font>
+Item_3532109=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
 Item_3532201=Increases <font color='#FE6D03'>Telekinetic Storm</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>9%</font>
 Item_3532202=Decreases <font color='#FE6D03'>Telekinetic Storm</font><font color='#FFFFFF'>'s</font>¶MP cost by <font color='#FF9C00'>6%</font>
 Item_3532203=Decreases <font color='#FE6D03'>Telekinetic Storm</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>6%</font>
@@ -37300,14 +37300,14 @@ Item_3542004=Increases <font color='#FE6D03'>Illusion Rampage</font><font color=
 Item_3542005=Increases <font color='#FE6D03'>Illusion Rampage</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
 Item_3542006=Increases <font color='#FE6D03'>Illusion Rampage</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>12%</font>
 Item_3542007=Increases <font color='#FE6D03'>Illusion Rampage</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
-Item_3542101=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
-Item_3542102=Decreases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>8%</font>
-Item_3542103=Decreases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>8%</font>
-Item_3542104=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>.
-Item_3542105=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
-Item_3542106=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>8%</font>
-Item_3542107=Decreases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>8%</font>
-Item_3542109=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
+Item_3542101=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
+Item_3542102=Decreases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>8%</font>
+Item_3542103=Decreases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>8%</font>
+Item_3542104=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>.
+Item_3542105=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
+Item_3542106=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>8%</font>
+Item_3542107=Decreases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>8%</font>
+Item_3542109=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
 Item_3542201=Increases <font color='#FE6D03'>Telekinetic Storm</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
 Item_3542202=Decreases <font color='#FE6D03'>Telekinetic Storm</font><font color='#FFFFFF'>'s</font>¶MP cost by <font color='#FF9C00'>8%</font>
 Item_3542203=Decreases <font color='#FE6D03'>Telekinetic Storm</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>8%</font>
@@ -37477,14 +37477,14 @@ Item_3552004=Increases <font color='#FE6D03'>Illusion Rampage</font><font color=
 Item_3552005=Increases <font color='#FE6D03'>Illusion Rampage</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
 Item_3552006=Increases <font color='#FE6D03'>Illusion Rampage</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>15%</font>
 Item_3552007=Increases <font color='#FE6D03'>Illusion Rampage</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>10%</font>
-Item_3552101=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
-Item_3552102=Decreases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>10%</font>
-Item_3552103=Decreases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>10%</font>
-Item_3552104=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>5%</font>.
-Item_3552105=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
-Item_3552106=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>10%</font>
-Item_3552107=Decreases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>10%</font>
-Item_3552109=Increases <font color='#FE6D03'>Phantasmal Rain</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>10%</font>
+Item_3552101=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
+Item_3552102=Decreases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>10%</font>
+Item_3552103=Decreases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>10%</font>
+Item_3552104=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>5%</font>.
+Item_3552105=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
+Item_3552106=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>10%</font>
+Item_3552107=Decreases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>10%</font>
+Item_3552109=Increases <font color='#FE6D03'>Lightning Storm</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>10%</font>
 Item_3552201=Increases <font color='#FE6D03'>Telekinetic Storm</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>15%</font>
 Item_3552202=Decreases <font color='#FE6D03'>Telekinetic Storm</font><font color='#FFFFFF'>'s</font>¶MP cost by <font color='#FF9C00'>10%</font>
 Item_3552203=Decreases <font color='#FE6D03'>Telekinetic Storm</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>10%</font>
@@ -38481,8 +38481,8 @@ Item_200907=Contains dungeon rewards from Fabrice's Dungeon, the Warped Magic Ge
 Item_200908=Contains a variety of Tier 3 pets.¶Let's see what kind of pet you'll get.¶Good luck!
 Item_114=A chest containing items. Use to obtain one of the item on the list.
 Item_115=A chest containing items. Use to obtain one of the item on the list.
-Item_116=An item for test.
-Item_117=An item for test.
+Item_116=Cube of great power containing Red Zen.
+Item_117=Cube of great power containing Red Zen.
 Item_118=An item for test.
 Item_119=An item for test.
 Item_120=An item for test.
@@ -53609,13 +53609,13 @@ Item_204366=Beings that are forever chained down by time, whoever conquers the m
 Item_204367=Beings that are forever chained down by time, whoever conquers the maze will become the symbol of these shackles.
 Item_204368=Beings that are forever chained down by time, whoever conquers the maze will become the symbol of these shackles.
 Item_204369=Beings that are forever chained down by time, whoever conquers the maze will become the symbol of these shackles.
-Item_77095=An event box.
-Item_77096=An event box.
-Item_77097=An event box.
-Item_77098=An event box.
-Item_77099=An event box.
-Item_77100=An event box.
-Item_77101=An event box.
+Item_77095=Thank you for supporting LAMUS Legend. This Chest contains your Founder rewards.
+Item_77096=Thank you for supporting LAMUS Legend. This Chest contains your Founder rewards.
+Item_77097=Thank you for supporting LAMUS Legend. This Chest contains your Founder rewards.
+Item_77098=Event Box.
+Item_77099=Event Box.
+Item_77100=Event Box.
+Item_77101=Event Box.
 Item_77102=Increases Attack by <font color='#FE6D03'>100 - 500</font> for 10 minutes.<br><br><font color='#A9ABAA'>Contains a purified power of darkness that does not feel unpleasant. Where did this girl get such an object?</font>
 Item_77103=Increases Elite/Boss Monster Attack by <font color='#FE6D03'>25%</font> for 30 minutes.<br><br><font color='#A9ABAA'>Contains mana of darkness that writhes wildly, as if in pain.</font>
 Item_77104=Just looking at this crunchy ice makes one feel cool. There have been reports of adventurers who experienced a headache after eating too much ice in their hurry to beat the heat.¶<font color='#A9ABAA'>Can be exchanged for event prizes through NPC Reira in Ohrdor.</font>
@@ -54702,10 +54702,10 @@ Item_3611703=Increases <font color='#FE6D03'>Essence Explosion</font><font color
 Item_3611704=Increases <font color='#FE6D03'>Essence Explosion</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
 Item_3611705=Increases <font color='#FE6D03'>Essence Explosion</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
 Item_3611706=Decreases <font color='#FE6D03'>Essence Explosion</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>4%</font>
-Item_3611801=Decreases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>4%</font>
-Item_3611802=Decreases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>2%</font>
-Item_3611803=Increases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>4%</font>
-Item_3611804=Increases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶Enchant Duration by <font color='#FF9C00'>3%</font>
+Item_3611801=Decreases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>4%</font>
+Item_3611802=Decreases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>2%</font>
+Item_3611803=Increases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>4%</font>
+Item_3611804=Increases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶Enchant Duration by <font color='#FF9C00'>3%</font>
 Item_3611901=Increases <font color='#FE6D03'>Dark Ray</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>2%</font>
 Item_3611902=Increases <font color='#FE6D03'>Dark Ray</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>2%</font>
 Item_3611903=Increases <font color='#FE6D03'>Dark Ray</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>3%</font>
@@ -54741,9 +54741,9 @@ Item_3612403=Increases <font color='#FE6D03'>Mana Explosion</font><font color='#
 Item_3612404=Increases <font color='#FE6D03'>Mana Explosion</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>2%</font>
 Item_3612405=Increases <font color='#FE6D03'>Mana Explosion</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>2%</font>
 Item_3612406=Decreases <font color='#FE6D03'>Mana Explosion</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>3%</font>
-Item_3612501=Decreases <font color='#FE6D03'>Dark Being</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>4%</font>
-Item_3612502=Decreases <font color='#FE6D03'>Dark Being</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>2%</font>
-Item_3612503=Increases <font color='#FE6D03'>Dark Being</font><font color='#FFFFFF'>'s</font>¶Skill Duration by <font color='#FF9C00'>5%</font>
+Item_3612501=Decreases <font color='#FE6D03'>Death Scythe</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>4%</font>
+Item_3612502=Decreases <font color='#FE6D03'>Death Scythe</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>2%</font>
+Item_3612503=Increases <font color='#FE6D03'>Death Scythe</font><font color='#FFFFFF'>'s</font>¶Skill Duration by <font color='#FF9C00'>5%</font>
 Item_3620101=Increases <font color='#FE6D03'>Mana Bullet</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
 Item_3620102=Increases <font color='#FE6D03'>Mana Bullet</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
 Item_3620103=Increases <font color='#FE6D03'>Mana Bullet</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
@@ -54834,10 +54834,10 @@ Item_3621703=Increases <font color='#FE6D03'>Essence Explosion</font><font color
 Item_3621704=Increases <font color='#FE6D03'>Essence Explosion</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
 Item_3621705=Increases <font color='#FE6D03'>Essence Explosion</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
 Item_3621706=Decreases <font color='#FE6D03'>Essence Explosion</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>8%</font>
-Item_3621801=Decreases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>8%</font>
-Item_3621802=Decreases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>4%</font>
-Item_3621803=Increases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>8%</font>
-Item_3621804=Increases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶Enchant Duration by <font color='#FF9C00'>6%</font>
+Item_3621801=Decreases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>8%</font>
+Item_3621802=Decreases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>4%</font>
+Item_3621803=Increases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>8%</font>
+Item_3621804=Increases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶Enchant Duration by <font color='#FF9C00'>6%</font>
 Item_3621901=Increases <font color='#FE6D03'>Dark Ray</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>4%</font>
 Item_3621902=Increases <font color='#FE6D03'>Dark Ray</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>4%</font>
 Item_3621903=Increases <font color='#FE6D03'>Dark Ray</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>6%</font>
@@ -54873,9 +54873,9 @@ Item_3622403=Increases <font color='#FE6D03'>Mana Explosion</font><font color='#
 Item_3622404=Increases <font color='#FE6D03'>Mana Explosion</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>4%</font>
 Item_3622405=Increases <font color='#FE6D03'>Mana Explosion</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>4%</font>
 Item_3622406=Decreases <font color='#FE6D03'>Mana Explosion</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>8%</font>
-Item_3622501=Decreases <font color='#FE6D03'>Dark Being</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>8%</font>
-Item_3622502=Decreases <font color='#FE6D03'>Dark Being</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>4%</font>
-Item_3622503=Increases <font color='#FE6D03'>Dark Being</font><font color='#FFFFFF'>'s</font>¶Skill Duration by <font color='#FF9C00'>10%</font>
+Item_3622501=Decreases <font color='#FE6D03'>Death Scythe</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>8%</font>
+Item_3622502=Decreases <font color='#FE6D03'>Death Scythe</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>4%</font>
+Item_3622503=Increases <font color='#FE6D03'>Death Scythe</font><font color='#FFFFFF'>'s</font>¶Skill Duration by <font color='#FF9C00'>10%</font>
 Item_3630101=Increases <font color='#FE6D03'>Mana Bullet</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
 Item_3630102=Increases <font color='#FE6D03'>Mana Bullet</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
 Item_3630103=Increases <font color='#FE6D03'>Mana Bullet</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
@@ -54966,10 +54966,10 @@ Item_3631703=Increases <font color='#FE6D03'>Essence Explosion</font><font color
 Item_3631704=Increases <font color='#FE6D03'>Essence Explosion</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>6%</font>
 Item_3631705=Increases <font color='#FE6D03'>Essence Explosion</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
 Item_3631706=Decreases <font color='#FE6D03'>Essence Explosion</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>12%</font>
-Item_3631801=Decreases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>12%</font>
-Item_3631802=Decreases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>6%</font>
-Item_3631803=Increases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>12%</font>
-Item_3631804=Increases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶Enchant Duration by <font color='#FF9C00'>9%</font>
+Item_3631801=Decreases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>12%</font>
+Item_3631802=Decreases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>6%</font>
+Item_3631803=Increases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>12%</font>
+Item_3631804=Increases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶Enchant Duration by <font color='#FF9C00'>9%</font>
 Item_3631901=Increases <font color='#FE6D03'>Dark Ray</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
 Item_3631902=Increases <font color='#FE6D03'>Dark Ray</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
 Item_3631903=Increases <font color='#FE6D03'>Dark Ray</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
@@ -55005,9 +55005,9 @@ Item_3632403=Increases <font color='#FE6D03'>Mana Explosion</font><font color='#
 Item_3632404=Increases <font color='#FE6D03'>Mana Explosion</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>6%</font>
 Item_3632405=Increases <font color='#FE6D03'>Mana Explosion</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
 Item_3632406=Decreases <font color='#FE6D03'>Mana Explosion</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>9%</font>
-Item_3632501=Decreases <font color='#FE6D03'>Dark Being</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>12%</font>
-Item_3632502=Decreases <font color='#FE6D03'>Dark Being</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>6%</font>
-Item_3632503=Increases <font color='#FE6D03'>Dark Being</font><font color='#FFFFFF'>'s</font>¶Skill Duration by <font color='#FF9C00'>15%</font>
+Item_3632501=Decreases <font color='#FE6D03'>Death Scythe</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>12%</font>
+Item_3632502=Decreases <font color='#FE6D03'>Death Scythe</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>6%</font>
+Item_3632503=Increases <font color='#FE6D03'>Death Scythe</font><font color='#FFFFFF'>'s</font>¶Skill Duration by <font color='#FF9C00'>15%</font>
 Item_3640101=Increases <font color='#FE6D03'>Mana Bullet</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
 Item_3640102=Increases <font color='#FE6D03'>Mana Bullet</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>8%</font>
 Item_3640103=Increases <font color='#FE6D03'>Mana Bullet</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
@@ -55098,10 +55098,10 @@ Item_3641703=Increases <font color='#FE6D03'>Essence Explosion</font><font color
 Item_3641704=Increases <font color='#FE6D03'>Essence Explosion</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>8%</font>
 Item_3641705=Increases <font color='#FE6D03'>Essence Explosion</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
 Item_3641706=Decreases <font color='#FE6D03'>Essence Explosion</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>16%</font>
-Item_3641801=Decreases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>16%</font>
-Item_3641802=Decreases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>8%</font>
-Item_3641803=Increases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>16%</font>
-Item_3641804=Increases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶Enchant Duration by <font color='#FF9C00'>12%</font>
+Item_3641801=Decreases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>16%</font>
+Item_3641802=Decreases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>8%</font>
+Item_3641803=Increases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>16%</font>
+Item_3641804=Increases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶Enchant Duration by <font color='#FF9C00'>12%</font>
 Item_3641901=Increases <font color='#FE6D03'>Dark Ray</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>8%</font>
 Item_3641902=Increases <font color='#FE6D03'>Dark Ray</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>8%</font>
 Item_3641903=Increases <font color='#FE6D03'>Dark Ray</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>12%</font>
@@ -55137,9 +55137,9 @@ Item_3642403=Increases <font color='#FE6D03'>Mana Explosion</font><font color='#
 Item_3642404=Increases <font color='#FE6D03'>Mana Explosion</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>8%</font>
 Item_3642405=Increases <font color='#FE6D03'>Mana Explosion</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>8%</font>
 Item_3642406=Decreases <font color='#FE6D03'>Mana Explosion</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>12%</font>
-Item_3642501=Decreases <font color='#FE6D03'>Dark Being</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>16%</font>
-Item_3642502=Decreases <font color='#FE6D03'>Dark Being</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>8%</font>
-Item_3642503=Increases <font color='#FE6D03'>Dark Being</font><font color='#FFFFFF'>'s</font>¶Skill Duration by <font color='#FF9C00'>20%</font>
+Item_3642501=Decreases <font color='#FE6D03'>Death Scythe</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>16%</font>
+Item_3642502=Decreases <font color='#FE6D03'>Death Scythe</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>8%</font>
+Item_3642503=Increases <font color='#FE6D03'>Death Scythe</font><font color='#FFFFFF'>'s</font>¶Skill Duration by <font color='#FF9C00'>20%</font>
 Item_3650101=Increases <font color='#FE6D03'>Mana Bullet</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
 Item_3650102=Increases <font color='#FE6D03'>Mana Bullet</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>10%</font>
 Item_3650103=Increases <font color='#FE6D03'>Mana Bullet</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
@@ -55230,10 +55230,10 @@ Item_3651703=Increases <font color='#FE6D03'>Essence Explosion</font><font color
 Item_3651704=Increases <font color='#FE6D03'>Essence Explosion</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>10%</font>
 Item_3651705=Increases <font color='#FE6D03'>Essence Explosion</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>10%</font>
 Item_3651706=Decreases <font color='#FE6D03'>Essence Explosion</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>20%</font>
-Item_3651801=Decreases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>20%</font>
-Item_3651802=Decreases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>10%</font>
-Item_3651803=Increases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>20%</font>
-Item_3651804=Increases <font color='#FE6D03'>Energy Release</font><font color='#FFFFFF'>'s</font>¶Enchant Duration by <font color='#FF9C00'>15%</font>
+Item_3651801=Decreases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>20%</font>
+Item_3651802=Decreases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>10%</font>
+Item_3651803=Increases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>20%</font>
+Item_3651804=Increases <font color='#FE6D03'>Innovation</font><font color='#FFFFFF'>'s</font>¶Enchant Duration by <font color='#FF9C00'>15%</font>
 Item_3651901=Increases <font color='#FE6D03'>Dark Ray</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
 Item_3651902=Increases <font color='#FE6D03'>Dark Ray</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>10%</font>
 Item_3651903=Increases <font color='#FE6D03'>Dark Ray</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
@@ -55269,9 +55269,9 @@ Item_3652403=Increases <font color='#FE6D03'>Mana Explosion</font><font color='#
 Item_3652404=Increases <font color='#FE6D03'>Mana Explosion</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>10%</font>
 Item_3652405=Increases <font color='#FE6D03'>Mana Explosion</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>10%</font>
 Item_3652406=Decreases <font color='#FE6D03'>Mana Explosion</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>15%</font>
-Item_3652501=Decreases <font color='#FE6D03'>Dark Being</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>20%</font>
-Item_3652502=Decreases <font color='#FE6D03'>Dark Being</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>10%</font>
-Item_3652503=Increases <font color='#FE6D03'>Dark Being</font><font color='#FFFFFF'>'s</font>¶Skill Duration by <font color='#FF9C00'>25%</font>
+Item_3652501=Decreases <font color='#FE6D03'>Death Scythe</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>20%</font>
+Item_3652502=Decreases <font color='#FE6D03'>Death Scythe</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>10%</font>
+Item_3652503=Increases <font color='#FE6D03'>Death Scythe</font><font color='#FFFFFF'>'s</font>¶Skill Duration by <font color='#FF9C00'>25%</font>
 Item_1002031=A summer must-have that doubles your Defense against the heat.</font><br><font color='#A9ABAA'>Right-click to use it.</font>
 Item_200099=Generates a Vacation Swimsuit (Red) Unlimited along with a random item.<br><font color='#FF0000'>* You can check the complete list of this Lucky Chest's contents on the Announcements page on our official website.</font><br><font color='#A9ABAA'>Right-click to use.</font>
 Item_200100=Generates Tube Wings (Red) Unlimited along with a random item.<br><font color='#FF0000'>* You can check the complete list of this Lucky Chest's contents on the Announcements page on our official website.</font><br><font color='#A9ABAA'>Right-click to use.</font>
@@ -56009,12 +56009,12 @@ Item_2000006=Randomly generates items.</font><font color='#0C8A89'>¶1 Awakened 
 Item_3152601=Increases <font color='#FE6D03'>Attack Order</font> <font color='#FFFFFF'></font>¶buff duration by <font color='#FF9C00'>35%</font>.
 Item_3152602=Decreases <font color='#FE6D03'>Attack Order</font> <font color='#FFFFFF'></font>¶MP cost by <font color='#FF9C00'>18%</font>.
 Item_3152603=Decreases <font color='#FE6D03'>Attack Order</font> <font color='#FFFFFF'></font>¶cooldown by <font color='#FF9C00'>18%</font>.
-Item_3152701=Increases <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
-Item_3152702=Decreases the <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>10%</font>
-Item_3152703=Decreases the <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶cooldown by <font color='#FF9C00'>10%</font>
-Item_3152704=Increases the <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>10%</font>
-Item_3152705=Increases the <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
-Item_3152706=Increases the <font color='#FE6D03'>Dark Avenger</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>10%</font>
+Item_3152701=Increases <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>10%</font>
+Item_3152702=Decreases the <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>10%</font>
+Item_3152703=Decreases the <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶cooldown by <font color='#FF9C00'>10%</font>
+Item_3152704=Increases the <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>10%</font>
+Item_3152705=Increases the <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
+Item_3152706=Increases the <font color='#FE6D03'>Chaotic Diseier</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>10%</font>
 Item_3252701=Increases <font color='#FE6D03'>Endless Charge</font><font color='#FFFFFF'></font>¶buff duration by <font color='#FF9C00'>15%</font>.
 Item_3252702=Decreases <font color='#FE6D03'>Endless Charge</font><font color='#FFFFFF'></font>¶MP cost by <font color='#FF9C00'>20%</font>.
 Item_3252703=Decreases <font color='#FE6D03'>Endless Charge</font><font color='#FFFFFF'></font>¶cooldown by <font color='#FF9C00'>10%</font>.
@@ -57417,13 +57417,13 @@ Item_101559=Wings filled with holy power.
 Item_101560=Wings filled with holy power.
 Item_1002248=Randomly generates items.</font><font color='#0C8A89'>¶1 Sun Knight Armor (Unlimited)¶1 Dark Knight Armor (30 Days)¶2 Resurrection Stones of Life¶1 - 2 Rapid Soul Potions: 200%¶1 - 2 Rapid Soul Potions: 300%¶1 - 2 Rapid Soul Potions: 500%¶1 - 2 Rapid Soul Potions: 1,000%¶3 - 6 Soul EXP Pills: 1 Million¶1 - 2 Soul EXP Pills: 5 Million¶1 - 2 Soul EXP Pills: 10 Million¶1 - 2 Soul EXP Pills: 15 Million
 Item_1002249=Randomly generates items.</font><font color='#0C8A89'>¶1 Sun Knight Wings (Unlimited)¶1 Dark Knight Wings (30 Days)¶2 Resurrection Stones of Life¶1 - 2 Rapid Soul Potions: 200%¶1 - 2 Rapid Soul Potions: 300%¶1 - 2 Rapid Soul Potions: 500%¶1 - 2 Rapid Soul Potions: 1,000%¶3 - 6 Soul EXP Pills: 1 Million¶1 - 2 Soul EXP Pills: 5 Million¶1 - 2 Soul EXP Pills: 10 Million¶1 - 2 Soul EXP Pills: 15 Million
-Item_21176=A special gift from Ohrdor Envoy!
-Item_21177=A special gift from Ohrdor Envoy!
-Item_21178=A special gift from Ohrdor Envoy!
-Item_21179=A special gift from Ohrdor Envoy!
-Item_21180=A special gift from Ohrdor Envoy!
-Item_21181=A special gift from Ohrdor Envoy!
-Item_21182=A special gift from Ohrdor Envoy!
+Item_21176=A special gift from Ohrdor!
+Item_21177=A special gift from Ohrdor!
+Item_21178=A special gift from Ohrdor!
+Item_21179=A special gift from Ohrdor!
+Item_21180=A special gift from Ohrdor!
+Item_21181=A special gift from Ohrdor!
+Item_21182=A special gift from Ohrdor!
 Item_71154=A chest holding various pets, growth exclusive pets and evolution stone fragments.¶You can anticipate the reward.¶Aim for the jackpot.
 Item_71155=A chest holding various pets, growth exclusive pets and evolution stone fragments.¶You can anticipate the reward.¶Aim for the jackpot.
 Item_71156=A chest holding various pets, growth exclusive pets and evolution stone fragments.¶You can anticipate the reward.¶Aim for the jackpot.
