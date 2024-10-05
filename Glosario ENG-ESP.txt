@@ -1,0 +1,20 @@
+[Class]
+Black Phantom=Black Phantom
+Blader=Blader
+Dark Lord=Dark Lord
+Spellbinder=Spellbinder
+War Mage=War Mage
+Whisperer=Whisperer
+
+[Events]
+Chaos Castle=Chaos Castle
+Blood Castle=Blood Castle
+
+[Dungeon]
+
+[Items]
+Jewel of Bless=Jewel of Bless
+
+[NPC]
+
+[Quest]
