@@ -6,7 +6,7 @@ OX_O=O
 OX_X=-
 
 [PlatinumService]
-Service_101=Cajas de login gratis todos los días
+Service_101=Cajas de ingresos diarios
 Service_103=Emoticonos adicionales
 Service_104=Teletransporte remoto <font color='#37C7DF'>(F2)</font>
 Service_105=Almacenamiento personal remoto disponible <font color='#37C7DF'>(F3)</font>
