@@ -1,4 +1,4 @@
-[Común]
+[Common]
 Apply_1=En uso
 Apply_2=Uso
 Apply_3=Reclamar
@@ -6,14 +6,14 @@ OX_O=O
 OX_X=-
 
 [PlatinumService]
-Service_101=Cajas de inicio de sesión gratis todos los días
+Service_101=Cajas de login gratis todos los días
 Service_103=Emoticonos adicionales
 Service_104=Teletransporte remoto <font color='#37C7DF'>(F2)</font>
 Service_105=Almacenamiento personal remoto disponible <font color='#37C7DF'>(F3)</font>
 Service_106=Almacenamiento remoto de cuenta disponible <font color='#37C7DF'>(F4)</font>
-Servicio_107=Desmantelamiento Remoto <font color='#37C7DF'>(F5)</font>
-Servicio_108=Tienda de pociones remota <font color='#37C7DF'>(F6)</font>
-Servicio_109=Buzón remoto <font color='#37C7DF'>(F7)</font>
+Service_107=Desmantelamiento Remoto <font color='#37C7DF'>(F5)</font>
+Service_108=Tienda de pociones remota <font color='#37C7DF'>(F6)</font>
+Service_109=Buzón remoto <font color='#37C7DF'>(F7)</font>
 Service_110=Registro adicional de artículos de corredor de comercio +10
 Service_111=Tarifa de corredor de comercio (Zen) y (Redzen) cambiada a 6%.
 Service_112=Opción de registro de 72 horas de Trade Broker
@@ -52,7 +52,7 @@ Service_504=Teletransporte remoto <font color='#37C7DF'>(F2)</font>
 Service_505=Almacenamiento personal remoto disponible <font color='#37C7DF'>(F3)</font>
 Service_506=Almacenamiento remoto de cuenta disponible <font color='#37C7DF'>(F4)</font>
 Service_507=Desmantelamiento remoto <font color='#37C7DF'>(F5)</font>
-Servicio_508=Tienda de pociones remota <font color='#37C7DF'>(F6)</font>
+Service_508=Tienda de pociones remota <font color='#37C7DF'>(F6)</font>
 Service_509=Buzón remoto <font color='#37C7DF'>(F7)</font>
 Service_510=Registro adicional de artículos de corredor de comercio +10
 Service_511=Tarifa de corredor de comercio (Zen) y (Redzen) cambiada a 6%.
@@ -80,7 +80,7 @@ Service_4=Emoticonos adicionales
 Service_5=Teleporte
 Service_6=Correo remoto
 Service_7=Almacenamiento de cuenta
-Servicio_8=Almacenamiento personal
+Service_8=Almacenamiento personal
 Service_9=Desmantelamiento a distancia
 Service_10=Tienda a distancia
 Service_11=Registro de artículos del corredor de bolsa
@@ -89,12 +89,12 @@ Service_13=Periodo de registro de Trade Broker
 ServceBenefit_1=+%s_1
 ServceBenefit_2=Cajas Premium x%s_1
 ServceBenefit_3=+%s_1
-Prestación de servicio_4=%s_1
-Prestación de servicio_5=%s_1
-Prestación de servicio_6=%s_1
-Prestación de servicio_7=%s_1
-Prestación de servicio_8=%s_1
-Prestación de servicio_9=%s_1
+ServceBenefit_4=%s_1
+ServceBenefit_5=%s_1
+ServceBenefit_6=%s_1
+ServceBenefit_7=%s_1
+ServceBenefit_8=%s_1
+ServceBenefit_9=%s_1
 ServceBenefit_10=%s_1
 ServceBenefit_11=+%s_1
 ServceBenefit_12=%s_1% -> %s_2%.
