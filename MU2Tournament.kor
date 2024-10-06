@@ -159,15 +159,15 @@ Index_30009=1-1
 Index_40008=1-2
 Index_50007=1-3
 Index_50008=3-1
-Índice_50009=2-1
-Índice_50010=1-4
-Índice_60007=2-2
-Índice_60008=1-5
-Índice_60010=1-6
-Índice_60011=2-3
-Índice_60012=1-7
-Índice_30011=1-8
-Índice_40012=1-9
+Index_50009=2-1
+Index_50010=1-4
+Index_60007=2-2
+Index_60008=1-5
+Index_60010=1-6
+Index_60011=2-3
+Index_60012=1-7
+Index_30011=1-8
+Index_40012=1-9
 
 [RoundName]
 Round_6=¡Ahora envíe el equipo para los primeros partidos preliminares!
@@ -179,18 +179,18 @@ Round_11=3ª Preliminares
 Round_12=¡Ahora salida para el partido final!
 Round_13=Partido final
 
-[Calendario_del_torneo]
-Horario_1=Comienza la aplicación de la 1ª ronda
-Horario_2=1ª ronda aplicación finaliza
-Horario_3=Comienza la inscripción para la 2ª ronda
-Horario_4=finaliza la solicitud de la 2ª ronda
+[Tournament_Schedule]
+Schedule_1=Comienza la aplicación de la 1ª ronda
+Schedule_2=1ª ronda aplicación finaliza
+Schedule_3=Comienza la inscripción para la 2ª ronda
+Schedule_4=finaliza la solicitud de la 2ª ronda
 Schedule_5=Comienza la creación de unidades de ataque
 Schedule_6=1ª salida preliminar comienza
 Schedule_7=Comienzan los preliminares de la 1ª ronda
 Schedule_8=Comienza la 2ª salida preliminar
-Horario_9=Comienzan las preliminares de la 2ª ronda
-Horario_10=3ª salida preliminar comienza
-Horario_11=Comienzan las 3as preliminares
+Schedule_9=Comienzan las preliminares de la 2ª ronda
+Schedule_10=3ª salida preliminar comienza
+Schedule_11=Comienzan las 3as preliminares
 Schedule_12=Comienza la partida para el partido final
 Schedule_13=Comienza el partido final
 Schedule_14=Finaliza el Torneo
@@ -279,7 +279,7 @@ StateDesc_13=El partido final ha comenzado.Quien lo gane se hará dueño del ter
 StateTitle_14=Torneo cerrado
 StateDesc_14=Todos los partidos del Torneo han terminado, y los dueños de los territorios han cambiado.<br>¡Ahora tienes una semana para prepararte para el próximo Torneo!
 
-[Estado_del_Torneo]
+[Tournament_State]
 State_0=Tu partido comenzará en breve.
 State_1=Solicitado en 1ª ronda
 State_2=Seleccionado en 1ª ronda

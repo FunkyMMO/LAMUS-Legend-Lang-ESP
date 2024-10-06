@@ -1918,30 +1918,30 @@ Level_2=2
 Level_3=3
 Level_4=4
 Level_5=5
-Nivel_6=Mítico 1
-Nivel_7=Mítico 2
-Nivel_8=Mítico 3
-Nivel_9=Mítico 4
-Nivel_10=Mítico 5
-Nivel_11=Mítico 6
-Nivel_12=Mítico 7
-Nivel_13=Mítico 8
-Nivel_14=Mítico 9
-Nivel_15=Mítico 10
+Level_6=Mítico 1
+Level_7=Mítico 2
+Level_8=Mítico 3
+Level_9=Mítico 4
+Level_10=Mítico 5
+Level_11=Mítico 6
+Level_12=Mítico 7
+Level_13=Mítico 8
+Level_14=Mítico 9
+Level_15=Mítico 10
 Level_4_1=Épico 1
 Level_4_2=Épico 2
 Level_4_3=Épico 3
 Level_4_4=Épico 4
 Level_4_5=Épico 5
-Nivel_4_6=Evaluación 6
-Nivel_4_7=Evaluación 7
+Level_4_6=Evaluación 6
+Level_4_7=Evaluación 7
 Level_4_8=Epico 8
 Level_4_9=Epico 9
 Level_4_10=Epico 10
-Seleccionar_1=1
-Seleccionar_2=2
-Seleccionar_3=3
-Seleccionar_4=4
+Select_1=1
+Select_2=2
+Select_3=3
+Select_4=4
 Select_5=5
 PVE_Enter_0=Privado
 PVE_Enter_1=Público
@@ -1949,7 +1949,7 @@ PVE_Enter_1=Público
 [ItemLevel]
 Level=Nivel %d
 Levelav=Nivel medio del objeto %d
-Nivel=Nivel
+Tier=Nivel
 
 [PartyDungeon]
 LS_Title=Reclutando Jugadores
@@ -2063,7 +2063,7 @@ AbilityRange_Point=%s_1 - %s_2
 AbilityRange_Percent=%s_1% - %s_2%
 AbilityValue_Point=%s_1
 AbilityValue_Percent=%s_1
-Premium=*Premio
+Premium=*Objeto Premium
 
 [ToolTip_CashShop]
 ItemType=Producto
@@ -2084,7 +2084,7 @@ ItemLimitCharacterDaily=Por personaje al día
 ItemLimitCharacterWeek=Por personaje a la semana
 ItemLimitCharacterMonth=Por personaje al mes
 
-[Nivel de cuenta]
+[Account_Level]
 ek_buff_stat_str=Aumenta la fuerza en <font color='#11F210'>%s_1</font>
 ek_buff_stat_dex=Aumenta la Destreza en <font color='#11F210'>%s_1</font>
 ek_buff_stat_con=Aumenta la salud en <font color='#11F210'>%s_1</font>
@@ -2096,7 +2096,7 @@ ek_buff_magic_weapon_max_dam=Aumenta el Ataque Mágico Máximo en <font color='#
 ek_buff_max_hp=Aumenta el HP máximo en <font color='#11F210'>%s_1 %</font>
 ek_buff_max_mp=Aumenta el PM máximo en <font color='#11F210'>%s_1 %</font>
 
-[Evento]
+[Event]
 Event_Title=<font size='15' color='#FDC243'>Evento Tiempo de Oro</font>¶
 Event_0=EXP de monstruos +<font color='#11F210'>%s_1%</font>¶
 Event_1=EXP del alma de monstruos: +<font color='#11F210'>%s_1%</font>¶
@@ -2112,18 +2112,18 @@ EnchantEvent_ImputedRedzenDiscountRateStr=Coste de Redzen para Encantamiento Pro
 EnchantEvent_TimeFormat=¶<font color='#59FFBD'>Hasta DD, MM, YY, hh:mm</font>
 Survey_Title=<font size='15' color='#FDC243'>Nueva encuesta disponible</font><br>
 Survey_1=Encuesta de primera impresión
-Encuesta_2=Etapas iniciales
-Encuesta_3=Encuesta sobre la mina Magic Gem
-Encuesta_4=Encuesta sobre la mina secreta de Luery
-Encuesta_5=Encuesta sobre el jardín de Fabrice
-Encuesta_6=Encuesta Castillo de Sangre
-Encuesta_7=Encuesta Torre sin fin
-Encuesta_8=Etapas posteriores Encuesta
-Encuesta_9=Sanctum de los Caballeros del Dragón Encuesta
-Encuesta_10=Castillo del Dragón Encuesta
+Survey_2=Etapas iniciales
+Survey_3=Encuesta sobre la mina Magic Gem
+Survey_4=Encuesta sobre la mina secreta de Luery
+Survey_5=Encuesta sobre el jardín de Fabrice
+Survey_6=Encuesta Castillo de Sangre
+Survey_7=Encuesta Torre sin fin
+Survey_8=Etapas posteriores Encuesta
+Survey_9=Sanctum de los Caballeros del Dragón Encuesta
+Survey_10=Castillo del Dragón Encuesta
 Survey_11=Lupa's Labyrinth Encuesta
 Survey_12=Encuesta Arena
-Encuesta_13=Encuesta Altar de los Espíritus
+Survey_13=Encuesta Altar de los Espíritus
 Event_Login_Title=<font size='15' color='#FDC243'>Evento de Comprobación de Inicio de Sesión</font>
 Event_Login_Desc=: Abrir ventana de comprobación de inicio de sesión
 Event_LoginClass_Title=<font size='15' color='#FDC243'>Evento Black Phantom</font>
@@ -2616,7 +2616,7 @@ Survey_11_Subject=<Font color='#BCE55C'>Encuesta sobre el Laberinto de Lupa</Fon
 Survey_11_Question_1=¿Le ha gustado el Laberinto de Lupa?
 Survey_11_Question_1_Choice_1=Muy satisfactorio
 Survey_11_Question_1_Choice_2=Satisfactorio
-Encuesta_11_Question_1_Choice_3=Normal
+Survey_11_Question_1_Choice_3=Normal
 Survey_11_Question_1_Choice_4=Insatisfactorio
 Survey_11_Question_1_Choice_5=Muy insatisfactorio
 Survey_11_Question_2=Deja un comentario sobre el Laberinto de Lupa.
@@ -2626,15 +2626,15 @@ Survey_12_Question_1=¿Le ha gustado la Arena?
 Survey_12_Question_1_Choice_1=Muy satisfactorio
 Survey_12_Question_1_Choice_2=Satisfactorio
 Survey_12_Question_1_Choice_3=Normal
-Encuesta_12_Cuestion_1_Choice_4=Insatisfactorio
-Encuesta_12_Question_1_Choice_5=Muy insatisfactorio
+Survey_12_Cuestion_1_Choice_4=Insatisfactorio
+Survey_12_Question_1_Choice_5=Muy insatisfactorio
 Survey_13_Information=Hola, este es un mensaje de LAMUS.<br>Esta encuesta está diseñada para registrar su <Font color='#FFCD12'>evaluación del Altar de los Espíritus</Font>.
 Survey_13_Subject=<Font color='#BCE55C'>Encuesta sobre el Altar de los Espíritus</Font>
 Survey_13_Question_1=¿Le ha gustado Altar de los Espíritus?
 Survey_13_Question_1_Choice_1=Muy satisfactorio
-Encuesta_13_Question_1_Choice_2=Satisfactorio
-Encuesta_13_Question_1_Choice_3=Normal
-Encuesta_13_Question_1_Choice_4=Insatisfactorio
+Survey_13_Question_1_Choice_2=Satisfactorio
+Survey_13_Question_1_Choice_3=Normal
+Survey_13_Question_1_Choice_4=Insatisfactorio
 Survey_13_Question_1_Choice_5=Muy insatisfactorio
 
 [DungeonGroup]
@@ -2941,21 +2941,21 @@ ContentsDesc_2=Este jardín oculto del antiguo dios Fabrice, desde que fue descu
 ContentsDesc_3=Esta mina produce Gemas Mágicas, que eran tan comunes como las piedras hace milenios.<br><br>- Accesible a través de la Sala del Deber en Ohrdor.<br>- Abundante en Gemas Mágicas y materiales.
 ContentsDesc_5=Esta bóveda secreta de Luery guarda la fortuna que ha amasado a través de la investigación de la Grieta. Actualmente está ocupada por los goblins furiosos que fueron sobreexplotados y maltratados por Luery.<br><br>- Accesible a través de la Sala del Deber en Ohrdor.<br>- Puedes conseguir grandes cantidades de Zen.
 ContentsDesc_4=Es el castillo de Anilata, la líder de los Cruzados que fueron sellados dentro del Ataúd de Cristal por Rugard. Pandemonium quiere resucitar a Anilata para debilitar el poder de Rugard.<br><br>- Accesible a través de la Sala del Deber en Ohrdor.<br>- Elimina a Anilata más rápidamente dentro del límite de tiempo para conseguir una mejor recompensa.
-ContenidoDesc_6=Rugard y Bulcan construyeron esta alta torre para enfrentar a sus criaturas contra las del otro. En los pisos superiores de la torre aguardan enemigos más formidables.<br><br>- Accesible a través de la Sala del Deber en Ohrdor.<br>- Si superas una fase lo suficientemente rápido, podrás saltarte varias fases.
+ContentsDesc_6=Rugard y Bulcan construyeron esta alta torre para enfrentar a sus criaturas contra las del otro. En los pisos superiores de la torre aguardan enemigos más formidables.<br><br>- Accesible a través de la Sala del Deber en Ohrdor.<br>- Si superas una fase lo suficientemente rápido, podrás saltarte varias fases.
 ContentsDesc_7=Es un laberinto gigante creado dentro del reloj de Lupa. Puedes manipular la deformación del espaciotiempo dentro del laberinto y seleccionar su nivel de dificultad entre 100 niveles diferentes.<br><br>- Accesible a través de la Sala del Deber en Ohrdor.<br>- Abundante en materiales de Artefacto y EXP.<br>- Para hacer crecer tu artefacto rápidamente, alcanza el 100% de Puntos de Muerte de Monstruos dentro del límite de tiempo.
 ContentsDesc_11=Cuando la Grieta se descontrola, su poderosa energía puede causar una deformación del espacio-tiempo en los campos que hay fuera de ella, creando un pasadizo entre este reino terrenal y el Pandemónium. Depende de los guerreros del Continente MU proteger su mundo contra los formidables enemigos del Pandemónium.<br><br>- Cuando termina el modo Rift Overdrive, se produce un evento Field Raid en el continente correspondiente.<br>- Un evento Boss Monster Raid o Monster Invasion a gran escala se produce aleatoriamente.<br>- Se necesitan al menos 20 jugadores para superar este evento.
 ContentsDesc_12=Lucha contra la versión IA del personaje de otro jugador uno contra uno. El PvP aquí es menos estresante, ya que no estás luchando contra jugadores reales.<br><br>- Hasta 10 combates por entrada.<br>- Concede Gemas Mágicas como recompensa.
 ContentsDesc_13=Equipos de 3 jugadores pueden luchar entre sí.<br><br>- Gana el equipo que consiga más puntos de muerte antes que el otro dentro del límite de tiempo.<br>- Gana puntos de victoria en el modo cooperativo y asciende en las ligas para conseguir más Fighter's Tokens.<br>- Los Fighter's Tokens se pueden canjear por varias monedas del juego.
-ContenidoDesc_14=El Pozo de los Muertos es significativamente más desafiante que las mazmorras épicas más duras. Su nivel de dificultad más alto es más duro que el Laberinto de Lupa de nivel 100.<br><br>- Consta de 3 fases.<br>- Debes superar cada fase dentro del tiempo límite para pasar a la siguiente.<br>- Cada fase consta de múltiples monstruos Jefe y Élite.<br>- Puedes conseguir Cubos Aveeter/Fantasma, que contienen Accesorios de Set.
+ContentsDesc_14=El Pozo de los Muertos es significativamente más desafiante que las mazmorras épicas más duras. Su nivel de dificultad más alto es más duro que el Laberinto de Lupa de nivel 100.<br><br>- Consta de 3 fases.<br>- Debes superar cada fase dentro del tiempo límite para pasar a la siguiente.<br>- Cada fase consta de múltiples monstruos Jefe y Élite.<br>- Puedes conseguir Cubos Aveeter/Fantasma, que contienen Accesorios de Set.
 ContentsDesc_15=La Cueva del Demonio de Fuego es donde reside el Monarca Naklokhan, llena de lava hirviendo y llamas abrasadoras. <br>Naklokhan está empeñado en derretir la Cueva del Demonio de Hielo, para vengarse de su archienemiga y dueña de la cueva, Avalanchera. <br>La Cueva del Demonio de Fuego es difícil, recomendada para Guardianes con al menos 180.000 de Poder de Combate.
 ContentsDesc_16=La Cueva del Demonio de Hielo es donde reside la monarca Avalanchera, llena de nieve y hielo. <br>Avalanchera está empeñado en congelar la Cueva del Demonio de Fuego, para vengarse de su archienemigo y dueño de la cueva, Naklokhan. <br>La Cueva del Demonio de Hielo es difícil, recomendada para Guardianes con al menos 180.000 de Poder de Combate.
 ContentsDesc_17=Cuando el reloj de Lupa se rompió, cambió radicalmente el Laberinto. Puedes manipular la energía oscura dentro del Laberinto y abrirte camino a través de numerosas etapas.<br><br>- Accesible a través de la Sala del Deber en Ohrdor.<br>- Abundante en recompensas por fabricar y hacer crecer tus Artefactos.<br>- Para hacer crecer tu Artefacto rápidamente, llena el medidor al 100% dentro del límite de tiempo matando monstruos. <br>Si dejas que el residuo espiritual dentro de este Laberinto deformado se acumule hasta cierta cantidad, te enfrentarás a un gran desafío.<br><font color='#FDD889'>La dificultad aumenta aún más a partir de la fase 51 del Laberinto Despertado de Lupa, con monstruos de más de nivel 80 que empiezan a aparecer.</font><br><font color='#FDD889'>Los Comerciantes Negros también empiezan a aparecer a partir de la fase 51 y se pueden conseguir cubos especiales como recompensa.</font>
 ContentsDesc_18=Significa la escaramuza del avance del continente devildom, y el avance a devildom puede ser posible algún día si la tecnología de desarrollo del guantelete se actualiza y la ruta es pionera.<br><br>- Se puede entrar por Ohrdor > Guilds Harbor. <br>- Tiene una dificultad alta y se recomienda el cooperativo.<br>- Puedes adquirir recompensas especiales de Kyle completando la misión diaria (ESC).<br><br><font color='#FDD889'>- Los monstruos de Lv. 80 aparecen en la dificultad 2 de la defensa del avión, y la dificultad y la recompensa aumentan aún más.</font>
 ContentsDesc_19=El Área Restringida 6-1 es una formidable mazmorra en la que los Ashase llevaron a cabo un plan secreto. Esta mazmorra es mucho más difícil que las mazmorras Míticas.<br><br>- Las mazmorras Épicas tienen un nivel de dificultad muy alto.<br><font color='#FE6D03'>- Solo los personajes con al menos 280.000 de Poder de Combate pueden entrar en ellas.<br></font>- Te recomendamos que entrenes en las mazmorras Míticas y en el Laberinto de Lupa hasta que cumplas el requisito de Poder de Combate de las mazmorras Épicas.
-ContenidoDesc_20=Rugard y Bulcan pondrán a prueba vuestra fuerza y trabajo en equipo como Guardianes. Superad las distintas pruebas de los dioses, y os haréis más fuertes como Guardianes.<br><br>- El campo de pruebas se crea en algún lugar de Wellspring Haven, Noria.<br>- El Mensajero de los Dioses aparece a intervalos regulares, y a aquellos que lo derroten les esperan recompensas.<br><font color='#FE6D03'>- El Mensajero de los Dioses tiene HP muy altos. Derrotarlo requiere la cooperación de muchos Guardianes.</font>
-ContenidoDesc_21=50 personajes luchan por convertirse en el único superviviente. <br><br>- El emparejamiento se realiza cada 5 minutos entre las 14:00 y las 15:00 y entre las 22:00 y las 23:00.<br>- Si mueres aunque sea una vez, quedarás fuera del juego y se decidirá tu rango.<br>- Cuanto más tiempo sobrevivas en el Campo de Batalla Ardiente, mayor será tu rango.<br>- Tu rango determina la cantidad y calidad de tus recompensas.
+ContentsDesc_20=Rugard y Bulcan pondrán a prueba vuestra fuerza y trabajo en equipo como Guardianes. Superad las distintas pruebas de los dioses, y os haréis más fuertes como Guardianes.<br><br>- El campo de pruebas se crea en algún lugar de Wellspring Haven, Noria.<br>- El Mensajero de los Dioses aparece a intervalos regulares, y a aquellos que lo derroten les esperan recompensas.<br><font color='#FE6D03'>- El Mensajero de los Dioses tiene HP muy altos. Derrotarlo requiere la cooperación de muchos Guardianes.</font>
+ContentsDesc_21=50 personajes luchan por convertirse en el único superviviente. <br><br>- El emparejamiento se realiza cada 5 minutos entre las 14:00 y las 15:00 y entre las 22:00 y las 23:00.<br>- Si mueres aunque sea una vez, quedarás fuera del juego y se decidirá tu rango.<br>- Cuanto más tiempo sobrevivas en el Campo de Batalla Ardiente, mayor será tu rango.<br>- Tu rango determina la cantidad y calidad de tus recompensas.
 ContentsDesc_22=La Antigua Arca Kanturiana es un lugar misterioso donde yacen latentes la gloria de una antigua civilización y su tecnología. Es mucho más difícil que la dificultad Mítica.<br><br>- Las mazmorras Épicas tienen un nivel de dificultad muy alto.<br><font color='#FE6D03'>- Solo los personajes con al menos 500.000 de Poder de Combate pueden entrar en ellas.<br></font>- Te recomendamos que entrenes en las mazmorras Míticas y en el Laberinto de Lupa hasta que cumplas el requisito de Poder de Combate de las mazmorras Épicas.
-ContenidoDesc_23=La quintaesencia de la ingeniería mágica diseñada por Kundun y Etramu. En los pisos superiores de la torre aguardan enemigos más formidables.<br><br>- Accesible a través de la Sala del Deber en Ohrdor.<br>- Si superas una fase con la suficiente rapidez, podrás saltarte varias fases.<br>Mientras estás parado tras superar una fase, puedes usar el conductor de ingeniería mágica para experimentar el poder de la ingeniería mágica.
+ContentsDesc_23=La quintaesencia de la ingeniería mágica diseñada por Kundun y Etramu. En los pisos superiores de la torre aguardan enemigos más formidables.<br><br>- Accesible a través de la Sala del Deber en Ohrdor.<br>- Si superas una fase con la suficiente rapidez, podrás saltarte varias fases.<br>Mientras estás parado tras superar una fase, puedes usar el conductor de ingeniería mágica para experimentar el poder de la ingeniería mágica.
 ContentsDesc_10000=Reino de la Perseverancia: Proof es una cueva oscura donde se encuentra Death Roar, el dragón guardián. <br>Quien demuestre su valía derrotando a Rugido de la Muerte en esta última etapa de Reino de la Perseverancia se hará merecedor de entrar en el Salón de la Sabiduría oculto tras la guarida de Rugido de la Muerte. <br>Reino de la Perseverancia: La prueba es extremadamente difícil.
 ContentsDesc_24=El Dios del Corredor es un Mapa de Misión en solitario en el que puedes luchar contra oleadas de enemigos durante un tiempo determinado.<br>La batalla termina inmediatamente cuando se acaba el tiempo o si mueres. Usa la habilidad Liberación de Tiza cuando estés en peligro. Te otorgará un poder más allá de tu imaginación.<br><font color='#FE6D03'>- Se requiere el 1er Renacimiento.<br></font>
 ContentLevel_1=Nivel requerido

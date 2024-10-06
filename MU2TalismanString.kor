@@ -1346,22 +1346,22 @@ Talisman_Msg_Main=¡Obtuviste un Núcleo de Talismán!
 Talisman_Msg_Sub=Puedes crear y atravesar Talismanes en la IU de Talismanes (,).
 
 [Talisman_Grade]
-Grado_1=Normal
-Grado_2=No común
-Grado_3=Raro
-Grado_4=Heroico
+Grade_1=Normal
+Grade_2=No común
+Grade_3=Raro
+Grade_4=Heroico
 Grade_5=Legendario
 Grade_6=Antiguo
 Grade_7=Mítico
 Grade_8=Set
 Grade_9=Único
-Nivel=%s_1/Nivel %s_2
+Level=%s_1/Nivel %s_2
 
 [Talisman_Collection_Option]
-Valor_Tipo_Punto=<font color='#1ff210'>+%s_1</font>
-Valor_Tipo_Tasa=<font color='#1ff210'>+%s_1%</font>
+Value_Type_Point=<font color='#1ff210'>+%s_1</font>
+Value_Type_Rate=<font color='#1ff210'>+%s_1%</font>
 DefaultValue_Type_Point=+%s_1
-Valor_Tipo_Tasa=+%s_1% por defecto
+Value_Type_Rate=+%s_1% por defecto
 
 [Talisman_Error_Code]
 Error_Title=Error Talisman (sólo depuración)
@@ -1388,7 +1388,7 @@ Error_18=NOT_ENOUGH_MATERIAL_ITEM
 [Talisman_Unit_Mission]
 Mission_0=Alcanzar Nivel %s_1 (%s_2/%s_3)
 Mission_1=Romper %s_1 veces (%s_2/%s_3)
-Misión_2=Despertar %s_1 veces (%s_2/%s_3)
+Mission_2=Despertar %s_1 veces (%s_2/%s_3)
 
 [Talisman_Unit_Name]
 UnitNameAssemble=%s_1 %s_2/%s_3
@@ -1495,7 +1495,7 @@ Limit_Break_N=
 
 [Talisman_Awaken_Effect]
 None=
-Punto_de_recogida=
+Collection_Point=
 Talisman_Point=
 CoolTime=
 Max_Use_Count=
@@ -1509,5 +1509,5 @@ Skill_Change=Cambiar efecto a habilidad de talismán despertado
 Condition_0=(No usado)
 Condition_1=En posesión
 Condition_2=Alcanzar nivel %s_1
-Condición_3=Superar %s_1 veces
-Condición_4=Despertar %s_1
+Condition_3=Superar %s_1 veces
+Condition_4=Despertar %s_1

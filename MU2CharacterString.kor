@@ -11,7 +11,7 @@ DarkLord=Una clase con ataque y defensa equilibrados, basada en su alta salud y 
 Blader=Devasta a los enemigos en primera línea con una combinación de habilidades de carga rápida y varias habilidades de control de masas. Su gran movilidad le permite actuar como atacante cuerpo a cuerpo y como tanque en primera línea.
 Warmage=Tiene una salud y una defensa relativamente bajas, pero puede realizar los ataques de área más potentes. Se puede construir de muchas formas, como un mago con un bastón o un asesino con una espada.
 Whisperer=Poderoso repartidor de daño a distancia con gran movilidad. Capaz de emplear una amplia gama de estrategias, utilizando no sólo arcos, sino también trampas, proyectiles de humo y el poder de la naturaleza.
-Enfatizador=Basándose en su habilidad para despertar un poder perdido para controlar objetos y mentes, un Enfatizador puede manipular armas libremente para realizar ataques a distancia, inmovilizar o controlar mentalmente a un pequeño grupo de objetivos.
+Emphasizer=Basándose en su habilidad para despertar un poder perdido para controlar objetos y mentes, un Enfatizador puede manipular armas libremente para realizar ataques a distancia, inmovilizar o controlar mentalmente a un pequeño grupo de objetivos.
 Blackphantom=Ejerce magia que utiliza Esencia Oscura para infligir un potente daño explosivo a los enemigos. También es capaz de ejercer control de área utilizando habilidades que pueden afectar a un área durante un largo periodo de tiempo.
 
 [RaceName]
@@ -27,56 +27,56 @@ Cantur=Los kanturianos son una raza antigua y una civilización de alta tecnolog
 Ashas=Los Ashas son una raza que llegó a este mundo tras la caída de su mundo natal.  Aunque no tan avanzados como los Humanos o los Elfos, los Ashas son capaces de comunicaciones espirituales con sus sacerdotes como centro. Toda la raza es los ojos y oídos de sus sacerdotes, y esta habilidad les ha ayudado a proteger su tierra y prosperar a pesar de su conflicto con los elfos.
 
 [CharacterGuide_DarkLord_0]
-Título=Mando
-ArmaRecomendada=Bludgeons y Escudos
+Title=Mando
+RecommendWeapon=Bludgeons y Escudos
 RecommendAbility=Defensa
 Desc=El Dark Lord asumió el papel de liderar las batallas en primera línea. Varias habilidades de recuperación y apoyo le permiten maximizar la eficacia en combate de los miembros del grupo.
 
 [CharacterGuide_DarkLord_1]
-Título=Destrucción
-ArmaRecomendada=Golpe a dos manos
+Title=Destrucción
+RecommendWeapon=Golpe a dos manos
 RecommendAbility=Ataque
 Desc=Un tipo de Dark Lord que empuña un garrote a dos manos en lugar de un escudo para centrarse en infligir daño. Sus poderosos ataques de área y sus habilidades de control de masas hacen estragos entre los enemigos.
 
 [CharacterGuide_Blader_0]
-Título=Madness
-ArmaRecomendada=Gran Espada
+Title=Madness
+RecommendWeapon=Gran Espada
 RecommendAbility=Ataque
 Desc=Blader es un guerrero de asalto versátil que puede responder a cualquier situación que se presente. Sus poderosas habilidades de supervivencia instantánea le permiten sobrevivir incluso tras las líneas enemigas.
 
 [CharacterGuide_Blader_1]
-Título=Salvaje
-ArmaRecomendada=Cuchilla Doble
+Title=Salvaje
+RecommendWeapon=Cuchilla Doble
 RecommendAbility=Ataque
 Desc=Una alta velocidad de ataque y una amplia gama de habilidades de movimiento le permiten un combate de ritmo rápido. Puedes infligir gran daño de inmediato usando habilidades de ataque de área con tiempos de lanzamiento cortos.
 
 [CharacterGuide_Warmage_0]
-Título=Magia
-ArmaRecomendada=Bastón
+Title=Magia
+RecommendWeapon=Bastón
 RecommendAbility=Ataque
 Desc=Se especializa en ataques de área a distancia. Puede situarse en la retaguardia e infligir un daño masivo en una amplia zona.
 
 [CharacterGuide_Warmage_1]
 Title=Asesino
-ArmaRecomendada=Espadas Mágicas y Grimorios
+RecommendWeapon=Espadas Mágicas y Grimorios
 RecommendAbility=Ataque
 Desc=Una forma única de subir de nivel centrándose en los ataques cuerpo a cuerpo usando una espada mágica en lugar de un bastón. A pesar de la falta de ataques de área, puedes realizar ataques rápidos y elaborados.
 
 [CharacterGuide_Whisperer_0]
 Title=Estrategia
-ArmaRecomendada=Arco Largo
+RecommendWeapon=Arco Largo
 RecommendAbility=Ataque
 Desc=Un Whisperer es una clase optimizada para forzar batallas que se ajusten a sus preferencias. Son poderosos repartidores de daño a distancia capaces de controlar el equilibrio de una batalla.
 
 [CharacterGuide_Whisperer_1]
 Title=Disparo Salvaje
-ArmaRecomendada=Pistola
+RecommendWeapon=Pistola
 RecommendAbility=Ataque
 Desc=Una Pistola de Alas es un arma de alcance medio con menos alcance que un arco. Puedes convertirte en un puro repartidor de daño, disparando poderosas flechas a varios enemigos a media distancia.
 
 [CharacterGuide_Emphasizer_0]
-Título=Rampage
-ArmaRecomendada=Chakram
+Title=Rampage
+RecommendWeapon=Chakram
 RecommendAbility=Ataque
 Desc=Los Chakrams son armas de medio alcance efectivas para enfrentarse a varios enemigos. Ayudan a sus usuarios a debilitar la Defensa de los enemigos y destruirlos desde una distancia segura.
 
@@ -87,13 +87,13 @@ RecommendAbility=Salud
 Desc=Las Cuchillas de Cadena están optimizadas para fortalecer a sus usuarios y a los aliados que los rodean. Debilitan a los enemigos cercanos mientras fortalecen a los aliados cercanos, potenciando el trabajo en equipo.
 
 [CharacterGuide_Blackphantom_0]
-Título=Explosión
-ArmaRecomendada=Vara y Orbe
+Title=Explosión
+RecommendWeapon=Vara y Orbe
 RecommendAbility=Ataque
 Desc=La Varita puede infligir daño mortal a los enemigos mediante Marca Corrosiva. Los objetivos bajo la Marca Corrosiva recibirán daño extra.
 
 [CharacterGuide_Blackphantom_1]
-Título=Dominación
-ArmaRecomendada=Cadena de Maná
+Title=Dominación
+RecommendWeapon=Cadena de Maná
 RecommendAbility=HP
 Desc=La Cadena de Maná puede debilitar a los enemigos mediante la Marca Debilitadora para minimizar el daño que pueden infligir. La Marca de Debilitamiento maximizará tus posibilidades de supervivencia para que puedas atacar a los enemigos de forma más fiable.

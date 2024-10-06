@@ -185,7 +185,7 @@ LindaShop=Tienda Linda
 NebulaOpen_Request=Abrir Nebula
 NebulaItemEquip_Request=Insertar Gema Nebula
 
-[Mensaje]
+[Message]
 ServerDisconnect=Conexión con el servidor finalizada.
 EquipCustomSkill=¿Equipar esta cresta?
 UnEquipCustomSkill=Eliminar una cresta¶consume 1 Martillo de Artesano.¶¿Eliminar esta cresta?

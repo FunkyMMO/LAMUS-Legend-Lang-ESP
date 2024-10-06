@@ -204,7 +204,7 @@ Menu_1051001=Concepto básico
 Menu_1051002=Rebirth Conditions
 Menu_1051003=Caja del alma
 
-[Página_principal]
+[Main_Page]
 Title_1000001100=Movimiento y Ataques
 SubTitle_1000001101=Puedes moverte o atacar haciendo clic con el botón izquierdo del ratón.
 Contents_1000001103=Al hacer clic con el botón izquierdo del ratón en una ubicación, el personaje se moverá a esa ubicación.<br>Al hacer clic con el botón izquierdo del ratón en un objetivo atacable, se activará la habilidad principal del arma sobre él.

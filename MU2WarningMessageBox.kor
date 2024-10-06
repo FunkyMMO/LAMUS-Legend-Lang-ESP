@@ -4,13 +4,13 @@ DeadMsg_Revive_Town=Resucitar en la ciudad
 DeadMsg_Revive_Point_Same_Zone=Recuperar en el mismo punto
 DeadMsg_Revive_Point_Another_Zone=Resucitar en otro punto
 
-[Subtítulo]
+[SubTitle]
 EscapePosition=Volver a la entrada de la zona actual.
 DeadMsg_Revive_Town=%s_1
 DeadMsg_Revive_Point_Same_Zone=%s_1
 DeadMsg_Revive_Point_Another_Zone=%s_1
 
-[Mensaje]
+[Message]
 EscapePosition=Por favor, utiliza este comando sólo si estás atrapado en una zona inaccesible.
 DeadMsg_Revive_Town=Vuelve a la ciudad.
 DeadMsg_Revive_Point_Same_Zone=Recupera en el punto de control de la zona actual.
@@ -18,6 +18,6 @@ DeadMsg_Revive_Point_Another_Zone=Recupera en el punto de control de otra zona. 
 
 [WaitTime]
 EscapePosition=20
-DeadMsg_Revive_Pueblo=2
+DeadMsg_Revive_Town=2
 DeadMsg_Revive_Point_Same_Zone=2
 DeadMsg_Revive_Point_Another_Zone=5

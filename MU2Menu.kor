@@ -13,11 +13,11 @@ Option=Configuración del sistema
 Channel=Cambiar canal
 
 [PartyMenu]
-Cargo=Designar líder del grupo
+Charge=Designar líder del grupo
 Dismission=Desbandar
 RuleChange=Cambiar regla
-Destierro=Expulsar
-Abandono=Abandonar
+Banishment=Expulsar
+Leave=Abandonar
 
 [PartyOffMenu]
 Invitation=Invitar
