@@ -11,6 +11,8 @@ Chaos Castle=Chaos Castle
 Blood Castle=Blood Castle
 
 [Dungeon]
+Dungeon=Dungeon
+dungeon=dungeon
 
 [SkillsName] (Debe mantener el nombre de la Skill y el mismo nombre en las descripciones)
 Twisting Slash=Twisting Slash
