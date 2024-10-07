@@ -21,6 +21,10 @@ Rageful Blow=Rageful Blow
 
 [Items]
 Jewel of Bless=Jewel of Bless
+Party=Party
+Objeto=Item 
+Articulo=Item
+Gremio=Guild
 
 [NPC]
 

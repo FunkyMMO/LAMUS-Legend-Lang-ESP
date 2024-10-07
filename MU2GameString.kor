@@ -182,9 +182,9 @@ ItemGroup_17=Piedra Estelar
 ItemType_Default=Artículo
 ItemType_0=Zen
 ItemType_1=Común
-ItemType_2=Búsqueda
+ItemType_2=Misión
 ItemType_8=Material
-ItemType_16=Arte
+ItemType_16=Fabricar
 ItemType_Consume=Consumible
 ItemType_Armor=Armadura
 ItemType_Accessory=Accesorio
@@ -195,13 +195,13 @@ ItemType_TwoHandWeapon=Arma a dos manos
 ItemType_OneHnadWeapon=Arma de una mano
 
 [QuestStoryType]
-LS_QuestStoryType_1=Búsqueda principal
-LS_QuestStoryType_2=Búsqueda normal
-LS_QuestStoryType_3=Búsqueda diaria
-LS_QuestStoryType_4=Búsqueda de zona
+LS_QuestStoryType_1=Misión principal
+LS_QuestStoryType_2=Misión normal
+LS_QuestStoryType_3=Misión diaria
+LS_QuestStoryType_4=Misión de zona
 LS_QuestStoryType_5=Pasarela
-LS_QuestStoryType_7=Búsqueda de repetición
-LS_QuestStoryType_8=Búsqueda de evento
+LS_QuestStoryType_7=Misión de repetición
+LS_QuestStoryType_8=Misión de evento
 
 [QuestInfoViewFrame]
 LS_MissionDescTitle=Detalles de la misión
