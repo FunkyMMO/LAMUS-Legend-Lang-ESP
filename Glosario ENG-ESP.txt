@@ -29,3 +29,4 @@ Gremio=Guild
 [NPC]
 
 [Quest]
+Quest=Misión
