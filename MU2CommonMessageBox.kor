@@ -6,7 +6,7 @@ UnEquipCustomSkillNeedItem=Quitar cresta
 PurchaseExpandSlot=Ampliar almacén
 DeleteInventoryItem=Eliminar artículo
 DeleteInventoryItemHighGrade=Borrar artículo
-TearDownInventoryItem=Desmontar objeto
+TearDownInventoryItem=Desmontar Item
 Enchant_Begin=Encantar
 Enchant_High=Encantar
 AutoEnchant=Encantar automáticamente
@@ -28,11 +28,11 @@ AddManufactureJob=Seleccionar clase de artesanía
 RemoveManufactureJob=Abandonar Clase de Artesanía
 CreateManufactureFormula=Registrar diseño
 MeetHealer=Sanador
-OwnedItemEquipError=Equipar objeto limitado
-OwnedItemEquip=Equipar objeto limitado
+OwnedItemEquipError=Equipar Item limitado
+OwnedItemEquip=Equipar Item limitado
 OwnedItemSeal=Desligar artículo
 RepairAll=Reparar artículo
-RepairOne=Reparar objeto
+RepairOne=Reparar Item
 EnterNaviDungeon=Entrar en mazmorra de búsqueda
 EnterNaviDungeonUseStamp=Entrar en mazmorra de búsqueda
 ChangeMaterialItem=Cambiar material
@@ -71,8 +71,8 @@ ResetSoulPassiveSkill=Restablecer cofre del alma
 InvalidPosition=Mapa de viaje fallido
 OpenDungeonEnter=Entrar Público
 OpenExitDungeon=Salir de la mazmorra
-ChangeAppearance=Cambiar apariencia del objeto
-RemoveChangeAppearance=Quitar apariencia del objeto
+ChangeAppearance=Cambiar apariencia del Item
+RemoveChangeAppearance=Quitar apariencia del Item
 SurveySubmit=Encuesta
 GameSubmitSurvey=Encuesta
 NotifyFindParty=Anunciar mensaje de búsqueda de Party
@@ -98,14 +98,14 @@ Msg_Knightage_Ban_Disc=Prohibir miembro del gremio
 Msg_Knightage_Delegation_Accept=Designar líder del gremio
 ConsignmentRegistItemCancel=Cancelar venta de artículo
 RecvBusinessProfits=Recoger dinero
-ConsignmentBuyItem=Comprar objeto
+ConsignmentBuyItem=Comprar Item
 Change_CharacterName=Cambiar nombre de personaje
 Change_KnightageName=Nombrar Gremio
 Msg_Knightage_Invite=Invitar a Guild
 MegaPhoneMsg=Mensaje de megáfono
 RankingBless=Felicitar
 Msg_CheckCloseDealMeter=Apagar medidor de daño
-AdditionalOption=Imprimir objeto
+AdditionalOption=Imprimir Item
 Msg_ExtentionPeriodItem=Ampliar periodo de artículo
 Mopup_Request=Solicitud de subyugación
 PlatinumItemUse_117=Servicio Premium
@@ -151,7 +151,7 @@ Msg_Dominion_World_Buff=Disposición de Buff Mundial
 ExitTutorial=Tutorial
 OpenBraceletWarningMsg=Mensaje de advertencia
 Bracelet_Slot_Open=Ampliar ranuras de pulsera
-PromotionLimit=Comprar objetos de edición limitada
+PromotionLimit=Comprar Items de edición limitada
 ExitDawnTower_Die=Salir de la Torre del Amanecer
 ExitDawnTower_Complete=Salir de la Torre del Amanecer
 ExitDawnTower=Salir de la Torre del Amanecer
@@ -191,14 +191,14 @@ EquipCustomSkill=¿Equipar esta cresta?
 UnEquipCustomSkill=Eliminar una cresta¶consume 1 Martillo de Artesano.¶¿Eliminar esta cresta?
 UnEquipCustomSkillNeedItem=Para quitar una cresta,¶necesitas un Martillo de Artesano.¶¶Puedes comprarlo a un vendedor ambulante en cada ciudad.
 PurchaseExpandSlot=¿Añadir una ranura?
-DeleteInventoryItem=¿Eliminar este objeto?
-DeleteInventoryItemHighGrade=Es un objeto de grado %s_1.¶¿Eliminar el objeto?
-TearDownInventoryItem=%s_1 objeto¶¿Desmantelar este objeto?
+DeleteInventoryItem=¿Eliminar este Item?
+DeleteInventoryItemHighGrade=Es un Item de grado %s_1.¶¿Eliminar el Item?
+TearDownInventoryItem=%s_1 Item¶¿Desmantelar este Item?
 Enchant_Begin=<font size='18'>¿Encantar?</font>
-Enchant_High=<font size='18'>¿Encantar?</font><br><br><font color='#FF0000'>Atención: Su objeto será destruido si su encantamiento falla.</font><br><br><font color='#8a8a8a'>* Puede usar Encantamiento Protegido para proteger su objeto.</font>
-AutoEnchant=<font size='18'>¿Encantar automáticamente?</font><br><br><font color='#8a8a8a'>Tu objeto será encantado al nivel máximo en el rango de Encantamiento Seguro.</font>
-EncantamientoProtegido=<font size='18'>¿Usas Encantamiento Protegido?</font><br><br><font color='#8a8a8a'>1. El Encantamiento Protegido protege tu objeto. El Encantamiento Protegido protege tu objeto contra la destrucción.<br>2. Mientras previene la destrucción del objeto, disminuye su nivel de encantamiento en 1.</font>
-Enchant_OwnWarning=Intentar encantar un objeto lo vinculará a ti.
+Enchant_High=<font size='18'>¿Encantar?</font><br><br><font color='#FF0000'>Atención: Su Item será destruido si su encantamiento falla.</font><br><br><font color='#8a8a8a'>* Puede usar Encantamiento Protegido para proteger su Item.</font>
+AutoEnchant=<font size='18'>¿Encantar automáticamente?</font><br><br><font color='#8a8a8a'>Tu Item será encantado al nivel máximo en el rango de Encantamiento Seguro.</font>
+EncantamientoProtegido=<font size='18'>¿Usas Encantamiento Protegido?</font><br><br><font color='#8a8a8a'>1. El Encantamiento Protegido protege tu Item. El Encantamiento Protegido protege tu Item contra la destrucción.<br>2. Mientras previene la destrucción del Item, disminuye su nivel de encantamiento en 1.</font>
+Enchant_OwnWarning=Intentar encantar un Item lo vinculará a ti.
 EnchantTicket=¿Proceder con el encantamiento?
 KnightEnchantRestore=Confirma si quieres usar el ticket de encantamiento, si la mochila está llena te enviará un email.
 KnightEnchant_Protected=Has usado un ticket de encantamiento, y el ticket de encantamiento será deducido si la mejora falla
@@ -209,21 +209,21 @@ DeleteItemMail=Este correo tiene adjuntos.¶¿Borrarlo de todos modos?
 GetMailItem=¿Recibir el elemento adjunto?
 CancelWriteMail=Tiene una carta sin enviar.¶¿Cancelarla?
 OptionConfirm=Algunos elementos han cambiado.¶¿Aplicar los cambios y cerrar la ventana?
-RemoveMagicStoneError=Añadir un objeto con una Piedra Mágica equipada.
-RemoveMagicStone=La Piedra Mágica equipada en el objeto se perderá.¶¿Quitar la Piedra Mágica?
+RemoveMagicStoneError=Añadir un Item con una Piedra Mágica equipada.
+RemoveMagicStone=La Piedra Mágica equipada en el Item se perderá.¶¿Quitar la Piedra Mágica?
 GiveUpQuest=¿Abandonar la misión %s_1?
 AddManufactureJob=Selecciona la clase %s_1?<br>Sólo puedes seleccionar 2 clases.
 RemoveManufactureJob=Abandonar la clase de artesanía %s_1?<br>Perderás toda tu EXP de artesanía, grado y diseños de artesanía.
 CreateManufactureFormula=¿Registrar %s_1?
 MeetHealer=Requiere %s_1 Zen.
-OwnedItemEquipError=No se ha podido equipar el objeto.
-OwnedItemEquip=Este objeto se vincula al equiparlo. ¿Equipar?
-OwnedItemSeal=Desatar el objeto seleccionado con un pergamino de desatar.
-RepairAll=¿Reparar todos tus objetos equipados?
+OwnedItemEquipError=No se ha podido equipar el Item.
+OwnedItemEquip=Este Item se vincula al equiparlo. ¿Equipar?
+OwnedItemSeal=Desatar el Item seleccionado con un pergamino de desatar.
+RepairAll=¿Reparar todos tus Items equipados?
 RepairOne=¿Reparar %s_1?
 EnterNaviDungeon=¿Entrar en la Mazmorra de Búsqueda?
 EnterNaviDungeonUseStamp=¿Usar %s_1 y entrar en la Mazmorra de Búsqueda?
-ChangeMaterialItem=¿Cambiar el material del objeto?
+ChangeMaterialItem=¿Cambiar el material del Item?
 ConfirmDuelRequest=%s_1 ha solicitado un duelo.¶¿Aceptas el duelo?
 NotifyDuelRequestDisable=No puedes solicitar un duelo mientras estés en estado de espera de duelo.
 DismountSpecialSkill=¿Quitar %s_1 habilidad de experto?
@@ -236,16 +236,16 @@ DungeonAdmission=¿Entrar en la mazmorra?
 NewAdvDungeonAdmission=¿Entrar en una nueva Grieta?
 BossDungeonAdmission=¿Entrar en la sala del jefe?
 ExitDungeon=¿Salir de la mazmorra?
-Enchant_Transfer=%s_1<br><br><font size='15' color='#EEEEEE'>Los objetos consumibles se destruirán independientemente de los resultados de la transferencia de encantamiento.</font>
+Enchant_Transfer=%s_1<br><br><font size='15' color='#EEEEEE'>Los Items consumibles se destruirán independientemente de los resultados de la transferencia de encantamiento.</font>
 lsDungeonItem=No hay suficientes brújulas de dimensión.¶ Las brújulas de dimensión pueden aumentar los tipos y pisos de la Grieta.
 UseDungeonItem=¿Usar brújula de dimensión?¶La brújula de dimensión puede aumentar los tipos y niveles de la Grieta.
 ExitGuildHall=¿Salir de la zona del Gremio?
-DeadMsg_Revive_Item=¿Usar un objeto y resucitar ahora?
+DeadMsg_Revive_Item=¿Usar un Item y resucitar ahora?
 DeadMsg_Revive_RedZen=¿Usar Redzen y resucitar ahora?
 DeadMsg_Revive_PlatinumFree=¿Quieres gastar un Servicio Premium de Resurrección y resucitar en el acto?
-DeadMsg_Party_Member_Revive_Item=¿Usar un objeto y resucitar %s_1 ahora?
+DeadMsg_Party_Member_Revive_Item=¿Usar un Item y resucitar %s_1 ahora?
 DeadMsg_Party_Member_Revive_Redzen=¿Usas Redzen y resucitas %s_1 ahora?
-ItemDisassemble=¿Desmontar objeto(s)?
+ItemDisassemble=¿Desmontar Item(s)?
 ExitAltarOfElements=<font color='#FDC243'>¿Salir?</font><br><br>El Altar de los Espíritus no ha terminado.<br>Si sales ahora, no podrás entrar en el Altar de los Espíritus durante algún tiempo.
 ExitAltarOfElements_End=<font color='#FDC243'>¿Salir?</font>
 ExitEndlessTower_Die=<font color='#FDC243'>¿Salir?</font><br><br>Otros jugadores siguen subiendo a la Torre Sin Fin.<br>Si sales de la Torre Sin Fin ahora, no obtendrás recompensas.<br>Si otros jugadores han completado la conquista o si han muerto, podrás obtener recompensas.
@@ -275,7 +275,7 @@ Msg_Knightage_Invite_join_Text=El gremio <font color='#FDC243'>%s_1</font> te ha
 Msg_Knightage_Manage_Reset=Inicializando configuración del Gremio.<br>¿Proceder con la inicialización?
 Msg_Knightage_Manage_Undo=Restablecer ajustes del clan.<br>Los ajustes cambiados volverán a los anteriores.<br>¿Proceder con el restablecimiento?
 Msg_Knightage_Manage_Accept=Aplicar la configuración actual del Gremio.<br>¿Aplicar la configuración del Gremio?
-Msg_Knightage_Breakup_Disc=Seleccionado para disolver el Gremio.<br><br><font color='#FDC243'>%s_1</font><br><br>¿Disolver este Gremio?<br><font color='#FF0000'>Todos los objetos del Almacén del Gremio se perderán.
+Msg_Knightage_Breakup_Disc=Seleccionado para disolver el Gremio.<br><br><font color='#FDC243'>%s_1</font><br><br>¿Disolver este Gremio?<br><font color='#FF0000'>Todos los Items del Almacén del Gremio se perderán.
 Msg_Knightage_Manage_Confirm=Los ajustes del Gremio han cambiado.<br>¿Aplicar los cambios en los ajustes del Gremio?
 Msg_Knightage_Emblem_Reset=Inicializando el diseño del emblema.<br>¿Proceder con la inicialización?
 Msg_Knightage_Emblem_Undo=Cancelar el diseño de emblema modificado.<br>La configuración modificada volverá a la configuración anterior.<br>¿Proceder con la inicialización?
@@ -284,7 +284,7 @@ Msg_Knightage_Emblem_Confirm=Los ajustes del emblema han cambiado.<br>¿Aplicar 
 Msg_Knightage_Withdraw_Disc=Has solicitado abandonar tu gremio.<br><br><font color='#FDC243'>%s_1</font><br><br>¿Estás seguro?<br><br><font color='#999999'>Precaución: Si lo dejas y te unes a otro, serás puesto en el rango más bajo de miembro de gremio durante un tiempo.</font>
 Msg_Knightage_Ban_Disc=¿Prohibir a este personaje entrar en <font color='#FDC243'>%s_1</font>?<br><br><font color='#FDC243'>%s_2</font>
 Msg_Knightage_Delegation_Accept=¿Designas a <font color='#FDC243'>%s_2</font> como nuevo maestro del gremio <font color='#FDC243'>%s_1</font>?
-ConsignmentRegistItemCancel=¿Cancelar la venta del objeto registrado?
+ConsignmentRegistItemCancel=¿Cancelar la venta del Item registrado?
 RecvBusinessProfits=¿Cobrar el dinero?
 ConsignmentBuyItem=¿Comprar este artículo?
 Change_CharacterName=Nombra a tu personaje <font color='#FDC243'>%s_1</font>?<br>Selecciona OK para pasar a la ventana de Selección de Personaje.
@@ -294,38 +294,38 @@ MegaPhoneMsg=Introduzca un mensaje de megáfono.
 RankingBless=Felicita al personaje por alcanzar un nuevo rango?<br>*Recibirás EXP de Alma a cambio.
 Msg_CheckCloseDealMeter=Apaga el medidor de daño?<br>Siempre puedes volver a activarlo en Ajustes.
 AdditionalOption=¿Usar un <font color='#FDC243'>Pergamino de impresión</font> en %s_1?
-AdditionalOption_OwnWarning=Intentar Imprimir te vinculará al objeto.
-Msg_ExtentionPeriodItem=¿Ampliar el periodo de este objeto?
+AdditionalOption_OwnWarning=Intentar Imprimir te vinculará al Item.
+Msg_ExtentionPeriodItem=¿Ampliar el periodo de este Item?
 Mopup_Request=¿Utiliza <font color='#FBAF5D'>%s_1</font> para subyugar?
-PlatinumItemUse_117=¿Utilizar un objeto Premium?
+PlatinumItemUse_117=¿Utilizar un Item Premium?
 PlatinumItemUse_118=¿Aumentar EXP de platino?
-Platinum_LevelUpMax=Estás en el grado máximo de Platino.<br>Ya no puedes usar el objeto.
+Platinum_LevelUpMax=Estás en el grado máximo de Platino.<br>Ya no puedes usar el Item.
 Platinum_LevelUpNoPlatinum=No estás suscrito al Servicio Premium.<br>No puedes aumentar tu grado de Platino Premium.
 BulcanColosseumGiveUp=<font color='#FDC243'>¿De verdad quieres rendirte?<font><br>Todos los demás en tu campamento también deben solicitar una rendición.
 Amp_Acceleration=Acelerar disminuye inmediatamente tu tiempo de producción en %s_2.<br><br>¿Acelerar?
 TStone_Amplify=¿Realmente quieres intensificar una Piedra Trascendente?
-OptionChanger_Cancle=No se ha seleccionado ninguna opción.<br>¿Mantener las opciones existentes?<br>Precaución: El dinero y los objetos que hayas gastado no se pueden reembolsar.
+OptionChanger_Cancle=No se ha seleccionado ninguna opción.<br>¿Mantener las opciones existentes?<br>Precaución: El dinero y los Items que hayas gastado no se pueden reembolsar.
 OpenExitDominion=¿Abandonar el territorio?
 WeaponFusion_Warning=*No se pueden restaurar los Pergaminos de Impronta, las joyas, las Piedras del Alma, las Piedras Trascendentes ni el nivel de encantamiento existentes.<br>*Puedes conservar el nivel de encantamiento existente añadiendo Esencias Benditas. (Hasta +10)
-OptionChanger_SealedItem=Si se cambian las opciones,<br>el objeto se vinculará a ti.<br><br>¿Cambiar opciones?
+OptionChanger_SealedItem=Si se cambian las opciones,<br>el Item se vinculará a ti.<br><br>¿Cambiar opciones?
 OptionChangerSealedItem=¿Quieres cambiar las estadísticas?
-OptionChangerSealedItem_OwnWarning=Cambiar las estadísticas del objeto lo vinculará a ti.
+OptionChangerSealedItem_OwnWarning=Cambiar las estadísticas del Item lo vinculará a ti.
 AutobotDefence_Disconnect_Server=Se ha detectado un juego inusual.<br>Recibirás una penalización al volver a iniciar sesión.<br>Tu conexión se cerrará.
 SelecetAO=No se ha seleccionado ninguna Impronta.<br>¿Mantienes las opciones existentes?<br>Precaución:El Pergamino de Impronta usado no se puede devolver.
-ItemRefine_ReqRefine=¿Desea refinar este objeto?
+ItemRefine_ReqRefine=¿Desea refinar este Item?
 UnlockCharacterCreationSlot=Este ítem se usa automáticamente cuando desbloqueas ranuras de Personaje.<br>¿Realmente quieres usar este ítem?<br><font color='#FF0000'>(Max Opening Slots: %s_1)</font>
 MoveCharacterCreation=Ranuras de Personaje desbloqueadas.<br>¿Quieres moverte a la pantalla de Selección de Personaje?
 ResetGetEmotionBox=¿Quieres reorganizar las piedras del alma?
-ExtractEmotion=¿Desmantelar este objeto y <font color='#ff0000'>obtener</font> Energía de Éter?
+ExtractEmotion=¿Desmantelar este Item y <font color='#ff0000'>obtener</font> Energía de Éter?
 BuffEvent=¿Utilizas este buff?<br><br><font color='#999999'>Precaución: Tu actual efecto de buff será cancelado.</font>
-ArtifactItem=No puedes usarlo si no hay reliquia de crecimiento equipada, la reliquia de crecimiento está al máximo nivel,<br>o si la clase del objeto y la reliquia son diferentes.<br><br><font color='#999999'>Precaución: Por favor, comprueba la reliquia de crecimiento.</font>
+ArtifactItem=No puedes usarlo si no hay reliquia de crecimiento equipada, la reliquia de crecimiento está al máximo nivel,<br>o si la clase del Item y la reliquia son diferentes.<br><br><font color='#999999'>Precaución: Por favor, comprueba la reliquia de crecimiento.</font>
 ExitMazeInDarkness=¿Quieres salir del Laberinto?
 ExitOhrdorSewerage=¿Quieres salir del sistema de alcantarillado de Ohrdor?
-MakeItemSocket=¿Quieres añadir una ranura en un objeto de equipo?
-MakeItemSocket_OwnWarning=Añadir una ranura vinculará el objeto a ti.
+MakeItemSocket=¿Quieres añadir una ranura en un Item de equipo?
+MakeItemSocket_OwnWarning=Añadir una ranura vinculará el Item a ti.
 ChagePetAdventureGreenZen=¿Quieres cambiar a una nueva Aventura de Mascota?
 UsePetGrowBooster=Acelerar el crecimiento de tu mascota aumentará la ganancia de EXP de tu mascota de<font color='#FDD889'>10 a 100%</font>.<br>Puedes acumular hasta tres aceleradores a la vez.<br><br>¿Quieres acelerar el crecimiento de tu mascota?
-LegendMarble=Reclamar el Cofre de Recompensa ahora reiniciará tu progreso de Leyenda de Dados y el nivel de crecimiento del Cofre de Recompensa.<br>¿Realmente quieres reclamar el cofre?<br><font color='#FF0000'>Los objetos del cofre solo se pueden obtener una vez al día.</font>
+LegendMarble=Reclamar el Cofre de Recompensa ahora reiniciará tu progreso de Leyenda de Dados y el nivel de crecimiento del Cofre de Recompensa.<br>¿Realmente quieres reclamar el cofre?<br><font color='#FF0000'>Los Items del cofre solo se pueden obtener una vez al día.</font>
 LegendMarble_PlayChanceRedzen=No te quedan suficientes jugadas de Leyenda de dados.<br>¿Usas Redzen en su lugar?<br>Jugadas adicionales disponibles: %s_1/%s_2
 Msg_Pet_Collect_Warnning=Usar la mascota como material eliminará el efecto de recolección. ¿De verdad quieres continuar?
 Msg_Pet_Level_Warnning=Usar la mascota como material reducirá el nivel de crecimiento. ¿Realmente quieres continuar?
@@ -342,7 +342,7 @@ Msg_Field_Boss_Raid=¿Invocar a este monstruo?
 Msg_Enchant_Cancel=Información de encantamiento cambiada. Encantamiento cancelado. Vuelve a intentarlo más tarde.
 Msg_Dominion_World_Buff=¿Utiliza <font color='#FDC243'>%s_1</font> Trofeos y proporciona la <font color='#FDC243'>%s_2</font> mejora?
 ExitTutorial=¿Salir del tutorial?
-OpenBraceletWarningMsg=No se puede usar el objeto.<br><font color='#999999'>Nota: Este objeto no se puede usar cuando la ranura ya está abierta.</font>
+OpenBraceletWarningMsg=No se puede usar el Item.<br><font color='#999999'>Nota: Este Item no se puede usar cuando la ranura ya está abierta.</font>
 Bracelet_Slot_Open=¿Abrir ranura para pulsera?
 PromotionLimit=¿Compras %s_1?
 ExitDawnTower_Die=<font color='#FDC243'>¿Seguro que quieres salir?</font><br><br>Otros jugadores siguen subiendo a la Torre del Amanecer.<br>Si sales ahora de la Torre del Amanecer, no obtendrás recompensas.<br>Si otros jugadores han completado la conquista o si han muerto, podrás obtener recompensas.
@@ -355,22 +355,22 @@ TeacherStudent_ChangeState=¿Cambiarás tu posición a maestro?<br><font color='
 TeacherStudent_StudentFree=¿Cancelarás tu conexión con tu discípulo actual?
 TeacherStudent_StudentFind=Por favor, introduzca el nombre del discípulo a conectar.<br><font color='#ff0000'>Los personajes menores de Lv. 80 no pueden conectarse.</font><br><font color='#ff0000'>Si el discípulo ya tiene un maestro o la posición de maestro no puede conectarse.</font>
 TeacherStudent_StudentAccept=¿Acepta la solicitud de conexión del maestro?<br><font color='#ff0000'>Nombre del maestro: %s_1</font>
-TalismanLottery_Draw=4 objetos necesarios para el sorteo
-TalismanLottery_WishFailed=Objetos que faltan
+TalismanLottery_Draw=4 Items necesarios para el sorteo
+TalismanLottery_WishFailed=Items que faltan
 TalismanLottery_WishFailedError=Deseo fallido
 TalismanLottery_DrawFailed1=Sorteo fallido de TalismanLottery
 TalismanLottery_DrawFailed2=Error de datos
 TalismanLottery_DrawFailed3=La distancia al PNJ es demasiado grande
 TalismanLottery_DrawFailed4=El jugador está comerciando
-TalismanLottery_DrawFailed5=Los objetos de lotería son insuficientes
+TalismanLottery_DrawFailed5=Los Items de lotería son insuficientes
 TalismanLottery_DrawFailed6=No hay deseo hoy
-TalismanLottery_DrawFailed7=No se han añadido objetos de sorteo
-TalismanLottery_DrawFailed8=Los objetos de lotería añadidos superan el límite superior
+TalismanLottery_DrawFailed7=No se han añadido Items de sorteo
+TalismanLottery_DrawFailed8=Los Items de lotería añadidos superan el límite superior
 TalismanLottery_DrawFailed9=Espacio insuficiente en la mochila
 TalismanLottery_DrawFailed10=Lotería fallida
 EnchantInheirt_MB=¿Desea transferir el nivel de mejora?
 CrossStone_MB=¡Cruzar piedra tiene éxito!
-CrossStone_GetItem=El objeto está ligado después de sacarlo, por favor confirme
+CrossStone_GetItem=El Item está ligado después de sacarlo, por favor confirme
 GrowthFund_ClickBuy=¿Desea pagar 1500 redzen para comprar el fondo de crecimiento?
 GrowthFund_ClickLayer=¿Desea recibir la recompensa?
 GrowthFundBuyFailed=No has podido comprar, tal vez tu nivel no cumple los requisitos o tu Zen Rojo restante es insuficiente.

@@ -199,7 +199,7 @@ LS_QuestStoryType_1=Misión principal
 LS_QuestStoryType_2=Misión normal
 LS_QuestStoryType_3=Misión diaria
 LS_QuestStoryType_4=Misión de zona
-LS_QuestStoryType_5=Pasarela
+LS_QuestStoryType_5=Misión de Entrada
 LS_QuestStoryType_7=Misión de repetición
 LS_QuestStoryType_8=Misión de evento
 
@@ -533,10 +533,10 @@ Ability_monster_kill_hp_rec=HP +%s_1 por cada monstruo matado
 Ability_monster_kill_mp_rec=MP +%s_1 por cada monstruo asesinado
 Ability_damage_hp_rec=HP +%s_1 de daño infligido a monstruos
 Ability_damage_mp_rec=MP +%s_1 de Daño Infligido a Monstruos
-Ability_use_item_hp_rec=Efectos del objeto de recuperación de PH +%s_1
-Ability_use_item_mp_rec=Efectos del objeto de recuperación de HP +%s_1
-Ability_item_auto_rooting_range=Radio de recogida del objeto +%s_1m
-Ability_get_magic_item_chance=Tasa de caída de objetos no comunes +%s_1
+Ability_use_item_hp_rec=Efectos del Item de recuperación de PH +%s_1
+Ability_use_item_mp_rec=Efectos del Item de recuperación de HP +%s_1
+Ability_item_auto_rooting_range=Radio de recogida del Item +%s_1m
+Ability_get_magic_item_chance=Tasa de caída de Items no comunes +%s_1
 Ability_passive_skill=%s_1
 Ability_get_gold_rate=Tasa de obtención de oro Zen +%s_1
 Ability_drop_item_count_chance=Item Drop Rate +%s_1
@@ -685,13 +685,13 @@ AbilityRate_monster_kill_hp_rec=HP +%s_1% por cada monstruo matado
 AbilityRate_monster_kill_mp_rec=MP +%s_1% por cada monstruo asesinado
 AbilityRate_damage_hp_rec=HP +%s_1% del daño infligido a monstruos
 AbilityRate_damage_mp_rec=MP +%s_1% del daño infligido a los monstruos
-AbilityRate_use_item_hp_rec=Efectos del objeto de recuperación de PH +%s_1
-AbilityRate_use_item_mp_rec=Efectos del objeto de recuperación de PH +%s_1
-AbilityRate_item_auto_rooting_range=Radio de recogida del objeto +%s_1% m
-AbilityRate_get_magic_item_chance=Tasa de caída de objetos no comunes +%s_1% m
+AbilityRate_use_item_hp_rec=Efectos del Item de recuperación de PH +%s_1
+AbilityRate_use_item_mp_rec=Efectos del Item de recuperación de PH +%s_1
+AbilityRate_item_auto_rooting_range=Radio de recogida del Item +%s_1% m
+AbilityRate_get_magic_item_chance=Tasa de caída de Items no comunes +%s_1% m
 AbilityRate_passive_skill=%s_1% de habilidad
 AbilityRate_get_gold_rate=Índice de caída de oro Zen +%s_1%
-AbilityRate_drop_item_count_chance=Cantidad de objetos que se caen +%s_1%
+AbilityRate_drop_item_count_chance=Cantidad de Items que se caen +%s_1%
 AbilityRate_ignore_def=Daño verdadero +%s_1%
 AbilityRate_ignore_def_rate=Verdadero Daño +%s_1%
 AbilityRate_status_attack=Mejora control de multitudes +%s_1%
@@ -830,19 +830,19 @@ AbilityMain_monster_exp=Exp monstruo: %s_1%
 AbilityMain_normal_monster_exp=Exp monstruo normal: %s_1%
 AbilityMain_elite_monster_exp=Exp monstruo élite: %s_1%
 AbilityMain_boss_monster_exp=Exp monstruo jefe: %s_1%
-AbilityMain_sell_itme_price=Precios de venta de objetos: %s_1%
+AbilityMain_sell_itme_price=Precios de venta de Items: %s_1%
 AbilityMain_item_protect=Pérdida de durabilidad -%s_1%
 AbilityMain_monster_kill_hp_rec=HP +%s_1 por cada monstruo matado
 AbilityMain_monster_kill_mp_rec=MP +%s_1 por cada monstruo asesinado
 AbilityMain_damage_hp_rec=HP +%s_1 de daño infligido a monstruos
 AbilityMain_damage_mp_rec=MP +%s_1 de daño infligido a monstruos
-AbilityMain_use_item_hp_rec=Efectos del objeto de recuperación de PH +%s_1
-AbilityMain_use_item_mp_rec=Recuperación HP Efectos del objeto +%s_1
-AbilityMain_item_auto_rooting_range=Radio de recogida del objeto: %s_1m
-AbilityMain_get_magic_item_chance=Tasa de caída de objetos no comunes: %s_1%
+AbilityMain_use_item_hp_rec=Efectos del Item de recuperación de PH +%s_1
+AbilityMain_use_item_mp_rec=Recuperación HP Efectos del Item +%s_1
+AbilityMain_item_auto_rooting_range=Radio de recogida del Item: %s_1m
+AbilityMain_get_magic_item_chance=Tasa de caída de Items no comunes: %s_1%
 AbilityMain_passive_skill=%s_1
 AbilityMain_get_gold_rate=Caída de oro Zen: %s_1%
-AbilityMain_drop_item_count_chance=Tasa de caída de objetos: %s_1
+AbilityMain_drop_item_count_chance=Tasa de caída de Items: %s_1
 AbilityMain_ignore_def=Daño verdadero: %s_1
 AbilityMain_ignore_def_rate=Verdadero Daño: %s_1%
 AbilityMain_status_attack=Mejora control de multitudes: %s_1
@@ -981,19 +981,19 @@ AbilityRange_monster_exp=Exp monstruo +%s_1 - %s_2
 AbilityRange_normal_monster_exp=Exp. normal de monstruo +%s_1 - %s_2% %s_3
 AbilityRange_elite_monster_exp=Exp monstruo élite +%s_1 - %s_2%
 AbilityRange_boss_monster_exp=Exp monstruo jefe +%s_1 - %s_2%
-AbilityRange_sell_itme_price=Precios de venta de objetos +%s_1 - %s_2%
+AbilityRange_sell_itme_price=Precios de venta de Items +%s_1 - %s_2%
 AbilityRange_item_protect=Pérdida de Durabilidad -%s_1 - %s_2%
 AbilityRange_monster_kill_hp_rec=HP +%s_1 - %s_2 por cada monstruo matado
 AbilityRange_monster_kill_mp_rec=MP +%s_1 - %s_2 por cada monstruo asesinado
 AbilityRange_damage_hp_rec=HP +%s_1 - %s_2 de Daño infligido a Monstruos
 AbilityRange_damage_mp_rec=MP +%s_1 - %s_2 de Daño infligido a Monstruos
-AbilityRange_use_item_hp_rec=Efectos del objeto de recuperación de PH +%s_1 - %s_2
-AbilityRange_use_item_mp_rec=Efectos del objeto de recuperación de HP +%s_1 - %s_2
-AbilityRange_item_auto_rooting_range=Radio de recogida del objeto +%s_1 - %s_2 m
-AbilityRange_get_magic_item_chance=Tasa de caída de objetos no comunes +%s_1 - %s_2% %s_3
+AbilityRange_use_item_hp_rec=Efectos del Item de recuperación de PH +%s_1 - %s_2
+AbilityRange_use_item_mp_rec=Efectos del Item de recuperación de HP +%s_1 - %s_2
+AbilityRange_item_auto_rooting_range=Radio de recogida del Item +%s_1 - %s_2 m
+AbilityRange_get_magic_item_chance=Tasa de caída de Items no comunes +%s_1 - %s_2% %s_3
 AbilityRange_passive_skill=%s_1 - %s_2
 AbilityRange_get_gold_rate=Tasa de caída de oro Zen +%s_1 - %s_2%
-AbilityRange_drop_item_count_chance=Tasa de caída de objetos +%s_1 - %s_2
+AbilityRange_drop_item_count_chance=Tasa de caída de Items +%s_1 - %s_2
 AbilityRange_ignore_def=Daño verdadero +%s_1 - %s_2
 AbilityRange_ignore_def_rate=Daño verdadero +%s_1 - %s_2
 AbilityRange_status_attack=Mejora control de multitudes +%s_1 - %s_2
@@ -1132,19 +1132,19 @@ AbilityMod_monster_exp=Aumento de EXP de monstruo: %s_1
 AbilityMod_normal_monster_exp=Aumento EXP Monstruo Normal: %s_1
 AbilityMod_elite_monster_exp=Aumento de EXP de monstruo de élite: %s_1
 AbilityMod_boss_monster_exp=Aumento de EXP de monstruo jefe: %s_1
-AbilityMod_sell_itme_price=Precios de venta de objetos aumentados: %s_1
+AbilityMod_sell_itme_price=Precios de venta de Items aumentados: %s_1
 AbilityMod_item_protect=Pérdida de durabilidad -%s_1
 AbilityMod_monster_kill_hp_rec=HP +%s_1 por cada monstruo matado
 AbilityMod_monster_kill_mp_rec=MP +%s_1 por cada monstruo asesinado
 AbilityMod_damage_hp_rec=HP +%s_1 de daño infligido a monstruos
 AbilityMod_damage_mp_rec=MP +%s_1 de Daño Infligido a Monstruos
-AbilityMod_use_item_hp_rec=Efectos del objeto de recuperación de PH +%s_1
-AbilityMod_use_item_mp_rec=Efectos del objeto de recuperación de PH +%s_1
-AbilityMod_item_auto_rooting_range=Radio de ganancia del objeto +%s_1 m
-AbilityMod_get_magic_item_chance=Tasa de obtención de objetos poco comunes aumentada: %s_1
+AbilityMod_use_item_hp_rec=Efectos del Item de recuperación de PH +%s_1
+AbilityMod_use_item_mp_rec=Efectos del Item de recuperación de PH +%s_1
+AbilityMod_item_auto_rooting_range=Radio de ganancia del Item +%s_1 m
+AbilityMod_get_magic_item_chance=Tasa de obtención de Items poco comunes aumentada: %s_1
 AbilityMod_passive_skill=%s_1
 AbilityMod_get_gold_rate=Incrementada la caída de Zen: %s_1
-AbilityMod_drop_item_count_chance=Aumento de la tasa de caída de objetos: %s_1
+AbilityMod_drop_item_count_chance=Aumento de la tasa de caída de Items: %s_1
 AbilityMod_ignore_def=Aumento del daño verdadero: %s_1
 AbilityMod_ignore_def_rate=Aumento de daño verdadero: %s_1
 AbilityMod_status_attack=Aumento de la mejora de control de multitudes: %s_1
@@ -1289,13 +1289,13 @@ PetAbility_monster_kill_hp_rec=HP +<font color='#11f210'>%s_1</font> por Cada Mo
 PetAbility_monster_kill_mp_rec=MP +<font color='#11f210'>%s_1</font> por Cada Monstruo Matado
 PetAbility_damage_hp_rec=<font color='#11f210'>HP +%s_1</font> de Daño Infligido a Monstruos
 PetAbility_damage_mp_rec=<font color='#11f210'>MP +%s_1</font> de Daño Infligido a Monstruos
-PetAbility_use_item_hp_rec=Recuperación HP Efectos del Objeto +<font color='#11f210'>%s_1</font>
-PetAbility_use_item_mp_rec=Efectos del objeto de recuperación de HP +<font color='#11f210'>%s_1</font>
-PetAbility_item_auto_rooting_range=Radio de recogida del objeto <font color='#11f210'>+%s_1 m</font>
-PetAbility_get_magic_item_chance=Tasa de caída de objetos no comunes <font color='#11f210'>+%s_1</font>
+PetAbility_use_item_hp_rec=Recuperación HP Efectos del Item +<font color='#11f210'>%s_1</font>
+PetAbility_use_item_mp_rec=Efectos del Item de recuperación de HP +<font color='#11f210'>%s_1</font>
+PetAbility_item_auto_rooting_range=Radio de recogida del Item <font color='#11f210'>+%s_1 m</font>
+PetAbility_get_magic_item_chance=Tasa de caída de Items no comunes <font color='#11f210'>+%s_1</font>
 PetAbility_passive_skill=<font color='#11f210'>%s_1</font>
 PetAbility_get_gold_rate=Tasa de caída de oro <font color='#11f210'>+%s_1</font>
-PetAbility_drop_item_count_chance=Tasa de caída de objetos <font color='#11f210'>+%s_1</font>
+PetAbility_drop_item_count_chance=Tasa de caída de Items <font color='#11f210'>+%s_1</font>
 PetAbility_ignore_def=Verdadero Daño <font color='#11f210'>+%s_1</font>
 PetAbility_ignore_def_rate=Daño verdadero <font color='#11f210'>+%s_1</font>
 PetAbility_status_attack=Mejora control de multitudes <font color='#11f210'>+%s_1</font>
@@ -1434,16 +1434,16 @@ PetAbilityRate_monster_exp=Exp monstruo <font color='#11f210'>+%s_1%</font>
 PetAbilityRate_normal_monster_exp=Exp monstruo normal <font color='#11f210'>+%s_1%</font>
 PetAbilityRate_elite_monster_exp=Exp Monstruo Élite <font color='#11f210'>+%s_1%</font>
 PetAbilityRate_boss_monster_exp=Exp monstruo jefe <font color='#11f210'>+%s_1%</font>
-PetAbilityRate_sell_itme_price=Precios de venta de objetos <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_sell_itme_price=Precios de venta de Items <font color='#11f210'>+%s_1%</font>
 PetAbilityRate_item_protect=Pérdida de durabilidad <font color='#11f210'>-%s_1%</font>
 PetAbilityRate_monster_kill_hp_rec=HP <font color='#11f210'>+%s_1%</font> por cada monstruo matado
 PetAbilityRate_monster_kill_mp_rec=MP <font color='#11f210'>+%s_1%</font> por cada monstruo asesinado
 PetAbilityRate_damage_hp_rec=<font color='#11f210'>HP +%s_1%</font> del daño infligido a los monstruos
 PetAbilityRate_damage_mp_rec=<font color='#11f210'>MP +%s_1%</font> del daño infligido a los monstruos
-PetAbilityRate_use_item_hp_rec=Recuperación HP Efectos del Objeto <font color='#11f210'>+%s_1%</font>
-PetAbilityRate_use_item_mp_rec=Recuperación HP Efectos del objeto <font color='#11f210'>+%s_1%</font>
-PetAbilityRate_item_auto_rooting_range=Radio de recogida del objeto <font color='#11f210'>+%s_1% m</font>
-PetAbilityRate_get_magic_item_chance=Tasa de caída de objetos no comunes <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_use_item_hp_rec=Recuperación HP Efectos del Item <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_use_item_mp_rec=Recuperación HP Efectos del Item <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_item_auto_rooting_range=Radio de recogida del Item <font color='#11f210'>+%s_1% m</font>
+PetAbilityRate_get_magic_item_chance=Tasa de caída de Items no comunes <font color='#11f210'>+%s_1%</font>
 PetAbilityRate_passive_skill=<font color='#11f210'>%s_1%</font>
 PetAbilityRate_get_gold_rate=Caída de oro <font color='#11f210'>+%s_1%</font>
 PetAbilityRate_drop_item_count_chance=Item Drop Rate <font color='#11f210'>+%s_1%</font>
@@ -1592,28 +1592,28 @@ Dur_1=FFBB00
 Dur_0=FF0000
 
 [Mail]
-Msg_Mailbox_10VS10_ITEM_SUBJECT=Hemos encontrado el objeto que dejaste en el Altar de los Espíritus. Te lo enviamos.
+Msg_Mailbox_10VS10_ITEM_SUBJECT=Hemos encontrado el Item que dejaste en el Altar de los Espíritus. Te lo enviamos.
 Msg_Mailbox_10VS10_ITEM_SENDER=Encargado del Altar de los Espíritus
 Msg_Mailbox_10VS10_ITEM_CONTENT=Recompensa del Altar de los Espíritus
-Msg_Mailbox_20VS20_ITEM_SUBJECT=Hemos encontrado el objeto que dejaste en la Arena Sangrienta de las Almas. Te lo enviamos.
+Msg_Mailbox_20VS20_ITEM_SUBJECT=Hemos encontrado el Item que dejaste en la Arena Sangrienta de las Almas. Te lo enviamos.
 Msg_Mailbox_20VS20_ITEM_SENDER=Encargado de la Arena Sangrienta de las Almas
 Msg_Mailbox_20VS20_ITEM_CONTENT=Recompensa Arena Sangrienta de Almas
-Msg_Mailbox_Chaos_Castle_SUBJECT=Hemos encontrado el objeto que dejaste en el Castillo del Caos. Te lo enviamos.
+Msg_Mailbox_Chaos_Castle_SUBJECT=Hemos encontrado el Item que dejaste en el Castillo del Caos. Te lo enviamos.
 Msg_Mailbox_Chaos_Castle_SENDER=Encargado del Castillo del Caos
 Msg_Mailbox_Chaos_Castle_CONTENT=Recompensa Castillo del Caos
-Msg_Mailbox_ADV_CARD_SUBJECT=Te enviamos el objeto que perdiste en la Grieta.
+Msg_Mailbox_ADV_CARD_SUBJECT=Te enviamos el Item que perdiste en la Grieta.
 Msg_Mailbox_ADV_CARD_SENDER=Sociedad de Investigación de la Grieta de Arke
-Msg_Mailbox_ADV_CARD_CONTENT=Te enviamos los objetos que perdiste en la Grieta.
+Msg_Mailbox_ADV_CARD_CONTENT=Te enviamos los Items que perdiste en la Grieta.
 Msg_Mailbox_Endless_Tower_SUBJECT=Recompensas de la Torre Sin Fin
 Msg_Mailbox_Endless_Tower_SENDER=Encargado de la sala de guardia
-Msg_Mailbox_Endless_Tower_CONTENT=Hemos encontrado el objeto que dejaste en la Torre Sin Fin. Te lo enviamos.
+Msg_Mailbox_Endless_Tower_CONTENT=Hemos encontrado el Item que dejaste en la Torre Sin Fin. Te lo enviamos.
 Msg_Mailbox_Blood_Castle_SUBJECT=Recompensas del Castillo de Sangre
 Msg_Mailbox_Blood_Castle_SENDER=Encargado de la Sala de Servicio
-Msg_Mailbox_Blood_Castle_CONTENT=Hemos encontrado el objeto que dejaste en el Castillo Sangriento. Te lo enviamos.
+Msg_Mailbox_Blood_Castle_CONTENT=Hemos encontrado el Item que dejaste en el Castillo Sangriento. Te lo enviamos.
 Msg_Mailbox_Account_1_SUBJECT=Recompensa por correo de nivel de cuenta
 Msg_Mailbox_Account_1_SENDER=GM Rugard
 Msg_Mailbox_Account_1_CONTENT=Aquí tienes tu recompensa por aumentar el nivel de tu cuenta. Sigue trabajando así de bien.
-Msg_Mailbox_QUEST_ITEM_SUBJECT=Te estamos enviando recompensas de objetos que no has recibido por completar misiones.
+Msg_Mailbox_QUEST_ITEM_SUBJECT=Te estamos enviando recompensas de Items que no has recibido por completar misiones.
 Msg_Mailbox_QUEST_ITEM_SENDER=Encargado de misiones
 Msg_Mailbox_QUEST_ITEM_CONTENT=Recompensa de Búsqueda
 Msg_Mailbox_Achievement_SENDER=Encargado de logros
@@ -1662,14 +1662,14 @@ Msg_Mailbox_AchievementIndex29_ITEM_SUBJECT=Esta es la recompensa por ser el úl
 Msg_Mailbox_AchievementIndex30_ITEM_SUBJECT=Esta es la recompensa por superar el Castillo Sangriento 10 veces. Te la enviamos.
 Msg_Mailbox_AchievementIndex31_ITEM_SUBJECT=Esta es la recompensa por superar la Planta 50 de la Torre Sin Fin. Te la enviamos.
 Msg_Mailbox_AchievementIndex32_ITEM_SUBJECT=Esta es la recompensa por superar la Planta 50 de Endless Tower sin un grupo. Te la enviamos.
-Msg_Mailbox_AchievementIndex33_ITEM_SUBJECT=Esta es la recompensa por tu primer Encantamiento de Objeto exitoso. Te la enviamos.
+Msg_Mailbox_AchievementIndex33_ITEM_SUBJECT=Esta es la recompensa por tu primer Encantamiento de Item exitoso. Te la enviamos.
 Msg_Mailbox_AchievementIndex34_ITEM_SUBJECT=Esta es la recompensa por haber conseguido +15 Encantamientos. Te la enviamos.
 Msg_Mailbox_AchievementIndex35_ITEM_SUBJECT=Esta es la recompensa por haber conseguido +15 Encantamientos 10 veces. Te la enviamos.
 Msg_Mailbox_AchievementIndex36_ITEM_SUBJECT=Esta es la recompensa por Encanto fallido. Te la enviamos.
 Msg_Mailbox_AchievementIndex37_ITEM_SUBJECT=Esta es la recompensa por el logro fallido +15 Encantamiento. Te la enviamos.
-Msg_Mailbox_AchievementIndex38_ITEM_SUBJECT=Esta es la recompensa por equiparte completamente con Objetos Legendarios. Te la enviamos.
+Msg_Mailbox_AchievementIndex38_ITEM_SUBJECT=Esta es la recompensa por equiparte completamente con Items Legendarios. Te la enviamos.
 Msg_Mailbox_AchievementIndex39_ITEM_SUBJECT=Esta es la recompensa por equiparte tus primeras Alas. Te la enviamos.
-Msg_Mailbox_AchievementIndex40_ITEM_SUBJECT=Esta es la recompensa por equipar Objetos Legendarios en todas las Ranuras de Accesorios. Te la estamos enviando.
+Msg_Mailbox_AchievementIndex40_ITEM_SUBJECT=Esta es la recompensa por equipar Items Legendarios en todas las Ranuras de Accesorios. Te la estamos enviando.
 Msg_Mailbox_AchievementIndex41_ITEM_SUBJECT=Esta es la recompensa por activar el Efecto Brillo. Te la enviamos.
 Msg_Mailbox_AchievementIndex42_ITEM_SUBJECT=Esta es la recompensa por activar el Efecto Sanctum. Te la enviamos.
 Msg_Mailbox_AchievementIndex43_ITEM_SUBJECT=Esta es la recompensa del logro Índice 43. Te la enviamos. Te la enviamos.
@@ -1764,10 +1764,10 @@ Msg_Mailbox_ReturnLetter_ITEM_SUBJECT=[Correo Devuelto]
 Msg_Mailbox_ItemTypeChange_ITEM_SENDER=Sistema
 Msg_Mailbox_ItemTypeChange_ITEM_SUBJECT=[Correo del sistema] Cambio de artículo
 Msg_Mailbox_ItemTypeChange_ITEM_CONTENT=Le reenviamos los elementos cuyo contenido ha cambiado.
-Msg_Mailbox_ItemEnchantFailReward_ITEM_SUBJECT=[Fallo Encantamiento] Acepta este objeto
+Msg_Mailbox_ItemEnchantFailReward_ITEM_SUBJECT=[Fallo Encantamiento] Acepta este Item
 Msg_Mailbox_ItemEnchantFailReward_ITEM_SENDER=Gestor de Mejoras
-Msg_Mailbox_ItemEnchantFailReward_ITEM_CONTENT=Este objeto se envía como compensación por un fallo de mejora.
-Msg_Mailbox_Exchange_ITEM_SUBJECT=[Puesto Comercial] Acepta tus objetos
+Msg_Mailbox_ItemEnchantFailReward_ITEM_CONTENT=Este Item se envía como compensación por un fallo de mejora.
+Msg_Mailbox_Exchange_ITEM_SUBJECT=[Puesto Comercial] Acepta tus Items
 Msg_Mailbox_Exchange_ITEM_SENDER=Puesto de Comercio
 Msg_Mailbox_Exchange_ITEM_CONTENT=Has comprado estos artículos a través del Corredor de Comercio.
 Msg_Mailbox_Exchange_CANCEL_SUBJECT=[Puesto Comercial] Venta de artículo cancelada
@@ -1782,14 +1782,14 @@ Msg_Mailbox_ACCOUNT_LEVEL_REWARD_CONTENT_INDEX01=Has recibido una recompensa por
 Msg_Mailbox_ACCOUNT_LEVEL_REWARD_CONTENT_INDEX02=Has recibido una recompensa por alcanzar el nivel 130.
 Msg_Mailbox_ACCOUNT_LEVEL_REWARD_CONTENT_INDEX03=Has recibido una recompensa por alcanzar el nivel 195.
 Msg_Mailbox_ACCOUNT_LEVEL_REWARD_CONTENT_INDEX04=Has recibido una recompensa por alcanzar el nivel de cuenta 260.
-Msg_Mailbox_Field_Content_SUBJECT=Te enviamos los objetos que no has recibido tras completar el contenido del Campo.
+Msg_Mailbox_Field_Content_SUBJECT=Te enviamos los Items que no has recibido tras completar el contenido del Campo.
 Msg_Mailbox_Field_Content_SENDER=Gestor de Contenido de Campo
 Msg_Mailbox_Field_Content_CONTENT=Recompensa por contenido de campo
 Msg_Mailbox_Field_Item_COLOSSEUM_SENDER=Trilgard
-Msg_Mailbox_Field_Item_COLOSSEUM_SUBJECT=Aquí tienes tu objeto de recompensa del Modo Cooperativo.
+Msg_Mailbox_Field_Item_COLOSSEUM_SUBJECT=Aquí tienes tu Item de recompensa del Modo Cooperativo.
 Msg_Mailbox_Field_Item_COLOSSEUM_CONTENT=Estas son las Fichas de Luchador que no has podido recibir en tu inventario porque estaba lleno.
 Mag_Mailbox_ItemTypeChnage_ITEM_SENDER=LAMUS
-Mag_Mailbox_ItemTypeChnage_ITEM_SUBJECT=Te enviamos los objetos cuya información ha cambiado.
+Mag_Mailbox_ItemTypeChnage_ITEM_SUBJECT=Te enviamos los Items cuya información ha cambiado.
 Mag_Mailbox_ItemTypeChnage_ITEM_CONTENT=Te estamos reenviando los artículos cuya información ha cambiado.
 Msg_Mailbox_Mopup_SENDER=LAMUS
 Msg_Mailbox_Mopup_SUBJECT=Te estamos enviando tu recompensa de Solicitud de Subyugación.
@@ -1948,7 +1948,7 @@ PVE_Enter_1=Público
 
 [ItemLevel]
 Level=Item %d
-Levelav=Nivel medio del objeto %d
+Levelav=Nivel medio del Item %d
 Tier=Nivel
 
 [PartyDungeon]
@@ -1992,27 +1992,27 @@ Dg_4003=Rift: Litenberg
 
 [BurningStamina]
 BurningStamina_Title_1=Descripción Rift
-BurningStamina_Desc_1=Cada vez que un personaje entra en Rift, el medidor Overdrive del continente correspondiente aumenta.<br>Cuando el medidor está completamente lleno, se activa el modo Rift Overdrive.
-BurningStamina_Title_2=Efectos de Rift Overdrive
+BurningStamina_Desc_1=Cada vez que un personaje entra en Rift, el medidor de Sobrcarga del continente correspondiente aumenta.<br>Cuando el medidor está completamente lleno, se activa el modo Sobrecarga.
+BurningStamina_Title_2=Efectos de la Sobrecarga de Rift
 BurningStamina_Desc_2=Durante 10 minutos, se anulan los límites de entrada de cualquier Rift <br>del continente objetivo.
-BurningStamina_Title_3=Mejora de Rouser para el conductor del Rift Overdrive
-BurningStamina_Desc_3=El último personaje en llenar el medidor de Overdrive<br>recibe el potenciador Rouser durante la duración de Overdrive.
-AdvBurningStamina_Awaken=Rift Overdrive alcanzado.<br>¡Acaba con tus enemigos!
-AdvBurningStamina=%s_1 ha logrado sobrecargar las Rifts.<br>Puedes comprobar la información de Overdrive en la IU de Rift (N).
+BurningStamina_Title_3=Mejora de Rouser para el conductor de la Sobrecarga
+BurningStamina_Desc_3=El último personaje en llenar el medidor de Sobrecarga<br>recibe el potenciador Rouser durante la duración de Sobrecarga.
+AdvBurningStamina_Awaken=Sobrecarga del Rift alcanzada.<br>¡Acaba con tus enemigos!
+AdvBurningStamina=%s_1 ha logrado sobrecargar Rift.<br>Puedes comprobar la información de Sobrecarga en la IU de Rift (N).
 AwakenChar=Conductor de Rift (%s_1)
-BurningStamina_Level_1=Aceleración de Rift
-BurningStamina_Level_2=Etapa 2 de Overdrive Rift
-BurningStamina_Level_3=Etapa 3 de Overdrive Rift
+BurningStamina_Level_1=Sobrecarga de Rift
+BurningStamina_Level_2=Etapa 2 de Sobrecarga Rift
+BurningStamina_Level_3=Etapa 3 de Sobrecarga Rift
 
 [WebOfGod]
-LiberationExplosion_Title_1=Descripción de Spacetime Release
-LiberationExplosion_Desc_1=Los puntos de vida conseguidos en el Corredor del Dios aumentan el medidor de Liberación del Espaciotiempo del servidor. Cuando el medidor está lleno, el espaciotiempo se libera.
-LiberationExplosion_Title_2=Efectos de la liberación del espaciotiempo
-LiberationExplosion_Desc_2=Cuando se activa la Liberación del Espaciotiempo, se anulan los límites de entrada del Dios del Corredor durante un tiempo determinado.
-LiberationExplosion_Title_3=Sistema de Liberación de Tiza
-LiberationExplosion_Desc_3=Libera la gran fuerza de la Tiza del Espaciotiempo y adquiere un poder temible.<br>Muestra el infierno a tus enemigos.
-LiberationExplosion_Title_4=Ranking de Liberación del Espaciotiempo
-LiberationExplosion_Desc_4=Una vez liberado el espaciotiempo, se enviará una recompensa a los buzones de los 3 primeros contribuyentes de Kill Point. Todos los demás contribuyentes recibirán una recompensa básica.
+LiberationExplosion_Title_1=Descripción de God of Corridor
+LiberationExplosion_Desc_1=Los puntos de matanza conseguidos en God of Corridor aumentan el medidor de Sobrecarga del servidor. Cuando el medidor está lleno, Sobrecarga se libera.
+LiberationExplosion_Title_2=Efectos de Sobrecarga
+LiberationExplosion_Desc_2=Cuando se activa la Sobrecarga de Corridor, se anulan los limites de ingresos al evento durante un tiempo limitado.
+LiberationExplosion_Title_3=Mejora de potenciador de Sobrecarga
+LiberationExplosion_Desc_3=El último personaje en llenar el medidor de Sobrecarga recibe un potenciador durante la duración de Sobrecarga.<br>Muestrale el infierno a tus enemigos.
+LiberationExplosion_Title_4=Ranking God of Corridor
+LiberationExplosion_Desc_4=Despues de que Sobrecarga sea liberado, se enviará una recompensa a los buzones de los 3 primeros contribuyentes en puntos de matanza. Todos los demás contribuyentes recibirán una recompensa básica.
 
 [NpcFunction]
 LS_NpcFunction_1=Summon Tienda Privada
@@ -2049,8 +2049,8 @@ PetQuestGrade_3=Grado 3
 PetQuestGrade_4=Grado 4
 
 [QuestMessage]
-QuestAccept=Aceptar Quest
-QuestComplete=¡Búsqueda completada!
+QuestAccept=Aceptar Misión
+QuestComplete=¡Misión completada!
 
 [ToolTip]
 combatPower=El poder de combate cambia cuando está equipado
@@ -2063,7 +2063,7 @@ AbilityRange_Point=%s_1 - %s_2
 AbilityRange_Percent=%s_1% - %s_2%
 AbilityValue_Point=%s_1
 AbilityValue_Percent=%s_1
-Premium=*Objeto Premium
+Premium=*Item Premium
 
 [ToolTip_CashShop]
 ItemType=Producto
@@ -2102,7 +2102,7 @@ Event_0=EXP de monstruos +<font color='#11F210'>%s_1%</font>¶
 Event_1=EXP del alma de monstruos: +<font color='#11F210'>%s_1%</font>¶
 Event_2=Zen de Monstruos: +<font color='#11F210'>%s_1%</font>¶
 Event_3=Gemas Mágicas de Monstruos: +<font color='#11F210'>%s_1%</font>¶
-Event_4=Tasa de caída de objetos de monstruos: +<font color='#11F210'>%s_1%</font>¶
+Event_4=Tasa de caída de Items de monstruos: +<font color='#11F210'>%s_1%</font>¶
 Event_5=Probabilidad de que aparezcan Hermanos Goblin en la Grieta: +<font color='#11F210'>%s_1%</font> ¶<font color='#AEAEAE'>(Goblin de Oro, Goblin de Gemas Mágicas, etc.)</font>¶
 Event_TimeFormat=¶<font color='#59FFBD'>Hasta DD.MM.YY hh:mm</font>
 EnchantEvent_Title=<font size='15' color='#FDC243'>Evento de Encantamiento</font>
@@ -2355,7 +2355,7 @@ BulcanColosseumString_2=Elimina a tantos jugadores contrarios como puedas dentro
 BulcanColosseumMainstring_3=Condiciones para ganar/perder
 BulcanColosseumString_3=Gana el equipo que consiga más Kill Points antes que el otro dentro del límite de tiempo.<br>Si ambos equipos tienen la misma cantidad de Kill Points, ambos perderán.
 BulcanColosseumMainstring_4=Recompensa Estándar
-BulcanColosseumString_4=Puedes recibir una prueba del dios de la guerra como recompensa por la batalla cooperativa.<br>La prueba del dios de la guerra puede canjearse por varios bienes y objetos del juego a través del mercader de batalla cooperativa de Ohrdor.<br>Puedes conseguir más pruebas del dios de la guerra acumulando puntos y avanzando a una liga superior.
+BulcanColosseumString_4=Puedes recibir una prueba del dios de la guerra como recompensa por la batalla cooperativa.<br>La prueba del dios de la guerra puede canjearse por varios bienes y Items del juego a través del mercader de batalla cooperativa de Ohrdor.<br>Puedes conseguir más pruebas del dios de la guerra acumulando puntos y avanzando a una liga superior.
 Index_11=Arena AI
 Index_14=Modo cooperativo 3:3
 Index_19=Castillo del Caos
@@ -2743,19 +2743,19 @@ Ability_monster_exp=Exp de monstruo
 Ability_normal_monster_exp=Exp monstruo normal
 Ability_elite_monster_exp=Exp monstruo élite
 Ability_boss_monster_exp=Exp monstruo jefe
-Ability_sell_itme_price=Precios de venta de objetos
+Ability_sell_itme_price=Precios de venta de Items
 Ability_item_protect=Reducción de pérdida de durabilidad
 Ability_monster_kill_hp_rec=Bono de PH por cada monstruo asesinado
 Ability_monster_kill_mp_rec=Bono de MP por cada monstruo asesinado
 Ability_damage_hp_rec=Bonificación de HP por daño infligido a monstruos
 Ability_damage_mp_rec=Bonificación de MP por daño infligido a monstruos
-Ability_use_item_hp_rec=Bonificación de HP por efecto de recuperación de objetos
-Ability_use_item_mp_rec=Aumento del efecto del objeto de recuperación de HP
-Ability_item_auto_rooting_range=Radio de recogida del objeto
-Ability_get_magic_item_chance=Tasa de caída de objetos no comunes
+Ability_use_item_hp_rec=Bonificación de HP por efecto de recuperación de Items
+Ability_use_item_mp_rec=Aumento del efecto del Item de recuperación de HP
+Ability_item_auto_rooting_range=Radio de recogida del Item
+Ability_get_magic_item_chance=Tasa de caída de Items no comunes
 Ability_passive_skill=Habilidad pasiva
 Ability_get_gold_rate=Tasa de caída de Zen
-Ability_drop_item_count_chance=Tasa de caída de objetos
+Ability_drop_item_count_chance=Tasa de caída de Items
 Ability_ignore_def=Daño verdadero
 Ability_ignore_def_rate=Daño verdadero
 Ability_status_attack=Mejora del control de multitudes
@@ -3285,22 +3285,22 @@ DailySubMission_100_10002_1=Derrotar monstruo de élite: Rift Test Subject - Ber
 DailySubMission_100_10002_2=Derrota al monstruo jefe: Baraex the Sorrowful Madness
 DailySubMission_100_10002_3=Derrota al monstruo jefe: Baraex the Sorrowful Madness
 DailySubMission_100_10002_4=Supera la prueba de Jian Manas
-DailyMissionDesc_1_1=Realiza las misiones de Dukan y consigue las Pruebas de Dukan.<br>Las Pruebas de Dukan se pueden canjear por equipo de Set de Nivel 65 y otros objetos valiosos a través del NPC de Misión Diaria Dukan en Ohrdor.
-DailyMissionDesc_1_2=Realiza las misiones de Dukan y consigue Pruebas de Dukan.<br>Las Pruebas de Dukan se pueden intercambiar por equipamiento de nivel 65 y otros objetos valiosos a través del PNJ de misión diaria Dukan en Ohrdor.
-DailyMissionDesc_1_3=Realiza las misiones de Dukan y consigue Pruebas de Dukan.<br>Las Pruebas de Dukan se pueden intercambiar por equipamiento de nivel 65 y otros objetos valiosos a través del PNJ de misión diaria Dukan en Ohrdor.
-DailyMissionDesc_1_4=Realiza las misiones de Dukan y consigue Pruebas de Dukan.<br>Las Pruebas de Dukan se pueden intercambiar por equipamiento de nivel 65 y otros objetos valiosos a través del PNJ de misión diaria Dukan en Ohrdor.
-DailyMissionDesc_1_5=Realiza las misiones de Dukan y consigue Pruebas de Dukan.<br>Las Pruebas de Dukan se pueden intercambiar por equipo de nivel 65 Set y otros objetos valiosos a través del NPC de Misión Diaria Dukan en Ohrdor.
-DailyMissionDesc_1_6=Realiza las misiones de Dukan y consigue las Pruebas de Dukan.<br>Las Pruebas de Dukan se pueden intercambiar por equipamiento de nivel 65 y otros objetos valiosos a través del PNJ de misión diaria Dukan en Ohrdor.
-DailyMissionDesc_2_100=Realiza las misiones de Jonathan y consigue las Pruebas de Jonathan.<br>Las Pruebas de Jonathan se pueden intercambiar por varios objetos valiosos a través del PNJ de Misión Diaria Jonathan en Ohrdor.
-DailyMissionDesc_2_101=Realiza las misiones de Jonathan y consigue las Pruebas de Jonathan.<br>Las Pruebas de Jonathan se pueden intercambiar por varios objetos valiosos a través de la Misión Diaria NPC Jonathan en Ohrdor.
-DailyMissionDesc_2_102=Realiza las misiones de Jonathan y consigue las Pruebas de Jonathan.<br>Las Pruebas de Jonathan se pueden intercambiar por varios objetos valiosos a través de la Misión Diaria NPC Jonathan en Ohrdor.
-DailyMissionDesc_2_103=Realiza las misiones de Jonathan y consigue las Pruebas de Jonathan.<br>Las Pruebas de Jonathan se pueden cambiar por varios objetos valiosos a través de la Misión Diaria NPC Jonathan en Ohrdor.
-DailyMissionDesc_3_1000=Realiza las misiones especiales de Kundun y consigue las Medallas de Kundun.<br>Las Medallas de Kundun se pueden intercambiar por varios objetos especiales a través de la Misión Diaria NPC Kyle en Ohrdor.
-DailyMissionDesc_4_2000=Realiza las peligrosas misiones de Fletcher y consigue las Pruebas de Fletcher.<br>Las Pruebas de Fletcher pueden canjearse por varios objetos valiosos a través del PNJ de Misión Diaria Fletcher en Ohrdor.
+DailyMissionDesc_1_1=Realiza las misiones de Dukan y consigue las Pruebas de Dukan.<br>Las Pruebas de Dukan se pueden canjear por equipo de Set de Nivel 65 y otros Items valiosos a través del NPC de Misión Diaria Dukan en Ohrdor.
+DailyMissionDesc_1_2=Realiza las misiones de Dukan y consigue Pruebas de Dukan.<br>Las Pruebas de Dukan se pueden intercambiar por equipamiento de nivel 65 y otros Items valiosos a través del PNJ de misión diaria Dukan en Ohrdor.
+DailyMissionDesc_1_3=Realiza las misiones de Dukan y consigue Pruebas de Dukan.<br>Las Pruebas de Dukan se pueden intercambiar por equipamiento de nivel 65 y otros Items valiosos a través del PNJ de misión diaria Dukan en Ohrdor.
+DailyMissionDesc_1_4=Realiza las misiones de Dukan y consigue Pruebas de Dukan.<br>Las Pruebas de Dukan se pueden intercambiar por equipamiento de nivel 65 y otros Items valiosos a través del PNJ de misión diaria Dukan en Ohrdor.
+DailyMissionDesc_1_5=Realiza las misiones de Dukan y consigue Pruebas de Dukan.<br>Las Pruebas de Dukan se pueden intercambiar por equipo de nivel 65 Set y otros Items valiosos a través del NPC de Misión Diaria Dukan en Ohrdor.
+DailyMissionDesc_1_6=Realiza las misiones de Dukan y consigue las Pruebas de Dukan.<br>Las Pruebas de Dukan se pueden intercambiar por equipamiento de nivel 65 y otros Items valiosos a través del PNJ de misión diaria Dukan en Ohrdor.
+DailyMissionDesc_2_100=Realiza las misiones de Jonathan y consigue las Pruebas de Jonathan.<br>Las Pruebas de Jonathan se pueden intercambiar por varios Items valiosos a través del PNJ de Misión Diaria Jonathan en Ohrdor.
+DailyMissionDesc_2_101=Realiza las misiones de Jonathan y consigue las Pruebas de Jonathan.<br>Las Pruebas de Jonathan se pueden intercambiar por varios Items valiosos a través de la Misión Diaria NPC Jonathan en Ohrdor.
+DailyMissionDesc_2_102=Realiza las misiones de Jonathan y consigue las Pruebas de Jonathan.<br>Las Pruebas de Jonathan se pueden intercambiar por varios Items valiosos a través de la Misión Diaria NPC Jonathan en Ohrdor.
+DailyMissionDesc_2_103=Realiza las misiones de Jonathan y consigue las Pruebas de Jonathan.<br>Las Pruebas de Jonathan se pueden cambiar por varios Items valiosos a través de la Misión Diaria NPC Jonathan en Ohrdor.
+DailyMissionDesc_3_1000=Realiza las misiones especiales de Kundun y consigue las Medallas de Kundun.<br>Las Medallas de Kundun se pueden intercambiar por varios Items especiales a través de la Misión Diaria NPC Kyle en Ohrdor.
+DailyMissionDesc_4_2000=Realiza las peligrosas misiones de Fletcher y consigue las Pruebas de Fletcher.<br>Las Pruebas de Fletcher pueden canjearse por varios Items valiosos a través del PNJ de Misión Diaria Fletcher en Ohrdor.
 DailyMissionDesc_99_9999=Resuelve las misiones diarias del Laberinto de Lupa para conseguir Fragmentos de Artefactos Rotos.
-DailyMissionDesc_100_10000=Intenta la Prueba de Jian Manas, la mazmorra de evento en la zona comercial de Ohrdor, para despejar la misión.<br>Ve al NPC de evento Pidu el Hombre Misterioso para conseguir objetos especiales.<br><br><font color='#FFBB00'>Jugar en net cafés da recompensas extra.</font>.
-DailyMissionDesc_100_10001=Intenta la Prueba de Jian Manas, la mazmorra de evento en la zona comercial de Ohrdor, para completar la misión.<br>Ve al NPC de evento Pidu el Hombre Misterioso para conseguir objetos especiales.<br><font color='#FFBB00'>Jugar en los cafés de la red da recompensas extra.</font>
-DailyMissionDesc_100_10002=Intenta la Prueba de Jian Manas, la mazmorra de evento en la zona comercial de Ohrdor, para completar la misión.<br>Ve al NPC de evento Pidu el Hombre Misterioso para conseguir objetos especiales.<br><font color='#FFBB00'>Jugar en los cafés de la red da recompensas extra.</font>
+DailyMissionDesc_100_10000=Intenta la Prueba de Jian Manas, la mazmorra de evento en la zona comercial de Ohrdor, para despejar la misión.<br>Ve al NPC de evento Pidu el Hombre Misterioso para conseguir Items especiales.<br><br><font color='#FFBB00'>Jugar en net cafés da recompensas extra.</font>.
+DailyMissionDesc_100_10001=Intenta la Prueba de Jian Manas, la mazmorra de evento en la zona comercial de Ohrdor, para completar la misión.<br>Ve al NPC de evento Pidu el Hombre Misterioso para conseguir Items especiales.<br><font color='#FFBB00'>Jugar en los cafés de la red da recompensas extra.</font>
+DailyMissionDesc_100_10002=Intenta la Prueba de Jian Manas, la mazmorra de evento en la zona comercial de Ohrdor, para completar la misión.<br>Ve al NPC de evento Pidu el Hombre Misterioso para conseguir Items especiales.<br><font color='#FFBB00'>Jugar en los cafés de la red da recompensas extra.</font>
 DailyMissionMsg_Type=Recompensa disponible
 DailyMissionMsg_Desc=¡Misión diaria completada!
 DailyMissionMsg_Mission_1=Misión de Dukan (%s_1/%s_2 completada)
@@ -3400,23 +3400,23 @@ DailySubMission_101_10117_1=Superar al menos 9 etapas en Defensa de Dirigible
 DailySubMission_101_10117_2=Despejar Ladrones Goblin
 DailySubMission_101_10117_3=Superar Cueva de los Susurros
 DailySubMission_101_10117_4=Despejar el jardín de Fabrice
-DailyMissionDesc_101_10101=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios objetos a través del NPC de Evento Dukan en Ohrdor.
-DailyMissionDesc_101_10102=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios objetos a través del NPC de Evento Dukan en Ohrdor.
-DailyMissionDesc_101_10103=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios objetos a través del NPC de Evento Dukan en Ohrdor.
-DailyMissionDesc_101_10104=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios objetos a través del NPC de Evento Dukan en Ohrdor.
-DailyMissionDesc_101_10105=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios objetos a través del NPC de Evento Dukan en Ohrdor.
-DailyMissionDesc_101_10106=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios objetos a través del NPC de Evento Dukan en Ohrdor.
-DailyMissionDesc_101_10107=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios objetos a través del NPC de Evento Dukan en Ohrdor.
-DailyMissionDesc_101_10108=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios objetos a través del NPC de Evento Dukan en Ohrdor.
-DailyMissionDesc_101_10109=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios objetos a través del NPC de Evento Dukan en Ohrdor.
-DailyMissionDesc_101_10110=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios objetos a través del NPC de Evento Dukan en Ohrdor.
-DailyMissionDesc_101_10111=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios objetos a través del NPC de Evento Dukan en Ohrdor.
-DailyMissionDesc_101_10112=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios objetos a través del NPC de Evento Dukan en Ohrdor.
-DailyMissionDesc_101_10113=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios objetos a través del NPC de Evento Dukan en Ohrdor.
-DailyMissionDesc_101_10114=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios objetos a través del NPC de Evento Dukan en Ohrdor.
-DailyMissionDesc_101_10115=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios objetos a través del NPC de Evento Dukan en Ohrdor.
-DailyMissionDesc_101_10116=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios objetos a través del NPC de Evento Dukan en Ohrdor.
-DailyMissionDesc_101_10117=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios objetos a través del NPC de Evento Dukan en Ohrdor.
+DailyMissionDesc_101_10101=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios Items a través del NPC de Evento Dukan en Ohrdor.
+DailyMissionDesc_101_10102=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios Items a través del NPC de Evento Dukan en Ohrdor.
+DailyMissionDesc_101_10103=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios Items a través del NPC de Evento Dukan en Ohrdor.
+DailyMissionDesc_101_10104=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios Items a través del NPC de Evento Dukan en Ohrdor.
+DailyMissionDesc_101_10105=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios Items a través del NPC de Evento Dukan en Ohrdor.
+DailyMissionDesc_101_10106=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios Items a través del NPC de Evento Dukan en Ohrdor.
+DailyMissionDesc_101_10107=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios Items a través del NPC de Evento Dukan en Ohrdor.
+DailyMissionDesc_101_10108=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios Items a través del NPC de Evento Dukan en Ohrdor.
+DailyMissionDesc_101_10109=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios Items a través del NPC de Evento Dukan en Ohrdor.
+DailyMissionDesc_101_10110=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios Items a través del NPC de Evento Dukan en Ohrdor.
+DailyMissionDesc_101_10111=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios Items a través del NPC de Evento Dukan en Ohrdor.
+DailyMissionDesc_101_10112=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios Items a través del NPC de Evento Dukan en Ohrdor.
+DailyMissionDesc_101_10113=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios Items a través del NPC de Evento Dukan en Ohrdor.
+DailyMissionDesc_101_10114=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios Items a través del NPC de Evento Dukan en Ohrdor.
+DailyMissionDesc_101_10115=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios Items a través del NPC de Evento Dukan en Ohrdor.
+DailyMissionDesc_101_10116=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios Items a través del NPC de Evento Dukan en Ohrdor.
+DailyMissionDesc_101_10117=Completa las Últimas Misiones de Dukan y consigue las Fichas de Dukan.<br>Las Fichas de Dukan se pueden cambiar por varios Items a través del NPC de Evento Dukan en Ohrdor.
 DailyMissionMsg_Mission_101=Última Misión de Dukan (%s_1/%s_2 completada)
 ContentsName_50000=Determinación de Kundun
 ContentsName_60000=Deber de Etramu
@@ -3505,8 +3505,8 @@ DailySubMission_5_50000_3=Haber superado la fase 20 o superior de la Torre del a
 DailySubMission_6_60000_0=Superada la fase 1 o superior de Guarida volcánica
 DailySubMission_6_60000_1=Has superado la fase 1 o superior de Altar de roca de cristal.
 DailySubMission_6_60000_2=Haber superado la fase 1 o superior de la cueva de Vulcano
-DailyMissionDesc_5_50000=Puedes recoger la prueba de Kundun completando las misiones de Kundun.<br>Esto se puede utilizar para intercambiar diversos objetos de valor a través de la misión diaria de Ohrdor NPC Kundun.
-DailyMissionDesc_6_60000=Puedes recoger prueba de Etramu completando misiones de Etramu.<br>Esto puede ser usado para intercambiar varios objetos valiosos a través de la misión diaria de Ohrdor NPC Etramu.
+DailyMissionDesc_5_50000=Puedes recoger la prueba de Kundun completando las misiones de Kundun.<br>Esto se puede utilizar para intercambiar diversos Items de valor a través de la misión diaria de Ohrdor NPC Kundun.
+DailyMissionDesc_6_60000=Puedes recoger prueba de Etramu completando misiones de Etramu.<br>Esto puede ser usado para intercambiar varios Items valiosos a través de la misión diaria de Ohrdor NPC Etramu.
 DailyMissionMsg_Mission_5=Determinación de Kundun (%s_1/%s_2 completado)
 DailyMissionMsg_Mission_6=Deber de Etramu (%s_1/%s_2 completado)
 
@@ -3621,7 +3621,7 @@ TranscendPart=Parte Trascendente: %s_1
 TranscendPart_1=Arma
 TranscendPart_2=Armadura
 TranscendPart_3=Accesorio
-TranscendItemLevel=Nivel de objeto transcendible: %s_1
+TranscendItemLevel=Nivel de Item transcendible: %s_1
 TranscendLevel=Nivel %s_1
 TranscendGetHow=Fuente: %s_1
 TranscendLimitResetNum=Cuento de reinicios disponibles: %s_1
@@ -3635,15 +3635,15 @@ TranscendStoneGetHow_62522=Se puede obtener fabricando.
 TranscendStoneGetHow_62530=Se puede obtener fabricando.
 TranscendStoneGetHow_62531=Se puede obtener fabricando.
 TranscendStoneGetHow_62532=Se puede obtener fabricando.
-TranscendStoneGetHow_62513=Puedes obtener este objeto fabricando.
-TranscendStoneGetHow_62514=Puedes obtener este objeto fabricando.
-TranscendStoneGetHow_62515=Puedes adquirir este objeto fabricándolo.
-TranscendStoneGetHow_62523=Puedes adquirir este objeto fabricándolo.
-TranscendStoneGetHow_62524=Puedes adquirir este objeto fabricándolo.
-TranscendStoneGetHow_62525=Puedes adquirir este objeto fabricándolo.
-TranscendStoneGetHow_62533=Puedes adquirir este objeto fabricándolo.
-TranscendStoneGetHow_62534=Puedes adquirir este objeto fabricándolo.
-TranscendStoneGetHow_62535=Puedes adquirir este objeto fabricándolo.
+TranscendStoneGetHow_62513=Puedes obtener este Item fabricando.
+TranscendStoneGetHow_62514=Puedes obtener este Item fabricando.
+TranscendStoneGetHow_62515=Puedes adquirir este Item fabricándolo.
+TranscendStoneGetHow_62523=Puedes adquirir este Item fabricándolo.
+TranscendStoneGetHow_62524=Puedes adquirir este Item fabricándolo.
+TranscendStoneGetHow_62525=Puedes adquirir este Item fabricándolo.
+TranscendStoneGetHow_62533=Puedes adquirir este Item fabricándolo.
+TranscendStoneGetHow_62534=Puedes adquirir este Item fabricándolo.
+TranscendStoneGetHow_62535=Puedes adquirir este Item fabricándolo.
 TranscendStoneGetHow_67001=Incluido aleatoriamente en Cofres de Piedra Trascendente Roja Encantada.
 TranscendStoneGetHow_67002=Incluido al azar en Cofres de Piedra Trascendente Rojo Encantado
 TranscendStoneGetHow_67003=Incluido al azar en Cofres de Piedra Trascendente Rojo Encantado
@@ -3759,9 +3759,9 @@ Number_TenThousand=%s_10,000
 Number_HunredMillion=%s_100 millones
 
 [PetRegionName]
-PetRegionName_1=La aldea de los comienzos
-PetRegionName_2=Pequeños granujas de Noria
-PetRegionName_3=¡Reúnanse, amigos del país de los sueños!
+PetRegionName_1=La Aldea Inicial
+PetRegionName_2=Bribones de Noria
+PetRegionName_3=País de los sueños
 
 [Pet_Collection_Name]
 Pet_RegionName_11=¡Un mundo de miau te espera!
@@ -4072,144 +4072,144 @@ TimeDisplayB=%s_1 h
 TimeDisplayC=%s_1 m
 limit_10_Title=Paquete especial para nivel 65
 limit_10_ItemTitle=Paquete especial para el nivel 65
-limit_10_ItemDesc=¡Felicidades por alcanzar el nivel 65!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los objetos que más necesitas ahora mismo.
-limit_10_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_10_ItemDesc=¡Felicidades por alcanzar el nivel 65!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los Items que más necesitas ahora mismo.
+limit_10_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_11_Title=Paquete especial para nivel de alma 100
 limit_11_ItemTitle=Paquete especial para nivel de alma 100
-limit_11_ItemDesc=¡Felicidades por alcanzar el nivel de alma 100!<br>Aquí tienes un paquete de crecimiento que contiene solo lo mejor de los objetos que más necesitas ahora mismo.
-limit_11_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_11_ItemDesc=¡Felicidades por alcanzar el nivel de alma 100!<br>Aquí tienes un paquete de crecimiento que contiene solo lo mejor de los Items que más necesitas ahora mismo.
+limit_11_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_12_Title=Paquete especial para nivel de alma 150
 limit_12_ItemTitle=Paquete especial para nivel de alma 150
-limit_12_ItemDesc=¡Felicidades por alcanzar el nivel de alma 150!<br>Aquí tienes un paquete de crecimiento que contiene solo lo mejor de los objetos que más necesitas ahora mismo.
-limit_12_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_12_ItemDesc=¡Felicidades por alcanzar el nivel de alma 150!<br>Aquí tienes un paquete de crecimiento que contiene solo lo mejor de los Items que más necesitas ahora mismo.
+limit_12_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_13_Title=Paquete especial para nivel de alma 200
 limit_13_ItemTitle=Paquete especial para alma de nivel 200
-limit_13_ItemDesc=¡Felicidades por alcanzar el nivel de alma 200!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los objetos que más necesitas ahora mismo.
-limit_13_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_13_ItemDesc=¡Felicidades por alcanzar el nivel de alma 200!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los Items que más necesitas ahora mismo.
+limit_13_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_14_Title=Paquete especial para nivel de alma 220
 limit_14_ItemTitle=Paquete especial para nivel de alma 220
-limit_14_ItemDesc=¡Felicidades por alcanzar el nivel de alma 220!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los objetos que más necesitas ahora mismo.
-limit_14_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_14_ItemDesc=¡Felicidades por alcanzar el nivel de alma 220!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los Items que más necesitas ahora mismo.
+limit_14_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_15_Title=Paquete especial para nivel de alma 240
 limit_15_ItemTitle=Paquete especial para nivel de alma 240
-limit_15_ItemDesc=¡Felicidades por alcanzar el nivel de alma 240!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los objetos que más necesitas ahora mismo.
-limit_15_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_15_ItemDesc=¡Felicidades por alcanzar el nivel de alma 240!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los Items que más necesitas ahora mismo.
+limit_15_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_16_Title=Paquete especial para nivel de alma 260
 limit_16_ItemTitle=Paquete especial para nivel de alma 260
-limit_16_ItemDesc=¡Felicidades por alcanzar el nivel de alma 260!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los objetos que más necesitas ahora mismo.
-limit_16_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_16_ItemDesc=¡Felicidades por alcanzar el nivel de alma 260!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los Items que más necesitas ahora mismo.
+limit_16_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_17_Title=Paquete especial para nivel de alma 280
 limit_17_ItemTitle=Paquete especial para nivel de alma 280
-limit_17_ItemDesc=¡Felicidades por alcanzar el nivel de alma 280!<br>Aquí tienes un paquete de crecimiento que contiene solo lo mejor de los objetos que más necesitas ahora mismo.
-limit_17_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_17_ItemDesc=¡Felicidades por alcanzar el nivel de alma 280!<br>Aquí tienes un paquete de crecimiento que contiene solo lo mejor de los Items que más necesitas ahora mismo.
+limit_17_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_18_Title=Paquete especial para nivel de alma 300
 limit_18_ItemTitle=Paquete especial para nivel de alma 300
-limit_18_ItemDesc=¡Felicidades por alcanzar el nivel de alma 300!<br>Aquí tienes un paquete de crecimiento que contiene solo lo mejor de los objetos que más necesitas ahora mismo.
-limit_18_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_18_ItemDesc=¡Felicidades por alcanzar el nivel de alma 300!<br>Aquí tienes un paquete de crecimiento que contiene solo lo mejor de los Items que más necesitas ahora mismo.
+limit_18_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_19_Title=Paquete especial para nivel 80
 limit_19_ItemTitle=Paquete especial de nivel 80
-limit_19_ItemDesc=¡Felicidades por alcanzar el nivel 80!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los objetos que más necesitas ahora mismo.
-limit_19_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_19_ItemDesc=¡Felicidades por alcanzar el nivel 80!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los Items que más necesitas ahora mismo.
+limit_19_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_20_Title=Paquete de evento
 limit_20_ItemTitle=Paquete de evento
 limit_20_ItemDesc=¡Oferta de piedras trascendentales encantadas para personajes de nivel 70 o superior!<br>Esperamos que consigas la piedra trascendental que deseas.
-limit_20_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_20_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_21_Title=Paquete de evento
 limit_21_ItemTitle=Paquete de evento
 limit_21_ItemDesc=¡Oferta de Piedras Trascendentes encantadas para personajes de nivel 70 o superior!<br>Esperamos que consigas la Piedra Trascendente que deseas.
-limit_21_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_21_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_22_Title=Paquete de evento
 limit_22_ItemTitle=Paquete de evento
 limit_22_ItemDesc=¡Oferta de Piedras Trascendentes encantadas para personajes de nivel 70 o superior!<br>Esperamos que consigas la Piedra Trascendente que deseas.
-limit_22_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_22_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_23_Title=Paquete de evento
 limit_23_ItemTitle=Paquete de evento
 limit_23_ItemDesc=¡Oferta de piedras trascendentales encantadas para personajes de nivel 70 o superior!<br>Esperamos que consigas la piedra trascendental que deseas.
-limit_23_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_23_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_24_Title=Paquete especial para nivel 65
 limit_24_ItemTitle=Paquete especial para nivel 65
-limit_24_ItemDesc=¡Felicidades por alcanzar el nivel 65!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los objetos que más necesitas ahora mismo.
-limit_24_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_24_ItemDesc=¡Felicidades por alcanzar el nivel 65!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los Items que más necesitas ahora mismo.
+limit_24_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_25_Title=Paquete especial para nivel 80
 limit_25_ItemTitle=Paquete especial para nivel 80
-limit_25_ItemDesc=¡Felicidades por alcanzar el nivel 80!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los objetos que más necesitas ahora mismo.
-limit_25_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_25_ItemDesc=¡Felicidades por alcanzar el nivel 80!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los Items que más necesitas ahora mismo.
+limit_25_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_26_Title=Paquete de bienvenida para el retornado 1
 limit_26_ItemTitle=Paquete de bienvenida para el retornado 1
-limit_26_ItemDesc=¡Bienvenido de nuevo, Guardián!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los objetos que más necesitas ahora mismo.
-limit_26_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_26_ItemDesc=¡Bienvenido de nuevo, Guardián!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los Items que más necesitas ahora mismo.
+limit_26_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_27_Title=Paquete de bienvenida 2 para el retornado
 limit_27_ItemTitle=Paquete de bienvenida para el retornado 2
-limit_27_ItemDesc=¡Bienvenido de nuevo, Guardián!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los objetos que más necesitas ahora mismo.
-limit_27_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_27_ItemDesc=¡Bienvenido de nuevo, Guardián!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los Items que más necesitas ahora mismo.
+limit_27_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_28_Title=Paquete especial para nivel de alma 100
 limit_28_ItemTitle=Paquete especial para nivel de alma 100
-limit_28_ItemDesc=¡Felicidades por alcanzar el nivel de alma 100!<br>Aquí tienes un paquete de crecimiento que contiene solo lo mejor de los objetos que más necesitas ahora mismo.
-limit_28_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_28_ItemDesc=¡Felicidades por alcanzar el nivel de alma 100!<br>Aquí tienes un paquete de crecimiento que contiene solo lo mejor de los Items que más necesitas ahora mismo.
+limit_28_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_29_Title=Paquete especial de alas 1
 limit_29_ItemTitle=Paquete especial de alas 1
 limit_29_ItemDesc=¿Necesitas hacer crecer tus Alas?<br>¡Tenemos el paquete perfecto para ti!
-limit_29_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_29_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_30_Title=Paquete especial para nivel de alma 150
 limit_30_ItemTitle=Paquete especial para nivel de alma 150
-limit_30_ItemDesc=¡Felicidades por alcanzar el nivel de alma 150!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los objetos que más necesitas ahora mismo.
-limit_30_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_30_ItemDesc=¡Felicidades por alcanzar el nivel de alma 150!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los Items que más necesitas ahora mismo.
+limit_30_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_31_Title=Paquete de pergaminos con impresión especial 1
 limit_31_ItemTitle=Paquete de pergaminos con impresión especial 1
 limit_31_ItemDesc=¿Necesitas pergaminos de impresión para mejorar tu equipo?<br>¡Tenemos el paquete perfecto para ti!
-limit_31_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_31_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_32_Title=Paquete especial para nivel de alma 200
 limit_32_ItemTitle=Paquete especial para alma de nivel 200
-limit_32_ItemDesc=¡Felicidades por alcanzar el nivel de alma 200!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los objetos que más necesitas ahora mismo.
-limit_32_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_32_ItemDesc=¡Felicidades por alcanzar el nivel de alma 200!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los Items que más necesitas ahora mismo.
+limit_32_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_33_Title=Paquete especial de artefacto despertado 1
 limit_33_ItemTitle=Paquete especial de artefactos despertados 1
 limit_33_ItemDesc=¡Siente los increíbles poderes de los artefactos despertados<br>a través de este paquete especial!
-limit_33_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_33_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_34_Title=Paquete especial para nivel de alma 250
 limit_34_ItemTitle=Paquete especial para nivel de alma 250
-limit_34_ItemDesc=¡Felicidades por alcanzar el nivel de alma 250!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los objetos que más necesitas ahora mismo.
-limit_34_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_34_ItemDesc=¡Felicidades por alcanzar el nivel de alma 250!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los Items que más necesitas ahora mismo.
+limit_34_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_35_Title=Paquete especial de alas 2
 limit_35_ItemTitle=Paquete especial de alas 2
 limit_35_ItemDesc=¿Necesitas aumentar tus Alas?<br>¡Tenemos el paquete perfecto para ti!
-limit_35_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_35_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_36_Title=Paquete especial para nivel de alma 300
 limit_36_ItemTitle=Paquete especial para nivel de alma 300
-limit_36_ItemDesc=¡Felicidades por alcanzar el nivel de alma 300!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los objetos que más necesitas ahora mismo.
-limit_36_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_36_ItemDesc=¡Felicidades por alcanzar el nivel de alma 300!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los Items que más necesitas ahora mismo.
+limit_36_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_37_Title=Paquete especial para el 1er Renacimiento, nivel de alma 150
 limit_37_ItemTitle=Paquete especial para el 1er renacimiento, nivel de alma 150
-limit_37_ItemDesc=¡Felicidades por alcanzar el 1er Renacimiento, nivel de alma 150!<br>Aquí tienes un paquete de crecimiento que contiene solo los mejores objetos que necesitas en este momento.
-limit_37_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_37_ItemDesc=¡Felicidades por alcanzar el 1er Renacimiento, nivel de alma 150!<br>Aquí tienes un paquete de crecimiento que contiene solo los mejores Items que necesitas en este momento.
+limit_37_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_38_Title=Paquete 2 de pergaminos con impresión especial
 limit_38_ItemTitle=Impresión especial, paquete de pergaminos 2
 limit_38_ItemDesc=¿Necesitas pergaminos de impresión para mejorar tu equipo?<br>¡Tenemos el paquete perfecto para ti!
-limit_38_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_38_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_39_Title=Paquete especial para el primer renacimiento, nivel de alma 200
 limit_39_ItemTitle=Paquete especial para el 1er renacimiento, nivel de alma 200
-limit_39_ItemDesc=¡Felicidades por alcanzar el 1er Renacimiento, nivel de alma 200!<br>Aquí tienes un paquete de crecimiento que contiene solo lo mejor de los objetos que más necesitas ahora mismo.
-limit_39_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_39_ItemDesc=¡Felicidades por alcanzar el 1er Renacimiento, nivel de alma 200!<br>Aquí tienes un paquete de crecimiento que contiene solo lo mejor de los Items que más necesitas ahora mismo.
+limit_39_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_40_Title=Paquete especial de artefactos despertados 2
 limit_40_ItemTitle=Paquete especial de artefactos despertados 2
 limit_40_ItemDesc=¡Siente los increíbles poderes de los artefactos despertados<br>a través de este paquete especial!
-limit_40_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_40_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_41_Title=Paquete especial para el primer renacimiento, nivel de alma 250
 limit_41_ItemTitle=Paquete especial para el 1er renacimiento, nivel de alma 250
-limit_41_ItemDesc=¡Felicidades por alcanzar el 1er Renacimiento, nivel de alma 250!<br>Aquí tienes un paquete de crecimiento que contiene solo lo mejor de los objetos que más necesitas ahora mismo.
-limit_41_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_41_ItemDesc=¡Felicidades por alcanzar el 1er Renacimiento, nivel de alma 250!<br>Aquí tienes un paquete de crecimiento que contiene solo lo mejor de los Items que más necesitas ahora mismo.
+limit_41_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_42_Title=Paquete especial de alas 3
 limit_42_ItemTitle=Paquete especial de alas 3
 limit_42_ItemDesc=¿Necesitas aumentar tus Alas?<br>¡Tenemos el paquete perfecto para ti!
-limit_42_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_42_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_43_Title=Paquete especial para el primer renacimiento, nivel de alma 300
 limit_43_ItemTitle=Paquete especial para el 1er renacimiento, nivel de alma 300
-limit_43_ItemDesc=¡Felicidades por alcanzar el 1er Renacimiento, nivel de alma 300!<br>Aquí tienes un paquete de crecimiento que contiene solo lo mejor de los objetos que más necesitas ahora mismo.
-limit_43_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_43_ItemDesc=¡Felicidades por alcanzar el 1er Renacimiento, nivel de alma 300!<br>Aquí tienes un paquete de crecimiento que contiene solo lo mejor de los Items que más necesitas ahora mismo.
+limit_43_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_44_Title=Paquete 3 de pergaminos con impresión especial
 limit_44_ItemTitle=Paquete de 3 pergaminos con impresión especial
 limit_44_ItemDesc=¿Necesitas pergaminos de impresión para mejorar tu equipo?<br>¡Tenemos el paquete perfecto para ti!
-limit_44_ItemDesc2=Los objetos de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
+limit_44_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_45_Title=Paquete especial reliquia despierta 1
 limit_45_ItemTitle=Paquete especial reliquia despierta 1
 limit_45_ItemDesc=¡Siente el gran y sorprendente poder de la nueva reliquia!<br>Puedes hacer crecer la reliquia despierta del paso 1 sobre el paso 20.

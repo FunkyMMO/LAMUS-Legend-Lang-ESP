@@ -5485,35 +5485,35 @@ LS_DescriptionString2=Registrar un elemento de material para eliminar la aparien
 LS_RemoveItemString=Artículo objetivo
 
 [MU2GfxAdvDungeonInfo]
-LS_AdvDungeonTitle=Sociedad de Investigación de las Rifts
+LS_AdvDungeonTitle=Sociedad de Investigación de Rifts
 LS_BurningStamina_Runaway=La Rift es estable.
 LS_BurningStamina_Runaway_Char=%s_1 ha disparado la Rift.
 LS_BurningStamina_Waiting=Esperando
-LS_BurningStamina_Burning=En sobremarcha
-LS_BurningStamina_Limit=Cerca de entrar en sobremarcha
+LS_BurningStamina_Burning=En sobrecarga
+LS_BurningStamina_Limit=Sobrecargando
 LS_BurningStamina_Level=Etapa %s_1
-LS_AwakenTitle=Efecto de sobremarcha de la Rift
-LS_AwakenDesc=El jugador que añade el último punto para llenar el medidor de Sobremarcha de la Rift<br>obtiene temporalmente una fuerza sobrehumana, al haber estado expuesto a una fuerte deformación de la Rift.
+LS_AwakenTitle=Efecto de sobrecarga de la Rift
+LS_AwakenDesc=El jugador que añade el último punto para llenar el medidor de Sobrecarga de Rift<br>obtiene temporalmente una fuerza sobrehumana, al haber estado expuesto a una fuerte deformación de Rift.
 LS_PopupCancelLabel=Cancelar
 LS_BurningStamina_Title=Rifts
-LS_BurningStamina_Desc=Entra en una Rift para aumentar el medidor de Sobremarcha de Rift del continente correspondiente.<br>Al activar el modo Sobremarcha, puedes entrar en Rifts sin límite durante un cierto tiempo.
-LS_BurningStamina_ShowInfoPopup=Información de sobremarcha de la Rift
-LS_WebOfGod_Title=Corridor
-LS_WebOfGod_Desc=Llena el medidor de Liberación del Tiempo Espacial<br>acumulando Puntos de Muerte en el Dios del Corredor.<br>Activando el modo Liberación, puedes entrar en el Dios del Corredor sin límite durante un cierto periodo.
-LS_WebOfGod_ShowInfoPopup=ST Información de liberación
+LS_BurningStamina_Desc=Entra en una Rift para aumentar el medidor de Sobrecarga de Rift del continente correspondiente.<br>Al activar el modo Sobrecarga, puedes entrar en Rifts sin límite durante un cierto tiempo.
+LS_BurningStamina_ShowInfoPopup=Información
+LS_WebOfGod_Title=God of Corridor
+LS_WebOfGod_Desc=Llena el medidor de Sobrecarga<br>acumulando puntos de Muerte en God of Corridor.<br>Activando el modo Sobrecarga, puedes entrar en God of Corridor sin límite durante un cierto periodo.
+LS_WebOfGod_ShowInfoPopup=Informacion
 LS_WebOfGod_RemainTimeTitle=Tiempo restante
-LS_WebOfGod_Ranking_Title=Ranking de liberación de espacio-tiempo
-LS_WebOfGod_Ranking_Desc=Puedes comprobar los puntos de contribución para el medidor de liberación del espacio-tiempo actual.<br>Recibirás la recompensa del ranking por correo cuando el medidor de liberación del espacio-tiempo alcance el 100% y se active el estado de liberación del espacio-tiempo.<br>Liberador puede recibir las mismas recompensas que el 1er rango.
-LS_WebOfGod_Ranking_ShowInfoPopup=Abrir la ventana de clasificación de liberación espacio-temporal
-LS_WebOfGod_Rank[0]=Rango 1
-LS_WebOfGod_Rank[1]=Rango 2
-LS_WebOfGod_Rank[2]=Rango 3
+LS_WebOfGod_Ranking_Title=Clasificación
+LS_WebOfGod_Ranking_Desc=Puedes comprobar los puntos de contribución para el medidor de Sobrecarga actual.<br>Recibirás la recompensa del ranking por correo cuando el medidor de God of Corridor alcance el 100% y se active el estado de Sobrecarga.<br>El liberador puede recibir las mismas recompensas que el 1er Rank.
+LS_WebOfGod_Ranking_ShowInfoPopup=Clasificación God of Corridor
+LS_WebOfGod_Rank[0]=Rank 1
+LS_WebOfGod_Rank[1]=Rank 2
+LS_WebOfGod_Rank[2]=Rank 3
 LS_WebOfGod_Ranking_MyPointLabel=Información sobre mi contribución
 LS_WebOfGod_Ranking_BasicReward=Recompensa por contribución básica
-LS_WebOfGod_Ranking_PointFormat=%s_1 pt.
+LS_WebOfGod_Ranking_PointFormat=%s_1 pts.
 LS_WebOfGod_Ranking_EtcRanker=%s_1 y %s_2 otros
 LS_WebOfGod_Ranking_Empty_Name=Ningún registro
-LS_WebOfGod_Ranking_Empty_Point=0 pt.
+LS_WebOfGod_Ranking_Empty_Point=0 pts.
 
 [MU2GfxMissionMap]
 LS_btnClose=Cerrar (Esc)
@@ -5620,7 +5620,7 @@ LS_DetailRewardItemsText=Recompensa por artículo
 [MU2GfxReturnToCity]
 LS_ReturnToCityTitle=Volver a la ciudad
 LS_MoveCaution=Precaución: Si te mueves a la ciudad ahora, no podrás volver a esta mazmorra.
-LS_Move=Mover (Espacio)
+LS_Move=Viajar (Espacio)
 LS_Close=Cerrar (Esc)
 LS_ReturnToTown=Mover a la última ciudad que visitó.
 LS_ReturnToCity=Mover a una gran ciudad.
@@ -5645,8 +5645,8 @@ LS_SurveyReward=3. Recompensa Elemento de la recompensa
 LS_SurveyInputDefaultText=Se pueden introducir hasta 50 caracteres.
 
 [MU2GFxTownPortal]
-LS_Title=Mover a otra área
-LS_Move=Mover (Espacio)
+LS_Title=Viajar a otra área
+LS_Move=Viajar (Espacio)
 LS_Cancel=Cancelar (Esc)
 LS_CurUsePortal=Actual
 LS_PreUsePortal=Anterior
