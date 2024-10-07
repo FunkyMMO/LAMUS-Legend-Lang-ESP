@@ -25,6 +25,7 @@ Party=Party
 Objeto=Item 
 Articulo=Item
 Gremio=Guild
+Socket=Socket
 
 [NPC]
 
