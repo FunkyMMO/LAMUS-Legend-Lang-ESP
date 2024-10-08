@@ -6797,21 +6797,21 @@ LS_Accept=Reclamar
 [MU2GFxPCCafeReward]
 LS_Caption=Recompensa por inicio de sesión
 LS_ServiceCaption=Beneficios diarios
-LS_RewardCaption=Objetos gratuitos en función de la duración del inicio de sesión
+LS_RewardCaption=Items gratuitos en función del tiempo en linea
 LS_AcceptButton=Reclamar
 LS_ServiceBasic=Beneficios básicos
 LS_ServicePlus=Beneficios del Servicio Premium
 LS_ServicePlusDesc=Los usuarios del Servicio Premium obtendrán estos beneficios extra.
 LS_ServiceApply=(En uso)
-LS_ServiceBasic1=Rift<br>Cuento de entradas +<font color='#00ff00'>2</font><br>Tower of Dawn<br>Cuento de entradas +<font color='#00ff00'>1</font>
+LS_ServiceBasic1=Rift<br>Entradas disponibles +<font color='#00ff00'>2</font><br>Tower of Dawn<br>Entradas Disponibles +<font color='#00ff00'>1</font>
 LS_ServiceBasic2=Ganancia EXP Alma +<font color='#00ff00'>30%</font><br>Ataque/Defensa +<font color='#00ff00'>5%</font><br>(Se acumula con los efectos del Servicio Premium)
 LS_ServicePlus1=Gema Mágica/Ganancia de Zen +<font color='#00ff00'>10%</font>
-LS_ServicePlus2=Torre sin fin, Castillo de sangre y Rift<br>Cuenta de entradas +<font color='#00ff00'>1</font>
-LS_PlatinumCaption=Recompensa por inicio de sesión regular
-LS_PlatinumPlusCaption=Recompensa por inicio de sesión Premium
+LS_ServicePlus2=Endless Tower, Blood Castle y Rift<br>Entradas disponibles +<font color='#00ff00'>1</font>
+LS_PlatinumCaption=Recompensa por sesión regular
+LS_PlatinumPlusCaption=Recompensa por sesión Premium
 LS_RewardActive=<font color='#fdc243'>%s_1</font>
 LS_RewardDeactive=<font color='#885f06'>%s_1</font>
-LS_RewardTimeCaption=Duración del inicio de sesión
+LS_RewardTimeCaption=Duración de la sesión
 LS_RewardTime=%.2d:%.2d
 LS_Time0=Al iniciar sesión
 LS_TimeM=%s_1m
