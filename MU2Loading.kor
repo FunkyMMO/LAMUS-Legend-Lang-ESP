@@ -7,8 +7,8 @@ Loading_5=Puedes entrar en una variedad de Mapas de Misión en la <font color='#
 Loading_6=Si superas rápidamente una fase en la <font color='#FFD144'>Torre sin fin</font>, puedes saltarte varias fases a la vez.
 Loading_7=Puedes encontrar grandes cantidades de <font color='#FFD144'>Gemas Mágicas</font> en la Grieta y en la Mina de Gemas Mágicas Warped.
 Loading_8=Atacar mientras pulsas la <font color='#FFD144'>tecla Mayús</font> hará que <font color='#FFD144'>mantengas tu posición</font> durante los ataques.
-Loading_9=Las mazmorras <font color='#FFD144'>Épicas</font> son más duras que las de dificultad Mítica. Pruébalas cuando <font color='#FFD144'>seas lo suficientemente fuerte</font>.
-Loading_10=Subir la <font color='#FFD144'>dificultad de la mazmorra</font> aumenta significativamente tus posibilidades de obtener equipo mayor.
+Loading_9=Las Dungeons <font color='#FFD144'>Épicas</font> son más duras que las de dificultad Mítica. Pruébalas cuando <font color='#FFD144'>seas lo suficientemente fuerte</font>.
+Loading_10=Subir la <font color='#FFD144'>dificultad de la Dungeon</font> aumenta significativamente tus posibilidades de obtener equipo mayor.
 Loading_11=En <font color='#FFD144'>El Castillo de Sangre</font>, puedes conseguir Fragmentos de Alma y Pociones de Alma.
 Loading_12=La <font color='#FFD144'>Torre sin fin</font> es un mapa de Misión abundante en materiales de encantamiento/Evolución de Alas. Se desbloquea en el Nivel 65.
 Loading_13=Cuando aprendas <font color='#FFD144'>Habilidades de Experto</font>, ganarás efectos de aumento de estadísticas.
@@ -23,7 +23,7 @@ Loading_21=Utiliza el <font color='#FFD144'>Dispositivo Portal del Pueblo</font>
 Loading_22=<font color='#FFD144'>Las Gemas Mágicas</font> se usan para encantar, evolucionar y comprar objetos especiales.
 Loading_23=El nivel del monstruo en la Grieta coincide con el del miembro del grupo con el <font color='#FFD144'>nivel más alto</font>.
 Loading_24=Puedes obtener fácilmente equipo <font color='#FFD144'>que coincida con tu nivel</font> en la Grieta.
-Loading_25=Las mazmorras Épicas y el Laberinto de Lupa tienen un <font color='#FFD144'>límite de uso de «Resucitar Ahora»</font>. Usa las Piedras de Resurrección con cuidado.
+Loading_25=Las Dungeons Épicas y el Laberinto de Lupa tienen un <font color='#FFD144'>límite de uso de «Resucitar Ahora»</font>. Usa las Piedras de Resurrección con cuidado.
 Loading_26=¡Envía la Grieta a <font color='#FFD144'>Overdrive (N)</font> y consigue grandes cantidades de Gemas Mágicas!
 Loading_27=La Grieta, mientras está en modo <font color='#FFD144'>Overdrive (N)</font>, puede ser introducida un número ilimitado de veces.
 Loading_28=Si tienes suerte, puedes encontrarte con los <font color='#FFD144'>Monstruos de la Suerte Dorada</font> en algún lugar de los campos.
@@ -45,11 +45,11 @@ Loading_43=<font color='#FFD144'>Las misiones de área</font> son necesarias par
 Loading_44=Puedes moverte a otros continentes a través de una <font color='#FFD144'>Guía de Viaje Intercontinental</font>.
 Loading_45=Puedes moverte a otros continentes a través de una <font color='#FFD144'>guía de viaje</font>.
 Loading_46=LAMUS Legend tiene 3 niveles de dificultad: <font color='#FFD144'>Normal, Mítico y Épico</font>.
-Loading_47=¿El juego es demasiado fácil para ti? Prueba a subir la <font color='#FFD144'>dificultad</font> de la mazmorra.
+Loading_47=¿El juego es demasiado fácil para ti? Prueba a subir la <font color='#FFD144'>dificultad</font> de la Dungeon.
 Loading_48=Cuando alcanzas el Nivel 65, puedes <font color='#FFD144'>crear y cultivar Artefactos</font> que pueden aumentar enormemente tu crecimiento.
 Loading_49=No puedes crear o cultivar <font color='#FFD144'>Artefactos (X)</font> sin explorar <font color='#FFD144'>El Laberinto de Lupa</font>.
 Loading_50=Antes de entrar en el Laberinto de Lupa, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
-Loading_51=Las mazmorras Épicas son extremadamente difíciles. Te recomendamos que <font color='#FFD144'>entrenes en las mazmorras Míticas y en el Laberinto de Lupa antes de aceptar el desafío</font>.
+Loading_51=Las Dungeons Épicas son extremadamente difíciles. Te recomendamos que <font color='#FFD144'>entrenes en las Dungeons Míticas y en el Laberinto de Lupa antes de aceptar el desafío</font>.
 Loading_52=Antes de entrar en el Laberinto de Lupa, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
 Loading_53=Antes de entrar en el Laberinto de Lupa, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
 Loading_54=<font color='#FFD144'>Los objetos establecidos o mejores</font> no pueden ser intercambiados entre usuarios o a través del Corredor de Comercio.
@@ -66,14 +66,14 @@ Loading_64=Si estás en un lugar inaccesible, puedes usar <font color='#FFD144'>
 Loading_65=Cada <font color='#FFD144'>Cubo</font> puede generar un objeto hasta 3 veces. ¿Y adivina qué? ¡La primera vez es gratis!
 Loading_66=Utiliza la opción <font color='#FFD144'>Cambiar Habilidad</font> para el crecimiento estratégico de tu personaje.
 Loading_67=Equipa <font color='#FFD144'>Joyas y Piedras del Alma</font> para mejorar las habilidades de tu personaje.
-Loading_68=Puedes recoger materiales <font color='#FFD144'>Joyas y Piedras del Alma</font> de monstruos en mazmorras y otros lugares de caza.
+Loading_68=Puedes recoger materiales <font color='#FFD144'>Joyas y Piedras del Alma</font> de monstruos en Dungeons y otros lugares de caza.
 Loading_69=Los objetos <font color='#FFD144'>pueden ser vendidos por Redzen</font> a través del Corredor de Comercio en Ohrdor.
 Loading_70=Los artefactos de <font color='#FFD144'>Nivel 20 o superior</font> pueden ser usados para Alquimia. La Alquimia, sin embargo, destruye completamente los Artefactos.
 Loading_71=La Alquimia lleva mucho tiempo, pero puedes <font color='#FFD144'>acortar su duración</font> por un precio.
 Loading_72=Los Artefactos, cuando se Alquimizan, se destruyen y dejan los materiales de artesanía extremadamente raros, <font color='#FFD144'>Piedras de Sabio</font>.
-Loading_73=Puedes jugar mazmorras en <font color='#FFD144'>Dificultad Mítica</font> una vez hayas cumplido los requisitos de nivel.
+Loading_73=Puedes jugar Dungeons en <font color='#FFD144'>Dificultad Mítica</font> una vez hayas cumplido los requisitos de nivel.
 Loading_74=Completa misiones sencillas y consigue recompensas para impulsar tu crecimiento a través de <font color='#FFD144'>El Entrenamiento de Progresión de Linda</font>, que estará disponible cuando alcances el nivel 65.
-Loading_75=Todos los miembros del grupo deben estar en la <font color='#FFD144'>misma zona</font> para entrar en una mazmorra.
+Loading_75=Todos los miembros del grupo deben estar en la <font color='#FFD144'>misma zona</font> para entrar en una Dungeon.
 Loading_76=Cada vez que un jugador entra en la Grieta de un continente, el medidor de <font color='#FFD144'>Desfase de la Grieta</font> del continente aumenta.
 Loading_77=Puedes comprobar el estado del indicador de la Grieta en el <font color='#FFD144'>menú de la Grieta (N)</font>.
 Loading_78=Pulsa Esc y consulta la <font color='#FFD144'>Guía de Crecimiento</font>. Ofrece información general sobre los contenidos del juego.
@@ -85,7 +85,7 @@ Loading_83=Puedes crear un gremio a través del <font color='#FFD144'>Secretario
 Loading_84=Cuando cazas monstruos, tu <font color='#FFD144'>gremio gana EXP</font> junto contigo.
 Loading_85=Pulsa Esc y consulta la <font color='#FFD144'>Guía de Crecimiento</font>. Ofrece información general sobre los contenidos del juego.
 Loading_86=Para que un gremio pueda construir un <font color='#FFD144'>Santuario</font>, debe tener los materiales necesarios en su almacén.
-Loading_87=Los personajes con el buff Brote Creciente pueden conseguir el <font color='#FFD144'>Caja de Apoyo Brote</font> jugando en ciertas mazmorras.
+Loading_87=Los personajes con el buff Brote Creciente pueden conseguir el <font color='#FFD144'>Caja de Apoyo Brote</font> jugando en ciertas Dungeons.
 Loading_88=Los miembros del gremio pueden conseguir Contribución <font color='#FFD144'>participando en actividades del gremio y cazando monstruos</font>.
 Loading_89=Los miembros del Gremio obtienen Contribución una vez a la semana a través de <font color='#FFD144'>Evaluación de la Contribución del Gremio</font>.
 Loading_90=Los monstruos se clasifican en <font color='#FFD144'>Planta, Insecto, Bestia, Humanoide, No Muerto, Mutante, Mágico y Edificio</font>.
@@ -150,7 +150,7 @@ Loading_148=Los equipos de asalto de torneo pueden ser <font color='#FFD144'>cre
 Loading_149=<font color='#FFD144'>Los equipos de asalto de torneo</font> que no cumplan los requisitos de jugadores para sus partidas <font color='#FFD144'>no podrán ser enviados</font>.
 Loading_150=<font color='#FFD144'>El Archivo Antiguo de Lupa</font> tiene una baja probabilidad de ser descubierto en modo Épico 6 o superior.
 Loading_151=<font color='#FFD144'>El Archivo Antiguo de Lupa</font> genera equipo Mítico junto con varios objetos aleatorios.
-Loading_152=<font color='#FFD144'>Las mazmorras Míticas/Epicas 6</font> o más difíciles ofrecen <font color='#FFD144'>equipo encantado</font>.
+Loading_152=<font color='#FFD144'>Las Dungeons Míticas/Epicas 6</font> o más difíciles ofrecen <font color='#FFD144'>equipo encantado</font>.
 Loading_153=¿Tus <font color='#FFD144'>Artefactos</font> han sido <font color='#FFD144'>Recuperados</font>? Que no cunda el pánico. Comprueba la pestaña <font color='#FFD144'>Artefacto (X) -> Recuperar</font>.
 Loading_154=<font color='#FFD144'>Los Artefactos Recuperados</font> pueden ser <font color='#FFD144'>utilizados tal cual</font> o tener su <font color='#FFD144'>crecimiento transferido</font> a otro Artefacto.
 Loading_155=En la <font color='#FFD144'>Refinería de Objetos</font>, puedes refinar <font color='#FFD144'>objetos premium</font> para conseguir otros objetos premium.
@@ -171,7 +171,7 @@ Loading_169=<font color='#FFD144'>Los Núcleos de Talismán</font> son objetos n
 Loading_170=Cuando tus Talismanes alcancen el nivel máximo, puedes <font color='#FFD144'>Romperlos</font> para que crezcan aún más.
 Loading_171=¡Colecciona una variedad de Talismanes a través de las <font color='#FFD144'>Consultas de Grupo</font>!
 Loading_172=Cada Talismán tiene una habilidad única. Para usar las habilidades, equípalas en el <font color='#FFD144'>Talismán Conductor</font>.
-Loading_173=Las habilidades de <font color='#FFD144'>Talismán</font> no pueden usarse en ninguna mazmorra; sólo son compatibles con ciertos contenidos del juego.
+Loading_173=Las habilidades de <font color='#FFD144'>Talismán</font> no pueden usarse en ninguna Dungeon; sólo son compatibles con ciertos contenidos del juego.
 Loading_174=Añade tus Talismanes a <font color='#FFD144'>Favoritos</font> para usarlos cómodamente.
 Loading_175=Puedes <font color='#FFD144'>Romper</font> Talismanes usando <font color='#FFD144'>Núcleos de Talismán</font> del mismo tipo.
 Loading_176=Puedes <font color='#FFD144'>Romper</font> Talismanes para aumentar sus niveles máximos.
@@ -192,7 +192,7 @@ Loading_190=Haz un buen uso de tus habilidades de <font color='#FFD144'>Talismá
 Loading_191=Busca al <font color='#FFD144'>Duende Brillante</font>. Puedes conseguir de él objetos Brillantes con varios efectos.
 Loading_192=¡Las <font color='#FFD144'>llamas</font> del Castillo del Caos infligen grandes cantidades de daño con el tiempo! Aléjate de ellas tan rápido como puedas.
 Loading_193=Puedes beneficiarte del efecto Set si equipas múltiples <font color='#FFD144'>Objetos Set</font>.
-Loading_194=Cada continente tiene una o dos <font color='#FFD144'>Mazmorras épicas</font>.
+Loading_194=Cada continente tiene una o dos <font color='#FFD144'>Dungeons épicas</font>.
 Loading_195=Puedes usar el botón <font color='#FFD144'>Ordenar Todo</font> en la parte inferior del inventario para organizar rápidamente tus objetos.
 Loading_196=Puedes buscar una partida en el <font color='#FFD144'>Castillo del Caos</font> sólo a horas señaladas.
 Loading_197=Si necesitas algún objeto, intenta usar el <font color='#FFD144'>Comerciante</font>.
@@ -208,7 +208,7 @@ Loading_206=Equipar ciertas <font color='#FFD144'>Piedras de Alma</font> mejorar
 Loading_207=Múltiples monstruos jefe aparecen en la <font color='#FFD144'>Fosa de los Muertos</font>.
 Loading_208=En <font color='#FFD144'>Reino de la Perseverancia: Trials</font>, puedes encontrar <font color='#FFD144'>los materiales para fabricar armas Únicas</font> a través de las misiones PvP.
 Loading_209=<font color='#FFD144'>El Reino de la Perseverancia: Trials</font> es una zona PvP donde puedes atacar a cualquier personaje, excepto a tus compañeros de grupo.
-Loading_210=Completa los Mapas de Misión y las mazmorras con alguien que tenga el buff Brote Creciente. Puedes ganar <font color='#FFD144'>Cofres de Apoyo Brote</font>.
+Loading_210=Completa los Mapas de Misión y las Dungeons con alguien que tenga el buff Brote Creciente. Puedes ganar <font color='#FFD144'>Cofres de Apoyo Brote</font>.
 Loading_211=Cuando alcances el nivel 65, obtendrás automáticamente la <font color='#FFD144'>potencia Brote Creciente</font>. El buff Brote Creciente ofrece muchos beneficios, incluyendo un incremento en la ganancia de EXP de Alma.
 Loading_212=Los Artefactos Despertados obtienen un nuevo efecto cuando alcanzan el <font color='#FFD144'>Nivel 40</font>.
 Loading_213=Los Artefactos Normales obtienen un nuevo efecto cuando alcanzan el <font color='#FFD144'>Nivel 20</font>.

@@ -1653,7 +1653,7 @@ Msg_Mailbox_AchievementIndex20_ITEM_SUBJECT=Esta es la recompensa por limpiar tu
 Msg_Mailbox_AchievementIndex21_ITEM_SUBJECT=Esta es la recompensa por conseguir tu primer Templo del Cielo. Te la enviamos.
 Msg_Mailbox_AchievementIndex22_ITEM_SUBJECT=Esta es la recompensa de logro por limpiar tu primera Vía Láctea. Te la enviamos.
 Msg_Mailbox_AchievementIndex23_ITEM_SUBJECT=Esta es la recompensa por conseguir tu primer Santuario de los Caballeros Dragón. Te la enviamos.
-Msg_Mailbox_AchievementIndex24_ITEM_SUBJECT=Esta es la recompensa por el logro Maestro de Mazmorras. Te la enviamos.
+Msg_Mailbox_AchievementIndex24_ITEM_SUBJECT=Esta es la recompensa por el logro Maestro de Dungeons. Te la enviamos.
 Msg_Mailbox_AchievementIndex25_ITEM_SUBJECT=Esta es la recompensa por el logro Cazador de Dragones. Te la enviamos.
 Msg_Mailbox_AchievementIndex26_ITEM_SUBJECT=Esta es la recompensa por ganar 1 Batalla en Altar de Espíritus. Te la enviamos.
 Msg_Mailbox_AchievementIndex27_ITEM_SUBJECT=Esta es la recompensa por ganar 10 batallas en Altar de los Espíritus. Te la enviamos.
@@ -1906,8 +1906,8 @@ NotiFindParty1=Solicitar Party
 [PortalOverlay]
 Desc_0=: Mover
 Desc_1=: Salir
-Desc_2=: Entrar en la mazmorra
-Desc_3=: Crear mazmorra
+Desc_2=: Entrar en la Dungeon
+Desc_3=: Crear Dungeon
 Desc_4=: Solicitud de ingreso
 Desc_5=: Cancelar adhesión
 
@@ -1968,7 +1968,7 @@ Dg_1007=Fire Demon Cave
 Dg_1008=Ice Demon Cave
 Dg_1009=Airship Defense
 Dg_1010=Tower of Dawn
-Dg_2000=Mazmorra normal - Ver todas
+Dg_2000=Dungeon normal - Ver todas
 Dg_2001=Heath Mine
 Dg_2002=Sky Temple
 Dg_2003=Pit of Nightmares
@@ -2367,8 +2367,8 @@ SoulLevel=Personajes con el mayor Soul Level y más EXP
 accountlevel=Niveles más altos
 Zen=Personajes con más Zen
 GreenZen=Personajes con más Gemas Mágicas
-normaldungeon=Tiempo más rápido en mazmorras míticas 3
-epicdungeon=Personajes que superaron las mazmorras épicas 3 más rápido que los demás
+normaldungeon=Tiempo más rápido en Dungeons míticas 3
+epicdungeon=Personajes que superaron las Dungeons épicas 3 más rápido que los demás
 MissionMap=Récords de victorias más altos
 BloodCastle=Personajes que han superado el Castillo de Sangre en el menor tiempo posible
 EndlessTower=Personajes que han superado el piso más alto de la Torre sin fin más rápido que los demás.
@@ -2900,10 +2900,10 @@ Region_591=Capital Qahanaan
 Region_409=Zona de conquista demoníaca
 
 [LevelGuide]
-GuideDungeonType_0=Mazmorra
+GuideDungeonType_0=Dungeon
 GuideDungeonType_1=Mapa de misión
 ContentsName_1=La Grieta
-ContentsName_8=Mazmorra Mítica
+ContentsName_8=Dungeon Mítica
 ContentsName_9=Santuario de los Caballeros del Dragón
 ContentsName_10=Refugio del Dragón
 ContentsName_2=Jardín de Fabrice
@@ -2934,9 +2934,9 @@ ContentsName_9999=Laberinto de Lupa
 ContentsName_10000=Reino de la Perseverancia: Prueba
 ContentsName_24=Dios del Corredor
 ContentsDesc_1=La Grieta es un espacio misterioso formado en el tejido del espaciotiempo. Puedes entrar en ella a través del portal de la Grieta que aparece aquí y allá en los campos.<br><br>- Los monstruos de la Grieta siempre coinciden con tu nivel.<br>- El límite de entrada de la Grieta se levanta mientras está en modo Overdrive.
-ContentsDesc_8=La dificultad Mítica está disponible en la última mazmorra de cada continente para los personajes con el nivel más alto.<br><br>- Las mazmorras Míticas se ajustan al nivel máximo de su continente.<br>- Realiza misiones Míticas a través del menú Misión Diaria (Esc) y ve al Comerciante de Misiones Diarias en Ohrdor para conseguir recompensas especiales.
-ContentsDesc_9=El Sanctum de los Caballeros Dragón es una peligrosa mazmorra habitada por Kaizel, el antiguo dragón que una vez fue adorado por el Reino Wallkreiger antes de que sucumbiera al mal. Esta mazmorra es mucho más difícil que las mazmorras Míticas.<br><br>- Las mazmorras Épicas tienen un nivel de dificultad muy alto.<br><font color='#FE6D03'>- Solo los personajes con al menos 97.250 de Poder de Combate pueden entrar en ellas.<br></font>- Te recomendamos que entrenes en las mazmorras Míticas y en el Laberinto de Lupa hasta que cumplas el requisito de Poder de Combate de las mazmorras Épicas.
-ContentsDesc_10=El Refugio del Dragón es una peligrosa mazmorra habitada por Targash, el feroz dragón cuyo destino de convertirse en un gran ser fue arruinado por la codicia de otra persona. Esta mazmorra es mucho más difícil que las mazmorras Míticas.<br><br>- Las mazmorras Épicas tienen un nivel de dificultad muy alto.<br><font color='#FE6D03'>- Solo los personajes con al menos 97.250 de Poder de Combate pueden entrar en ellas.<br></font>- Te recomendamos que entrenes en las mazmorras Míticas y en el Laberinto de Lupa hasta que cumplas el requisito de Poder de Combate de las mazmorras Épicas.
+ContentsDesc_8=La dificultad Mítica está disponible en la última Dungeon de cada continente para los personajes con el nivel más alto.<br><br>- Las Dungeons Míticas se ajustan al nivel máximo de su continente.<br>- Realiza misiones Míticas a través del menú Misión Diaria (Esc) y ve al Comerciante de Misiones Diarias en Ohrdor para conseguir recompensas especiales.
+ContentsDesc_9=El Sanctum de los Caballeros Dragón es una peligrosa Dungeon habitada por Kaizel, el antiguo dragón que una vez fue adorado por el Reino Wallkreiger antes de que sucumbiera al mal. Esta Dungeon es mucho más difícil que las Dungeons Míticas.<br><br>- Las Dungeons Épicas tienen un nivel de dificultad muy alto.<br><font color='#FE6D03'>- Solo los personajes con al menos 97.250 de Poder de Combate pueden entrar en ellas.<br></font>- Te recomendamos que entrenes en las Dungeons Míticas y en el Laberinto de Lupa hasta que cumplas el requisito de Poder de Combate de las Dungeons Épicas.
+ContentsDesc_10=El Refugio del Dragón es una peligrosa Dungeon habitada por Targash, el feroz dragón cuyo destino de convertirse en un gran ser fue arruinado por la codicia de otra persona. Esta Dungeon es mucho más difícil que las Dungeons Míticas.<br><br>- Las Dungeons Épicas tienen un nivel de dificultad muy alto.<br><font color='#FE6D03'>- Solo los personajes con al menos 97.250 de Poder de Combate pueden entrar en ellas.<br></font>- Te recomendamos que entrenes en las Dungeons Míticas y en el Laberinto de Lupa hasta que cumplas el requisito de Poder de Combate de las Dungeons Épicas.
 ContentsDesc_2=Este jardín oculto del antiguo dios Fabrice, desde que fue descubierto al otro lado de la Grieta por la Sociedad de Investigación de la Grieta, se ha hecho popular entre los aventureros.<br><br>- Accesible a través de la Sala del Deber en Ohrdor.<br>- Produce grandes cantidades de EXP de Mascota para tus mascotas.
 ContentsDesc_3=Esta mina produce Gemas Mágicas, que eran tan comunes como las piedras hace milenios.<br><br>- Accesible a través de la Sala del Deber en Ohrdor.<br>- Abundante en Gemas Mágicas y materiales.
 ContentsDesc_5=Esta bóveda secreta de Luery guarda la fortuna que ha amasado a través de la investigación de la Grieta. Actualmente está ocupada por los goblins furiosos que fueron sobreexplotados y maltratados por Luery.<br><br>- Accesible a través de la Sala del Deber en Ohrdor.<br>- Puedes conseguir grandes cantidades de Zen.
@@ -2946,15 +2946,15 @@ ContentsDesc_7=Es un laberinto gigante creado dentro del reloj de Lupa. Puedes m
 ContentsDesc_11=Cuando la Grieta se descontrola, su poderosa energía puede causar una deformación del espacio-tiempo en los campos que hay fuera de ella, creando un pasadizo entre este reino terrenal y el Pandemónium. Depende de los guerreros del Continente MU proteger su mundo contra los formidables enemigos del Pandemónium.<br><br>- Cuando termina el modo Rift Overdrive, se produce un evento Field Raid en el continente correspondiente.<br>- Un evento Boss Monster Raid o Monster Invasion a gran escala se produce aleatoriamente.<br>- Se necesitan al menos 20 jugadores para superar este evento.
 ContentsDesc_12=Lucha contra la versión IA del personaje de otro jugador uno contra uno. El PvP aquí es menos estresante, ya que no estás luchando contra jugadores reales.<br><br>- Hasta 10 combates por entrada.<br>- Concede Gemas Mágicas como recompensa.
 ContentsDesc_13=Equipos de 3 jugadores pueden luchar entre sí.<br><br>- Gana el equipo que consiga más puntos de muerte antes que el otro dentro del límite de tiempo.<br>- Gana puntos de victoria en el modo cooperativo y asciende en las ligas para conseguir más Fighter's Tokens.<br>- Los Fighter's Tokens se pueden canjear por varias monedas del juego.
-ContentsDesc_14=El Pozo de los Muertos es significativamente más desafiante que las mazmorras épicas más duras. Su nivel de dificultad más alto es más duro que el Laberinto de Lupa de nivel 100.<br><br>- Consta de 3 fases.<br>- Debes superar cada fase dentro del tiempo límite para pasar a la siguiente.<br>- Cada fase consta de múltiples monstruos Jefe y Élite.<br>- Puedes conseguir Cubos Aveeter/Fantasma, que contienen Accesorios de Set.
+ContentsDesc_14=El Pozo de los Muertos es significativamente más desafiante que las Dungeons épicas más duras. Su nivel de dificultad más alto es más duro que el Laberinto de Lupa de nivel 100.<br><br>- Consta de 3 fases.<br>- Debes superar cada fase dentro del tiempo límite para pasar a la siguiente.<br>- Cada fase consta de múltiples monstruos Jefe y Élite.<br>- Puedes conseguir Cubos Aveeter/Fantasma, que contienen Accesorios de Set.
 ContentsDesc_15=La Cueva del Demonio de Fuego es donde reside el Monarca Naklokhan, llena de lava hirviendo y llamas abrasadoras. <br>Naklokhan está empeñado en derretir la Cueva del Demonio de Hielo, para vengarse de su archienemiga y dueña de la cueva, Avalanchera. <br>La Cueva del Demonio de Fuego es difícil, recomendada para Guardianes con al menos 180.000 de Poder de Combate.
 ContentsDesc_16=La Cueva del Demonio de Hielo es donde reside la monarca Avalanchera, llena de nieve y hielo. <br>Avalanchera está empeñado en congelar la Cueva del Demonio de Fuego, para vengarse de su archienemigo y dueño de la cueva, Naklokhan. <br>La Cueva del Demonio de Hielo es difícil, recomendada para Guardianes con al menos 180.000 de Poder de Combate.
 ContentsDesc_17=Cuando el reloj de Lupa se rompió, cambió radicalmente el Laberinto. Puedes manipular la energía oscura dentro del Laberinto y abrirte camino a través de numerosas etapas.<br><br>- Accesible a través de la Sala del Deber en Ohrdor.<br>- Abundante en recompensas por fabricar y hacer crecer tus Artefactos.<br>- Para hacer crecer tu Artefacto rápidamente, llena el medidor al 100% dentro del límite de tiempo matando monstruos. <br>Si dejas que el residuo espiritual dentro de este Laberinto deformado se acumule hasta cierta cantidad, te enfrentarás a un gran desafío.<br><font color='#FDD889'>La dificultad aumenta aún más a partir de la fase 51 del Laberinto Despertado de Lupa, con monstruos de más de nivel 80 que empiezan a aparecer.</font><br><font color='#FDD889'>Los Comerciantes Negros también empiezan a aparecer a partir de la fase 51 y se pueden conseguir cubos especiales como recompensa.</font>
 ContentsDesc_18=Significa la escaramuza del avance del continente devildom, y el avance a devildom puede ser posible algún día si la tecnología de desarrollo del guantelete se actualiza y la ruta es pionera.<br><br>- Se puede entrar por Ohrdor > Guilds Harbor. <br>- Tiene una dificultad alta y se recomienda el cooperativo.<br>- Puedes adquirir recompensas especiales de Kyle completando la misión diaria (ESC).<br><br><font color='#FDD889'>- Los monstruos de Lv. 80 aparecen en la dificultad 2 de la defensa del avión, y la dificultad y la recompensa aumentan aún más.</font>
-ContentsDesc_19=El Área Restringida 6-1 es una formidable mazmorra en la que los Ashase llevaron a cabo un plan secreto. Esta mazmorra es mucho más difícil que las mazmorras Míticas.<br><br>- Las mazmorras Épicas tienen un nivel de dificultad muy alto.<br><font color='#FE6D03'>- Solo los personajes con al menos 280.000 de Poder de Combate pueden entrar en ellas.<br></font>- Te recomendamos que entrenes en las mazmorras Míticas y en el Laberinto de Lupa hasta que cumplas el requisito de Poder de Combate de las mazmorras Épicas.
+ContentsDesc_19=El Área Restringida 6-1 es una formidable Dungeon en la que los Ashase llevaron a cabo un plan secreto. Esta Dungeon es mucho más difícil que las Dungeons Míticas.<br><br>- Las Dungeons Épicas tienen un nivel de dificultad muy alto.<br><font color='#FE6D03'>- Solo los personajes con al menos 280.000 de Poder de Combate pueden entrar en ellas.<br></font>- Te recomendamos que entrenes en las Dungeons Míticas y en el Laberinto de Lupa hasta que cumplas el requisito de Poder de Combate de las Dungeons Épicas.
 ContentsDesc_20=Rugard y Bulcan pondrán a prueba vuestra fuerza y trabajo en equipo como Guardianes. Superad las distintas pruebas de los dioses, y os haréis más fuertes como Guardianes.<br><br>- El campo de pruebas se crea en algún lugar de Wellspring Haven, Noria.<br>- El Mensajero de los Dioses aparece a intervalos regulares, y a aquellos que lo derroten les esperan recompensas.<br><font color='#FE6D03'>- El Mensajero de los Dioses tiene HP muy altos. Derrotarlo requiere la cooperación de muchos Guardianes.</font>
 ContentsDesc_21=50 personajes luchan por convertirse en el único superviviente. <br><br>- El emparejamiento se realiza cada 5 minutos entre las 14:00 y las 15:00 y entre las 22:00 y las 23:00.<br>- Si mueres aunque sea una vez, quedarás fuera del juego y se decidirá tu rango.<br>- Cuanto más tiempo sobrevivas en el Campo de Batalla Ardiente, mayor será tu rango.<br>- Tu rango determina la cantidad y calidad de tus recompensas.
-ContentsDesc_22=La Antigua Arca Kanturiana es un lugar misterioso donde yacen latentes la gloria de una antigua civilización y su tecnología. Es mucho más difícil que la dificultad Mítica.<br><br>- Las mazmorras Épicas tienen un nivel de dificultad muy alto.<br><font color='#FE6D03'>- Solo los personajes con al menos 500.000 de Poder de Combate pueden entrar en ellas.<br></font>- Te recomendamos que entrenes en las mazmorras Míticas y en el Laberinto de Lupa hasta que cumplas el requisito de Poder de Combate de las mazmorras Épicas.
+ContentsDesc_22=La Antigua Arca Kanturiana es un lugar misterioso donde yacen latentes la gloria de una antigua civilización y su tecnología. Es mucho más difícil que la dificultad Mítica.<br><br>- Las Dungeons Épicas tienen un nivel de dificultad muy alto.<br><font color='#FE6D03'>- Solo los personajes con al menos 500.000 de Poder de Combate pueden entrar en ellas.<br></font>- Te recomendamos que entrenes en las Dungeons Míticas y en el Laberinto de Lupa hasta que cumplas el requisito de Poder de Combate de las Dungeons Épicas.
 ContentsDesc_23=La quintaesencia de la ingeniería mágica diseñada por Kundun y Etramu. En los pisos superiores de la torre aguardan enemigos más formidables.<br><br>- Accesible a través de la Sala del Deber en Ohrdor.<br>- Si superas una fase con la suficiente rapidez, podrás saltarte varias fases.<br>Mientras estás parado tras superar una fase, puedes usar el conductor de ingeniería mágica para experimentar el poder de la ingeniería mágica.
 ContentsDesc_10000=Reino de la Perseverancia: Proof es una cueva oscura donde se encuentra Death Roar, el dragón guardián. <br>Quien demuestre su valía derrotando a Rugido de la Muerte en esta última etapa de Reino de la Perseverancia se hará merecedor de entrar en el Salón de la Sabiduría oculto tras la guarida de Rugido de la Muerte. <br>Reino de la Perseverancia: La prueba es extremadamente difícil.
 ContentsDesc_24=El Dios del Corredor es un Mapa de Misión en solitario en el que puedes luchar contra oleadas de enemigos durante un tiempo determinado.<br>La batalla termina inmediatamente cuando se acaba el tiempo o si mueres. Usa la habilidad Liberación de Tiza cuando estés en peligro. Te otorgará un poder más allá de tu imaginación.<br><font color='#FE6D03'>- Se requiere el 1er Renacimiento.<br></font>
@@ -2978,7 +2978,7 @@ ContentDifficultyDesc_8=Dificultad aumentada para los partidos
 ContentWarning_8=Nivel de dificultad muy alto
 ContentWarningDesc_8=Se recomiendan partys de 5 personas
 ContentMap_8=Localización
-ContentMapDesc_8=Mazmorra Noria posterior
+ContentMapDesc_8=Dungeon Noria posterior
 ContentReward_8=Recompensa mayor
 ContentLevel_9=Nivel requerido
 ContentLevelDesc_9=%s_1
@@ -3298,9 +3298,9 @@ DailyMissionDesc_2_103=Realiza las misiones de Jonathan y consigue las Pruebas d
 DailyMissionDesc_3_1000=Realiza las misiones especiales de Kundun y consigue las Medallas de Kundun.<br>Las Medallas de Kundun se pueden intercambiar por varios Items especiales a través de la Misión Diaria NPC Kyle en Ohrdor.
 DailyMissionDesc_4_2000=Realiza las peligrosas misiones de Fletcher y consigue las Pruebas de Fletcher.<br>Las Pruebas de Fletcher pueden canjearse por varios Items valiosos a través del PNJ de Misión Diaria Fletcher en Ohrdor.
 DailyMissionDesc_99_9999=Resuelve las misiones diarias del Laberinto de Lupa para conseguir Fragmentos de Artefactos Rotos.
-DailyMissionDesc_100_10000=Intenta la Prueba de Jian Manas, la mazmorra de evento en la zona comercial de Ohrdor, para despejar la misión.<br>Ve al NPC de evento Pidu el Hombre Misterioso para conseguir Items especiales.<br><br><font color='#FFBB00'>Jugar en net cafés da recompensas extra.</font>.
-DailyMissionDesc_100_10001=Intenta la Prueba de Jian Manas, la mazmorra de evento en la zona comercial de Ohrdor, para completar la misión.<br>Ve al NPC de evento Pidu el Hombre Misterioso para conseguir Items especiales.<br><font color='#FFBB00'>Jugar en los cafés de la red da recompensas extra.</font>
-DailyMissionDesc_100_10002=Intenta la Prueba de Jian Manas, la mazmorra de evento en la zona comercial de Ohrdor, para completar la misión.<br>Ve al NPC de evento Pidu el Hombre Misterioso para conseguir Items especiales.<br><font color='#FFBB00'>Jugar en los cafés de la red da recompensas extra.</font>
+DailyMissionDesc_100_10000=Intenta la Prueba de Jian Manas, la Dungeon de evento en la zona comercial de Ohrdor, para despejar la misión.<br>Ve al NPC de evento Pidu el Hombre Misterioso para conseguir Items especiales.<br><br><font color='#FFBB00'>Jugar en net cafés da recompensas extra.</font>.
+DailyMissionDesc_100_10001=Intenta la Prueba de Jian Manas, la Dungeon de evento en la zona comercial de Ohrdor, para completar la misión.<br>Ve al NPC de evento Pidu el Hombre Misterioso para conseguir Items especiales.<br><font color='#FFBB00'>Jugar en los cafés de la red da recompensas extra.</font>
+DailyMissionDesc_100_10002=Intenta la Prueba de Jian Manas, la Dungeon de evento en la zona comercial de Ohrdor, para completar la misión.<br>Ve al NPC de evento Pidu el Hombre Misterioso para conseguir Items especiales.<br><font color='#FFBB00'>Jugar en los cafés de la red da recompensas extra.</font>
 DailyMissionMsg_Type=Recompensa disponible
 DailyMissionMsg_Desc=¡Misión diaria completada!
 DailyMissionMsg_Mission_1=Misión de Dukan (%s_1/%s_2 completada)
@@ -3426,9 +3426,9 @@ ContentsName_27=La guarida volcánica
 ContentsName_28=El abismo hirviente de corrupción
 ContentsName_29=El abismo coagulado de la sangre
 ContentsName_30=Vainas blindadas
-ContentsDesc_25=Una cueva sagrada que alberga 'El noble corazón del rey dragón', su propia esencia que el rey dragón Kaizel presentó a Vulcano y se dice que Drakans fue creado aquí. Los no cualificados no pueden entrar nunca en este santuario, y se dice que a los no cualificados se les niega la existencia y son exterminados por dios.<br><br>- La dificultad de la mazmorra épica es muy alta.<br><font color='#FE6D03'>- Puedes recoger armaduras de clase conjunto de Lv. 85 para materiales de producción de manos, zapatos y armaduras, y armas de clase mito de Lv. 85.
-ContentsDesc_26=El altar donde Vulcano solía entregar la revelación a Drakans. El dragón guardián Epiaros que tiene el hueso de dragón azul de luz sagrada se ha vuelto loco por razones desconocidas y está amenazando el altar. Drakans caerá en un gran peligro si esto no se detiene.<br><br>- La dificultad de la mazmorra épica es muy alta.<br><font color='#FE6D03'>- Puedes recoger Lv. 85 set class armor para cabeza, hombro y materiales de producción de armadura, y Lv. 85 myth class weapons.
-ContentsDesc_27=El dragón de fuego Valtheram, el traidor de todos los dragones que se sacrificó al dios demonio y fue dotado de poderes está sellado aquí. Fue sellado por el sacrificio de muchos dragones, pero se acerca una crisis para que sus gritos vuelvan a resonar por este mundo.<br><br>- La dificultad de la mazmorra épica es muy alta.<br><font color='#FE6D03'>- Puedes recoger armaduras de clase conjunto de Lv. 85 para el cuerpo, la pierna y materiales de producción de armaduras, y armas de clase mito de Lv. 85.
+ContentsDesc_25=Una cueva sagrada que alberga 'El noble corazón del rey dragón', su propia esencia que el rey dragón Kaizel presentó a Vulcano y se dice que Drakans fue creado aquí. Los no cualificados no pueden entrar nunca en este santuario, y se dice que a los no cualificados se les niega la existencia y son exterminados por dios.<br><br>- La dificultad de la Dungeon épica es muy alta.<br><font color='#FE6D03'>- Puedes recoger armaduras de clase conjunto de Lv. 85 para materiales de producción de manos, zapatos y armaduras, y armas de clase mito de Lv. 85.
+ContentsDesc_26=El altar donde Vulcano solía entregar la revelación a Drakans. El dragón guardián Epiaros que tiene el hueso de dragón azul de luz sagrada se ha vuelto loco por razones desconocidas y está amenazando el altar. Drakans caerá en un gran peligro si esto no se detiene.<br><br>- La dificultad de la Dungeon épica es muy alta.<br><font color='#FE6D03'>- Puedes recoger Lv. 85 set class armor para cabeza, hombro y materiales de producción de armadura, y Lv. 85 myth class weapons.
+ContentsDesc_27=El dragón de fuego Valtheram, el traidor de todos los dragones que se sacrificó al dios demonio y fue dotado de poderes está sellado aquí. Fue sellado por el sacrificio de muchos dragones, pero se acerca una crisis para que sus gritos vuelvan a resonar por este mundo.<br><br>- La dificultad de la Dungeon épica es muy alta.<br><font color='#FE6D03'>- Puedes recoger armaduras de clase conjunto de Lv. 85 para el cuerpo, la pierna y materiales de producción de armaduras, y armas de clase mito de Lv. 85.
 ContentsDesc_28=Una dimensión donde el ángel capturado Quinireal que perdió todas las esperanzas después de las terribles torturas a manos de los demonios. El destino de Quinireal es lamentable, pero si no se le detiene la historia de todas las criaturas vivientes será tan terrible como la suya.<br><br>- La dificultad de los contenidos devildom es muy alta.<br><font color='#FE6D03'>- Puedes recoger materiales de producción de accesorios y accesorios de clase set de Lv. 85, y un montón de piedras mágicas.
 ContentsDesc_29=Una maga antaño poderosa y hermosa, Erzeta, rompió el tabú de quitar la vida a los demás, y al final se ofreció voluntaria para convertirse en una máquina de tortura. La dimensión en la que habita parece estar llena de gritos de dolor, y el aura asesina de allí hace que los guerreros más veteranos tiemblen de miedo.<br><br>- La dificultad de los contenidos de devildom es muy alta.<br><font color='#FE6D03'>- Puedes recoger materiales de producción de accesorios y accesorios de clase de conjunto de Lv. 85, y un montón de piedras mágicas.
 ContentsDesc_30=Esta es una fábrica terrible donde hay Kylops rojo y Kylops azul, el par de arma mágica hecha para la caída de la tierra. Este es el lugar más extraño en todas las dimensiones y áreas que comprenden devildom, y sólo el nombre del creador del lugar es conocido como el Dr. Mogul.<br><br>- Este es un mapa de misión única exclusiva donde tienes que derrotar a interminable horda de enemigos dentro de given time.<br><font color='#FE6D03'>- Usted puede recoger hasta la clase más alta de cincel alma y magnífico, Lv. 85 conjunto de clase accesorio y materiales de producción de accesorios, y un montón de piedras mágicas.
@@ -3746,7 +3746,7 @@ NormalCompetition=%s_1 contra 1
 Event_1=Conoce a Leila, la ayudante de eventos de Carib paradise
 EventIMGPath_1=img://Icon_Event.IceFestival_IMG
 Event_3=¡Habla con Reira en Ohrdor para unirte al evento!
-Event_4=Se dice que en octubre aparecen calabazas sombrías en Karolsandria...<br />Cuenta de entradas diarias: <font color='#FDC243'>2</font><br />Tu cuenta de Entradas a la Mazmorra de Halloween se reinicia <font color='#FDC243'>diariamente a las 5:00 a.m.
+Event_4=Se dice que en octubre aparecen calabazas sombrías en Karolsandria...<br />Cuenta de entradas diarias: <font color='#FDC243'>2</font><br />Tu cuenta de Entradas a la Dungeon de Halloween se reinicia <font color='#FDC243'>diariamente a las 5:00 a.m.
 Event_5=Puedes participar en este evento a través de la máquina arcade que hay junto al Director de Arcade en Ohrdor.
 Event_6=Puedes unirte al evento usando el icono del jefe junto al Minimapa.
 Event_7=Derrota a los monstruos en el mapa del evento para conseguir astas y baterías.<br />Recoge las baterías de ellos para participar en el evento a través del ayudante del evento en Ohrdor.(2021-12-7~2022-01-11)

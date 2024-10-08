@@ -528,7 +528,7 @@ LS_ShopDesc_9503=Esta tienda sólo abre durante un periodo de evento.
 LS_BuyCount_9503=Compras disponibles
 LS_NoLimit_9503=Ilimitado
 LS_TokenCount_9503=Tus fichas
-LS_ToolTipText_9503=<b><font color='#FDC243'>Chakram misterioso</font></b><br><font color='#FDC243'>(Se puede obtener de los monstruos jefe de las siguientes mazmorras.)</font></b><br>Jardín de Fabrice: 5 Chakrams</b><br>Magic Gem Mine: 5 Chakrams</b><br>Blood Castle: 5 Chakrams</b><br>Bóveda Secreta de Luery: 5 Chakrams</b><br>Sanctum de los Caballeros Dragón: 10 Chakrams</b><br>Castillo del Dragón: 10 Chakrams</b><br>Foso de los Muertos: 10 Chakrams
+LS_ToolTipText_9503=<b><font color='#FDC243'>Chakram misterioso</font></b><br><font color='#FDC243'>(Se puede obtener de los monstruos jefe de las siguientes Dungeons.)</font></b><br>Jardín de Fabrice: 5 Chakrams</b><br>Magic Gem Mine: 5 Chakrams</b><br>Blood Castle: 5 Chakrams</b><br>Bóveda Secreta de Luery: 5 Chakrams</b><br>Sanctum de los Caballeros Dragón: 10 Chakrams</b><br>Castillo del Dragón: 10 Chakrams</b><br>Foso de los Muertos: 10 Chakrams
 LS_Title_9515=Tienda
 LS_ShopDesc_9515=Las compras diarias se reinician cada día a las 5:00 a.m.
 LS_BuyCount_9515=Compras diarias
@@ -558,7 +558,7 @@ LS_ShopDesc_19992=Los objetos de compra limitada sólo se pueden comprar una vez
 LS_BuyCount_19992=Compras disponibles
 LS_NoLimit_19992=Unlimited
 LS_TokenCount_19992=Ticket RPS
-LS_ToolTipText_19992=<b><font color='#FDC243'>Ticket RPS </font></b><br>Obtenible a través de la Mazmorra del Refugio del Dragón y la Reliquia Antigua.
+LS_ToolTipText_19992=<b><font color='#FDC243'>Ticket RPS </font></b><br>Obtenible a través de la Dungeon del Refugio del Dragón y la Reliquia Antigua.
 LS_Title_19993=Tienda de monedas de evento
 LS_ShopDesc_19993=Los objetos de compra limitada sólo se pueden comprar una vez.
 LS_BuyCount_19993=Compras disponibles
@@ -691,14 +691,14 @@ LS_ShopDesc_177=Esta tienda sólo abre durante un periodo de evento.
 LS_BuyCount_177=Compras disponibles
 LS_NoLimit_177=Ilimitado
 LS_TokenCount_177=Hueso Carnoso
-LS_ToolTipText_177=Se puede canjear por <b><font color='#FDC243'>Huesos Carnosos</font></b> que se pueden encontrar de varios monstruos Jefes de mazmorra.
+LS_ToolTipText_177=Se puede canjear por <b><font color='#FDC243'>Huesos Carnosos</font></b> que se pueden encontrar de varios monstruos Jefes de Dungeon.
 LS_LimitedBuy_177=(El recuento de compras se reinicia en %s_1 d)
 LS_Title_178=Tienda de Coco Inteligente
 LS_ShopDesc_178=Esta tienda oculta sólo abre durante un periodo de evento.
 LS_BuyCount_178=Compras disponibles
 LS_NoLimit_178=Ilimitado
 LS_TokenCount_178=Hueso carnoso
-LS_ToolTipText_178=Se puede canjear por <b><font color='#FDC243'>Huesos Carnosos</font></b> que se pueden encontrar de varios monstruos Jefes de mazmorra.
+LS_ToolTipText_178=Se puede canjear por <b><font color='#FDC243'>Huesos Carnosos</font></b> que se pueden encontrar de varios monstruos Jefes de Dungeon.
 LS_LimitedBuy_178=(La cuenta de compras se reinicia en %s_1 d)
 LS_Title_146=Tienda del Mukler Furioso
 LS_ShopDesc_146=Esta tienda especial sólo abre durante un periodo de evento.
@@ -836,7 +836,7 @@ LS_ShopDesc_19630=Esta tienda está abierta sólo durante el periodo del evento.
 LS_BuyCount_19630=Límite de compra
 LS_NoLimit_19630=Sin límites
 LS_TokenCount_19630=Memoria perdida
-LS_ToolTipText_19630=Disponible al intercambiar la memoria perdida, un objeto que se puede conseguir en las mazmorras El deseo de Targash y La avaricia de Kaizel.
+LS_ToolTipText_19630=Disponible al intercambiar la memoria perdida, un objeto que se puede conseguir en las Dungeons El deseo de Targash y La avaricia de Kaizel.
 LS_LimitedBuy_19630=(Límite de compra reajustado tras %s_1 días)
 LS_Title_19632=Tienda del zorro blanco
 LS_ShopDesc_19632=Esta tienda está abierta sólo durante el periodo del evento.
@@ -892,13 +892,13 @@ LS_ShopDesc_20000588=La hora de inicio de las compras diarias es a las 05:00 tod
 LS_BuyCount_20000588=Número de compras disponibles
 LS_NoLimit_20000588=Sin límite
 LS_TokenCount_20000588=Caramelos fantasma de Halloween
-LS_ToolTipText_20000588=<b><font color='#FDC243'>Caramelos de Halloween</font></b><br>Se pueden obtener en la Mazmorra de Halloween.
+LS_ToolTipText_20000588=<b><font color='#FDC243'>Caramelos de Halloween</font></b><br>Se pueden obtener en la Dungeon de Halloween.
 LS_Title_4510002=Halloween store
 LS_ShopDesc_4510002=Esta tienda está abierta sólo durante el periodo del evento.
 LS_BuyCount_4510002=Número de compras disponibles
 LS_NoLimit_4510002=Sin límite
 LS_TokenCount_4510002=Caramelos fantasma de Halloween
-LS_ToolTipText_4510002=<b><font color='#FDC243'>Caramelos de Halloween</font></b><br>Pueden obtenerse en la Mazmorra de Halloween.
+LS_ToolTipText_4510002=<b><font color='#FDC243'>Caramelos de Halloween</font></b><br>Pueden obtenerse en la Dungeon de Halloween.
 LS_Title_20000589=Tienda de magia antigua
 LS_ShopDesc_20000589=Esta tienda sólo está abierta durante el periodo del evento.
 LS_BuyCount_20000589=Purchase limit
@@ -946,7 +946,7 @@ LS_ShopDesc_19991=Esta tienda está abierta sólo durante el periodo del evento.
 LS_BuyCount_19991=Límite de compra
 LS_NoLimit_19991=Sin límites
 LS_TokenCount_19991=Dados normales
-LS_ToolTipText_19991=<font color='#FDC243'>Dados Normales</font></b><br>Está disponible en las Ruinas Antiguas y en la Mazmorra del Refugio del Dragón.
+LS_ToolTipText_19991=<font color='#FDC243'>Dados Normales</font></b><br>Está disponible en las Ruinas Antiguas y en la Dungeon del Refugio del Dragón.
 LS_LimitedBuy_19991=(El límite de compra se restablece tras %s_1 días)
 LS_Title_19990=Puzzle Tienda de monedas de oro
 LS_ShopDesc_19990=Esta tienda está abierta sólo durante el periodo del evento.
@@ -1005,10 +1005,10 @@ SuggestedPartyBy=%s_1 quiere unirse a tu Party.¶¿Aceptas?
 SuggestedBanPartyBy=Se ha sugerido que %s_1 sea expulsado.¶¿Expulsar?¶(Motivo: %s_2)
 SuggestedAFKBan=¿Está de acuerdo en expulsar a %s_1?¶
 MissionmapReady=¿Entrar %s_1?
-DungeonAdmission=¿Entrar en la mazmorra?
+DungeonAdmission=¿Entrar en la Dungeon?
 NewAdvDungeonAdmission=¿Entrar en una nueva Rift?
-BossDungeonAdmission=Un formidable enemigo te espera al final de la mazmorra.¶¿Seguro que quieres entrar?
-ExitDungeon=¿Salir de la mazmorra?
+BossDungeonAdmission=Un formidable enemigo te espera al final de la Dungeon.¶¿Seguro que quieres entrar?
+ExitDungeon=¿Salir de la Dungeon?
 PartySelectKnightAge=No puedes unirte a una Guild mientras estás en una party.
 ApplyJoinParty=Nivel %s_1 %s_2 quiere unirse a tu party.¶¿Aceptas?
 RequestJoinParty=Nivel %s_1 %s_2 te ha invitado a su party.¶¿Aceptas?
@@ -1230,7 +1230,7 @@ LS_btnCharSelect=Selección de personaje
 LS_btnOption=Configuración (O)
 LS_btnGuide=Guía del usuario
 LS_btnEscapePosition=Destrabar personaje
-LS_btnExitDungeon=Salir de la mazmorra
+LS_btnExitDungeon=Salir de la Dungeon
 LS_btnReturn=Reanudar
 LS_btnUsableGrade=Calificación del juego
 LS_btnClose=Cerrar (Esc)
@@ -1238,7 +1238,7 @@ LS_CharLevel=Nivel
 LS_SoulLevel=Nivel del alma
 LS_CombatPower=Poder de combate
 LS_ReincarnationOrder=Reencarnaciones
-LS_DungeonInfo=Cuento de entradas en la mazmorra
+LS_DungeonInfo=Cuento de entradas en la Dungeon
 LS_DIComplete=%s_1/%s_2 (Completado)
 LS_DIDefault=%s_1/%s_2
 LS_DIDisabled=Nivel %s_1
@@ -1253,16 +1253,16 @@ LS_Complete=Completado
 LS_MissionCnt=(%s_1/%s_2 misiones)
 LS_PlatinumService=El efecto Servicio Premium ha aumentado tu número máximo de entradas en %s_1.
 LS_PCRoomService=El efecto Premium Platino ha aumentado tu número máximo de entradas en %s_1.
-LS_AllDungeonMopUpBtn=Subir todas las mazmorras
+LS_AllDungeonMopUpBtn=Subir todas las Dungeons
 LS_MopUpTitle=Solicitud de subyugación
-LS_MopUpMsg=Subyugar todas las mazmorras
+LS_MopUpMsg=Subyugar todas las Dungeons
 LS_MopUpCount=Seleccionar número de subyugaciones
 LS_SelPrice=Seleccionar monedas a utilizar
 LS_ImputeHelpText=Utilizar <font color='#FF0000'>Redzen</font>
 LS_RedZenHelpText=Utilizar <font color='#FF0000'>Redzen</font>
 LS_MopUpBtnLabel=Subyugar
 LS_RewardTitle=Guía de recompensas
-LS_RewardDesc=Usa todas tus fichas de entrada¶para todas las mazmorras disponibles para subyugar.¶Reclama todas las recompensas subj. de cada mazmorra.
+LS_RewardDesc=Usa todas tus fichas de entrada¶para todas las Dungeons disponibles para subyugar.¶Reclama todas las recompensas subj. de cada Dungeon.
 LS_LowLevelContents=Excluir contenido de nivel bajo.
 
 [MU2GFxMaterialView]
@@ -1733,8 +1733,8 @@ LS_MissionmapButton_RequestParty=Solicitud de party
 LS_MissionmapButton_RequestCancel=Cancelar solicitud
 LS_ReqLevelMessage=Requiere nivel %s_1 o superior.
 LS_Dungeon_MissionMap=Mapa de misiones
-LS_Dungeon_General=Mazmorra normal
-LS_Dungeon_Epic=Mazmorra épica
+LS_Dungeon_General=Dungeon normal
+LS_Dungeon_Epic=Dungeon épica
 LS_Dungeon_Adv=Falla
 LS_AltarOfElements_Title=AltarOfElements
 LS_AltarOfElements_Desc0=Consigue 3.000 puntos dentro del tiempo límite.
@@ -1813,7 +1813,7 @@ LS_Dungeon_Adv_Title[3]=Noria
 LS_Dungeon_Adv_Title[4]=Lorencia
 LS_EnterCnt=Cuento de entradas restantes:
 LS_EnterCntDesc=Tu cuenta de entradas restantes se restablece en 1 cada día a las 6 a.m.
-LS_DungeonRank=Ranking de mazmorras
+LS_DungeonRank=Ranking de Dungeons
 LS_MissionMapRank=Ranking del mapa de misiones
 LS_RankNickName=Rango %s_1: %s_2 y %s_3 otros
 LS_RankPlayer=Rango:
@@ -1953,7 +1953,7 @@ lsMsgChaosCatle_Rank=Rango
 lsMsgChaosCatle_AliveTime=Duración de la Supervivencia
 lsMsgChaosCatle_AchievePoint=Puntos de Honor Ganados
 lsMsgAcquireItem=Nuevo objeto obtenido
-lsMsgDungeonAdmissionTitle=Entrar en la mazmorra
+lsMsgDungeonAdmissionTitle=Entrar en la Dungeon
 lsMsgGetCustomSkillSlot=&lt;Ranura de Cresta Adquirida&gt;
 lsMsgGetSkill=&lt;Habilidades Adquiridas&gt;
 lsAcceptBtn=Aceptar
@@ -1969,7 +1969,7 @@ lsMsgPlatinumLevelUp=Su grado de Servicio Regular ha aumentado.
 lsMsgPlatinumPlusLevelUp=Su nivel de Servicio Premium ha aumentado.
 lsCombatPowerMessageTitle=Potencia de combate
 lsPartyAutoMatching_ing=El emparejamiento automático está en progreso.
-lsPartyAutoMatch_End=Partido completado. En breve entrarás en la mazmorra.
+lsPartyAutoMatch_End=Partido completado. En breve entrarás en la Dungeon.
 lsNowWaitTime=Tiempo de espera actual
 IsExpecWaitTime=Tiempo de espera estimado
 lstrAbove=Más arriba
@@ -1986,7 +1986,7 @@ lsCancelBtn=Cancelar
 lsCombatPowerMessageTitle=Potencia de combate
 lsLevelInfo=<font color='#FFD461'>%s_1</font>/<font color='#67FFF2'>%s_2</font> (<font color='#FF9933'>%s_3</font>)
 lsPartyAutoMatch_ing=Esta en progreso el emparejamiento automático.
-lsPartyAutoMatch_End=Partido completado. En breve entrarás en la mazmorra.
+lsPartyAutoMatch_End=Partido completado. En breve entrarás en la Dungeon.
 lsNowWaitTime=Tiempo de espera actual
 IsExpecWaitTime=Tiempo de espera estimado
 lstrAbove=Más arriba
@@ -2424,7 +2424,7 @@ HornorScore=Puntos necesarios para aumentar tu Rango de Honor.<br>Puedes ganar l
 CharacterTitle=Título que puedes usar para personalizar tu personaje.<br>Puedes conseguir títulos completando logros.
 AchievePoint=Puntos que indican los índices de logro de las misiones.<br>Puedes conseguirlos completando logros.
 Experiencia=Puntos que necesitas para aumentar tu Nivel.
-Stamina=Resistencia de este personaje.<br>Requerida para usar los portales de las mazmorras.
+Stamina=Resistencia de este personaje.<br>Requerida para usar los portales de las Dungeons.
 Str=Aumenta Ataque y Defensa.
 Dex=Aumenta Ataque y Evasión.
 Int=Aumenta Ataque y Defensa.
@@ -2485,12 +2485,12 @@ ActionBarMP=MP<br><font color='#AADA18'><FLink:GetMP></font>
 NormalStamina=Resistencia Normal: <font color='#AADA18'><FLink:GetNormalStamina></font><br>Un recurso necesario para entrar en la Rift.<br>Se restablece diariamente a las 6:00 a.m.<br>y se puede restaurar con Pociones de Resistencia que se venden en la Tienda LAMUS.
 PCRoomStamina=Resistencia Normal: <font color='#AADA18'><FLink:GetNormalStamina></font><br>Resistencia de Cafetería: <font color='#AADA18'><FLink:GetPCRoomStamina></font><br>Se restablece diariamente a las 6:00 a.m.<br>y puede ser restaurada con Pociones de Resistencia vendidas en la Tienda LAMUS.
 AltMode=Permite comprobar los nombres de los objetos que caen y ajustar otras opciones de la interfaz.<br>También se puede usar con la tecla Alt.
-AdvDungeonDesc=Mazmorras de cultivo de objetos. Requiere Stamina.
-NorDungeonDesc=Mazmorras que cuentan historias importantes sobre el Continente Mu.
-EpicDungeonDesc=Las mazmorras más duras. Generan objetos legendarios.
+AdvDungeonDesc=Dungeons de cultivo de objetos. Requiere Stamina.
+NorDungeonDesc=Dungeons que cuentan historias importantes sobre el Continente Mu.
+EpicDungeonDesc=Las Dungeons más duras. Generan objetos legendarios.
 GuidDungeonDesc=Una Rift que puede ser personalizada para adaptarse a las necesidades de tu Gremio. Es más difícil que una Falla normal.
-BossDungeonDesc=Mazmorras relacionadas con misiones.
-QuestDungeonDesc=Mazmorras relacionadas con misiones.
+BossDungeonDesc=Dungeons relacionadas con misiones.
+QuestDungeonDesc=Dungeons relacionadas con misiones.
 EndlessTowerDesc=Torre que se eleva infinitamente hacia el cielo. La leyenda dice que aquellos que alcancen la cima de esta torre se enfrentarán a los poderes de Rugard y Bulcan.
 BloodCastleDesc=El último lugar donde los Cruzados, los defensores de Arc Neria, lucharon después de que ella pereciera. Su líder Anilata está aquí, esperando su momento para romper el sello de Rugard.
 ToggleServiceBtn=Gestionar Apariencia
@@ -2560,7 +2560,7 @@ LS_CharInfoPlatinumBtn=<font size='16' color='#ffd461'>Comprueba el Servicio Pre
 PCCafeReward=<font color='#ffd461'>Recompensa de objeto especial por Recompensa de inicio de sesión</font><br>¡Cuanto más tiempo permanezcas conectado, mayor será tu recompensa!<br><br>* Tu registro de Recompensa de inicio de sesión se restablece diariamente a las 5:00 a.m.<br>* Puedes obtener una recompensa una vez al día, dependiendo de la duración de tu inicio de sesión.
 LS_Recommend_Division_1=Personaje
 LS_Recommend_Division_2=Poder de combate
-LS_Recommend_Division_3=Mazmorra
+LS_Recommend_Division_3=Dungeon
 LS_Recommend_Division_4=Mundo
 LS_Recommend_Division_5=Comunidad
 LS_BtnPartyLeave=<img src=«img://Icon_ETC.Mouse_LeftClick»>: Abandonar Party
@@ -2578,13 +2578,13 @@ LS_OneHandWeapon=<FLink:GetOneHandWeaponStr>
 LS_TwoHandWeapon=<FLink:GetTwoHandWeaponStr>
 LS_UnUseTItleButton=Desequipar título
 LS_ShowTItleListWidget=Mostrar lista de títulos
-LodIcon_1=<font color='#fce7b0'>Nivel de creación de la mazmorra</font><br><font color='#ffffff'>Se crea al mismo nivel que el personaje de mayor nivel de tu grupo.</font>
-LodIcon_2=<font color='#fce7b0'>Nivel de Creación de la Mazmorra</font><br><font color='#ffffff'>Se crea a un nivel preestablecido.</font>
+LodIcon_1=<font color='#fce7b0'>Nivel de creación de la Dungeon</font><br><font color='#ffffff'>Se crea al mismo nivel que el personaje de mayor nivel de tu grupo.</font>
+LodIcon_2=<font color='#fce7b0'>Nivel de Creación de la Dungeon</font><br><font color='#ffffff'>Se crea a un nivel preestablecido.</font>
 LodIcon_300=<font color='#fce7b0'>Dificultad Incrementada para Partidas</font><br><font color='#ffffff'>Su nivel de dificultad cambia dependiendo del número de jugadores en tu partida.</font>
 LodIcon_301=<font color='#fce7b0'>Dificultad Fija para Partidos</font><br><font color='#ffffff'>Su nivel de dificultad permanece igual sin importar el número de jugadores en tu grupo.</font>
 LodIcon_310=<font color='#fce7b0'>Contenido de Unidad de Ataque</font><br><font color='#ffffff'>Este contenido requiere que varios jugadores formen juntos una unidad de ataque.</font>
 LodIcon_400=<font color='#fce7b0'>Nivel de dificultad muy alto</font><br><font color='#ffffff'>¿Tienes suficientes pociones y piedras de resurrección? Se recomiendan grupos de 5.</font>
-ConditionIcon_100=<font color='#fce7b0'>Nivel Requerido</font><br><font color='#ffffff'>Sólo los personajes que cumplan el nivel mínimo de personaje de la mazmorra podrán entrar en ella.</font>
+ConditionIcon_100=<font color='#fce7b0'>Nivel Requerido</font><br><font color='#ffffff'>Sólo los personajes que cumplan el nivel mínimo de personaje de la Dungeon podrán entrar en ella.</font>
 ConditionIcon_200=<font color='#fce7b0'>Fichas de Entrada</font><br><font color='#ffffff'>Representan cuántas veces puedes entrar. Se restauran diariamente a las 5:00 a.m.<br><FLink:GetPremiumEnterCount></font>
 ConditionIcon_600=<font color='#fce7b0'>Fragmento de Rift</font><br><font color='#ffffff'>Los Fragmentos de Rift pueden ser usados a través de los Comerciantes de Fragmentos de Rift. Puedes conseguir hasta 1.000 fragmentos a la vez.</font>
 ConditionIcon_700=<font color='#fce7b0'>Poder de Combate</font><br><font color='#ffffff'>Indica la fuerza general de tu personaje. Afectado por tu Ataque, Defensa, equipo, etc.</font>
@@ -2736,7 +2736,7 @@ LS_PetAdventureHelp=<font color='#fce7b0'>Aventura de mascotas</font><br>Puedes 
 LS_PetCollectHelp=<font color='#fce7b0'>Efecto de recogida</font><br>Recoge mascotas en cada zona para activar efectos exclusivos de cada zona. Para activar los efectos, necesitas recoger distintos tipos de mascotas.<br><br><font color='#fce7b0'>Efecto Crecimiento</font><br>La efectividad de los efectos especiales activados en una zona aumenta a medida que crecen las mascotas de la zona. El crecimiento de las mascotas aumenta el nivel de los efectos especiales.
 LS_IceFestivalHelp=- Completa las misiones diarias de Caribe Paradise y recoge materiales.<br>- Visita al PNJ de eventos de Caribe Paradise y cámbialos por Brigadeiros y Caipirinhas.<br>- También puedes conseguir una recompensa de Sello cada día.
 LS_AOQuestionMark=<font color='#F1B869'>Impronta</font><br>1. Los grados de impronta no pueden aumentarse. Los grados de Impronta, una vez aumentados, no pueden degradarse.<br>2. Los grados de Impronta disponibles son: Normal, Poco Común, Raro, Heroico y Legendario.
-LS_ExtraceEmotion=La Energía del Éter puede ser extraída de los materiales y las Piezas de Alma obtenidas de varios monstruos jefes de mazmorra.
+LS_ExtraceEmotion=La Energía del Éter puede ser extraída de los materiales y las Piezas de Alma obtenidas de varios monstruos jefes de Dungeon.
 LS_MaterialItemExtractionBtn=Añadir Objeto Material
 LS_SoulStoneExtractBtn=Añadir fragmento de alma
 LS_SealStoneType1=<font color='#fce7b0'>Piedra Sello de Crecimiento</font><br>Una de las piedras que mantiene el sello en la Piedra Espíritu Sellada.<br>Las piedras sello generan varios recursos.
@@ -2985,14 +2985,14 @@ MapIcon_3001=Mi Portal
 MapIcon_3002=Portal de la Party
 MapIcon_3003=Portal Invasión de Monstruos
 MapIcon_3004=Portal Invasión Servidor
-MapIcon_3005=Mazmorra normal
+MapIcon_3005=Dungeon normal
 MapIcon_3006=Rifa
 MapIcon_3007=Entrada al edificio
 MapIcon_3008=Escaleras
 MapIcon_3009=Area Estación de Viaje
 MapIcon_3010=Objeto recogido
 MapIcon_3011=Portal de salida
-MapIcon_3012=Portal de la Mazmorra Épica
+MapIcon_3012=Portal de la Dungeon Épica
 MapIcon_3013=Falla del Gremio
 MapIcon_2100=Jefe
 MapIcon_2101=Autodestrucción
@@ -3365,7 +3365,7 @@ strRewardCaptionNow=¡¡Puedes reclamar tu recompensa de inicio de sesión ahora
 strRewardCaptionNowConnEvent=¡Puede obtener su recompensa de inicio de sesión ahora!
 
 [MU2GFxCommonDungeon]
-LS_Title=Entrar mazmorra
+LS_Title=Entrar Dungeon
 LS_LODTitle=Información de dificultad
 LS_MissionmapTitle=Información del mapa de la misión
 LS_DetailInfo=Detalles
@@ -3387,8 +3387,8 @@ LS_BtnCancel=Cancelar (Esc)
 LS_btnAutoPartyMatch=Acertar partido automáticamente
 LS_btnFindParty=Buscar partido
 LS_ShowArtifactWigetBtnLabel=Gestionar artefactos
-LS_DungeonSelect=Seleccionar tipo de mazmorra
-LS_DifficultSelect=Seleccionar dificultad de la mazmorra
+LS_DungeonSelect=Seleccionar tipo de Dungeon
+LS_DifficultSelect=Seleccionar dificultad de la Dungeon
 LS_ArtifactTitle=Artefacto de crecimiento
 LS_Normal=Normal
 LS_Myth=Mítico
@@ -3429,32 +3429,32 @@ LS_DungeonDiffText_9620201=Incursiones nocturnas
 LS_DungeonDiffText_9040365=Paraíso de las ranas
 LS_DungeonDiffText_9040366=Prueba de Jian Manas
 LS_DungeonDiffText_9040367=Escondite de los Libertadores Caídos
-DungeonTag_9020304=Mazmorra de un jugador
-DungeonTag_9020213=Mazmorra de un jugador
-DungeonTag_9030221=Mazmorra de un jugador
-DungeonTag_9050221=Mazmorra de un jugador
-DungeonTag_9050821=Mazmorra normal
-DungeonTag_9050822=Mazmorra normal
-DungeonTag_9050421=Mazmorra normal
-DungeonTag_9030121=Mazmorra normal
-DungeonTag_9030122=Mazmorra normal
-DungeonTag_9050621=Mazmorra normal
-DungeonTag_9030222=Mazmorra normal
+DungeonTag_9020304=Dungeon de un jugador
+DungeonTag_9020213=Dungeon de un jugador
+DungeonTag_9030221=Dungeon de un jugador
+DungeonTag_9050221=Dungeon de un jugador
+DungeonTag_9050821=Dungeon normal
+DungeonTag_9050822=Dungeon normal
+DungeonTag_9050421=Dungeon normal
+DungeonTag_9030121=Dungeon normal
+DungeonTag_9030122=Dungeon normal
+DungeonTag_9050621=Dungeon normal
+DungeonTag_9030222=Dungeon normal
 DungeonTag_9030223=Event Dungeon
-DungeonTag_9050521=Mazmorra normal
-DungeonTag_9050222=Mazmorra normal
-DungeonTag_9030321=Mazmorra normal
-DungeonTag_9020321=Mazmorra normal
-DungeonTag_9050321=Mazmorra normal
-DungeonTag_9050721=Mazmorra normal
-DungeonTag_9020221=Mazmorra de un jugador
-DungeonTag_9062121=Mazmorra normal
-DungeonTag_9062221=Mazmorra normal
-DungeonTag_9062321=Mazmorra normal
-DungeonTag_9062421=Mazmorra normal
-DungeonTag_9062422=Mazmorra normal
-DungeonTag_9062521=Mazmorra normal
-DungeonTag_9062621=Mazmorra normal
+DungeonTag_9050521=Dungeon normal
+DungeonTag_9050222=Dungeon normal
+DungeonTag_9030321=Dungeon normal
+DungeonTag_9020321=Dungeon normal
+DungeonTag_9050321=Dungeon normal
+DungeonTag_9050721=Dungeon normal
+DungeonTag_9020221=Dungeon de un jugador
+DungeonTag_9062121=Dungeon normal
+DungeonTag_9062221=Dungeon normal
+DungeonTag_9062321=Dungeon normal
+DungeonTag_9062421=Dungeon normal
+DungeonTag_9062422=Dungeon normal
+DungeonTag_9062521=Dungeon normal
+DungeonTag_9062621=Dungeon normal
 DungeonTag_9020211=Rift
 DungeonTag_9020212=La Rift
 DungeonTag_9020214=Rift
@@ -3534,10 +3534,10 @@ DungeonTag_9062431=Epic Dungeon
 DungeonTag_9057003=Boss Content
 DungeonTag_9920101=Mapa de la misión
 DungeonTag_9920201=Talisman: Castillo de Sangre
-DungeonTag_9040101=Mazmorra para un jugador
-DungeonTag_9040102=Mazmorra de un jugador
+DungeonTag_9040101=Dungeon para un jugador
+DungeonTag_9040102=Dungeon de un jugador
 DungeonTag_9203001=Mapa de la misión
-DungeonTag_9040103=Mazmorra de un jugador
+DungeonTag_9040103=Dungeon de un jugador
 DungeonTag_9020291=Field
 DungeonTag_9800101=Field
 DungeonTag_9030391=Field
@@ -3554,7 +3554,7 @@ DungeonTag_9920601=Mapa de la misión
 DungeonTag_9920701=Mapa de la misión
 DungeonTag_9920801=Mapa de la misión
 DungeonTag_9602001=Rift
-DungeonTag_9600101=Mazmorra normal
+DungeonTag_9600101=Dungeon normal
 DungeonTag_9042101=Mapa de la misión
 DungeonTag_9042301=Mapa de la misión
 DungeonTag_9604001=Rift
@@ -3565,7 +3565,7 @@ DungeonTag_9040362=Event Dungeon
 DungeonTag_9040363=Event Dungeon
 DungeonTag_9069101=Campamento de entrenamiento
 DungeonTag_9069201=Campo de entrenamiento
-DungeonTag_9620001=Mazmorra normal
+DungeonTag_9620001=Dungeon normal
 DungeonTag_9620201=Rift
 DungeonTag_9057011=La Rift
 DungeonTag_9057012=La Rift
@@ -3575,16 +3575,16 @@ DungeonTag_9057513=La Rift
 DungeonTag_9059011=La Rift
 DungeonTag_9059012=La Rift
 DungeonTag_9059013=La Rift
-DungeonTag_9040364=Mazmorra normal
-DungeonTag_9062408=Mazmorra de un jugador
+DungeonTag_9040364=Dungeon normal
+DungeonTag_9062408=Dungeon de un jugador
 DungeonTag_9040365=Event Dungeon
 DungeonTag_9040366=Event Dungeon
 DungeonTag_9040367=Event Dungeon
 DungeonTag_9930603=La Rift
 DungeonTag_9960610=La Rift
 DungeonTag_9920901=Mapa de la misión
-DungeonTag_9601201=Mazmorra normal
-DungeonTag_9059203=Mazmorra normal
+DungeonTag_9601201=Dungeon normal
+DungeonTag_9059203=Dungeon normal
 DungeonTag_9960810=La Rift
 DungeonTag_9040704=Dios del Corredor
 DungeonTag_9601501=Event Dungeon
@@ -3801,7 +3801,7 @@ Dungeon_Desc_9050431=Un antiguo santuario donde reside Kaizel, el progenitor de 
 Dungeon_Title_9030331=Refugio del Dragón
 Dungeon_Desc_9030331=La codicia de los Demonios y los Garudas arruinó la oportunidad del antiguo dragón Targash de evolucionar en algo mayor, dejándolo lleno de ira y odio.<br>Bienvenido a la guarida del feroz dragón que odia todo lo que es bueno.
 Dungeon_Title_9062331=Área restringida 6-1
-Dungeon_Desc_9062331=En este laboratorio se llevaron a cabo una vez experimentos con armas basadas en plantas. Una mazmorra llena de plantas animadas y furiosas.
+Dungeon_Desc_9062331=En este laboratorio se llevaron a cabo una vez experimentos con armas basadas en plantas. Una Dungeon llena de plantas animadas y furiosas.
 Dungeon_Title_9062431=Antiguo Arca Kanturiana
 Dungeon_Desc_9062431=Un arca gigante que apareció de repente de la nada, con los avances tecnológicos de la antigua civilización kanturiana.<br>¿Qué podría ser esta arca y por qué ha aparecido ahora? ¿Quién podría estar esperando dentro?
 Dungeon_Title_9057003=Reino de la Perseverancia: Prueba
@@ -3852,8 +3852,8 @@ Dungeon_Title_9042101=Cueva del Demonio de Fuego
 Dungeon_Desc_9042101=Otro mundo de misterios que ha sido descubierto por la Sociedad de Investigación de la Rift. <br>Se dice que el dueño de este mundo teñido de rojo lleva un objeto muy importante.
 Dungeon_Title_9042301=Cueva del Demonio de Hielo
 Dungeon_Desc_9042301=Otro mundo de misterios que ha sido descubierto por la Sociedad de Investigación de la Rift. <br>Se dice que el dueño de este mundo teñido de azul lleva un objeto muy importante.
-Dungeon_Title_9040309=Mazmorra de la Caza de la Pascua
-Dungeon_Desc_9040309=En la Mazmorra de la Caza de Pascua, abierta para la época de Pascua,<br> ¡prueba tu suerte encontrando algunas piezas de rompecabezas para combinar y<br>algunos conejos de chocolate gourmet que proporcionan virtudes extra!
+Dungeon_Title_9040309=Dungeon de la Caza de la Pascua
+Dungeon_Desc_9040309=En la Dungeon de la Caza de Pascua, abierta para la época de Pascua,<br> ¡prueba tu suerte encontrando algunas piezas de rompecabezas para combinar y<br>algunos conejos de chocolate gourmet que proporcionan virtudes extra!
 Dungeon_Title_9604001=Bóveda secreta abandonada
 Dungeon_Desc_9604001=La bóveda secreta de Luery, que solía estar llena de brillantes e inestimables tesoros, está ahora abandonada. Sus tesoros han desaparecido, y este edificio se está convirtiendo en una escena sombría y lúgubre.<br>Sin embargo, se rumorea que algunos afortunados descubrieron aquí dentro cajas fuertes ocultas llenas de Zen.
 Dungeon_Title_Awaken_9203001=Laberinto del Despertar de Lupa
@@ -3863,7 +3863,7 @@ Dungeon_Desc_9686001=Después de que un sujeto de pruebas se descontrolara, una 
 Dungeon_Title_9040803=Defensa de la aeronave
 Dungeon_Desc_9040803=La aeronave que fue construida para ser pionera en la ruta hacia la devildom está esperando a un valiente guardián.<br>Quizás los guardianes puedan encontrar un gran origen de poder, en el lugar completamente desconocido donde los descubrimientos no se pueden predecir.<br><font color='#FDD889'>Lv. 80 monstruos aparecerán en el nivel de dificultad 2 de la defensa de la aeronave, y la dificultad y las recompensas aumentarán mucho.</font>
 Dungeon_Title_9040361=Aldea de las Santas de Muchos Colores
-Dungeon_Desc_9040361=Una mazmorra que solo se abre durante ciertas fiestas.<br>¡Las Santas se han vuelto locas! Hazles entrar en razón e ilumina los árboles para crear el ambiente navideño.
+Dungeon_Desc_9040361=Una Dungeon que solo se abre durante ciertas fiestas.<br>¡Las Santas se han vuelto locas! Hazles entrar en razón e ilumina los árboles para crear el ambiente navideño.
 Dungeon_Title_9040362=Labyrinth
 Dungeon_Desc_9040362=Un oscuro y complejo laberinto oculto bajo tierra en Ohrdor.<br>Tienes que encontrar cuál de las seis salidas es la verdadera antes de que se acabe el tiempo.<br>Fichas de entrada diarias: 2
 Dungeon_Title_9040363=Sistema de alcantarillado de Ohrdor
@@ -3902,9 +3902,9 @@ Dungeon_Title_9088801=Ancient Relic
 Dungeon_Desc_9088801=Los guerreros, con el fin de perseguir el arma legendaria de los soldados mágicos valientes para derrotar Reliquia monstruo para obtener el botín.
 LS_DungeonName[0]=Falla
 LS_DungeonName[1]=Guild Rift
-LS_DungeonName[2]=Mazmorra Normal
-LS_DungeonName[3]=Mazmorra de búsqueda
-LS_DungeonName[4]=Mazmorra épica
+LS_DungeonName[2]=Dungeon Normal
+LS_DungeonName[3]=Dungeon de búsqueda
+LS_DungeonName[4]=Dungeon épica
 LS_DungeonName[5]=Torre sin fin
 LS_DungeonName[6]=Castillo de sangre
 LS_DungeonLodDescByUiType0[0]=Valor del monstruo: 100%<br>Ataque del monstruo: 100%<br>Ganancia EXPP: 100%
@@ -4103,11 +4103,11 @@ LS_ClearTimeDifficult=Tiempo de limpieza: Escenario %s_1 (%s_2)
 LS_MissionScore=Tiempo de limpieza: %s_1
 LS_RankNothing=Ninguno
 LS_NonePlay=No hay registro de juego.
-LS_DungeonType[0]=Mazmorra de un jugador
-LS_DungeonType[1]=Mazmorra normal
+LS_DungeonType[0]=Dungeon de un jugador
+LS_DungeonType[1]=Dungeon normal
 LS_DungeonType[2]=Rift
-LS_DungeonType[3]=Mazmorra de cristal
-LS_DungeonType[4]=Mazmorra épica
+LS_DungeonType[3]=Dungeon de cristal
+LS_DungeonType[4]=Dungeon épica
 LS_DungeonType[5]=Mapa de misiones
 LS_EnterDesc[0]=
 LS_EnterDesc[1]=
@@ -4118,110 +4118,110 @@ LS_EnterDesc[5]=
 LS_EnterDesc[6]=
 LS_EnterDesc[7]=
 LS_CreateDungeonLvLabel=Nivel recomendado
-LS_CreateDungeon=Crear mazmorra
+LS_CreateDungeon=Crear Dungeon
 LS_CreateDungeonEnterCost=Coste de entrada
 LS_BlockMove=Mover bloque
 LS_NewBlockMove=Mover a un nuevo bloque
 LS_DescAutoMoveAfterDTime=Serás movido automáticamente después de un tiempo determinado.
 LS_Step=Paso %s_1
-LS_MemberInviteDungeonEnter=%s ha solicitado entrar en la mazmorra.
+LS_MemberInviteDungeonEnter=%s ha solicitado entrar en la Dungeon.
 LS_BossDungeon=Espacio del Jefe
 LS_CanNotSee=Desconocido
-LS_DungeonDesc_9020304=Sólo puedes entrar en esta mazmorra Quest solo,<br>no con tu grupo.
-LS_DungeonDesc_9020213=Sólo puedes entrar en esta mazmorra tú solo,<br>no con tu grupo.
-LS_DungeonDesc_9030221=Sólo puedes entrar en esta mazmorra tú solo,<br>no con tu grupo.
-LS_DungeonDesc_9050221=Sólo puedes entrar en esta mazmorra tú solo,<br>no con tu grupo.
-LS_DungeonDesc_9050821=Las mazmorras normales no usan esta descripción.
-LS_DungeonDesc_9050822=Las mazmorras normales no usan esta descripción.
-LS_DungeonDesc_9050421=Las mazmorras normales no usan esta descripción.
-LS_DungeonDesc_9030121=Las mazmorras normales no usan esta descripción.
-LS_DungeonDesc_9030122=Las mazmorras normales no usan esta descripción.
-LS_DungeonDesc_9030223=Las mazmorras normales no usan esta descripción.
-LS_DungeonDesc_9050621=Las mazmorras normales no usan esta descripción.
-LS_DungeonDesc_9030222=Las mazmorras normales no usan esta descripción.
-LS_DungeonDesc_9050521=Las mazmorras normales no usan esta descripción.
-LS_DungeonDesc_9050222=Las mazmorras normales no usan esta descripción.
-LS_DungeonDesc_9030321=Las mazmorras normales no utilizan esta descripción.
-LS_DungeonDesc_9020321=Las mazmorras normales no utilizan esta descripción.
-LS_DungeonDesc_9050321=Las mazmorras normales no usan esta descripción.
-LS_DungeonDesc_9050721=Las mazmorras normales no usan esta descripción.
-LS_DungeonDesc_9020221=Las mazmorras normales no usan esta descripción.
-LS_DungeonDesc_9062121=Las mazmorras normales no usan esta descripción.
-LS_DungeonDesc_9062221=Las mazmorras normales no usan esta descripción.
-LS_DungeonDesc_9062321=Las mazmorras normales no usan esta descripción.
-LS_DungeonDesc_9062521=Las mazmorras normales no usan esta descripción.
-LS_DungeonDesc_9062621=Las mazmorras normales no usan esta descripción.
-LS_DungeonDesc_9020211=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020212=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020214=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020311=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020312=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020313=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020314=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020315=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030111=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030112=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030113=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030114=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030211=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030212=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030213=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030214=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030311=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030312=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030313=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030314=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050211=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050212=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050213=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050214=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050311=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050312=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050313=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050314=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050411=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050412=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050413=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050414=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050511=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050512=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050513=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050514=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050611=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050612=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050613=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050614=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050711=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050712=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050713=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050714=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050811=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050812=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050813=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050814=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062111=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062112=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062113=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062211=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062212=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062213=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062311=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062312=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062313=Esta mazmorra es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020304=Sólo puedes entrar en esta Dungeon Quest solo,<br>no con tu grupo.
+LS_DungeonDesc_9020213=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
+LS_DungeonDesc_9030221=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
+LS_DungeonDesc_9050221=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
+LS_DungeonDesc_9050821=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9050822=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9050421=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9030121=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9030122=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9030223=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9050621=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9030222=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9050521=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9050222=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9030321=Las Dungeons normales no utilizan esta descripción.
+LS_DungeonDesc_9020321=Las Dungeons normales no utilizan esta descripción.
+LS_DungeonDesc_9050321=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9050721=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9020221=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9062121=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9062221=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9062321=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9062521=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9062621=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9020211=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020212=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020214=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020311=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020312=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020313=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020314=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020315=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030111=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030112=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030113=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030114=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030211=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030212=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030213=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030214=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030311=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030312=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030313=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030314=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050211=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050212=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050213=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050214=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050311=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050312=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050313=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050314=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050411=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050412=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050413=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050414=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050511=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050512=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050513=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050514=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050611=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050612=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050613=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050614=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050711=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050712=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050713=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050714=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050811=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050812=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050813=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050814=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062111=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062112=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062113=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062211=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062212=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062213=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062311=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062312=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062313=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
 LS_DungeonDesc_9920301=Elimina a los monstruos del interior y carga la Energía de Trenta para activar a Trenta.<br>Trenta es un gólem gigante que genera portales de la Rift.
 LS_DungeonDesc_9920401=Elimina a los monstruos del interior y carga la energía de Trenta para activar a Trenta.<br>Trenta es un gólem gigante que genera portales de la Rift.
 LS_DungeonDesc_9920501=Elimina a los monstruos del interior y carga la energía de Trenta para activar a Trenta.<br>Trenta es un gólem gigante que genera portales de la Rift.
 LS_DungeonDesc_9800110=La Biblioteca de Lupa es mucho más difícil que una Rift normal.<br>Se recomienda jugar con un grupo.
-LS_DungeonDesc_9050431=Las mazmorras épicas son mucho más difíciles que otras mazmorras. Se recomienda jugar en grupo.
-LS_DungeonDesc_9030331=Las mazmorras épicas son mucho más difíciles que otras mazmorras. Se recomienda jugar en grupo.
-LS_DungeonDesc_9062631=Las mazmorras épicas son mucho más difíciles que otras mazmorras. Se recomienda explorarlas en grupo.
+LS_DungeonDesc_9050431=Las Dungeons épicas son mucho más difíciles que otras Dungeons. Se recomienda jugar en grupo.
+LS_DungeonDesc_9030331=Las Dungeons épicas son mucho más difíciles que otras Dungeons. Se recomienda jugar en grupo.
+LS_DungeonDesc_9062631=Las Dungeons épicas son mucho más difíciles que otras Dungeons. Se recomienda explorarlas en grupo.
 LS_DungeonDesc_9920101=El nivel de dificultad de la Torre sin fin varía dependiendo del <font color='#B4FE42'>número de miembros de tu grupo</font>.
 LS_DungeonDesc_9920201=El nivel de dificultad del Castillo Sangriento varía en función del <font color='#B4FE42'>número de miembros de tu grupo</font>.
-LS_DungeonDesc_9040101=Solo puedes entrar en esta mazmorra solo,<br>no con tu grupo.
-LS_DungeonDesc_9040102=Sólo puedes entrar en esta mazmorra tú solo,<br>no con tu grupo.
+LS_DungeonDesc_9040101=Solo puedes entrar en esta Dungeon solo,<br>no con tu grupo.
+LS_DungeonDesc_9040102=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
 LS_DungeonDesc_9203001=El Laberinto de Lupa es un Mapa de Misión de alta dificultad, abundante en materiales de artesanía de Artefactos y diseñado para ayudar a mejorar los Artefactos.
 LS_DungeonDesc_9040364=Descripción del Laberinto de Puzzles
-LS_DungeonDesc_9062408=Sólo puedes entrar en esta mazmorra tú solo,<br>no con tu grupo.
+LS_DungeonDesc_9062408=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
 LS_ArtifactLvDesc[0]=<font color='#FF0000'>¡Selecciona un Artefacto para cultivar!</font><br>Si no hay un Artefacto para cultivar,<br>no puedes ganar EXP de Artefacto.
 LS_ArtifactLvDesc[1]=La Dificultad es igual al nivel de crecimiento del Artefacto.<br>¡Un verdadero desafío!<br><font color='#FDD889'>Obtendrás el 100% de EXP de Artefacto.</font>
 LS_ArtifactLvDesc[2]=La Dificultad es mayor que el nivel de crecimiento del Artefacto.<br>¡Un verdadero desafío!<br><font color='#FDD889'>Obtendrás EXP de Artefacto adicional.</font>
@@ -4273,9 +4273,9 @@ Dungeon_Desc_9059221=La cueva donde se dice que Vulcano creó a Drakans, una nue
 Dungeon_Title_9059231=Altar de roca de cristal
 Dungeon_Desc_9059231=El altar donde Vulcano, creador de Drakans, solía entregar la revelación. El dragón guardián Epiaros protegió el lugar trascendiendo las leyes de la vida y la muerte, pero ahora amenaza el altar que debería custodiar.
 Dungeon_Title_9040368=La zona prohibida del carnaval
-Dungeon_Desc_9040368=Un área prohibida de otro espacio-tiempo, que fue abierta por el carnaval nómada en el festival del 4º Aniversario<br><br><font color='#FF0000'>¡Precaución! Esta mazmorra es un poco fácil.</font>
+Dungeon_Desc_9040368=Un área prohibida de otro espacio-tiempo, que fue abierta por el carnaval nómada en el festival del 4º Aniversario<br><br><font color='#FF0000'>¡Precaución! Esta Dungeon es un poco fácil.</font>
 Dungeon_Title_9601901=La codicia de Kaizel
-Dungeon_Desc_9601901=El vasto y antiguo santuario donde el antiguo dragón Kaizel, origen de los Drakans, una vez adorado por el imperio Walkreeger como el 'rey dragón', pero que se ha sometido a la fuerza de la oscuridad y corrompido ahora, es ahora morada...<br><font color='#FDD889'>¡Precaución! Esta mazmorra tiene una dificultad muy alta, que es igual o más difícil que la antigua Kantur arca dificultad 3.<br>Toma el reto con cautela con los miembros del partido fuerte!</font>
+Dungeon_Desc_9601901=El vasto y antiguo santuario donde el antiguo dragón Kaizel, origen de los Drakans, una vez adorado por el imperio Walkreeger como el 'rey dragón', pero que se ha sometido a la fuerza de la oscuridad y corrompido ahora, es ahora morada...<br><font color='#FDD889'>¡Precaución! Esta Dungeon tiene una dificultad muy alta, que es igual o más difícil que la antigua Kantur arca dificultad 3.<br>Toma el reto con cautela con los miembros del partido fuerte!</font>
 Dungeon_Title_9601601=Deseo de Targash
 Dungeon_Desc_9601601=Targash es el antiguo dragón que perdió el destino de convertirse en un gran ser a manos de los demonios y Garuda, y lo único que queda en él es resentimiento y odio.<br>Una terrible guarida de dragones locos que antagonizan con todo lo que está intacto.
 Dungeon_Title_9602401=El viejo castillo famoso por sus cerezos en flor
@@ -4306,7 +4306,7 @@ LS_DungeonLodDescByUiType4_9059231_2=Monstruo HP <font color='#11F210'> 8000%</f
 LS_DungeonLodDescByUiType4_9062631_0=Monstruo HP <font color='#11F210'> 2000%</font><br>monstruo Ataque<font color='#11F210'> 1228%</font><br>ganar EXP <font color='#11F210'> 1122%</font>
 LS_DungeonLodDescByUiType4_9062631_1=Monstruo HP <font color='#11F210'> 4600%</font><br>Monstruo Ataque<font color='#11F210'> 2796%</font><br>ganancia EXP <font color='#11F210'> 2674%</font>
 LS_DungeonLodDescByUiType4_9062631_2=Monstruo HP <font color='#11F210'> 8000%</font><br>monstruo Ataque<font color='#11F210'> 4084%</font><br>ganar EXP <font color='#11F210'> 4676%</font>
-LS_DungeonDesc_9059231=La dificultad de la mazmorra épica es muy alta. Party play recomendado.
+LS_DungeonDesc_9059231=La dificultad de la Dungeon épica es muy alta. Party play recomendado.
 
 [MU2AutoActionPawn]
 TooltipTalk=%s_1
@@ -4314,7 +4314,7 @@ TooltipTalk=%s_1
 [MU2GFxMinimapView]
 LS_FloorText=Piso %s_1
 LS_SurveyControlText=: Abrir ventana de encuesta
-LS_ExitDungeon=Salir de la mazmorra
+LS_ExitDungeon=Salir de la Dungeon
 LS_ChannelLabel=Canal
 LS_Step=Etapa %s_1
 LS_QuestIconString=Búsqueda - %s_1
@@ -4534,7 +4534,7 @@ Desc2_9042201=Caution: No hay puntos de resurrección disponibles en los mapas d
 BossRoomName_9042401=Cueva del Demonio de Hielo 2F
 Desc1_9042401=Todos los miembros de tu grupo deben entrar en el mapa al mismo tiempo.
 Desc2_9042401=Caution: No hay puntos de resurrección disponibles en los mapas de Boss Monster.
-BossRoomName_9600101=Mazmorra de la Caza de la Pascua
+BossRoomName_9600101=Dungeon de la Caza de la Pascua
 Desc1_9600101=Todos los miembros de tu grupo deben entrar en el mapa al mismo tiempo.
 Desc2_9600101=Caution: No hay puntos de resurrección disponibles en los mapas de Boss Monster.
 BossRoomName_9600301=Mansión Fantasma de Halloween
@@ -4829,8 +4829,8 @@ LS_CharView=: Ver Personaje
 LS_CombatPowerData=Poder de combate
 LS_RankData=Datos de rango
 LS_GroupCharacter=Personaje
-LS_GroupDungeon=Mazmorra Mítica
-LS_GroupEpic=Mazmorra épica
+LS_GroupDungeon=Dungeon Mítica
+LS_GroupEpic=Dungeon épica
 LS_GroupMission=Mapa de misión
 LS_Complete=Completado en %s_1
 LS_DayPeriod=Ranking diario del día seleccionado
@@ -5334,12 +5334,12 @@ LS_ProtectedTicket_Description=Para usar Billetes de Salvaguardia, haga clic en 
 LS_DamageReportString=Informe de Daños
 LS_DetailInfoString=Detalles
 LS_NotifyMessage=Se han compilado los resultados detallados de la batalla.¶¿Ver informe de daños?
-LS_OpenDialogCheckBoxString=Ver informe de daños al salir de las mazmorras
+LS_OpenDialogCheckBoxString=Ver informe de daños al salir de las Dungeons
 
 [MU2GFxDamageReport_DamageReport]
 LS_MyDamageString=Daño infligido a enemigos
 LS_PartyDPSString=DPS del partido
-LS_DungeonNameString=Nombre de la mazmorra:
+LS_DungeonNameString=Nombre de la Dungeon:
 LS_PlayTimeString=Tiempo de juego:
 LS_MemberDamageString=Daño a enemigos
 LS_DamageToBossString=Daño al jefe
@@ -5360,13 +5360,13 @@ LS_ContributionRatioString=Contribución
 [MU2GFxAchievementMenu]
 Main_Category[0]=Especial
 Main_Category[1]=Personaje
-Main_Category[2]=Mazmorra
+Main_Category[2]=Dungeon
 Main_Category[3]=Mapa de misiones
 Main_Category[4]=Objeto
 Sub_Category[0]=Especial
 Sub_Category[1]=Evento
 Sub_Category[2]=Historia
-Sub_Category[3]=Mazmorra
+Sub_Category[3]=Dungeon
 Sub_Category[4]=Altar de los Espíritus
 Sub_Category[5]=Castillo del Caos
 Sub_Category[6]=Castillo de Sangre
@@ -5424,8 +5424,8 @@ LS_JoinParty=Unirse a la Party
 LS_InviteParty=Invitar a la Party
 LS_DungeonAll=Todos
 LS_DungeonMission=Mapa de misiones
-LS_DungeonNormal=Mazmorra normal
-LS_DungeonEpic=Mazmorra épica
+LS_DungeonNormal=Dungeon normal
+LS_DungeonEpic=Dungeon épica
 LS_DungeonAdv=Falla
 LS_CheckSimiarLv=Ver niveles similares
 LS_SortLvHigh=Nivel: primero el más alto
@@ -5619,7 +5619,7 @@ LS_DetailRewardItemsText=Recompensa por artículo
 
 [MU2GfxReturnToCity]
 LS_ReturnToCityTitle=Volver a la ciudad
-LS_MoveCaution=Precaución: Si te mueves a la ciudad ahora, no podrás volver a esta mazmorra.
+LS_MoveCaution=Precaución: Si te mueves a la ciudad ahora, no podrás volver a esta Dungeon.
 LS_Move=Viajar (Espacio)
 LS_Close=Cerrar (Esc)
 LS_ReturnToTown=Mover a la última ciudad que visitó.
@@ -6000,7 +6000,7 @@ LS_SuccessBubbleTalk=¡La batalla contra el jefe comienza ahora!
 LS_FailedBubbleTalk=Hm... No estoy seguro de que seas lo suficientemente fuerte para hacerlo. Bueno, ¡buena suerte!
 LS_BossCompleteBubbleTalk=¡Revisa el suelo en busca de EXP de Artefacto!
 LS_BossBlockBtn=¡Ha aparecido el Depredador de la Rift!
-LS_ExitDungeonBtn=Salir de la mazmorra
+LS_ExitDungeonBtn=Salir de la Dungeon
 
 [MU2GFxMessageBoxMazeBossBlock]
 LS_ChargingRateTitle=Tasa de carga
@@ -6428,7 +6428,7 @@ LS_PCRoomService=El efecto Platino Premium ha aumentado tu número máximo de en
 LS_FreeMopUp=Usa una ficha de subyugación gratuita de Servicio Premium.
 LS_MopUpCount=Selecciona el número de subjugaciones
 LS_RewardTitle=Guía de recompensas
-LS_RewardDesc=Puedes obtener objetos clave disponibles en las mazmorras, así como EXP de Alma.
+LS_RewardDesc=Puedes obtener objetos clave disponibles en las Dungeons, así como EXP de Alma.
 LS_FreeMopUpTikect=Billete de subyugación gratuito
 
 [MU2GFxDailyMissionDetail]
@@ -7276,7 +7276,7 @@ LS_SuccessMessageTitle=¡Purificado!
 LS_SuccessMessageDesc=¡Excelente!<br>Ahora ya no podrán volver a la Tierra.
 LS_FailedMessageTitle=Purga fallida
 LS_FailedMessageDesc=Los fantasmas del Pandemónium serán liberados de nuevo en la Tierra
-LS_ExitBtn=Salir de la Mazmorra
+LS_ExitBtn=Salir de la Dungeon
 
 [MU2GFxReturnUserEvent]
 LS_Caption=
@@ -7364,7 +7364,7 @@ LS_DivideCancel=Cancelar
 
 [MU2GFxEmpEventPopup]
 LS_Period=Duración: Visita nuestra web y discord para ver la duración del evento.
-LS_EventInfo=Derrota a los monstruos Jefes de las mazmorras establecidas y consigue Chakrams Misteriosos.<br>Los Chakrams Misteriosos se pueden intercambiar por suministros útiles a través del Gestor de Eventos de la ciudad.
+LS_EventInfo=Derrota a los monstruos Jefes de las Dungeons establecidas y consigue Chakrams Misteriosos.<br>Los Chakrams Misteriosos se pueden intercambiar por suministros útiles a través del Gestor de Eventos de la ciudad.
 LS_DungeonName[0]=
 LS_DungeonName[1]=Jardín de Fabrice
 LS_DungeonName[2]=Mina de Gemas Mágicas de la Guerra
@@ -7722,7 +7722,7 @@ LS_ReceiveReward=Reclamar recompensa
 LS_Close=Cerrar
 LS_ReceiveNewNotebook=Recibir nueva nota
 Adv_Note_Categoty_1=Descubrimiento de monstruos
-Adv_Note_Categoty_2=Exploración de mazmorras
+Adv_Note_Categoty_2=Exploración de Dungeons
 Adv_Note_Categoty_3=Búsqueda de área
 LS_Caution=<font color='#FE6D03'>Pueden participar guardianes de Lv. 80 o superior.</font>
 
@@ -8211,7 +8211,7 @@ LS_Info2Text=Cómo participar:<br/>Inicia sesión con tu personaje y, a continua
 LS_Info2ItemLabel=Objetos clave
 LS_Info3Title=¡Evento TRES!
 LS_Info3SubTitle=¡Con el Black Phantom!
-LS_Info3Text=Cómo participar:<br/>Despeja mazmorras con un Black Phantom en tu grupo para conseguir recompensas extra.
+LS_Info3Text=Cómo participar:<br/>Despeja Dungeons con un Black Phantom en tu grupo para conseguir recompensas extra.
 LS_Info3ItemLabel=Objetos clave
 LS_Info4Title=
 LS_Info4SubTitle=
@@ -8234,7 +8234,7 @@ LS_CancelStr=Cancelar (Esc)
 LS_Jian_Duration=
 LS_Jian_HeadText=El mundo es como una fragua que crea héroes.<br>El destino te colocará contra el yunque de las pruebas personales y te golpeará con el martillo del sufrimiento.<br>Aquellos que no se dobleguen ante tal agonía brillarán en rojo al calor, volviéndose cada vez más robustos y afilados.<br>De tu determinación dependerá que languidezcas en el montón de basura como chatarra o que te conviertas en una espada legendaria.<br>Resiste. Desafía. Seremos recordados como aquellos que lucharon por la gloriosa luz eterna.
 LS_Jian_MidTitle=Cómo participar
-LS_Jian_EventDesc=- Se añadirá el evento Misión diaria <font color='#FDC243'>La prueba de Jian Manas</font>.<br/>- Puedes usar el menú Misión diaria para ver el estado de la misión del evento.<br/>- Puedes entrar en la mazmorra del evento en Ohrdor para superar la Misión diaria y obtener recompensas especiales. <br/>- El objeto de evento <font color='#FE6D03'>Ficha de Jian Manas</font> puede canjearse a través del PNJ mercader del evento por varios objetos, incluidos <font color='#FE6D03'>dos nuevos Artefactos</font>.<br/>
+LS_Jian_EventDesc=- Se añadirá el evento Misión diaria <font color='#FDC243'>La prueba de Jian Manas</font>.<br/>- Puedes usar el menú Misión diaria para ver el estado de la misión del evento.<br/>- Puedes entrar en la Dungeon del evento en Ohrdor para superar la Misión diaria y obtener recompensas especiales. <br/>- El objeto de evento <font color='#FE6D03'>Ficha de Jian Manas</font> puede canjearse a través del PNJ mercader del evento por varios objetos, incluidos <font color='#FE6D03'>dos nuevos Artefactos</font>.<br/>
 LS_Jian_TailText=- El evento Misión Diaria se reinicia a las 5:00 AM todos los días.<br/>- El evento Misión Diaria proporciona recompensas triples si se juega desde un net café.
 LS_Jian_BtnLable=Cerrar
 
@@ -8320,7 +8320,7 @@ LS_ReceiveReward=Reclamar recompensa ahora
 LS_NextRewardReaminTime=Próxima recompensa %s_1
 LS_SproutBonusDesc[0]=Una poderosa mejora de Brote está actualmente en efecto.<br>Pasa el ratón por encima del icono de mejora de Brote para ver sus efectos.
 LS_SproutBonusDesc[1]=Este potenciador Brote se mantiene hasta que alcanzas el nivel de alma 300. Puedes recibirlo una última vez. Puedes recibir el potenciador una última vez cuando alcances el nivel 300.
-LS_SproutBonusDesc[2]=Los usuarios de Sprout pueden recibir beneficios adicionales en la mayoría de las características del juego, y dichas bonificaciones a menudo se extienden a los miembros del grupo, así que no dudes en unirte a grupos.<br>Puedes encontrar información sobre las recompensas de bonificación en los detalles de entrada a las mazmorras.
+LS_SproutBonusDesc[2]=Los usuarios de Sprout pueden recibir beneficios adicionales en la mayoría de las características del juego, y dichas bonificaciones a menudo se extienden a los miembros del grupo, así que no dudes en unirte a grupos.<br>Puedes encontrar información sobre las recompensas de bonificación en los detalles de entrada a las Dungeons.
 LS_RewardBottomDesc=Puedes recibir una recompensa cada 2 horas, a partir del mediodía.
 
 [MU2GFxMemoryImprint]
@@ -8370,9 +8370,9 @@ LS_PopupCloseBtn=Cerrar
 
 [MU2GFxLuerysTreasureReleaseEvent]
 LS_EventPeriod=Período del evento
-LS_BottomDesc=Puedes ganar monedas de evento al derrotar al jefe final de la mazmorra de evento.<br>También puedes ganar monedas de evento como recompensa de recarga de sellos como parte del evento Recompensa de inicio de sesión.<br><bront color='#FDC243'>Bonificación de net cafe 1: Puedes ganar monedas de evento como parte de la bonificación de net cafe.<br>Bonificación de net cafe 2: Puedes ganar recompensas extra por superar mazmorras de evento de net cafes.</font></b>
+LS_BottomDesc=Puedes ganar monedas de evento al derrotar al jefe final de la Dungeon de evento.<br>También puedes ganar monedas de evento como recompensa de recarga de sellos como parte del evento Recompensa de inicio de sesión.<br><bront color='#FDC243'>Bonificación de net cafe 1: Puedes ganar monedas de evento como parte de la bonificación de net cafe.<br>Bonificación de net cafe 2: Puedes ganar recompensas extra por superar Dungeons de evento de net cafes.</font></b>
 LS_Exit=Cerrar
-LS_DungeonInfoTitle=Mazmorra de evento
+LS_DungeonInfoTitle=Dungeon de evento
 LS_Dungeon0=Área Restringida 6-1
 LS_Dungeon1=Antiguo Arca Kanturiana
 LS_Dungeon2=Reino de la Perseverancia: Prueba
@@ -8387,9 +8387,9 @@ LS_NPCShopInfoReward3=Crema hidratante especial de Luery
 LS_NPCShopInfoReward4=Pergamino blanco especial de Luery
 LS_NPCShopInfoReward5=Pergamino de impresión especial de Luery
 LS_EventPeriod_S2= Visita nuestra web y discord para ver la duración del evento.
-LS_BottomDesc_S2=Puedes recibir monedas de evento al derrotar al jefe final en la mazmorra del evento.<br>Puedes recibir monedas de evento como recompensa de carga de sello en el evento de recompensa de conexión.<br><font color='#FDC243'>Beneficio del cibercafé 1. Puedes recibir moneda de evento a través de la recompensa de conexión de cibercafé.<br>Beneficio de cibercafé 2. Puedes recibir monedas de evento como recompensa de carga de sello en el evento de recompensa de conexión.
+LS_BottomDesc_S2=Puedes recibir monedas de evento al derrotar al jefe final en la Dungeon del evento.<br>Puedes recibir monedas de evento como recompensa de carga de sello en el evento de recompensa de conexión.<br><font color='#FDC243'>Beneficio del cibercafé 1. Puedes recibir moneda de evento a través de la recompensa de conexión de cibercafé.<br>Beneficio de cibercafé 2. Puedes recibir monedas de evento como recompensa de carga de sello en el evento de recompensa de conexión.
 LS_Exit_S2=Cerrar
-LS_DungeonInfoTitle_S2=Mazmorra de evento
+LS_DungeonInfoTitle_S2=Dungeon de evento
 LS_Dungeon0_S2=El viejo castillo famoso por sus cerezos en flor
 LS_Dungeon1_S2=Antiguo arca de Kantur
 LS_Dungeon2_S2=Pasos de resistencia: Prueba
@@ -8550,7 +8550,7 @@ LS_WebOfGodTitle=Empezar a luchar
 LS_WebOfGodSubTitle=Los refuerzos empiezan a moverse para detectar sustancias extrañas.<br>¡Deprisa! ¡No queda mucho tiempo!
 
 [MU2GFxNpcShopEventView]
-LS_ToolTipText_9503=<b><font color='#FDC243'>Chakram Misterioso</font></b><br><font color='#FDC243'>(El chakram misterioso se puede conseguir en las siguientes mazmorras)</font></b><br>Jardín de Fabrice- 5 chakrams</b><br>Magic Gem Mine-5 chakrams</b><br>Blood Castle-5 chakrams</b><br>Luery's Secret Vault-5 chakrams</b><br>Sanctum of Dragon Knights-10 chakrams</b><br>Dragon's Haven-10 chakrams</b>
+LS_ToolTipText_9503=<b><font color='#FDC243'>Chakram Misterioso</font></b><br><font color='#FDC243'>(El chakram misterioso se puede conseguir en las siguientes Dungeons)</font></b><br>Jardín de Fabrice- 5 chakrams</b><br>Magic Gem Mine-5 chakrams</b><br>Blood Castle-5 chakrams</b><br>Luery's Secret Vault-5 chakrams</b><br>Sanctum of Dragon Knights-10 chakrams</b><br>Dragon's Haven-10 chakrams</b>
 
 [MU2GFxFamilyView]
 LS_FamilyVIewTitle=Equipo de Aventuras

@@ -11,7 +11,7 @@ Title_9000=Ventana de habilidad
 Title_10000=Aceleración de la Grieta
 Title_11000=Mapa del mundo
 Title_12000=Rift
-Title_13000=Dificultad de la mazmorra
+Title_13000=Dificultad de la Dungeon
 Title_14000=Ranking
 Title_15000=Gestionar mascotas
 Title_16000=Gestionar logros
@@ -20,8 +20,8 @@ Title_18000=Torre sin fin
 Title_19000=Desprecintar
 Title_20000=Sala del deber
 Title_21000=Mina de gemas mágicas
-Title_22000=Mazmorra Zen
-Title_23000=Mazmorra de objetos materiales
+Title_22000=Dungeon Zen
+Title_23000=Dungeon de objetos materiales
 Title_25000=Gestionar artefactos
 Title_26000=Artefacto obtenido
 Title_27000=Construcción
@@ -65,13 +65,13 @@ Contents_2000=Click izquierdo sobre <font color='#FDD889'>Linda</font> en la pan
 Contents_3000=Cuando aprendas una nueva habilidad, podrás equiparla y usarla en la ranura de habilidad de la parte inferior. <font color='#FDD889'>Haz clic con el botón izquierdo en la ranura de habilidad</font> para comprobar y cambiar las habilidades disponibles.
 Contents_4000=La <font color='#FDD889'>Gema mágica</font> es una moneda muy rara e importante. Sólo puedes obtenerlas de la <font color='#FDD889'>Mina de Gemas Mágicas en Ohrdor - Sala del Deber o la Grieta</font>.
 Contents_5000=Cada vez que tu nivel de Alma aumenta, obtienes un Punto de Alma. Puedes asignar tus Puntos de Alma a varias estadísticas en <font color='#FDD889'>Pecho de Alma (Z)</font>.
-Contents_6000=Usa Porystals para acceder a mazmorras muy especiales como la Biblioteca de Lupa y el Archivo Antiguo. Puedes usarlos directamente desde tu inventario haciendo <font color='#FDD889'>clic derecho</font> sobre ellos. Las mazmorras Porystal son más difíciles que las mazmorras normales. Entra en ellas en grupo.
+Contents_6000=Usa Porystals para acceder a Dungeons muy especiales como la Biblioteca de Lupa y el Archivo Antiguo. Puedes usarlos directamente desde tu inventario haciendo <font color='#FDD889'>clic derecho</font> sobre ellos. Las Dungeons Porystal son más difíciles que las Dungeons normales. Entra en ellas en grupo.
 Contents_7000=Abre tu inventario y <font color='#FDD889'>haz clic con el botón derecho del ratón</font> en una mascota para registrarla en la <font color='#FDD889'>Identificación de mascotas</font>.
 Contents_8000=Haz clic con el botón derecho en una Gema y, a continuación, haz clic en un objeto de Equipo con ranura para equipar la Gema. Puedes añadir ranuras a tu equipo a través del <font color='#FDD889'>Cortador de Gemas</font> de la ciudad.
 Contents_9000=Puedes comprobar la información de una variedad de habilidades y equipar crestas de habilidades. Puedes obtener <font color='#FDD889'>Habilidades de experto en los niveles 25, 45 y 65</font>.
 Contents_10000=Cuando el medidor de sobremarcha alcanza el nivel máximo, la Grieta entra en sobremarcha.<br>Cuando la Grieta entra en sobremarcha, <font color='#FDD889'>el recuento de entradas de la Grieta es ilimitado</font>.
 Contents_11000=El mapa del mundo admite <font color='#FDD889'>Movimiento automático</font>. <font color='#FDD889'>Click derecho</font> en el lugar al que quieras moverte.
-Contents_12000=La Grieta tiene <font color='#FDD889'>monstruos que coinciden con el nivel del jugador</font>. Esta mazmorra es especialmente <font color='#FDD889'>abundante en objetos y Gemas Mágicas</font>.
+Contents_12000=La Grieta tiene <font color='#FDD889'>monstruos que coinciden con el nivel del jugador</font>. Esta Dungeon es especialmente <font color='#FDD889'>abundante en objetos y Gemas Mágicas</font>.
 Contents_14000=Cada categoría de clasificación tiene una frecuencia de actualización y recompensas diferentes.<br>Puedes consultar la información de otros jugadores en la página de clasificación.
 Contents_15000=Las mascotas proporcionan estadísticas adicionales al personaje cuando crecen y evolucionan. Las mascotas que crecen requieren <font color='#FDD889'>mascotas materiales</font>.
 Contents_16000=Cuando consigas logros, obtendrás <font color='#FDD889'>Puntos de Logro, objetos y títulos</font>. Las recompensas de Grado de logros incluyen objetos raros.
@@ -117,7 +117,7 @@ Contents_64000=<font color='#FDD889'>¡Comienza tu aventura en Noria!</font><br>
 Contents_65000=<font color='#FDD889'>¡Se ha despertado un nuevo poder!</font><br>- Has adquirido una <font color='#FDD889'>nueva Ranura de Habilidad Experto</font>.<br>- ¡Puedes usar una <font color='#FDD889'>nueva Caja de Almas</font>!
 Contents_66000=<font color='#FDD889'>Se ha desbloqueado una nueva zona en Noria.</font><br>- ¡Tu aventura en Noria continúa!<br>- Ahora puedes hacer crecer tu personaje hasta el Nivel 80.
 Contents_67000=Esta es un área <font color='#FDD889'>PvP</font>!<br>- Puedes <font color='#FDD889'>atacar</font> a cualquier personaje excepto a los miembros de tu party. <br>- Puedes encontrar <font color='#FDD889'>los materiales para fabricar armas Únicas</font> a través de las misiones PvP.
-Contents_68000=¡Felicidades! <font color='#FDD889'>¡Has alcanzado el nivel 80!</font><br>- Puedes seguir haciendo crecer a tu personaje a través de los <font color='#FDD889'>Mapas de Misión</font>.<br>- ¡Pon a prueba tu temple en la <font color='#FDD889'>Mazmorra Épica y en dificultad Mítica</font>! <br>- Puedes realizar el renacimiento cuando alcances el <font color='#FDD889'>Nivel de alma 300</font>.<br>- Pulsa el botón <font color='#FDD889'>Detalles</font> para obtener más información.
+Contents_68000=¡Felicidades! <font color='#FDD889'>¡Has alcanzado el nivel 80!</font><br>- Puedes seguir haciendo crecer a tu personaje a través de los <font color='#FDD889'>Mapas de Misión</font>.<br>- ¡Pon a prueba tu temple en la <font color='#FDD889'>Dungeon Épica y en dificultad Mítica</font>! <br>- Puedes realizar el renacimiento cuando alcances el <font color='#FDD889'>Nivel de alma 300</font>.<br>- Pulsa el botón <font color='#FDD889'>Detalles</font> para obtener más información.
 
 [SuperGuide_31000]
 SuperGuideTitle=¡Información importante para tus aventuras!
@@ -177,7 +177,7 @@ Content_Image_3=SuperGuía_09
 SuperGuideTitle=¡Felicidades por alcanzar el nivel 65!
 Content_Title_1=Dificultad Mítica
 Content_SubTitle_1=Un eje del nivel de dificultad más alto
-Content_Text_1=- Acepta el reto del nivel Mítico, uno de los niveles de dificultad más altos del juego.<br>- La última mazmorra de cada continente tiene disponible la dificultad Mítica.<br>- Jugar mazmorras de dificultad Mítica alimenta el crecimiento de tu personaje. Una vez que domines la dificultad Mítica, podrás pasar a las mazmorras Épicas.
+Content_Text_1=- Acepta el reto del nivel Mítico, uno de los niveles de dificultad más altos del juego.<br>- La última Dungeon de cada continente tiene disponible la dificultad Mítica.<br>- Jugar Dungeons de dificultad Mítica alimenta el crecimiento de tu personaje. Una vez que domines la dificultad Mítica, podrás pasar a las Dungeons Épicas.
 Content_GuideLink_1=1019004
 Content_Image_1=SuperGuía_13
 Content_Title_2=Laberinto de Lupa
@@ -254,7 +254,7 @@ Content_GuideLink_1=1003002
 Content_Image_1=SuperGuía_04
 Content_Title_2=Retoño Creciente
 Content_SubTitle_2=Potente potenciador de crecimiento
-Content_Text_2=- ¡Has recibido el potenciador Brote Creciente!<br>- Ciertos mapas de misión y mazmorras te otorgarán recompensas extra. <br>- ¡Los miembros de tu grupo también recibirán recompensas extra!
+Content_Text_2=- ¡Has recibido el potenciador Brote Creciente!<br>- Ciertos mapas de misión y Dungeons te otorgarán recompensas extra. <br>- ¡Los miembros de tu grupo también recibirán recompensas extra!
 Content_GuideLink_2=1049002
 Content_Image_2=SuperGuía_27
 Content_Title_3=Entrenamiento progresivo de Linda
@@ -306,9 +306,9 @@ Content_SubTitle_1=Varios mapas de misiones
 Content_Text_1=- La Sala del Deber ofrece varios Mapas de Misión como la Torre Interminable y el Laberinto de Lupa. <br>- Puedes hacer crecer a tu personaje sin fin a través de los Mapas de Misión.
 Content_GuideLink_1=1023001
 Content_Image_1=SuperGuía_26
-Content_Title_2=Mazmorras Épicas y Míticas
+Content_Title_2=Dungeons Épicas y Míticas
 Content_SubTitle_2=Te esperan más aventuras
-Content_Text_2=- ¡Te esperan mazmorras de dificultad Épica y Mítica por todo el continente! <br>- ¡Derrota a los jefes y gana una gran variedad de recompensas!
+Content_Text_2=- ¡Te esperan Dungeons de dificultad Épica y Mítica por todo el continente! <br>- ¡Derrota a los jefes y gana una gran variedad de recompensas!
 Content_GuideLink_2=1020003
 Content_Image_2=SuperGuía_32
 Content_Title_3=Renacimiento

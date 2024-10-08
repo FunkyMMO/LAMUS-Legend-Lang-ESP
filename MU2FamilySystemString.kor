@@ -1,7 +1,7 @@
 [FamilyLevelBenefit]
 Benefit_WingGrowExp=Exp Crecimiento Ala +%s_1
 Beneficio_TalismanGrorExp=Exp de crecimiento de talismán +%s_1
-Beneficio_DungeonCnt=Entrada en mazmorra +%s_1
+Beneficio_DungeonCnt=Entrada en Dungeon +%s_1
 Beneficio_FreeReviveCount=Número de revivificaciones gratuitas +%s_1
 
 [FamilyMissionTitle]
