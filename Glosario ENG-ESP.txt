@@ -14,6 +14,9 @@ Blood Castle=Blood Castle
 Dungeon=Dungeon
 dungeon=dungeon
 Rift=Rift
+Fire Demon Cave=Fire Demon Cave
+Ice Demon Cave=Ice Demon Cave
+
 [SkillsName] (Debe mantener el nombre de la Skill y el mismo nombre en las descripciones)
 Twisting Slash=Twisting Slash
 Rageful Blow=Rageful Blow
