@@ -338,7 +338,7 @@ Battle=Combate
 PrefixGeneral=Público:
 PrefixWhisper=Susurra a %s_1:
 PrefixParty=Party:
-PrefixDebiase=Gremio:
+PrefixDebiase=Guild:
 PrefixShout=Global:
 PrefixBattle=Combate:
 PrefixSystem=Sistema:
@@ -397,10 +397,10 @@ CheckBoxString[21]=Ganancia de Búsqueda
 CheckBoxString[22]=Terminación de búsqueda
 CheckBoxString[23]=Alerta de inicio de sesión de amigo
 CheckBoxString[24]=Alerta de cierre de sesión de amigo
-CheckBoxString[25]=Alerta de inicio de sesión de miembro del gremio
-CheckBoxString[26]=Alerta de cierre de sesión de miembro del gremio
-CheckBoxString[27]=Alerta de inicio de sesión de miembro de la Party
-CheckBoxString[28]=Alerta de cierre de sesión de miembro de la Party
+CheckBoxString[25]=Alerta de inicio de sesión de miembro guild
+CheckBoxString[26]=Alerta de cierre de sesión de miembro guild
+CheckBoxString[27]=Alerta de inicio de sesión de miembro Party
+CheckBoxString[28]=Alerta de cierre de sesión de miembro Party
 CheckBoxString[29]=Mensaje GM
 CheckBoxString[30]=Mensaje de notificación
 ChatTextColor_0=FFFFFF
@@ -445,7 +445,7 @@ CancelString=Cancelar
 LS_Tab_Buy=Comprar
 LS_Tab_SellAll=Vender
 LS_Tab_Rebuy=Volver a comprar
-LS_Tab_Knights=Miembro del gremio
+LS_Tab_Knights=Miembro del guild
 LS_Tab_Follower=Seguidor
 LS_Title_Normal=Tienda
 LS_Title_BlackMarket=Mercado negro
@@ -478,7 +478,7 @@ LS_ToolTipText_62901=<b><font color='#FDC243'>Sello de poder</font></b><br>Se pu
 LS_ToolTipText_55011=<b><font color='#FDC243'>Precioso producto refinado</font></b><br>Puede obtenerse en la Refinería de objetos.
 
 [MU2GFxNpcShopKnightsPoint]
-LS_Knightage=Miembro del Gremio
+LS_Knightage=Miembro del guild
 LS_Follower=Seguidor
 LS_Buy=Comprar
 LS_ReBuy=Volver a comprar
@@ -491,9 +491,9 @@ LS_RepairStop=Parar reparación de artículo
 LS_RepairAll=Reparar equipado
 LS_BuyCount=Compras disponibles
 LS_NoLimit=Ilimitado
-LS_KnightageUse=<font color='#ff0000'>Ocupar gremio</font>
+LS_KnightageUse=<font color='#ff0000'>Ocupar guild</font>
 LS_KnightageFollowerUse=<font color='#ff0000'>Seguidor</font>
-LS_ToolTipText=<b><font color='#FDC243'>Consejo sobre la Tienda de Contribución</font></b><br>- Puedes comprar con los Puntos de Contribución que has ganado a través de las actividades del gremio y del juego en general.<br>- Cuanto mayor sea el grado de tu territorio capital, mejores objetos encontrarás en la tienda.<br>- Cuanto mayor sea el nivel de tu territorio vecino, mayor será tu tasa de descuento (hasta un 20%).
+LS_ToolTipText=<b><font color='#FDC243'>Consejo sobre la Tienda de Contribución</font></b><br>- Puedes comprar con los Puntos de Contribución que has ganado a través de las actividades del guild y del juego en general.<br>- Cuanto mayor sea el grado de tu territorio, mejores objetos encontrarás en la tienda.<br>- Cuanto mayor sea el nivel de tu territorio vecino, mayor será tu tasa de descuento (hasta un 20%).
 LS_LimitedBuy=(El recuento de compras se reinicia en %s_1 d)
 
 [MU2GFxNpcShopBlackMarket]
@@ -1325,7 +1325,7 @@ LS_HelpText=No puedes equipar más de una cresta de habilidad del mismo nombre a
 tfActiveSkill=Habilidad de Clase
 tfSpecialSkill=Habilidad de Experto
 tfMasterWeaponSkill=Habilidad de Arma
-tfItemShorcut=Artículo
+tfItemShorcut=Item
 tfExp=EXP
 tfSoulExp=Exp del alma
 LS_MaxLevelText=Nivel máximo alcanzado.
@@ -1341,7 +1341,7 @@ LS_InputDefault=Introducir texto.
 LS_MyImputedRedZen=Mi Redzen
 LS_MyRedZen=Mi Redzen
 LS_MYFreeMopup=Mis fichas de subyugación gratuitas
-LS_KnightageTrophy=Trofes de tu gremio
+LS_KnightageTrophy=Trofeos de tu guild
 LS_BtnOK_N=Confirmar
 
 [MU2GFxTransactionQuantity]
@@ -1448,7 +1448,7 @@ LS_BasicInfo=General
 LS_AdditionalInfo=Adicional
 LS_HeroTitleLabel=Título: %s_1
 LS_NoneHeroTitle=Sin título
-LS_NoneGuild=Sin gremio unido
+LS_NoneGuild=Sin guild
 LS_GloryGrade=Puntos de honor
 LS_CombatPower=Poder de combate
 LS_CombarPowerRanking=(Rango PC %s_1)
@@ -1726,7 +1726,7 @@ LS_MissionmapState_Ready=Esperando para entrar
 LS_MissionmapState_Requestable=Ahora aceptando peticiones
 LS_MissionmapState_Requested=Solicitando...
 LS_MissionmapState_NotEnoughLevel=Nivel Insuficiente
-LS_MissionmapState_EnterPenalty=Penalización de entrada en vigor
+LS_MissionmapState_EnterPenalty=Penalización de entrada activa
 LS_MissionmapState_NotUsable=No disponible
 LS_MissionmapButton_RequestSolo=Solicitud individual
 LS_MissionmapButton_RequestParty=Solicitud de party
@@ -1735,29 +1735,29 @@ LS_ReqLevelMessage=Requiere nivel %s_1 o superior.
 LS_Dungeon_MissionMap=Mapa de misiones
 LS_Dungeon_General=Dungeon normal
 LS_Dungeon_Epic=Dungeon épica
-LS_Dungeon_Adv=Falla
-LS_AltarOfElements_Title=AltarOfElements
+LS_Dungeon_Adv=Rift
+LS_AltarOfElements_Title=Altar Of Elements
 LS_AltarOfElements_Desc0=Consigue 3.000 puntos dentro del tiempo límite.
 LS_AltarOfElements_Desc1=Recompensas por ganar: objetos y puntos de honor.
 LS_AltarOfElements_Desc2=Los altares con antiguos espíritus sellados en su interior pueden encontrarse por todo el continente de MU. Estas zonas están siempre abarrotadas de aquellos que codician los inmensos poderes mágicos de los espíritus.
 LS_AltarOfElements_Desc3=Equipos de 5-10 jugadores
 LS_AltarOfElements_Desc4=Nivel 65
 LS_AltarOfElements_Desc5=Durante los primeros 25 minutos de cada hora
-LS_ChaosCastle_Title=ChaosCastle
+LS_ChaosCastle_Title=Chaos Castle
 LS_ChaosCastle_Desc0=Último jugador en pie
 LS_ChaosCastle_Desc1=Recompensas por ganar: objetos y Puntos de Honor
 LS_ChaosCastle_Desc2=Esta temible fortaleza está plagada de caballeros terrenales que han sido resucitados por el Ejército del Pandemónium. Mantente con vida tanto como puedas para frustrar los planes de Pandemonium.
 LS_ChaosCastle_Desc3=100 jugadores
 LS_ChaosCastle_Desc4=Nivel 65
 LS_ChaosCastle_Desc5=Durante los primeros 50 minutos de cada hora
-LS_BloodCastle_Title=BloodCastle
+LS_BloodCastle_Title=Blood Castle
 LS_BloodCastle_Desc0=Elimina a todos los enemigos.
 LS_BloodCastle_Desc1=Recompensas: grandes cantidades de EXP y EXP de Alma
-LS_BloodCastle_Desc2=Muchos valientes caballeros han entrado en el Castillo de Sangre pero hasta ahora ninguno ha vuelto con vida.
+LS_BloodCastle_Desc2=Muchos valientes caballeros han entrado en el Blood Castle pero hasta ahora ninguno ha vuelto con vida.
 LS_BloodCastle_Desc3=Hasta 5 jugadores
 LS_BloodCastle_Desc4=Level 33-39
 LS_BloodCastle_Desc5=Cada hora
-LS_InfiniteCastle_Title=InfiniteCastle
+LS_InfiniteCastle_Title=Infinite Castle
 LS_InfiniteCastle_Desc0=Escala tan alto como puedas
 LS_InfiniteCastle_Desc1=Recompensas: Alas, materiales de Encantamiento y Evolución
 LS_InfiniteCastle_Desc2=Enfréntate a los poderes de Rugard y Bulcan en esta sala de pruebas. Cuenta la leyenda que los que llegan al final pueden conocer a Dios.
@@ -1895,20 +1895,20 @@ Zen=Requiere Zen
 Barracks=Barracas
 Buff=Laboratorio Buff
 defencetower=Laboratorio de la Torre de Defensa
-guildadvportal=Falla del Gremio
+guildadvportal=Rift del guild
 KnightAgeCreate=Registrar Guild
 KnightAgeEmblem=Gestionar emblemas
-KnightAgeStorage=Baúl del Gremio
-KnightAgeContribute=Evaluación de Contribución del Gremio
-KnightAgeSearch=Búsqueda de Gremio
+KnightAgeStorage=Baúl del guild
+KnightAgeContribute=Evaluación de Contribución del guild
+KnightAgeSearch=Búsqueda de guild
 EnchantTransfer=Transferencia de encantamiento
 EvolutionWing=Evolucionar alas
 Alchemy=Alquimista
 WeaponFusion=Fusionar equipo
-RaidDeparture=Salida de unidad de ataque
-RaidEstablishment=Crear unidad de ataque
+RaidDeparture=Salida de incursión
+RaidEstablishment=Crear incursión
 IceFestivalEvent=Evento Festival de Hielo
-EventShop=Tienda del evento
+EventShop=Tienda de evento
 PuzzleEvent=Evento de puzzle
 ItemRefine=Refinería de objetos
 ExtractEmotion=Extraer Éter
@@ -2488,7 +2488,7 @@ AltMode=Permite comprobar los nombres de los objetos que caen y ajustar otras op
 AdvDungeonDesc=Dungeons de cultivo de objetos. Requiere Stamina.
 NorDungeonDesc=Dungeons que cuentan historias importantes sobre el Continente Mu.
 EpicDungeonDesc=Las Dungeons más duras. Generan objetos legendarios.
-GuidDungeonDesc=Una Rift que puede ser personalizada para adaptarse a las necesidades de tu Gremio. Es más difícil que una Falla normal.
+GuidDungeonDesc=Una Rift que puede ser personalizada para adaptarse a las necesidades de tu guild. Es más difícil que una Falla normal.
 BossDungeonDesc=Dungeons relacionadas con misiones.
 QuestDungeonDesc=Dungeons relacionadas con misiones.
 EndlessTowerDesc=Torre que se eleva infinitamente hacia el cielo. La leyenda dice que aquellos que alcancen la cima de esta torre se enfrentarán a los poderes de Rugard y Bulcan.
@@ -2512,7 +2512,7 @@ InvenEnchantBtn=<font size='16' color='#f4cea4'>Encantar objeto</font><br>Puedes
 Zen=<font color='#fce7b0'>Zen</font><br>La moneda por defecto de MU Continent.<br>Puedes ganarla a través de diferentes actividades como cazar monstruos y recompensas de misiones.
 GreenZen=<font color='#c7ff88'>Gemas Mágicas</font><br>Una valiosa moneda del Continente MU que se ata a sus dueños.
 RiftPoint=<font color='#88d6ff'>Fragmento de Rift</font><br>Una moneda encontrada en la Rift.<br>Puede ser usada a través de los Comerciantes de Fragmentos de Rift.
-KnightsPoint=<font color='#ddafff'>Puntos de Contribución de Gremio</font><br>Puntos que puedes ganar mientras progresas en el juego. Los Puntos de Contribución se pueden utilizar en la Tienda de Contribución del territorio.
+KnightsPoint=<font color='#ddafff'>Puntos de Contribución de guild</font><br>Puntos que puedes ganar mientras progresas en el juego. Los Puntos de Contribución se pueden utilizar en la Tienda de Contribución del territorio.
 RedZen=<font color='#fbaf5d'>Redzen</font><br>Una moneda preciosa que se puede comprar con WCoin.
 RedZen2=<font color='#fbaf5d'>Redzen</font><br>Una moneda preciosa que se puede comprar con Daum Cash.
 LS_EmotionPoint=<font color='#bbbbbb'>Energía de Éter</font><br>Energía inestable extraída de Soulstones e ingredientes mágicos. Explota al entrar en contacto con Sealstones, materializándose.
@@ -2525,7 +2525,7 @@ SellPriceTooltip=Seleccione su moneda de venta.
 RegPriceToolTip=Seleccione Zen, y un <font color='#fce711'>3%</font> de su pago será cargado como tasa de registro.<br>Puede seleccionar Redzen para evitar la tasa de registro.
 RegCountDesc=Productos vendidos para Redzen.
 RegRedZenToolTip=Productos vendidos para Redzen.
-KnightsTrophy=<font color='#fbaf5d'>Trofeo del Gremio</font><br>Moneda del Gremio utilizada para el Torneo.
+KnightsTrophy=<font color='#fbaf5d'>Trofeo del guild</font><br>Moneda del guild utilizada para el Torneo.
 LS_SendBtnTip=Enviar
 LS_WishBtnTip=Deseo,Puedes pedir un deseo consumiendo el objeto «<font color=“#00ccff”>talismán Dados de la suerte</font>», que puede aumentar la probabilidad de obtener el amuleto correspondiente en un 5% (<font color='#00ff66'>24:00 gratis cada día</font>).
 PlayerParts_0=Casco
@@ -2568,7 +2568,7 @@ LS_QuestRewardExp=<font color='#FFD461'>EXP</font>
 LS_QuestRewardSoulExp=<font color='#67FFF2'>Exp del alma</font>
 LS_QuestRewardZen=<font color='#FCE7B0'>Zen</font><br>La moneda por defecto de MU Continent.<br>Puedes ganarla a través de diferentes actividades como cazar monstruos y recompensas de misiones.
 LS_QuestRewardGreenZen=<font color='#c7ff88'>Gema Mágica</font><br>Una valiosa moneda del Continente MU que tiene propiedades vinculantes.
-LS_QuestRewardContribution=<font color='#ddafff'>Puntos de Contribución de Gremio</font><br>Puntos que puedes ganar mientras progresas en el juego. Se pueden usar en la Tienda de Contribución.
+LS_QuestRewardContribution=<font color='#ddafff'>Puntos de Contribución de guild</font><br>Puntos que puedes ganar mientras progresas en el juego. Se pueden usar en la Tienda de Contribución.
 LS_RegisterEnchantItem=Puedes encantar objetos para mejorar su rendimiento. Cuanto mayores sean los niveles de encantamiento, mayores serán sus posibilidades de fallar con el siguiente encantamiento y ser destruidos.
 LS_RegisterFixedEnchantItem=Puede ser usado en objetos cuyo nivel de Encantamiento es inferior al del Ticket de Encantamiento.
 LS_RegisterEnchantTransferItem=Los objetos objetivo de la transferencia de encantamiento no se destruyen aunque falle la transferencia. Los objetos consumibles, materiales y Zen se consumen independientemente de los resultados.
@@ -2905,7 +2905,7 @@ MapIcon_2027=Investigador Senior
 MapIcon_2028=Investigador de artefactos
 MapIcon_2030=Ayudante de eventos
 MapIcon_2031=Gestor de eventos
-MapIcon_2032=Registro de la Alianza de Gremios
+MapIcon_2032=Registro de la Alianza de guilds
 MapIcon_2033=Bardo
 MapIcon_2034=Instructor de Tácticas
 MapIcon_2035=Gestor de Insignias
@@ -2936,10 +2936,10 @@ MapIcon_2059=Noria comerciante de monedas
 MapIcon_2060=Vendedor de monedas de Lorencia
 MapIcon_2061=Parada de descanso
 MapIcon_2063=Guild Mount Comerciante
-MapIcon_2064=Administrador de Rifts del Gremio
-MapIcon_2065=Gestor de Cuarteles del Gremio
-MapIcon_2066=Investigador mágico del gremio
-MapIcon_2067=Gestor de la torre de la defensa del gremio
+MapIcon_2064=Administrador de Rifts del guild
+MapIcon_2065=Gestor de Cuarteles del guild
+MapIcon_2066=Investigador mágico del guild
+MapIcon_2067=Gestor de la torre de la defensa del guild
 MapIcon_2068=Torre de Defensa
 MapIcon_2069=Alianza Heinrich
 MapIcon_2070=Alianza Lineal
@@ -2949,8 +2949,8 @@ MapIcon_2073=Comerciante de gemas mágicas
 MapIcon_2074=Comerciante de Skill Crest
 MapIcon_2075=Golem del Portal: Trenta
 MapIcon_2076=Comerciante Alquimista
-MapIcon_2077=Administrador del Gremio
-MapIcon_2078=Gestor de Baúl del Gremio
+MapIcon_2077=Administrador del guild
+MapIcon_2078=Gestor de Baúl del guild
 MapIcon_2079=Contribución Comerciante
 MapIcon_2081=Comerciante de misiones diarias
 MapIcon_2082=Creación de Unidad de Ataque de Torneo
@@ -2993,7 +2993,7 @@ MapIcon_3009=Area Estación de Viaje
 MapIcon_3010=Objeto recogido
 MapIcon_3011=Portal de salida
 MapIcon_3012=Portal de la Dungeon Épica
-MapIcon_3013=Falla del Gremio
+MapIcon_3013=Falla del guild
 MapIcon_2100=Jefe
 MapIcon_2101=Autodestrucción
 MapIcon_2102=1er Wardstone
@@ -3125,7 +3125,7 @@ LS_AlhardTooltip=Aún no puede moverse allí.
 LS_WorldMapTitle=MU Continente
 LS_PortalMoveCostName=Coste de viaje
 LS_WorldMap=Mapa del Mundo
-LS_GuildMap=Mapa del gremio
+LS_GuildMap=Mapa del guild
 LS_MapDegreeMinus=Mínimo
 LS_MapDegreePlus=Máximo
 LS_MapDegreeDesc=: Acercar/Alejar
@@ -3207,7 +3207,7 @@ LS_RequestTransactionString=Trade
 LS_SendWhisperString=Susurrar
 LS_MyAccountLevelBuff=Efectos de nivel de cuenta
 LS_AccountLevelNoBuff=Sin efectos de nivel de cuenta.
-LS_NoKnights=Sin gremio unido
+LS_NoKnights=Sin guild
 LS_HerausKnights=Coalición Heraus
 LS_LineKnights=Alianza de la Línea
 LS_Level=Nivel
@@ -3224,7 +3224,7 @@ LS_UseSpecialSkill=Efectos pasivos actuales
 LS_CombatPower=Poder de combate
 LS_HeroTitleLabel=Título: %s_1
 LS_NoneHeroTitle=Sin título
-LS_NoneGuild=No estás en un gremio
+LS_NoneGuild=No estás en un guild
 LS_AchieveGradeText=Grado de logros %s_1
 LS_AchieveGradeText_None=Sin nivel de logro
 LS_Online=En línea
@@ -3244,7 +3244,7 @@ LS_DefensePower=Disminuye el Ataque en %s_1 para personajes del mismo nivel que 
 LS_CombatPower=Poder de Combate
 LS_HeroTitleLabel=Titulo: %s_1
 LS_NoneHeroTitle=Sin título
-LS_NoneGuild=No pertenece a ningún gremio
+LS_NoneGuild=No pertenece a ningún guild
 LS_AchieveGradeText=Grado de logros %s_1
 LS_AchieveGradeText_None=Sin nivel de logro
 LS_Online=En línea
@@ -4353,7 +4353,7 @@ lsTitle=Reclutando Jugadores
 lsDifficulty=Dificultad
 
 [MU2GfxSelectKnightAge]
-lsKnightUITitle=Unirse al gremio
+lsKnightUITitle=Unirse al guild
 lsClose=Cerrar
 lsJoin=Unirse
 lsUIDesc=Selecciona una Guild a la que unirte.
@@ -4362,14 +4362,14 @@ lsLine=Línea Alianza
 
 [MU2GFxGuildMapView]
 LS_WorldMap=Mapa del Mundo
-LS_GuildMap=Mapa del Gremio
+LS_GuildMap=Mapa del guild
 LS_BelongToHeraeus=En la Coalición Heraus
 LS_BelongToLine=En la Alianza de la Línea
 LS_Heraeus=Coalición Heraus
 LS_Line=Alianza de la Línea
 LS_BelongTo=(un miembro)
-LS_GuildCount=Gremios
-LS_GuildMemberCount=Miembros del gremio
+LS_GuildCount=guilds
+LS_GuildMemberCount=Miembros del guild
 LS_Attacked=Defendiendo
 LS_NpcStateTitle=-Estado del PNJ -
 LS_Npc1=Gerente de cuartel
@@ -4378,7 +4378,7 @@ LS_Npc3=Gerente de Torre de Defensa
 LS_Npc4=Artesano
 LS_Npc5=Investigador mágico
 LS_Npc6=Monte Mercader
-LS_KnightsPointTitle=-Puntos de Gremio -
+LS_KnightsPointTitle=-Puntos de guild -
 LS_CurrentKnightsPointTitle=(Puntos actuales: %s_1)
 LS_KnightsPointDesc=Protege a los PNJs aliados y elimina a los PNJs enemigos para ganar puntos. Cuantos más puntos tengas, más poderoso será tu buff.
 LS_BuffListTitle=-Lista de buff -
@@ -4682,7 +4682,7 @@ LS_StageLastGameInfo=Es la última fase de la Torre Interminable.¶¡Elimina a A
 LS_StageComplete=¡Conquistada!
 LS_GameInfoTitle=¡Sube a las alturas de los dioses!
 LS_RewardReceive=Reclamar recompensa
-LS_RewardExit=Reclamar recompensa y salir
+LS_RewardExit=Reclamar y salir
 LS_StageFloor=Etapa %s_1
 LS_LastStage=Última etapa
 LS_RewardTitle=Información clara
@@ -4724,7 +4724,7 @@ LS_MonsterWave_Text[2]=Nuevos enemigos están llegando.
 
 [MU2GFxBloodCastleReward]
 LS_LimitTime=(Límite de tiempo: 10:00)
-LS_GetRewardAndExit=Reclamar Recompensa y Salir
+LS_GetRewardAndExit=Reclamar y Salir
 LS_GetReward=Reclamar recompensa
 LS_ClearTime=Hora de finalización
 LS_TotalScorePoint=Puntos totales
@@ -5152,7 +5152,7 @@ LS_AdventureJournal=Misiones
 LS_AchievementView=Logros
 LS_MissionMap=Mapa de misiones
 LS_WorldMap=Mapa del mundo
-LS_GuildMap=Mapa del gremio
+LS_GuildMap=Mapa del guild
 LS_Community=Comunidad
 LS_RankSystem=Clasificación
 LS_ExitMenu=Menú del juego
@@ -5563,8 +5563,8 @@ LS_MyWinCnt=Ganadas: %s_1
 LS_MyAvaKillCnt=Promedio de muertes: %s_1
 
 [MU2GFxAchievementView]
-LS_AchievementViewTitle=Logro
-LS_Achievement=Logro %s_1
+LS_AchievementViewTitle=Logros
+LS_Achievement=Logros %s_1
 LS_Achievement_Grade=Grado de logros %s_1
 LS_Achievement_Grade_None=Ningún grado de logros
 LS_Achievement_Point_Text=Puntos
@@ -5754,47 +5754,47 @@ LS_TierLeagueName[4]=Liga Heroica
 LS_TierLeagueName[5]=Liga de Leyendas
 
 [MU2GFxKnightAgeCreate]
-LS_CreateTitle=Registrar gremio
+LS_CreateTitle=Registrar guild
 LS_CreateDesc=Para registrar tu Guild, primero debes introducir su nombre y pagar la cuota de registro.
-LS_KnightName=Nombre del gremio
-LS_RegistCost=Cuota de registro del gremio
+LS_KnightName=Nombre del guild
+LS_RegistCost=Cuota de registro del guild
 LS_NameOverlap=Comprobar disponibilidad
-LS_Regist=Registrar gremio
-LS_EnableName=El nombre del gremio está disponible para su uso.
+LS_Regist=Registrar guild
+LS_EnableName=El nombre del guild está disponible para su uso.
 LS_DefaultInput=2 - 16 caracteres. No se permiten caracteres especiales.
-LS_KnightOpenErrMsg=Sólo los personajes que no están en Gremios pueden crear un Gremio.
-LS_KnightOpenDefaultMsg=Introduzca el nombre del Gremio a registrar. (2-16 caracteres. No se permiten caracteres especiales).
-LS_KnightRegistCostMsg=No hay suficiente Zen para registrar un Gremio
+LS_KnightOpenErrMsg=Sólo los personajes que no están en guilds pueden crear un guild.
+LS_KnightOpenDefaultMsg=Introduzca el nombre del guild a registrar. (2-16 caracteres. No se permiten caracteres especiales).
+LS_KnightRegistCostMsg=No hay suficiente Zen para registrar un guild
 LS_KnightRegistOverlap=Este nombre de Guild ya está registrado.
 
 [MU2GFxKnightAgeInfo]
-LS_KnightAgeTitle=Gremio
-LS_KnightAgeCaptain=Maestro del Gremio
-LS_KnightAgePower=Poder de Combate del Gremio
-LS_KnightAgeState=Estado del gremio
-LS_KnightAgeLevel=Nivel de gremio
+LS_KnightAgeTitle=Guild
+LS_KnightAgeCaptain=Guild Master
+LS_KnightAgePower=Poder de Combate del Guild
+LS_KnightAgeState=Estado del guild
+LS_KnightAgeLevel=Nivel de guild
 LS_KnightAgeWaitState=Solicitudes pendientes
 LS_KnightAgeBanishHelp=Ayuda sobre la política de prohibiciones y retiradas
 LS_TabInfo=Información
 LS_TabMember=Miembros
 LS_TabContribute=Contribución
-LS_TabAltar=Santuario
+LS_TabAltar=Altar
 LS_TabGrowth=Crecimiento
 LS_TabFunction=Configuración
-LS_KnightAgeDisable=El gremio está inactivo.
+LS_KnightAgeDisable=El guild está inactivo.
 LS_KnightAgeCostTooltip=Fondos para hacer funcionar tu Guild.<br>Se pueden obtener con Zen, que puedes encontrar de monstruos, o a través de ciertos objetos.
-LS_KnightAgeAltarTooltip=Beneficios por expandir el Santuario del Gremio, aplicados a todos los miembros.<br>Estos beneficios no seran aplicados si tu gremio está inactivo.
-LS_KnightAgeInfoTooltip=<font color='#FDC243'>Nombre del Líder del Gremio</font><br>- El nombre del líder de tu Gremio.<br><font color='#FDC243'>Poder de Combate Total de los Miembros del Gremio</font><br>- Poderes de Combate combinados de todos los miembros del Gremio. <br><font color='#FDC243'>Estado del Gremio</font><br>- Miembros del Gremio en línea: %s_1<br>- Miembros totales del Gremio: %s_2<br>- Miembros máximos del Gremio: %s_3<br><font color='#FDC243'>Nivel del Gremio</font><br>- El nivel de crecimiento de tu Gremio.<br>- Puedes hacer crecer tu Gremio cazando monstruos y ganando EXP.
-LS_KnightAgeIconTooltip=Fondos del gremio usados para el funcionamiento de tu gremio.
-LS_KnightAgeAltaExTooltip=Aumenta el santuario de tu gremio.<br>Sólo los miembros que tienen permisos para el santuario pueden mejorarlo.<br>Puedes usar este menú para conseguir un nuevo santuario o mejorar el existente.
+LS_KnightAgeAltarTooltip=Beneficios por expandir el Altar del guild, aplicados a todos los miembros.<br>Estos beneficios no seran aplicados si tu guild está inactivo.
+LS_KnightAgeInfoTooltip=<font color='#FDC243'>Nombre del Líder del guild</font><br>- El nombre del líder de tu guild.<br><font color='#FDC243'>Poder de Combate Total de los Miembros del guild</font><br>- Poderes de Combate combinados de todos los miembros del guild. <br><font color='#FDC243'>Estado del guild</font><br>- Miembros del guild en línea: %s_1<br>- Miembros totales del guild: %s_2<br>- Miembros máximos del guild: %s_3<br><font color='#FDC243'>Nivel del guild</font><br>- El nivel de crecimiento de tu guild.<br>- Puedes hacer crecer tu guild cazando monstruos y ganando EXP.
+LS_KnightAgeIconTooltip=Fondos del guild usados para el funcionamiento de tu guild.
+LS_KnightAgeAltaExTooltip=Aumenta el Altar de tu guild.<br>Sólo los miembros que tienen permisos para el Altar pueden mejorarlo.<br>Puedes usar este menú para conseguir un nuevo Altar o mejorar el existente.
 LS_TrophyTooltip=Fondos del clan utilizados para organizar el Torneo.
 LS_TrophyHelpTooltip=Obtienes Puntos de Contribución en relacion al número de Trofeos que hayas donado.
-LS_DominionHelpTooltip=Puedes comprobar la información del territorio que has conquistado.<br>También puedes comprobar la información de la aeronave de tu gremio.
+LS_DominionHelpTooltip=Puedes comprobar la información del territorio que has conquistado.<br>También puedes comprobar la información de la aeronave de tu guild.
 LS_ContributeHelpTooltip=Consulte los Puntos de Contribución que recibió la semana pasada.
-LS_BanishHelp=<font color='#FDC243'>Política del gremio</font><br>Los nuevos miembros del gremio tienen la posición de Aprendiz y no pueden ser ascendidos.<br>Los miembros aprendices no pueden unirse a los equipos de asalto de la Guerra de facciones.
-LS_KnightAgeNotice=Notificación del gremio
-LS_KnightAgeAltar=Beneficios del Santuario
-LS_KnightageTrophy=Trofeo del gremio
+LS_BanishHelp=<font color='#FDC243'>Política del guild</font><br>Los nuevos miembros del guild tienen el grado de Aprendiz y no pueden ser ascendidos.<br>Los miembros aprendices no pueden unirse a los equipos de asalto de la Guerra de facciones.
+LS_KnightAgeNotice=Notificación del guild
+LS_KnightAgeAltar=Beneficios del Altar
+LS_KnightageTrophy=Trofeo del guild
 LS_KnightAgeLevelMax=¡Has alcanzado el nivel más alto!
 LS_KnightAgeDominionInfo=Información sobre el territorio
 LS_BtnDonation=Donar trofeos
@@ -5807,9 +5807,9 @@ LS_ShowJoinWaitUser=Mostrar solicitudes pendientes
 LS_CharName=Nombre
 LS_Level=Nivel
 LS_Class=Clase
-LS_ViewTypeGrade=Posición
+LS_ViewTypeGrade=Grado
 LS_LatelyConnect=Última conexión
-LS_ViewTypeEvalution=Puntos de contribución del día anterior
+LS_ViewTypeEvalution=Puntos de contribución
 LS_WaitUserState=%s_1/%s_2
 LS_DetailUserInfo=Ver detalles
 LS_JoinAccept=Aceptar solicitud
@@ -5818,32 +5818,32 @@ LS_PositionUp=Promover
 LS_PositionDown=Desplazar
 LS_Banish=Expulsar
 LS_JoinDeny=Rechazar solicitud
-LS_Invite=Invitar al gremio
+LS_Invite=Invitar al guild
 LS_SortTypeLevel=Nivel
 LS_SortTypeClass=Clase
-LS_AltarBenefit=Beneficios del santuario
-LS_AltarExpansion=Ampliar Santuario
-LS_AltarFunds=Fondos del santuario
+LS_AltarBenefit=Beneficios del Altar
+LS_AltarExpansion=Ampliar Altar
+LS_AltarFunds=Fondos del Altar
 LS_ContributeRank=Rango
 LS_ContributePoint=Puntos de contribución concedidos
 LS_MyLastContributePoint=Mi contribución de la última semana:
 LS_RankContributePoint=Rango de contribución de la última semana
 LS_ContributeUserInfo=Ver detalles
-LS_BuildAltar=%s_1 ha sido construido en tu gremio.
-LS_BuildAltarDesc=Información del Santuario Tecla de acceso rápido: G
-LS_GrowthTip=Cumple el requisito de nivel de gremio y se activarán los siguientes efectos.
-LS_KnightAgeManage=Gestionar Gremio
-LS_KnightAgeSearch=Buscar gremio
+LS_BuildAltar=%s_1 ha sido construido en tu guild.
+LS_BuildAltarDesc=Información del Altar Tecla de acceso rápido: G
+LS_GrowthTip=Cumple el requisito de nivel de guild y se activarán los siguientes efectos.
+LS_KnightAgeManage=Gestionar guild
+LS_KnightAgeSearch=Buscar guild
 LS_KnightAgeType=Tipo de Guild
 LS_KnightAgeJoinType=Membresía de Guild
-LS_KnightAgeAuth=Permisos de gremio
-LS_KnightAgeGradeName=Nombre del cargo
+LS_KnightAgeAuth=Permisos de guild
+LS_KnightAgeGradeName=Nombre del grado
 LS_ManageGrade=Gerente
-LS_AltarGrade=Santuario
+LS_AltarGrade=Altar
 LS_StorageGrade=Almacén
 LS_JoinGrade=Admitir
 LS_BanishGrade=Expulsar
-LS_Raid=Unidad de ataque
+LS_Raid=Incursión
 LS_EnableSearch=Buscable
 LS_DisableSearch=No se puede buscar
 LS_OptionInit=Reiniciar
@@ -5860,7 +5860,7 @@ LS_Enable=Activos (%s_1/%s_2)
 LS_Disable=Desactivar (%s_1/%s_2)
 LS_LevelString=Nivel %s_1
 LS_Exp=%s_1 / %s_2 (%s_3 %)
-LS_CostDesc=Cuando te quedas sin fondos del Gremio, éste se desactiva y sólo tendrás acceso limitado a sus funciones.
+LS_CostDesc=Cuando te quedas sin fondos del guild, éste se desactiva y sólo tendrás acceso limitado a sus funciones.
 LS_GradeMaster=Líder
 LS_GradeSubMaster=Diputado
 LS_GradeElite=Caballero de élite
@@ -5868,10 +5868,10 @@ LS_GradeKnight=Caballero
 LS_GradeSoldier=Soldado
 LS_GradeNewMember=Aprendiz
 LS_GradeWaitMember=Miembro pendiente
-LS_Secession=Salir del gremio
-LS_SecessionTip=Los Maestros de Gremio pueden disolver sus ligas cuando no queden miembros.
+LS_Secession=Salir del guild
+LS_SecessionTip=Los Guild Masters pueden disolverlo cuando no queden miembros.
 LS_Dissolve=Disolver Guild
-LS_DissolveTip=Los gremios pueden disolverse cuando no quedan miembros en ellos.
+LS_DissolveTip=Los guilds pueden disolverse cuando no quedan miembros en ellos.
 LS_AltarItemCnt=%s_1/%s_2
 LS_AltarUpgrade=Construir
 LS_AltarMaxLevel=¡Alcanzado el nivel máximo!
@@ -5882,20 +5882,20 @@ LS_Hour=Hace%s_1 hora(s)
 LS_Day=%s_1 día(s) atrás
 LS_Week=%s_1 semana(s) atrás
 LS_Month=Hace al menos 1 mes
-LS_NoneAltarTitle=Sin beneficios para el Santuario.
-LS_NoneAltarDesc=Usa Expandir Santuario para conseguir un nuevo santuario o mejorar el existente.
+LS_NoneAltarTitle=Sin beneficios para el Altar.
+LS_NoneAltarDesc=Usa Expandir Altar para conseguir un nuevo altar o mejorar el existente.
 LS_KnightAgeChangeGrade=La posición de %s_1 ha cambiado a %s_2.
 
 [MU2GFxKnightAgeSearch]
-LS_KnightSearchTitle=Búsqueda de Gremios
-LS_KnightSearchEnable=Lista de gremios disponibles
-LS_KnightSearchRequest=Lista de gremios Aplicada
-LS_KnightList=Lista de gremios
-LS_RequestList=Solicitud de gremio
+LS_KnightSearchTitle=Búsqueda de guilds
+LS_KnightSearchEnable=Lista de guilds disponibles
+LS_KnightSearchRequest=Lista de guilds Aplicada
+LS_KnightList=Lista de guilds
+LS_RequestList=Solicitud de guild
 LS_Refresh=Refrescar
 LS_DetailInfo=Detalles
 LS_JoinRequest=Postularme
-LS_RequestCancel=Cancelar afiliación
+LS_RequestCancel=Cancelar postulación
 LS_Search=Buscar
 LS_Friendly=Social
 LS_MonsterHunt=Caza de monstruos
@@ -5905,18 +5905,18 @@ LS_TotalType=Todos
 LS_JoinRequestEnable=Reclutando
 LS_AutoJoinEnable=Acepta inmediatamente
 LS_JoinRequestDisable=No esta reclutando
-LS_NothingSearchList=No hay ningun gremio al que pueda unirse
+LS_NothingSearchList=No hay ningun guild al que pueda unirse
 LS_NothingSearchListDesc=Por favor, configure de nuevo las condiciones de búsqueda.
 LS_NothingRequestList=No hay ninguna Guild a la que hayas solicitado unirte.
-LS_NothingRequestListDesc=Seleccione un gremio de la lista de gremios
-LS_DetailTitle=Detalles del gremio
+LS_NothingRequestListDesc=Seleccione un guild de la lista
+LS_DetailTitle=Detalles del guild
 LS_MasterName=Guild Master
-LS_KnightLevel=Nivel de Gremio
-LS_KnightType=Tipo de gremio
+LS_KnightLevel=Nivel de guild
+LS_KnightType=Tipo de guild
 LS_KnightMemberCnt=Miembros
 LS_KnightPower=Poder Total
-LS_KnightAltar=Beneficios del Santuario
-LS_KnightState=Estado del gremio
+LS_KnightAltar=Beneficios del Altar
+LS_KnightState=Estado del guild
 LS_RequestEnableCnt=Solicitudes disponibles: %s_1/%s_2
 LS_SearchLevel=Nivel %s_1
 LS_SearchType=Tipo: %s_1
@@ -5927,9 +5927,9 @@ LS_SearchDeactive=<font color='#ff0000'>Estado: Inactivo</font>
 LS_SearchDetailMember=%s_1/%s_2
 LS_SearchDetailActive=Activo
 LS_SearchDetailDeactive=<font color='#ff0000'>Inactivo</font>
-LS_NoneAltarTitle=Sin beneficios de Santuario.
-LS_NoneAltarDesc=Usa Expandir Santuario para conseguir un nuevo santuario<br>o mejorar el existente.
-LS_SearchDeactiveDesc=El gremio está inactivo.
+LS_NoneAltarTitle=Sin beneficios de Altar.
+LS_NoneAltarDesc=Usa Expandir Altar para conseguir un nuevo altar<br>o mejorar el existente.
+LS_SearchDeactiveDesc=El guild está inactivo.
 LS_SearchCondition=Condiciones
 LS_SearchLevelRange=Nivel
 LS_SearchPurposeType=Tipo
@@ -5938,21 +5938,21 @@ LS_SearchName=Nombre
 LS_SearchApplied=Aplicado
 
 [MU2GFxKnightAgeEmblem]
-LS_KnightEmblemTitle=Manejar emblema de gremio
+LS_KnightEmblemTitle=Manejar emblema de guild
 LS_EmblemSymbol=Configuración del emblema
 LS_EmblemEdge=Configuración del contorno
 LS_EmblemBg=Configuración del fondo
 LS_EmblemInit=Reiniciar
 LS_EmblemReset=Cancelar
 LS_EmblemAccept=Aplicar
-LS_NoneKnightAge=No estás en un gremio.
-LS_CautionEmblemChange=Una vez que el nivel del Gremio alcanze el nivel requerido su emblame podra ser cambiado
+LS_NoneKnightAge=No estás en un guild.
+LS_CautionEmblemChange=Una vez que el nivel del guild alcanze el nivel requerido su emblame podra ser cambiado
 
 [MU2GFxKnightAgeContribute]
-LS_KnightContributeTitle=Evaluación de la Contribución del Gremio
-LS_KnightMaster=Nombre del Maestro del Gremio
-LS_KnightTotalPower=Potencia Total de Combate del Gremio
-LS_LastContributeList=Lista de puntos de contribución del gremio de la semana pasada
+LS_KnightContributeTitle=Evaluación de la Contribución del guild
+LS_KnightMaster=Nombre del Maestro del guild
+LS_KnightTotalPower=Potencia Total de Combate del guild
+LS_LastContributeList=Lista de puntos de contribución del guild de la semana pasada
 LS_LastContributePoint=Última contribución
 LS_LastContributePointDesc=La contribución se basa en las muertes de monstruos de este personaje.<br>Los puntos de contribución se envían los miércoles a las 6 a.m.
 LS_CurContributePoint=Puntos de contribución estimados de esta semana
@@ -6174,7 +6174,7 @@ LS_BanName=<font color='#FFD461'>Nivel %d</font>/<font color='#67FFF2'>%d</font>
 
 [MU2GFxKnightAgeStorage]
 LS_KnightStorageTitle=Baúl del Caballero
-LS_KnightStorageDesc=El Baúl del Gremio es recompensado a los Gremios en crecimiento y puede ser expandido en forma de pestaña.
+LS_KnightStorageDesc=El Baúl del guild es recompensado a los guilds en crecimiento y puede ser expandido en forma de pestaña.
 LS_StorageChest1=Baúl 1
 LS_StorageChest2=Baúl 2
 LS_StorageChest3=Baúl 3
@@ -6449,8 +6449,8 @@ LS_NameDefault=Introducir nuevo nombre.
 LS_CharUITitle=Nombrar carácter
 LS_CharInputDesc=Los nombres de los caracteres deben tener entre 2 y 16 caracteres.<br>En cuanto a los caracteres especiales, sólo se pueden utilizar guiones bajos (_), pero no delante de los nombres.
 LS_CharWarningDesc=- El nombre antes de cambiar no puede ser utilizado por nadie durante 24 horas.<br>- Los datos de clasificación se aplican en el momento de la renovación.<br>- No se puede solicitar el cambio por error propio o cambio de opinión al cambiar el nombre.
-LS_KnightAgeUITitle=Renombrar Gremio
-LS_KnightAgeInputDesc=Los nombres de los gremios deben tener entre 2 y 16 caracteres.<br>En cuanto a los caracteres especiales, se pueden utilizar guiones bajos (_), pero no delante de los nombres.
+LS_KnightAgeUITitle=Renombrar guild
+LS_KnightAgeInputDesc=Los nombres de los guilds deben tener entre 2 y 16 caracteres.<br>En cuanto a los caracteres especiales, se pueden utilizar guiones bajos (_), pero no delante de los nombres.
 LS_KnightAgeWarningDesc=- Los nombres antiguos no pueden ser reutilizados por los propietarios originales u otros usuarios durante 30 días.<br>- Los nombres nuevos que se introduzcan accidentalmente o que ya no se quieran no se pueden restablecer.
 
 [MU2GFxMessageBoxWarning]
@@ -6468,13 +6468,13 @@ LS_BtnAyuda=Ayuda
 LS_BtnPrev=Atrás
 LS_BtnNext=Siguiente
 LS_BtnComplete=Completado
-LS_BtnKnightAge=Miembros del gremio
+LS_BtnKnightAge=Miembros del guild
 LS_BtnUnion=Miembros de la alianza
 LS_TournamentDesc=Las unidades de ataque del torneo sólo pueden crearse mientras se organizan los partidos.
 LS_TournamentSchedule=Programa del torneo
 LS_NoDominionTitle=No hay territorio disponible para seleccionar.
-LS_NoDominionDesc=<font color='#FF0000'>¡Las unidades de ataque de torneo sólo pueden ser creadas por un gremio aceptado en un torneo!</font><br><br> - Los torneos se celebran cada semana. La 1ª Solicitud se abre el jueves a las 07:00 p.m.<br> - Los gremios que no se clasificaron durante el 1er Periodo de Solicitud tienen 30 minutos para enviar otra solicitud.<br> - Solo un gremio aceptado en un torneo para un dominio puede formar una Unidad de Ataque.<br> - La solicitud para el torneo de esta semana se ha cerrado. Por favor, ¡vuelve para el torneo de la semana que viene!
-LS_DominionDesc=- Selecciona uno de los Territorios del Gremio.<br>- Sólo puedes crear una unidad de ataque por territorio.<br>- El número de jugadores para una unidad de ataque varía dependiendo del grado del territorio seleccionado.<br><font color='#FF0000'>- Después de crear una unidad de ataque, comprueba el horario exacto del Torneo. Si tu unidad de ataque no sale 5 minutos antes de que empiece tu partida, serás descalificado del Torneo.</font>
+LS_NoDominionDesc=<font color='#FF0000'>¡Las unidades de ataque de torneo sólo pueden ser creadas por un guild aceptado en un torneo!</font><br><br> - Los torneos se celebran cada semana. La 1ª Solicitud se abre el jueves a las 07:00 p.m.<br> - Los guilds que no se clasificaron durante el 1er Periodo de Solicitud tienen 30 minutos para enviar otra solicitud.<br> - Solo un guild aceptado en un torneo para un dominio puede formar una Unidad de Ataque.<br> - La solicitud para el torneo de esta semana se ha cerrado. Por favor, ¡vuelve para el torneo de la semana que viene!
+LS_DominionDesc=- Selecciona uno de los Territorios del guild.<br>- Sólo puedes crear una unidad de ataque por territorio.<br>- El número de jugadores para una unidad de ataque varía dependiendo del grado del territorio seleccionado.<br><font color='#FF0000'>- Después de crear una unidad de ataque, comprueba el horario exacto del Torneo. Si tu unidad de ataque no sale 5 minutos antes de que empiece tu partida, serás descalificado del Torneo.</font>
 LS_RaidInfoTitle=Establezca la información básica de su unidad de ataque.
 LS_RaidName=Nombre de la unidad de ataque:
 LS_RaidRange=Alcance de Revelación
@@ -6483,7 +6483,7 @@ LS_RaidDesc=Descripción de la unidad de ataque
 LS_InputCautionDesc=- Nombre básico de su unidad de ataque.<br>- No se permiten blasfemias.
 LS_LimitPowerDesc=- Puede especificar la Potencia de Combate necesaria para los miembros de su Unidad de Ataque.<br>- Introduzca 0 o nada para aceptar a cualquiera.
 LS_CompeteDominion=Territorio objetivo
-LS_FinalDesc=- Cuando creas una unidad de ataque, todos los miembros de tu gremio son notificados de su creación.<br>- Como comandante de la unidad de ataque, puedes comprobar las solicitudes recibidas desde la IU de la unidad de ataque y añadir los personajes que quieras a la unidad de ataque. <br>- Tienes que llenar tu unidad y partir hacia la partida dentro del tiempo límite.<br>- Ya se ha organizado un horario de partida para todas las unidades de ataque, y sólo pueden partir durante el periodo establecido.<br><font color='#FF0000'>- Si las unidades de ataque no parten dentro del tiempo límite, serán descalificadas.</font>
+LS_FinalDesc=- Cuando creas una unidad de ataque, todos los miembros de tu guild son notificados de su creación.<br>- Como comandante de la unidad de ataque, puedes comprobar las solicitudes recibidas desde la IU de la unidad de ataque y añadir los personajes que quieras a la unidad de ataque. <br>- Tienes que llenar tu unidad y partir hacia la partida dentro del tiempo límite.<br>- Ya se ha organizado un horario de partida para todas las unidades de ataque, y sólo pueden partir durante el periodo establecido.<br><font color='#FF0000'>- Si las unidades de ataque no parten dentro del tiempo límite, serán descalificadas.</font>
 LS_RaidType=Tipo de unidad de ataque: Torneo
 LS_DefaultRaidName=Introduzca 2 - 16 letras.
 LS_DefaultRaidPower=Pueden introducirse hasta 10 dígitos.
@@ -6491,8 +6491,8 @@ LS_DefaultRaidDesc=Se pueden introducir hasta 75 letras.
 LS_CurrentTime=Hora actual: %s_1
 LS_RaidInfo=: %s_1
 LS_DemandPower=Potencia de combate requerida
-LS_OccupyNone=Gremio que ocupa: None
-LS_OccupyKnightAge=Gremio al que pertenece: %s_1
+LS_OccupyNone=guild que ocupa: None
+LS_OccupyKnightAge=guild al que pertenece: %s_1
 LS_MyOccupy=Ocupado
 LS_CompetitionRate=Tasa de competición: %s_1:1
 LS_TournamentMemberCnt=Concursantes en el torneo: %s_1:%s_1
@@ -6526,7 +6526,7 @@ LS_Step=Etapa %s_1
 
 [MU2GFxRaidJoinList]
 LS_UITitle=Lista de unidades de ataque
-LS_UIDesc=Comprueba los detalles de las unidades de ataque del Gremio/Alianza.
+LS_UIDesc=Comprueba los detalles de las unidades de ataque del guild/Alianza.
 LS_TooltipJoinRequest=Solicitar unirse a unidad de ataque
 LS_TooltipDetailInfo=Ver detalles de la Unidad de Ataque
 LS_RaidMaster=Comandante de la Unidad de Ataque: %s_1
@@ -6556,14 +6556,14 @@ LS_RaidCommander=Comandante de la unidad de ataque
 LS_RaidRange=Enviar a
 LS_RaidLimitPower=Potencia de combate requerida
 LS_RaidCommnet=Rol de la unidad de ataque
-LS_RaidKnightAgeMaster=Nombre del líder del gremio
+LS_RaidKnightAgeMaster=Nombre del líder del guild
 LS_ChangeCancel=Cancelar
 LS_ChangeOk=Aceptar
 LS_Change=Editar
 LS_JoinCancel=Cancelar
 LS_JoinRequest=Solicitar Unirse
 LS_LeaveRaid=Abandonar
-LS_KnightAgeMember=Miembro del gremio
+LS_KnightAgeMember=Miembro del guild
 LS_UninonMember=Miembro de la Alianza
 LS_CurrentTime=Hora actual: %s_1
 LS_TournamentSchedule=Programa del torneo
@@ -6585,8 +6585,8 @@ LS_UndoInfo=Deshacer
 LS_ConfirmInfo=Aplicar
 LS_Dissolve=Disolver
 LS_Auto=Construcción automática del equipo
-LS_OccupyNone=Ocupar gremio: None
-LS_OccupyKnightAge=Ocupando gremio: %s_1
+LS_OccupyNone=Ocupar guild: None
+LS_OccupyKnightAge=Ocupando guild: %s_1
 LS_MyOccupy=Ocupado
 LS_CompetitionRate=Tasa de competición: %s_1:1
 LS_TournamentMemberCnt=Concursantes en el torneo: %s_1:%s_1
@@ -6669,31 +6669,31 @@ LS_OK=OK (Barra espaciadora)
 LS_Cancel=Cancelar (Esc)
 LS_ContributePoint=Puntos de contribución disponibles:
 LS_DonationDesc=¿Donar fichas de trofeo?
-LS_RewardDesc=Dona Fichas de Trofeo para aumentar los Trofeos de Gremio de tu gremio.<br>Recibirás Puntos de Contribución a cambio.
+LS_RewardDesc=Dona Fichas de Trofeo para aumentar los Trofeos de guild de tu guild.<br>Recibirás Puntos de Contribución a cambio.
 LS_DoationMaxCnt=Tu cuenta de donaciones no se reiniciará incluso si dejas tu clan.
 
 [MU2GFxTournamentMap]
 LS_TournamentMapTitle=Mapa de Guerra de Acción
-LS_LeftPanelTitle=Información del Gremio
+LS_LeftPanelTitle=Información del guild
 LS_RightPanelTitle=Información Guerra de Acción
-LS_NoKnightageTitle=No estás en un gremio.
-LS_NoKnightageDes=Para participar en el torneo de guerra de facciones, debes pertenecer a un gremio.
-LS_KnightageMasterTitle=Líder de gremio:
+LS_NoKnightageTitle=No estás en un guild.
+LS_NoKnightageDes=Para participar en el torneo de guerra de facciones, debes pertenecer a un guild.
+LS_KnightageMasterTitle=Líder de guild:
 LS_GoToMyCapitalLabel=Entrar en el Territorio Capital
 LS_ApplyDominionTitle=Territorio objetivo del torneo
 LS_ApplyTrophyCountTitle=Oferta de trofeo:
 LS_NoApplyAlertTitle=No hay información de solicitud disponible.
-LS_NoApplyAlertDesc=Los líderes de cada gremio pueden solicitar competir por el territorio que deseen.
+LS_NoApplyAlertDesc=Los líderes de cada guild pueden solicitar competir por el territorio que deseen.
 LS_ApplyResultLabel=Comprobar resultados de solicitud de torneo.
-LS_HaveKnightageTitle=Ocupar gremio
+LS_HaveKnightageTitle=Ocupar guild
 LS_TournamentProgressTitle=Progreso:
 LS_MyDominionTitle=Ocupando territorio
-LS_DominionHaveKnightTitle=Gremio ocupante del territorio
+LS_DominionHaveKnightTitle=guild ocupante del territorio
 LS_DominionHaveKnightageRankingTitle=Máximo de seguidores
 LS_FollowKnightageLabel=Seguir a compañeros
-LS_NoFellowKnightageAlertTitle=No hay gremio disponible para reclutar seguidores.
-LS_NoFellowKnightageAlertDesc=Los gremios que poseen territorios pueden reclutar seguidores como beneficio del territorio. Puedes comprobar los detalles cuando termine el Torneo.
-LS_FollowDominionInfo=Territorio del gremio de seguidores
+LS_NoFellowKnightageAlertTitle=No hay guild disponible para reclutar seguidores.
+LS_NoFellowKnightageAlertDesc=Los guilds que poseen territorios pueden reclutar seguidores como beneficio del territorio. Puedes comprobar los detalles cuando termine el Torneo.
+LS_FollowDominionInfo=Territorio del guild de seguidores
 LS_GoToFollowDominion=Entrar en territorio capital
 LS_RightTopButtonBarLabel[0]=Programa del Torneo
 LS_RightTopButtonBarLabel[1]=Estado de la guerra de facciones
@@ -6710,35 +6710,35 @@ LS_DominionGradeFilterLabel[0]=Territorio de 1 estrella
 LS_DominionGradeFilterLabel[1]=Territorio de 2 estrellas
 LS_DominionGradeFilterLabel[2]=Territorio de 3 estrellas
 LS_SearchInputDefaultText=Introduzca una palabra clave.
-LS_SearchHelpText=- Puedes buscar nombres de gremio/líder de gremio/territorio.<br>- Una palabra clave debe contener al menos 2 letras.
+LS_SearchHelpText=- Puedes buscar nombres de guild/líder de guild/territorio.<br>- Una palabra clave debe contener al menos 2 letras.
 LS_BtnOpenTournamentRankingLabel=Abrir ventana de clasificación de torneos.
 LS_DominionsStatusTitle=<font color='#00ff00'>- Estado de Ocupación del Territorio</font>
 LS_DominionsStatusDesc=Ocupando %s_2 de %s_1 territorios (%s_3%)
-LS_JoinKnightageStatusTitle=<font color='#00ff00'>- Estado de participación en el gremio</font>
-LS_JoinKnightageStatusDesc=Total %s_1 gremios participantes
+LS_JoinKnightageStatusTitle=<font color='#00ff00'>- Estado de participación en el guild</font>
+LS_JoinKnightageStatusDesc=Total %s_1 guilds participantes
 LS_DominionPopupButton[0]=Información del torneo
 LS_DominionPopupButton[1]=Entrar en territorio
-LS_DominionPopupButton[2]=Información del gremio ocupante
-LS_DominionPopupButton[3]=Seguir gremio ocupante
+LS_DominionPopupButton[2]=Información del guild ocupante
+LS_DominionPopupButton[3]=Seguir guild ocupante
 LS_CapitalDominion=Territorio capital
 LS_AdjacentDominion=Territorio vecino
-LS_NoOwnerKnightage=Sin gremio ocupante.
+LS_NoOwnerKnightage=Sin guild ocupante.
 
 [MU2GFxKnightAgeOtherInfo]
-LS_UITitle=Detalles del gremio
+LS_UITitle=Detalles del guild
 LS_TabBasicInfo=Información básica
 LS_TabDominionInfo=Territorio
-LS_KnightAgeMaster=Nombre del líder del gremio
-LS_KnightAgeLevel=Nivel del gremio
+LS_KnightAgeMaster=Nombre del líder del guild
+LS_KnightAgeLevel=Nivel del guild
 LS_KnightAgePower=Poder de combate total del clan
 LS_KnightAgeMember=Miembros
-LS_KnightAgeRank=Rango de gremio
-LS_KnightAgeType=Tipo de gremio
-LS_KnightAgeState=Estado del gremio
-LS_KnightAgeAltar=Beneficios del Santuario del Gremio
-LS_KnightAgeTooltip=El poder de combate total del Gremio es la suma de los poderes de combate de todos los miembros.
+LS_KnightAgeRank=Rango de guild
+LS_KnightAgeType=Tipo de guild
+LS_KnightAgeState=Estado del guild
+LS_KnightAgeAltar=Beneficios del Santuario del guild
+LS_KnightAgeTooltip=El poder de combate total del guild es la suma de los poderes de combate de todos los miembros.
 LS_KnightAgeAltarNone=Sin beneficios de Santuario.
-LS_KnightAgeDeactive=El gremio está inactivo.
+LS_KnightAgeDeactive=El guild está inactivo.
 LS_OccupyDominion=Ocupar territorio.
 LS_DominionGrade=Grado
 LS_DominionName=Nombre del Territorio
@@ -6761,9 +6761,9 @@ LS_AdjoinLevel=Nivel %s_1
 LS_NoneCapital=Sin capital
 
 [MU2GFxPlatinumServiceInfo]
-LS_Caption=Beneficios del servicio
-LS_PlatinumService=Servicios regulares
-LS_PlatinumPlusService=Beneficios Premium
+LS_Caption=VIP
+LS_PlatinumService=VIP Regular
+LS_PlatinumPlusService=VIP Platinum
 LS_PlatinumExtendBtn=Ampliar
 LS_PlatinumNextBtn=Actualizar ahora
 LS_PlatinumDetailBtn=Ver detalles
@@ -6776,8 +6776,8 @@ LS_PlatinumNextTime=Será actualizado en %s_1d %s_2m %s_3s
 LS_PlatinumPlusCaption=Platinum
 LS_PlatinumPlusChange=Platinum
 LS_PlatinumPlusRemaining=Queda %s_1d %s_2h %s_3m
-LS_PlatinumPlusSale=Suscríbase al servicio.
-LS_PlatinumDescription=Suscríbase al servicio Premium,<br>y disfrute de potentes ventajas durante un periodo determinado.
+LS_PlatinumPlusSale=Suscríbase al VIP.
+LS_PlatinumDescription=Suscríbase al VIP Platinum,<br>y disfrute de potentes ventajas durante un periodo determinado.
 
 [MU2GFxPlatinumBuffInfo]
 LS_Caption=Beneficios del servicio
@@ -6800,25 +6800,25 @@ LS_ServiceCaption=Beneficios diarios
 LS_RewardCaption=Items gratuitos en función del tiempo en linea
 LS_AcceptButton=Reclamar
 LS_ServiceBasic=Beneficios básicos
-LS_ServicePlus=Beneficios del Servicio Premium
-LS_ServicePlusDesc=Los usuarios del Servicio Premium obtendrán estos beneficios extra.
+LS_ServicePlus=Beneficios del VIP Platinum
+LS_ServicePlusDesc=Los usuarios con VIP Platinum obtendrán estos beneficios extra.
 LS_ServiceApply=(En uso)
 LS_ServiceBasic1=Rift<br>Entradas disponibles +<font color='#00ff00'>2</font><br>Tower of Dawn<br>Entradas Disponibles +<font color='#00ff00'>1</font>
-LS_ServiceBasic2=Ganancia EXP Alma +<font color='#00ff00'>30%</font><br>Ataque/Defensa +<font color='#00ff00'>5%</font><br>(Se acumula con los efectos del Servicio Premium)
+LS_ServiceBasic2=Ganancia EXP Alma +<font color='#00ff00'>30%</font><br>Ataque/Defensa +<font color='#00ff00'>5%</font><br>(Se acumula con los efectos del VIP Platinum)
 LS_ServicePlus1=Gema Mágica/Ganancia de Zen +<font color='#00ff00'>10%</font>
 LS_ServicePlus2=Endless Tower, Blood Castle y Rift<br>Entradas disponibles +<font color='#00ff00'>1</font>
 LS_PlatinumCaption=Recompensa por sesión regular
-LS_PlatinumPlusCaption=Recompensa por sesión Premium
+LS_PlatinumPlusCaption=Recompensa por VIP Platinum
 LS_RewardActive=<font color='#fdc243'>%s_1</font>
 LS_RewardDeactive=<font color='#885f06'>%s_1</font>
-LS_RewardTimeCaption=Duración de la sesión
+LS_RewardTimeCaption=Tiempo En Linea
 LS_RewardTime=%.2d:%.2d
 LS_Time0=Al iniciar sesión
 LS_TimeM=%s_1m
 LS_TimeH=%s_1h
 LS_AcceptComplete=Reclamado
 LS_LoginReward=Recompensa por inicio de sesión
-LS_LoginRewardDesc=-Suscríbete al servicio Oro o Premium, y podrás obtener una recompensa de objetos en función de tu tiempo de juego.<br>- Estas recompensas de tiempo de juego se restablecen diariamente a las 5:00 a.m.
+LS_LoginRewardDesc=-Suscríbete al VIP regular o Platinum, y podrás obtener una recompensa de objetos en función de tu tiempo de juego.<br>- Estas recompensas de tiempo de juego se restablecen diariamente a las 5:00 a.m.
 LS_NetCafeRewardCap=Recompensa por inicio de sesión
 LS_NetCafeRewardDesc=Bienvenido al cibercafé.<br>En los cibercafés, obtienes mejoras adicionales y recompensas de objetos.
 LS_NetCafeReward1=Ganancia de EXP del alma +30%.
@@ -6833,15 +6833,15 @@ LS_ReadyDepartureCnt=Listo para Salida %s_1/%s_2
 LS_UITitle=Solicitar torneo
 LS_RoundSchedule=Programa de partidos
 LS_LastTournamentInfo=Información del torneo anterior
-LS_ApplyDesc=Sólo los Maestros del Gremio pueden solicitar torneos.<br>Tienes dos oportunidades para solicitar un torneo, sujeto a las siguientes reglas.<br><br><font color='#ffff00'>0. Requisitos de trofeos por grado de dominio</font><br> - Se requiere que gastes al menos un cierto número de trofeos, dependiendo del grado de tu dominio objetivo.<br> - 1-Estrella: 300 o más<br> - 2-Estrellas: 500 o más<br> - 3-Estrellas: 1.500 o más<br><br><font color='#ffff00'>1. Reglas de la 1ª Solicitud</font><br> - El 1er Periodo de Solicitud va desde el jueves a las 07:00 p.m. hasta el viernes a las 07:00 p.m.<br> - Necesitas gastar Trofeos de Gremio para solicitarlo.<br> - Si el número de solicitantes excede el límite prescrito, entonces los solicitantes son seleccionados basándose en el número de trofeos que gastaron.<br> - Si tu solicitud es rechazada, entonces recibirás tus trofeos de vuelta, para que puedas enviar tu 2ª Solicitud. <br><br><br><font color='#ffff00'>2. Reglas de la 2ª solicitud</font><br> - El 2º periodo de solicitud dura 30 minutos después de que finalice el 1er periodo de solicitud.<br> - Solo los clanes que no se clasificaron durante el 1er periodo de solicitud pueden enviar segundas solicitudes.<br> - Si tu segunda solicitud no es aceptada, no podrás participar en el torneo de esa semana.<br> - Tendrás más posibilidades de éxito si vas a por un dominio con menos solicitantes.
+LS_ApplyDesc=Sólo los Maestros del guild pueden solicitar torneos.<br>Tienes dos oportunidades para solicitar un torneo, sujeto a las siguientes reglas.<br><br><font color='#ffff00'>0. Requisitos de trofeos por grado de dominio</font><br> - Se requiere que gastes al menos un cierto número de trofeos, dependiendo del grado de tu dominio objetivo.<br> - 1-Estrella: 300 o más<br> - 2-Estrellas: 500 o más<br> - 3-Estrellas: 1.500 o más<br><br><font color='#ffff00'>1. Reglas de la 1ª Solicitud</font><br> - El 1er Periodo de Solicitud va desde el jueves a las 07:00 p.m. hasta el viernes a las 07:00 p.m.<br> - Necesitas gastar Trofeos de guild para solicitarlo.<br> - Si el número de solicitantes excede el límite prescrito, entonces los solicitantes son seleccionados basándose en el número de trofeos que gastaron.<br> - Si tu solicitud es rechazada, entonces recibirás tus trofeos de vuelta, para que puedas enviar tu 2ª Solicitud. <br><br><br><font color='#ffff00'>2. Reglas de la 2ª solicitud</font><br> - El 2º periodo de solicitud dura 30 minutos después de que finalice el 1er periodo de solicitud.<br> - Solo los clanes que no se clasificaron durante el 1er periodo de solicitud pueden enviar segundas solicitudes.<br> - Si tu segunda solicitud no es aceptada, no podrás participar en el torneo de esa semana.<br> - Tendrás más posibilidades de éxito si vas a por un dominio con menos solicitantes.
 LS_MinApplyTrophy=Oferta mínima de trofeo:
-LS_OwnTrophy=Trofeos de tu gremio:
+LS_OwnTrophy=Trofeos de tu guild:
 LS_ApplyTrophy=Oferta de Trofeos:
-LS_MemberDesc=Sólo los líderes de gremio pueden solicitarlo.<br>¡Discute con tu líder de gremio para elegir estratégicamente un territorio!
-LS_NotApplyPeriod=La solicitud de Torneo no está abierta en este momento.<br>Solo los personajes Líderes de Gremio pueden solicitarlo en el periodo de solicitud establecido.
+LS_MemberDesc=Sólo los líderes de guild pueden solicitarlo.<br>¡Discute con tu líder de guild para elegir estratégicamente un territorio!
+LS_NotApplyPeriod=La solicitud de Torneo no está abierta en este momento.<br>Solo los personajes Líderes de guild pueden solicitarlo en el periodo de solicitud establecido.
 LS_ApplyDominion=Ya has solicitado este territorio. <br>¡Por favor, espera a los resultados!
 LS_ApplyAnother=Ya has solicitado otro territorio.<br>Durante cada torneo, sólo puedes solicitar un territorio.
-LS_IsMyDominion=Este territorio está ocupado por tu gremio.<br>Entrarás automáticamente en la ronda final por este territorio sin tener que solicitar el Torneo.
+LS_IsMyDominion=Este territorio está ocupado por tu guild.<br>Entrarás automáticamente en la ronda final por este territorio sin tener que solicitar el Torneo.
 LS_Competition=Tasa de competición
 LS_AverageCost=Precio medio de puja
 LS_TopCost=Precio máximo de puja
@@ -6849,8 +6849,8 @@ LS_NoInfoAlert=No existe información previa del Torneo.
 LS_LimitCost=Coste mínimo de trofeos
 LS_TournamentApply=Aplicar
 LS_CurrentTime=Hora actual: %s_1
-LS_OccupyNone=Gremio ocupante: None
-LS_OccupyKnightAge=Ocupando gremio: %s_1
+LS_OccupyNone=guild ocupante: None
+LS_OccupyKnightAge=Ocupando guild: %s_1
 LS_MyOccupy=Ocupado
 LS_CompetitionRate=Tasa de competición: %s_1
 LS_TournamentMemberCnt=Concursantes en el torneo: %s_1:%s_1
@@ -6886,19 +6886,19 @@ LS_UIHelpTooltip=<font color='#ffff00'>Preliminares: Campo de batalla celeste</f
 LS_RoundSchedule=Programa del partido
 LS_RoundInfo=Información del partido
 LS_SuccessOK=Cerrar
-LS_ResultHelpDesc=La solicitud ha sido aceptada, dando a su gremio el derecho a participar.<br>Por favor, lea atentamente las reglas que se detallan a continuación y prepárese para el partido.<br><br><font color='#ffff00'>1. Confirmación del horario final. Confirmación del calendario final</font><br>- Una vez finalizado el proceso de solicitud, se publican la competición y los calendarios.<br>- El número total de encuentros varía en función del índice final de la competición.<br>- Si no hay más de 2 gremios que hayan solicitado un territorio, puede que no haya preliminares.<br><font color='#ff0000'>- Una vez finalizado el periodo de solicitud, ¡asegúrate de confirmar los encuentros en los que participa tu gremio! </font><br><br><font color='#ffff00'>2. Reglas de los Partidos</font><br>- Según el ritmo de competición, tu Gremio tendrá de 1 a 4 partidos en total.<br>- Tus unidades de ataque deben salir a través del PNJ del Muelle 5 minutos antes de cada partido. <br><font color='#ff0000'>- Si no sales dentro del tiempo límite y el partido comienza, serás descalificado.</font><br><br><font color='#ffd144'>Por favor, sigue las reglas del partido y haz todo lo posible para ganar el torneo.<br>Buena suerte.</font>
+LS_ResultHelpDesc=La solicitud ha sido aceptada, dando a su guild el derecho a participar.<br>Por favor, lea atentamente las reglas que se detallan a continuación y prepárese para el partido.<br><br><font color='#ffff00'>1. Confirmación del horario final. Confirmación del calendario final</font><br>- Una vez finalizado el proceso de solicitud, se publican la competición y los calendarios.<br>- El número total de encuentros varía en función del índice final de la competición.<br>- Si no hay más de 2 guilds que hayan solicitado un territorio, puede que no haya preliminares.<br><font color='#ff0000'>- Una vez finalizado el periodo de solicitud, ¡asegúrate de confirmar los encuentros en los que participa tu guild! </font><br><br><font color='#ffff00'>2. Reglas de los Partidos</font><br>- Según el ritmo de competición, tu guild tendrá de 1 a 4 partidos en total.<br>- Tus unidades de ataque deben salir a través del PNJ del Muelle 5 minutos antes de cada partido. <br><font color='#ff0000'>- Si no sales dentro del tiempo límite y el partido comienza, serás descalificado.</font><br><br><font color='#ffd144'>Por favor, sigue las reglas del partido y haz todo lo posible para ganar el torneo.<br>Buena suerte.</font>
 LS_RoundScheduleAlertTitle=No se puede comprobar la información del partido.
 LS_RoundScheduleAlertDesc=El calendario de partidos se publicará cuando se hayan aceptado todas las solicitudes.
 LS_TrophyGetBack=Recuperación de trofeos:
-LS_ApplyFailDesc1=Los gremios cuyas solicitudes no fueron aceptadas en la primera ronda pueden volver a solicitarlo en la segunda ronda.
+LS_ApplyFailDesc1=Los guilds cuyas solicitudes no fueron aceptadas en la primera ronda pueden volver a solicitarlo en la segunda ronda.
 LS_ApplyFailDesc2=Tanto la 1ª como la 2ª ronda de solicitudes han finalizado.<br>¡Apúntate al nuevo Torneo la semana que viene!
-LS_RoundApplyDesc=Si tu solicitud falla, recibirás todos los Trofeos que utilizaste para la solicitud.<br><font color='#ffff00'>1. 1ª Solicitud Fallida</font><br> - Si tu 1ª solicitud falla, puedes solicitar la 2ª ronda.<br> - Recoge los Trofeos reembolsados y solicita la 2ª ronda. <br> - Para entrar en el torneo por el territorio que quieras, tendrás que pagar más Trofeos.<br><><font color='#ffff00'>2. 2ª Solicitud Fallida</font><br> - Si tu 2ª solicitud falla, no tendrás más oportunidades de entrar en el Torneo de la semana.<br> - Recoge más Trofeos de Gremio durante las próximas 2 semanas, y vuelve a solicitarlo.<br> - Es una buena estrategia solicitar un territorio menos popular.
+LS_RoundApplyDesc=Si tu solicitud falla, recibirás todos los Trofeos que utilizaste para la solicitud.<br><font color='#ffff00'>1. 1ª Solicitud Fallida</font><br> - Si tu 1ª solicitud falla, puedes solicitar la 2ª ronda.<br> - Recoge los Trofeos reembolsados y solicita la 2ª ronda. <br> - Para entrar en el torneo por el territorio que quieras, tendrás que pagar más Trofeos.<br><><font color='#ffff00'>2. 2ª Solicitud Fallida</font><br> - Si tu 2ª solicitud falla, no tendrás más oportunidades de entrar en el Torneo de la semana.<br> - Recoge más Trofeos de guild durante las próximas 2 semanas, y vuelve a solicitarlo.<br> - Es una buena estrategia solicitar un territorio menos popular.
 LS_OKBtn_Member=OK
 LS_OKBtn_Maestro=OK
 LS_GetBackTrophyBtn_Master=Recuperar Trofeos
 LS_CurrentTime=Hora actual: %s_1
-LS_OccupyNone=Ocupando gremio: None
-LS_OccupyKnightAge=Ocupando gremio: %s_1
+LS_OccupyNone=Ocupando guild: None
+LS_OccupyKnightAge=Ocupando guild: %s_1
 LS_MyOccupy=Ocupado
 LS_CompetitionRate=Tasa de competición: %s_1
 LS_TournamentMemberCnt=Concursantes en el torneo: %s_1:%s_1
@@ -6913,17 +6913,17 @@ LS_OKBtn=OK
 LS_FinalResultMessageText=Enhorabuena, Mi Señor.<br>Tu valentía y el gran logro de tus camaradas serán recordados para siempre.<br>Ahora, disfruta de los beneficios que te ofrece tu nuevo territorio.
 
 [MU2GFxTournamentRanking]
-LS_TournamentRankingTitle=Salón de Honor del Gremio
-LS_RankingButtonBar[0]=Rankings del Gremio
+LS_TournamentRankingTitle=Salón de Honor del guild
+LS_RankingButtonBar[0]=Rankings del guild
 LS_RankingButtonBar[1]=Salón de Honor
 LS_RankingText=Rango
-LS_KnightageNameText=Nombre del gremio
+LS_KnightageNameText=Nombre del guild
 LS_AdjacentText=Territorio vecino
 LS_DominionRateText=Tasa de ocupación
-LS_NoRecordTitle=No hay registro de rango del gremio.
+LS_NoRecordTitle=No hay registro de rango del guild.
 LS_NoRecordDesc=Únete a la guerra de facciones y ocupa territorios para aumentar tu rango.
 LS_NoEmblem=Sin emblema.
-LS_SeasonRankingTitle=Rango de gremio.
+LS_SeasonRankingTitle=Rango de guild.
 LS_SeasonRankingDate=%s_1 - %s_2
 LS_RankPodiumText[0]=Rango 1
 LS_RankPodiumText[1]=Rango 2
@@ -6934,8 +6934,8 @@ LS_EtcText=y %s_1 otros
 LS_MessageBoxFollowerTitle=Únete a los seguidores
 LS_FollowBtnLabel=Seguir
 LS_CancelBtnLabel=Cancelar
-LS_ExplicateMain=¿Usar fichas de trofeo y seguir a este gremio?
-LS_ExplicateDesc=Los seguidores reciben ciertos beneficios del Territorio.<br> - Puedes seguir, pero no puedes dejar de seguir a un gremio.<br> - Todos los seguidores son despedidos al final del Torneo.<br><br><font color='#ff0000'> - Seguir a un gremio justo antes de que termine el Torneo no es una buena idea.</font>
+LS_ExplicateMain=¿Usar fichas de trofeo y seguir a este guild?
+LS_ExplicateDesc=Los seguidores reciben ciertos beneficios del Territorio.<br> - Puedes seguir, pero no puedes dejar de seguir a un guild.<br> - Todos los seguidores son despedidos al final del Torneo.<br><br><font color='#ff0000'> - Seguir a un guild justo antes de que termine el Torneo no es una buena idea.</font>
 
 [MU2GFxDominionBenefit]
 LS_UITitle=Información sobre beneficios territoriales
@@ -6947,7 +6947,7 @@ LS_BenefitDivision_2=Nivel %s_1
 LS_BenefitDivision_3=Seguidor
 CategoryDesc_1=Tu territorio capital afecta a todos los beneficios de tu territorio.<br>Tu territorio capital determina los beneficios de tu territorio. Puedes conseguir más territorios, pero eso no duplicará tus beneficios de territorio.<br>Pero puedes conseguir beneficios extra de tus otros territorios dependiendo de tu nivel de territorio vecino.
 CategoryDesc_2=Todos tus territorios conectados a tu territorio capital son territorios vecinos.<br>Tu nivel de territorio vecino viene determinado por el número de tus territorios vecinos.<br>Obtendrás beneficios adicionales de territorio a un nivel de territorio vecino alto.
-CategoryDesc_3=Cualquier jugador puede seguir a un gremio con territorios.<br>Para convertirte en seguidor de un gremio, debes pagar Fichas de Trofeo.<br><font color='#ff0000'>Cuando el sistema reinicia los seguidores después de un torneo, también reinicia la producción de Piedras de Intensificación.</font>
+CategoryDesc_3=Cualquier jugador puede seguir a un guild con territorios.<br>Para convertirte en seguidor de un guild, debes pagar Fichas de Trofeo.<br><font color='#ff0000'>Cuando el sistema reinicia los seguidores después de un torneo, también reinicia la producción de Piedras de Intensificación.</font>
 BenefitName_1_1_0=Intensificación de Piedra Trascendente
 BenefitName_1_1_1=Crear Piedra de Intensificación
 BenefitName_1_1_2=Equipo fusible
@@ -7043,50 +7043,50 @@ LS_WorldBuffTab=Proporcionar buff mundial
 LS_NoneCapitalID=No se ha designado ninguna capital.
 LS_ProvideCount=Cuento de uso: %s_1/%s_2
 LS_BuffTimeValue=%s_1 m
-LS_HelpDesc=Buff de Mundo de Gremio<br>- Requisitos del Proveedor de Buff: Maestros de gremio que tengan Territorios de 3 estrellas.<br>- Objetivos de buff: Todos los usuarios en línea durante el período buff.<br>- Cómo proporcionar Buff: Selecciona un tipo de buff, una fuerza de efecto y una duración para proporcionar un buff a costa de algunos Trofeos. El buff se aplica instantáneamente.<br>- Recuento de provisión de buff: Se cuenta desde el final de una Guerra de facciones hasta el comienzo de la siguiente, y se reinicia después.<br>- Precauciones: Los buff del mismo tipo no se pueden usar conjuntamente. Sus efectos no se acumulan.
+LS_HelpDesc=Buff de Mundo de guild<br>- Requisitos del Proveedor de Buff: Maestros de guild que tengan Territorios de 3 estrellas.<br>- Objetivos de buff: Todos los usuarios en línea durante el período buff.<br>- Cómo proporcionar Buff: Selecciona un tipo de buff, una fuerza de efecto y una duración para proporcionar un buff a costa de algunos Trofeos. El buff se aplica instantáneamente.<br>- Recuento de provisión de buff: Se cuenta desde el final de una Guerra de facciones hasta el comienzo de la siguiente, y se reinicia después.<br>- Precauciones: Los buff del mismo tipo no se pueden usar conjuntamente. Sus efectos no se acumulan.
 LS_MsgWorldBuff=¡Aplicada la mejora <font color='#F6B11D'>%s_1</font>!
-LS_KnightageName=%s_1 Gremio
-BuffName_6800=Gloria del Gremio
+LS_KnightageName=%s_1 guild
+BuffName_6800=Gloria del guild
 BuffDesc_6800=Genera EXP de Alma adicional.
-BuffName_6801=Gloria del Gremio
+BuffName_6801=Gloria del guild
 BuffDesc_6801=Ganancia de EXP de Alma +100% (30 m)
-BuffName_6802=Gloria del Gremio
+BuffName_6802=Gloria del guild
 BuffDesc_6802=Ganancia EXP del alma +100% (60 m)
-BuffName_6803=Gloria del Gremio
+BuffName_6803=Gloria del guild
 BuffDesc_6803=Ganancia EXP del alma +200% (30 m)
-BuffName_6804=Gloria del Gremio
+BuffName_6804=Gloria del guild
 BuffDesc_6804=Ganancia EXP del alma +200% (60 m)
-BuffName_6805=Gloria del Gremio
+BuffName_6805=Gloria del guild
 BuffDesc_6805=Ganancia EXP del alma +300% (30 m)
-BuffName_6806=Gloria del Gremio
+BuffName_6806=Gloria del guild
 BuffDesc_6806=Ganancia EXP del alma +300% (60 m)
-BuffName_6810=Honor del Gremio
-BuffDesc_6810=Genera EXP de Gremio y Puntos de Contribución adicionales
-BuffName_6811=Honor del Gremio
-BuffDesc_6811=Gana EXP del Gremio/Puntos de Contribución +200% (60 m)
-BuffName_6812=Honor del Gremio
-BuffDesc_6812=Ganancia de EXP/Puntos de Contribución del Gremio +200% (120 m)
-BuffName_6813=Honor del Gremio
-BuffDesc_6813=Ganancia de EXP/Puntos de Contribución del Gremio +350% (60 m)
-BuffName_6814=Honor del Gremio
-BuffDesc_6814=Ganancia de EXP/Puntos de Contribución del Gremio +350% (120 m)
-BuffName_6815=Honor del Gremio
-BuffDesc_6815=Ganancia de EXP/Puntos de Contribución del Gremio +500% (60 m)
-BuffName_6816=Honor del Gremio
-BuffDesc_6816=Ganancia de EXP/Puntos de Contribución del Gremio +500% (120 m)
-BuffName_6820=Confianza del Gremio
+BuffName_6810=Honor del guild
+BuffDesc_6810=Genera EXP de guild y Puntos de Contribución adicionales
+BuffName_6811=Honor del guild
+BuffDesc_6811=Gana EXP del guild/Puntos de Contribución +200% (60 m)
+BuffName_6812=Honor del guild
+BuffDesc_6812=Ganancia de EXP/Puntos de Contribución del guild +200% (120 m)
+BuffName_6813=Honor del guild
+BuffDesc_6813=Ganancia de EXP/Puntos de Contribución del guild +350% (60 m)
+BuffName_6814=Honor del guild
+BuffDesc_6814=Ganancia de EXP/Puntos de Contribución del guild +350% (120 m)
+BuffName_6815=Honor del guild
+BuffDesc_6815=Ganancia de EXP/Puntos de Contribución del guild +500% (60 m)
+BuffName_6816=Honor del guild
+BuffDesc_6816=Ganancia de EXP/Puntos de Contribución del guild +500% (120 m)
+BuffName_6820=Confianza del guild
 BuffDesc_6820=Genera EXP adicional de Artefacto Despertado
-BuffName_6821=Confianza del Gremio
+BuffName_6821=Confianza del guild
 BuffDesc_6821=Ganancia EXP Artefacto Despertado +200% (30 m)
-BuffName_6822=Confianza del Gremio
+BuffName_6822=Confianza del guild
 BuffDesc_6822=Aumento EXP Artefacto Despertado +200% (60 m)
-BuffName_6823=Confianza del Gremio
+BuffName_6823=Confianza del guild
 BuffDesc_6823=Aumento EXP Artefacto Despertado +350% (30 m)
-BuffName_6824=Confianza del Gremio
+BuffName_6824=Confianza del guild
 BuffDesc_6824=Aumento EXP Artefacto Despertado +350% (60 m)
-BuffName_6825=Confianza del Gremio
+BuffName_6825=Confianza del guild
 BuffDesc_6825=Aumento EXP Artefacto Despertado +500% (30 m)
-BuffName_6826=Confianza del Gremio
+BuffName_6826=Confianza del guild
 BuffDesc_6826=Aumento EXP Artefacto Despertado +500% (60 m)
 
 [MU2GFxSetSailMessage]
@@ -7229,8 +7229,8 @@ LS_KniMainLand=Territorio capital: %s_1
 LS_KniLandLevel=Nivel del territorio vecino: %s_1
 LS_KniLandCount=Territorios propios: %s_1
 LS_KniNoneLand=No tiene ningún territorio.
-LS_KniOffCap=No estás en un gremio.
-LS_KniOffDesc=Debes estar en un gremio para participar en la Guerra de facciones.
+LS_KniOffCap=No estás en un guild.
+LS_KniOffDesc=Debes estar en un guild para participar en la Guerra de facciones.
 LS_RewardCount=(%s_1/%s_2)
 LS_SeasonCompleteMessage=Misiones de sesión de temporada %s_1 completadas.
 
@@ -7407,7 +7407,7 @@ LS_BattleStart=Empezar a luchar
 LS_BattleStartMessage=La batalla ha comenzado. ¡Conquista los altares y repele a los enemigos!
 LS_BattleTime=Tiempo de combate
 LS_BattleScore=Puntuación final
-LS_UnearnedWinMessage=El gremio contrario ha abandonado el combate. Has ganado automáticamente el territorio.
+LS_UnearnedWinMessage=El guild contrario ha abandonado el combate. Has ganado automáticamente el territorio.
 LS_BattleReward=Recompensas del torneo
 LS_ReturnToTown=Volver a la ciudad
 
@@ -7693,7 +7693,7 @@ LS_TimeNoLimit=Sin límite de tiempo
 [MU2GFxAirshipDefenceReward]
 LS_ClearInfo=Información de desminado
 LS_Stage=Etapa %s_1
-LS_GetRewardAndExit=Reclamar recompensa y salir
+LS_GetRewardAndExit=Reclamar y salir
 LS_GetReward=Reclamar recompensa
 LS_AllClear=Limpiado todo
 
@@ -8101,7 +8101,7 @@ LS_ExitBtn=Cerrar (ESC)
 LS_ExitBtn=Cerrar (Esc)
 
 [MU2GFxChaosCastleWidget]
-LS_RewardExit=Reclamar Recompensa y Salir
+LS_RewardExit=Reclamar y Salir
 LS_Rank=Rango
 LS_InGameInfo=¡Sobrevive hasta que nadie<br>quede en pie!
 LS_CurRank=Rango actual
@@ -8147,13 +8147,13 @@ LS_OK=OK (Espacio)
 LS_Cancel=Cancelar (Esc)
 
 [MU2GFxFieldBossRaid]
-LS_UITitle=Desafío jefe de gremio
+LS_UITitle=Desafío jefe de guild
 LS_RewardItem=Recompensa principal
 LS_CostTrophy=Coste del trofeo
 LS_BossSelect=Seleccionar
 LS_RaidUseCount=Límite de desbloqueo: %s_1/%s_2
 LS_MonsterLevel=Nivel: %s_1
-LS_HelpDesc=Desafío jefe de clan<br>- Requisitos para desbloquear: Maestros de gremio que posean Territorios de 2 o 3 estrellas.<br>- Disponibilidad: Todos los usuarios que entren en el portal abierto.<br>- Cómo Desbloquear: Selecciona e invoca un monstruo a costa de algunos Trofeos. Inmediatamente se activa un portal dentro de tu Territorio.<br>- Límite de desbloqueo: Se cuenta desde el final de una Guerra de facciones hasta el comienzo de la siguiente, y se reinicia después.<br>- Restricción de desbloqueo: Múltiples gremios no pueden desbloquear este contenido al mismo tiempo.
+LS_HelpDesc=Desafío jefe de clan<br>- Requisitos para desbloquear: Maestros de guild que posean Territorios de 2 o 3 estrellas.<br>- Disponibilidad: Todos los usuarios que entren en el portal abierto.<br>- Cómo Desbloquear: Selecciona e invoca un monstruo a costa de algunos Trofeos. Inmediatamente se activa un portal dentro de tu Territorio.<br>- Límite de desbloqueo: Se cuenta desde el final de una Guerra de facciones hasta el comienzo de la siguiente, y se reinicia después.<br>- Restricción de desbloqueo: Múltiples guilds no pueden desbloquear este contenido al mismo tiempo.
 MonsterType_1000=Monstruo Jefe
 MonsterName_1000=Kaizel
 MonsterDesc_1000=El progenitor de los Dracanos, Kaizel fue una vez adorado como el rey dragón por el antiguo Reino Wallkreiger,<br>pero ahora que ha sucumbido a los Demonios y a la Misión Oscura, este antiguo dragón supone una gran amenaza para Litenberg.
@@ -8303,7 +8303,7 @@ LS_StageLastGameInfo=Etapa final de la Torre del Amanecer. ¡Derrota al guardiá
 LS_StageComplete=¡Conquistado!
 LS_GameInfoTitle=¡Trata de subir el mayor número de niveles lo más rápido posible!
 LS_RewardReceive=Reclamar recompensa
-LS_RewardExit=Reclamar recompensa y salir
+LS_RewardExit=Reclamar y salir
 LS_StageFloor=Etapa %s_1F
 LS_LastStage=Última etapa
 LS_RewardTitle=Información clara
@@ -8541,7 +8541,7 @@ LS_Ok=Ok(Espacio)
 LS_ItemCount=%s_1 / %s_2
 
 [MU2GFxWebOfGodWidget]
-LS_RewardExit=Reclamar Recompensa y Salir
+LS_RewardExit=Reclamar y Salir
 LS_WebOfGodClosed=Los pasillos se han cerrado.
 LS_WebOfGodDesc=Las recompensas se clasifican según tus Kill Points. Cuando se libere el espaciotiempo, se enviará a tu buzón la recompensa correspondiente a tu rango.
 LS_KillPoint=Puntos de vida
@@ -8669,10 +8669,10 @@ LS_Card_Equip=Usado
 LS_Caption=Indice del set
 LS_Card_Hot=Recomendado
 LS_Card_New=Nuevo
-LS_Equipped_Arm=Efecto del conjunto de armadura
-LS_Equipped_ArmCol=Ver índice del conjunto de armadura
-LS_Equipped_Acc=Efecto del conjunto de accesorios
-LS_Equipped_AccCol=Ver índice de conjunto de accesorios
+LS_Equipped_Arm=Efecto del set de armadura
+LS_Equipped_ArmCol=Ver índice del set de armadura
+LS_Equipped_Acc=Efecto del set de accesorios
+LS_Equipped_AccCol=Ver índice del set de accesorios
 LS_Equipped_Point=Puntos
 LS_Equipped_LockCap=Cuando alcances Lv. 65,<br>se abrirá el sistema de índice de sets.
 LS_Equipped_NoneCap=Puedes equipar carta de set.
@@ -8680,7 +8680,7 @@ LS_Equipped_NoneDesc=El punto de ajuste aumenta cuando<br>se equipa equipo de aj
 LS_Equipped_NotArm=¡No hay efectos de armadura! ¡Equipar carta de set!
 LS_Equipped_NotYetArm=La carta de armadura no es efectiva porque el punto de armadura es demasiado bajo.
 LS_Equipped_NotAcc=¡No hay efectos de accesorios! ¡Equipar carta de set!
-LS_Equipped_NotYetAcc=La carta de set no es efectiva porque el punto de set de accesorios es demasiado bajo.
+LS_Equipped_NotYetAcc=La carta de set no es efectiva porque el punto del set de accesorios es demasiado bajo.
 LS_Desc_CR=<br>
 LS_Equipped_Warning=Puede utilizar todos los efectos sin cambiar de equipo utilizando el índice.
 LS_SetCol_Tab_Arm=Índice de armaduras

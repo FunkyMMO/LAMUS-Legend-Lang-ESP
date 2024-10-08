@@ -11,7 +11,7 @@ MainTitleFont=TT UD Shin Go Con90 Pr6 M,Bold
 MoviePath=UI_IME.IME
 
 [Translation]
-Enable=0
+Enable=1
 
 [Global]
 No Trigger=No Trigger!
