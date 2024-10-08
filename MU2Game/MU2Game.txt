@@ -1,1 +1,58 @@
-[MU2GFxKnightAgeInfo]
+[MU2GFxKnightAgeInfo] Guild Info
+
+[MU2GFxBulcanColosseumInfoWidget] 
+
+[MU2GFxAchievementView] Logros
+
+[MU2GfxMissionMap] Mapa de misiones
+
+[MU2GfxAdvDungeonInfo] Sociedad de investigación de Rift
+
+[MU2GFxFindPartySystem] Sistema buscar Party
+
+[MU2GFxSoulPassiveSkill] Almas
+
+[MU2GFxTooltip_ActionBarNoticeIcon] Diferentes tooltips
+
+[MU2GFxMainMenu] Menu Principal
+
+[MU2GFxRaidSetSail] Raids/Incursiones
+
+[MU2GFxRaidOrganization] Organización de Raids 
+
+[MU2GFxRaidJoinList] Unirte a una raid
+
+[MU2GFxRaidEstablishment] Cuando son las raids
+
+[MU2GFxSetCollection] Sets/Conjuntos
+
+[MU2GFxPlatinumServiceInfo] Platinum
+
+[MU2GFxMessageBoxReport] Casilla report user
+
+[MU2GFxOptions] Idiomas
+
+[MU2GFxExitMenu] Menu Escape
+
+[MU2GFxPCCafeReward] Recompensa por Inicio de Sesión
+
+[MU2GFxConnectionTimeEvent] Evento de conexión
+
+[MU2GFxLuerysTreasureReleaseEvent] Luerys Config
+
+[MU2GFxLegendBingo] Bingo Config
+
+[MU2GFxTalismanTicketReward] Talismán Reward
+
+[MU2GFxWebOfGodWidget] God of Corridor Event
+
+LS_ArmorTreeList
+
+
+
+
+
+
+
+
+

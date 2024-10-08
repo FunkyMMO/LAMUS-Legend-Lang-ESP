@@ -44,12 +44,12 @@ ItemTStoneGrade_8=Piedra Trascendente Set
 
 [ItemDivision]
 ItemDivision_0=Material
-ItemDivision_1=Escudo
-ItemDivision_2=Top
-ItemDivision_3=Fondos
+ItemDivision_1=Casco
+ItemDivision_2=Pecho
+ItemDivision_3=Pantalon
 ItemDivision_4=Guantes
-ItemDivision_5=Zapatos
-ItemDivision_6=Hombro
+ItemDivision_5=Zapatoz
+ItemDivision_6=Hombrera
 ItemDivision_8=Cinturón
 ItemDivision_9=Anillo
 ItemDivision_10=Brazalete
