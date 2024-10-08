@@ -1713,7 +1713,7 @@ readTitle=Leer correo
 senderTitle=Remitente
 sendMoneyTitle=Importe adjunto
 sendItemTitle=Artículo adjunto
-btnReply=Contestar
+btnReply=Responder
 btnDelete=Borrar
 receivedMail=Correo recibido:
 SendItemDefault=Registre el elemento que desea adjuntar.
@@ -2107,7 +2107,7 @@ CollectType3=Alma
 CollectType4=Artefacto
 
 [MU2GFxAdventureJournalView]
-LS_AdventureJournal=Búsqueda
+LS_AdventureJournal=Misión
 
 [MU2GFxAchievement]
 lsAchieveContentList=Todo|0/General|0/Exploración|0/Combate|0/Investigación|0/Recolección|0/Artesanía|0
@@ -2117,34 +2117,34 @@ lsAchievePoint=Puntos
 lsAchieveTitle=Título de Recompensa
 
 [MU2GFxQuestView]
-LS_QuestViewTitle=Búsqueda
-LS_EmptyNotice=No hay ninguna búsqueda en curso.
+LS_QuestViewTitle=Misiones
+LS_EmptyNotice=No hay ninguna misión en curso.
 LS_BtnQuestGiveUpLabel=Abandonar Misión
 LS_BtnReplayNpcDialogLabel=Revisar diálogo NPC
 LS_BtnReplayNpcAudioLabel=Reproducir diálogo NPC
-LS_CbShowMainLabel=Búsqueda principal
-LS_CbShowNormalLabel=Búsqueda normal
-LS_CbShowDailyLabel=Búsqueda diaria
-LS_CbShowHeroLabel=Búsqueda de área
-LS_CbShowRepeatLabel=Búsqueda de repetición
-LS_CbShowEventLabel=Búsqueda de evento
+LS_CbShowMainLabel=Misión principal
+LS_CbShowNormalLabel=Misión normal
+LS_CbShowDailyLabel=Misión diaria
+LS_CbShowHeroLabel=Misión de área
+LS_CbShowRepeatLabel=Misión de repetición
+LS_CbShowEventLabel=Misión de evento
 LS_CbShowCompleteQuestLabel=Incluir misiones completadas
 LS_QuestTipTitle[0]=¿No puede ver las misiones en curso?
 LS_QuestTipTitle[1]=¿No tiene misiones que completar?
 LS_QuestTipTitle[2]=¿No puede encontrar más misiones?
 LS_QuestTipTitle[3]=¿Conoces las misiones de la zona?
-LS_QuestTipSubTitle[0]=Marca las casillas de verificación al final de la lista de Quest.
-LS_QuestTipSubTitle[1]=Busca signos de exclamación en el mapa.¶Puedes conseguir nuevas quests.
+LS_QuestTipSubTitle[0]=Marca las casillas de verificación al final de la lista de misiones.
+LS_QuestTipSubTitle[1]=Busca signos de exclamación en el mapa.¶Puedes conseguir nuevas misiones.
 LS_QuestTipSubTitle[2]=Ciertas misiones requieren cierto nivel.
 LS_QuestTipSubTitle[3]=Completa las misiones de área para aumentar tu nivel fácilmente.
 LS_QuestTipDesc[0]=Marca todas las casillas para ver las misiones en curso.
 LS_QuestTipDesc[1]=Puedes abrir el mapa con la tecla M.
-LS_QuestTipDesc[2]=¿Qué tal probar otras características para aumentar tu nivel?¶(Características recomendadas: La Rift y la Torre sin fin)
-LS_QuestTipDesc[3]=Los NPCs de búsqueda de área aparecen por todas partes en los campos¶y desaparecen después de un periodo de tiempo determinado.
+LS_QuestTipDesc[2]=¿Qué tal probar otras características para aumentar tu nivel?¶(Características recomendadas: Rift y Endless Tower)
+LS_QuestTipDesc[3]=Los NPCs de misiones de área aparecen por todas partes en los campos¶y desaparecen después de un periodo de tiempo determinado.
 LS_PinBtnCompleteText=END
 
 [MU2GFxManufactureCastbar]
-TitleString=Arte del objeto
+TitleString=Craft item
 CancelString=Cancelar
 
 [MU2GFxMagicStoneMsgBox]
@@ -2159,16 +2159,16 @@ LS_MS_DelWarning=La Joya extraída se guardará en su inventario.
 LS_MS_OwnWarning=Equipar una gema te vincula al objeto.
 
 [MU2GFxEnchantView]
-LS_ProtectedEnchant=Encantado Protegido
-LS_AutoEnchant=Encantado automático
+LS_ProtectedEnchant=Proteger Encantamiento
+LS_AutoEnchant=Encantamiento automático
 LS_OnSale=¡En venta!
 LS_CancelEnchant=Cancelar encantamiento
 LS_Enchant=Encantar
 LS_KnightEnchant=Encantar
-LS_EnchantTransfer=Transferencia de encantamiento
-LS_ItemEnchantInfo=Información de encantamiento del artículo
+LS_EnchantTransfer=Transferir el encantamiento
+LS_ItemEnchantInfo=Información de encantamiento del item
 LS_ItemFixedEnchantInfo=Información de encantamiento de la entrada de encantamiento
-LS_ItemEnchantTransfer=Información sobre transferencia de encantamiento de artículo
+LS_ItemEnchantTransfer=Información sobre transferencia de encantamiento de item
 LS_ConsumeMaterial=Material
 LS_AutoEnchanting=Encantamiento automático
 LS_OK=OK
@@ -2513,7 +2513,7 @@ Zen=<font color='#fce7b0'>Zen</font><br>La moneda por defecto de MU Continent.<b
 GreenZen=<font color='#c7ff88'>Gemas Mágicas</font><br>Una valiosa moneda del Continente MU que se ata a sus dueños.
 RiftPoint=<font color='#88d6ff'>Fragmento de Rift</font><br>Una moneda encontrada en la Rift.<br>Puede ser usada a través de los Comerciantes de Fragmentos de Rift.
 KnightsPoint=<font color='#ddafff'>Puntos de Contribución de Gremio</font><br>Puntos que puedes ganar mientras progresas en el juego. Los Puntos de Contribución se pueden utilizar en la Tienda de Contribución del territorio.
-RedZen=<font color='#fbaf5d'>Redzen</font><br>Una moneda preciosa que se puede comprar con G Coin.
+RedZen=<font color='#fbaf5d'>Redzen</font><br>Una moneda preciosa que se puede comprar con WCoin.
 RedZen2=<font color='#fbaf5d'>Redzen</font><br>Una moneda preciosa que se puede comprar con Daum Cash.
 LS_EmotionPoint=<font color='#bbbbbb'>Energía de Éter</font><br>Energía inestable extraída de Soulstones e ingredientes mágicos. Explota al entrar en contacto con Sealstones, materializándose.
 ImputedRedZen=<font color='#fc7711'>Redzen</font><br>Una moneda que se encuentra en el juego.<br>Se puede usar en la Tienda LAMUS igual que el Redzen normal.
@@ -5094,7 +5094,7 @@ LS_FellowTypeBonus=Bonificación por tipo de compañero
 LS_SummonPetText=Invocado
 LS_SummonFellowText=Mascota
 LS_IsEvoultionString=Listo para evolucionar
-LS_IsGrowPetString=Mascota de crecimiento
+LS_IsGrowPetString=Crecimiento
 LS_btnSummonText=Sumar
 LS_btnDeSpawnText=Quitar
 LS_btnReNameText=Renombrar
@@ -5106,7 +5106,7 @@ LS_AdventureTitle=Aventura con mascota
 LS_AdventurePartyTitle=Formar un grupo de aventura.
 LS_HeroPet=Mascota héroe
 LS_btnGoAdventure=Empezar aventura
-LS_btnSetParty=Formar una party
+LS_btnSetParty=Formar un grupo
 LS_btnUnsetParty=Salir del grupo
 LS_AdventrueStartTitle=Comprueba las Aventuras Disponibles Hoy
 LS_AdventrueStartDesc=Envía a tus mascotas de aventuras.¶Las aventuras se reinician a las 5:00 a.m., y hay nuevos retos disponibles.
@@ -5187,7 +5187,7 @@ LS_MissionMapRequest=%s_1: Ahora aceptando peticiones
 LS_BurningStamina=%s_1 Rift: Fase de sobremarcha %s_2
 LS_AddNewPet=Has conseguido una nueva mascota.
 LS_LeftPetStatePoint=[%s_1] tiene puntos de estado restantes.
-LS_AddNewManufacture=Obtenido una nueva lista de artesanía.
+LS_AddNewManufacture=Obtenido una nueva lista de craft.
 
 [MU2GFxMenuButtonWidget]
 LS_MainMenuBtnLabel=Menu
@@ -5196,7 +5196,7 @@ LS_LueryBoxBtnLabel=Tesoro de Luery's
 LS_SproutBonusLabel=Bonificación de retoño
 
 [MU2GFxItemDisassemble]
-LS_Title=Desmontar Objetos
+LS_Title=Desmontar Items
 LS_ItemDisassembleBtn=Desarme de Objetos
 LS_PullBtn=Retirar todo
 LS_EarningGreenZen=Gemas mágicas ganadas
