@@ -5074,7 +5074,7 @@ LS_CBT2_Ranker_EndlessTower_Score[8]=Piso 100 (00:03:41)
 LS_CBT2_Ranker_EndlessTower_Score[9]=Piso 100 (00:03:41)
 
 [MU2GFxPet]
-LS_PetViewTitle=Gestionar mascotas
+LS_PetViewTitle=Administrar Mascotas
 LS_PetWindowBtnBarTap[0]=Mascotas
 LS_PetWindowBtnBarTap[1]=Invocar
 LS_PetWindowBtnBarTap[2]=Crecimiento
@@ -5083,7 +5083,7 @@ LS_SortDropDown[0]=Por Crecimiento
 LS_SortDropDown[1]=Por Poder
 LS_RegionFilterNone=Ver todos
 LS_HavePetNumText=Tus mascotas: %s_1
-LS_CombatPowerText=Poder de combate
+LS_CombatPowerText=PC
 LS_LevelText=Nivel
 LS_PossessWindowTitle=Colección / Efecto de crecimiento
 LS_SummonPetLabel=Mascota de invocación/acompañante
@@ -8348,7 +8348,7 @@ LS_MissionTag_Reward=Ganada EXP
 
 [MU2GFxConnectionTimeEvent]
 LS_Title=Evento de conexión
-LS_DescHead=¡Todo lo que tienes que hacer es conectarte para conseguir recompensas!<br/>
+LS_DescHead=¡Mantente conectado para conseguir recompensas!<br/>
 LS_EventTime1=Duración del evento
 LS_PlayTime1=Tiempo en línea
 LS_Day=%s_1 Día
@@ -8359,7 +8359,7 @@ LS_DescMiddle2=<font color='#FDC243'>Recoge todos los sellos para conseguir la r
 LS_Time=%s_1 m
 LS_TimeHour=%s_1 h
 LS_TimeRewardGetBtn=Recoger recompensas
-LS_DescTail=Recoge recompensas según tu tiempo conectado.<br />Al obtener todas, tu sello se recarga y permite una recompensa diaria.<br />Si completas los sellos, puedes optar por la recompensa de recarga, la cual reinicia los sellos tras reclamar todas las recompensas.<br> 
+LS_DescTail=Recoge recompensas según tu tiempo conectado. Al obtener todas, tu sello se recarga y permite una recompensa diaria.<br />Si completas los sellos, puedes optar por la recompensa de recarga, la cual reinicia los sellos tras reclamar todas las recompensas.<br> 
 LS_BoxTooltip=<font color='#FDC243'>Recompensa de recarga de sellos</font></b><br><font color='#999999'>Recoge los 7 sellos para ganar una recompensa.
 LS_PopupTitle=Recompensa por recarga de sellos
 LS_PopupGetDesc=Seleccione una de las recompensas.

@@ -46,7 +46,7 @@
 
 [MU2GFxWebOfGodWidget] God of Corridor Event
 
-LS_ArmorTreeList
+[MU2GFxPet] Mascotas
 
 
 
