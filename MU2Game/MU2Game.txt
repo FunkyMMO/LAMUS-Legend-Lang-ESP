@@ -48,6 +48,12 @@
 
 [MU2GFxPet] Mascotas
 
+[MU2GFxNoriaEveEvent] Evento Noria
+
+//MU2GameString.kor
+
+[LevelGuide] Nombres dungeon Menú
+
 
 
 
