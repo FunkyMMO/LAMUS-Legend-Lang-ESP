@@ -33,10 +33,10 @@ Service_1014=3% de comisión por vender Redgen a Trade Broker
 [MU2GFxPartyView]
 ListItem_0=Información de nivel Platino
 ListItem_1=Movimiento instantáneo
-ListItem_2=Almacén privado
-ListItem_3=Almacén de cuenta
-ListItem_4=Desmontaje a distancia
-ListItem_5=Tienda de pociones a distancia
+ListItem_2=Baúl privado
+ListItem_3=Baúl de cuenta
+ListItem_4=Desarmar a distancia
+ListItem_5=Tienda de pociones remota
 ListItem_6=Correo remoto
 ListCmd_0=0
 ListCmd_1=2001
@@ -45,6 +45,6 @@ ListCmd_3=2003
 ListCmd_4=2005
 ListCmd_5=1006
 ListCmd_6=2002
-LS_PlatinumUser=Activar servicio Gold
-LS_PlaytinumPlus=Activar servicio Platinum
+LS_PlatinumUser=Activar VIP Gold
+LS_PlaytinumPlus=Activar VIP Platinum
 

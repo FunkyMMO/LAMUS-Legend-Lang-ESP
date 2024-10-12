@@ -4,7 +4,7 @@ ErrFcsResult=¶ Error:%s_1, Error FCS:%s_2
 
 [ClientMessage]
 Common_Title=Tienda
-Common_Unknown=Mensaje desconocido.
+Common_Unknown=Error desconocido.
 Purchase_Success=Compruebe su almacén e inventario para sus compras.
 CheckChar_NotInput=No se ha introducido ningún mensaje. Por favor, compruébelo e inténtelo de nuevo.
 Gift_Success=Se ha enviado correctamente el regalo a %s_1.
