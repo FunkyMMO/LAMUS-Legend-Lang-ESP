@@ -56,6 +56,9 @@
 
 [LevelGuide] Nombres dungeon Menú
 
+[MissionMap] Mapa de misiones
+
+[RankSystem] Clasificación
 
 
 
