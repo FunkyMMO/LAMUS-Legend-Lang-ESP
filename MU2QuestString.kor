@@ -167,12 +167,12 @@ Occur_String3=[Una nube oscurece su rostro mientras lee la carta.] ...<br>Lo sie
 Occur_String4=¿De qué se trata eso?
 Occur_String5=Jerome es un devoto seguidor de Rugard, y su mente ha estado en un torbellino desde la invasión de Pandemonium.<br>No entiende por qué Rugard, el dios de la protección, no haría nada sobre la situación.
 Occur_String6=¿Quiere saber por qué un dios no lo ayudaría? ¿Está en serio?<br>Hay muchas personas ahí afuera luchando por sobrevivir cada día. No voy a involucrarme en una farsa religiosa. Me voy.
-Occur_String7=Guerrero, por favor, no te vayas. Jerome necesita tu ayuda para encontrar la paz mental.<br>Quizás el sacerdote Benedict junto al Koha Lake sepa la respuesta.<br>¿Podrías entregarle la carta de Jerome?
+Occur_String7=Guerrero, por favor, no te vayas. Jerome necesita tu ayuda para encontrar la paz mental.<br>Quizás el sacerdote Benedict junto al Lake Koha sepa la respuesta.<br>¿Podrías entregarle la carta de Jerome?
 Doing_String=Pobre Jerome.<br>Quizás sea demasiado bondadoso para ser un soldado.<br>Debe haber sido difícil para él ver cómo mataban a sus amigos en el campo de batalla.
 Completable_String1=Esta es la carta de Jerome. Rosa me pidió que te la entregara.<br>No sé cómo ni qué explicarte.
-Complete_String=Le entregué la carta de Jerome al sacerdote Benedict junto al Koha Lake en Amberial Forest.
-List_String=Tengo que entregar la carta de Jerome al sacerdote Benedict junto al Koha Lake en Amberial Forest.
-Mission_String=Entregar la carta de Jerome al sacerdote Benedict junto al Koha Lake en Amberial Forest
+Complete_String=Le entregué la carta de Jerome al sacerdote Benedict junto al Lake Koha en Amberial Forest.
+List_String=Tengo que entregar la carta de Jerome al sacerdote Benedict junto al Lake Koha en Amberial Forest.
+Mission_String=Entregar la carta de Jerome al sacerdote Benedict junto al Lake Koha en Amberial Forest
 Mission_Target1=Hablar con Benedict
 
 [Quest_18]
@@ -189,9 +189,9 @@ Occur_String9=
 Doing_String=
 Completable_String1=...<br>Estamos solos por ahora,<br>pero si oramos con suficiente fervor, Rugard nos escuchará.<br>No nos abandonará para siempre.
 Completable_String2=Ya veremos.
-Complete_String=Recibí información sobre el dios Rugard de uno de sus sacerdotes junto al Koha Lake.
-List_String=Debería recibir información sobre el dios Rugard de uno de sus sacerdotes junto al Koha Lake.
-Mission_String=Recibir información sobre el dios Rugard de uno de sus sacerdotes junto al Koha Lake
+Complete_String=Recibí información sobre el dios Rugard de uno de sus sacerdotes junto al Lake Koha.
+List_String=Debería recibir información sobre el dios Rugard de uno de sus sacerdotes junto al Lake Koha.
+Mission_String=Recibir información sobre el dios Rugard de uno de sus sacerdotes junto al Lake Koha
 Mission_Target1=Hablar con Benedict
 
 [Quest_19]
