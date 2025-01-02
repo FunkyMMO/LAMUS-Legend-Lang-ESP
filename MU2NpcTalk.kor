@@ -352,7 +352,7 @@ Greeting4=Soy la tía de Datan. Estoy cuidándolo por mi hermano.
 
 [Npc_1253]
 Name=Kyle
-Greeting1=El Reino de Karol es el precursor del Ducado de Tephakin.
+Greeting1=El Karol Kingdom es el precursor del Ducado de Tephakin.
 Greeting2=El espíritu del antiguo reino es lo que necesitamos en tiempos como este.
 
 [Npc_1254]
@@ -665,7 +665,7 @@ Greeting2=Envidio a los caballeros. Especialmente su espíritu indomable y sus c
 [Npc_210]
 Name=Henry
 Greeting1=Árboles mutados... ¿Qué se supone que debo hacer ahora para ganarme la vida...?
-Greeting2=¿No crees que la Sacerdotisa Rosa es hermosa?
+Greeting2=¿No crees que la Priestess Rosa es hermosa?
 
 [Npc_212]
 Name=Ilina (Amberial)
@@ -673,7 +673,7 @@ Greeting1=Espero que la situación mejore pronto...
 
 [Npc_213]
 Name=Shadow Phantom Soldier 1
-Greeting1=Los Sombras Fantasmas son los caballeros más fuertes de Noria.
+Greeting1=Los Shadow Phantom son los caballeros más fuertes de Noria.
 Greeting2=Si es importante, informa al Comandante Iris.
 
 [Npc_214]
@@ -708,8 +708,8 @@ Sayhello1=¿Crees que hay alguien más inteligente que yo en Enova?
 [Npc_223]
 Name=Quarry Supervisor
 Greeting1=No puedo creer que nuestra producción haya disminuido por la invasión del Ejército Pandemonium...
-Sayhello1=La Mina Karmatan tiene la mayor producción en la Weiss Basin.
-Sayhello2=Soy el capitán de los Guardias de la Mina Karmatan.
+Sayhello1=La Karmatan Mine tiene la mayor producción en Weiss Basin.
+Sayhello2=Soy el capitán de los Guardias de la Karmatan Mine.
 
 [Npc_224]
 Name=Dwarf Worker 1
@@ -729,7 +729,7 @@ Greeting1=La asociación... Pandemonium... Lo mismo, diferentes líderes... ¿Qu
 
 [Npc_229]
 Name=Association President
-Greeting1=La Asociación Minera es un sindicato de propietarios de minas.
+Greeting1=La Mining Association es un sindicato de propietarios de minas.
 Greeting2=¿Es esta guerra una oportunidad o una calamidad?
 Sayhello1=Somos los leviatanes que controlan Dudrin.
 
@@ -761,12 +761,12 @@ Name=Billy
 Greeting1=El jefe de la base minera, Hans, es como un padre para mí...
 
 [Npc_255]
-Name=Duprian (Mina Karmatan)
+Name=Duprian (Karmatan Mine)
 Sayhello1=¡Vamos a repeler a la Legión de los Bull Horns con una formación en cuña!
-Sayhello2=¡Protejan la Mina Karmatan con sus vidas!
+Sayhello2=¡Protejan la Karmatan Mine con sus vidas!
 
 [Npc_256]
-Name=Trader Phili (Mina Karmatan)
+Name=Trader Phili (Karmatan Mine)
 Greeting1=Huele a dinero aquí.
 Sayhello1=¡La vida se trata de tomar riesgos!
 
@@ -999,7 +999,7 @@ Sayhello1=¡Mamá volverá si espero aquí!
 
 [Npc_614]
 Name=Denain
-Sayhello1=Diferentes razas viven en armonía aquí en la Residencia de Extranjeros.
+Sayhello1=Diferentes razas viven en armonía aquí en la Foreigner Residence.
 Sayhello2=Este debe ser el único lugar en el que diferentes razas coexisten tan pacíficamente.
 
 [Npc_615]
@@ -1071,7 +1071,7 @@ Sayhello1=Adiós, mis bebés.
 [Npc_104050520]
 Name=Ohrdor Trader Tray
 Sayhello1=¡No dejes caer ni golpees la mercancía!
-Sayhello2=Puedes decir que soy el comerciante más influyente de este Ohrdor.
+Sayhello2=Puedes decir que soy el comerciante más influyente de Ohrdor.
 Greeting1=¿Eh? ¡Extraño, nos volvemos a encontrar!
 Greeting2=No he olvidado tu ayuda. ¡Gracias!
 
@@ -1096,7 +1096,7 @@ Greeting1=Cocino para ganarme la vida.
 
 [Npc_105040031]
 Name=Devias Knights Guard
-Greeting1=¡Muerte a aquellos que se opongan a los Caballeros de Devias!
+Greeting1=¡Muerte a aquellos que se opongan a los Devias Knights!
 Greeting2=¿Tienes algo que decirme?
 Greeting3=¿Eh? ¿Te conozco?
 
@@ -1106,16 +1106,16 @@ Greeting1=¡Salve al Maestro Muren!
 
 [Npc_105040037]
 Name=Devias Knights Defense Squad Leader
-Greeting1=¡Caballeros de Devias, carguen!
+Greeting1=¡Devias Knights, carguen!
 Greeting2=¡Mantengan sus posiciones!
 
 [Npc_8245]
 Name=Taro
-Greeting1=¿Alguna vez has estado en la capital, Qwahadan, bajo tierra? Comparado con la capital, el Pueblo Qwyinan es solo un suburbio.
+Greeting1=¿Alguna vez has estado en la capital, Qwahadan, bajo tierra? Comparado con la capital, Qwyinan Village es solo un suburbio.
 
 [Npc_8246]
 Name=Gonchi
-Greeting1=El Reino de Mediah puede ser nuestro enemigo, pero está esforzándose por mantener la paz.
+Greeting1=El Mediah Kingdom puede ser nuestro enemigo, pero está esforzándose por mantener la paz.
 
 [Npc_8247]
 Name=Gart
@@ -1123,7 +1123,7 @@ Greeting1=Un forastero... Te recomiendo que te mantengas callado hasta que te va
 
 [Npc_8248]
 Name=Bantua
-Greeting1=¿Sabes algo sobre el Campo de Prisiones? Es un lugar donde se mantienen decenas de miles de prisioneros de Pandemonium.
+Greeting1=¿Sabes algo sobre Prison Camp? Es un lugar donde se mantienen decenas de miles de prisioneros de Pandemonium.
 
 [Npc_8249]
 Name=Piacon
@@ -1151,7 +1151,7 @@ Greeting1=Bulcan es un dios de la Alianza Lineal. Ellos piensan que los dragones
 
 [Npc_8255]
 Name=Heta
-Greeting1=Cuanto más profundizas en las ciudades de Drapia, más grandes y grandiosas son.
+Greeting1=Cuanto más profundizas en las Cities of Drapia, más grandes y grandiosas son.
 
 [Npc_8395]
 Name=Duran
@@ -1176,7 +1176,7 @@ Greeting2=Esto no es nada difícil. Mi hacha sigue resbalando de mi mano, así q
 
 [Npc_8399]
 Name=Bulcan Temple Guard
-Greeting1=¡Jajaja! ¡Ven cuando quieras, sinvergüenzas!
+Greeting1=¡Jajaja! ¡Ven cuando quieras, sinvergüenza!
 
 [Npc_8400]
 Name=Kanturian Technician Hamon
@@ -1185,10 +1185,10 @@ Greeting2=Deja de hablarme. Estoy ocupado.
 
 [Npc_8402]
 Name=Tulum's Assistant
-Greeting1=Tulum es un científico, no un ingeniero. No puede arreglar los Dios ni aunque los desarme.
+Greeting1=Tulum es un científico, no un ingeniero. No puede arreglar a los Dioses ni aunque los desarme.
 Greeting2=Al final seré yo quien los vuelva a montar. Sigh...
-Greeting3=Creo que Tulum se niega a dejar de desarmar los Dios porque hacerlo sería admitir su derrota.
-Greeting4=Fue difícil mover todos los Dios rotos, y ahora tengo que salir de nuevo para conseguir más.
+Greeting3=Creo que Tulum se niega a dejar de desarmar a los Dioses porque hacerlo sería admitir su derrota.
+Greeting4=Fue difícil mover todos los Dioses rotos, y ahora tengo que salir de nuevo para conseguir más.
 
 [Npc_8403]
 Name=Delia
@@ -1224,29 +1224,29 @@ Greeting4=Estos caballeros se ofrecieron voluntariamente para proteger al grupo 
 [Npc_8410]
 Name=Devias Guard
 Greeting1=¡Salve al Señor Muren!
-Greeting2=Estás a salvo aquí en el puesto avanzado de Devias.
+Greeting2=Estás a salvo aquí en Devias' outpost.
 
 [Npc_8411]
 Name=P'song
 Greeting1=Ah, esto es tan difícil, quiero renunciar en cuanto tenga la primera oportunidad.
 Greeting2=Echo de menos trabajar en Enova. Este lugar es demasiado frío y el trabajo es muy cansado. *Solloza*
 Greeting3=Este lugar prosperó en su momento.
-Greeting4=La Rama del Cañón ha dejado ir una gran cantidad de minas. Por eso este lugar está tan vacío.
+Greeting4=The Canyon Branch ha dejado ir una gran cantidad de minas. Por eso este lugar está tan vacío.
 
 [Npc_8412]
 Name=Genie
 Greeting1=¡Cuervo, cuervo! Hola, soy Genie.
 Greeting2=¡Nada sabe mejor que un vaso de agua carbonatada en medio del trabajo duro!
 Greeting3=Consígueme algo de agua carbonatada y podría concederte un deseo.
-Greeting4=Los cristales de la Mina de Cristales son de tan alta calidad que la gente ni siquiera se molesta con los cristales impuros como esos de allá.
+Greeting4=Los cristales de la Crystal Mine son de tan alta calidad que la gente ni siquiera se molesta con los cristales impuros como esos de allá.
 Greeting5=Por ahora, la rama deja que la Alianza Nobiliaria use su nombre y usa el dinero para su operación.
 
 [Npc_8413]
 Name=Spanner
 Greeting1=Antes había más de un brasero aquí.
 Greeting2=Me gusta no tener tanto trabajo como antes.
-Greeting3=La Mina de Cristales pertenece a la Alianza Nobiliaria.
-Greeting4=Necesitamos el permiso de la Alianza Nobiliaria para minar en la Mina de Cristales.
+Greeting3=La Crystal Mine pertenece a la Alianza Nobiliaria.
+Greeting4=Necesitamos el permiso de la Alianza Nobiliaria para minar en la Crystal Mine.
 Greeting5=Vench y yo estamos aquí para mantener el brasero funcionando.
 
 [Npc_8415]
@@ -1290,12 +1290,12 @@ Greeting3=Devias es el mejor de los caballeros del continente.
 [Npc_620]
 Name=Devias Lance
 Greeting1=¡Salve al Señor Muren!
-Greeting2=Devias es el mejor de los caballeros del continente.
+Greeting2=Devias tiene los mejores caballeros del continente.
 
 [Npc_621]
 Name=Devias Spear
 Greeting1=¡Salve al Señor Muren!
-Greeting2=Devias es el mejor de los caballeros del continente.
+Greeting2=Devias tiene los mejores caballeros del continente.
 
 [Npc_619]
 Name=Dracans Knight Captain Kainan
@@ -1387,7 +1387,7 @@ Greeting1=¿Qué pasa, forastero?
 
 [Npc_379]
 Name=Airship Attendant Serona
-Sayhello1=Bienvenido al Reino de Drapia.
+Sayhello1=Bienvenido al Drapia Kingdom.
 Sayhello2=Nitro Airline es la mejor aerolínea, conectando la Alianza y la Coalición.
 
 [Npc_391]
@@ -1561,7 +1561,7 @@ Greeting1=Duelden es donde ocurre la mayoría de la agricultura en el continente
 
 [Npc_8234]
 Name=Dent
-Greeting1=¿Sabes algo sobre el Reino Karol? El ducado Tephakin de hoy fue fundado por sus descendientes.
+Greeting1=¿Sabes algo sobre el Karol Kingdom? El ducado Tephakin de hoy fue fundado por sus descendientes.
 
 [Npc_8235]
 Name=Bein
@@ -1569,8 +1569,8 @@ Greeting1=Cuando voy a Karolsandria, siento escalofríos en la espalda.
 
 [Npc_8236]
 Name=Gaal
-Greeting1=Lorencia niega que el Reino Karol sea nuestro ancestro.
-Sayhello1=Debemos encontrar algo que demuestre que descendemos del Reino Karol.
+Greeting1=Lorencia niega que Karol Kingdom sea nuestro ancestro.
+Sayhello1=Debemos encontrar algo que demuestre que descendemos del Karol Kingdom.
 
 [Npc_8240]
 Name=Lavellon
@@ -1583,7 +1583,7 @@ Greeting1=Dicen que las estatuas de piedra de los Titanes fueron encontradas en 
 
 [Npc_8242]
 Name=Vash
-Greeting1=El norte de Salormis es hogar de los Garudas, que son parte de la Alianza Lineal.
+Greeting1=Northern Salormis es hogar de los Garudas, que son parte de la Alianza Lineal.
 
 [Npc_8237]
 Name=Damien
@@ -1596,7 +1596,7 @@ Greeting1=¡Saludos! ¡Bienvenido a nuestra aldea!
 
 [Npc_8239]
 Name=Illin
-Greeting1=Debes ser un viajero. Si tienes tiempo, intenta visitar la Canal City en Salormis.
+Greeting1=Debes ser un viajero. Si tienes tiempo, intenta visitar Canal City en Salormis.
 
 [Npc_8244]
 Name=Tephakin Officer
@@ -1672,7 +1672,7 @@ Greeting1=No te preocupes. Este lugar es seguro.
 
 [Npc_1004]
 Name=Guard
-Greeting1=Deja la seguridad de la aldea Tempano en nuestras manos.
+Greeting1=Deja la seguridad de Tempano Village en nuestras manos.
 Greeting2=Avísame si te encuentras en problemas.
 
 [Npc_1201]
@@ -1712,9 +1712,9 @@ Greeting1=Estamos ocupados purificando la tierra. ¿Te unirás a nosotros?
 
 [Npc_1209]
 Name=Joseph
-Sayhello1=Soy Joseph, el comandante de la Base Central.
+Sayhello1=Soy Joseph, el comandante de la Central Base.
 Sayhello2=La base tiene un montículo de baliza para señalar los ataques enemigos.
-Greeting1=Si esta base cae, la ciudad de Tempano está perdida.
+Greeting1=Si esta base cae, Tempano City está perdida.
 Questid_Num1=1109
 QuestID_1109=Vaya. Nunca he oído de algo así. Ya encontré un esposo para Daisy. Procederé con la boda tan pronto como regrese a casa.
 
@@ -1735,8 +1735,8 @@ Sayhello1=¡No volveré hasta que consiga comida!
 
 [Npc_1213]
 Name=Frank
-Sayhello1=Esos osos marrones espinosos arruinaron mi granja.
-Greeting1=Los osos marrones espinosos son las mascotas de los Gnolls.
+Sayhello1=Esos Thorned Brown Bears arruinaron mi granja.
+Greeting1=Los Thorned Brown Bears son las mascotas de los Gnolls.
 
 [Npc_1214]
 Name=Paul
@@ -1754,17 +1754,17 @@ Greeting1=¡No hay dónde retirarse! ¡Debemos mantener nuestra posición!
 
 [Npc_1222]
 Name=Arundinem
-Greeting1=Creo que la Misión Oscura es más amenazante que Pandemonium.
+Greeting1=Creo que la Dark Mission es más amenazante que Pandemonium.
 Greeting2=¿Cómo puedo elevar la moral de mi ejército...?
 
 [Npc_1223]
 Name=Euclea
-Sayhello1=El Segador Oscuro es un monstruo gigante que encarna la ira de los ciudadanos de Karol.
+Sayhello1=Dark Reaper es un monstruo gigante que encarna la ira de los ciudadanos de Karol.
 Greeting1=Este lugar es demasiado peligroso ahora...
 
 [Npc_1224]
 Name=Remon
-Sayhello1=Karolsandria es la antigua capital del Reino de Karol. Quedan numerosas ruinas.
+Sayhello1=Karolsandria es la antigua capital del Karol Kingdom. Quedan numerosas ruinas.
 
 [Npc_1225]
 Name=Kamok
@@ -1776,7 +1776,7 @@ Greeting1=Karol es un reino condenado, borrado de las páginas de la historia.
 
 [Npc_1228]
 Name=Aron
-Greeting1=Ese sacerdote loco ha engañado a los inocentes para la Misión Oscura.
+Greeting1=Ese sacerdote loco ha engañado a los inocentes para la Dark Mission.
 Greeting2=Ese sacerdote loco, si no se hubiera desaparecido así de repente, podría haberse convertido en un respetable gran sacerdote.
 
 [Npc_1229]
@@ -1785,7 +1785,7 @@ Sayhello1=¿Cómo puedo cambiar su opinión?
 
 [Npc_1230]
 Name=Samuel
-Greeting1=Mi hermana ha sido hechizada por la Misión Oscura.
+Greeting1=Mi hermana ha sido hechizada por la Dark Mission.
 
 [Npc_1232]
 Name=Phoebe
@@ -1795,7 +1795,7 @@ Greeting1=Tengo mucho tiempo y dinero... ¿No hay algo divertido que hacer?
 [Npc_1233]
 Name=Matthias
 Sayhello1=¡Ejército Tephakin, levántate desde la desesperación!
-Greeting1=La Ciudad del Canal es el origen de Tephakin.
+Greeting1=Canal City es el origen de Tephakin.
 Greeting2=Nos enorgullecemos de ser descendientes de Karol.
 
 [Npc_1234]
@@ -1817,7 +1817,7 @@ Greeting2=¿Eh? ¿Me estás buscando?
 [Npc_1286]
 Name=Joanne
 Sayhello1=¡Pueden atacar en cualquier momento!
-Sayhello2=¡Regrupen!
+Sayhello2=¡Reagrupen!
 Greeting1=¡Este lugar es peligroso!
 Greeting2=¡Cuidado con los dragones gigantes!
 
@@ -1832,7 +1832,7 @@ Sayhello1=No puedo creer que me haya quedado atrás de mi unidad.
 
 [Npc_8218]
 Name=Aillia
-Greeting1=La ciudad de Tempano está llena de comerciantes que viajan por el continente para comerciar cultivos.
+Greeting1=Tempano City está llena de comerciantes que viajan por el continente para comerciar cultivos.
 
 [Npc_8219]
 Name=Maiv
@@ -1922,368 +1922,368 @@ Greeting2=El juego excesivo puede ser perjudicial para tu salud. Asegúrate de d
 Greeting3=Puedo ayudarte a resolver cualquier cosa.
 
 [Npc_9406]
-Name=Posadero
+Name=Innkeeper
 Greeting1=Hehehe. En nuestra posada, nos esforzamos por proporcionar el alojamiento más cómodo para los aventureros.
 Greeting2=Puedo dar fe personalmente del sabor de nuestra comida.
 Greeting3=Bienvenido, ho ho. Avísame si necesitas algo.
 
 [Npc_9276]
-Name=Mercader de Pociones
+Name=Potion Merchant
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9271]
-Name=Mercader de Pociones
+Name=Potion Merchant
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9272]
-Name=Mercader de Pociones
+Name=Potion Merchant
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9273]
-Name=Mercader de Pociones
+Name=Potion Merchant
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9274]
-Name=Mercader de Pociones
+Name=Potion Merchant
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9275]
-Name=Mercader de Pociones
+Name=Potion Merchant
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9277]
-Name=Mercader de Pociones
+Name=Potion Merchant
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9278]
-Name=Mercader de Pociones
+Name=Potion Merchant
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9279]
-Name=Mercader de Pociones
+Name=Potion Merchant
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9281]
-Name=Mercader de Pociones
+Name=Potion Merchant
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9282]
-Name=Mercader de Pociones
+Name=Potion Merchant
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9283]
-Name=Mercader de Pociones
+Name=Potion Merchant
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9284]
-Name=Mercader de Pociones
+Name=Potion Merchant
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9285]
-Name=Mercader de Pociones
+Name=Potion Merchant
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_20800]
-Name=Mercader de Pociones
+Name=Potion Merchant
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9409]
-Name=Mercader de Encantamientos
+Name=Enchantment Merchant
 Sayhello1=Ven a mí siempre que quieras encantar objetos o alas.
 Sayhello2=
 
 [Npc_9424]
-Name=Mercader de Encantamientos
+Name=Enchantment Merchant
 Sayhello1=Ven a mí siempre que quieras encantar objetos o alas.
 
 [Npc_9431]
-Name=Mercader de Encantamientos
+Name=Enchantment Merchant
 Sayhello1=Ven a mí siempre que quieras encantar objetos o alas.
 
 [Npc_20910]
-Name=Mercader de Encantamientos
+Name=Enchantment Merchant
 Sayhello1=Ven a mí siempre que quieras encantar objetos o alas.
 
 [Npc_9212]
-Name=Mercader de Armaduras
+Name=Armor Merchant
 Sayhello1=¡Desmontaré cualquier artículo inútil!
 
 [Npc_9211]
-Name=Mercader de Armaduras
+Name=Armor Merchant
 Sayhello1=¡Desmontaré cualquier artículo inútil!
 
 [Npc_9213]
-Name=Mercader de Armaduras
+Name=Armor Merchant
 Sayhello1=¡Desmontaré cualquier artículo inútil!
 
 [Npc_9214]
-Name=Mercader de Armaduras
+Name=Armor Merchant
 Sayhello1=¡Desmontaré cualquier artículo inútil!
 
 [Npc_9215]
-Name=Mercader de Armaduras
+Name=Armor Merchant
 Sayhello1=¡Desmontaré cualquier artículo inútil!
 
 [Npc_9216]
-Name=Mercader de Armaduras
+Name=Armor Merchant
 Sayhello1=¡Desmontaré cualquier artículo inútil!
 
 [Npc_9217]
-Name=Mercader de Armaduras
+Name=Armor Merchant
 Sayhello1=¡Desmontaré cualquier artículo inútil!
 
 [Npc_9218]
-Name=Mercader de Armaduras
+Name=Armor Merchant
 Sayhello1=¡Desmontaré cualquier artículo inútil!
 
 [Npc_9219]
-Name=Mercader de Armaduras
+Name=Armor Merchant
 Sayhello1=¡Desmontaré cualquier artículo inútil!
 
 [Npc_9287]
-Name=Mercader de Armaduras
+Name=Armor Merchant
 Sayhello1=¡Desmontaré cualquier artículo inútil!
 
 [Npc_9294]
-Name=Mercader de Armaduras
+Name=Armor Merchant
 Sayhello1=¡Desmontaré cualquier artículo inútil!
 
 [Npc_20510]
-Name=Mercader de Armaduras
+Name=Armor Merchant
 Sayhello1=¡Desmontaré cualquier artículo inútil!
 Sayhello2=
 
 [Npc_9202]
-Name=Mercader de Armas
-Sayhello1=¡Puedes obtener materiales para la creación desmontando artículos!
+Name=Weapon Merchant
+Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
 Sayhello2=
 
 [Npc_9201]
-Name=Mercader de Armas
-Sayhello1=¡Puedes obtener materiales para la creación desmontando artículos!
+Name=Weapon Merchant
+Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
 Sayhello2=
 
 [Npc_9203]
-Name=Mercader de Armas
-Sayhello1=¡Puedes obtener materiales para la creación desmontando artículos!
+Name=Weapon Merchant
+Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
 Sayhello2=
 
 [Npc_9204]
-Name=Mercader de Armas
-Sayhello1=¡Puedes obtener materiales para la creación desmontando artículos!
+Name=Weapon Merchant
+Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
 Sayhello2=
 
 [Npc_9205]
-Name=Mercader de Armas
-Sayhello1=¡Puedes obtener materiales para la creación desmontando artículos!
+Name=Weapon Merchant
+Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
 Sayhello2=
 
 [Npc_9206]
-Name=Mercader de Armas
-Sayhello1=¡Puedes obtener materiales para la creación desmontando artículos!
+Name=Weapon Merchant
+Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
 Sayhello2=
 
 [Npc_9207]
-Name=Mercader de Armas
-Sayhello1=¡Puedes obtener materiales para la creación desmontando artículos!
+Name=Weapon Merchant
+Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
 Sayhello2=
 
 [Npc_9208]
-Name=Mercader de Armas
-Sayhello1=¡Puedes obtener materiales para la creación desmontando artículos!
+Name=Weapon Merchant
+Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
 Sayhello2=
 
 [Npc_9209]
-Name=Mercader de Armas
-Sayhello1=¡Puedes obtener materiales para la creación desmontando artículos!
+Name=Weapon Merchant
+Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
 Sayhello2=
 
 [Npc_9210]
-Name=Mercader de Armas
-Sayhello1=¡Puedes obtener materiales para la creación desmontando artículos!
+Name=Weapon Merchant
+Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
 Sayhello2=
 
 [Npc_9286]
-Name=Mercader de Armas
-Sayhello1=¡Puedes obtener materiales para la creación desmontando artículos!
+Name=Weapon Merchant
+Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
 Sayhello2=
 
 [Npc_9293]
-Name=Mercader de Armas
-Sayhello1=¡Puedes obtener materiales para la creación desmontando artículos!
+Name=Weapon Merchant
+Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
 Sayhello2=
 
 [Npc_20490]
-Name=Mercader de Armas
-Sayhello1=¡Puedes obtener materiales para la creación desmontando artículos!
+Name=Weapon Merchant
+Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
 Sayhello2=
 
 [Npc_9221]
-Name=Corte de Gemas
+Name=Gemcutter
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9220]
-Name=Corte de Gemas
+Name=Gemcutter
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9222]
-Name=Corte de Gemas
+Name=Gemcutter
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9223]
-Name=Corte de Gemas
+Name=Gemcutter
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9224]
-Name=Corte de Gemas
+Name=Gemcutter
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9225]
-Name=Corte de Gemas
+Name=Gemcutter
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9226]
-Name=Corte de Gemas
+Name=Gemcutter
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9227]
-Name=Corte de Gemas
+Name=Gemcutter
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9228]
-Name=Corte de Gemas
+Name=Gemcutter
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9229]
-Name=Corte de Gemas
+Name=Gemcutter
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9230]
-Name=Corte de Gemas
+Name=Gemcutter
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9288]
-Name=Corte de Gemas
+Name=Gemcutter
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9295]
-Name=Corte de Gemas
+Name=Gemcutter
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_20390]
-Name=Corte de Gemas
+Name=Gemcutter
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_23]
-Name=Fragmento del Rift
+Name=Rift Fragment
 Sayhello1=¿Sabías que puedes conseguir gran equipo con Fragmentos del Rift?
 
 [Npc_1021]
-Name=Fragmento del Rift
+Name=Rift Fragment
 Sayhello1=¿Sabías que puedes conseguir gran equipo con Fragmentos del Rift?
 
 [Npc_2992]
-Name=Fragmento del Rift
+Name=Rift Fragment
 Sayhello1=¿Sabías que puedes conseguir gran equipo con Fragmentos del Rift?
 
 [Npc_9304]
-Name=Mercader de Gemas Mágicas
+Name=Magic Gem Merchant
 Sayhello1=¡Tengo muchos artículos que puedes comprar con Gemas Mágicas!
 
 [Npc_9305]
-Name=Mercader de Monturas
+Name=Mount Merchant
 Sayhello1=¡Prueba comprar una montura con Gemas Mágicas!
 
 [Npc_9306]
-Name=Mercader de Disfraces
-Sayhello1=¡Puedes comprar disfraces con Gemas Mágicas!
+Name=Costume Merchant
+Sayhello1=¡Puedes comprar aspectos con las Gemas Mágicas!
 
 [Npc_11]
-Name=Administrador de Almacenamiento de Cuentas
+Name=Account Storage Manager
 Sayhello1=¿Está llena tu mochila? Déjame ayudarte a vaciarla.
 
 [Npc_9420]
-Name=Administrador de Almacenamiento Personal
+Name=Personal Storage Manager
 Sayhello1=Tus artículos son importantes para ti. Los mantendré seguros.
 
 [Npc_75]
-Name=Registrador de Gremios
+Name=Guild Registrar
 Sayhello1=¿Te gustaría crear un Gremio?
 
 [Npc_76]
-Name=Gerente de Gremios
+Name=Guild Manager
 Sayhello1=Oye, ¿no quieres cambiar el emblema de tu Gremio?
 Sayhello2=Estoy evaluando la contribución de los caballeros. Solo pregunta si tienes alguna duda.
 
 [Npc_77]
-Name=Almacenamiento de Gremios
+Name=Guild Storage
 Sayhello1=Si estás en un Gremio, mantendré tus artículos seguros.
 
 [Npc_94]
-Name=Mercader Alquimista
-Sayhello1=Si tienes un Artefacto crecido, puedes intercambiarlo aquí por artículos raros.
+Name=Alchemist Merchant
+Sayhello1=Si tienes un Artefacto elevado, puedes intercambiarlo aquí por artículos raros.
 
 [Npc_9418]
-Name=Mercader de Apariencias
-Sayhello1=Solo ven a hablar conmigo si quieres cambiar la apariencia de tu equipo.
+Name=Appearance Merchant
+Sayhello1=Solo ven a hablar conmigo si quieres cambiar el aspecto de tu equipo.
 
 [Npc_20640]
-Name=Mercader de Apariencias
-Sayhello1=Solo ven a hablar conmigo si quieres cambiar la apariencia de tu equipo.
+Name=Appearance Merchant
+Sayhello1=Solo ven a hablar conmigo si quieres cambiar el aspecto de tu equipo.
 
 [Npc_80]
-Name=Artesano
+Name=Craftsman
 Sayhello1=¿Quieres fabricar equipo que se ajuste a tu nivel?
 
 [Npc_1022]
-Name=Artesano
+Name=Craftsman
 Sayhello1=¿Quieres fabricar equipo que se ajuste a tu nivel?
 
 [Npc_2989]
-Name=Artesano
+Name=Craftsman
 Sayhello1=¿Quieres fabricar equipo que se ajuste a tu nivel?
 
 [Npc_26]
-Name=Artesano
+Name=Craftsman
 Sayhello1=¿Quieres fabricar equipo que se ajuste a tu nivel?
 
 [Npc_1024]
-Name=Artesano
+Name=Craftsman
 Sayhello1=¿Quieres fabricar equipo que se ajuste a tu nivel?
 
 [Npc_2988]
-Name=Artesano
+Name=Craftsman
 Sayhello1=¿Quieres fabricar equipo que se ajuste a tu nivel?
 
 [Npc_67]
-Name=Guía de la Ciudad de Ohrdor
+Name=Ohrdor City Guide
 Dialogue=¿Sobre qué lugar te gustaría saber más?
 Talk1=¡Hola! ¿Eres nuevo aquí?
-Greeting1=¡Hola! Bienvenido a la ciudad comercial de Ohrdor!
+Greeting1=¡Hola! Bienvenido a commercial city of Ohrdor!
 
 [Npc_1003]
-Name=Guía de la Ciudad de Tempano de Duelden
+Name=Duelden Tempano City Guide
 Dialogue=¿Sobre qué lugar te gustaría saber más?
 Talk1=¡Hola! ¿Eres nuevo en Duelden?
 Greeting1=¡Hola! ¡Bienvenido a Duelden!
 
 [Npc_9422]
-Name=Asistente de Eventos
+Name=Event Helper
 Dialogue=Valiente guerrero, ¿me contarás tu historia?
 Talk1=¿Exhausto? Es hora de que tomes un descanso.
 Greeting1=Que tengas un buen día, Aventurero.
 Greeting2=¡Volveré pronto con otro evento emocionante, Aventurero!
 
 [Npc_9311]
-Name=Mercader Negro Codicia
+Name=Black Marketeer Greed
 Sayhello1=Mira esto. Pasé por muchos obstáculos para conseguirlos. Cada uno de ellos es invaluable.
 
 [Npc_9312]
-Name=Mercader Negro Codicia
+Name=Black Marketeer Greed
 Sayhello1=Mira esto. Pasé por muchos obstáculos para conseguirlos. Cada uno de ellos es invaluable.
 
 [Npc_9313]
-Name=Mercader Negro Codicia
+Name=Black Marketeer Greed
 Sayhello1=Mira esto. Pasé por muchos obstáculos para conseguirlos. Cada uno de ellos es invaluable.
 
 [Npc_1800]
@@ -2351,7 +2351,7 @@ SayHello3=¡El Imperio MU no caerá!
 [Npc_8303]
 Name=MU Imperial Soldier 2
 Sayhello1=¡Viva el Imperio MU!
-Sayhello2=¡Comandante de los Caballeros de Devias, finalmente ha llegado!
+Sayhello2=¡Comandante de los Devias Knights, finalmente ha llegado!
 SayHello3=¡El Imperio MU no caerá!
 
 [Npc_8329]
@@ -2373,7 +2373,7 @@ Sayhello2=
 Name=Drude
 Sayhello1=¡Prepárate para los ataques Gnoll!
 Sayhello2=¡Mantén tus posiciones!
-SayHello3=¡Pueden atacar en cualquier momento! ¡No bajes la guardia, soldados!
+SayHello3=¡Pueden atacar en cualquier momento! ¡No bajen la guardia, soldados!
 
 [Npc_8287]
 Name=Mage
@@ -2452,7 +2452,7 @@ Sayhello1=¡Madri!
 [Npc_103020036]
 Name=Dark Mission
 Spawn1=¡Él no es uno de nosotros! ¡Ahóguenlo!
-Spawn2=¡Súmetanse a la Misión Oscura!
+Spawn2=¡Sometanse a la Dark Mission!
 
 [Npc_103020037]
 Name=Skeleton Knight
@@ -2830,7 +2830,7 @@ Death1=Te reconozco, Grounder...
 [Npc_105181008]
 Name=Douglas
 Sayhello1=¡Quédate ahí, mestizo!
-RateHP50=¿Cómo te atreves a rascarme?
+RateHP50=¡¿Cómo te atreves a atacarme?!
 Death1=¡Aaarrrggghh! ¡No puedo creer que perdí contra un mestizo!
 
 [Npc_105181009]
@@ -3012,7 +3012,7 @@ Death1=Ugh... cráneo...
 Name=Gnoll Plunderer
 Sayhello1=¡Te sacaré el corazón!
 RateHP50=¡Kekekeke! ¡He recolectado 99 corazones y el tuyo será el último!
-Death1=¿El 100º... es mi corazón...?
+Death1=¿El numero 100... es mi corazón...?
 
 [Npc_103150103]
 Name=Gnoll Scout
@@ -3070,7 +3070,7 @@ Death1=Finalmente, puedo descansar...
 [Npc_103020301]
 Name=Karol Knight Commander Manstein
 Sayhello1=¡Salve... Karol... Sandria...!
-Death1=¡Los Caballeros Karol... nunca retroceden!
+Death1=¡Los Karol Knights... nunca retroceden!
 
 [Npc_103020102]
 Name=Skeleton Archer
@@ -3269,7 +3269,7 @@ Death1=Ughhhhh......
 
 [Npc_105030305]
 Name=Datans Company Commander
-Sayhello1=¡Maten a todo aquí!
+Sayhello1=¡Maten a todos aquí!
 Death1=¡Ugh...! Eliminen al resto...
 
 [Npc_105030101]
@@ -3306,7 +3306,7 @@ Death1=¡Guh...! ¿Cómo te atreves...?
 
 [Npc_105040305]
 Name=Yeti Pack Leader Doam
-Sayhello1=¡Muere, cosas calientes!
+Sayhello1=¡Muere, sangre caliente!
 Death1=Qué decepcionante... ¡Tan decepcionante...! ¡Ugh...
 
 [Npc_105040306]
@@ -3736,7 +3736,7 @@ Spawn1=¡Están buscando nuestros tesoros! ¡Consíguelos!
 
 [Npc_106160012]
 Name=Arke Pirate Swordsman
-Spawn1=¡¿Cómo te atreves a intentar robar de nosotros los piratas?! ¡Voy a matarte!
+Spawn1=¡¿Cómo te atreves a intentar robarle a los piratas?! ¡Voy a matarte!
 
 [Npc_106160013]
 Name=Arke Pirate Assassin
@@ -3805,7 +3805,7 @@ Death1=¡Oookkkkiiittt!
 Name=Dark Shadow Sirocco Controller
 Sayhello1=¡Déjalo asfixiarte hasta la muerte!
 RateHP50=Hmpf, un extraño es capaz de tal poder...!
-Death1=Ugh... ¡Gloria a las Sombras Oscuras...!
+Death1=Ugh... ¡Gloria a las Dark Shadows...!
 
 [Npc_106240104]
 Name=Dark Shadow Light Marksman
@@ -3840,7 +3840,7 @@ Death1=Un día, serás conquistado por alguien de esta tierra.
 [Npc_106240109]
 Name=Dark Mission Darkness Inducer
 Sayhello1=¡La oscuridad invadirá este lugar!
-RateHP50=Ugh, ¿eres un Caballero del Contrato contratado por los gerentes del puerto?
+RateHP50=Ugh, ¿eres un Caballero de Contrato contratado por los gerentes del puerto?
 Death1=Aaah... Y así, regreso al abrazo de la oscuridad...
 
 [Npc_106240110]
@@ -3868,7 +3868,7 @@ Death1=¡Oookkkkiiittt!
 
 [Npc_106240302]
 Name=Telvina
-Sayhello1=¡Este lugar ahora nos pertenece a las Sombras Oscuras!
+Sayhello1=¡Este lugar ahora nos pertenece a las Dark Shadows!
 Death1=Ahh... No logré golpear donde debía...
 
 [Npc_106240303]
@@ -4018,7 +4018,7 @@ Death1=Hhhkk... ¡Pero no escaparás de los brazos de la oscuridad...
 
 [Npc_106260304]
 Name=Belch
-Sayhello1=¡Esos despreciables Sombras Fantasmas deben haber hablado!
+Sayhello1=¡Esos despreciables Shadow Phantom deben haber hablado!
 Death1=Ugh... ¡Esto no es suficiente para derrotar a los oscuros elfos...!
 
 [Npc_106260305]
@@ -4743,7 +4743,7 @@ Name=Wounded Ashas Guard (Male)
 Sayhello1=Aww... Urgh... Err... Arrgghh...
 
 [Npc _8457]
-Greeting1=Perdí innumerables compañeros por las espadas de las Sombras Oscuras.
+Greeting1=Perdí innumerables compañeros por las espadas de las Dark Shadows.
 
 [Npc_8460]
 Name=Ashas Civilian (Male)
@@ -4949,19 +4949,19 @@ Sayhello1=¡Esos cobardes Ashases! ¡Son imperdonables!
 [Npc_421]
 Name=Muren (Devias Headquarters)
 Greeting1=En Devias, nombramos talento sin importar el estatus.
-Greeting2=Los Caballeros de Devias son los más fuertes del continente.
+Greeting2=Los Devias Knights son los más fuertes del continente.
 Greeting3=Sí, ¿me llamaste?
 
 [Npc_453]
 Name=Muren (Mining Gorge)
 Greeting1=En Devias, nombramos talento sin importar el estatus.
-Greeting2=Los Caballeros de Devias son los más fuertes del continente.
+Greeting2=Los Devias Knights son los más fuertes del continente.
 Greeting3=Sí, ¿me llamaste?
 
 [Npc_489]
 Name=Muren (Sanctum of the Elders)
 Greeting1=En Devias, nombramos talento sin importar el estatus.
-Greeting2=Los Caballeros de Devias son los más fuertes del continente.
+Greeting2=Los Devias Knights son los más fuertes del continente.
 Greeting3=Sí, ¿me llamaste?
 
 [Npc_501]
@@ -5212,7 +5212,7 @@ Greeting2=¡Chirp!!! (¿¡Me extrañaste!?)
 
 [Npc_281]
 Name=Suspicious Man
-Sayhello1=Lado este del Bosque Amberial... Una cueva...
+Sayhello1=Lado este del Amberial Forest... Una cueva...
 Greeting1=..
 
 [Npc_282]
@@ -5284,12 +5284,12 @@ Greeting1=¡Ohrdor fue increíble! Quiero volver algún día.
 
 [Npc_108]
 Name=Port Manager
-Sayhello1=Bienvenido al Puerto de Aeronaves.
+Sayhello1=Bienvenido al Airship Port.
 Greeting1=Por favor, avísame si hay algo que pueda hacer para que tu visita sea más cómoda.
 
 [Npc_104038102]
 Name=Airship Guide
-Sayhello1=Si deseas subir a la airship, por favor usa la Piedra Portal junto a mí.
+Sayhello1=Si deseas subir a la airship, por favor usa el Portal de Teletransporte junto a mí.
 Greeting1=Te llevaremos de manera segura a tu destino.
 Greeting2=Tu probabilidad de aterrizar en un destino equivocado es menor al 1%, así que no te preocupes.
 
@@ -5393,7 +5393,7 @@ Greeting1=Por favor, avísame si hay algo que pueda hacer para que tu visita sea
 
 [Npc_104030031]
 Name=Prelcarter
-Sayhello1=La Sociedad de Investigación del Rift ha ocupado las calles nuevamente.
+Sayhello1=La Rift Research Society ha ocupado las calles nuevamente.
 Greeting1=¿Podrías sacarlos de aquí?
 
 [Npc_104030032]
@@ -5469,14 +5469,14 @@ Sayhello1=¡Revisa tu historial de compras de Talismán y obtén tus boletos de 
 
 [Npc_162]
 Name=Grande
-Sayhello1=El descubrimiento del Laberinto introdujo la presencia de Artefactos en el Continente Mu.
+Sayhello1=El descubrimiento del Labyrinth introdujo la presencia de Artefactos en el Continente Mu.
 Sayhello2=Mira esta tormenta de Rift gigante... Este mundo está lleno de sorpresas.
-Greeting1=La Sociedad de Investigación del Rift siempre ha puesto gran énfasis en su coexistencia con todos los aventureros.
-Greeting2=El Laberinto es un territorio inexplorado que aún no ha sido investigado.
+Greeting1=La Rift Research Society siempre ha puesto gran énfasis en su coexistencia con todos los aventureros.
+Greeting2=El Labyrinth es un territorio inexplorado que aún no ha sido investigado.
 
 [Npc_8435]
 Name=Hyre
-Greeting1=Bienvenido a la Sociedad de Investigación del Rift.
+Greeting1=Bienvenido a la Rift Research Society.
 Greeting2=Está oculto, y la entrada es solo por invitación.
 Greeting3=A mi derecha está la sala de referencia. Detrás de mí está el laboratorio.
 
@@ -5501,7 +5501,7 @@ Greeting2=Ese Mukler. Tal vez debería encerrarlo, para que no pueda ir a ningú
 [Npc_9117]
 Name=Schurak
 Greeting1=Jejeje, soy solo un mensajero, pero gano mucho dinero.
-Greeting2=Esos tipos de la Sociedad de Investigación del Rift me pagan mucho dinero. Deben tener más dinero del que podrían gastar en toda su vida.
+Greeting2=Esos tipos de la Rift Research Society me pagan mucho dinero. Deben tener más dinero del que podrían gastar en toda su vida.
 
 [Npc_174700000]
 Name=Lucky Magic Gems Goblin
@@ -5536,7 +5536,7 @@ Greeting1=El Reactor de Odisea tiene un retroceso tan fuerte que hizo explotar c
 
 [Npc_104080503]
 Name=Barbara
-Sayhello1=Estoy trabajando con la Sociedad de Investigación del Rift para desarrollar una tecnología de viajes interdimensionales.
+Sayhello1=Estoy trabajando con la Rift Research Society para desarrollar una tecnología de viajes interdimensionales.
 Greeting1=No sé por qué Durov piensa tan bien de la tecnología de la Sociedad. Todo lo que he escuchado sobre ella está exagerado.
 
 [Npc_104080504]
@@ -5572,7 +5572,7 @@ Greeting1=Antes de soñar con conquistar una nueva dimensión, deberías intenta
 
 [Npc_104080510]
 Name=Grande
-Sayhello1=La Sociedad de Investigación del Rift está proporcionando su tecnología del Reactor de Odisea al Grupo de Expedición para la paz del Continente MU.
+Sayhello1=La Rift Research Society está proporcionando su tecnología del Reactor de Odisea al Grupo de Expedición para la paz del Continente MU.
 Greeting1=¿No sabes qué es el Reactor de Odisea? Es el motor utilizado en los dirigibles.
 
 [Npc_104080511]
@@ -6202,7 +6202,7 @@ Sayhello1=No temas a la muerte. La bendición de Bulcan estará contigo.
 
 [Npc_4445]
 Name=Dracans Combat Priest
-Sayhello1=¡Protege a los sacerdotes que mantienen la Grieta antes que a nadie!
+Sayhello1=¡Protege a los sacerdotes que mantienen la Rift antes que a nadie!
 Sayhello2=¡Derrota a esos desagradables secuaces de Death Roar y reclama el Templo!
 
 [Npc_160090001]
@@ -6273,7 +6273,7 @@ StartQuest1=No sabía que el camino que conecta Pandemonium con este reino fuera
 
 [Quest_5004]
 StartQuest1=Los Rarbas han entrado en el túnel al fin. Esto es culpa mía.
-StartQuest2=No eliminé todos los explosivos en el Bosque Amberial.
+StartQuest2=No eliminé todos los explosivos en el Amberial Forest.
 CompleteQuest1=Duprian, él es un líder natural.
 
 [Quest_5005]
@@ -6289,7 +6289,7 @@ StartQuest1=A través de la Energía Maligna, como lo hicieron en Enova.
 StartQuest2=Las Llanuras de Bredrice deben estar hechas un desastre ahora.
 
 [Quest_5009]
-StartQuest1=Si esta agua bendita purga al Segador Oscuro, entonces prueba que no soy miembro de la Misión.
+StartQuest1=Si esta agua bendita purga al Dark Reaper, entonces prueba que no soy miembro de la Mission.
 StartQuest2=Este será el penúltimo examen de Zakarian. Si lo paso, ¡podré recordar todo!
 
 [Quest_5013]
@@ -6391,7 +6391,7 @@ Mission1_1=Uf, creo que ya los desactivé todos.
 
 [Quest_32]
 StartQuest1=¡Oh, no! ¡No es Dudrin lo que están atacando!
-Mission1_1=No hay tiempo que perder – tengo que alertar a la Weiss Basin de que su mina está en peligro.
+Mission1_1=No hay tiempo que perder – tengo que alertar a Weiss Basin de que su mina está en peligro.
 
 [Quest_29]
 StartQuest1=La mina es la principal fuente de ingresos de Dudrin. Sin ella, la ciudad no sobrevivirá.
@@ -6414,7 +6414,7 @@ Mission2_1=Esto debería ser suficiente para apagar el fuego.
 Mission1_1=Uf, finalmente se ha apagado.
 
 [Quest_105]
-StartQuest1=Mientras tanto, dispersaré a la Legión Keru antes de que se acerque al centro de la cuenca.
+StartQuest1=Mientras tanto, dispersaré a la Keru Legion antes de que se acerque al centro de la cuenca.
 StartQuest2=El enemigo tiene suficientes soldados para aislar la Weiss Basin.
 
 [Quest_108]
@@ -6426,7 +6426,7 @@ StartQuest1=Es demasiado tarde. Ahora tendremos que emboscarlos.
 Mission1_1=Es demasiado tarde. Ya han terminado de construir su base.
 
 [//Quest_135]
-Mission1_2=Tendré que ir a la Mina Karmatan y unirme a Duprian.
+Mission1_2=Tendré que ir a la Karmatan Mine y unirme a Duprian.
 
 [Quest_136]
 StartQuest1=No puedo creer que haya arriesgado su vida para venir a verme.
@@ -6435,7 +6435,7 @@ StartQuest1=No puedo creer que haya arriesgado su vida para venir a verme.
 StartQuest1=No sé si puedo estar a la altura de sus expectativas...
 
 [Quest_111]
-StartQuest1=Se han reunido con el Ejército de Pandemonium. ¿Están planeando atacar la Mina Karmatan?
+StartQuest1=Se han reunido con el Ejército de Pandemonium. ¿Están planeando atacar Karmatan Mine?
 Mission1_1=Estas cabezas cercenadas demostrarán que los Goblins participaron en la guerra.
 
 [Quest_112]
@@ -6456,7 +6456,7 @@ StartQuest1=Esto es ridículo...
 [Quest_116]
 StartQuest1=¡Oh, no! Si Duprian cae, Dudrin seguirá su destino.
 Mission1_1=Esto es por intentar matar a Duprian.
-Mission1_2=Voy a la Mina Karmatan. Tengo que encontrarme con Duprian.
+Mission1_2=Voy a Karmatan Mine. Tengo que encontrarme con Duprian.
 
 [Quest_118]
 StartQuest1=Están rodeando la mina—¿por qué no han atacado aún?
@@ -6484,9 +6484,9 @@ StartQuest2=¿Por qué robaron el plano de la mina?
 Mission1_1=Este debe ser el plano.
 
 [Quest_126]
-StartQuest1=¡Su objetivo final era la Mina Heath! ¡¿Pero por qué?!
-Mission1_1=El Presidente de la Asociación Minera y yo ahora estamos en paz.
-Mission1_2=El Puesto Oriental supervisa la Mina Heath.
+StartQuest1=¡Su objetivo final era Heath Mine! ¡¿Pero por qué?!
+Mission1_1=El Presidente de la Mining Association y yo ahora estamos en paz.
+Mission1_2=El Eastern Post supervisa Heath Mine.
 
 [Quest_128]
 StartQuest1=¿Por qué arrastraron a los mineros al pozo de la muerte? Mejor busco algunas pistas.
@@ -6528,11 +6528,11 @@ Mission1_1=He encontrado las órdenes de Sezak.
 
 [Quest_315]
 StartQuest1=Dumpain... Alcalde de Ohrdor...
-StartQuest2=¿Por qué envió al ejército a la Granja Negra?
+StartQuest2=¿Por qué envió al ejército a Black Farm?
 
 [Quest_332]
 StartQuest1=Sezak está en el vestíbulo. Vestíbulo...
-StartQuest2=Es hora de detener a esta legión de Gnolls que ha descendido sobre la Base Central.
+StartQuest2=Es hora de detener a esta legión de Gnolls que ha descendido sobre la Central Base.
 
 [Quest_318]
 StartQuest1=¡Esos malditos Kobolds envenenaron el grano!
@@ -6585,7 +6585,7 @@ Mission1_1=Phew, detuve el ritual justo a tiempo.
 Mission1_2=Lunedill estará feliz de verme de vuelta, ¡por primera vez en mucho tiempo!
 
 [Quest_425]
-StartQuest1=¿He despertado a los fantasmas de los Caballeros Karol?
+StartQuest1=¿He despertado a los fantasmas de los Karol Knights?
 StartQuest2=¡Zakarian me engañó! ¿¡Por qué!? 
 
 [Quest_409]
@@ -6595,7 +6595,7 @@ Mission1_1=Los fantasmas están gritando "Madri".
 Mission1_2=¿Qué significa eso?
 
 [Quest_413]
-StartQuest1=La madre de los muertos Caballeros Karol...
+StartQuest1=La madre de los muertos Karol Knights...
 StartQuest2=¿Quién diablos es ella?
 
 [//Quest_420]
@@ -6615,11 +6615,11 @@ StartQuest2=¡Esta será la batalla final, y por los dioses, será sangrienta!
 
 [Quest_502]
 StartQuest1=Para evitar que el Ejército del Principado Tephakin pierda...
-StartQuest2=Encenderé las farolas y mostraré al mundo que la Ciudad Kernel sigue en pie.
+StartQuest2=Encenderé las farolas y mostraré al mundo que la Kernel City sigue en pie.
 Mission1_1=Rezo para que todos los Tephakinese vean estas luces, incluso desde lejos.
 
 [Quest_509]
-StartQuest1=¡Oh no! ¡Ese titán podría aplastar todo el Continente Duelden!
+StartQuest1=¡Oh no! ¡Ese titán podría aplastar todo el Duelden Continent!
 StartQuest2=Debo cortar su suministro de maná negro.
 Mission1_1=Estaba absorbiendo maná negro a una velocidad impresionante.
 Mission1_2=Ahora he detenido la resurrección del titán.
@@ -6647,7 +6647,7 @@ Mission1_1=Ahora los Garudas ya no tienen a nadie que los respalde.
 Mission1_2=¿Hm? ¿Quién es ese?
 
 [Quest_520]
-StartQuest1=Orman también debe estar en el Templo Celestial.
+StartQuest1=Orman también debe estar en el Sky Temple.
 StartQuest2=Debo abrirme paso entre los rezagados Garuda y unirme al Ejército del Principado.
 Mission1_1=Esto es lo que pasa cuando te interpones en mi camino.
 
@@ -6889,17 +6889,17 @@ Mission1_2=La bendición de Bulcan...
 Mission1_3=Supongo que funciona igual que el agua bendita de Rugard.
 
 [Quest_5108]
-StartQuest1=Kundun tenía razón. La Misión ha invadido Drapia.
-StartQuest2=Pero, ¿qué pretende hacer la Misión con una tierra tan congelada como esta?
+StartQuest1=Kundun tenía razón. La Mission ha invadido Drapia.
+StartQuest2=Pero, ¿qué pretende hacer la Mission con una tierra tan congelada como esta?
 
 [Quest_5109]
-StartQuest1=¿Qué trama la Misión Oscura esta vez?
+StartQuest1=¿Qué trama la Dark Mission esta vez?
 Mission1_1=No pude descubrir su verdadero propósito, por mucho que busqué.
 Mission2_1=Son demasiado débiles. Y hay más investigadores que soldados aquí.
 
 [Quest_5110]
-StartQuest1=Ahora sé qué está tramando la Misión.
-StartQuest2=¡La Misión está recolectando Lágrimas para causar devastación en todos los estados del reino!
+StartQuest1=Ahora sé qué está tramando la Mission.
+StartQuest2=¡La Mission está recolectando Lágrimas para causar devastación en todos los estados del reino!
 StartQuest3=Y el Maestro Caballero Dracan Chaisong estaba involucrado en esto.
 
 [Quest_5111]
@@ -6914,7 +6914,7 @@ Mission1_1=Su seguridad es más estricta de lo que pensaba.
 Mission2_1=Así que él era el comandante.
 
 [Quest_5113]
-StartQuest1=Las Lágrimas de Neria están en el Canal Cerrado.
+StartQuest1=Las Lágrimas de Neria están en el Closed Waterway.
 StartQuest2=Será mejor que me apure si quiero alcanzarlo.
 
 [Quest_5114]
@@ -6924,9 +6924,9 @@ StartQuest1=Ya estoy en su rastro. Debo detenerlo antes de que llegue a las Lág
 StartQuest1=No creo que estén tratando de reanimar a los muertos como la última vez.
 
 [Quest_5118]
-StartQuest1=Ha arriesgado cargos de traición para atraer al líder de la Misión aquí.
+StartQuest1=Ha arriesgado cargos de traición para atraer al líder de la Mission aquí.
 StartQuest2=Chaisong, no es un hombre común.
-StartQuest3=Uf, rezo para que el líder de la Misión haya picado el anzuelo.
+StartQuest3=Uf, rezo para que el líder de la Mission haya picado el anzuelo.
 Mission1_1=¿Dónde podrían estar las Lágrimas de Neria?
 
 [Quest_5131]
@@ -6952,7 +6952,7 @@ StartQuest2=¿Realmente es lo correcto ayudarles?
 Mission1_1=No se atreverán a atacar el Primer Pueblo nuevamente.
 
 [Quest_5136]
-StartQuest1=¿El Reino de Drapia quiere Kanturu?
+StartQuest1=¿El Drapia Kingdom quiere Kanturu?
 StartQuest2=No puedo creer que Chaisong haría algo así, pero no sabré la verdad hasta investigarlo yo mismo.
 
 [Quest_5137]
@@ -6995,7 +6995,7 @@ StartQuest1=¿Qué demonios pasó mientras estuve fuera?
 StartQuest1=¡Datans, nunca te lo perdonaré!
 
 [Quest_5151]
-StartQuest1=¿Significa esto que los propios Caballeros de Devias del Reino de Lorencia contrataron a Woongpam?
+StartQuest1=¿Significa esto que los propios Devias Knights del Reino de Lorencia contrataron a Woongpam?
 StartQuest2=Solo tengo cinco días para evitar que Drapia colapse.
 
 [Quest_5152]
@@ -7015,7 +7015,7 @@ Mission1_1=Incluso han movilizado cañones. Están decididos a mantener a los mi
 [Quest_5156]
 StartQuest1=¡Los revenants mataron a todos!
 StartQuest2=Debo detenerlos antes de que comiencen a aparecer por todas partes.
-StartQuest3=¡La Misión está haciendo lo mismo que hicieron en Karolsandria!
+StartQuest3=¡La Mission está haciendo lo mismo que hicieron en Karolsandria!
 
 [Quest_5157]
 StartQuest1=¡Debo detener el ritual de los revenants!
@@ -7031,7 +7031,7 @@ StartQuest1=Cuando los revenants salgan de la tumba real, será solo cuestión d
 
 [Quest_5160]
 StartQuest1=Eso fue imprudente. Nadie podría haber sobrevivido a eso.
-StartQuest2=¡Esa maldita Misión!
+StartQuest2=¡Esa maldita Mission!
 Mission1_1=Creo que ya tengo suficiente agua potable ahora.
 
 [Quest_5161]
@@ -7046,9 +7046,9 @@ Mission1_1=Fue una distracción, para proteger lo que sea que estén tramando en
 Mission1_2=¿Qué están tramando?
 
 [Quest_5163]
-StartQuest1=¿Qué pasa si la Misión Oscura ha llegado tan lejos? Oh, no...
+StartQuest1=¿Qué pasa si la Dark Mission ha llegado tan lejos? Oh, no...
 Mission1_1=Han sido resucitados por magia negra.
-Mission1_2=¡Sabía que la Misión estaba detrás de esto!
+Mission1_2=¡Sabía que la Mission estaba detrás de esto!
 Mission3_1=¿Dónde demonios están los exploradores?
 Mission3_2=¿Debería revisar allí?
 
@@ -7070,7 +7070,7 @@ StartQuest2=En el noreste... Tal vez pueda hablar con ellos. Mejor voy a averigu
 [Quest_5175]
 StartQuest1=El ejército privado de Khali, heredero del Principado...
 StartQuest2=¿Qué diablos están planeando aquí?
-Mission1_1=¡La Misión Oscura! ¿Por qué están aquí, en este campamento del Ejército Tephakin?
+Mission1_1=¡La Dark Mission! ¿Por qué están aquí, en este campamento del Ejército Tephakin?
 
 [Quest_5177]
 StartQuest1=¡Qué tonto! Estaba tan concentrado en la venganza que no pudo ver que la Alianza Nobiliaria lo estaba usando.
@@ -7101,14 +7101,14 @@ Mission1_1=¡No tiene la varita de Pectra!
 Mission1_2=¿Qué es este lugar?
 
 [Quest_5182]
-Mission1_1=La Alianza Nobiliaria entregó la Cueva de Cristal a Pandemonium. ¿Por qué?
+Mission1_1=La Alianza Nobiliaria entregó la Crystal Cave a Pandemonium. ¿Por qué?
 Mission1_2=Será mejor que le pregunte a Chaisong.
 
 [Quest_5191]
-StartQuest1=Tendré que ir al Cañón Minero, donde está la Cueva de Cristal.
+StartQuest1=Tendré que ir al Mining Gorge, donde está la Crystal Cave.
 StartQuest2=Sólo me quedan tres días hasta el plazo que me dieron los Kanturianos.
 Mission2_1=No hay tiempo que perder, tengo que llegar al campamento de Devias.
-Mission2_2=Muren podría saber por qué la Alianza Nobiliaria entregó la Cueva de Cristal a Pandemonium.
+Mission2_2=Muren podría saber por qué la Alianza Nobiliaria entregó la Crystal Cave a Pandemonium.
 
 [Quest_5192]
 StartQuest1=La Alianza Nobiliaria está simplemente ayudando al Ejército de Pandemonium.
@@ -7123,7 +7123,7 @@ Mission1_1=¿Son estos sujetos de prueba unas abominaciones?
 Mission2_1=Los sujetos de prueba están siendo transportados a algún lugar. ¡No si puedo evitarlo!
 
 [Quest_5195]
-Mission1_1=Se dirigían al noreste, supongo que a la Asociación Minera.
+Mission1_1=Se dirigían al noreste, supongo que a la Mining Association.
 
 [Quest_5196]
 StartQuest1=Debo detenerlos. Ya sé, eliminaré sus caballos y carretas.
@@ -7134,7 +7134,7 @@ StartQuest1=Han enviado una solicitud a la Alianza Nobiliaria para pedir refuerz
 CompleteQuest1=Ahora, ¿qué debo hacer contigo?
 
 [Quest_5198]
-StartQuest1=Woongpam, el líder de los Datanses, ha llegado a la Cueva de Cristal.
+StartQuest1=Woongpam, el líder de los Datanses, ha llegado a Crystal Cave.
 
 [Quest_5199]
 StartQuest1=Lo sabré si investigo sus armas.
@@ -7154,7 +7154,7 @@ Mission1_1=Me encargué de él. Ahora, ¿dónde está el laboratorio?
 Mission1_1=¡Woongpam... Inyectó Pectra en el Tarsk y lo mutó!
 
 [Quest_5210]
-StartQuest1=Ya sé—usaré la Piedra de Portal Inter-área, eso me llevará al puesto de avanzada de Devias en el Cañón Minero.
+StartQuest1=Ya sé—usaré el Portal de Teletransporte Inter-área, eso me llevará al puesto de avanzada de Devias en el Mining Gorge.
 StartQuest2=El Santuario de los Ancianos no está lejos de allí.
 
 [Quest_5211]
@@ -7193,8 +7193,8 @@ Mission1_1=Oh, sus cuerpos deben estar entumecidos después de haber estado atad
 StartQuest1=¿Dónde está el Campamento del Halcón Plateado? ¡OK, vamos a rescatarlos!
 
 [Quest_5220]
-StartQuest1=¡La Legión Keru emergió de la Energía Maligna... ¡No me lo esperaba! Sus miembros son más hábiles de lo que pensaba.
-StartQuest2=Pero ¿quién? ...¡Los Halcones Plateados! ¡No puedo creer que me hayan engañado!
+StartQuest1=¡La Keru Legion emergió de la Energía Maligna... ¡No me lo esperaba! Sus miembros son más hábiles de lo que pensaba.
+StartQuest2=Pero ¿quién? ...¡Los Silver Sparrowhawks! ¡No puedo creer que me hayan engañado!
 
 [Quest_5221]
 StartQuest1=Ya he perdido demasiado tiempo. Es hora de moverme hacia Dracanem.
@@ -7379,14 +7379,14 @@ StartQuest2=Me asombra que ambos sigan de pie.
 [Quest_606]
 StartQuest1=Esta base no durará mucho.
 Mission1_1=Son tantos que he perdido la cuenta.
-Mission2_1=La Misión ha ocupado el norte.
+Mission2_1=La Mission ha ocupado el norte.
 
 [Quest_607]
 StartQuest1=Los dragones aparecieron cuando el fuego en el brasero se extinguió...
 StartQuest2=Esto no tiene sentido. Pensaba que los dragones nacían de las Lágrimas de Neria.
 
 [Quest_608]
-StartQuest1=Dondequiera que voy, hay personas lavadas de cerebro por la Misión.
+StartQuest1=Dondequiera que voy, hay personas lavadas de cerebro por la Mission.
 Mission1_1=No dejaron nada más que sus escamas atrás.
 Mission1_2=Fueron tontos, sí, pero los compadezco.
 
@@ -7431,8 +7431,8 @@ StartQuest1=Tengo que detenerlos antes de que se abran más túneles de Energía
 Mission1_1=Son débiles, para ser mutantes.
 
 [Quest_619]
-StartQuest1=La Misión debe estar detrás de esto.
-Mission1_1=Sabía que la Misión estaba detrás de esto, pero ¿por qué?
+StartQuest1=La Mission debe estar detrás de esto.
+Mission1_1=Sabía que la Mission estaba detrás de esto, pero ¿por qué?
 
 [Quest_620]
 StartQuest1=Tengo que hacer esto, por mis seres queridos.
@@ -7546,7 +7546,7 @@ StartQuest1=Entonces este lugar, Dudrin, es un dominio del Reino Lorencia.
 Mission1_1=¿Qué demonios hace realmente el Ejército del Reino Lorencia?
 
 [Quest_9599]
-StartQuest1=Espera, ¿es eso... una Grieta? ¿Quién diablos la creó?
+StartQuest1=Espera, ¿es eso... una Rift? ¿Quién diablos la creó?
 StartQuest2=¡Ah! Estoy seguro de que la Sociedad de Investigación de Grietas sabrá algo sobre esto.
 
 [Quest_127]
@@ -7561,7 +7561,7 @@ Mission1_1=¿Elfos de piel oscura? Están usando ropas extrañas.
 Mission2_1=Esto es sospechoso. Mejor voy a encontrarme con Lunedill.
 
 [Quest_5402]
-StartQuest1=¿Está en peligro el Aliento del Árbol del Mundo debido a la guerra?
+StartQuest1=¿Está en peligro el Aliento del World Tree debido a la guerra?
 Mission1_1=Este lugar está demasiado tranquilo. No escucho espadas chocando.
 Mission2_1=¡Cóndores! ¿Qué están picoteando?
 
@@ -7610,13 +7610,13 @@ Mission2_1=¿Es esta la máquina que absorbe toda la energía de este lugar?
 Mission3_1=¿Por qué estaba cavando el suelo?
 
 [Quest_5411]
-StartQuest1=¿Estaban cavando el suelo para llegar a las raíces del Árbol del Mundo?
-StartQuest2=Mejor investigo el Árbol del Mundo.
-Mission1_1=El Árbol del Mundo está absorbiendo energía del aire y liberando energía poderosa.
+StartQuest1=¿Estaban cavando el suelo para llegar a las raíces del World Tree?
+StartQuest2=Mejor investigo el World Tree.
+Mission1_1=El World Tree está absorbiendo energía del aire y liberando energía poderosa.
 Mission1_2=Mejor hago algo.
 Mission2_1=Destruir los cargadores no es suficiente.
 Mission2_2=Debo arrancar el árbol, para que nunca más se pueda usar en la guerra...
-Mission3_1=El fluido cultural se alimenta a las raíces del Árbol del Mundo.
+Mission3_1=El fluido cultural se alimenta a las raíces del World Tree.
 
 [Quest_5412]
 Mission1_1=Destruir el dispositivo de operación no parece funcionar.
@@ -7681,7 +7681,7 @@ Mission1_1=¡Oh, no! ¡Los guardias de la Reina están masacrando a los civiles!
 Mission1_2=Esos cadáveres propagarán enfermedades si no se entierran.
 Mission3_1=Aún el ejército Ashas perdió. Esta pila de cadáveres lo prueba.
 Mission4_1=No tengo tiempo. Espero que los muertos me perdonen por quemarlos así.
-Mission4_2=Esas Sombras Oscuras... No deben quedar sueltas.
+Mission4_2=Esas Dark Shadows... No deben quedar sueltas.
 
 [Quest_5438]
 Mission1_1=Esto es por herir a los civiles. Ruega por su misericordia en el Infierno.
@@ -7696,7 +7696,7 @@ StartQuest1=El archipriesto Ashas se está reuniendo con el comandante de los ca
 StartQuest2=Sigh, por cierto, aún no sé dónde está esa chica.
 
 [Quest_5442]
-StartQuest1=Mercaderes de esclavos. Las Sombras Oscuras son una pandilla despreciable.
+StartQuest1=Mercaderes de esclavos. Las Dark Shadows son una pandilla despreciable.
 Mission1_1=¿Dantarexes? Mejor me encargo de estos primero.
 Mission2_1=¿Dónde están los aldeanos secuestrados?
 
@@ -7712,10 +7712,10 @@ StartQuest2=¿Qué es esa piedra preciosa y quién es esta chica?
 StartQuest3=Mejor voy a las Ruinas del Pionero. Sabré todo si atrapo a esa chica.
 
 [Quest_5447]
-Mission2_1=Las Sombras Oscuras les están haciendo pagar por destruir su Templo Sapientia.
+Mission2_1=Las Dark Shadows les están haciendo pagar por destruir su Templo Sapientia.
 
 [Quest_5449]
-Mission2_1=Esta es la magia negra de la Misión Oscura. Pero... ¿cómo?
+Mission2_1=Esta es la magia negra de la Dark Mission. Pero... ¿cómo?
 
 [Quest_5480]
 Mission1_1=Esta es la biblioteca de los elfos...
@@ -7724,7 +7724,7 @@ Mission3_1=Las costumbres de los elfos... los estilos culturales... Todos estos 
 Mission4_1=¿Hm? Este libro azul... parece bastante antiguo.
 
 [Quest_5482]
-StartQuest1=Isla Luna Creciente... La chica de piel azul está allí.
+StartQuest1=Crescent Moon Island... La chica de piel azul está allí.
 
 [Quest_5461]
 Mission2_1=Uf, finalmente está hecho.
@@ -7760,12 +7760,12 @@ StartQuest4=Mejor regreso a la casa segura y le cuento esto.
 StartQuest1=El maestro de Fratanne... Espero que sepa sobre el lugar dentro del Espejo.
 
 [Quest_5470]
-Mission3_1=Sabía que la Misión era responsable de esto.
+Mission3_1=Sabía que la Mission era responsable de esto.
 Mission3_2=Debo descubrir dónde está Zakarian.
 
 [Quest_5472]
 Mission1_1=He eliminado los contaminantes. Deben ser los que causaron la mutación en las criaturas marinas.
-Mission2_1=Estas marcas en las criaturas mutadas... La Misión...
+Mission2_1=Estas marcas en las criaturas mutadas... La Mission...
 
 [Quest_5473]
 StartQuest1=Debo ir a Reposo del Peregrino.
@@ -7773,7 +7773,7 @@ StartQuest2=Espero que Zakarian no haya conseguido las Lágrimas de Neria aún..
 
 [Quest_5474]
 StartQuest1=Esto es Reposo del Peregrino.
-StartQuest2=Las Sombras Oscuras deben haber invadido hasta aquí, tal como esperaba.
+StartQuest2=Las Dark Shadows deben haber invadido hasta aquí, tal como esperaba.
 StartQuest3=No puedo dejar que masacren a los aldeanos.
 
 [Quest_5475]
@@ -7806,12 +7806,12 @@ StartQuest1=Aquí es donde los prisioneros elfos son movilizados para trabajos f
 StartQuest2=Mejor libero a tantos como pueda.
 
 [Quest_5511]
-StartQuest1=La Cueva Susurrante... ¿Tiene alguna influencia sobre las mentes de los Ashases?
-StartQuest2=¿Qué están haciendo las Sombras Oscuras ahí dentro?
+StartQuest1=Whispering Cave... ¿Tiene alguna influencia sobre las mentes de los Ashases?
+StartQuest2=¿Qué están haciendo las Dark Shadows ahí dentro?
 
 [Quest_5514]
 StartQuest1=La mente del Papa Ashas es el centro de todo el pueblo Ashas...
-StartQuest2=Debo encontrar al Papa Rey Bellias antes de que sacrifique a todos los Ashases.
+StartQuest2=Debo encontrar al Pope King Bellias's antes de que sacrifique a todos los Ashases.
 
 [Quest_5515]
 StartQuest1=Escoria hedionda de Pandemonium, también están invadiéndonos físicamente.
@@ -7829,21 +7829,21 @@ Mission3_1=Tengo el mensaje de Bellias. Mejor se lo llevo a Merisha.
 
 [Quest_5519]
 StartQuest1=Sleighbowa, la ciudad capital de Ashas.
-StartQuest2=El Papa Rey Bellias está allí. Mejor me pongo en marcha.
+StartQuest2=El Pope King Bellias's está allí. Mejor me pongo en marcha.
 
 [//Quest_5522]
-CompleteQuest1=Con sus principales comandantes derrotados, las Sombras Oscuras no podrán reagruparse por un tiempo.
+CompleteQuest1=Con sus principales comandantes derrotados, las Dark Shadows no podrán reagruparse por un tiempo.
 
 [Quest_5525]
-Mission1_1=¿Estoy dentro de la mente del Papa Rey Bellias?
-Mission1_2=Debo eliminar la energía pandemónica invasora y ayudar al Papa Rey.
+Mission1_1=¿Estoy dentro de la mente del Pope King Bellias's?
+Mission1_2=Debo eliminar la energía pandemónica invasora y ayudar al Pope King.
 
 [Quest_5527]
 Mission1_1=Bellias...
 
 [Quest_5529]
 StartQuest1=Ribell... Espero que esta vez me cuentes toda la verdad.
-StartQuest2=Debería ir a la Isla Luna Creciente.
+StartQuest2=Debería ir a la Crescent Moon Island.
 
 [Quest_5532]
 StartQuest1=Si Ribell tiene razón... ¡Reina Cara...!
@@ -7856,7 +7856,7 @@ StartQuest1=Un crimen que aprovecha la oportunidad de la guerra. El culpable es 
 Mission1_1=¿Los elfos oscuros de los que me habló el mono? ¿Son ellos los contrabandistas?
 
 [//Quest_1606]
-CompleteQuest1=Hecho. Espero que esto ayude a interrumpir las operaciones de las Sombras Oscuras y los Ashas Nakans.
+CompleteQuest1=Hecho. Espero que esto ayude a interrumpir las operaciones de las Dark Shadows y los Ashas Nakans.
 
 [Quest_1608]
 StartQuest1=¿Hay un tesoro pirata en alguna parte de esta isla?
@@ -7911,7 +7911,7 @@ Mission1_1=He recolectado algo de madera útil de los ents.
 Mission1_2=Debería llevársela al marinero en el puerto.
 
 [Quest_1623]
-StartQuest1=Fueron las Sombras Oscuras las que controlaban a las bestias.
+StartQuest1=Fueron las Dark Shadows las que controlaban a las bestias.
 StartQuest2=No sirve de nada derrotar a las bestias por separado. Debo encargarme de ellas primero.
 
 [//Quest_1625]
@@ -7926,7 +7926,7 @@ Mission1_1=Lo peor ya ha pasado ahora que me ocupé del enemigo de aspecto más 
 Mission1_2=Debería reportarme con la Guardia del Descanso.
 
 [Quest_1701]
-StartQuest1=Elfos oscuros que no están contentos con las Sombras Oscuras...
+StartQuest1=Elfos oscuros que no están contentos con las Dark Shadows...
 StartQuest2=Empiezan a mostrar sus límites cuando se trata de fuerza militar.
 
 [Quest_1702]
@@ -7951,10 +7951,10 @@ Mission3_1=Bien, esto debería ser suficiente para romper el espíritu de esos b
 
 [Quest_1711]
 StartQuest1=Primero atacaron Pilgrim's Rest, y ahora el santuario de los Ashases.
-StartQuest2=Esas Sombras Oscuras...
+StartQuest2=Esas Dark Shadows...
 
 [Quest_1712]
-StartQuest1=El Papa Ashas Rey Bellias solía entrenar en la Cueva Susurrante...
+StartQuest1=El Papa Ashas Rey Bellias solía entrenar en la Whispering Cave...
 StartQuest2=¿Puedo encontrar los resultados de su entrenamiento allí?
 
 [Quest_1713]
@@ -7965,10 +7965,10 @@ StartQuest2=Espero poder encontrar algo para enfriar la superficie de la tierra 
 Mission1_1=La superficie de la tierra está enfriándose. ¡Parece que está funcionando!
 
 [Quest_1717]
-CompleteQuest1=Entonces, la Misión Oscura no es la verdadera causa del problema que están experimentando los Ashases.
+CompleteQuest1=Entonces, la Dark Mission no es la verdadera causa del problema que están experimentando los Ashases.
 
 [//Quest_1719]
-CompleteQuest1=He destruido todas las instalaciones ocupadas por las Sombras Oscuras.
+CompleteQuest1=He destruido todas las instalaciones ocupadas por las Dark Shadows.
 CompleteQuest2=Esto debería hacer algo de daño.
 
 [Quest_1722]
@@ -7987,7 +7987,7 @@ Mission1_2=No debí haber hecho eso.
 Mission1_1=Espero que esos elementales de fuego dejen de venir.
 
 [Quest_1730]
-Mission1_1=¿Este miembro de la Misión realmente controlaba las mentes de la gente aquí?
+Mission1_1=¿Este miembro de la Mission realmente controlaba las mentes de la gente aquí?
 Mission1_2=Algo no está bien...
 
 [Quest_1731]
@@ -8012,14 +8012,14 @@ StartQuest1=¿Hm? Esto parece el laboratorio de los Ashases. ¿Por qué está co
 StartQuest1=Esa pequeña dama enana. ¿Se llamaba Dollan?
 
 [Quest_200105]
-StartQuest1=La Asociación Minera... Mejor voy a la Weiss Basin.
+StartQuest1=La Mining Association... Mejor voy a la Weiss Basin.
 
 [Quest_200108]
 StartQuest1=Herman... ¿Está él en complicidad con los goblins?
 StartQuest2=Un túnel conectado con el Pueblo Dudrin. Mejor me doy prisa.
 
 [Quest_200109]
-StartQuest1=El lado este de la Mina Heath. Debo encontrarlo antes que los goblins.
+StartQuest1=El lado este de Heath Mine. Debo encontrarlo antes que los goblins.
 
 [Quest_200121]
 StartQuest1=La oscuridad que ha caído sobre el Pueblo Dudrin...
@@ -8043,7 +8043,7 @@ StartQuest2=Que la espada sea encontrada en la tumba de Lenavis, la reina que re
 
 [Quest_200523]
 StartQuest1=Sabía que había un topo.
-StartQuest2=El Pico de Hielo Sangriento. Espero que él venga aquí.
+StartQuest2=El Blood Ice Peak. Espero que él venga aquí.
 
 [Quest_200527]
 StartQuest1=Orman. Te dormiré de una vez por todas.
@@ -8073,17 +8073,17 @@ StartQuest1=Mejor paso por el Puesto de Guardias en el Santuario de los Ancianos
 StartQuest1=Kainan... Realmente espero que esté aquí en nombre de Chaisong.
 
 [Quest_201304]
-StartQuest1=Los miembros de la Misión Oscura son una vergüenza para su propia especie.
+StartQuest1=Los miembros de la Dark Mission son una vergüenza para su propia especie.
 
 [Quest_201305]
-StartQuest1=¿Qué le hizo esto al árbol que simboliza el Reino Karol?
+StartQuest1=¿Qué le hizo esto al árbol que simboliza el Karol Kingdom?
 
 [Quest_201307]
 StartQuest1=Archipriest Laniere... ¿Qué le ocurrió?
 
 [Quest_201322]
 StartQuest1=¿Por qué la Reina Cara tomó esa decisión?
-StartQuest2=¿Fue por alguna información incorrecta de las Sombras Oscuras?
+StartQuest2=¿Fue por alguna información incorrecta de las Dark Shadows?
 
 [Quest_201325]
 StartQuest1=Los guardias reales, en lugar de proteger su reino, han estado conspirando con los demonios.
@@ -8129,7 +8129,7 @@ CompleteQuest1=He recolectado todos los materiales que necesito para combinar lo
 CompleteQuest2=Mejor vuelvo al artesano.
 
 [Quest_200208]
-StartQuest1=El bastión de las Larvas en la Grieta...
+StartQuest1=El bastión de las Larvas en la Rift...
 Mission2_1=He destruido el bastión de las Larvas.
 Mission2_2=Mejor vuelvo al Ejército Lorencia.
 
@@ -8184,10 +8184,10 @@ CompleteQuest1=Creo que he recolectado suficiente. Mejor regreso con ese herrero
 Mission2_1=Tampoco veo rastros de Glasha aquí.
 
 [//Quest_200407]
-CompleteQuest1=He recolectado suficiente. Mejor regresa con la Asociación Minera.
+CompleteQuest1=He recolectado suficiente. Mejor regresa con la Mining Association.
 
 [Quest_200410]
-StartQuest1=Un sonido aterrador viene de la Grieta al este.
+StartQuest1=Un sonido aterrador viene de la Rift al este.
 StartQuest2=¿Qué está pasando!?
 Mission1_1=¿Qué es esto? Creo que esto es... la Weiss Basin.
 Mission1_2=Espera, ¿acaso acabo de viajar en el tiempo!?
@@ -8210,9 +8210,9 @@ Mission1_2=Mejor se las llevo a Joseph.
 StartQuest1=Debería restaurar el Mapa Destrozado en mi inventario.
 
 [Quest_200609]
-StartQuest1=Encontré esto en un Gnoll. ¿Es... una Piedra de Portal?
-StartQuest2=Creo que esto me enviará a su almacén de alimentos en una Grieta.
-StartQuest3=Sí, la Piedra de Portal está respondiendo a una Grieta cerca de este lugar.
+StartQuest1=Encontré esto en un Gnoll. ¿Es... un Portal de Teletransporte?
+StartQuest2=Creo que esto me enviará a su almacén de alimentos en una Rift.
+StartQuest3=Sí, el Portal de Teletransporte está respondiendo a una Rift cerca de este lugar.
 Mission1_1=Este es el lugar donde almacenan los alimentos que robaron.
 Mission2_1=Está contaminado con toxinas. No creo que sea comestible.
 Mission2_2=Mejor elimino a los Gnolls que mantienen este lugar primero.
@@ -8241,7 +8241,7 @@ Mission1_2=No debería preocuparme por ellos, al menos por un tiempo.
 [Quest_200702]
 StartQuest1=La causa de la fuerza aumentada de los Gnolls...
 Mission1_1=¿Por qué los miembros de la Legión Gnoll llevan estas plumas?
-Mission1_2=Mejor se las muestro a los Halcones Plateados.
+Mission1_2=Mejor se las muestro a los Silver Sparrowhawks.
 
 [Quest_200703]
 StartQuest1=La criatura mítica adorada por los Gnolls...
@@ -8266,7 +8266,7 @@ CompleteQuest1=He recolectado todo lo que pude encontrar de los restos del Ejér
 CompleteQuest2=Mejor se los llevo a Icarus.
 
 [Quest_200803]
-StartQuest1=Mejor reviso la Grieta más cercana.
+StartQuest1=Mejor reviso la Rift más cercana.
 Mission1_1=Finalmente conseguí esa cosa que los Demonios de alto rango llevan con ellos.
 Mission1_2=Espero que esto ayude a traducir el lenguaje de los Demonios de alto rango.
 
@@ -8295,7 +8295,7 @@ CompleteQuest2=Mejor se las llevo a Icarus.
 
 [Quest_200810]
 StartQuest1=Ahora solo me queda recolectar un material más.
-StartQuest2=Debo entrar al Sitio de Excavación de Titanes.
+StartQuest2=Debo entrar al Sitio de Titan Excavation Site.
 
 [//Quest_200810]
 CompleteQuest1=El poder que mueve a los Titanes... Es increíble.
@@ -8307,10 +8307,10 @@ StartQuest2=¿Están involucradas las Lágrimas de Neria otra vez?
 
 [Quest_201003]
 Mission1_1=He recolectado las partes especiales de las escamas de dragón.
-Mission1_2=Mejor se las llevo a los Halcones Plateados.
+Mission1_2=Mejor se las llevo a los Silver Sparrowhawks.
 
 [Quest_201004]
-Mission1_1=He confiscado todos los bastones mágicos que los miembros de la Misión Oscura llevaban.
+Mission1_1=He confiscado todos los bastones mágicos que los miembros de la Dark Mission llevaban.
 Mission1_2=No hay manera de que algo así atraiga a los dragones.
 
 [Quest_201005]
@@ -8330,7 +8330,7 @@ StartQuest1=¿Mm? ¿Qué es eso frente al altar?
 
 [Quest_201009]
 StartQuest1=Haciendo réplicas de las Lágrimas de Neria...
-StartQuest2=Los Halcones Plateados están tomando grandes riesgos.
+StartQuest2=Los Silver Sparrowhawks están tomando grandes riesgos.
 
 [//Quest_201009]
 CompleteQuest1=He recolectado todos los materiales de investigación de esos dragones raros.
@@ -8359,18 +8359,18 @@ StartQuest2=Mejor voy a ver a Kyle.
 
 [Quest_201102]
 StartQuest1=Entonces, algunos dragones inteligentes están comandando a los demás...
-StartQuest2=Mejor voy a consultar con el Consejo de Ancianos Dracanem.
+StartQuest2=Mejor voy a consultar con el Dracanem Elder Council.
 
 [Quest_201103]
 StartQuest1=Un lugar en Duelden donde los dragones inteligentes se instalarían...
-StartQuest2=Solo se me ocurre el Refugio de los Dragones.
+StartQuest2=Solo se me ocurre el Dragon's Haven.
 
 [//Quest_201103]
 CompleteQuest1=He recolectado las esencias de los dragones inteligentes.
-CompleteQuest2=Mejor regreso al Consejo de Ancianos Dracanem.
+CompleteQuest2=Mejor regreso al Dracanem Elder Council.
 
 [Quest_201104]
-StartQuest1=Esos dragones inteligentes se estaban ocultando en el Canal Cerrado.
+StartQuest1=Esos dragones inteligentes se estaban ocultando en el Closed Waterway.
 StartQuest2=El faro no brilla por su propia base.
 
 [//Quest_201105]
@@ -8382,7 +8382,7 @@ CompleteQuest1=He derrotado a todos los dragones inteligentes en el Canal.
 CompleteQuest2=Mejor entrego esta noticia a Kyle.
 
 [Quest_201201]
-StartQuest1=Las secuelas del Túnel de Energía Maligna después de su destrucción...
+StartQuest1=Las secuelas del Evil Energy Tunnel después de su destrucción...
 StartQuest2=Sabía que dejaría una marca en este mundo de alguna manera...
 
 [Quest_201202]
@@ -8405,7 +8405,7 @@ StartQuest3=Mejor busco e investigo todos los otros criaderos.
 
 [Quest_201207]
 StartQuest1=He investigado todos los criaderos ocultos en este lugar.
-StartQuest2=Ahora es el momento de ir al Pozo de las Pesadillas.
+StartQuest2=Ahora es el momento de ir al Pit of Nightmares.
 
 [//Quest_201230]
 CompleteQuest1=Sabía que habría muchos criaderos ocultos en este lugar.
@@ -8421,9 +8421,9 @@ Mission1_1=Esta energía es indescriptiblemente pura.
 Mission1_2=Esto debe ser la esencia de la Naturaleza.
 
 [Quest_201213]
-StartQuest1=Está bien, voy a comenzar con la Cueva Pandemónica.
+StartQuest1=Está bien, voy a comenzar con la Pandemonic Cave.
 Mission1_1=Las criaturas Pandemónicas a mi alrededor están debilitándose y muriendo.
-Mission1_2=Creo que está funcionando. El siguiente paso es el Pozo de las Pesadillas.
+Mission1_2=Creo que está funcionando. El siguiente paso es el Pit of Nightmares.
 Mission2_1=Bien, también funcionó aquí. Ahora, solo me queda un lugar.
 Mission3_1=¡Oh no, Elyraq volvió a la vida!
 
@@ -8439,44 +8439,44 @@ StartQuest1=Siento que alguien me está mirando. ¿Es esa investigadora?
 StartQuest1=¿Soldados de Ashas? ¿Aquí? ¿Han venido a vengarse?
 
 [Npc_192100014]
-Name=Ent de la Horda
+Name=Spawn Ent
 Sayhello1=Eh... ¿Crees que es fácil estar aquí? ¡No lo es! ¡Es sofocante!
 Death1=Otro día siendo golpeado por los aprendices...
 
 [Npc_192100015]
-Name=Shama de la Horda
+Name=Spawn Shama
 Sayhello1=Shaaa... Krrk. Krrrrrk.
 Death1=Krrk. Krrrrrk...
 
 [Npc_192100022]
-Name=Firefox de la Horda
+Name=Spawn Firefox
 Sayhello1=¡Kyaaaa!
 Death1=Kyaoooh...
 
 [Npc_192100016]
-Name=Guerrero Ashas Nakan Maceman
+Name=Spawn Ashas Nakan Maceman
 Sayhello1=¡Buen trabajo llegando hasta aquí, aprendiz! ¡Pero no pasarás de mí!
 Death1=Humph... Bastante fuerte para un aprendiz...
 
 [Npc_192100025]
-Name=Elite Oney Xicycle de la Horda
+Name=Spawn Oney Xicycle Elite
 Sayhello1=¿Sabes cuánto pesa esto?
 Death1=Urgggh... ¿Crees que es fácil estar aquí?
 
 [Npc_192100023]
-Name=Conejo MMA de la Horda
+Name=Spawn MMA Rabbit
 Sayhello1=¡Otro aprendiz al que golpear hasta dejarlo inconsciente!
 Death1=Awww, yo fui el que terminó siendo golpeado... Hmph...
 
 [Npc_192100017]
-Name=Guerrero Pesado Ashas Nakan de la Horda
+Name=Spawn Ashas Nakan Heavy Armor Warrior
 Sayhello1=¡Mantente alerta, aprendiz! ¡O te encontrarás de rodillas ante esta espada!
 Death1=Hmph... Otro día, otra herida...
 
 [Quest_201926]
 MissionDeco2_1_1=Demonios por todas partes... ¿Qué... qué debemos hacer?
 MissionDeco2_5_1=¡Baraex! ¡Quédate cerca y no sueltes!
-CompleteQuest1=Ahora... Mejor regrese con Gildan. Debe estar en la Oficina de Gestión de Ruinas.
+CompleteQuest1=Ahora... Mejor regrese con Gildan. Debe estar en Ruins Management Office.
 
 [Quest_201935]
 CompleteQuest1=Baraex no fue el culpable... Mejor regreso con Gildan y le cuento lo que realmente pasó.
@@ -8492,7 +8492,7 @@ Sayhello1=¡Pasa la prueba y gana el verdadero honor de Dios!
 Greeting1=¡Los que conocen el honor nunca retroceden!
 
 [Quest_5608]
-Mission1_1=¿Es ese el Reino de la Perseverancia?
+Mission1_1=¿Es ese el Realm of Perseverance?
 
 [Quest_5611]
 CompleteQuest1=Su entrada está fuertemente custodiada. Tendré que luchar para abrirme paso.
@@ -8595,11 +8595,11 @@ CompleteQuest1=Si esto es correcto, el Inmortal, él es...
 
 [Quest_500009]
 StartQuest1=Mi primer destino es un lugar en la frontera entre la Tierra y el Pandemonium...
-StartQuest2=El Pozo de los Muertos.
+StartQuest2=The Pit of the Dead.
 
 [Quest_500010]
 StartQuest1=Mi siguiente destino es un lugar entre la Tierra y los Cielos...
-StartQuest2=El Castillo de Sangre.
+StartQuest2=Blood Castle.
 
 [Quest_500011]
 StartQuest1=Está bien, he recogido todo el Karma que necesito para el renacimiento.
@@ -8784,7 +8784,7 @@ SayHello3=Venti está especialmente hablador hoy, ¿verdad?
 Name=Venti
 Sayhello1=E-él no lo parezca, pero Luery es miembro de una familia muy importante.
 Sayhello2=No debería estar haciendo esto aquí ahora mismo...
-SayHello3=Algo increíble está a punto de suceder. L-últimamente, la energía del Rift...
+SayHello3=Algo increíble está a punto de suceder. U-últimamente, la energía del Rift...
 
 [Npc_160091013]
 Name=White Fox
@@ -9016,7 +9016,7 @@ Mission1_3=Debo recolectar sus Esencias de Caballero.
 
 [Quest_300024]
 StartQuest1=Esto no es suficiente. Alguien debe tener una Esencia más fuerte.
-StartQuest2=No es el Santuario de los Caballeros Dragón hacia donde apunta la varita mágica...
+StartQuest2=No es el Sanctum of Dragon Knights hacia donde apunta la varita mágica...
 StartQuest3=Mejor reviso el Rift.
 
 [//Quest_300024]
@@ -9039,7 +9039,7 @@ Mission1_1=Justo como pensaba. Mejor busco en este lugar.
 [Quest_300027]
 StartQuest1=No siento más Esencias de Caballero en Litenberg.
 StartQuest2=Es hora de buscar en el continente Noria.
-Mission1_1=Aliento del Árbol del Mundo. Los caballeros que ocupan este lugar son...
+Mission1_1=Aliento del World Tree. Los caballeros que ocupan este lugar son...
 Mission1_2=Los Ashas Nakans.
 
 [Quest_300028]
@@ -9053,7 +9053,7 @@ Mission1_2=Debe haber un Nakan con una Esencia de Caballero más fuerte aquí.
 [Quest_300029]
 StartQuest1=Estoy casi terminando.
 StartQuest2=Lo siguiente es Wellspring Haven.
-Mission1_1=Los caballeros de las Sombras Oscuras, justo como esperaba.
+Mission1_1=Los caballeros de las Dark Shadows, justo como esperaba.
 Mission1_2=Aún estamos en guerra. No tengo razón para mostrarles misericordia.
 
 [Quest_300030]
@@ -9072,7 +9072,7 @@ StartQuest3=Debería informar a Elrond.
 Mission1_1=Me pregunto si ella ha escapado con seguridad. Espero que nos volvamos a encontrar.
 
 [Quest_1753]
-Mission1_1=Esto es tan peligroso. Parece que la Sociedad de Investigación del Rift está llena de raros.
+Mission1_1=Esto es tan peligroso. Parece que la Rift Research Society está llena de raros.
 
 [Quest_1755]
 StartQuest1=¿Adivinanzas? ¿Qué tipo de tesoro increíble están escondiendo? Mejor lo reviso.
@@ -9108,7 +9108,7 @@ Mission1_1=Bien, esto debería bastar.
 CompleteQuest1=Esto... Tal vez sea mejor no saberlo.
 
 [Quest_1869]
-StartQuest1=Eso... Me recuerda a lo que vi en el continente Duelden.
+StartQuest1=Eso... Me recuerda a lo que vi en Duelden Continent.
 StartQuest2=Creo que son piedras de protección. Mejor destruyo cada una que vea.
 
 [Quest_1870]
@@ -9308,18 +9308,18 @@ StartQuest2=Debo llevarlos a Petunia.
 
 [Quest_1960]
 StartQuest1=Muy bien, he liberado al rey de los pequeños elementales.
-StartQuest2=Será mejor que lo lleve al Ayudante.
+StartQuest2=Será mejor que lo lleve a Aide.
 
 [Quest_1961]
 StartQuest1=Muy bien, he liberado a la reina de los pequeños elementales.
-StartQuest2=Será mejor que la lleve al Ayudante.
+StartQuest2=Será mejor que la lleve a Aide.
 
 [Quest_1962]
 StartQuest1=He salvado tanto al rey como a la reina de los pequeños elementales.
 StartQuest2=Debería regresar a Petunia.
 
 [Quest_1982]
-StartQuest1=Estos liches son los conjuradores que apoyan a los Bosques Negros.
+StartQuest1=Estos liches son los conjuradores que apoyan a los Black Forests.
 StartQuest2=Lo siento, pero están buscando en el lugar equivocado.
 
 [Quest_1985]
