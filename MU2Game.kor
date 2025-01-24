@@ -269,7 +269,7 @@ LS_3StarDominion=Terreno de 3 estrellas.
 LS_Follower=Seguidor
 LS_TStoneTextAmpNum=Estados Intensificados (%s_1)
 LS_TStoneTextCPTitle=Potencia de combate total aumentada
-LS_TStoneTextRegisterDesc=Con %s_1, el objeto objetivo puede intensificarse hasta %s_2 veces.
+LS_TStoneTextRegisterDesc=Con %s_1, el Item objetivo puede intensificarse hasta %s_2 veces.
 LS_TStoneTextResultTitle=Has intensificado con éxito la Piedra Trascendente.
 LS_TStoneTextResultFailTitle=No se ha podido intensificar la Piedra Trascendente.
 LS_TStoneTextResultAmpTitle=Resultado de la intensificación
@@ -303,7 +303,7 @@ LS_SelectTitleText=Selecciona una Piedra Trascendente a la que cambiar
 LS_EquipTargetTStoneDescText=<font color='#D6D6D6'>Después de equipar una Piedra Trascendente, no puedes intensificar más.</font><br>¿Trascender?
 LS_ChangeTargetTStoneDescText=<font color='#D6D6D6'>No puedes trascender más.<br>Equipar una nueva Piedra Trascendente destruirá la existente.</font><br>¿Cambiar la Piedra Trascendente?
 LS_ChangeSelectTargetTStoneDescText=<font color='#D6D6D6'>No puedes trascender más.<br>Equipar una nueva Piedra Trascendente destruirá la existente.</font><br>¿Cambiar la Piedra Trascendente?
-LS_OwnWarningTStoneDescText=<br><br><font color='#FF0000'>Equipar una Piedra Trascendente vinculará el objeto a ti.</font>
+LS_OwnWarningTStoneDescText=<br><br><font color='#FF0000'>Equipar una Piedra Trascendente vinculará el Item a ti.</font>
 LS_OKButtonLabel=OK
 LS_CancleButtonLabel=Cancelar
 
@@ -391,8 +391,8 @@ CheckBoxString[15]=Ganancia EXP
 CheckBoxString[16]=Mejora Estadística
 CheckBoxString[17]=Ganancia de Gema Zen/Mágica
 CheckBoxString[18]=Consumo de Zen
-CheckBoxString[19]=Ganancia de objetos
-CheckBoxString[20]=Consumo de objetos
+CheckBoxString[19]=Ganancia de Items
+CheckBoxString[20]=Consumo de Items
 CheckBoxString[21]=Ganancia de Búsqueda
 CheckBoxString[22]=Terminación de búsqueda
 CheckBoxString[23]=Alerta de inicio de sesión de amigo
@@ -455,12 +455,12 @@ PurchaseButtonRebuy=Volver a comprar
 RepairItemBtn=Reparar seleccionado
 RepairItemStopBtn=Detener reparación de artículo
 RepairAllBtn=Reparar Equipado
-ShowAllList=Ver todos los artículos de clase
+ShowAllList=Ver todos los Items de clase
 
 [MU2GFxNpcShopSellAllTab]
 LS_Sell=Vender
 LS_TakeOut=Retirar
-LS_RepairSelected=Reparación seleccionada
+LS_RepairSelected=Reparación individual
 LS_RepairStop=Detener reparación de artículo
 LS_RepairAll=Reparar equipado
 
@@ -470,12 +470,12 @@ LS_ReBuy=Volver a comprar
 LS_RepairSelected=Reparación seleccionada
 LS_RepairStop=Detener reparación de artículo
 LS_RepairAll=Reparar equipado
-LS_ShowAllList=Ver todos los artículos de clase
+LS_ShowAllList=Ver todos los Items de clase
 LS_ToolTipText_55003=<b><font color='#FDC243'>Prueba de Jonathan</font></b><br>Puede conseguirse completando la Misión diaria de Jonathan.
 LS_ToolTipText_55004=<b><font color='#FDC243'>Medalla de Kundun</font></b><br>Puede conseguirse completando la Misión diaria de Kundun.
 LS_ToolTipText_55015=<b><font color='#FDC243'>Prueba de Fletcher</font></b><br>Puede conseguirse completando la peligrosa Misión diaria de Fletcher.
 LS_ToolTipText_62901=<b><font color='#FDC243'>Sello de poder</font></b><br>Se puede conseguir jugando en la Torre infinita.
-LS_ToolTipText_55011=<b><font color='#FDC243'>Precioso producto refinado</font></b><br>Puede obtenerse en la Refinería de objetos.
+LS_ToolTipText_55011=<b><font color='#FDC243'>Precioso producto refinado</font></b><br>Puede obtenerse en la Refinería de Items.
 
 [MU2GFxNpcShopKnightsPoint]
 LS_Knightage=Miembro del guild
@@ -493,7 +493,7 @@ LS_BuyCount=Compras disponibles
 LS_NoLimit=Ilimitado
 LS_KnightageUse=<font color='#ff0000'>Ocupar guild</font>
 LS_KnightageFollowerUse=<font color='#ff0000'>Seguidor</font>
-LS_ToolTipText=<b><font color='#FDC243'>Consejo sobre la Tienda de Contribución</font></b><br>- Puedes comprar con los Puntos de Contribución que has ganado a través de las actividades del guild y del juego en general.<br>- Cuanto mayor sea el grado de tu territorio, mejores objetos encontrarás en la tienda.<br>- Cuanto mayor sea el nivel de tu territorio vecino, mayor será tu tasa de descuento (hasta un 20%).
+LS_ToolTipText=<b><font color='#FDC243'>Consejo sobre la Tienda de Contribución</font></b><br>- Puedes comprar con los Puntos de Contribución que has ganado a través de las actividades del guild y del juego en general.<br>- Cuanto mayor sea el grado de tu territorio, mejores Items encontrarás en la tienda.<br>- Cuanto mayor sea el nivel de tu territorio vecino, mayor será tu tasa de descuento (hasta un 20%).
 LS_LimitedBuy=(El recuento de compras se reinicia en %s_1 d)
 
 [MU2GFxNpcShopBlackMarket]
@@ -536,43 +536,43 @@ LS_NoLimit_9515=Ilimitado
 LS_TokenCount_9515=Sello de evento
 LS_ToolTipText_9515=<b><font color='#FDC243'>Sello de evento</font></b><br>Obtenible al iniciar sesión desde un cibercafé.
 LS_Title_106010027=Intercambiador de fichas de iris
-LS_ShopDesc_106010027=Los objetos de compra limitada sólo se pueden comprar una vez.
+LS_ShopDesc_106010027=Los Items de compra limitada sólo se pueden comprar una vez.
 LS_BuyCount_106010027=Limited Purchase
 LS_NoLimit_106010027=Unlimited
 LS_TokenCount_106010027=Iris Token
 LS_ToolTipText_106010027=<b><font color='#FDC243'>Ticket de Iris</font></b><br>Obtenible a través de las misiones diarias del Campamento de entrenamiento de Iris.
 LS_Title_9518=Tienda de monedas de evento
-LS_ShopDesc_9518=Los objetos de compra limitada sólo se pueden comprar una vez.
+LS_ShopDesc_9518=Los Items de compra limitada sólo se pueden comprar una vez.
 LS_BuyCount_9518=Compras disponibles
 LS_NoLimit_9518=Ilimitado
 LS_TokenCount_9518=Chakram misterioso
 LS_ToolTipText_9518=<b><font color='#FDC243'>Chakram Misterioso</font></b><br>Obtenible a través de las Alcantarillas de Ohrdor.
 LS_Title_19997=Tienda de monedas del evento
-LS_ShopDesc_19997=Los objetos de compra limitada sólo se pueden comprar una vez.
+LS_ShopDesc_19997=Los Items de compra limitada sólo se pueden comprar una vez.
 LS_BuyCount_19997=Compras disponibles
 LS_NoLimit_19997=Unlimited
 LS_TokenCount_19997=Chakram misterioso
 LS_ToolTipText_19997=<b><font color='#FDC243'>Chakram Misterioso</font></b><br>Obtenible a través de las Cloacas de Ohrdor.
 LS_Title_19992=Tienda de monedas de evento
-LS_ShopDesc_19992=Los objetos de compra limitada sólo se pueden comprar una vez.
+LS_ShopDesc_19992=Los Items de compra limitada sólo se pueden comprar una vez.
 LS_BuyCount_19992=Compras disponibles
 LS_NoLimit_19992=Unlimited
 LS_TokenCount_19992=Ticket RPS
 LS_ToolTipText_19992=<b><font color='#FDC243'>Ticket RPS </font></b><br>Obtenible a través de la Dungeon del Refugio del Dragón y la Reliquia Antigua.
 LS_Title_19993=Tienda de monedas de evento
-LS_ShopDesc_19993=Los objetos de compra limitada sólo se pueden comprar una vez.
+LS_ShopDesc_19993=Los Items de compra limitada sólo se pueden comprar una vez.
 LS_BuyCount_19993=Compras disponibles
 LS_NoLimit_19993=Unlimited
 LS_TokenCount_19993=Chakram misterioso
 LS_ToolTipText_19993=<b><font color='#FDC243'>Chakram Misterioso</font></b><br>Obtenible a través de las Cloacas de Ohrdor.
 LS_Title_19989=Tienda de monedas de evento
-LS_ShopDesc_19989=Los objetos de compra limitada sólo se pueden comprar una vez.
+LS_ShopDesc_19989=Los Items de compra limitada sólo se pueden comprar una vez.
 LS_BuyCount_19989=Compras disponibles
 LS_NoLimit_19989=Unlimited
 LS_TokenCount_19989=Chakram misterioso
 LS_ToolTipText_19989=<b><font color='#FDC243'>Chakram Misterioso</font></b><br>Obtenible a través de las Cloacas de Ohrdor.
 LS_Title_107=Tienda de monedas de evento
-LS_ShopDesc_107=Los objetos de compra limitada sólo se pueden comprar una vez.
+LS_ShopDesc_107=Los Items de compra limitada sólo se pueden comprar una vez.
 LS_BuyCount_107=Compras disponibles
 LS_NoLimit_107=Ilimitado
 LS_TokenCount_107=Fichas de monedas de leyenda
@@ -608,12 +608,12 @@ LS_NoLimit_95211=Unlimited
 LS_TokenCount_95211=Marca de la Espada
 LS_ToolTipText_95211=<b><font color='#FDC243'>Marca de la espada</font></b><br>Obtenible de varios monstruos jefe.
 LS_LimitedBuy_95211=(La cuenta de compras se reinicia en %s_1 d)
-LS_Title_109=Tienda del Castillo del Caos
+LS_Title_109=Tienda de Chaos Castle
 LS_ShopDesc_109=Tu cuenta de compras diaria se reinicia cada día a las 5:00 a.m.
 LS_BuyCount_109=Compras disponibles
 LS_NoLimit_109=Ilimitado
-LS_TokenCount_109=Ticket de Espíritu de Lucha
-LS_ToolTipText_109=<b><font color='#FDC243'>Ticket de Espíritu de Lucha</font></b><br>Se puede conseguir jugando en el Castillo del Caos.
+LS_TokenCount_109=Espíritu de Lucha
+LS_ToolTipText_109=<b><font color='#FDC243'>Ticket de Espíritu de Lucha</font></b><br>Se puede conseguir jugando en el Chaos Castle.
 LS_LimitedBuy_109=(El recuento de compras se reinicia en %s_1 d)
 LS_Title_143=Tienda del Paraíso de las ranas
 LS_ShopDesc_143=Esta tienda sólo abre durante un periodo de evento.
@@ -679,7 +679,7 @@ LS_NoLimit_19537=Unlimited
 LS_TokenCount_19537=Alimentación de Beatriz
 LS_ToolTipText_19537=Cambiar por <b><font color='#FDC243'>Alimento de Beatriz</font></b>
 LS_LimitedBuy_19537=(El recuento de compras se restablece en %s_1 d)
-LS_Title_9429=Tienda del cazador de tesoros de Lupa
+LS_Title_9429=Tienda de Lupa
 LS_ShopDesc_9429=Su cuenta de compras diaria se reinicia cada día a las 5:00 a.m.
 LS_BuyCount_9429=Compras disponibles
 LS_NoLimit_9429=Ilimitado
@@ -836,7 +836,7 @@ LS_ShopDesc_19630=Esta tienda está abierta sólo durante el periodo del evento.
 LS_BuyCount_19630=Límite de compra
 LS_NoLimit_19630=Sin límites
 LS_TokenCount_19630=Memoria perdida
-LS_ToolTipText_19630=Disponible al intercambiar la memoria perdida, un objeto que se puede conseguir en las Dungeons El deseo de Targash y La avaricia de Kaizel.
+LS_ToolTipText_19630=Disponible al intercambiar la memoria perdida, un Item que se puede conseguir en las Dungeons El deseo de Targash y La avaricia de Kaizel.
 LS_LimitedBuy_19630=(Límite de compra reajustado tras %s_1 días)
 LS_Title_19632=Tienda del zorro blanco
 LS_ShopDesc_19632=Esta tienda está abierta sólo durante el periodo del evento.
@@ -1036,8 +1036,8 @@ OKString=OK (Espacio)
 CancelString=Cancelar (Esc)
 HighRankItemString=Artículo poco común o superior
 RareItemString=Artículo raro o superior
-HeroItemString=Objeto heroico o superior
-LegendItemString=Objeto legendario o superior
+HeroItemString=Item heroico o superior
+LegendItemString=Item legendario o superior
 NoRollingDiceString=Al azar
 PartyDestString=Destino de la party
 PartyMaxNumString=Capacidad de la party
@@ -1071,7 +1071,7 @@ Necklace=Collar
 Ring=Anillo
 Belts=Cinturón
 Earring=Pendientes
-Gather=Objeto Recolectado
+Gather=Item Recolectado
 Material_Cloth=Material de tela
 Material_Leather=Material de cuero
 Material_Metal=Material Metálico
@@ -1117,7 +1117,7 @@ Durability=Durabilidad
 Grade_Low=Grado bajo
 Grade_Mid=Grado medio
 Grade_High=Grado alto
-DurabillityMsg=Este objeto ha alcanzado 0 de durabilidad y no se puede usar.
+DurabillityMsg=Este Item ha alcanzado 0 de durabilidad y no se puede usar.
 
 [AbilityInfo]
 MeleeDefence=Defensa Física
@@ -1345,7 +1345,7 @@ LS_KnightageTrophy=Trofeos de tu guild
 LS_BtnOK_N=Confirmar
 
 [MU2GFxTransactionQuantity]
-LS_BuyTitle=Comprar objeto
+LS_BuyTitle=Comprar Item
 LS_SellTitle=Vender artículo
 LS_ReSellTitle=Volver a comprar artículo
 LS_BtnOK=Aceptar (Espacio)
@@ -1364,7 +1364,7 @@ lsDateUse=0
 lsCallBuy=¿Comprar este artículo?
 
 [ItemCreateCategory]
-ItemCreateMainCategory1=Todos los artículos
+ItemCreateMainCategory1=Todos los Items
 ItemCreateCategory101=Arma
 ItemCreateSubCategory10101=Una mano
 ItemCreateSubCategory10102=Dos manos
@@ -1402,7 +1402,7 @@ ItemCreateSubCategory10701=Material para pociones
 ItemCreateSubCategory10702=Material Jefe
 ItemCreateSubCategory10703=Material Desmantelador
 ItemCreateSubCategory10704=Misión diaria
-ItemCreateCategory108=Objetos mágicos
+ItemCreateCategory108=Items mágicos
 ItemCreateSubCategory10801=Cubo
 ItemCreateSubCategory10802=Piedra de Evolución
 ItemCreateSubCategory10803=Piedra Trascendente
@@ -1506,7 +1506,7 @@ RecoveryAbility_MPRecoveryWhenKilled=MP+ por cada muerte
 RecoveryAbility_HPRecoveryWhenHit=HP+ por daño infligido
 RecoveryAbility_MPRecoveryWhenHit=MP+ por daño infligido
 RecoveryAbility_HPPortionEfficiency=Potencia de rec. de HP
-RecoveryAbility_MPPortionEfficiency=Potencia del objeto de recuperación de MP
+RecoveryAbility_MPPortionEfficiency=Potencia del Item de recuperación de MP
 SubAbility_GetExp=Exp de monstruo
 SubAbility_GetSoulExp=Exp del alma
 SubAbility_DamageReflection=Reflejo de daño
@@ -1514,9 +1514,9 @@ SubAbility_SkillProficiency=Dominio de habilidad
 SubAbility_GetZen=Soltar zen
 SubAbility_GetGreenZen=Ganancia de gema mágica
 SubAbility_GetRiftPoint=Ganancia de fragmento de grieta
-SubAbility_GetItemChange=Cambio de objeto
-SubAbility_GetMagicItemChange=Cambio de objetos no comunes
-SubAbility_GetItemRootingRateRange=Radio de recogida de objetos
+SubAbility_GetItemChange=Cambio de Item
+SubAbility_GetMagicItemChange=Cambio de Items no comunes
+SubAbility_GetItemRootingRateRange=Radio de recogida de Items
 SubAbility_aggro_inc_rate=Incremento de Aggro
 SubAbility_pet_exp_rate=Ganancia de EXP de mascota aumentada
 SubAbility_talisman_cooltime_dec_rate=Reactivación de talismán
@@ -1631,15 +1631,15 @@ SubAbility_SkillProficiency=Aumenta tu Dominio de Habilidades más rápidamente.
 SubAbility_GetZen=Los monstruos sueltan más Zen.
 SubAbility_GetGreenZen=Los monstruos sueltan más gemas mágicas.
 SubAbility_GetRiftPoint=Los monstruos sueltan más fragmentos de grieta.
-SubAbility_GetItemChange=Matar a un monstruo te da más objetos.
-SubAbility_GetMagicItemChange=Matar a un monstruo te da más objetos poco comunes.
-SubAbility_GetItemRootingRateRange=Aumenta tu radio de recogida de objetos.
+SubAbility_GetItemChange=Matar a un monstruo te da más Items.
+SubAbility_GetMagicItemChange=Matar a un monstruo te da más Items poco comunes.
+SubAbility_GetItemRootingRateRange=Aumenta tu radio de recogida de Items.
 SubAbility_aggro_inc_rate=Aumenta la ganancia de Aggro.
 SubAbility_pet_exp_rate=Aumenta la ganancia de EXP de mascota.
 SubAbility_talisman_cooltime_dec_rate=Aumenta el tiempo de enfriamiento de la habilidad talismán.
 SubAbility_costume_option_inc_rate=Aumenta las estadísticas de los trajes.
 SubAbility_BuffDuration=Aumenta la duración de tus potenciadores.
-SubAbility_SummonDuration=Aumenta la duración de los objetos invocados.
+SubAbility_SummonDuration=Aumenta la duración de los Items invocados.
 SubAbility_BoardingTimeReduction=Te permite subir a una montura más rápidamente.
 Normal_0=Ataque de bonificación contra enemigos normales
 Normal_1=Daño reducido contra enemigos normales
@@ -1721,7 +1721,7 @@ _Message=No hay correos almacenados.
 SysMailContent=El correo de la cuenta es recibido por un solo personaje.¶Después de recibir, un correo regular será enviado al personaje.¶Muchas gracias.
 
 [MU2GFxDungeonGuide]
-LS_MissionmapState_Close=Cerrar
+LS_MissionmapState_Close=Evento cerrado
 LS_MissionmapState_Ready=Esperando para entrar
 LS_MissionmapState_Requestable=Ahora aceptando peticiones
 LS_MissionmapState_Requested=Solicitando...
@@ -1738,14 +1738,14 @@ LS_Dungeon_Epic=Dungeon épica
 LS_Dungeon_Adv=Rift
 LS_AltarOfElements_Title=Altar Of Elements
 LS_AltarOfElements_Desc0=Consigue 3.000 puntos dentro del tiempo límite.
-LS_AltarOfElements_Desc1=Recompensas por ganar: objetos y puntos de honor.
+LS_AltarOfElements_Desc1=Recompensas por ganar: Items y puntos de honor.
 LS_AltarOfElements_Desc2=Los altares con antiguos espíritus sellados en su interior pueden encontrarse por todo el continente de MU. Estas zonas están siempre abarrotadas de aquellos que codician los inmensos poderes mágicos de los espíritus.
 LS_AltarOfElements_Desc3=Equipos de 5-10 jugadores
 LS_AltarOfElements_Desc4=Nivel 65
 LS_AltarOfElements_Desc5=Durante los primeros 25 minutos de cada hora
 LS_ChaosCastle_Title=Chaos Castle
 LS_ChaosCastle_Desc0=Último jugador en pie
-LS_ChaosCastle_Desc1=Recompensas por ganar: objetos y Puntos de Honor
+LS_ChaosCastle_Desc1=Recompensas por ganar: Items y Puntos de Honor
 LS_ChaosCastle_Desc2=Esta temible fortaleza está plagada de caballeros terrenales que han sido resucitados por el Ejército del Pandemónium. Mantente con vida tanto como puedas para frustrar los planes de Pandemonium.
 LS_ChaosCastle_Desc3=100 jugadores
 LS_ChaosCastle_Desc4=Nivel 65
@@ -1786,11 +1786,11 @@ LS_Desc3[1]=
 LS_Desc3[2]=
 LS_Dungeon_Desc3[3]=- Aumenta el Coeficiente de Naturaleza
 LS_Desc3[4]=
-LS_Dungeon_Desc4[0]=Aumentan las posibilidades de encontrar objetos en la Rift.
-LS_Dungeon_Desc4[1]=Sus posibilidades de encontrar objetos en la Rift aumenta.
-LS_Dungeon_Desc4[2]=La probabilidad de encontrar objetos en la Rift aumenta.
-LS_Dungeon_Desc4[3]=La probabilidad de encontrar objetos en la Rift aumenta.
-LS_Dungeon_Desc4[4]=La probabilidad de encontrar objetos en la Rift aumenta.
+LS_Dungeon_Desc4[0]=Aumentan las posibilidades de encontrar Items en la Rift.
+LS_Dungeon_Desc4[1]=Sus posibilidades de encontrar Items en la Rift aumenta.
+LS_Dungeon_Desc4[2]=La probabilidad de encontrar Items en la Rift aumenta.
+LS_Dungeon_Desc4[3]=La probabilidad de encontrar Items en la Rift aumenta.
+LS_Dungeon_Desc4[4]=La probabilidad de encontrar Items en la Rift aumenta.
 LS_Gillust_String[0]=Mina de la Muerte
 LS_Gillust_String[1]=CanalDeEmpíreo
 LS_GDungeon_Boss[0]=Glasha
@@ -1845,25 +1845,25 @@ LS_EquipmentManufactureString=Consumibles artesanales
 LS_CoolTimeString=Puede fabricarse una vez cada %d horas
 LS_WaitCoolTimeString1=Puede fabricarse en %d minutos
 LS_WaitCoolTimeString2=Se puede fabricar en %d horas %d minutos
-LS_DescriptionString=Puedes fabricar objetos a través de los NPCs.
+LS_DescriptionString=Puedes fabricar Items a través de los NPCs.
 LS_FoldFiterring=Doblar filtros
 LS_ExpandFiterring=Desplegar filtros
 LS_InputDefault=
-LS_ShowNowMakeIt=Objetos artesanales
+LS_ShowNowMakeIt=Items artesanales
 LS_ShowAbleKnow=Equipables
 LS_ShowAll=Ignorar todos los requisitos
 LS_ShowLowLevel=Equipamiento de bajo nivel
 LS_ShowOnlyMyJob=Exclusivo de clase
-LS_TitleHistory=Lista de objetos artesanales
+LS_TitleHistory=Lista de Items artesanales
 LS_TitleCraftMats=Material
 LS_NeedCondition=Requisitos de artesanía
 LS_NeedCost=Cantidad y coste de la artesanía
 LS_MakeCount=Cantidad de fabricación:
-LS_TitleEmptyMsg=No hay objetos crafteables en la lista.
-LS_DescEmptyMsg=1. Puedes elegir diferentes opciones de filtrado para tu lista de artesanía.<br />2. Los objetos se añaden a tu lista de artesanía a medida que tu personaje sube de nivel.
+LS_TitleEmptyMsg=No hay Items crafteables en la lista.
+LS_DescEmptyMsg=1. Puedes elegir diferentes opciones de filtrado para tu lista de artesanía.<br />2. Los Items se añaden a tu lista de artesanía a medida que tu personaje sube de nivel.
 LS_Level=Nivel
 LS_Recipe=Diseño
-LS_Make=Hacer
+LS_Make=Fabricar
 LS_NeedMaterial=Materiales insuficientes
 LS_NeedZen=Monedas insuficientes
 LS_NeedActiveCondition=Nivel insuficiente
@@ -1877,11 +1877,11 @@ Deal=Usar Tienda
 Skill=Cancelar Habilidad Experto
 AreaTownPortal=Gestionar Viaje de Área
 ContinentTownPortal=Viaje Intercontinental
-ItemDisassemble=Desmontar objeto
-Enchant=Encantar objeto
-ChangeItemOption=Restablecer opciones de objeto
-ConsumableManufacture=Craft
-EquipmentManufacture=Craft
+ItemDisassemble=Desmontar Item
+Enchant=Encantar Item
+ChangeItemOption=Restablecer opciones de Item
+ConsumableManufacture=Fabricar
+EquipmentManufacture=Fabricar
 RuneShop=Usar tienda de habilidades de cresta
 ChangeAppearance=Cambiar apariencia
 CreateAmpStone=Crear piedra de intensificación
@@ -1910,7 +1910,7 @@ RaidEstablishment=Crear incursión
 IceFestivalEvent=Evento Festival de Hielo
 EventShop=Tienda de evento
 PuzzleEvent=Evento de puzzle
-ItemRefine=Refinería de objetos
+ItemRefine=Refinería de Items
 ExtractEmotion=Extraer Éter
 GetEmotionBox=Forja del alma
 FireWorksFestival=Evento del 1er Aniversario (Festival de Fuegos Artificiales)
@@ -1923,7 +1923,7 @@ LegendBingo=Leyenda del Bingo
 TalismanTicketRewardImputedRedzen=Compra en Redzen
 MerclerSecretShop=Tienda secreta de Mercler
 TalismanLottery=Lotería Talismán
-KnightEnchant=Encantamiento de objeto
+KnightEnchant=Encantamiento de Item
 EnchantInherit=Heredar encantamiento
 
 [MU2GFxSystemMessageView]
@@ -1947,12 +1947,12 @@ lsMsgMissionMapTeamA=Equipo A
 lsMsgMissionMapTeamB=Equipo B
 lsMsgMissionMapKillBoss=Muerto
 lsMsgMissionMapOccupation=Conquistar
-lsMsgChaosCatle_Win=¡Has sobrevivido al Castillo del Caos!
+lsMsgChaosCatle_Win=¡Has sobrevivido al Chaos Castle!
 lsMsgChaosCatle_Lose=Has muerto.
 lsMsgChaosCatle_Rank=Rango
 lsMsgChaosCatle_AliveTime=Duración de la Supervivencia
 lsMsgChaosCatle_AchievePoint=Puntos de Honor Ganados
-lsMsgAcquireItem=Nuevo objeto obtenido
+lsMsgAcquireItem=Nuevo Item obtenido
 lsMsgDungeonAdmissionTitle=Entrar en la Dungeon
 lsMsgGetCustomSkillSlot=&lt;Ranura de Cresta Adquirida&gt;
 lsMsgGetSkill=&lt;Habilidades Adquiridas&gt;
@@ -1963,7 +1963,7 @@ lsDungeonRequst=Solicitud para entrar en %s_1
 lsMsgAutoMoving=Movimiento automático
 IsMsgAutoAttack=Ataque automático
 LS_AOResult_0=Falló la impresión del ítem.
-LS_AOResult_1=¡Ha imprimido el objeto con éxito!
+LS_AOResult_1=¡Ha imprimido el Item con éxito!
 LS_AOResult_2=¡Un éxito perfecto en la impresión del ítem!
 lsMsgPlatinumLevelUp=Su grado de Servicio Regular ha aumentado.
 lsMsgPlatinumPlusLevelUp=Su nivel de Servicio Premium ha aumentado.
@@ -2080,7 +2080,7 @@ LS_MatchType=Tipo de mapa de misión
 LS_PlayedTime=Tiempo de juego
 LS_EndTime=Hora de finalización
 LS_EndTimeFormat=DD, MM, YY
-LS_RewardItem=Objeto de recompensa
+LS_RewardItem=Item de recompensa
 LS_QuickButton=Salir del mapa de la misión
 LS_KillPoint=Puntos de vida
 LS_AssistPoint=Puntos de ayuda
@@ -2144,7 +2144,7 @@ LS_QuestTipDesc[3]=Los NPCs de misiones de área aparecen por todas partes en lo
 LS_PinBtnCompleteText=END
 
 [MU2GFxManufactureCastbar]
-TitleString=Craft item
+TitleString=Fabricar Item
 CancelString=Cancelar
 
 [MU2GFxMagicStoneMsgBox]
@@ -2156,7 +2156,7 @@ LS_MS_AddConfirm=¿Desea equipar la Joya?
 LS_MS_AddWarning=Necesita quitar la joya existente para equipar una nueva.
 LS_MS_DelConfirm=¿Extraer la Joya?
 LS_MS_DelWarning=La Joya extraída se guardará en su inventario.
-LS_MS_OwnWarning=Equipar una gema te vincula al objeto.
+LS_MS_OwnWarning=Equipar una gema te vincula al Item.
 
 [MU2GFxEnchantView]
 LS_ProtectedEnchant=Proteger Encantamiento
@@ -2180,16 +2180,16 @@ LS_CheckBoxSelect=Ticket de protección utilizado
 LS_CheckBoxNoItem=Falta de ticket de protección
 
 [MU2GFxEnchant_Enchant]
-LS_Begin_Enchant_Discription1=Registrar un objeto para encantar.
-LS_Begin_Enchant_Discription2=Arrastrar y soltar o clic derecho sobre el objeto.
-LS_Insert_TargetItem_Discription1=Compruebe los objetos materiales y haga clic en Encantar.
+LS_Begin_Enchant_Discription1=Registrar un Item para encantar.
+LS_Begin_Enchant_Discription2=Arrastrar y soltar o clic derecho sobre el Item.
+LS_Insert_TargetItem_Discription1=Compruebe los Items materiales y haga clic en Encantar.
 LS_Insert_TargetItem_Discription2=Los materiales y el Zen se consumen independientemente de los resultados.
 LS_Insert_TargetItem_Safety_Discription1=<font color='#36FF00'>Estás en el rango de encantamiento seguro.</font>
-LS_Insert_TargetItem_Safety_Discription2=Los objetos no serán destruidos, incluso si su encantamiento falla.
+LS_Insert_TargetItem_Safety_Discription2=Los Items no serán destruidos, incluso si su encantamiento falla.
 LS_Insert_TargetItem_Destroy_Discription1=<font color='#FF0000'>Estás en la categoría de encantamiento arriesgado.</font>
-LS_Insert_TargetItem_Destroy_Discription2=Los objetos serán destruidos si el encantamiento falla.
-LS_Complete_Enchant_Discription1=El objeto está encantado.
-LS_Complete_Enchant_Discription2=El objeto ya no puede ser encantado.
+LS_Insert_TargetItem_Destroy_Discription2=Los Items serán destruidos si el encantamiento falla.
+LS_Complete_Enchant_Discription1=El Item está encantado.
+LS_Complete_Enchant_Discription2=El Item ya no puede ser encantado.
 LS_CombatPower=Potencia de combate
 LS_Material=Requerido
 LS_ChanceCorrectionMateria=Adicional
@@ -2200,12 +2200,12 @@ LS_Rate=Tasa de éxito(+%s_1):
 LS_RateValue=%s_1% + <font color='#36FF00'>%s_2%</font>
 
 [MU2GFxEnchant_Transfer]
-LS_Begin_EnchantTransfer_Discription1=Registrar un objeto para transferir el encantamiento.
-LS_Begin_EnchantTransfer_Discription2=Los materiales y objetos consumibles se consumen independientemente de los resultados.
-LS_Insert_TargetItem_Discription1=Registrar objetos materiales.
-LS_Insert_TargetItem_Discription2=Los materiales y objetos consumibles se consumen independientemente de los resultados.
-LS_Insert_SourceItem_Discription1=Compruebe los objetos objetivo y materiales y haga clic en Transferencia de Encantamiento.
-LS_Insert_SourceItem_Discription2=Los materiales y objetos consumibles se consumen independientemente de los resultados.
+LS_Begin_EnchantTransfer_Discription1=Registrar un Item para transferir el encantamiento.
+LS_Begin_EnchantTransfer_Discription2=Los materiales y Items consumibles se consumen independientemente de los resultados.
+LS_Insert_TargetItem_Discription1=Registrar Items materiales.
+LS_Insert_TargetItem_Discription2=Los materiales y Items consumibles se consumen independientemente de los resultados.
+LS_Insert_SourceItem_Discription1=Compruebe los Items objetivo y materiales y haga clic en Transferencia de Encantamiento.
+LS_Insert_SourceItem_Discription2=Los materiales y Items consumibles se consumen independientemente de los resultados.
 LS_Complete_EnchantTransfer_Discription1=Transferencia de encantamiento completada.
 LS_Complete_EnchantTransfer_Discription2=Transferencia de encantamiento completada.
 LS_ChanceCorrectionMateria=Material para mejorar la suerte
@@ -2222,22 +2222,22 @@ LS_Fail=Fallo
 [MU2MakeTooltip]
 LS_CombatPower=Poder de combate %d
 LS_SeeCharInfo=Ver información del personaje
-LS_EquipItemString=: Equipar objeto
-LS_UnequipItemString=: Desequipar objeto
+LS_EquipItemString=: Equipar Item
+LS_UnequipItemString=: Desequipar Item
 LS_UseItemString=: Usar elemento
 LS_DivideItemNum=: Dividir cantidad de artículo
-LS_EquipItemStringToSubSlot=: Equipar objeto en ranura de arma secundaria
+LS_EquipItemStringToSubSlot=: Equipar Item en ranura de arma secundaria
 LS_CompareWithSubSlot=Alt: Comparar con arma secundaria
 LS_MoveInvenBag=: Mover al inventario
 LS_MoveStorage=: Mover a Almacén
 LS_BuyItem=: Comprar artículo
 LS_SaleItem=: Vender artículo
 LS_RegisterItem=: Registrar artículo
-LS_CancelRegisterItem=: Desequipar objeto
+LS_CancelRegisterItem=: Desequipar Item
 LS_Menu=: Menú
 LS_DivideBuyItem=: Seleccionar cantidad de artículo de compra
 LS_DivideSellItem=: Seleccionar la cantidad de artículos de venta
-LS_GambleItem=: Abrir todos los artículos
+LS_GambleItem=: Abrir todos los Items
 LS_CubeMultipleOpen=: Abrir todos los Cubos a la vez
 
 [MU2GFxTooltip_Skill]
@@ -2314,7 +2314,7 @@ EmptyHoleString=<font color='#0C8A89'>Ranura vacía</font>
 LS_CombatPowerString=Poder de combate %s
 LS_CtrlPreviewEquipItem=Ctrl: Vista previa
 LS_AltShowDetailDesc=Alt: Ver descripción completa
-LS_MaxEvolution=El objeto no puede evolucionar más.
+LS_MaxEvolution=El Item no puede evolucionar más.
 LS_Equipped=Equipado
 LS_MainAbilitySection=Estadísticas principales
 LS_SubAbilitySection=Estadísticas secundarias
@@ -2358,7 +2358,7 @@ BuffTypeString=Buff
 
 [MU2GFxTooltip_CharPreViewInfo]
 LS_Preview_Char=Previsualizar carácter
-LS_Preview_Item=Vista previa del objeto
+LS_Preview_Item=Vista previa del Item
 LS_DragCamRotate=+ Arrastrar: Rotar cámara
 
 [MU2GFxTooltip_Pet]
@@ -2467,27 +2467,27 @@ RecoveryHP=Restaura HP cada segundo.
 RecoveryMP=Restaura PM cada segundo.
 BattingRecoveryHP=Restaura tus PS cuando atacas a los enemigos.
 BloodSucking=Restaura tus PS en base a la cantidad de daño que infliges a tus enemigos.
-WeaponManufacture=Te permite crear armas.<br>Puedes aumentar tu rango de habilidad fabricando objetos.<br>Cuanto mayor sea tu rango de habilidad, mejores serán los objetos que puedas fabricar.
-ArmorManufacture=Te permite crear armaduras.<br>Puedes aumentar tu rango de habilidad creando objetos.<br>Cuanto más alto sea tu rango de habilidad, mejores objetos podrás crear.
-JewelManufacture=Te permite crear accesorios.<br>Puedes aumentar tu rango de habilidad creando objetos.<br>Cuanto más alto sea tu rango de habilidad, mejores objetos podrás crear.
-Fabricación de pociones=Te permite crear pociones.<br>Puedes aumentar tu rango de habilidad creando objetos.<br>Cuanto más alto sea tu rango de habilidad, mejores objetos podrás crear.
-RollManufacture=Te permite crear joyas y pergaminos.<br>Puedes aumentar tu rango de habilidad creando objetos.<br>Cuanto más alto sea tu rango de habilidad, mejores objetos podrás crear.
-SoulManufacture=Te permite crear joyas elementales y consumibles.<br>Puedes aumentar tu rango de habilidad creando objetos.<br>Cuanto más alto sea tu rango de habilidad, mejores objetos podrás crear.
-CookManufacture=Te permite crear comida.<br>Puedes aumentar tu rango de habilidad creando objetos.<br>Cuanto más alto sea tu rango de habilidad, mejores objetos podrás crear.
-Recolección de plantas=Te permite recolectar plantas.<br>Puedes aumentar tu rango de habilidad recolectando objetos.<br>Cuanto más alto sea tu rango de habilidad, mejores objetos podrás recolectar.
-StoneCollection=Te permite recolectar minerales.<br>Puedes aumentar tu rango de habilidad recolectando objetos.<br>Cuanto más alto sea tu rango de habilidad, mejores objetos podrás recolectar.
-GhostCollection=Te permite recolectar almas.<br>Puedes aumentar tu rango de habilidad recolectando objetos.<br>Cuanto más alto sea tu rango de habilidad, mejores objetos podrás recolectar.
-RelicCollection=Te permite reunir artefactos.<br>Puedes aumentar tu rango de habilidad reuniendo objetos.<br>Cuanto más alto sea tu rango de habilidad, mejores objetos podrás reunir.
-ActionBarEmptyHPPortionSlot=: Equipar objeto
+WeaponManufacture=Te permite crear armas.<br>Puedes aumentar tu rango de habilidad fabricando Items.<br>Cuanto mayor sea tu rango de habilidad, mejores serán los Items que puedas fabricar.
+ArmorManufacture=Te permite crear armaduras.<br>Puedes aumentar tu rango de habilidad creando Items.<br>Cuanto más alto sea tu rango de habilidad, mejores Items podrás crear.
+JewelManufacture=Te permite crear accesorios.<br>Puedes aumentar tu rango de habilidad creando Items.<br>Cuanto más alto sea tu rango de habilidad, mejores Items podrás crear.
+Fabricación de pociones=Te permite crear pociones.<br>Puedes aumentar tu rango de habilidad creando Items.<br>Cuanto más alto sea tu rango de habilidad, mejores Items podrás crear.
+RollManufacture=Te permite crear joyas y pergaminos.<br>Puedes aumentar tu rango de habilidad creando Items.<br>Cuanto más alto sea tu rango de habilidad, mejores Items podrás crear.
+SoulManufacture=Te permite crear joyas elementales y consumibles.<br>Puedes aumentar tu rango de habilidad creando Items.<br>Cuanto más alto sea tu rango de habilidad, mejores Items podrás crear.
+CookManufacture=Te permite crear comida.<br>Puedes aumentar tu rango de habilidad creando Items.<br>Cuanto más alto sea tu rango de habilidad, mejores Items podrás crear.
+Recolección de plantas=Te permite recolectar plantas.<br>Puedes aumentar tu rango de habilidad recolectando Items.<br>Cuanto más alto sea tu rango de habilidad, mejores Items podrás recolectar.
+StoneCollection=Te permite recolectar minerales.<br>Puedes aumentar tu rango de habilidad recolectando Items.<br>Cuanto más alto sea tu rango de habilidad, mejores Items podrás recolectar.
+GhostCollection=Te permite recolectar almas.<br>Puedes aumentar tu rango de habilidad recolectando Items.<br>Cuanto más alto sea tu rango de habilidad, mejores Items podrás recolectar.
+RelicCollection=Te permite reunir artefactos.<br>Puedes aumentar tu rango de habilidad reuniendo Items.<br>Cuanto más alto sea tu rango de habilidad, mejores Items podrás reunir.
+ActionBarEmptyHPPortionSlot=: Equipar Item
 ActionBarEmptySkillSlot=: Equipar Habilidad
 ActionBarHP=HP<br><font color='#AADA18'><FLink:GetHP></font>
 ActionBarMP=MP<br><font color='#AADA18'><FLink:GetMP></font>
 NormalStamina=Resistencia Normal: <font color='#AADA18'><FLink:GetNormalStamina></font><br>Un recurso necesario para entrar en la Rift.<br>Se restablece diariamente a las 6:00 a.m.<br>y se puede restaurar con Pociones de Resistencia que se venden en la Tienda LAMUS.
 PCRoomStamina=Resistencia Normal: <font color='#AADA18'><FLink:GetNormalStamina></font><br>Resistencia de Cafetería: <font color='#AADA18'><FLink:GetPCRoomStamina></font><br>Se restablece diariamente a las 6:00 a.m.<br>y puede ser restaurada con Pociones de Resistencia vendidas en la Tienda LAMUS.
-AltMode=Permite comprobar los nombres de los objetos que caen y ajustar otras opciones de la interfaz.<br>También se puede usar con la tecla Alt.
-AdvDungeonDesc=Dungeons de cultivo de objetos. Requiere Stamina.
+AltMode=Permite comprobar los nombres de los Items que caen y ajustar otras opciones de la interfaz.<br>También se puede usar con la tecla Alt.
+AdvDungeonDesc=Dungeons de cultivo de Items. Requiere Stamina.
 NorDungeonDesc=Dungeons que cuentan historias importantes sobre el Continente Mu.
-EpicDungeonDesc=Las Dungeons más duras. Generan objetos legendarios.
+EpicDungeonDesc=Las Dungeons más duras. Generan Items legendarios.
 GuidDungeonDesc=Una Rift que puede ser personalizada para adaptarse a las necesidades de tu guild. Es más difícil que una Falla normal.
 BossDungeonDesc=Dungeons relacionadas con misiones.
 QuestDungeonDesc=Dungeons relacionadas con misiones.
@@ -2498,17 +2498,17 @@ ToggleHelmetCheckBtn=Mostrar casco
 ToggleCostumeCheckBtn=Mostrar traje
 ToggleWingsCheckBtn=Mostrar alas
 ToggleWingsCostumeCheckBtn=Mostrar alas
-InvenArrangeBtn=<font size='16' color='#fdc243'>Inventario - Ordenar todo</font><br>Ordenar todos los objetos de tu inventario.
-InvenPartialArrangeBtn=<font size='16' color='#fdc243'>Inventario - Ordenar</font><br>Ordenar los objetos seleccionados en tu inventario.
+InvenArrangeBtn=<font size='16' color='#fdc243'>Inventario - Ordenar todo</font><br>Ordenar todos los Items de tu inventario.
+InvenPartialArrangeBtn=<font size='16' color='#fdc243'>Inventario - Ordenar</font><br>Ordenar los Items seleccionados en tu inventario.
 ItemLibraryToggleBtn=<font size='16' color='#fdc243'>Inventario</font><br>Abre tu inventario.
 InvenLockBtn=<font size='16' color='#fdc243'>Bloquear Ítems</font><br>Puede bloquear/desbloquear ítems en el inventario.
-PStorageLockBtn=<font size='16' color='#fdc243'>Bloquear objetos</font><br>Puede bloquear/desbloquear objetos en el almacén personal.
-InvenCatalog0=<font size='16'>Inventario Básico</font>
+PStorageLockBtn=<font size='16' color='#fdc243'>Bloquear Items</font><br>Puede bloquear/desbloquear Items en el almacén personal.
+InvenCatalog0=<font size='16'>Inventario Normal</font>
 InvenCatalog1=<font size='16'>Inventario Premium</font>
 StorageBtnArrange=<font size='16' color='#fdc243'>Almacenamiento - Ordenar todo</font><br>Ordenar todos los artículos de su almacén.
 StorageBtnPartArrange=<font size='16' color='#fdc243'>Almacenamiento - Ordenar</font><br>Ordenar los artículos seleccionados en su almacén.
-InvenDecomposeBtn=<font size='16' color='#f4cea4'>Desmontar objeto</font><br>Puedes desmontar los objetos de equipo de tu inventario.
-InvenEnchantBtn=<font size='16' color='#f4cea4'>Encantar objeto</font><br>Puedes encantar los objetos de tu inventario para mejorar su rendimiento.
+InvenDecomposeBtn=<font size='16' color='#f4cea4'>Desmontar Item</font><br>Puedes desmontar los Items de equipo de tu inventario.
+InvenEnchantBtn=<font size='16' color='#f4cea4'>Encantar Item</font><br>Puedes encantar los Items de tu inventario para mejorar su rendimiento.
 Zen=<font color='#fce7b0'>Zen</font><br>La moneda por defecto de MU Continent.<br>Puedes ganarla a través de diferentes actividades como cazar monstruos y recompensas de misiones.
 GreenZen=<font color='#c7ff88'>Gemas Mágicas</font><br>Una valiosa moneda del Continente MU que se ata a sus dueños.
 RiftPoint=<font color='#88d6ff'>Fragmento de Rift</font><br>Una moneda encontrada en la Rift.<br>Puede ser usada a través de los Comerciantes de Fragmentos de Rift.
@@ -2519,15 +2519,15 @@ LS_EmotionPoint=<font color='#bbbbbb'>Energía de Éter</font><br>Energía inest
 ImputedRedZen=<font color='#fc7711'>Redzen</font><br>Una moneda que se encuentra en el juego.<br>Se puede usar en la Tienda LAMUS igual que el Redzen normal.
 WCoin=<font color='#ffcc99'>WCoin</font><br>Moneda utilizada para comprar varios servicios y productos del juego.
 WCoin2=<font color='#b5cdff'>Daum Cash</font><br>Una moneda usada para comprar varios servicios y productos en el juego.
-Integral=<font color='#fc7711'>Cupón de puntos</font><br>Cuando obtienes Zen rojo por recarga, obtienes el mismo número de puntos de recarga.Puedes comprar objetos raros en la Tienda LAMUS.
-RegPeriodTooltip=Periodo durante el cual el objeto está registrado en el bazar.<br>Estará listado en el bazar durante el periodo seleccionado.
+Integral=<font color='#fc7711'>Cupón de puntos</font><br>Cuando obtienes Zen rojo por recarga, obtienes el mismo número de puntos de recarga.Puedes comprar Items raros en la Tienda LAMUS.
+RegPeriodTooltip=Periodo durante el cual el Item está registrado en el bazar.<br>Estará listado en el bazar durante el periodo seleccionado.
 SellPriceTooltip=Seleccione su moneda de venta.
 RegPriceToolTip=Seleccione Zen, y un <font color='#fce711'>3%</font> de su pago será cargado como tasa de registro.<br>Puede seleccionar Redzen para evitar la tasa de registro.
 RegCountDesc=Productos vendidos para Redzen.
 RegRedZenToolTip=Productos vendidos para Redzen.
 KnightsTrophy=<font color='#fbaf5d'>Trofeo del guild</font><br>Moneda del guild utilizada para el Torneo.
 LS_SendBtnTip=Enviar
-LS_WishBtnTip=Deseo,Puedes pedir un deseo consumiendo el objeto «<font color=“#00ccff”>talismán Dados de la suerte</font>», que puede aumentar la probabilidad de obtener el amuleto correspondiente en un 5% (<font color='#00ff66'>24:00 gratis cada día</font>).
+LS_WishBtnTip=Deseo,Puedes pedir un deseo consumiendo el Item «<font color=“#00ccff”>talismán Dados de la suerte</font>», que puede aumentar la probabilidad de obtener el amuleto correspondiente en un 5% (<font color='#00ff66'>24:00 gratis cada día</font>).
 PlayerParts_0=Casco
 PlayerParts_1=Pecho
 PlayerParts_2=Pantalones
@@ -2545,10 +2545,10 @@ PlayerParts_13=Aspecto
 PlayerParts_14=Aspecto de Ala
 LastTownPortal=Anterior
 GetPartyMissionMapRequest=PvP: <font color='#AADA18'><FLink:GetPartyMissionMapRequest></font> pendiente
-LS_InputLowItem=Añadir objetos heroicos comunes
-LS_InputLegendItem=Añadir objetos legendarios
-LS_InputAncientItem=Añadir objetos antiguos
-LS_InputMythicalItem=Añadir objetos míticos
+LS_InputLowItem=Añadir Items heroicos comunes
+LS_InputLegendItem=Añadir Items legendarios
+LS_InputAncientItem=Añadir Items antiguos
+LS_InputMythicalItem=Añadir Items míticos
 LS_Workmapship=Dominio de habilidad: <font color='#ED6C9E'>Nivel %d</font> (%.2f%%)<br>El uso exitoso de habilidades aumenta sus niveles de maestría. Una nueva ranura de cresta se desbloquea en cada nuevo nivel de maestría.
 LS_PetStatHelp=Las mascotas, cuando son invocadas, añaden sus estadísticas<br>a las estadísticas principales de tu personaje.
 LS_Level=<font size='16' color='#ffd461'>Nivel</font><br>Tu personaje alcanza un nuevo nivel cada vez que gana una cierta cantidad de EXP.<br>Tu nivel de personaje afecta al equipo y habilidades que puedes usar.
@@ -2557,7 +2557,7 @@ LS_AccountLevel=<font size='16' color='#9999FF'>Nivel de Cuenta</font><br>Es el 
 LS_Achievement=<font size='16' color='#ffd461'>Grado de Logro</font><br>Tu grado de Logro varía dependiendo del número de tus Puntos de Logro.
 LS_TitleOpen=Ir al título
 LS_CharInfoPlatinumBtn=<font size='16' color='#ffd461'>Comprueba el Servicio Premium</font>
-PCCafeReward=<font color='#ffd461'>Recompensa de objeto especial por Recompensa de inicio de sesión</font><br>¡Cuanto más tiempo permanezcas conectado, mayor será tu recompensa!<br><br>* Tu registro de Recompensa de inicio de sesión se restablece diariamente a las 5:00 a.m.<br>* Puedes obtener una recompensa una vez al día, dependiendo de la duración de tu inicio de sesión.
+PCCafeReward=<font color='#ffd461'>Recompensa de Item especial por Recompensa de inicio de sesión</font><br>¡Cuanto más tiempo permanezcas conectado, mayor será tu recompensa!<br><br>* Tu registro de Recompensa de inicio de sesión se restablece diariamente a las 5:00 a.m.<br>* Puedes obtener una recompensa una vez al día, dependiendo de la duración de tu inicio de sesión.
 LS_Recommend_Division_1=Personaje
 LS_Recommend_Division_2=Poder de combate
 LS_Recommend_Division_3=Dungeon
@@ -2569,10 +2569,10 @@ LS_QuestRewardSoulExp=<font color='#67FFF2'>Exp del alma</font>
 LS_QuestRewardZen=<font color='#FCE7B0'>Zen</font><br>La moneda por defecto de MU Continent.<br>Puedes ganarla a través de diferentes actividades como cazar monstruos y recompensas de misiones.
 LS_QuestRewardGreenZen=<font color='#c7ff88'>Gema Mágica</font><br>Una valiosa moneda del Continente MU que tiene propiedades vinculantes.
 LS_QuestRewardContribution=<font color='#ddafff'>Puntos de Contribución de guild</font><br>Puntos que puedes ganar mientras progresas en el juego. Se pueden usar en la Tienda de Contribución.
-LS_RegisterEnchantItem=Puedes encantar objetos para mejorar su rendimiento. Cuanto mayores sean los niveles de encantamiento, mayores serán sus posibilidades de fallar con el siguiente encantamiento y ser destruidos.
-LS_RegisterFixedEnchantItem=Puede ser usado en objetos cuyo nivel de Encantamiento es inferior al del Ticket de Encantamiento.
-LS_RegisterEnchantTransferItem=Los objetos objetivo de la transferencia de encantamiento no se destruyen aunque falle la transferencia. Los objetos consumibles, materiales y Zen se consumen independientemente de los resultados.
-//LS_EnchantTransferRateMaterial=Puedes usar objetos materiales que aumentan la probabilidad de éxito en la transferencia de encantamientos.
+LS_RegisterEnchantItem=Puedes encantar Items para mejorar su rendimiento. Cuanto mayores sean los niveles de encantamiento, mayores serán sus posibilidades de fallar con el siguiente encantamiento y ser destruidos.
+LS_RegisterFixedEnchantItem=Puede ser usado en Items cuyo nivel de Encantamiento es inferior al del Ticket de Encantamiento.
+LS_RegisterEnchantTransferItem=Los Items objetivo de la transferencia de encantamiento no se destruyen aunque falle la transferencia. Los Items consumibles, materiales y Zen se consumen independientemente de los resultados.
+//LS_EnchantTransferRateMaterial=Puedes usar Items materiales que aumentan la probabilidad de éxito en la transferencia de encantamientos.
 LS_PetEvolutionConsumablesPet=<font color='#FDC243'>Mascotas que evolucionan</font><br>Puedes consumir mascotas para aumentar el grado de Estrella de otras mascotas.<br>Las mascotas pueden alcanzar hasta 10 Estrellas.<br>Las mascotas consumidas se destruyen. <br><font color='#FDC243'><br>Mascotas que evolucionan</font><br>Las mascotas de 10 estrellas pueden pasar al siguiente nivel.<br>Para evolucionar una mascota se necesita otra mascota de 10 estrellas del mismo nivel.<br>Las mascotas pueden alcanzar hasta el nivel 5 de 10 estrellas.<br><br><font color='#FF7E41'>Las mascotas invocadas/comerciadas no pueden usarse como materiales.</font>
 LS_OneHandWeapon=<FLink:GetOneHandWeaponStr>
 LS_TwoHandWeapon=<FLink:GetTwoHandWeaponStr>
@@ -2588,12 +2588,12 @@ ConditionIcon_100=<font color='#fce7b0'>Nivel Requerido</font><br><font color='#
 ConditionIcon_200=<font color='#fce7b0'>Fichas de Entrada</font><br><font color='#ffffff'>Representan cuántas veces puedes entrar. Se restauran diariamente a las 5:00 a.m.<br><FLink:GetPremiumEnterCount></font>
 ConditionIcon_600=<font color='#fce7b0'>Fragmento de Rift</font><br><font color='#ffffff'>Los Fragmentos de Rift pueden ser usados a través de los Comerciantes de Fragmentos de Rift. Puedes conseguir hasta 1.000 fragmentos a la vez.</font>
 ConditionIcon_700=<font color='#fce7b0'>Poder de Combate</font><br><font color='#ffffff'>Indica la fuerza general de tu personaje. Afectado por tu Ataque, Defensa, equipo, etc.</font>
-ConditionIcon_60000=<font color='#fce7b0'>Objetos Requeridos</font><br><font color='#ffffff'>Se requiere 1 Piedra de Sabio para entrar.</font>
+ConditionIcon_60000=<font color='#fce7b0'>Items Requeridos</font><br><font color='#ffffff'>Se requiere 1 Piedra de Sabio para entrar.</font>
 ConditionIcon_800=<font color='#fce7b0'>Nivel de Alma Requerido</font><br><font color='#ffffff'>Tienes que alcanzar cierto Nivel de Alma para entrar.</font>
 ConditionIcon_900=<font color='#fce7b0'>Requisito de Nivel de Alma</font><br><font color='#ffffff'>Debes estar por debajo del Nivel de Alma especificado para entrar.</font>
 ConditionIcon_59999=<font color='#fce7b0'>Cómo Conseguir</font><br><font color='#FFBB00'>Dracansor: Proof Key</font><br><font color='#fce7b0'>Consumibles</font><br><font color='#ffffff'>Cambiar usando <font color='#FFBB00'>Perseverance Tokens</font>, que se pueden adquirir completando la misión en Realm of Perseverance: Pruebas y recogiendo botín. Dirígete al <font color='#FFBB00'>comerciante de la facción</font> para intercambiar las fichas por la Llave de Prueba.
-ConditionIcon_59998=<font color='#fce7b0'>Objetos Requeridos</font><br><font color='#ffffff'>Se requieren Fragmentos Despertados para entrar.</font>
-ConditionIcon_90108=<font color='#fce7b0'>Objetos Requeridos</font><br><font color='#ffffff'>15 entradas para la fiesta del foso están disponibles.</font>
+ConditionIcon_59998=<font color='#fce7b0'>Items Requeridos</font><br><font color='#ffffff'>Se requieren Fragmentos Despertados para entrar.</font>
+ConditionIcon_90108=<font color='#fce7b0'>Items Requeridos</font><br><font color='#ffffff'>15 entradas para la fiesta del foso están disponibles.</font>
 LS_PlatinumService=El efecto Servicio Premium ha aumentado su número máximo de entradas en %s_1.
 LS_PCRoomService=El efecto Platino Premium ha aumentado tu número máximo de entradas en %s_1.
 RewardIcon_50000=Genera hasta Equipamiento común.
@@ -2619,7 +2619,7 @@ RewardIcon_50050=Genera recompensas relacionadas con Artesanía de Artefactos/Cr
 RewardIcon_50051=Genera materiales para la creación de artefactos.
 RewardIcon_50060=Genera Sellos de Poder.
 RewardIcon_50070=Genera una cantidad especialmente grande de Joyas de Bendición.
-RewardIcon_50080=Genera Pruebas de Dukan, que pueden cambiarse por objetos míticos o mejores.
+RewardIcon_50080=Genera Pruebas de Dukan, que pueden cambiarse por Items míticos o mejores.
 RewardIcon_50090=Genera Fichas de Luchador, que pueden canjearse por varios recursos del juego.
 RewardIcon_50100=Crea una alta probabilidad de invocar al Comerciante Negro en niveles de dificultad altos.
 RewardIcon_50110=Genera Cubos de alto grado como los Cubos Fantasma.
@@ -2631,10 +2631,10 @@ RewardIcon_50210=Puedes obtener Fragmentos de Alma. Puedes usarlos para mejorar 
 RewardIcon_50220=Puedes obtener Ollas de Fragmentos de Alma con varios Fragmentos de Alma.
 RewardIcon_50230=Puedes obtener Pociones de Alma para subir tu Nivel de Alma.
 RewardIcon_50240=Puedes obtener Cofres de Pociones de Alma con varias Pociones de Alma.
-RewardIcon_50190=Puedes obtener Monedas del Primer Aniversario. Puedes gastarlas en varios objetos.
+RewardIcon_50190=Puedes obtener Monedas del Primer Aniversario. Puedes gastarlas en varios Items.
 RewardIcon_50200=Puedes obtener Cofres de Fuegos Artificiales con varios fuegos artificiales del Primer Aniversario.
-RewardIcon_90047=Genera Monedas Froggie, objetos de evento que pueden ser cambiados por varios ítems.
-RewardIcon_90048=Genera Jian Manas's Tokens, objetos de evento que pueden ser cambiados por varios items.
+RewardIcon_90047=Genera Monedas Froggie, Items de evento que pueden ser cambiados por varios ítems.
+RewardIcon_90048=Genera Jian Manas's Tokens, Items de evento que pueden ser cambiados por varios items.
 RewardIcon_90049=Puede proporcionar té verde frío.
 RewardIcon_90050=Puede proporcionar té oolong caliente.
 RewardIcon_90051=Puede proporcionar newk de gran pureza.
@@ -2648,14 +2648,14 @@ RewardIcon_90005=Genera materiales para fabricar pociones.
 RewardIcon_90002=Genera una gran cantidad de Gemas Mágicas.
 RewardIcon_80003=Genera hasta Crestas Raras de los Cubos de Cresta de Habilidad.
 RewardIcon_90003=Genera una gran cantidad de Zen.
-RewardIcon_90015=Genera Sellos de Poder. Pueden ser cambiados por los objetos que quieras a través del mercader de la Torre Sin Fin en Ohrdor.
+RewardIcon_90015=Genera Sellos de Poder. Pueden ser cambiados por los Items que quieras a través del mercader de la Torre Sin Fin en Ohrdor.
 RewardIcon_90016=Genera Piedras de Crecimiento de Alas.
 RewardIcon_90017=Genera Sellos de Trascendencia.
 RewardIcon_90018=Genera EXP de Artefacto (si derrotas al monstruo Jefe) y materiales de Artesanía de Artefacto Normal.
 RewardIcon_90019=Genera EXP de Artefacto (si derrotas al monstruo Jefe) y materiales de Artesanía de Artefacto Despertado.
 RewardIcon_60703=Genera accesorios de Set.
 RewardIcon_60611=Genera armas, armaduras y accesorios míticos.
-RewardIcon_90007=Aparece el Mercader Negro, que vende una variedad de objetos.
+RewardIcon_90007=Aparece el Mercader Negro, que vende una variedad de Items.
 RewardIcon_80004=Genera materiales de Heroic Skill Crest Cube.
 RewardIcon_90020=Genera Fragmentos de Alma que promueven el crecimiento de Talismanes.
 RewardIcon_70502=Genera materiales de Armadura Antigua.
@@ -2669,7 +2669,7 @@ RewardIcon_60709=Genera armadura de conjunto. (Niveles 1 - 5: Armadura de conjun
 RewardIcon_60607=Genera armas y armaduras de Opciones fijas míticas.
 RewardIcon_60711=Genera armadura de conjunto.
 RewardIcon_90006=Genera los materiales de Artesanía de Artefactos Despertados, Fragmentos Despertados.
-RewardIcon_90008=Genera medallas de Kundun recibidas a través de la interfaz de misión diaria (Esc). Cámbialas por objetos especiales a través de Kyle en Ohrdor.
+RewardIcon_90008=Genera medallas de Kundun recibidas a través de la interfaz de misión diaria (Esc). Cámbialas por Items especiales a través de Kyle en Ohrdor.
 RewardIcon_90009=Genera Joyas de Bendición.
 RewardIcon_90012=Genera Dukan's Proofs y Fighter's Tokens.
 RewardIcon_60702=Genera Set de armadura.
@@ -2737,7 +2737,7 @@ LS_PetCollectHelp=<font color='#fce7b0'>Efecto de recogida</font><br>Recoge masc
 LS_IceFestivalHelp=- Completa las misiones diarias de Caribe Paradise y recoge materiales.<br>- Visita al PNJ de eventos de Caribe Paradise y cámbialos por Brigadeiros y Caipirinhas.<br>- También puedes conseguir una recompensa de Sello cada día.
 LS_AOQuestionMark=<font color='#F1B869'>Impronta</font><br>1. Los grados de impronta no pueden aumentarse. Los grados de Impronta, una vez aumentados, no pueden degradarse.<br>2. Los grados de Impronta disponibles son: Normal, Poco Común, Raro, Heroico y Legendario.
 LS_ExtraceEmotion=La Energía del Éter puede ser extraída de los materiales y las Piezas de Alma obtenidas de varios monstruos jefes de Dungeon.
-LS_MaterialItemExtractionBtn=Añadir Objeto Material
+LS_MaterialItemExtractionBtn=Añadir Item Material
 LS_SoulStoneExtractBtn=Añadir fragmento de alma
 LS_SealStoneType1=<font color='#fce7b0'>Piedra Sello de Crecimiento</font><br>Una de las piedras que mantiene el sello en la Piedra Espíritu Sellada.<br>Las piedras sello generan varios recursos.
 LS_SealStoneType2=<font color='#fce7b0'>Piedra de Sello de Bendición</font><br>Una de las piedras que mantiene el sello en la Piedra Espiritual Sellada.<br>Las piedras de sello generan varios recursos.
@@ -2746,21 +2746,21 @@ LS_SealStoneType4=<font color='#fce7b0'>Espléndida Piedra de Crecimiento</font>
 LS_SealStoneType5=<font color='#fce7b0'>Piedra de sello abrasadora de bendición</font><br>Una de las piedras que mantiene el sello en la Piedra espiritual sellada.<br>Las piedras de sello generan varios recursos.
 LS_SealStoneType6=<font color='#fce7b0'>Piedra Sello Expansiva de Evolución</font><br>Una de las piedras que mantiene el sello en la Piedra Espíritu Sellada.<br>Las piedras sello generan varios recursos.
 LS_SoulStoneType=<font color='#fce7b0'>Piedra de espíritu sellada</font><br>Un cristal gigante con un espíritu desconocido sellado en su interior.<br>Saca las Piedras de espíritu selladas y obtén grandes recompensas.<br>Para desbloquear una Piedra de espíritu sellada, primero debes eliminar todas sus Piedras de sello.
-LS_GetEmotionBoxReset=Usa Redzen para desprecintar esta caja hasta el nivel 3.<br>Cuanto mayor sea su nivel, mejores serán los objetos que genere. Se restablece diariamente a las 5:00 a.m.
+LS_GetEmotionBoxReset=Usa Redzen para desprecintar esta caja hasta el nivel 3.<br>Cuanto mayor sea su nivel, mejores serán los Items que genere. Se restablece diariamente a las 5:00 a.m.
 LS_MissionVIewFold=Doblar información de la misión
 LS_MissionVIewUnFold=Desplegar información de la misión
 LS_GrowthGuide=<font color='#fce7b0'>Guía de progresión del personaje</font><br>Esta función te guía en la progresión de tu personaje.<br>Una categoría se desbloquea cuando se cumplen ciertos requisitos,<br>y tienes que seguir las misiones de la categoría.<br>Completar todas las misiones de una categoría desbloquea la siguiente categoría.
 LS_ComeBackGuide=<font color='#fce7b0'>Guía para usuarios que regresan</font><br>Esta función proporciona orientación a los usuarios que regresan.<br>Una categoría se desbloquea cuando se cumplen ciertos requisitos,<br>y necesitas seguir las misiones de la categoría.<br>Completar todas las misiones de una categoría desbloquea la siguiente categoría.
-RewardChest=Las reglas de los Cofres de Recompensas son las siguientes:<br><br><font color='#fce7b0'>- Jugadas Adicionales<br>Usa recursos en Efectivo.</font><br><br>- Adquisición<br>1. Haz clic en el Cofre. Haz clic en el Cofre, y se mostrará la lista de recompensas disponibles.<br>2. Este Cofre de Recompensas se puede obtener una vez al día, y añade todos los objetos de la lista a tu Inventario o Correo al adquirirlos.<br>3. Tu recuento de adquisiciones se reiniciará al día siguiente.<br>4. Cuando obtengas otro Cofre de Recompensas, todo tu registro de jugadas y tu Nivel de Cofre se reiniciarán.<br><br>- Reglas de Subida de Nivel<br>1. Tus EXP de Cofre de Recompensas se acumulan en el Inventario. Tu EXP de Cofre de Recompensa se acumula hasta que recibes un Cofre.<br>2. Cada vez que termines una ronda de Leyenda de Dados, obtendrás EXP de Cofre de Recompensa.<br>3. Gana suficiente EXP, y tu Cofre de Recompensa alcanzará un nuevo nivel.<br>4. Este Cofre tiene un total de 5 niveles.
+RewardChest=Las reglas de los Cofres de Recompensas son las siguientes:<br><br><font color='#fce7b0'>- Jugadas Adicionales<br>Usa recursos en Efectivo.</font><br><br>- Adquisición<br>1. Haz clic en el Cofre. Haz clic en el Cofre, y se mostrará la lista de recompensas disponibles.<br>2. Este Cofre de Recompensas se puede obtener una vez al día, y añade todos los Items de la lista a tu Inventario o Correo al adquirirlos.<br>3. Tu recuento de adquisiciones se reiniciará al día siguiente.<br>4. Cuando obtengas otro Cofre de Recompensas, todo tu registro de jugadas y tu Nivel de Cofre se reiniciarán.<br><br>- Reglas de Subida de Nivel<br>1. Tus EXP de Cofre de Recompensas se acumulan en el Inventario. Tu EXP de Cofre de Recompensa se acumula hasta que recibes un Cofre.<br>2. Cada vez que termines una ronda de Leyenda de Dados, obtendrás EXP de Cofre de Recompensa.<br>3. Gana suficiente EXP, y tu Cofre de Recompensa alcanzará un nuevo nivel.<br>4. Este Cofre tiene un total de 5 niveles.
 MarblePc=Cualquiera puede jugar a legend of dice hasta 5 veces.
 MopUpRewardIcon_62901=Puedes obtener Sello de Poder.
-MopUpRewardIcon_58004=Puedes obtener objetos para mejorar Alas.
+MopUpRewardIcon_58004=Puedes obtener Items para mejorar Alas.
 MopUpRewardIcon_10010=Puedes obtener Fragmentos de Alma.
 MopUpRewardIcon_810000=Puedes obtener Skill Crest Cubes.
 MopUpRewardIcon_58010=Puedes obtener una gran cantidad de Gemas Mágicas.
 MopUpRewardIcon_820000=Puedes obtener Cubos de Jefe y Monstruos con Nombre.
 MopUpRewardIcon_200720=Puedes obtener una gran cantidad de Zen.
-MopUpRewardIcon_71252=Puedes obtener objetos Estatua Dorada adicionales.
+MopUpRewardIcon_71252=Puedes obtener Items Estatua Dorada adicionales.
 MopUpRewardIcon_62620=Puedes obtener materiales.
 MopUpRewardIcon_62600=Puedes obtener materiales.
 MopUpRewardIcon_933120=Puedes obtener materiales para subir de nivel Talismanes.
@@ -2768,8 +2768,8 @@ MopUpRewardIcon_933121=Puede proporcionar materiales para accesorios.
 MopUpRewardIcon_933122=Puede proporcionar equipo Noria Legendario.
 MopUpRewardIcon_62820=Puede proporcionar materiales para accesorios.
 LS_BraceletSlotLock=<font color='#FDC243'>Ampliar ranura de brazalete</font><br>Puedes ampliar la ranura de brazalete usando la pluma de alto serafín recogida en la misión Llamada de Gabriela.
-LS_LegendBingoBlockReward=Selecciona y paga Fichas de Evento para conseguir objetos de Recompensa de Bloque.
-LS_LegendBingoRule=<font color ='#FFFF00'>Evento Leyenda del Bingo</font><br><br> <font color='#FE6D03'>- Cómo Jugar</font><br><br>1. Haz clic en el bloque de objetos que quieras. Haz clic en el bloque de objetos que quieras y paga el número de Monedas de Evento o de objetos que requiera.<br><br>2. Consigue todos los objetos de Recompensa de Bloque en horizontal, vertical o diagonal para conseguir Puntos de Bingo. <br><br>3. Puedes usar tus Puntos de Bingo para comprar recompensas de Puntos de Bingo. <br><br><font color='#BCF5A9'>Tendrás la oportunidad de restablecer tus bloques de Bingo una vez al día de forma gratuita al iniciar sesión por primera vez. Estas oportunidades se acumulan durante el periodo del evento.</font>
+LS_LegendBingoBlockReward=Selecciona y paga Fichas de Evento para conseguir Items de Recompensa de Bloque.
+LS_LegendBingoRule=<font color ='#FFFF00'>Evento Leyenda del Bingo</font><br><br> <font color='#FE6D03'>- Cómo Jugar</font><br><br>1. Haz clic en el bloque de Items que quieras. Haz clic en el bloque de Items que quieras y paga el número de Monedas de Evento o de Items que requiera.<br><br>2. Consigue todos los Items de Recompensa de Bloque en horizontal, vertical o diagonal para conseguir Puntos de Bingo. <br><br>3. Puedes usar tus Puntos de Bingo para comprar recompensas de Puntos de Bingo. <br><br><font color='#BCF5A9'>Tendrás la oportunidad de restablecer tus bloques de Bingo una vez al día de forma gratuita al iniciar sesión por primera vez. Estas oportunidades se acumulan durante el periodo del evento.</font>
 mcWebOfGodHelp=Calibrador de liberación espacio-temporal.<br>Aumenta cuando entras en el Dios del Corredor<br>Cuando el medidor está lleno, el tiempo de enfriamiento de la habilidad de transformación del Dios del Corredor disminuye.
 LS_WebOfGodRankingRewardHelp=Recompensa básica por contribuir a la Liberación del espacio-tiempo.<br>Únete al Dios del Corredor y llena el medidor de Liberación del espacio-tiempo.
 OptionEffectTransparency=Ajustar la opacidad del efecto de habilidad puede afectar al rendimiento de tu habilidad.
@@ -2792,7 +2792,7 @@ OptionWaterReflection=Utiliza un efecto de reflejo de agua en tiempo real.
 OptionVSync=Sincroniza la tasa de fotogramas del juego con la tasa de refresco de tu monitor para una animación más suave.
 RewardIcon_50123=Sabe a calabaza.
 RewardIcon_50124=Un caramelo fantasma famoso por su sabor especial.
-ConditionIcon_59997=<font color='#fce7b0'>Objeto consumible</font><br><font color='#ffffff'>Puedes entrar consumiendo el neutralizador de aura mágica 'Devildom conquista X'.</font>
+ConditionIcon_59997=<font color='#fce7b0'>Item consumible</font><br><font color='#ffffff'>Puedes entrar consumiendo el neutralizador de aura mágica 'Devildom conquista X'.</font>
 RewardIcon_90076=Puedes recibir la poción de ojo de dragón perdido.
 RewardIcon_90077=Puedes recibir la poción de anillo de vida desbordante.
 RewardIcon_90078=Puedes recibir la poción de collar matadragones.
@@ -2990,7 +2990,7 @@ MapIcon_3006=Rifa
 MapIcon_3007=Entrada al edificio
 MapIcon_3008=Escaleras
 MapIcon_3009=Area Estación de Viaje
-MapIcon_3010=Objeto recogido
+MapIcon_3010=Item recogido
 MapIcon_3011=Portal de salida
 MapIcon_3012=Portal de la Dungeon Épica
 MapIcon_3013=Falla del guild
@@ -3085,12 +3085,12 @@ LS_FinishedAppointment=Registrado
 strTradeMsg[0]=Registrar artículos y pulsar Finalizar.
 strTradeMsg[1]=Registrar elementos y pulsar Finalizar.
 strTradeMsg[2]=Registra elementos y pulsa Finalizar.
-strTradeMsg[3]=El otro jugador está registrando objetos.
-strBtnState[4]=El otro jugador está registrando objetos.
-strTradeMsg[5]=El otro jugador está registrando objetos.
-strTradeMsg[6]=El otro jugador ha terminado de registrar objetos.
-strTradeMsg[7]=Comprueba los objetos y pulsa Comercio.
-strTradeMsg[8]=El otro jugador ha terminado de registrar objetos.
+strTradeMsg[3]=El otro jugador está registrando Items.
+strBtnState[4]=El otro jugador está registrando Items.
+strTradeMsg[5]=El otro jugador está registrando Items.
+strTradeMsg[6]=El otro jugador ha terminado de registrar Items.
+strTradeMsg[7]=Comprueba los Items y pulsa Comercio.
+strTradeMsg[8]=El otro jugador ha terminado de registrar Items.
 strBtnState[0]=Registrado
 strBtnState[1]=Cancelar Registro
 strBtnState[2]=Comercio
@@ -3791,7 +3791,7 @@ Dungeon_Desc_9059013=Un misterioso túnel que conduce a lugares de otro mundo.<b
 Dungeon_Title_9920301=Mina de Gemas Mágicas Warped
 Dungeon_Desc_9920301=Una antigua mina de Gemas Mágicas que ha existido durante miles de años.<br>Una gran cantidad de Gemas Mágicas se pueden encontrar aquí.
 Dungeon_Title_9920401=Bóveda secreta de Luery
-Dungeon_Desc_9920401=Contiene las grandes fortunas que Luery ha amasado explotando la Rift.<br>Aquí se puede encontrar una gran cantidad de Zen y objetos.
+Dungeon_Desc_9920401=Contiene las grandes fortunas que Luery ha amasado explotando la Rift.<br>Aquí se puede encontrar una gran cantidad de Zen y Items.
 Dungeon_Title_9920501=Jardín de Fabrice
 Dungeon_Desc_9920501=El jardín oculto de Fabrice, un dios antiguo.<br>Aquí se puede encontrar una gran variedad de materiales de Crafting y Boss drop sin límite.
 Dungeon_Title_9800110=Biblioteca de Lupa
@@ -3849,9 +3849,9 @@ Dungeon_Desc_9920601=En las profundidades de Pandemonium, los espíritus de los 
 Dungeon_Title_9602001=Archivo antiguo de Lupa
 Dungeon_Desc_9602001=El Archivo Antiguo de Lupa está atrapado en un bucle temporal infinito, y ahora su existencia se ve amenazada por los devastadores efectos de la Rift.
 Dungeon_Title_9042101=Cueva del Demonio de Fuego
-Dungeon_Desc_9042101=Otro mundo de misterios que ha sido descubierto por la Sociedad de Investigación de la Rift. <br>Se dice que el dueño de este mundo teñido de rojo lleva un objeto muy importante.
+Dungeon_Desc_9042101=Otro mundo de misterios que ha sido descubierto por la Sociedad de Investigación de la Rift. <br>Se dice que el dueño de este mundo teñido de rojo lleva un Item muy importante.
 Dungeon_Title_9042301=Cueva del Demonio de Hielo
-Dungeon_Desc_9042301=Otro mundo de misterios que ha sido descubierto por la Sociedad de Investigación de la Rift. <br>Se dice que el dueño de este mundo teñido de azul lleva un objeto muy importante.
+Dungeon_Desc_9042301=Otro mundo de misterios que ha sido descubierto por la Sociedad de Investigación de la Rift. <br>Se dice que el dueño de este mundo teñido de azul lleva un Item muy importante.
 Dungeon_Title_9040309=Dungeon de la Caza de la Pascua
 Dungeon_Desc_9040309=En la Dungeon de la Caza de Pascua, abierta para la época de Pascua,<br> ¡prueba tu suerte encontrando algunas piezas de rompecabezas para combinar y<br>algunos conejos de chocolate gourmet que proporcionan virtudes extra!
 Dungeon_Title_9604001=Bóveda secreta abandonada
@@ -4051,11 +4051,11 @@ LS_DungeonLodDescByUiType10_9042301_1=Valor del monstruo:<font color='#11F210'> 
 LS_DungeonLodDescByUiType10_9042301_2=Valor del monstruo:<font color='#11F210'> 1,750%</font><br>Ataque del monstruo:<font color='#11F210'> 2,190%</font><br>Ganancia EXP:<font color='#11F210'> 262%</font>
 LS_DungeonLodDescByUiType10_9042301_3=Valor del monstruo:<font color='#11F210'> 2,330%</font><br>Ataque del monstruo:<font color='#11F210'> 3,100%</font><br>Ganancia EXP:<font color='#11F210'> 310%</font>
 LS_DungeonLodDescByUiType10_9042301_4=Valor del monstruo:<font color='#11F210'> 3,090%</font><br>Ataque del monstruo:<font color='#11F210'> 4,340%</font><br>Ganancia EXP:<font color='#11F210'> 362%</font>
-LS_DungeonLodDescByUiType10_9040309_0=Monstruo HP<font color='#11F210'> 200%</font><br>Monstruo Ataque<font color='#11F210'> 305%</font><br>Divisa Ganancia<font color='#11F210'> 200%</font><br>Posibilidad de Objeto Raro<font color='#11F210'> 350%</font> Subir<br>Ganancia de EXP<font color='#11F210'> 125%</font>
-LS_DungeonLodDescByUiType10_9040309_1=Monstruo HP<font color='#11F210'> 315%</font><br>Monstruo Ataque<font color='#11F210'> 390%</font><br>Dinero Ganancia<font color='#11F210'> 220%</font><br>Posibilidad de Objeto Raro<font color='#11F210'> 400%</font> Subir<br>Ganancia EXP<font color='#11F210'> 130%</font>
-LS_DungeonLodDescByUiType10_9040309_2=Monstruo HP<font color='#11F210'> 430%</font><br>Monstruo Ataque<font color='#11F210'> 480%</font><br>Ganancia de dinero Ganancia<font color='#11F210'> 240%</font><br>Posibilidad de Objeto Raro<font color='#11F210'> 450%</font> Subir<br>Ganancia EXP<font color='#11F210'> 135%</font>
-LS_DungeonLodDescByUiType10_9040309_3=Monstruo HP<font color='#11F210'> 545%</font><br>Monstruo Ataque<font color='#11F210'> 575%</font><br>Dinero Ganancia<font color='#11F210'> 260%</font><br>Posibilidad de Objeto Raro<font color='#11F210'> 500%</font> Subir<br>Ganancia EXP<font color='#11F210'> 140%</font>
-LS_DungeonLodDescByUiType10_9040309_4=Monstruo HP<font color='#11F210'> 660%</font><br>Monstruo Ataque<font color='#11F210'> 675%</font><br>Dinero Ganancia<font color='#11F210'> 280%</font><br>Posibilidad de Objeto Raro<font color='#11F210'> 550%</font> Subir<br>Ganancia EXP<font color='#11F210'> 145%</font>
+LS_DungeonLodDescByUiType10_9040309_0=Monstruo HP<font color='#11F210'> 200%</font><br>Monstruo Ataque<font color='#11F210'> 305%</font><br>Divisa Ganancia<font color='#11F210'> 200%</font><br>Posibilidad de Item Raro<font color='#11F210'> 350%</font> Subir<br>Ganancia de EXP<font color='#11F210'> 125%</font>
+LS_DungeonLodDescByUiType10_9040309_1=Monstruo HP<font color='#11F210'> 315%</font><br>Monstruo Ataque<font color='#11F210'> 390%</font><br>Dinero Ganancia<font color='#11F210'> 220%</font><br>Posibilidad de Item Raro<font color='#11F210'> 400%</font> Subir<br>Ganancia EXP<font color='#11F210'> 130%</font>
+LS_DungeonLodDescByUiType10_9040309_2=Monstruo HP<font color='#11F210'> 430%</font><br>Monstruo Ataque<font color='#11F210'> 480%</font><br>Ganancia de dinero Ganancia<font color='#11F210'> 240%</font><br>Posibilidad de Item Raro<font color='#11F210'> 450%</font> Subir<br>Ganancia EXP<font color='#11F210'> 135%</font>
+LS_DungeonLodDescByUiType10_9040309_3=Monstruo HP<font color='#11F210'> 545%</font><br>Monstruo Ataque<font color='#11F210'> 575%</font><br>Dinero Ganancia<font color='#11F210'> 260%</font><br>Posibilidad de Item Raro<font color='#11F210'> 500%</font> Subir<br>Ganancia EXP<font color='#11F210'> 140%</font>
+LS_DungeonLodDescByUiType10_9040309_4=Monstruo HP<font color='#11F210'> 660%</font><br>Monstruo Ataque<font color='#11F210'> 675%</font><br>Dinero Ganancia<font color='#11F210'> 280%</font><br>Posibilidad de Item Raro<font color='#11F210'> 550%</font> Subir<br>Ganancia EXP<font color='#11F210'> 145%</font>
 LS_DungeonLodDescByUiType10_9030223_0=Monstruo HP:<font color='#11F210'> 200%</font><br>Monstruo Ataque:<font color='#11F210'> 305%</font><br>GananciaEXP:<font color='#11F210'> 125%</font>
 LS_DungeonLodDescByUiType10_9030223_1=Monstruo HP:<font color='#11F210'> 315%</font><br>Monstruo Ataque:<font color='#11F210'> 390%</font><br>GananciaEXP:<font color='#11F210'> 130%</font>
 LS_DungeonLodDescByUiType10_9030223_2=Valor del monstruo:<font color='#11F210'> 430%</font><br>Ataque del monstruo:<font color='#11F210'> 480%</font><br>Ganancia EXP:<font color='#11F210'> 135%</font>
@@ -4151,63 +4151,63 @@ LS_DungeonDesc_9062221=Las Dungeons normales no usan esta descripción.
 LS_DungeonDesc_9062321=Las Dungeons normales no usan esta descripción.
 LS_DungeonDesc_9062521=Las Dungeons normales no usan esta descripción.
 LS_DungeonDesc_9062621=Las Dungeons normales no usan esta descripción.
-LS_DungeonDesc_9020211=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020212=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020214=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020311=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020312=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020313=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020314=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020315=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030111=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030112=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030113=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030114=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030211=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030212=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030213=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030214=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030311=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030312=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030313=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030314=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050211=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050212=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050213=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050214=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050311=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050312=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050313=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050314=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050411=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050412=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050413=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050414=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050511=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050512=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050513=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050514=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050611=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050612=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050613=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050614=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050711=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050712=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050713=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050714=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050811=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050812=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050813=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050814=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062111=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062112=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062113=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062211=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062212=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062213=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062311=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062312=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062313=Esta Dungeon es especialmente abundante en objetos y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020211=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020212=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020214=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020311=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020312=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020313=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020314=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020315=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030111=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030112=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030113=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030114=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030211=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030212=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030213=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030214=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030311=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030312=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030313=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030314=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050211=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050212=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050213=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050214=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050311=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050312=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050313=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050314=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050411=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050412=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050413=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050414=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050511=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050512=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050513=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050514=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050611=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050612=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050613=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050614=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050711=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050712=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050713=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050714=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050811=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050812=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050813=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050814=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062111=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062112=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062113=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062211=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062212=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062213=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062311=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062312=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062313=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
 LS_DungeonDesc_9920301=Elimina a los monstruos del interior y carga la Energía de Trenta para activar a Trenta.<br>Trenta es un gólem gigante que genera portales de la Rift.
 LS_DungeonDesc_9920401=Elimina a los monstruos del interior y carga la energía de Trenta para activar a Trenta.<br>Trenta es un gólem gigante que genera portales de la Rift.
 LS_DungeonDesc_9920501=Elimina a los monstruos del interior y carga la energía de Trenta para activar a Trenta.<br>Trenta es un gólem gigante que genera portales de la Rift.
@@ -4734,9 +4734,9 @@ LS_Title=Añadir ranura de equipo
 LS_DescTop=Añadir ranura de joya¶a artículos de equipo.
 LS_DescBottom=Añadir un elemento de equipo para añadir una ranura.
 LS_NeedItem=Requerido
-LS_SuccessDesc0=Añadir una ranura al objeto de equipo.
-LS_SuccessDesc1=Puedes equipar Joyas en los objetos de equipo.
-LS_MakeSocketBtn=Hacer
+LS_SuccessDesc0=Añadir una ranura al Item de equipo.
+LS_SuccessDesc1=Puedes equipar Joyas en los Items de equipo.
+LS_MakeSocketBtn=Fabricar
 
 [MU2GFxExchangeMessageBox]
 LS_Title_Equip=Equipar Habilidad Cresta
@@ -4759,24 +4759,24 @@ LS_EmptySlotString=Ranura vacía
 LS_Equiped=Equipado
 
 [MU2GFxEvolutionWingView]
-LS_Title=Incrementar alas
-LS_EvolutionInfo=Información sobre el incremento de las alas
+LS_Title=Mejorar alas
+LS_EvolutionInfo=Información sobre mejora de alas
 LS_MaterialTitle=Material
-LS_AutoLabel=Incremento auto.
+LS_AutoLabel=Mejora auto.
 LS_AutoLabelCancel=Cancelar auto.
-LS_EvolutionLabel=Incremento de alas
+LS_EvolutionLabel=Mejora de alas
 LS_CancelLabel=Cancelar
-LS_TooltipInfoText=Las alas pueden incrementarse y evolucionar para mejorar su rendimiento.<br>Aumentar sus niveles cambia su apariencia.
-LS_TooltipMtInfoText=Se necesitan Piedras de Crecimiento de Alas para incrementarlas.<br>Se necesitan Piedras de Evolución de Alas para hacerlas evolucionar.
-LS_EvolutionGuid=Añade un objeto para incrementar o evolucionar.
+LS_TooltipInfoText=Las alas pueden mejorarse y evolucionar para aumentar su rendimiento.<br>Evolucionar alas cambia su apariencia.
+LS_TooltipMtInfoText=Se necesitan Piedras de Crecimiento de Alas para mejorarlas.<br>Se necesitan Piedras de Evolución de Alas para hacerlas evolucionar.
+LS_EvolutionGuid=Añade un Item para mejorar o evolucionar.
 LS_CurWingGrowMsg=+%s_1 %s_2
 LS_CurWingEvolutionMsg=%s_1
-LS_WingGrow=Incrementando...
+LS_WingGrow=Mejorando...
 LS_WingEvolution=Evolucionando...
 LS_SuccessGrow=Crecido con éxito.
 LS_SuccessEvolution=Evolucionado con éxito.
 LS_CombatPower=Potencia de combate
-LS_MaxEvolution=El objeto no puede evolucionar más.
+LS_MaxEvolution=El Item no puede evolucionar más.
 LS_CompleteEvolution=Evolucion completa
 LS_TearListTitle=Información del nivel
 LS_TearListCloseBtn=Cerrar (Esc)
@@ -5126,7 +5126,7 @@ LS_LevelUpTitle=Crecimiento de la mascota
 LS_EvolutionTitle=Evolucionar mascota
 LS_NeedConsumable=Material
 LS_NeedPet=Material Mascota
-LS_NeedItem=Objeto material
+LS_NeedItem=Item material
 LS_strTargetResultLabel=Reiniciar
 LS_SetUpgardeStartLabel_LevelUp=Crecimiento
 LS_SetUpgardeStartLabel_Evolution=Evolucionar
@@ -5183,7 +5183,7 @@ LS_LeftSoulPoint=Tienes puntos de alma sin usar.
 LS_NewSkillLearn=Aprendiste una nueva habilidad.
 LS_CanEquipSkillRuneSlot=Algunas de tus habilidades se pueden equipar con crestas.
 LS_ZeroDurabilityEquip=La durabilidad de tu equipo ha llegado a 0.
-LS_MissionMapRequest=%s_1: Ahora aceptando peticiones
+LS_MissionMapRequest=%s_1: Evento abierto
 LS_BurningStamina=%s_1 Rift: Fase de sobremarcha %s_2
 LS_AddNewPet=Has conseguido una nueva mascota.
 LS_LeftPetStatePoint=[%s_1] tiene puntos de estado restantes.
@@ -5197,7 +5197,7 @@ LS_SproutBonusLabel=Bonificación de retoño
 
 [MU2GFxItemDisassemble]
 LS_Title=Desmontar Items
-LS_ItemDisassembleBtn=Desarme de Objetos
+LS_ItemDisassembleBtn=Desarme de Items
 LS_PullBtn=Retirar todo
 LS_EarningGreenZen=Gemas mágicas ganadas
 
@@ -5240,11 +5240,11 @@ LS_AchieveNotice_Title=Recompensa por logro
 LS_AchieveNotice_Main=Hay recompensas por logros no reclamadas.<br>Por favor, compruébalo y reclámalas.
 LS_AchieveNotice_Control=Abrir ventana de recompensas por logros
 LS_AutobotPenalty_Title=Cuento de penalizaciones %s_1
-LS_AutobotPenalty_Main[0]=Etapa de penalización 1 - Restricción de velocidad de movimiento, ataque, tasa de obtención de objetos y EXP de alma
-LS_AutobotPenalty_Main[1]=Penalización Etapa 2 - Restricción en Velocidad de Movimiento, Ataque, Caída de Objetos y EXP de Alma
-LS_AutobotPenalty_Main[2]=Penalización Etapa 3 - Restricción en Velocidad de Movimiento, Ataque, Caída de Objetos y EXP de Alma
-LS_AutobotPenalty_Main[3]=Penalización Etapa 4 - Restricción en Velocidad de Movimiento, Ataque, Caída de Objetos y EXP de Alma
-LS_AutobotPenalty_Main[4]=Penalización Etapa 5 - Restricción en Velocidad de Movimiento, Ataque, Tasa de Entrega de Objetos y EXP de Alma
+LS_AutobotPenalty_Main[0]=Etapa de penalización 1 - Restricción de velocidad de movimiento, ataque, tasa de obtención de Items y EXP de alma
+LS_AutobotPenalty_Main[1]=Penalización Etapa 2 - Restricción en Velocidad de Movimiento, Ataque, Caída de Items y EXP de Alma
+LS_AutobotPenalty_Main[2]=Penalización Etapa 3 - Restricción en Velocidad de Movimiento, Ataque, Caída de Items y EXP de Alma
+LS_AutobotPenalty_Main[3]=Penalización Etapa 4 - Restricción en Velocidad de Movimiento, Ataque, Caída de Items y EXP de Alma
+LS_AutobotPenalty_Main[4]=Penalización Etapa 5 - Restricción en Velocidad de Movimiento, Ataque, Tasa de Entrega de Items y EXP de Alma
 LS_EventPSR_Title=Evento Piedra, Papel o Tijera
 LS_EventPSR_Main=Tuviste la oportunidad de jugar a Piedra, Papel o Tijera.
 LS_TalismanDriver_Title=Habilidades de Talismán
@@ -5328,7 +5328,7 @@ LS_Pet_Title=Registrar mascota
 LS_Pet_Description1=¿Registrar esta mascota?
 LS_Pet_Description2=Las mascotas registradas pueden verse en la ventana Lista de mascotas.
 LS_ProtectedTicket_Title=Información de encantamiento
-LS_ProtectedTicket_Description=Para usar Billetes de Salvaguardia, haga clic en el botón Encantar Seguro.¶Los Billetes de Salvaguardia se consumen independientemente de los resultados del encantamiento.¶Para encantar sin Billetes de Salvaguardia, haga clic en Encantamiento Básico.¶El Encantamiento Básico tiene una posibilidad de destruir el objeto objetivo en caso de fallo.
+LS_ProtectedTicket_Description=Para usar Billetes de Salvaguardia, haga clic en el botón Encantar Seguro.¶Los Billetes de Salvaguardia se consumen independientemente de los resultados del encantamiento.¶Para encantar sin Billetes de Salvaguardia, haga clic en Encantamiento Básico.¶El Encantamiento Básico tiene una posibilidad de destruir el Item objetivo en caso de fallo.
 
 [MU2GFxDamageReportView]
 LS_DamageReportString=Informe de Daños
@@ -5362,7 +5362,7 @@ Main_Category[0]=Especial
 Main_Category[1]=Personaje
 Main_Category[2]=Dungeon
 Main_Category[3]=Mapa de misiones
-Main_Category[4]=Objeto
+Main_Category[4]=Item
 Sub_Category[0]=Especial
 Sub_Category[1]=Evento
 Sub_Category[2]=Historia
@@ -5381,14 +5381,14 @@ LS_LevelRangeString=Nivel
 LS_ItemGradeString=Grado del artículo
 LS_UsingJobString=Clase
 LS_SearchNameString=Nombre
-LS_ShowCraftAbleItemString=Ver sólo los objetos que se pueden craftear
+LS_ShowCraftAbleItemString=Ver sólo los Items que se pueden craftear
 LS_ApplyFiltersString=Aplicar filtros
-LS_GradeTotal=Todos los objetos
+LS_GradeTotal=Todos los Items
 LS_GradeHighRank=No común o mejor
 LS_GradeRare=Raro o superior
 LS_GradeHero=Heroico o superior
 LS_GradeLegend=Legendario o superior
-LS_JobTotal=Todos los artículos
+LS_JobTotal=Todos los Items
 
 [MU2ManufactureSys]
 LS_LevelString=(Nivel %d)
@@ -5465,8 +5465,8 @@ LS_ErrorEmptyList=No se encuentran mensajes relacionados con este destino.
 LS_ErrorSortCondition=No hay mensajes que cumplan las condiciones de búsqueda.
 
 [MU2GFxChangeAppearanceView]
-LS_ChangeAppearanceString=Cambiar apariencia del elemento
-LS_RemoveChangeAppearanceString=Quitar apariencia del artículo
+LS_ChangeAppearanceString=Cambiar apariencia de Item
+LS_RemoveChangeAppearanceString=Quitar apariencia del Item
 LS_ChangeAppearanceBtnString=Cambiar apariencia
 LS_RemoveChangeAppearanceBtnString=Quitar apariencia
 LS_SuccessChageAppearanceMsg=Cambiar apariencia.
@@ -5474,13 +5474,13 @@ LS_RemoveSuccessChageAppearanceMsg=Quitar apariencia.
 
 [MU2GFxChangeAppearance_Change]
 LS_DescriptionString1=El cambio de apariencia no afectará a las estadísticas.
-LS_DescriptionString2=Registre un objeto objetivo y un objeto material para comenzar.
-LS_DescriptionString3=El objeto material será destruido.
+LS_DescriptionString2=Registre un Item y utilice otro de material.
+LS_DescriptionString3=El Item material será destruido.
 LS_TargetItemString=Objetivo.
-LS_MaterialItemString=Posición material de apariencia
+LS_MaterialItemString=Material
 
 [MU2GFxChangeAppearance_Remove]
-LS_DescriptionString1=Vuelve el objeto a su apariencia original.
+LS_DescriptionString1=Vuelve el Item a su apariencia original.
 LS_DescriptionString2=Registrar un elemento de material para eliminar la apariencia.
 LS_RemoveItemString=Artículo objetivo
 
@@ -5570,7 +5570,7 @@ LS_Achievement_Grade_None=Ningún grado de logros
 LS_Achievement_Point_Text=Puntos
 LS_GetAchieveRewardLabel=Recompensas por logros
 LS_RewardTitleTooltipTxt=Tiene recompensas de título.
-LS_RewardItemTooltipTxt=Tienes recompensas de objetos.
+LS_RewardItemTooltipTxt=Tienes recompensas de Items.
 LS_ControlRecentAchieveTooltipTxt=: Detalles del logro
 LS_ControlDetailAchieveTitleTooltipTxt=: Desplegar/Doblar
 LS_GradeRewardTitleLoc=Recompensa por grado de logros
@@ -5639,7 +5639,7 @@ LS_SurveyTitle=Encuesta
 LS_SurveySumit=Enviar
 LS_SurveyLater=Hazlo más tarde
 LS_SurveyNoJoin=No participar
-LS_SurveyGoal=1. Objeto e información de la encuesta
+LS_SurveyGoal=1. Item e información de la encuesta
 LS_SurveySubject=2. Título de la encuesta Título de la encuesta
 LS_SurveyReward=3. Recompensa Elemento de la recompensa
 LS_SurveyInputDefaultText=Se pueden introducir hasta 50 caracteres.
@@ -5782,7 +5782,7 @@ LS_TabAltar=Altar
 LS_TabGrowth=Crecimiento
 LS_TabFunction=Configuración
 LS_KnightAgeDisable=El guild está inactivo.
-LS_KnightAgeCostTooltip=Fondos para hacer funcionar tu Guild.<br>Se pueden obtener con Zen, que puedes encontrar de monstruos, o a través de ciertos objetos.
+LS_KnightAgeCostTooltip=Fondos para hacer funcionar tu Guild.<br>Se pueden obtener con Zen, que puedes encontrar de monstruos, o a través de ciertos Items.
 LS_KnightAgeAltarTooltip=Beneficios por expandir el Altar del guild, aplicados a todos los miembros.<br>Estos beneficios no seran aplicados si tu guild está inactivo.
 LS_KnightAgeInfoTooltip=<font color='#FDC243'>Nombre del Líder del guild</font><br>- El nombre del líder de tu guild.<br><font color='#FDC243'>Poder de Combate Total de los Miembros del guild</font><br>- Poderes de Combate combinados de todos los miembros del guild. <br><font color='#FDC243'>Estado del guild</font><br>- Miembros del guild en línea: %s_1<br>- Miembros totales del guild: %s_2<br>- Miembros máximos del guild: %s_3<br><font color='#FDC243'>Nivel del guild</font><br>- El nivel de crecimiento de tu guild.<br>- Puedes hacer crecer tu guild cazando monstruos y ganando EXP.
 LS_KnightAgeIconTooltip=Fondos del guild usados para el funcionamiento de tu guild.
@@ -6011,7 +6011,7 @@ LS_Cancel=Cancelar (Esc)
 
 [MU2GFxTooltip_Artifact]
 LS_CombatPowerString=Poder de Combate
-LS_Create=: Craft
+LS_Create=: Fabricar
 LS_Select=: Seleccionar
 LS_NormalArtifact=Artefacto normal
 LS_AwakenArtifact=Artefacto despertado
@@ -6036,14 +6036,14 @@ LS_Artifact_Type_1601=Artefacto despertado
 LS_Artifact_Type_1801=Artefacto despertado
 LS_Artifact_Type_1901=Artefacto despertado
 LS_Step=Etapa %s_1
-LS_Grow=Incrementar
+LS_Grow=Mejorar
 LS_Equip=Equipado
 LS_Alchemy=Listo para la alquimia
 LS_ReCall=Recuperado
 
 [MU2GFxAlchemyView]
 LS_RegArtifactItem=Seleccionar artefacto objetivo de alquimia.
-LS_ProcessAlchemy=Alquimizar artefactos en nuevos objetos.
+LS_ProcessAlchemy=Alquimizar artefactos en nuevos Items.
 LS_CompleteAlchemy=¡Alquimia completada!
 LS_AlchemyTotalTime=Tiempo de alquimia restante
 LS_BoostBtnLabel=Aceleración de alquimia.
@@ -6051,19 +6051,19 @@ LS_CompleteLabel=Alquimia completada
 LS_EmptyTiltle=No tienes ningún Artefacto para convertir
 LS_EmptyDesc=Los artefactos creados y equipados no se pueden Alquimizar.
 LS_EmptyTargetDesc=Alquimiza Artefactos y consigue increíbles recompensas.
-LS_AlchemyTab[0]=Ranura de alquimia 1
-LS_AlchemyTab[1]=Ranura de alquimia 2
-LS_AlchemyTab[2]=Ranura de alquimia 3
+LS_AlchemyTab[0]=Ranura 1
+LS_AlchemyTab[1]=Ranura 2
+LS_AlchemyTab[2]=Ranura 3
 LS_PremiumDesc[0]= ranura de alquimia
 LS_PremiumDesc[1]=Exclusivamente para los usuarios del Servicio Premium.
 LS_PremiumDesc[2]=Exclusivo para los usuarios del Servicio Premium.
-LS_AlchemyTitle=Alquimia superpoderosa
+LS_AlchemyTitle=Alquimista
 LS_OpenArtifactList=Registrar artefacto
 LS_RecvBtnLabel=Obtener recompensa
 LS_HelpBtnLabel=Ayuda
 LS_StartBtnLabel=Iniciar alquimia
 LS_CloseBtnLabel=Cerrar
-LS_GrowText=Incrementar
+LS_GrowText=Mejorar
 LS_EquipText=Equipado
 LS_AlchemyText=Listo para la alquimia
 LS_Step=Etapa %s_1
@@ -6088,8 +6088,8 @@ LS_EquipBtn=Equipo
 LS_EquipCancelBtn=Equipar
 LS_GrowBtn=Empezar a mejorar
 LS_GrowCancelBtn=Cancelar crecimiento
-LS_GrowEmptyMsg1=No hay artefactos incrementándose actualmente.
-LS_GrowEmptyMsg2=Puede seleccionar artefactos en la Lista de Artefactos de la derecha para incrementarlos.
+LS_GrowEmptyMsg1=No hay artefactos mejorandose actualmente.
+LS_GrowEmptyMsg2=Puede seleccionar artefactos en la Lista de Artefactos de la derecha para mejorarlos.
 LS_ListEmptyMsg1=No tiene ningún artefacto.
 LS_ListEmptyMsg2=Puedes fabricar artefactos en la pestaña de Fabricación de Artefactos.
 LS_SortHighLevel=Filtrar por nivel alto
@@ -6124,20 +6124,20 @@ LS_MaxLevel=Nivel máximo
 LS_GrowTitle=Artefacto de crecimiento
 LS_EquipTitle=Artefacto Equipado
 LS_Step=Etapa %s_1
-LS_GrowText=Incrementando
+LS_GrowText=Mejorando
 LS_EquipText=Equipado
 LS_AlchemyText=Listo para la alquimia
 LS_CraftTitle=Artefacto artesanal
 LS_NeedMtl=Materiales necesarios
 LS_CraftBtn=Artefacto
 LS_CancelBtn=Cancelar
-LS_ArtifactGrowth=¡Incremento! +1
+LS_ArtifactGrowth=¡Mejora! +1
 LS_CraftDesc=Haz clic en un artefacto para crearlo.
 LS_RecallTabTitle=Comprobar información de llamada
 LS_RecallStateMsg=Este artefacto ha sido retirado debido a cambios en sus efectos.
 LS_RecallSlotEmpty=Seleccionar un artefacto recuperado.
 LS_RecallEquipDesc=Seleccione un artefacto Recuperado en la lista de la derecha.
-LS_RecallSystemDesc=Cambiar el efecto de un Artefacto lo designará como Artefacto Recuperado.<br>Selecciona una de las siguientes opciones para eliminar el estado de Recuperado y usar el Artefacto:<font color='#ffffff><br>1) Usar Tal Cual: Elimina el estado de Recuperado del Artefacto y te permite seguir usándolo.<br>2) Transferir Incremento: Reinicia el Artefacto Recuperado y transfiere su nivel de incremento a otro Artefacto.</font>
+LS_RecallSystemDesc=Cambiar el efecto de un Artefacto lo designará como Artefacto Recuperado.<br>Selecciona una de las siguientes opciones para eliminar el estado de Recuperado y usar el Artefacto:<font color='#ffffff><br>1) Usar Tal Cual: Elimina el estado de Recuperado del Artefacto y te permite seguir usándolo.<br>2) Transferir mejora: Reinicia el Artefacto Recuperado y transfiere su nivel de mejora a otro Artefacto.</font>
 LS_RecallArtifact=Recuperar
 LS_BrannewArtifact=Nuevo Artefacto
 LS_RecallTag=Siendo Recuperado...
@@ -6146,7 +6146,7 @@ LS_RecallMsg=Este artefacto ha sido recuperado.
 LS_OldArtifactBtn=Usar como está
 LS_TransArtifactBtn=Transferir crecimiento
 LS_BrannewArtifactDetailDesc=Puedes conseguir nuevos artefactos participando en el evento «El recuerdo de Jian» o a través de la tienda LAMUS.<br>- Duración del evento «El recuerdo de Jian»<br>- Del 11 de junio al 9 de julio<br>- Fechas de apertura de la tienda LAMUS<br>- Del 11 de junio al 9 de julio<br>También puedes fabricar los artefactos en el juego tras el periodo del evento.
-LS_CraftCompleteText=Crafting completado
+LS_CraftCompleteText=Fabricación completada
 LS_NotifyRecallableArtifact=Algunos artefactos pueden ser recuperados.
 
 [MU2GFxArtifactBrannewWindow]
@@ -6185,8 +6185,8 @@ LS_LogDate=[%s_1-%s_2 %s_3:%s_4]
 LS_Time_Sec=segundos
 LS_Revive=Resucitando...
 LS_Riding=Cabalgando...
-LS_UsingItem=Usando objeto...
-LS_ControlObject=Objeto de control...
+LS_UsingItem=Usando Item...
+LS_ControlObject=Item de control...
 
 [MU2GFxOptionChangerView]
 LS_MainTitle=Restablecer opciones de elemento
@@ -6271,7 +6271,7 @@ LS_CartBuyBtn=Comprar
 LS_BuyCaption=Comprar
 LS_PresentCaption=Comprar para otra persona
 LS_BuyPackage=Genera todos los siguientes elementos cuando se utiliza.
-LS_BuyGacha=<font color='#fdc243'>Genera uno de los siguientes objetos.</font>
+LS_BuyGacha=<font color='#fdc243'>Genera uno de los siguientes Items.</font>
 LS_BuyRefund=He leído, entiendo y acepto la política de compra.
 LS_RefundPolicyCap=Precaución
 LS_RefundPolicyDesc=* He leído y comprendido las condiciones de servicio de Valofe y renuncio a mi derecho a cancelar la compra o a recibir un reembolso.
@@ -6305,11 +6305,11 @@ LS_Tab_Level=Nivel
 LS_Tab_Price=Precio
 LS_BuyItem=Comprar artículo
 LS_SellItem=Vender artículo
-LS_TradeHistory=Historial de operaciones
+LS_TradeHistory=Historial de transacciones
 LS_RefreshBtn=Reiniciar
 LS_BuyBtn=Comprar artículo
-LS_NormalSearch=Búsqueda básica
-LS_DetailSearch=Búsqueda avanzada
+LS_NormalSearch=Búsqueda
+LS_DetailSearch=Filtros
 LS_Class=Clase
 LS_Grade=Grado
 LS_Level=Nivel
@@ -6336,7 +6336,7 @@ LS_HistoryTabCount=Cantidad
 LS_HistoryTabState=Tipo
 LS_HistoryTabTime=Fecha de operación
 LS_HistoryTabPrice=Precio
-LS_TradeSectionDesc=Puede consultar el historial de operaciones de hasta 30 días.
+LS_TradeSectionDesc=Puede consultar el historial de transacciones de hasta 30 días.
 LS_NoneHistory=No se han encontrado resultados de búsqueda.
 LS_PopUpRegItem=Registrar artículo
 LS_MYRegItemCount=Mis artículos registrados
@@ -6422,13 +6422,13 @@ LS_ImputedRedZen=Redzen
 LS_RedZen=Redeno
 LS_MopupProgress=Subyugando...
 LS_NoRankRewardText=Sin récord personal.<br>Recibirás recompensas mínimas.
-LS_MopupRewardText=Recibirás recompensas por objetos en dificultad Normal.
+LS_MopupRewardText=Recibirás recompensas por Items en dificultad Normal.
 LS_PlatinumService=El efecto Servicio Premium ha aumentado tu número máximo de entradas en %s_1.
 LS_PCRoomService=El efecto Platino Premium ha aumentado tu número máximo de entradas en %s_1.
 LS_FreeMopUp=Usa una ficha de subyugación gratuita de Servicio Premium.
 LS_MopUpCount=Selecciona el número de subjugaciones
 LS_RewardTitle=Guía de recompensas
-LS_RewardDesc=Puedes obtener objetos clave disponibles en las Dungeons, así como EXP de Alma.
+LS_RewardDesc=Puedes obtener Items clave disponibles en las Dungeons, así como EXP de Alma.
 LS_FreeMopUpTikect=Billete de subyugación gratuito
 
 [MU2GFxDailyMissionDetail]
@@ -6818,9 +6818,9 @@ LS_TimeM=%s_1m
 LS_TimeH=%s_1h
 LS_AcceptComplete=Reclamado
 LS_LoginReward=Recompensa por inicio de sesión
-LS_LoginRewardDesc=-Suscríbete al VIP regular o Platinum, y podrás obtener una recompensa de objetos en función de tu tiempo de juego.<br>- Estas recompensas de tiempo de juego se restablecen diariamente a las 5:00 a.m.
+LS_LoginRewardDesc=-Suscríbete al VIP regular o Platinum, y podrás obtener una recompensa de Items en función de tu tiempo de juego.<br>- Estas recompensas de tiempo de juego se restablecen diariamente a las 5:00 a.m.
 LS_NetCafeRewardCap=Recompensa por inicio de sesión
-LS_NetCafeRewardDesc=Bienvenido al cibercafé.<br>En los cibercafés, obtienes mejoras adicionales y recompensas de objetos.
+LS_NetCafeRewardDesc=Bienvenido al cibercafé.<br>En los cibercafés, obtienes mejoras adicionales y recompensas de Items.
 LS_NetCafeReward1=Ganancia de EXP del alma +30%.
 LS_NetCafeReward2=Ataque +5%<br>Defensa +5
 
@@ -6866,13 +6866,13 @@ LS_DominionGradeBenefit=El número de equipos necesarios para la fusión varía 
 LS_Fusion=Fusible
 LS_Cancle=Cancelar
 LS_OtherWeaponFusion=Fusionar equipo diferente
-LS_RequireAddWeapon=Registrar objetos para fusionar.
+LS_RequireAddWeapon=Registrar Items para fusionar.
 LS_CompleteWeaponFusion=Equipo fusionado.
 LS_AdditionMaterial=Materiales adicionales
 LS_MaintainEnchant=Mantener encantamiento
 LS_OptionAddProbability=Probabilidad de opción adicional
 LS_WeaponFusionProgress=Fusión del equipo...
-LS_WeaponFusionToolTipText=<font color='#FDC243'>Fusión de equipo</font></b><br>- Puedes fusionar equipo del mismo grado para crear equipo nuevo.<br>- Ciertas opciones de equipo solo pueden obtenerse mediante fusión de equipo.<br>- Las Piedras de Sabio aumentan tu probabilidad de obtener las opciones Únicas mediante fusión de equipo.<br>- Fusionar equipo Antiguo crea una probabilidad de generar un objeto de grado superior. <br>- La fusión de equipo del mismo tipo da como resultado un objeto del mismo tipo.<br>- La fusión de equipo de diferentes tipos da como resultado el mismo tipo de uno de los objetos utilizados para la fusión.<br>- El aumento extra de los objetos materiales (Encantamiento, Impronta, Trascendencia, joyas, etc.) no se puede transferir al objeto resultante.<br>- Las opciones de Fusión Única no se pueden añadir a los objetos de Set.<br>- Solo se puede fusionar equipo Antiguo de nivel 70 o superior.
+LS_WeaponFusionToolTipText=<font color='#FDC243'>Fusión de equipo</font></b><br>- Puedes fusionar equipo del mismo grado para crear equipo nuevo.<br>- Ciertas opciones de equipo solo pueden obtenerse mediante fusión de equipo.<br>- Las Piedras de Sabio aumentan tu probabilidad de obtener las opciones Únicas mediante fusión de equipo.<br>- Fusionar equipo Antiguo crea una probabilidad de generar un Item de grado superior. <br>- La fusión de equipo del mismo tipo da como resultado un Item del mismo tipo.<br>- La fusión de equipo de diferentes tipos da como resultado el mismo tipo de uno de los Items utilizados para la fusión.<br>- El aumento extra de los Items materiales (Encantamiento, Impronta, Trascendencia, joyas, etc.) no se puede transferir al Item resultante.<br>- Las opciones de Fusión Única no se pueden añadir a los Items de Set.<br>- Solo se puede fusionar equipo Antiguo de nivel 70 o superior.
 LS_WiseStoneEnchantProbability[0]=x 1
 ProbabilidadDeEncantarPiedra[1]=x 1.5
 LS_WiseStoneEnchantProbability[2]=x 2
@@ -6989,17 +6989,17 @@ BenefitName_3_1_2=Equipo fusible
 BenefitName_3_1_3=Tienda de contribución
 BenefitDesc_1_1_0=Permite intensificar Piedras Trascendentes de Equipo hasta <font color='#ffff00'>12 veces</font>.
 BenefitDesc_1_1_1=Desbloquea <font color='#ffff00'>1</font> ranura para producir Piedras de Intensificación usadas para intensificar Piedras Trascendentes. (Permite producir 1 piedra a la vez).
-BenefitDesc_1_1_2=La fusión de equipo sólo requiere <font color='#ffff00'>4</font> objetos.
+BenefitDesc_1_1_2=La fusión de equipo sólo requiere <font color='#ffff00'>4</font> Items.
 BenefitDesc_1_1_3=Optimiza la Tienda de Contribución para territorios de 1 estrella.
 BenefitDesc_1_1_4=Permite tener hasta <font color='#ffff00'>100</font> seguidores.
 BenefitDesc_1_2_0=Permite intensificar Piedras Trascendentes de Equipo hasta <font color='#ffff00'>12 veces</font>.
 BenefitDesc_1_2_1=Desbloquea <font color='#ffff00'>2</font> ranuras para producir Piedras de Intensificación usadas para intensificar Piedras Trascendentes. (Permite producir 2 piedras a la vez).
-BenefitDesc_1_2_2=La fusión de equipo sólo requiere <font color='#ffff00'>3</font> objetos.
+BenefitDesc_1_2_2=La fusión de equipo sólo requiere <font color='#ffff00'>3</font> Items.
 BenefitDesc_1_2_3=Optimiza la Tienda de Contribución para territorios de 2 estrellas.
 BenefitDesc_1_2_4=Permite tener hasta <font color='#ffff00'>200</font> seguidores.
 BenefitDesc_1_3_0=Puedes amplificar la Piedra Trascendente un máximo de <font color='#ffff00'>12</font> veces, que puedes usar para trascender tu equipo.
 BenefitDesc_1_3_1=Desbloquea <font color='#ffff00'>3</font> ranuras para producir Piedras de Intensificación usadas para intensificar Piedras Trascendentes. (Permite producir 3 piedras a la vez).
-BenefitDesc_1_3_2=La fusión de equipo sólo requiere <font color='#ffff00'>2</font> objetos.
+BenefitDesc_1_3_2=La fusión de equipo sólo requiere <font color='#ffff00'>2</font> Items.
 BenefitDesc_1_3_3=Optimiza la Tienda de Contribución para territorios de 3 estrellas, para que muestre su mejor lista de ventas en todo momento.
 BenefitDesc_1_3_4=Permite tener hasta <font color='#ffff00'>300</font> seguidores.
 BenefitDesc_2_1_0=Desbloquea <font color='#ffff00'>1</font> ranura más para producir Piedras de Intensificación usadas para intensificar Piedras Trascendentes.
@@ -7024,8 +7024,8 @@ BenefitDesc_2_5_2=Disminuye los precios de la Tienda de Contribución un <font c
 BenefitDesc_2_5_3=Aumenta tu límite máximo de seguidores fijado por tu territorio capital en <font color='#ffff00'>500</font>.
 BenefitDesc_3_1_0=Permite intensificar las Piedras Trascendentes de equipo hasta <font color='#ffff00'>12 veces</font>.
 BenefitDesc_3_1_1=Desbloquea <font color='#ffff00'>1</font> ranura más para producir Piedras de Intensificación usadas para intensificar Piedras Trascendentes.
-BenefitDesc_3_1_2=Permite fusionar <font color='#ffff00'>4</font> objetos en un nuevo objeto.
-BenefitDesc_3_1_3=Permite comprar objetos de Seguidor en la Tienda de Contribución. Los objetos Follower no son de buena calidad.
+BenefitDesc_3_1_2=Permite fusionar <font color='#ffff00'>4</font> Items en un nuevo Item.
+BenefitDesc_3_1_3=Permite comprar Items de Seguidor en la Tienda de Contribución. Los Items Follower no son de buena calidad.
 
 [MU2GFxDominionAdministration]
 LS_UITitle=Administrar Territorio
@@ -7258,7 +7258,7 @@ LS_ExchangeItem_MBIS_DescriptionStr=Evento poción
 
 [MU2GFxIceFestival_Stamp]
 LS_Title=¡Consigue los sellos! ¡Consigue las recompensas!
-LS_EventDescription=Sólo puedes conseguir Sellos una vez al día.<br>Puedes conseguirlos uniéndote al evento e intercambiando objetos al menos una vez al día.
+LS_EventDescription=Sólo puedes conseguir Sellos una vez al día.<br>Puedes conseguirlos uniéndote al evento e intercambiando Items al menos una vez al día.
 LS_StempStr=Día %d
 LS_RewardCompleteStr=Reclamado
 LS_RewardStr=Obtener recompensa
@@ -7284,7 +7284,7 @@ LS_Welcome=¡Bienvenido de nuevo, Guardián! Me alegro mucho de verte de nuevo!<
 LS_Confirm=Obtener regalo de bienvenida para el jugador que vuelve
 LS_Description=Estos cofres son recompensados a los usuarios que no han iniciado sesión desde una fecha determinada.<br>Si tu Inventario está lleno, por favor despeja algo de espacio e inicia sesión de nuevo para recibir la recompensa.
 RewardItemID=129065
-RewardDesc_0=<font color='#0099ff'>Objeto para jugadores que vuelven</font>
+RewardDesc_0=<font color='#0099ff'>Item para jugadores que vuelven</font>
 RewardDesc_1=<font color='#ffaf04'>Nivel 65 +7 Arma mítica para tu clase</font>
 RewardDesc_2=<font color='#ffaf04'>Nivel 65 +7 Armadura mítica para tu clase</font>
 RewardDesc_3=<font color='#ffe08c'>3 Pergaminos Misteriosos 100% Raros</font>
@@ -7321,7 +7321,7 @@ LS_ConfirmBtnLabel_Want=Sí, eso es lo que quiero.
 LS_GradeTitleTransferSource=Imprimir grado del equipo extraído
 LS_GradeTitleTransferTarget=Imprimir grado del equipo de destino
 LS_GradeNone=Ninguno
-LS_Step1_Title=Grado de impresión de la transferencia
+LS_Step1_Title=Transferencia
 LS_Step1_Contents=Puedes transferir el grado de huella de un equipo a otro.<br>Los recursos necesarios varían, dependiendo del grado de huella.
 LS_Step1_WarnningTitle=Precaución
 LS_Step1_WarnningContents=- Tras la transferencia, la huella se eliminará del equipo de origen.<br>- Sólo se transferirá el grado de huella. El número y los efectos de las opciones no se transferirán.<br>- Todos los equipos utilizados previamente para la transferencia quedarán encuadernados.
@@ -7339,9 +7339,9 @@ LS_StepWaiting_Contents=En curso
 LS_StepWaiting_Warnning=Transfiriendo grado de huella.<br>Las acciones de tu personaje se han desactivado por ahora, no fuerces la salida del juego.
 LS_StepComplete_Title=Transferir grado de impronta
 LS_StepComplete_Contents=Completado
-LS_StepComplete_Warnning=El grado de la huella ha sido transferido.<br>El grado de la huella del objeto extraído se reiniciará. El equipo objetivo ha recibido el nuevo efecto de huella.
+LS_StepComplete_Warnning=El grado de la huella ha sido transferido.<br>El grado de la huella del Item extraído se reiniciará. El equipo objetivo ha recibido el nuevo efecto de huella.
 LS_Step4_MaterialesTitle=Material
-LS_Step4_WarnningSub=El objeto objetivo de la Transferencia de Impronta se unirá a tu personaje.
+LS_Step4_WarnningSub=El Item objetivo de la Transferencia de Impronta se unirá a tu personaje.
 
 [MU2GFxMessageBoxAdditionalOptionMove]
 LS_Title=Calidad de Impronta Transferida
@@ -7421,8 +7421,8 @@ LS_KillCrystal=Cristales destruidos
 [MU2GFxItemRefine]
 LS_Title=Refinería de artículos
 LS_Desc1=Seleccione el ítem que desea refinar, y luego seleccione Refinar.<br>Refinar consume el ítem objetivo y los materiales.
-LS_Desc2=- Refinar objetos en nuevos objetos.<br>- Sólo ciertos objetos Premium pueden ser refinados.<br>- El refinamiento tiene un 100% de posibilidades de éxito.
-LS_TargetItemSlot=Refinar objeto
+LS_Desc2=- Refinar Items en nuevos Items.<br>- Sólo ciertos Items Premium pueden ser refinados.<br>- El refinamiento tiene un 100% de posibilidades de éxito.
+LS_TargetItemSlot=Refinar Item
 LS_ResultItemSlot=Resultado esperado del refinado
 LS_Refine=Refinar
 LS_Cancle=Cancelar
@@ -7507,7 +7507,7 @@ LS_SwitchSubCap[0]=Rango de intercambio
 LS_SwitchSubCap[1]=Objetivo del cambio
 LS_SwitchSubCap[2]=Resultado del intercambio
 LS_SwitchSubDesc[0]=Todos los talismanes que posee el personaje en su inventario y almacén
-LS_SwitchSubDesc[1]=En caso de que ya no se necesite un objeto básico talismán adicional para completar la producción de talismanes y se haya alcanzado el límite de ruptura.
+LS_SwitchSubDesc[1]=En caso de que ya no se necesite un Item básico talismán adicional para completar la producción de talismanes y se haya alcanzado el límite de ruptura.
 LS_SwitchSubDesc[2]=Un fragmento de alma de la misma clase que el núcleo de talismán será entregado a la ventana de inventario del personaje.<br>Por favor, haga sitio en la ventana de inventario con antelación.
 LS_AttrTitle=Bono de atributo
 
@@ -7521,12 +7521,12 @@ LS_Tab[3]=Historia
 LS_Tab[4]=Despertar
 LS_TabInfoSkill=Información de habilidad/despertar
 LS_TabInfoLimitBreak=Ruptura
-LS_TabInfoMake=Hacer
+LS_TabInfoMake=Fabricar
 LS_TabLvUpMaterial=Material
 LS_TabLvUpMaterialDesc=Material
-LS_TabLvUpDescription=Seleccione el objeto que desea y la cantidad que desea consumir.
+LS_TabLvUpDescription=Seleccione el Item que desea y la cantidad que desea consumir.
 LS_TabLvUpMaxDesc=Este Talismán ha alcanzado el nivel máximo.
-LS_TabLvUpNoneDesc=No tiene ningún objeto que pueda ser usado para aumentar niveles.<br>Una amplia selección de materiales pueden ser usados para aumentar niveles de Talismán.
+LS_TabLvUpNoneDesc=No tiene ningún Item que pueda ser usado para aumentar niveles.<br>Una amplia selección de materiales pueden ser usados para aumentar niveles de Talismán.
 LS_TabLvUpTalNoneDesc=No tienes ningún Talismán.<br>Por favor, crea primero un Talismán.
 LS_TabLiBrInfo=Información de avance
 LS_TabLiBrLimitBreak=Avanzar
@@ -7539,7 +7539,7 @@ LS_ItemCountCap=%s_1/%s_2
 LS_ItemCountOverCap=<font color='#ff0000'>%s_1/%s_2</font>
 LS_ItemCountNoneCap=<font color='#666666'>-/-</font>
 LS_MoneyOverCap=<font color='#ff0000'>%s_1</font>
-LS_TalismanMake=Hacer talismán
+LS_TalismanMake=Fabricar talismán
 LS_TalismanMakeComplete=Creación completada
 LS_TalismanLevel=Nivel de talismán
 LS_LvUpProgress=%s_1% Progreso
@@ -7570,7 +7570,7 @@ LS_TTAwakenCondComp=El talismán despierta y emite un fuerte poder.
 LS_TTAwakenSubDescCR=<br>
 LS_TTAwakenBtnAwaken=Despertar
 LS_TTAwakenBtnClose=Cerrar (ESC)
-LS_TabRewardDesc=Puedes recibir las siguientes recompensas al incrementar el talismán.
+LS_TabRewardDesc=Puedes recibir las siguientes recompensas al mejorar el talismán.
 LS_TabRewardNone=No hay recompensas de crecimiento disponibles para este talismán.
 LS_TabRewardAlready=Recompensa obtenida anteriormente
 LS_TabRewardGet=Obtener recompensa
@@ -7701,7 +7701,7 @@ LS_AllClear=Limpiado todo
 LS_TitleStr=Extraer éter
 LS_DescriptionStr=Desmantelar materiales y Piezas de Alma para obtener Energía de Éter.
 LS_EmotionPointStr=Energía de éter
-LS_ItemDecompositionStr=Desmantelar objeto
+LS_ItemDecompositionStr=Desmantelar Item
 LS_EjectAllStr=Retirar todo
 LS_SuccessExtractEmotion=Energía de éter obtenida.
 LS_CostDescriptionText=¿Desmantelar los elementos y <font color = '#ff0000'>obtener</font> la energía de éter a continuación?
@@ -7767,7 +7767,7 @@ LS_MissionNameStr=Título de la misión
 LS_MissionRewardStr=Recompensas de la misión
 LS_OnGoingMissionStr=Etapa %d
 LS_TotalMissionCompleteStr=Completar todas las misiones
-LS_MissionItemListTooltip=: Comprobar recompensas de objetos
+LS_MissionItemListTooltip=: Comprobar recompensas de Items
 
 [MU2GFxGuideMissionMoreInfo]
 LS_GetRewardedStr=Reclamar recompensas
@@ -8018,7 +8018,7 @@ LS_PlayCountConditionDesc=Condición de recuento de jugadas
 LS_PlayCountConditionClose=Cerrar (espacio)
 LS_LegendMarblePeriod=Visita nuestra página web y discord para ver la duración del evento.
 LS_MarbleRewardTitle=Información sobre la recompensa
-LS_MarbleRewardDesc=Recibirás al azar uno de los siguientes objetos.
+LS_MarbleRewardDesc=Recibirás al azar uno de los siguientes Items.
 LS_RewardPopUpClose=Cerrar (Espacio)
 LS_AirCraftTitle=Viaje en nave aérea
 LS_AirCraftDesc=Por favor, haga clic en su destino.
@@ -8091,7 +8091,7 @@ LS_SubTitleStr=Usted es un usuario que vuelve.
 LS_DescriptionStr=Bienvenido de nuevo a LAMUS, Guardián.<br>Linda está aquí para ayudarte a familiarizarte de nuevo con el juego.<br>Reclama el regalo de bienvenida a continuación, y echa un vistazo a las misiones haciendo clic en el botón Ver Misiones.
 LS_RewardItemTitleStr=Regalo de Bienvenida
 LS_GetRewardedStr=Reclamar recompensa
-LS_RewardDescriptionStr=Los objetos se guardarán en el Inventario.
+LS_RewardDescriptionStr=Los Items se guardarán en el Inventario.
 LS_OKStr=Ver Misiones
 
 [MU2GFxMemorialObjectView]
@@ -8163,7 +8163,7 @@ MonsterDesc_1001=Targash es el antiguo dragón que perdió el destino de convert
 
 [MU2GFxLuerysTreasureBox]
 LS_LeftTitle=Caja del Tesoro de Luery
-LS_ItemListBtn=Lista de objetos principales
+LS_ItemListBtn=Lista de Items principales
 LS_RenewBtn=Refrescar lista (%s)
 LS_RenewBtnFormat=%d/%d
 LS_RenewDesc=El recuento de actualización y la lista de elementos<br />se reinician cada jueves a las 5:00 a.m.
@@ -8173,7 +8173,7 @@ LS_CountFormat=%d/%d
 LS_ZenLabel=Coste del sorteo:
 
 [MU2GFxItemListView]
-LS_ItemListTitle=Lista de objetos principales
+LS_ItemListTitle=Lista de Items principales
 LS_ItemListOKBtn=Cerrar (Esc)
 
 [MU2GFxPingSystem]
@@ -8189,7 +8189,7 @@ LS_OKBtn=OK
 [MU2GFxOptionScroll]
 LS_TitleStr=Desplazamiento de opciones
 LS_SuccessStr=%.2f%% Probabilidad de éxito
-LS_ItemAbilityChangeStr=Cambiar habilidad del objeto
+LS_ItemAbilityChangeStr=Cambiar habilidad del Item
 LS_TargetItemDescriptionStr=Añadir el ítem brazalete para cambiar la opción.
 LS_AbilitySecctionListStr=Habilidades seleccionables
 LS_NumberOfChangesAllowedStr=Número de cambios disponibles
@@ -8202,17 +8202,17 @@ LS_OptionScrollFail=¡No se ha podido asignar la opción!
 LS_DateDuration=Visite nuestra web y discord para ver la duración del evento.
 LS_OKBtn=OK
 LS_Info1Title=¡Evento UNO!
-LS_Info1SubTitle=¡Consigue un objeto especial!
-LS_Info1Text=Cómo participar:<br/>Tanto los Fantasmas Negros nuevos como los ya existentes pueden recibir los siguientes objetos.
-LS_Info1ItemLabel=Objetos clave
+LS_Info1SubTitle=¡Consigue un Item especial!
+LS_Info1Text=Cómo participar:<br/>Tanto los Fantasmas Negros nuevos como los ya existentes pueden recibir los siguientes Items.
+LS_Info1ItemLabel=Items clave
 LS_Info2Title=¡Evento DOS!
 LS_Info2SubTitle=¡Evento especial de comprobación de inicio de sesión!
 LS_Info2Text=Cómo participar:<br/>Inicia sesión con tu personaje y, a continuación, compruébalo a través del icono de la izquierda del minimapa.
-LS_Info2ItemLabel=Objetos clave
+LS_Info2ItemLabel=Items clave
 LS_Info3Title=¡Evento TRES!
 LS_Info3SubTitle=¡Con el Black Phantom!
 LS_Info3Text=Cómo participar:<br/>Despeja Dungeons con un Black Phantom en tu grupo para conseguir recompensas extra.
-LS_Info3ItemLabel=Objetos clave
+LS_Info3ItemLabel=Items clave
 LS_Info4Title=
 LS_Info4SubTitle=
 LS_Info4Text=
@@ -8234,7 +8234,7 @@ LS_CancelStr=Cancelar (Esc)
 LS_Jian_Duration=
 LS_Jian_HeadText=El mundo es como una fragua que crea héroes.<br>El destino te colocará contra el yunque de las pruebas personales y te golpeará con el martillo del sufrimiento.<br>Aquellos que no se dobleguen ante tal agonía brillarán en rojo al calor, volviéndose cada vez más robustos y afilados.<br>De tu determinación dependerá que languidezcas en el montón de basura como chatarra o que te conviertas en una espada legendaria.<br>Resiste. Desafía. Seremos recordados como aquellos que lucharon por la gloriosa luz eterna.
 LS_Jian_MidTitle=Cómo participar
-LS_Jian_EventDesc=- Se añadirá el evento Misión diaria <font color='#FDC243'>La prueba de Jian Manas</font>.<br/>- Puedes usar el menú Misión diaria para ver el estado de la misión del evento.<br/>- Puedes entrar en la Dungeon del evento en Ohrdor para superar la Misión diaria y obtener recompensas especiales. <br/>- El objeto de evento <font color='#FE6D03'>Ficha de Jian Manas</font> puede canjearse a través del PNJ mercader del evento por varios objetos, incluidos <font color='#FE6D03'>dos nuevos Artefactos</font>.<br/>
+LS_Jian_EventDesc=- Se añadirá el evento Misión diaria <font color='#FDC243'>La prueba de Jian Manas</font>.<br/>- Puedes usar el menú Misión diaria para ver el estado de la misión del evento.<br/>- Puedes entrar en la Dungeon del evento en Ohrdor para superar la Misión diaria y obtener recompensas especiales. <br/>- El Item de evento <font color='#FE6D03'>Ficha de Jian Manas</font> puede canjearse a través del PNJ mercader del evento por varios Items, incluidos <font color='#FE6D03'>dos nuevos Artefactos</font>.<br/>
 LS_Jian_TailText=- El evento Misión Diaria se reinicia a las 5:00 AM todos los días.<br/>- El evento Misión Diaria proporciona recompensas triples si se juega desde un net café.
 LS_Jian_BtnLable=Cerrar
 
@@ -8272,7 +8272,7 @@ LS_AssistCountFormat=%s_1/%s_2
 [MU2GFxMessageBoxProtectionEnchant]
 LS_TitleStr=Encantado protegido
 LS_DescriptionStr0=¿Utilizar encantamiento protegido?
-LS_DescriptionStr1=1. El encantamiento protegido protege tu objeto contra la destrucción.<br>2. Mientras evita la destrucción del objeto, disminuye su nivel de encantamiento en 1.
+LS_DescriptionStr1=1. El encantamiento protegido protege tu Item contra la destrucción.<br>2. Mientras evita la destrucción del Item, disminuye su nivel de encantamiento en 1.
 LS_OKStr=OK (Espacio)
 LS_CancelStr=Cancelar (Esc)
 LS_HaveImputedRedZen=Redzen en posesión
@@ -8364,7 +8364,7 @@ LS_BoxTooltip=<font color='#FDC243'>Recompensa de recarga de sellos</font></b><b
 LS_PopupTitle=Recompensa por recarga de sellos
 LS_PopupGetDesc=Seleccione una de las recompensas.
 LS_PopupListDesc=Complete los 7 sellos para obtener una recompensa.
-LS_PopupDescTail=Los objetos que ya hayas ganado se eliminarán de las recompensas elegibles.<br />Recoger una recompensa reiniciara tu recuento de sellos.
+LS_PopupDescTail=Los Items que ya hayas ganado se eliminarán de las recompensas elegibles.<br />Recoger una recompensa reiniciara tu recuento de sellos.
 LS_PopupGetBtn=Obtener
 LS_PopupCloseBtn=Cerrar
 
@@ -8406,7 +8406,7 @@ LS_NPCShopInfoReward5_S2=Talismán antiguo cofre central
 
 [MU2GFxLegendBingo]
 LS_RewardTitle=Recompensa de bloque
-LS_RewardExplain=Selecciona objetos para usar como materiales.
+LS_RewardExplain=Selecciona Items para usar como materiales.
 LS_MyToken=Ticket de Bingo
 LS_ShopTitle=Tienda de Puntos de Bingo
 LS_BingoPoint=Puntos de Bingo
@@ -8454,7 +8454,7 @@ LS_InitStep3[0]=Paso 3. Información de compensación
 LS_InitStep3[1]=Información compensación
 LS_InitStep3[2]=Información de intercambio
 LS_InitStep3[3]=Información sobre el billete de artesano talismán
-LS_InitStep3[4]=1. Este objeto de tiempo limitado puede usarse hasta el 6 de agosto de 2019.<br>2. Puedes usarlo para crear Talismanes Antiguos a través de los artesanos.<br>3. Se comparte entre personajes de la misma cuenta.
+LS_InitStep3[4]=1. Este Item de tiempo limitado puede usarse hasta el 6 de agosto de 2019.<br>2. Puedes usarlo para crear Talismanes Antiguos a través de los artesanos.<br>3. Se comparte entre personajes de la misma cuenta.
 LS_InitStep3[5]=¿Revisaste la información de compensación?<br><font color='#FDC243'>Puedes revisar los detalles de compensación de tu entrada en el siguiente paso.</font>
 LS_InitStep3[6]=OK
 LS_InitStep3[7]=Cerrar
@@ -8616,7 +8616,7 @@ LS_IndicatorText_GetAchieveReward=Disponible para recibir recompensas de hazaña
 
 [MU2GFxMessageBoxExtractReward]
 LS_RewardTitle=Lista de recompensas
-LS_RewardDesc=Cuando se alcanza la tasa de carga objetivo, se puede obtener aleatoriamente <font color='#FE6D03'>1 tipo</font> de los objetos mostrados.<br>El medidor de tasa de carga se acumula y <font color=' Cuando se alcanza el #FE6D03'>100%</font>, se inicializa automáticamente.
+LS_RewardDesc=Cuando se alcanza la tasa de carga objetivo, se puede obtener aleatoriamente <font color='#FE6D03'>1 tipo</font> de los Items mostrados.<br>El medidor de tasa de carga se acumula y <font color=' Cuando se alcanza el #FE6D03'>100%</font>, se inicializa automáticamente.
 
 [MU2GFxDevildomRecord]
 LS_UITitle=Registro de la Comunidad
@@ -8802,17 +8802,17 @@ LS_CardTagEvent=EVENTO
 
 [MU2GFxCrossStone]
 LS_Title=Piedra cruzada
-LS_DescTop=Añadir un objeto en la ranura
-LS_DescBottom=El objeto se guardará en el almacén de la cuenta
+LS_DescTop=Añadir un Item en la ranura
+LS_DescBottom=El Item se guardará en el almacén de la cuenta
 LS_NeedItem=Requerido
-LS_SuccessDesc0=Puede sacar el objeto del almacén de la cuenta.
+LS_SuccessDesc0=Puede sacar el Item del almacén de la cuenta.
 LS_SuccessDesc1=
 LS_MakeSocketBtn=Confirmar
 
 [MU2GFxEnchantInherit]
 LS_Title=Heredar encantamiento
 LS_Desc1=Requerido
-LS_Desc2=- Transfiere el nivel de mejora al nuevo objeto.<br>- Solo se pueden colocar objetos de calidad infinita en la ranura de la derecha.<br>- Solo transfiere de calidad baja a calidad alta.<br>- El nivel de mejora de la izquierda debe ser mayor que el de la derecha.
+LS_Desc2=- Transfiere el nivel de mejora al nuevo Item.<br>- Solo se pueden colocar Items de calidad infinita en la ranura de la derecha.<br>- Solo transfiere de calidad baja a calidad alta.<br>- El nivel de mejora de la izquierda debe ser mayor que el de la derecha.
 LS_TargetItemSlot=Resultados esperados
 LS_SourceItemSlot=Artículo de origen
 LS_Inherit=Heredar
