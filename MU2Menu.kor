@@ -13,9 +13,9 @@ Option=Configuración del sistema
 Channel=Cambiar canal
 
 [PartyMenu]
-Charge=Designar líder del grupo
-Dismission=Desbandar
-RuleChange=Cambiar regla
+Charge=Designar líder del Party
+Dismission=Desarmar
+RuleChange=Cambiar reglas
 Banishment=Expulsar
 Leave=Abandonar
 
