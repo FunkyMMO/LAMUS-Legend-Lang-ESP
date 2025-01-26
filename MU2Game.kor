@@ -5331,14 +5331,14 @@ LS_ProtectedTicket_Title=Información de encantamiento
 LS_ProtectedTicket_Description=Para usar Billetes de Salvaguardia, haga clic en el botón Encantar Seguro.¶Los Billetes de Salvaguardia se consumen independientemente de los resultados del encantamiento.¶Para encantar sin Billetes de Salvaguardia, haga clic en Encantamiento Básico.¶El Encantamiento Básico tiene una posibilidad de destruir el Item objetivo en caso de fallo.
 
 [MU2GFxDamageReportView]
-LS_DamageReportString=Informe de Daños
+LS_DamageReportString=Informe de DPS
 LS_DetailInfoString=Detalles
-LS_NotifyMessage=Se han compilado los resultados detallados de la batalla.¶¿Ver informe de daños?
-LS_OpenDialogCheckBoxString=Ver informe de daños al salir de las Dungeons
+LS_NotifyMessage=Se han compilado los resultados detallados de la batalla.¶¿Ver informe de DPS?
+LS_OpenDialogCheckBoxString=Ver informe de DPS al salir de las Dungeons
 
 [MU2GFxDamageReport_DamageReport]
 LS_MyDamageString=Daño infligido a enemigos
-LS_PartyDPSString=DPS del partido
+LS_PartyDPSString=DPS del Party
 LS_DungeonNameString=Nombre de la Dungeon:
 LS_PlayTimeString=Tiempo de juego:
 LS_MemberDamageString=Daño a enemigos
