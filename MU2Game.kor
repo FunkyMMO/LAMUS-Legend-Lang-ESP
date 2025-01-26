@@ -1445,7 +1445,7 @@ ItemCreateSubCategory11501=Disfraz Premium
 [MU2GFxCharInfoView]
 LS_Title=Información del personaje
 LS_BasicInfo=General
-LS_AdditionalInfo=Adicional
+LS_AdditionalInfo=Estadísticas
 LS_HeroTitleLabel=Título: %s_1
 LS_NoneHeroTitle=Sin título
 LS_NoneGuild=Sin guild
@@ -3180,7 +3180,7 @@ LS_RequestMissinmap=¿Entrar %s_1?
 
 [MU2GFxCharOtherInfoView]
 LS_CombatPowerString=Poder de Combate
-LS_TitleString=Ver información de otro personaje
+LS_TitleString=Información de personaje
 LS_BasicInfo=General
 LS_DetailInfo=Adicional
 LS_AppearanceInfo=Apariencia
@@ -3218,9 +3218,9 @@ LS_NoHeroTitle=Sin título
 [MU2GFxCharOtherInfo_Basic]
 LS_AttackPower=Ataque
 LS_DefensePower=Defensa
-LS_EquipArtifact=Equipar artefacto
-LS_UseSkill=Habilidades en uso
-LS_UseSpecialSkill=Efectos pasivos actuales
+LS_EquipArtifact=Artefacto
+LS_UseSkill=Habilidades principales
+LS_UseSpecialSkill=Habilidades pasivas
 LS_CombatPower=Poder de combate
 LS_HeroTitleLabel=Título: %s_1
 LS_NoneHeroTitle=Sin título
@@ -3228,7 +3228,7 @@ LS_NoneGuild=No estás en un guild
 LS_AchieveGradeText=Grado de logros %s_1
 LS_AchieveGradeText_None=Sin nivel de logro
 LS_Online=En línea
-LS_OffLine=Fuera de línea
+LS_OffLine=Desconectado
 LS_LevelString=Nivel
 LS_EmptySlotString=Ranura vacía
 LS_Step=Etapa %s_1
@@ -3366,7 +3366,7 @@ strRewardCaptionNowConnEvent=¡Puede obtener su recompensa de inicio de sesión 
 
 [MU2GFxCommonDungeon]
 LS_Title=Entrar Dungeon
-LS_LODTitle=Información de dificultad
+LS_LODTitle=Dificultad
 LS_MissionmapTitle=Información del mapa de la misión
 LS_DetailInfo=Detalles
 LS_EnterConditionTitle=Requisitos de entrada
@@ -3384,8 +3384,8 @@ LS_ArtifactExplain=1. Tu artefacto de Mejora absorbe una cantidad diferente de E
 LS_btnEnter=Entrar (Espacio)
 LS_btnCreate=Intro (Barra espaciadora)
 LS_BtnCancel=Cancelar (Esc)
-LS_btnAutoPartyMatch=Acertar partido automáticamente
-LS_btnFindParty=Buscar partido
+LS_btnAutoPartyMatch=Aceptar party automáticamente
+LS_btnFindParty=Buscar party
 LS_ShowArtifactWigetBtnLabel=Gestionar artefactos
 LS_DungeonSelect=Seleccionar tipo de Dungeon
 LS_DifficultSelect=Seleccionar dificultad de la Dungeon
@@ -3533,7 +3533,7 @@ DungeonTag_9062331=Epic Dungeon
 DungeonTag_9062431=Epic Dungeon
 DungeonTag_9057003=Boss Content
 DungeonTag_9920101=Mapa de la misión
-DungeonTag_9920201=Talisman: Castillo de Sangre
+DungeonTag_9920201=Talisman: Blood Castle
 DungeonTag_9040101=Dungeon para un jugador
 DungeonTag_9040102=Dungeon de un jugador
 DungeonTag_9203001=Mapa de la misión
@@ -3811,7 +3811,7 @@ Dungeon_Desc_9062631=El dragón de fuego Valtheram, que se sacrificó al dios de
 Dungeon_Title_9920101=Endless Tower
 Dungeon_Desc_9920101=Una inmensa torre construida por Rugard y Bulcan.<br>Se dice que aquellos que superan el reto de escalar la torre obtienen un gran poder.<br><font color='#FDD889'>* El nivel de dificultad de la Torre sin fin varía en función del número de miembros de tu grupo.</font>
 Dungeon_Title_9920201=Blood Castle
-Dungeon_Desc_9920201=Un castillo de otro mundo en el que yace dormida Anilata, la líder de los Cruzados.<br>Recientemente, ha tenido lugar una disputa, instigada por los Demonios del Pandemónium, que quieren resucitar a Anilata para mantener a raya a Rugard.<br><font color='#FDD889'>* El nivel de dificultad del Castillo de Sangre varía en función del número de miembros de tu party.</font>
+Dungeon_Desc_9920201=Un castillo de otro mundo en el que yace dormida Anilata, la líder de los Cruzados.<br>Recientemente, ha tenido lugar una disputa, instigada por los Demonios del Pandemónium, que quieren resucitar a Anilata para mantener a raya a Rugard.<br><font color='#FDD889'>* El nivel de dificultad del Blood Castle varía en función del número de miembros de tu party.</font>
 Dungeon_Title_9040101=Sala del Despertar
 Dungeon_Desc_9040101=Un lugar que la Instructora Ashas ha creado en tu subconsciente con sus poderes telepáticos.<br>Veamos qué tipos de recuerdos se pueden encontrar aquí.
 Dungeon_Title_9040102=Sala de las Pruebas
@@ -3906,175 +3906,175 @@ LS_DungeonName[2]=Dungeon Normal
 LS_DungeonName[3]=Dungeon de búsqueda
 LS_DungeonName[4]=Dungeon épica
 LS_DungeonName[5]=Torre sin fin
-LS_DungeonName[6]=Castillo de sangre
-LS_DungeonLodDescByUiType0[0]=Valor del monstruo: 100%<br>Ataque del monstruo: 100%<br>Ganancia EXPP: 100%
-LS_DungeonLodDescByUiType0[1]=Monstruo HP:<font color='#11F210'> 205%</font><br>Monstruo Ataque:<font color='#11F210'> 105%</font><br>GananciaEXP:<font color='#11F210'> 105%</font>
-LS_DungeonLodDescByUiType0[2]=Monstruo HP:<font color='#11F210'> 310%</font><br>Monstruo Ataque:<font color='#11F210'> 110%</font><br>EXP Ganancia:<font color='#11F210'> 110%</font>
-LS_DungeonLodDescByUiType0[3]=Valor del Monstruo:<font color='#11F210'> 430%</font><br>Ataque del Monstruo:<font color='#11F210'> 120%</font><br>GananciaEXP:<font color='#11F210'> 115%</font>
-LS_DungeonLodDescByUiType0[4]=Valor del Monstruo:<font color='#11F210'> 550%</font><br>Ataque del Monstruo:<font color='#11F210'> 125%</font><br>GananciaEXP:<font color='#11F210'> 120%</font>
-LS_DungeonLodDescByUiType1[0]=Valor del monstruo: 100%<br>Ataque del monstruo: 100%<br>Ganancia EXPP: 100%
-LS_DungeonLodDescByUiType1[1]=Monstruo HP:<font color='#11F210'> 120%</font><br>Monstruo Ataque:<font color='#11F210'> 135%</font><br>GananciaEXP:<font color='#11F210'> 105%</font>
-LS_DungeonLodDescByUiType1[2]=Valor del Monstruo:<font color='#11F210'> 140%</font><br>Ataque del Monstruo:<font color='#11F210'> 170%</font><br>GananciaEXP:<font color='#11F210'> 110%</font>
-LS_DungeonLodDescByUiType1[3]=Valor del Monstruo:<font color='#11F210'> 160%</font><br>Ataque del Monstruo:<font color='#11F210'> 205%</font><br>Ganancia EXP:<font color='#11F210'> 115%</font>
-LS_DungeonLodDescByUiType1[4]=Valor del Monstruo:<font color='#11F210'> 180%</font><br>Ataque del Monstruo:<font color='#11F210'> 240%</font><br>GananciaEXP:<font color='#11F210'> 120%</font>
-LS_DungeonLodDescByUiType2[0]=Valor del monstruo: 100%<br>Ataque del monstruo: 100%<br>Ganancia EXPP: 100%
-LS_DungeonLodDescByUiType2[1]=Monstruo HP:<font color='#11F210'> 120%</font><br>Monstruo Ataque:<font color='#11F210'> 135%</font><br>GananciaEXP:<font color='#11F210'> 105%</font>
-LS_DungeonLodDescByUiType2[2]=Valor del Monstruo:<font color='#11F210'> 140%</font><br>Ataque del Monstruo:<font color='#11F210'> 170%</font><br>GananciaEXP:<font color='#11F210'> 110%</font>
-LS_DungeonLodDescByUiType2[3]=Valor del Monstruo:<font color='#11F210'> 160%</font><br>Ataque del Monstruo:<font color='#11F210'> 205%</font><br>Ganancia EXP:<font color='#11F210'> 115%</font>
-LS_DungeonLodDescByUiType2[4]=Monstruo HP:<font color='#11F210'> 180%</font><br>Monstruo Ataque:<font color='#11F210'> 240%</font><br>GananciaEXP:<font color='#11F210'> 120%</font>
-LS_DungeonLodDescByUiType3[0]=Valor del monstruo: 100%<br>Ataque del monstruo: 100%<br>Ganancia EXPP: 100%
-LS_DungeonLodDescByUiType3[1]=Monstruo HP:<font color='#11F210'> 120%</font><br>Monstruo Ataque:<font color='#11F210'> 135%</font><br>GananciaEXP:<font color='#11F210'> 105%</font>
-LS_DungeonLodDescByUiType3[2]=Valor del Monstruo:<font color='#11F210'> 140%</font><br>Ataque del Monstruo:<font color='#11F210'> 170%</font><br>GananciaEXP:<font color='#11F210'> 110%</font>
-LS_DungeonLodDescByUiType3[3]=Monstruo HP:<font color='#11F210'> 160%</font><br>Monstruo Ataque:<font color='#11F210'> 205%</font><br>GananciaEXP:<font color='#11F210'> 115%</font>
-LS_DungeonLodDescByUiType3[4]=Monstruo HP:<font color='#11F210'> 180%</font><br>Monstruo Ataque:<font color='#11F210'> 240%</font><br>GananciaEXP:<font color='#11F210'> 120%</font>
-LS_DungeonLodDescByUiType3[5]=Monstruo HP:<font color='#11F210'> 180%</font><br>Monstruo Ataque:<font color='#11F210'> 240%</font><br>EXP Ganancia:<font color='#11F210'> 120%</font>
-LS_DungeonLodDescByUiType3[6]=Monstruo HP:<font color='#11F210'> 180%</font><br>Monstruo Ataque:<font color='#11F210'> 240%</font><br>GananciaEXP:<font color='#11F210'> 120%</font>
-LS_DungeonLodDescByUiType3[7]=Monstruo HP:<font color='#11F210'> 180%</font><br>Monstruo Ataque:<font color='#11F210'> 240%</font><br>GananciaEXP:<font color='#11F210'> 120%</font>
-LS_DungeonLodDescByUiType3[8]=Monstruo HP:<font color='#11F210'> 180%</font><br>Monstruo Ataque:<font color='#11F210'> 240%</font><br>GananciaEXP:<font color='#11F210'> 120%</font>
-LS_DungeonLodDescByUiType3[9]=Monstruo HP:<font color='#11F210'> 180%</font><br>Monstruo Ataque:<font color='#11F210'> 240%</font><br>GananciaEXP:<font color='#11F210'> 120%</font>
-LS_DungeonLodDescByUiType3_9800110_0=Monstruo HP: 100%<br>Monstruo Ataque: 100%<br>Ganancia EXPP: 100%
-LS_DungeonLodDescByUiType3_9800110_1=Monstruo HP:<font color='#11F210'> 120%</font><br>Monstruo Ataque:<font color='#11F210'> 135%</font><br>GananciaEXP:<font color='#11F210'> 105%</font>
-LS_DungeonLodDescByUiType3_9800110_2=Monstruo HP:<font color='#11F210'> 140%</font><br>Monstruo Ataque:<font color='#11F210'> 170%</font><br>GananciaEXP:<font color='#11F210'> 110%</font>
-LS_DungeonLodDescByUiType3_9800110_3=Monstruo HP:<font color='#11F210'> 160%</font><br>Monstruo Ataque:<font color='#11F210'> 205%</font><br>GananciaEXP:<font color='#11F210'> 115%</font>
-LS_DungeonLodDescByUiType3_9800110_4=Monstruo HP:<font color='#11F210'> 180%</font><br>Monstruo Ataque:<font color='#11F210'> 240%</font><br>GananciaEXP:<font color='#11F210'> 120%</font>
-LS_DungeonLodDescByUiType3_9800110_5=Monstruo HP:<font color='#11F210'> 180%</font><br>Monstruo Ataque:<font color='#11F210'> 240%</font><br>GananciaEXP:<font color='#11F210'> 120%</font>
-LS_DungeonLodDescByUiType3_9800110_6=Monstruo HP:<font color='#11F210'> 180%</font><br>Monstruo Ataque:<font color='#11F210'> 240%</font><br>GananciaEXP:<font color='#11F210'> 120%</font>
-LS_DungeonLodDescByUiType3_9800110_7=Monstruo HP:<font color='#11F210'> 180%</font><br>Monstruo Ataque:<font color='#11F210'> 240%</font><br>Ganancia EXP:<font color='#11F210'> 120%</font>
-LS_DungeonLodDescByUiType3_9800110_8=Monstruo HP:<font color='#11F210'> 180%</font><br>Monstruo Ataque:<font color='#11F210'> 240%</font><br>Ganancia EXP:<font color='#11F210'> 120%</font>
-LS_DungeonLodDescByUiType3_9800110_9=Monstruo HP:<font color='#11F210'> 180%</font><br>Monstruo Ataque:<font color='#11F210'> 240%</font><br>GananciaEXP:<font color='#11F210'> 120%</font>
-LS_DungeonLodDescByUiType3_9602001_5=Monstruo HP:<font color='#11F210'> 840%</font><br>Monstruo Ataque:<font color='#11F210'> 855%</font><br>GananciaEXP:<font color='#11F210'> 150%</font>
-LS_DungeonLodDescByUiType3_9604001_0=Monstruo HP<font color='#11F210'> 176%</font><br>Monstruo Attack<font color='#11F210'> 237%</font><br>EXP Gain<font color='#11F210'> 174%</font>
-LS_DungeonLodDescByUiType3_9686001_2=Monstruo HP:<font color='#11F210'> 987%</font><br>Monstruo Ataque:<font color='#11F210'> 892%</font><br>GananciaEXP:<font color='#11F210'> 574%</font>
-LS_DungeonLodDescByUiType3_9620201_1=Monstruo HP<font color='#11F210'> 508%</font><br>Monstruo Attack<font color='#11F210'> 524%</font><br>EXP Gain<font color='#11F210'> 372%</font>
-LS_DungeonLodDescByUiType3_9960610_0=Monstruo HP <font color='#11F210'>987%</font><br>Monstruo Ataque <font color='#11F210'>892%</font><br>Ganancia EXP <font color='#11F210'>574%</font>
-LS_DungeonLodDescByUiType3_9960810_0=Monstruo HP <font color='#11F210'>987%</font><br>Monstruo Ataque <font color='#11F210'>892%</font><br>Ganancia EXP <font color='#11F210'>574%</font>
-LS_DungeonLodDescByUiType4_9050431_0=Monstruo HP<font color='#11F210'> 1,681%</font><br>Monstruo Attack<font color='#11F210'> 456%</font><br>EXP Gain 100%
-LS_DungeonLodDescByUiType4_9050431_1=Monstruo HP<font color='#11F210'> 2,130%</font><br>Monstruo Attack<font color='#11F210'> 551%</font><br>EXP Gain<font color='#11F210'>105%</font>
-LS_DungeonLodDescByUiType4_9050431_2=Monstruo HP<font color='#11F210'> 2,580%</font><br>Monstruo Attack<font color='#11F210'> 655%</font><br>EXP Gain<font color='#11F210'>110%</font>
-LS_DungeonLodDescByUiType4_9050431_3=Monstruo HP<font color='#11F210'> 3,030%</font><br>Monstruo Attack<font color='#11F210'> 769%</font><br>EXP Gain<font color='#11F210'>115%</font>
-LS_DungeonLodDescByUiType4_9050431_4=Monstruo HP<font color='#11F210'> 3,479%</font><br>Monstruo Attack<font color='#11F210'> 893%</font><br>EXP Gain<font color='#11F210'>120%</font>
-LS_DungeonLodDescByUiType4_9050431_5=Monstruo HP<font color='#11F210'> 4,105%</font><br>Monstruo Attack<font color='#11F210'> 1,102%</font><br>EXP Gain<font color='#11F210'>182%</font>
-LS_DungeonLodDescByUiType4_9050431_6=Monstruo HP<font color='#11F210'> 5,200%</font><br>Monstruo Attack<font color='#11F210'> 1,482%</font><br>EXP Gain<font color='#11F210'>220%</font>
+LS_DungeonName[6]=Blood Castle
+LS_DungeonLodDescByUiType0[0]=Vida de enemigos: 100%<br>Ataque de enemigos: 100%<br>Ganancia EXP: 100%
+LS_DungeonLodDescByUiType0[1]=Vida de enemigos:<font color='#11F210'> 205%</font><br>Ataque de enemigos:<font color='#11F210'> 105%</font><br>Ganancia EXP:<font color='#11F210'> 105%</font>
+LS_DungeonLodDescByUiType0[2]=Vida de enemigos:<font color='#11F210'> 310%</font><br>Ataque de enemigos:<font color='#11F210'> 110%</font><br>EXP Ganancia:<font color='#11F210'> 110%</font>
+LS_DungeonLodDescByUiType0[3]=Vida de enemigos:<font color='#11F210'> 430%</font><br>Ataque de enemigos:<font color='#11F210'> 120%</font><br>Ganancia EXP:<font color='#11F210'> 115%</font>
+LS_DungeonLodDescByUiType0[4]=Vida de enemigos:<font color='#11F210'> 550%</font><br>Ataque de enemigos:<font color='#11F210'> 125%</font><br>Ganancia EXP:<font color='#11F210'> 120%</font>
+LS_DungeonLodDescByUiType1[0]=Vida de enemigos: 100%<br>Ataque de enemigos: 100%<br>Ganancia EXP: 100%
+LS_DungeonLodDescByUiType1[1]=Vida de enemigos:<font color='#11F210'> 120%</font><br>Ataque de enemigos:<font color='#11F210'> 135%</font><br>Ganancia EXP:<font color='#11F210'> 105%</font>
+LS_DungeonLodDescByUiType1[2]=Vida de enemigos:<font color='#11F210'> 140%</font><br>Ataque de enemigos:<font color='#11F210'> 170%</font><br>Ganancia EXP:<font color='#11F210'> 110%</font>
+LS_DungeonLodDescByUiType1[3]=Vida de enemigos:<font color='#11F210'> 160%</font><br>Ataque de enemigos:<font color='#11F210'> 205%</font><br>Ganancia EXP:<font color='#11F210'> 115%</font>
+LS_DungeonLodDescByUiType1[4]=Vida de enemigos:<font color='#11F210'> 180%</font><br>Ataque de enemigos:<font color='#11F210'> 240%</font><br>Ganancia EXP:<font color='#11F210'> 120%</font>
+LS_DungeonLodDescByUiType2[0]=Vida de enemigos: 100%<br>Ataque de enemigos: 100%<br>Ganancia EXP: 100%
+LS_DungeonLodDescByUiType2[1]=Vida de enemigos:<font color='#11F210'> 120%</font><br>Ataque de enemigos:<font color='#11F210'> 135%</font><br>Ganancia EXP:<font color='#11F210'> 105%</font>
+LS_DungeonLodDescByUiType2[2]=Vida de enemigos:<font color='#11F210'> 140%</font><br>Ataque de enemigos:<font color='#11F210'> 170%</font><br>Ganancia EXP:<font color='#11F210'> 110%</font>
+LS_DungeonLodDescByUiType2[3]=Vida de enemigos:<font color='#11F210'> 160%</font><br>Ataque de enemigos:<font color='#11F210'> 205%</font><br>Ganancia EXP:<font color='#11F210'> 115%</font>
+LS_DungeonLodDescByUiType2[4]=Vida de enemigos:<font color='#11F210'> 180%</font><br>Ataque de enemigos:<font color='#11F210'> 240%</font><br>Ganancia EXP:<font color='#11F210'> 120%</font>
+LS_DungeonLodDescByUiType3[0]=Vida de enemigos: 100%<br>Ataque de enemigos: 100%<br>Ganancia EXP: 100%
+LS_DungeonLodDescByUiType3[1]=Vida de enemigos:<font color='#11F210'> 120%</font><br>Ataque de enemigos:<font color='#11F210'> 135%</font><br>Ganancia EXP:<font color='#11F210'> 105%</font>
+LS_DungeonLodDescByUiType3[2]=Vida de enemigos:<font color='#11F210'> 140%</font><br>Ataque de enemigos:<font color='#11F210'> 170%</font><br>Ganancia EXP:<font color='#11F210'> 110%</font>
+LS_DungeonLodDescByUiType3[3]=Vida de enemigos:<font color='#11F210'> 160%</font><br>Ataque de enemigos:<font color='#11F210'> 205%</font><br>Ganancia EXP:<font color='#11F210'> 115%</font>
+LS_DungeonLodDescByUiType3[4]=Vida de enemigos:<font color='#11F210'> 180%</font><br>Ataque de enemigos:<font color='#11F210'> 240%</font><br>Ganancia EXP:<font color='#11F210'> 120%</font>
+LS_DungeonLodDescByUiType3[5]=Vida de enemigos:<font color='#11F210'> 180%</font><br>Ataque de enemigos:<font color='#11F210'> 240%</font><br>EXP Ganancia:<font color='#11F210'> 120%</font>
+LS_DungeonLodDescByUiType3[6]=Vida de enemigos:<font color='#11F210'> 180%</font><br>Ataque de enemigos:<font color='#11F210'> 240%</font><br>Ganancia EXP:<font color='#11F210'> 120%</font>
+LS_DungeonLodDescByUiType3[7]=Vida de enemigos:<font color='#11F210'> 180%</font><br>Ataque de enemigos:<font color='#11F210'> 240%</font><br>Ganancia EXP:<font color='#11F210'> 120%</font>
+LS_DungeonLodDescByUiType3[8]=Vida de enemigos:<font color='#11F210'> 180%</font><br>Ataque de enemigos:<font color='#11F210'> 240%</font><br>Ganancia EXP:<font color='#11F210'> 120%</font>
+LS_DungeonLodDescByUiType3[9]=Vida de enemigos:<font color='#11F210'> 180%</font><br>Ataque de enemigos:<font color='#11F210'> 240%</font><br>Ganancia EXP:<font color='#11F210'> 120%</font>
+LS_DungeonLodDescByUiType3_9800110_0=Vida de enemigos: 100%<br>Ataque de enemigos: 100%<br>Ganancia EXP: 100%
+LS_DungeonLodDescByUiType3_9800110_1=Vida de enemigos:<font color='#11F210'> 120%</font><br>Ataque de enemigos:<font color='#11F210'> 135%</font><br>Ganancia EXP:<font color='#11F210'> 105%</font>
+LS_DungeonLodDescByUiType3_9800110_2=Vida de enemigos:<font color='#11F210'> 140%</font><br>Ataque de enemigos:<font color='#11F210'> 170%</font><br>Ganancia EXP:<font color='#11F210'> 110%</font>
+LS_DungeonLodDescByUiType3_9800110_3=Vida de enemigos:<font color='#11F210'> 160%</font><br>Ataque de enemigos:<font color='#11F210'> 205%</font><br>Ganancia EXP:<font color='#11F210'> 115%</font>
+LS_DungeonLodDescByUiType3_9800110_4=Vida de enemigos:<font color='#11F210'> 180%</font><br>Ataque de enemigos:<font color='#11F210'> 240%</font><br>Ganancia EXP:<font color='#11F210'> 120%</font>
+LS_DungeonLodDescByUiType3_9800110_5=Vida de enemigos:<font color='#11F210'> 180%</font><br>Ataque de enemigos:<font color='#11F210'> 240%</font><br>Ganancia EXP:<font color='#11F210'> 120%</font>
+LS_DungeonLodDescByUiType3_9800110_6=Vida de enemigos:<font color='#11F210'> 180%</font><br>Ataque de enemigos:<font color='#11F210'> 240%</font><br>Ganancia EXP:<font color='#11F210'> 120%</font>
+LS_DungeonLodDescByUiType3_9800110_7=Vida de enemigos:<font color='#11F210'> 180%</font><br>Ataque de enemigos:<font color='#11F210'> 240%</font><br>Ganancia EXP:<font color='#11F210'> 120%</font>
+LS_DungeonLodDescByUiType3_9800110_8=Vida de enemigos:<font color='#11F210'> 180%</font><br>Ataque de enemigos:<font color='#11F210'> 240%</font><br>Ganancia EXP:<font color='#11F210'> 120%</font>
+LS_DungeonLodDescByUiType3_9800110_9=Vida de enemigos:<font color='#11F210'> 180%</font><br>Ataque de enemigos:<font color='#11F210'> 240%</font><br>Ganancia EXP:<font color='#11F210'> 120%</font>
+LS_DungeonLodDescByUiType3_9602001_5=Vida de enemigos:<font color='#11F210'> 840%</font><br>Ataque de enemigos:<font color='#11F210'> 855%</font><br>Ganancia EXP:<font color='#11F210'> 150%</font>
+LS_DungeonLodDescByUiType3_9604001_0=Vida de enemigos<font color='#11F210'> 176%</font><br>Monstruo Attack<font color='#11F210'> 237%</font><br>EXP Gain<font color='#11F210'> 174%</font>
+LS_DungeonLodDescByUiType3_9686001_2=Vida de enemigos:<font color='#11F210'> 987%</font><br>Ataque de enemigos:<font color='#11F210'> 892%</font><br>Ganancia EXP:<font color='#11F210'> 574%</font>
+LS_DungeonLodDescByUiType3_9620201_1=Vida de enemigos<font color='#11F210'> 508%</font><br>Monstruo Attack<font color='#11F210'> 524%</font><br>EXP Gain<font color='#11F210'> 372%</font>
+LS_DungeonLodDescByUiType3_9960610_0=Vida de enemigos <font color='#11F210'>987%</font><br>Ataque de enemigos <font color='#11F210'>892%</font><br>Ganancia EXP <font color='#11F210'>574%</font>
+LS_DungeonLodDescByUiType3_9960810_0=Vida de enemigos <font color='#11F210'>987%</font><br>Ataque de enemigos <font color='#11F210'>892%</font><br>Ganancia EXP <font color='#11F210'>574%</font>
+LS_DungeonLodDescByUiType4_9050431_0=Vida de enemigos<font color='#11F210'> 1,681%</font><br>Monstruo Attack<font color='#11F210'> 456%</font><br>EXP Gain 100%
+LS_DungeonLodDescByUiType4_9050431_1=Vida de enemigos<font color='#11F210'> 2,130%</font><br>Monstruo Attack<font color='#11F210'> 551%</font><br>EXP Gain<font color='#11F210'>105%</font>
+LS_DungeonLodDescByUiType4_9050431_2=Vida de enemigos<font color='#11F210'> 2,580%</font><br>Monstruo Attack<font color='#11F210'> 655%</font><br>EXP Gain<font color='#11F210'>110%</font>
+LS_DungeonLodDescByUiType4_9050431_3=Vida de enemigos<font color='#11F210'> 3,030%</font><br>Monstruo Attack<font color='#11F210'> 769%</font><br>EXP Gain<font color='#11F210'>115%</font>
+LS_DungeonLodDescByUiType4_9050431_4=Vida de enemigos<font color='#11F210'> 3,479%</font><br>Monstruo Attack<font color='#11F210'> 893%</font><br>EXP Gain<font color='#11F210'>120%</font>
+LS_DungeonLodDescByUiType4_9050431_5=Vida de enemigos<font color='#11F210'> 4,105%</font><br>Monstruo Attack<font color='#11F210'> 1,102%</font><br>EXP Gain<font color='#11F210'>182%</font>
+LS_DungeonLodDescByUiType4_9050431_6=Vida de enemigos<font color='#11F210'> 5,200%</font><br>Monstruo Attack<font color='#11F210'> 1,482%</font><br>EXP Gain<font color='#11F210'>220%</font>
 LS_DungeonLodDescByUiType4_9050431_7=PV monstruo<font color='#11F210'> 6,842%</font><br>Ataque monstruo<font color='#11F210'> 2,080%</font><br>Ganancia EXP<font color='#11F210'>262%</font>
-LS_DungeonLodDescByUiType4_9050431_8=Monstruo HP<font color='#11F210'> 9,110%</font><br>Monstruo Ataque<font color='#11F210'> 2,945%</font><br>Ganancia EXP<font color='#11F210'>310%</font>
-LS_DungeonLodDescByUiType4_9050431_9=Monstruo HP<font color='#11F210'> 12,081%</font><br>Monstruo Attack<font color='#11F210'> 4,123%</font><br>EXP Gain<font color='#11F210'>362%</font>
-LS_DungeonLodDescByUiType4_9030331_0=Monstruo HP<font color='#11F210'> 1,681%</font><br>Monstruo Ataque<font color='#11F210'> 456%</font><br>Ganancia EXP 100%
-LS_DungeonLodDescByUiType4_9030331_1=Monstruo HP<font color='#11F210'> 2,130%</font><br>Monstruo Attack<font color='#11F210'> 551%</font><br>EXP Gain<font color='#11F210'>105%</font>
-LS_DungeonLodDescByUiType4_9030331_2=Monstruo HP<font color='#11F210'> 2,580%</font><br>Monstruo Attack<font color='#11F210'> 655%</font><br>EXP Gain<font color='#11F210'>110%</font>
-LS_DungeonLodDescByUiType4_9030331_3=Monstruo HP<font color='#11F210'> 3,030%</font><br>Monstruo Attack<font color='#11F210'> 769%</font><br>EXP Gain<font color='#11F210'>115%</font>
-LS_DungeonLodDescByUiType4_9030331_4=Monstruo HP<font color='#11F210'> 3,479%</font><br>Monstruo Attack<font color='#11F210'> 893%</font><br>EXP Gain<font color='#11F210'>120%</font>
-LS_DungeonLodDescByUiType4_9030331_5=Monstruo HP<font color='#11F210'> 4,105%</font><br>Monstruo Attack<font color='#11F210'> 1,102%</font><br>EXP Gain<font color='#11F210'>182%</font>
-LS_DungeonLodDescByUiType4_9030331_6=Monstruo HP<font color='#11F210'> 5,200%</font><br>Monstruo Attack<font color='#11F210'> 1,482%</font><br>EXP Gain<font color='#11F210'>220%</font>
+LS_DungeonLodDescByUiType4_9050431_8=Vida de enemigos<font color='#11F210'> 9,110%</font><br>Ataque de enemigos<font color='#11F210'> 2,945%</font><br>Ganancia EXP<font color='#11F210'>310%</font>
+LS_DungeonLodDescByUiType4_9050431_9=Vida de enemigos<font color='#11F210'> 12,081%</font><br>Monstruo Attack<font color='#11F210'> 4,123%</font><br>EXP Gain<font color='#11F210'>362%</font>
+LS_DungeonLodDescByUiType4_9030331_0=Vida de enemigos<font color='#11F210'> 1,681%</font><br>Ataque de enemigos<font color='#11F210'> 456%</font><br>Ganancia EXP 100%
+LS_DungeonLodDescByUiType4_9030331_1=Vida de enemigos<font color='#11F210'> 2,130%</font><br>Monstruo Attack<font color='#11F210'> 551%</font><br>EXP Gain<font color='#11F210'>105%</font>
+LS_DungeonLodDescByUiType4_9030331_2=Vida de enemigos<font color='#11F210'> 2,580%</font><br>Monstruo Attack<font color='#11F210'> 655%</font><br>EXP Gain<font color='#11F210'>110%</font>
+LS_DungeonLodDescByUiType4_9030331_3=Vida de enemigos<font color='#11F210'> 3,030%</font><br>Monstruo Attack<font color='#11F210'> 769%</font><br>EXP Gain<font color='#11F210'>115%</font>
+LS_DungeonLodDescByUiType4_9030331_4=Vida de enemigos<font color='#11F210'> 3,479%</font><br>Monstruo Attack<font color='#11F210'> 893%</font><br>EXP Gain<font color='#11F210'>120%</font>
+LS_DungeonLodDescByUiType4_9030331_5=Vida de enemigos<font color='#11F210'> 4,105%</font><br>Monstruo Attack<font color='#11F210'> 1,102%</font><br>EXP Gain<font color='#11F210'>182%</font>
+LS_DungeonLodDescByUiType4_9030331_6=Vida de enemigos<font color='#11F210'> 5,200%</font><br>Monstruo Attack<font color='#11F210'> 1,482%</font><br>EXP Gain<font color='#11F210'>220%</font>
 LS_DungeonLodDescByUiType4_9030331_7=PV monstruo<font color='#11F210'> 6,842%</font><br>Ataque monstruo<font color='#11F210'> 2,080%</font><br>Ganancia EXP<font color='#11F210'>262%</font>
-LS_DungeonLodDescByUiType4_9030331_8=Monstruo HP<font color='#11F210'> 9,110%</font><br>Monstruo Attack<font color='#11F210'> 2,945%</font><br>EXP Gain<font color='#11F210'>310%</font>
-LS_DungeonLodDescByUiType4_9030331_9=Monstruo HP<font color='#11F210'> 12,081%</font><br>Monstruo Attack<font color='#11F210'> 4,123%</font><br>EXP Gain<font color='#11F210'>362%</font>
-LS_DungeonLodDescByUiType4_9062331_0=Monstruo HP<font color='#11F210'> 1,527%</font><br>Monstruo Attack<font color='#11F210'> 368%</font><br>EXP Gain<font color='#11F210'> 847%</font>
-LS_DungeonLodDescByUiType4_9062331_1=Monstruo HP<font color='#11F210'> 4,246%</font><br>Monstruo Attack<font color='#11F210'> 878%</font><br>EXP Gain<font color='#11F210'> 2,111%</font>
-LS_DungeonLodDescByUiType4_9062331_2=Monstruo HP<font color='#11F210'> 7,424%</font><br>Monstruo Attack<font color='#11F210'> 1,307%</font><br>EXP Gain<font color='#11F210'>5,153%</font>
-LS_DungeonLodDescByUiType4_9062431_0=Monstruo HP <font color='#11F210'>5,091%</font><br>Monstruo Ataque <font color='#11F210'>1,440%</font><br>Ganancia EXP <font color='#11F210'>1,817%</font>
-LS_DungeonLodDescByUiType4_9062431_1=Monstruo HP <font color='#11F210'>12,132%</font><br>Monstruo Ataque <font color='#11F210'>3,200%</font><br>Ganancia EXP <font color='#11F210'>5,277%</font>
-LS_DungeonLodDescByUiType4_9062431_2=Monstruo HP <font color='#11F210'>21,213%</font><br>Monstruo Ataque <font color='#11F210'>4,500%</font><br>Ganancia EXP <font color='#11F210'>12,882%</font>
-LS_DungeonLodDescByUiType4_9057003_0=Monstruo HP <font color='#11F210'>5,091%</font><br>Monstruo Ataque <font color='#11F210'>1,440%</font><br>Ganancia EXP <font color='#11F210'>1,817%</font>
-LS_DungeonLodDescByUiType4_9057003_1=Monstruo HP <font color='#11F210'>12,132%</font><br>Monstruo Ataque <font color='#11F210'>3,200%</font><br>Ganancia EXP <font color='#11F210'>5,277%</font>
-LS_DungeonLodDescByUiType4_9057003_2=Monstruo HP <font color='#11F210'>21,213%</font><br>Monstruo Ataque <font color='#11F210'>4,500%</font><br>Ganancia EXP <font color='#11F210'>12,882%</font>
-LS_DungeonLodDescByUiType5[0]=Valor del monstruo: 100%<br>Ataque del monstruo: 100%<br>Ganancia de XP: 100%
-LS_DungeonLodDescByUiType5[1]=Monstruo HP:<font color='#11F210'> 205%</font><br>Monstruo Ataque:<font color='#11F210'> 105%</font><br>EXP Ganancia:<font color='#11F210'> 100%</font>
-LS_DungeonLodDescByUiType5[2]=Monstruo HP:<font color='#11F210'> 310%</font><br>Monstruo Ataque:<font color='#11F210'> 110%</font><br>GananciaEXP:<font color='#11F210'> 100%</font>
-LS_DungeonLodDescByUiType5[3]=Valor del Monstruo:<font color='#11F210'> 430%</font><br>Ataque del Monstruo:<font color='#11F210'> 120%</font>Ganancia EXP:<font color='#11F210'> 100%</font>
-LS_DungeonLodDescByUiType5[4]=Valor del Monstruo:<font color='#11F210'> 550%</font><br>Ataque del Monstruo:<font color='#11F210'> 125%</font>Ganancia EXP:<font color='#11F210'> 100%</font>
-LS_DungeonLodDescByUiType6_9050822_0=Monstruo HP:<font color='#11F210'> 200%</font><br>Monstruo Ataque:<font color='#11F210'> 305%</font><br>GananciaEXP:<font color='#11F210'> 125%</font>
-LS_DungeonLodDescByUiType6_9050822_1=Monstruo HP:<font color='#11F210'> 315%</font><br>Monstruo Ataque:<font color='#11F210'> 390%</font><br>Ganancia EXP:<font color='#11F210'> 130%</font>
-LS_DungeonLodDescByUiType6_9050822_2=Valor del monstruo:<font color='#11F210'> 430%</font><br>Ataque del monstruo:<font color='#11F210'> 480%</font><br>Ganancia EXP:<font color='#11F210'> 135%</font>
-LS_DungeonLodDescByUiType6_9050822_3=Valor del monstruo:<font color='#11F210'> 545%</font><br>Ataque del monstruo:<font color='#11F210'> 575%</font><br>Ganancia EXP:<font color='#11F210'> 140%</font>
-LS_DungeonLodDescByUiType6_9050822_4=Valor del monstruo:<font color='#11F210'> 660%</font><br>Ataque del monstruo:<font color='#11F210'> 675%</font><br>Ganancia EXP:<font color='#11F210'> 145%</font>
-LS_DungeonLodDescByUiType6_9050822_5=Monstruo HP:<font color='#11F210'> 840%</font><br>Monstruo Ataque:<font color='#11F210'> 855%</font><br>GananciaEXP:<font color='#11F210'> 150%</font>
-LS_DungeonLodDescByUiType6_9050822_6=Monstruo HP:<font color='#11F210'> 1,120%</font><br>Monstruo Ataque:<font color='#11F210'> 1,135%</font><br>GananciaEXP:<font color='#11F210'> 182%</font>
-LS_DungeonLodDescByUiType6_9050822_7=Valor del monstruo:<font color='#11F210'> 1.520%</font><br>Ataque del monstruo:<font color='#11F210'> 1.535%</font><br>Ganancia EXP:<font color='#11F210'> 220%</font>
-LS_DungeonLodDescByUiType6_9050822_8=Valor del monstruo:<font color='#11F210'> 2,060%</font><br>Ataque del monstruo:<font color='#11F210'> 2,075%</font><br>Ganancia EXP:<font color='#11F210'> 262%</font>
-LS_DungeonLodDescByUiType6_9050822_9=Valor del monstruo:<font color='#11F210'> 2,760%</font><br>Ataque del monstruo:<font color='#11F210'> 2,775%</font><br>Ganancia EXP:<font color='#11F210'> 310%</font>
-LS_DungeonLodDescByUiType6_9030321_0=Monstruo HP:<font color='#11F210'> 200%</font><br>Monstruo Ataque:<font color='#11F210'> 305%</font><br>GananciaEXP:<font color='#11F210'> 125%</font>
-LS_DungeonLodDescByUiType6_9030321_1=Monstruo HP:<font color='#11F210'> 315%</font><br>Monstruo Ataque:<font color='#11F210'> 390%</font><br>Ganancia EXP:<font color='#11F210'> 130%</font>
-LS_DungeonLodDescByUiType6_9030321_2=Monstruo HP:<font color='#11F210'> 430%</font><br>Monstruo Ataque:<font color='#11F210'> 480%</font><br>Ganancia EXP:<font color='#11F210'> 135%</font>
-LS_DungeonLodDescByUiType6_9030321_3=Valor del monstruo:<font color='#11F210'> 545%</font><br>Ataque del monstruo:<font color='#11F210'> 575%</font><br>Ganancia EXP:<font color='#11F210'> 140%</font>
-LS_DungeonLodDescByUiType6_9030321_4=Valor del monstruo:<font color='#11F210'> 660%</font><br>Ataque del monstruo:<font color='#11F210'> 675%</font><br>Ganancia EXP:<font color='#11F210'> 145%</font>
-LS_DungeonLodDescByUiType6_9030321_5=Valor del monstruo:<font color='#11F210'> 840%</font><br>Ataque del monstruo:<font color='#11F210'> 855%</font><br>Ganancia EXP:<font color='#11F210'> 150%</font>
-LS_DungeonLodDescByUiType6_9030321_6=Monstruo HP:<font color='#11F210'> 1,120%</font><br>Monstruo Ataque:<font color='#11F210'> 1,135%</font><br>Ganancia EXP:<font color='#11F210'> 182%</font>
-LS_DungeonLodDescByUiType6_9030321_7=Valor del monstruo:<font color='#11F210'> 1,520%</font><br>Ataque del monstruo:<font color='#11F210'> 1,535%</font><br>Ganancia EXP:<font color='#11F210'> 220%</font>
-LS_DungeonLodDescByUiType6_9030321_8=Valor del monstruo:<font color='#11F210'> 2,060%</font><br>Ataque del monstruo:<font color='#11F210'> 2,075%</font><br>Ganancia EXP:<font color='#11F210'> 262%</font>
-LS_DungeonLodDescByUiType6_9030321_9=Valor del monstruo:<font color='#11F210'> 2,760%</font><br>Ataque del monstruo:<font color='#11F210'> 2,775%</font><br>Ganancia EXP:<font color='#11F210'> 310%</font>
-LS_DungeonLodDescByUiType6_9020321_0=Monstruo HP:<font color='#11F210'> 200%</font><br>Monstruo Ataque:<font color='#11F210'> 305%</font><br>GananciaEXP:<font color='#11F210'> 125%</font>
-LS_DungeonLodDescByUiType6_9020321_1=Monstruo HP:<font color='#11F210'> 315%</font><br>Monstruo Ataque:<font color='#11F210'> 390%</font><br>Ganancia EXP:<font color='#11F210'> 130%</font>
-LS_DungeonLodDescByUiType6_9020321_2=Monstruo HP:<font color='#11F210'> 430%</font><br>Monstruo Ataque:<font color='#11F210'> 480%</font><br>Ganancia EXP:<font color='#11F210'> 135%</font>
-LS_DungeonLodDescByUiType6_9020321_3=Valor del monstruo:<font color='#11F210'> 545%</font><br>Ataque del monstruo:<font color='#11F210'> 575%</font><br>Ganancia EXP:<font color='#11F210'> 140%</font>
-LS_DungeonLodDescByUiType6_9020321_4=Monstruo HP:<font color='#11F210'> 660%</font><br>Monstruo Ataque:<font color='#11F210'> 675%</font><br>GananciaEXP:<font color='#11F210'> 145%</font>
-LS_DungeonLodDescByUiType6_9020321_5=Valor del monstruo:<font color='#11F210'> 840%</font><br>Ataque del monstruo:<font color='#11F210'> 855%</font><br>Ganancia EXP:<font color='#11F210'> 150%</font>
-LS_DungeonLodDescByUiType6_9020321_6=Monstruo HP:<font color='#11F210'> 1,120%</font><br>Monstruo Ataque:<font color='#11F210'> 1,135%</font><br>Ganancia EXP:<font color='#11F210'> 182%</font>
-LS_DungeonLodDescByUiType6_9020321_7=Valor del monstruo:<font color='#11F210'> 1,520%</font><br>Ataque del monstruo:<font color='#11F210'> 1,535%</font><br>Ganancia EXP:<font color='#11F210'> 220%</font>
-LS_DungeonLodDescByUiType6_9020321_8=Valor del monstruo:<font color='#11F210'> 2,060%</font><br>Ataque del monstruo:<font color='#11F210'> 2,075%</font><br>Ganancia EXP:<font color='#11F210'> 262%</font>
-LS_DungeonLodDescByUiType6_9020321_9=Valor del monstruo:<font color='#11F210'> 2,760%</font><br>Ataque del monstruo:<font color='#11F210'> 2,775%</font><br>Ganancia EXP:<font color='#11F210'> 310%</font>
-LS_DungeonLodDescByUiType6_9062121_0=Monstruo HP:<font color='#11F210'> 176%</font><br>Monstruo Ataque:<font color='#11F210'> 237%</font><br>GananciaEXP:<font color='#11F210'> 174%</font>
-LS_DungeonLodDescByUiType6_9062121_1=Monstruo HP:<font color='#11F210'> 508%</font><br>Monstruo Ataque:<font color='#11F210'> 524%</font><br>GananciaEXP<font color='#11F210'> 372%</font>
-LS_DungeonLodDescByUiType6_9062121_2=Monstruo HP:<font color='#11F210'> 1,036%</font><br>Monstruo Ataque:<font color='#11F210'> 999%</font><br>Ganancia EXP:<font color='#11F210'> 632%</font>
-LS_DungeonLodDescByUiType6_9062221_0=Monstruo HP:<font color='#11F210'> 176%</font><br>Monstruo Ataque:<font color='#11F210'> 237%</font><br>Ganancia EXP:<font color='#11F210'> 174%</font>
-LS_DungeonLodDescByUiType6_9062221_1=Monstruo HP:<font color='#11F210'> 508%</font><br>Monstruo Ataque:<font color='#11F210'> 524%</font><br>GananciaEXP<font color='#11F210'> 372%</font>
-LS_DungeonLodDescByUiType6_9062221_2=Monstruo HP:<font color='#11F210'> 1,036%</font><br>Monstruo Ataque:<font color='#11F210'> 999%</font><br>Ganancia EXP:<font color='#11F210'> 632%</font>
-LS_DungeonLodDescByUiType6_9062321_0=Monstruo HP:<font color='#11F210'> 176%</font><br>Monstruo Ataque:<font color='#11F210'> 237%</font><br>GananciaEXP:<font color='#11F210'> 174%</font>
-LS_DungeonLodDescByUiType6_9062321_1=Monstruo HP:<font color='#11F210'> 508%</font><br>Monstruo Ataque:<font color='#11F210'> 524%</font><br>GananciaEXP<font color='#11F210'> 372%</font>
-LS_DungeonLodDescByUiType6_9062321_2=Monstruo HP:<font color='#11F210'> 1,036%</font><br>Monstruo Ataque:<font color='#11F210'> 999%</font><br>Ganancia EXP:<font color='#11F210'> 632%</font>
-LS_DungeonLodDescByUiType6_9062421_0=Monstruo HP<font color='#11F210'> 176%</font><br>Monstruo Attack<font color='#11F210'> 237%</font><br>EXP Gain<font color='#11F210'> 174%</font>
-LS_DungeonLodDescByUiType6_9062421_1=Monstruo HP<font color='#11F210'> 508%</font><br>Monstruo Attack<font color='#11F210'> 524%</font><br>EXP Gain<font color='#11F210'> 372%</font>
-LS_DungeonLodDescByUiType6_9062421_2=Monstruo HP<font color='#11F210'> 1,036%</font><br>Monstruo Attack<font color='#11F210'> 999%</font><br>EXP Gain<font color='#11F210'> 632%</font>
-LS_DungeonLodDescByUiType6_9062422_0=Monstruo HP<font color='#11F210'> 176%</font><br>Monstruo Attack<font color='#11F210'> 237%</font><br>EXP Gain<font color='#11F210'> 174%</font>
-LS_DungeonLodDescByUiType6_9062422_1=Monstruo HP<font color='#11F210'> 508%</font><br>Monstruo Attack<font color='#11F210'> 524%</font><br>EXP Gain<font color='#11F210'> 372%</font>
-LS_DungeonLodDescByUiType6_9062422_2=Monstruo HP<font color='#11F210'> 1,036%</font><br>Monstruo Attack<font color='#11F210'> 999%</font><br>EXP Gain<font color='#11F210'> 632%</font>
-LS_DungeonLodDescByUiType6_9062521_0=Monstruo HP<font color='#11F210'> 176%</font><br>Monstruo Attack<font color='#11F210'> 237%</font><br>EXP Gain<font color='#11F210'> 174%</font>
-LS_DungeonLodDescByUiType6_9062521_1=Monstruo HP<font color='#11F210'> 508%</font><br>Monstruo Attack<font color='#11F210'> 524%</font><br>EXP Gain<font color='#11F210'> 372%</font>
-LS_DungeonLodDescByUiType6_9062521_2=Monstruo HP<font color='#11F210'> 1,036%</font><br>Monstruo Attack<font color='#11F210'> 999%</font><br>EXP Gain<font color='#11F210'> 632%</font>
-LS_DungeonLodDescByUiType6_9062621_0=Monstruo HP<font color='#11F210'> 176%</font><br>Monstruo Attack<font color='#11F210'> 237%</font><br>EXP Gain<font color='#11F210'> 174%</font>
-LS_DungeonLodDescByUiType6_9062621_1=Monstruo HP<font color='#11F210'> 508%</font><br>Monstruo Attack<font color='#11F210'> 524%</font><br>EXP Gain<font color='#11F210'> 372%</font>
-LS_DungeonLodDescByUiType6_9062621_2=Monstruo HP<font color='#11F210'> 1,036%</font><br>Monstruo Attack<font color='#11F210'> 999%</font><br>EXP Gain<font color='#11F210'> 632%</font>
-LS_DungeonLodDescByUiType6_9059203_0=Monstruo HP <font color='#11F210'>176%</font><br>Monstruo Ataque <font color='#11F210'>237%</font><br>GananciaEXP <font color='#11F210'>174%</font>
-LS_DungeonLodDescByUiType6_9059203_1=Monstruo HP<font color='#11F210'> 508%</font><br>Monstruo Attack<font color='#11F210'> 524%</font><br>EXP Gain<font color='#11F210'> 372%</font>
-LS_DungeonLodDescByUiType6_9059203_2=Monstruo HP<font color='#11F210'> 1,036%</font><br>Monstruo Attack<font color='#11F210'> 999%</font><br>EXP Gain<font color='#11F210'> 632%</font>
-LS_DungeonLodDescByUiType9[0]=Monstruo HP:<font color='#11F210'> 4,100%</font><br>Monstruo Ataque:<font color='#11F210'> 920%</font><br>GananciaEXP:<font color='#11F210'> 420%</font><br><br>
-LS_DungeonLodDescByUiType9[1]=Monstruo HP:<font color='#11F210'> 5,500%</font><br>Monstruo Ataque:<font color='#11F210'> 1,230%</font><br>EXP Ganancia:<font color='#11F210'> 560%</font><br><br>
-LS_DungeonLodDescByUiType9[2]=Valor del Monstruo:<font color='#11F210'> 6,900%</font><br>Ataque del Monstruo:<font color='#11F210'> 1,550%</font><br>Ganancia de EXP:<font color='#11F210'> 700%</font><br><br>
-LS_DungeonLodDescByUiType9[3]=Valor del Monstruo:<font color='#11F210'> 8,700%</font><br>Ataque del Monstruo:<font color='#11F210'> 1,970%</font><br>GananciaEXP:<font color='#11F210'> 900%</font><br><br>
-LS_DungeonLodDescByUiType9[4]=Valor del Monstruo:<font color='#11F210'> 10,600%</font><br>Ataque del Monstruo:<font color='#11F210'> 2,390%</font><br>Ganancia de XP:<font color='#11F210'> 1,100%</font><br><br>
-LS_DungeonLodDescByUiType10_9042101_0=Valor del monstruo:<font color='#11F210'> 1,050%</font><br>Ataque del monstruo:<font color='#11F210'> 1,160%</font><br>Ganancia EXP:<font color='#11F210'> 182%</font>
-LS_DungeonLodDescByUiType10_9042101_1=Valor del monstruo:<font color='#11F210'> 1,330%</font><br>Ataque del monstruo:<font color='#11F210'> 1,560%</font><br>Ganancia EXP:<font color='#11F210'> 220%</font>
-LS_DungeonLodDescByUiType10_9042101_2=Valor del monstruo:<font color='#11F210'> 1,750%</font><br>Ataque del monstruo:<font color='#11F210'> 2,190%</font><br>Ganancia EXP:<font color='#11F210'> 262%</font>
-LS_DungeonLodDescByUiType10_9042101_3=Valor del monstruo:<font color='#11F210'> 2,330%</font><br>Ataque del monstruo:<font color='#11F210'> 3,100%</font><br>Ganancia EXP:<font color='#11F210'> 310%</font>
-LS_DungeonLodDescByUiType10_9042101_4=Valor del monstruo:<font color='#11F210'> 3,090%</font><br>Ataque del monstruo:<font color='#11F210'> 4,340%</font><br>Ganancia EXP:<font color='#11F210'> 362%</font>
-LS_DungeonLodDescByUiType10_9042301_0=Valor del monstruo:<font color='#11F210'> 1,050%</font><br>Ataque del monstruo:<font color='#11F210'> 1,160%</font><br>Ganancia EXP:<font color='#11F210'> 182%</font>
-LS_DungeonLodDescByUiType10_9042301_1=Valor del monstruo:<font color='#11F210'> 1,330%</font><br>Ataque del monstruo:<font color='#11F210'> 1,560%</font><br>Ganancia EXP:<font color='#11F210'> 220%</font>
-LS_DungeonLodDescByUiType10_9042301_2=Valor del monstruo:<font color='#11F210'> 1,750%</font><br>Ataque del monstruo:<font color='#11F210'> 2,190%</font><br>Ganancia EXP:<font color='#11F210'> 262%</font>
-LS_DungeonLodDescByUiType10_9042301_3=Valor del monstruo:<font color='#11F210'> 2,330%</font><br>Ataque del monstruo:<font color='#11F210'> 3,100%</font><br>Ganancia EXP:<font color='#11F210'> 310%</font>
-LS_DungeonLodDescByUiType10_9042301_4=Valor del monstruo:<font color='#11F210'> 3,090%</font><br>Ataque del monstruo:<font color='#11F210'> 4,340%</font><br>Ganancia EXP:<font color='#11F210'> 362%</font>
-LS_DungeonLodDescByUiType10_9040309_0=Monstruo HP<font color='#11F210'> 200%</font><br>Monstruo Ataque<font color='#11F210'> 305%</font><br>Divisa Ganancia<font color='#11F210'> 200%</font><br>Posibilidad de Item Raro<font color='#11F210'> 350%</font> Subir<br>Ganancia de EXP<font color='#11F210'> 125%</font>
-LS_DungeonLodDescByUiType10_9040309_1=Monstruo HP<font color='#11F210'> 315%</font><br>Monstruo Ataque<font color='#11F210'> 390%</font><br>Dinero Ganancia<font color='#11F210'> 220%</font><br>Posibilidad de Item Raro<font color='#11F210'> 400%</font> Subir<br>Ganancia EXP<font color='#11F210'> 130%</font>
-LS_DungeonLodDescByUiType10_9040309_2=Monstruo HP<font color='#11F210'> 430%</font><br>Monstruo Ataque<font color='#11F210'> 480%</font><br>Ganancia de dinero Ganancia<font color='#11F210'> 240%</font><br>Posibilidad de Item Raro<font color='#11F210'> 450%</font> Subir<br>Ganancia EXP<font color='#11F210'> 135%</font>
-LS_DungeonLodDescByUiType10_9040309_3=Monstruo HP<font color='#11F210'> 545%</font><br>Monstruo Ataque<font color='#11F210'> 575%</font><br>Dinero Ganancia<font color='#11F210'> 260%</font><br>Posibilidad de Item Raro<font color='#11F210'> 500%</font> Subir<br>Ganancia EXP<font color='#11F210'> 140%</font>
-LS_DungeonLodDescByUiType10_9040309_4=Monstruo HP<font color='#11F210'> 660%</font><br>Monstruo Ataque<font color='#11F210'> 675%</font><br>Dinero Ganancia<font color='#11F210'> 280%</font><br>Posibilidad de Item Raro<font color='#11F210'> 550%</font> Subir<br>Ganancia EXP<font color='#11F210'> 145%</font>
-LS_DungeonLodDescByUiType10_9030223_0=Monstruo HP:<font color='#11F210'> 200%</font><br>Monstruo Ataque:<font color='#11F210'> 305%</font><br>GananciaEXP:<font color='#11F210'> 125%</font>
-LS_DungeonLodDescByUiType10_9030223_1=Monstruo HP:<font color='#11F210'> 315%</font><br>Monstruo Ataque:<font color='#11F210'> 390%</font><br>GananciaEXP:<font color='#11F210'> 130%</font>
-LS_DungeonLodDescByUiType10_9030223_2=Valor del monstruo:<font color='#11F210'> 430%</font><br>Ataque del monstruo:<font color='#11F210'> 480%</font><br>Ganancia EXP:<font color='#11F210'> 135%</font>
-LS_DungeonLodDescByUiType10_9030223_3=Valor del monstruo:<font color='#11F210'> 545%</font><br>Ataque del monstruo:<font color='#11F210'> 575%</font><br>Ganancia EXP:<font color='#11F210'> 140%</font>
-LS_DungeonLodDescByUiType10_9030223_4=Valor del monstruo:<font color='#11F210'> 660%</font><br>Ataque del monstruo:<font color='#11F210'> 675%</font><br>Ganancia EXP:<font color='#11F210'> 145%</font>
-LS_DungeonLodDescByUiType12_9042501_0=Valor del monstruo:<font color='#11F210'> 1%</font><br>Ataque del monstruo:<font color='#11F210'> 1%</font><br>Ganancia EXP:<font color='#11F210'> 1%</font>
-LS_DungeonLodDescByUiType12_9042501_1=Monstruo HP:<font color='#11F210'> 1%</font><br>Monstruo Ataque:<font color='#11F210'> 1%</font><br>GananciaEXP:<font color='#11F210'> 1%</font>
-LS_DungeonLodDescByUiType12_9042501_2=Monstruo HP:<font color='#11F210'> 1%</font><br>Monstruo Ataque:<font color='#11F210'> 1%</font><br>GananciaEXP:<font color='#11F210'> 1%</font>
-LS_DungeonLodDescByUiType12_9042501_3=Monstruo HP:<font color='#11F210'> 1%</font><br>Monstruo Ataque:<font color='#11F210'> 1%</font><br>GananciaEXP:<font color='#11F210'> 1%</font>
-LS_DungeonLodDescByUiType12_9042501_4=Monstruo HP:<font color='#11F210'> 1%</font><br>Monstruo Ataque:<font color='#11F210'> 1%</font><br>GananciaEXP:<font color='#11F210'> 1%</font>
-LS_DungeonLodDescByUiType10_9040361_0=Monstruo HP:<font color='#11F210'> 200%</font><br>Monstruo Ataque:<font color='#11F210'> 305%</font><br>GananciaEXP:<font color='#11F210'> 125%</font>
-LS_DungeonLodDescByUiType10_9040361_1=Monstruo HP:<font color='#11F210'> 315%</font><br>Monstruo Ataque:<font color='#11F210'> 390%</font><br>GananciaEXP:<font color='#11F210'> 130%</font>
-LS_DungeonLodDescByUiType10_9040361_2=Monstruo HP:<font color='#11F210'> 430%</font><br>Monstruo Ataque:<font color='#11F210'> 480%</font><br>Ganancia EXP:<font color='#11F210'> 135%</font>
-LS_DungeonLodDescByUiType10_9040361_3=Monstruo HP:<font color='#11F210'> 545%</font><br>Monstruo Ataque:<font color='#11F210'> 575%</font><br>Ganancia EXP:<font color='#11F210'> 140%</font>
-LS_DungeonLodDescByUiType10_9040361_4=Monstruo HP:<font color='#11F210'> 660%</font><br>Monstruo Ataque:<font color='#11F210'> 675%</font><br>GananciaEXP:<font color='#11F210'> 145%</font>
+LS_DungeonLodDescByUiType4_9030331_8=Vida de enemigos<font color='#11F210'> 9,110%</font><br>Monstruo Attack<font color='#11F210'> 2,945%</font><br>EXP Gain<font color='#11F210'>310%</font>
+LS_DungeonLodDescByUiType4_9030331_9=Vida de enemigos<font color='#11F210'> 12,081%</font><br>Monstruo Attack<font color='#11F210'> 4,123%</font><br>EXP Gain<font color='#11F210'>362%</font>
+LS_DungeonLodDescByUiType4_9062331_0=Vida de enemigos<font color='#11F210'> 1,527%</font><br>Monstruo Attack<font color='#11F210'> 368%</font><br>EXP Gain<font color='#11F210'> 847%</font>
+LS_DungeonLodDescByUiType4_9062331_1=Vida de enemigos<font color='#11F210'> 4,246%</font><br>Monstruo Attack<font color='#11F210'> 878%</font><br>EXP Gain<font color='#11F210'> 2,111%</font>
+LS_DungeonLodDescByUiType4_9062331_2=Vida de enemigos<font color='#11F210'> 7,424%</font><br>Monstruo Attack<font color='#11F210'> 1,307%</font><br>EXP Gain<font color='#11F210'>5,153%</font>
+LS_DungeonLodDescByUiType4_9062431_0=Vida de enemigos <font color='#11F210'>5,091%</font><br>Ataque de enemigos <font color='#11F210'>1,440%</font><br>Ganancia EXP <font color='#11F210'>1,817%</font>
+LS_DungeonLodDescByUiType4_9062431_1=Vida de enemigos <font color='#11F210'>12,132%</font><br>Ataque de enemigos <font color='#11F210'>3,200%</font><br>Ganancia EXP <font color='#11F210'>5,277%</font>
+LS_DungeonLodDescByUiType4_9062431_2=Vida de enemigos <font color='#11F210'>21,213%</font><br>Ataque de enemigos <font color='#11F210'>4,500%</font><br>Ganancia EXP <font color='#11F210'>12,882%</font>
+LS_DungeonLodDescByUiType4_9057003_0=Vida de enemigos <font color='#11F210'>5,091%</font><br>Ataque de enemigos <font color='#11F210'>1,440%</font><br>Ganancia EXP <font color='#11F210'>1,817%</font>
+LS_DungeonLodDescByUiType4_9057003_1=Vida de enemigos <font color='#11F210'>12,132%</font><br>Ataque de enemigos <font color='#11F210'>3,200%</font><br>Ganancia EXP <font color='#11F210'>5,277%</font>
+LS_DungeonLodDescByUiType4_9057003_2=Vida de enemigos <font color='#11F210'>21,213%</font><br>Ataque de enemigos <font color='#11F210'>4,500%</font><br>Ganancia EXP <font color='#11F210'>12,882%</font>
+LS_DungeonLodDescByUiType5[0]=Vida de enemigos: 100%<br>Ataque de enemigos: 100%<br>Ganancia de XP: 100%
+LS_DungeonLodDescByUiType5[1]=Vida de enemigos:<font color='#11F210'> 205%</font><br>Ataque de enemigos:<font color='#11F210'> 105%</font><br>EXP Ganancia:<font color='#11F210'> 100%</font>
+LS_DungeonLodDescByUiType5[2]=Vida de enemigos:<font color='#11F210'> 310%</font><br>Ataque de enemigos:<font color='#11F210'> 110%</font><br>Ganancia EXP:<font color='#11F210'> 100%</font>
+LS_DungeonLodDescByUiType5[3]=Vida de enemigos:<font color='#11F210'> 430%</font><br>Ataque de enemigos:<font color='#11F210'> 120%</font>Ganancia EXP:<font color='#11F210'> 100%</font>
+LS_DungeonLodDescByUiType5[4]=Vida de enemigos:<font color='#11F210'> 550%</font><br>Ataque de enemigos:<font color='#11F210'> 125%</font>Ganancia EXP:<font color='#11F210'> 100%</font>
+LS_DungeonLodDescByUiType6_9050822_0=Vida de enemigos:<font color='#11F210'> 200%</font><br>Ataque de enemigos:<font color='#11F210'> 305%</font><br>Ganancia EXP:<font color='#11F210'> 125%</font>
+LS_DungeonLodDescByUiType6_9050822_1=Vida de enemigos:<font color='#11F210'> 315%</font><br>Ataque de enemigos:<font color='#11F210'> 390%</font><br>Ganancia EXP:<font color='#11F210'> 130%</font>
+LS_DungeonLodDescByUiType6_9050822_2=Vida de enemigos:<font color='#11F210'> 430%</font><br>Ataque de enemigos:<font color='#11F210'> 480%</font><br>Ganancia EXP:<font color='#11F210'> 135%</font>
+LS_DungeonLodDescByUiType6_9050822_3=Vida de enemigos:<font color='#11F210'> 545%</font><br>Ataque de enemigos:<font color='#11F210'> 575%</font><br>Ganancia EXP:<font color='#11F210'> 140%</font>
+LS_DungeonLodDescByUiType6_9050822_4=Vida de enemigos:<font color='#11F210'> 660%</font><br>Ataque de enemigos:<font color='#11F210'> 675%</font><br>Ganancia EXP:<font color='#11F210'> 145%</font>
+LS_DungeonLodDescByUiType6_9050822_5=Vida de enemigos:<font color='#11F210'> 840%</font><br>Ataque de enemigos:<font color='#11F210'> 855%</font><br>Ganancia EXP:<font color='#11F210'> 150%</font>
+LS_DungeonLodDescByUiType6_9050822_6=Vida de enemigos:<font color='#11F210'> 1,120%</font><br>Ataque de enemigos:<font color='#11F210'> 1,135%</font><br>Ganancia EXP:<font color='#11F210'> 182%</font>
+LS_DungeonLodDescByUiType6_9050822_7=Vida de enemigos:<font color='#11F210'> 1.520%</font><br>Ataque de enemigos:<font color='#11F210'> 1.535%</font><br>Ganancia EXP:<font color='#11F210'> 220%</font>
+LS_DungeonLodDescByUiType6_9050822_8=Vida de enemigos:<font color='#11F210'> 2,060%</font><br>Ataque de enemigos:<font color='#11F210'> 2,075%</font><br>Ganancia EXP:<font color='#11F210'> 262%</font>
+LS_DungeonLodDescByUiType6_9050822_9=Vida de enemigos:<font color='#11F210'> 2,760%</font><br>Ataque de enemigos:<font color='#11F210'> 2,775%</font><br>Ganancia EXP:<font color='#11F210'> 310%</font>
+LS_DungeonLodDescByUiType6_9030321_0=Vida de enemigos:<font color='#11F210'> 200%</font><br>Ataque de enemigos:<font color='#11F210'> 305%</font><br>Ganancia EXP:<font color='#11F210'> 125%</font>
+LS_DungeonLodDescByUiType6_9030321_1=Vida de enemigos:<font color='#11F210'> 315%</font><br>Ataque de enemigos:<font color='#11F210'> 390%</font><br>Ganancia EXP:<font color='#11F210'> 130%</font>
+LS_DungeonLodDescByUiType6_9030321_2=Vida de enemigos:<font color='#11F210'> 430%</font><br>Ataque de enemigos:<font color='#11F210'> 480%</font><br>Ganancia EXP:<font color='#11F210'> 135%</font>
+LS_DungeonLodDescByUiType6_9030321_3=Vida de enemigos:<font color='#11F210'> 545%</font><br>Ataque de enemigos:<font color='#11F210'> 575%</font><br>Ganancia EXP:<font color='#11F210'> 140%</font>
+LS_DungeonLodDescByUiType6_9030321_4=Vida de enemigos:<font color='#11F210'> 660%</font><br>Ataque de enemigos:<font color='#11F210'> 675%</font><br>Ganancia EXP:<font color='#11F210'> 145%</font>
+LS_DungeonLodDescByUiType6_9030321_5=Vida de enemigos:<font color='#11F210'> 840%</font><br>Ataque de enemigos:<font color='#11F210'> 855%</font><br>Ganancia EXP:<font color='#11F210'> 150%</font>
+LS_DungeonLodDescByUiType6_9030321_6=Vida de enemigos:<font color='#11F210'> 1,120%</font><br>Ataque de enemigos:<font color='#11F210'> 1,135%</font><br>Ganancia EXP:<font color='#11F210'> 182%</font>
+LS_DungeonLodDescByUiType6_9030321_7=Vida de enemigos:<font color='#11F210'> 1,520%</font><br>Ataque de enemigos:<font color='#11F210'> 1,535%</font><br>Ganancia EXP:<font color='#11F210'> 220%</font>
+LS_DungeonLodDescByUiType6_9030321_8=Vida de enemigos:<font color='#11F210'> 2,060%</font><br>Ataque de enemigos:<font color='#11F210'> 2,075%</font><br>Ganancia EXP:<font color='#11F210'> 262%</font>
+LS_DungeonLodDescByUiType6_9030321_9=Vida de enemigos:<font color='#11F210'> 2,760%</font><br>Ataque de enemigos:<font color='#11F210'> 2,775%</font><br>Ganancia EXP:<font color='#11F210'> 310%</font>
+LS_DungeonLodDescByUiType6_9020321_0=Vida de enemigos:<font color='#11F210'> 200%</font><br>Ataque de enemigos:<font color='#11F210'> 305%</font><br>Ganancia EXP:<font color='#11F210'> 125%</font>
+LS_DungeonLodDescByUiType6_9020321_1=Vida de enemigos:<font color='#11F210'> 315%</font><br>Ataque de enemigos:<font color='#11F210'> 390%</font><br>Ganancia EXP:<font color='#11F210'> 130%</font>
+LS_DungeonLodDescByUiType6_9020321_2=Vida de enemigos:<font color='#11F210'> 430%</font><br>Ataque de enemigos:<font color='#11F210'> 480%</font><br>Ganancia EXP:<font color='#11F210'> 135%</font>
+LS_DungeonLodDescByUiType6_9020321_3=Vida de enemigos:<font color='#11F210'> 545%</font><br>Ataque de enemigos:<font color='#11F210'> 575%</font><br>Ganancia EXP:<font color='#11F210'> 140%</font>
+LS_DungeonLodDescByUiType6_9020321_4=Vida de enemigos:<font color='#11F210'> 660%</font><br>Ataque de enemigos:<font color='#11F210'> 675%</font><br>Ganancia EXP:<font color='#11F210'> 145%</font>
+LS_DungeonLodDescByUiType6_9020321_5=Vida de enemigos:<font color='#11F210'> 840%</font><br>Ataque de enemigos:<font color='#11F210'> 855%</font><br>Ganancia EXP:<font color='#11F210'> 150%</font>
+LS_DungeonLodDescByUiType6_9020321_6=Vida de enemigos:<font color='#11F210'> 1,120%</font><br>Ataque de enemigos:<font color='#11F210'> 1,135%</font><br>Ganancia EXP:<font color='#11F210'> 182%</font>
+LS_DungeonLodDescByUiType6_9020321_7=Vida de enemigos:<font color='#11F210'> 1,520%</font><br>Ataque de enemigos:<font color='#11F210'> 1,535%</font><br>Ganancia EXP:<font color='#11F210'> 220%</font>
+LS_DungeonLodDescByUiType6_9020321_8=Vida de enemigos:<font color='#11F210'> 2,060%</font><br>Ataque de enemigos:<font color='#11F210'> 2,075%</font><br>Ganancia EXP:<font color='#11F210'> 262%</font>
+LS_DungeonLodDescByUiType6_9020321_9=Vida de enemigos:<font color='#11F210'> 2,760%</font><br>Ataque de enemigos:<font color='#11F210'> 2,775%</font><br>Ganancia EXP:<font color='#11F210'> 310%</font>
+LS_DungeonLodDescByUiType6_9062121_0=Vida de enemigos:<font color='#11F210'> 176%</font><br>Ataque de enemigos:<font color='#11F210'> 237%</font><br>Ganancia EXP:<font color='#11F210'> 174%</font>
+LS_DungeonLodDescByUiType6_9062121_1=Vida de enemigos:<font color='#11F210'> 508%</font><br>Ataque de enemigos:<font color='#11F210'> 524%</font><br>Ganancia EXP<font color='#11F210'> 372%</font>
+LS_DungeonLodDescByUiType6_9062121_2=Vida de enemigos:<font color='#11F210'> 1,036%</font><br>Ataque de enemigos:<font color='#11F210'> 999%</font><br>Ganancia EXP:<font color='#11F210'> 632%</font>
+LS_DungeonLodDescByUiType6_9062221_0=Vida de enemigos:<font color='#11F210'> 176%</font><br>Ataque de enemigos:<font color='#11F210'> 237%</font><br>Ganancia EXP:<font color='#11F210'> 174%</font>
+LS_DungeonLodDescByUiType6_9062221_1=Vida de enemigos:<font color='#11F210'> 508%</font><br>Ataque de enemigos:<font color='#11F210'> 524%</font><br>Ganancia EXP<font color='#11F210'> 372%</font>
+LS_DungeonLodDescByUiType6_9062221_2=Vida de enemigos:<font color='#11F210'> 1,036%</font><br>Ataque de enemigos:<font color='#11F210'> 999%</font><br>Ganancia EXP:<font color='#11F210'> 632%</font>
+LS_DungeonLodDescByUiType6_9062321_0=Vida de enemigos:<font color='#11F210'> 176%</font><br>Ataque de enemigos:<font color='#11F210'> 237%</font><br>Ganancia EXP:<font color='#11F210'> 174%</font>
+LS_DungeonLodDescByUiType6_9062321_1=Vida de enemigos:<font color='#11F210'> 508%</font><br>Ataque de enemigos:<font color='#11F210'> 524%</font><br>Ganancia EXP<font color='#11F210'> 372%</font>
+LS_DungeonLodDescByUiType6_9062321_2=Vida de enemigos:<font color='#11F210'> 1,036%</font><br>Ataque de enemigos:<font color='#11F210'> 999%</font><br>Ganancia EXP:<font color='#11F210'> 632%</font>
+LS_DungeonLodDescByUiType6_9062421_0=Vida de enemigos<font color='#11F210'> 176%</font><br>Monstruo Attack<font color='#11F210'> 237%</font><br>EXP Gain<font color='#11F210'> 174%</font>
+LS_DungeonLodDescByUiType6_9062421_1=Vida de enemigos<font color='#11F210'> 508%</font><br>Monstruo Attack<font color='#11F210'> 524%</font><br>EXP Gain<font color='#11F210'> 372%</font>
+LS_DungeonLodDescByUiType6_9062421_2=Vida de enemigos<font color='#11F210'> 1,036%</font><br>Monstruo Attack<font color='#11F210'> 999%</font><br>EXP Gain<font color='#11F210'> 632%</font>
+LS_DungeonLodDescByUiType6_9062422_0=Vida de enemigos<font color='#11F210'> 176%</font><br>Monstruo Attack<font color='#11F210'> 237%</font><br>EXP Gain<font color='#11F210'> 174%</font>
+LS_DungeonLodDescByUiType6_9062422_1=Vida de enemigos<font color='#11F210'> 508%</font><br>Monstruo Attack<font color='#11F210'> 524%</font><br>EXP Gain<font color='#11F210'> 372%</font>
+LS_DungeonLodDescByUiType6_9062422_2=Vida de enemigos<font color='#11F210'> 1,036%</font><br>Monstruo Attack<font color='#11F210'> 999%</font><br>EXP Gain<font color='#11F210'> 632%</font>
+LS_DungeonLodDescByUiType6_9062521_0=Vida de enemigos<font color='#11F210'> 176%</font><br>Monstruo Attack<font color='#11F210'> 237%</font><br>EXP Gain<font color='#11F210'> 174%</font>
+LS_DungeonLodDescByUiType6_9062521_1=Vida de enemigos<font color='#11F210'> 508%</font><br>Monstruo Attack<font color='#11F210'> 524%</font><br>EXP Gain<font color='#11F210'> 372%</font>
+LS_DungeonLodDescByUiType6_9062521_2=Vida de enemigos<font color='#11F210'> 1,036%</font><br>Monstruo Attack<font color='#11F210'> 999%</font><br>EXP Gain<font color='#11F210'> 632%</font>
+LS_DungeonLodDescByUiType6_9062621_0=Vida de enemigos<font color='#11F210'> 176%</font><br>Monstruo Attack<font color='#11F210'> 237%</font><br>EXP Gain<font color='#11F210'> 174%</font>
+LS_DungeonLodDescByUiType6_9062621_1=Vida de enemigos<font color='#11F210'> 508%</font><br>Monstruo Attack<font color='#11F210'> 524%</font><br>EXP Gain<font color='#11F210'> 372%</font>
+LS_DungeonLodDescByUiType6_9062621_2=Vida de enemigos<font color='#11F210'> 1,036%</font><br>Monstruo Attack<font color='#11F210'> 999%</font><br>EXP Gain<font color='#11F210'> 632%</font>
+LS_DungeonLodDescByUiType6_9059203_0=Vida de enemigos <font color='#11F210'>176%</font><br>Ataque de enemigos <font color='#11F210'>237%</font><br>Ganancia EXP <font color='#11F210'>174%</font>
+LS_DungeonLodDescByUiType6_9059203_1=Vida de enemigos<font color='#11F210'> 508%</font><br>Monstruo Attack<font color='#11F210'> 524%</font><br>EXP Gain<font color='#11F210'> 372%</font>
+LS_DungeonLodDescByUiType6_9059203_2=Vida de enemigos<font color='#11F210'> 1,036%</font><br>Monstruo Attack<font color='#11F210'> 999%</font><br>EXP Gain<font color='#11F210'> 632%</font>
+LS_DungeonLodDescByUiType9[0]=Vida de enemigos:<font color='#11F210'> 4,100%</font><br>Ataque de enemigos:<font color='#11F210'> 920%</font><br>Ganancia EXP:<font color='#11F210'> 420%</font><br><br>
+LS_DungeonLodDescByUiType9[1]=Vida de enemigos:<font color='#11F210'> 5,500%</font><br>Ataque de enemigos:<font color='#11F210'> 1,230%</font><br>EXP Ganancia:<font color='#11F210'> 560%</font><br><br>
+LS_DungeonLodDescByUiType9[2]=Vida de enemigos:<font color='#11F210'> 6,900%</font><br>Ataque de enemigos:<font color='#11F210'> 1,550%</font><br>Ganancia de EXP:<font color='#11F210'> 700%</font><br><br>
+LS_DungeonLodDescByUiType9[3]=Vida de enemigos:<font color='#11F210'> 8,700%</font><br>Ataque de enemigos:<font color='#11F210'> 1,970%</font><br>Ganancia EXP:<font color='#11F210'> 900%</font><br><br>
+LS_DungeonLodDescByUiType9[4]=Vida de enemigos:<font color='#11F210'> 10,600%</font><br>Ataque de enemigos:<font color='#11F210'> 2,390%</font><br>Ganancia de XP:<font color='#11F210'> 1,100%</font><br><br>
+LS_DungeonLodDescByUiType10_9042101_0=Vida de enemigos:<font color='#11F210'> 1,050%</font><br>Ataque de enemigos:<font color='#11F210'> 1,160%</font><br>Ganancia EXP:<font color='#11F210'> 182%</font>
+LS_DungeonLodDescByUiType10_9042101_1=Vida de enemigos:<font color='#11F210'> 1,330%</font><br>Ataque de enemigos:<font color='#11F210'> 1,560%</font><br>Ganancia EXP:<font color='#11F210'> 220%</font>
+LS_DungeonLodDescByUiType10_9042101_2=Vida de enemigos:<font color='#11F210'> 1,750%</font><br>Ataque de enemigos:<font color='#11F210'> 2,190%</font><br>Ganancia EXP:<font color='#11F210'> 262%</font>
+LS_DungeonLodDescByUiType10_9042101_3=Vida de enemigos:<font color='#11F210'> 2,330%</font><br>Ataque de enemigos:<font color='#11F210'> 3,100%</font><br>Ganancia EXP:<font color='#11F210'> 310%</font>
+LS_DungeonLodDescByUiType10_9042101_4=Vida de enemigos:<font color='#11F210'> 3,090%</font><br>Ataque de enemigos:<font color='#11F210'> 4,340%</font><br>Ganancia EXP:<font color='#11F210'> 362%</font>
+LS_DungeonLodDescByUiType10_9042301_0=Vida de enemigos:<font color='#11F210'> 1,050%</font><br>Ataque de enemigos:<font color='#11F210'> 1,160%</font><br>Ganancia EXP:<font color='#11F210'> 182%</font>
+LS_DungeonLodDescByUiType10_9042301_1=Vida de enemigos:<font color='#11F210'> 1,330%</font><br>Ataque de enemigos:<font color='#11F210'> 1,560%</font><br>Ganancia EXP:<font color='#11F210'> 220%</font>
+LS_DungeonLodDescByUiType10_9042301_2=Vida de enemigos:<font color='#11F210'> 1,750%</font><br>Ataque de enemigos:<font color='#11F210'> 2,190%</font><br>Ganancia EXP:<font color='#11F210'> 262%</font>
+LS_DungeonLodDescByUiType10_9042301_3=Vida de enemigos:<font color='#11F210'> 2,330%</font><br>Ataque de enemigos:<font color='#11F210'> 3,100%</font><br>Ganancia EXP:<font color='#11F210'> 310%</font>
+LS_DungeonLodDescByUiType10_9042301_4=Vida de enemigos:<font color='#11F210'> 3,090%</font><br>Ataque de enemigos:<font color='#11F210'> 4,340%</font><br>Ganancia EXP:<font color='#11F210'> 362%</font>
+LS_DungeonLodDescByUiType10_9040309_0=Vida de enemigos<font color='#11F210'> 200%</font><br>Ataque de enemigos<font color='#11F210'> 305%</font><br>Divisa Ganancia<font color='#11F210'> 200%</font><br>Posibilidad de Item Raro<font color='#11F210'> 350%</font> Subir<br>Ganancia de EXP<font color='#11F210'> 125%</font>
+LS_DungeonLodDescByUiType10_9040309_1=Vida de enemigos<font color='#11F210'> 315%</font><br>Ataque de enemigos<font color='#11F210'> 390%</font><br>Dinero Ganancia<font color='#11F210'> 220%</font><br>Posibilidad de Item Raro<font color='#11F210'> 400%</font> Subir<br>Ganancia EXP<font color='#11F210'> 130%</font>
+LS_DungeonLodDescByUiType10_9040309_2=Vida de enemigos<font color='#11F210'> 430%</font><br>Ataque de enemigos<font color='#11F210'> 480%</font><br>Ganancia de dinero Ganancia<font color='#11F210'> 240%</font><br>Posibilidad de Item Raro<font color='#11F210'> 450%</font> Subir<br>Ganancia EXP<font color='#11F210'> 135%</font>
+LS_DungeonLodDescByUiType10_9040309_3=Vida de enemigos<font color='#11F210'> 545%</font><br>Ataque de enemigos<font color='#11F210'> 575%</font><br>Dinero Ganancia<font color='#11F210'> 260%</font><br>Posibilidad de Item Raro<font color='#11F210'> 500%</font> Subir<br>Ganancia EXP<font color='#11F210'> 140%</font>
+LS_DungeonLodDescByUiType10_9040309_4=Vida de enemigos<font color='#11F210'> 660%</font><br>Ataque de enemigos<font color='#11F210'> 675%</font><br>Dinero Ganancia<font color='#11F210'> 280%</font><br>Posibilidad de Item Raro<font color='#11F210'> 550%</font> Subir<br>Ganancia EXP<font color='#11F210'> 145%</font>
+LS_DungeonLodDescByUiType10_9030223_0=Vida de enemigos:<font color='#11F210'> 200%</font><br>Ataque de enemigos:<font color='#11F210'> 305%</font><br>Ganancia EXP:<font color='#11F210'> 125%</font>
+LS_DungeonLodDescByUiType10_9030223_1=Vida de enemigos:<font color='#11F210'> 315%</font><br>Ataque de enemigos:<font color='#11F210'> 390%</font><br>Ganancia EXP:<font color='#11F210'> 130%</font>
+LS_DungeonLodDescByUiType10_9030223_2=Vida de enemigos:<font color='#11F210'> 430%</font><br>Ataque de enemigos:<font color='#11F210'> 480%</font><br>Ganancia EXP:<font color='#11F210'> 135%</font>
+LS_DungeonLodDescByUiType10_9030223_3=Vida de enemigos:<font color='#11F210'> 545%</font><br>Ataque de enemigos:<font color='#11F210'> 575%</font><br>Ganancia EXP:<font color='#11F210'> 140%</font>
+LS_DungeonLodDescByUiType10_9030223_4=Vida de enemigos:<font color='#11F210'> 660%</font><br>Ataque de enemigos:<font color='#11F210'> 675%</font><br>Ganancia EXP:<font color='#11F210'> 145%</font>
+LS_DungeonLodDescByUiType12_9042501_0=Vida de enemigos:<font color='#11F210'> 1%</font><br>Ataque de enemigos:<font color='#11F210'> 1%</font><br>Ganancia EXP:<font color='#11F210'> 1%</font>
+LS_DungeonLodDescByUiType12_9042501_1=Vida de enemigos:<font color='#11F210'> 1%</font><br>Ataque de enemigos:<font color='#11F210'> 1%</font><br>Ganancia EXP:<font color='#11F210'> 1%</font>
+LS_DungeonLodDescByUiType12_9042501_2=Vida de enemigos:<font color='#11F210'> 1%</font><br>Ataque de enemigos:<font color='#11F210'> 1%</font><br>Ganancia EXP:<font color='#11F210'> 1%</font>
+LS_DungeonLodDescByUiType12_9042501_3=Vida de enemigos:<font color='#11F210'> 1%</font><br>Ataque de enemigos:<font color='#11F210'> 1%</font><br>Ganancia EXP:<font color='#11F210'> 1%</font>
+LS_DungeonLodDescByUiType12_9042501_4=Vida de enemigos:<font color='#11F210'> 1%</font><br>Ataque de enemigos:<font color='#11F210'> 1%</font><br>Ganancia EXP:<font color='#11F210'> 1%</font>
+LS_DungeonLodDescByUiType10_9040361_0=Vida de enemigos:<font color='#11F210'> 200%</font><br>Ataque de enemigos:<font color='#11F210'> 305%</font><br>Ganancia EXP:<font color='#11F210'> 125%</font>
+LS_DungeonLodDescByUiType10_9040361_1=Vida de enemigos:<font color='#11F210'> 315%</font><br>Ataque de enemigos:<font color='#11F210'> 390%</font><br>Ganancia EXP:<font color='#11F210'> 130%</font>
+LS_DungeonLodDescByUiType10_9040361_2=Vida de enemigos:<font color='#11F210'> 430%</font><br>Ataque de enemigos:<font color='#11F210'> 480%</font><br>Ganancia EXP:<font color='#11F210'> 135%</font>
+LS_DungeonLodDescByUiType10_9040361_3=Vida de enemigos:<font color='#11F210'> 545%</font><br>Ataque de enemigos:<font color='#11F210'> 575%</font><br>Ganancia EXP:<font color='#11F210'> 140%</font>
+LS_DungeonLodDescByUiType10_9040361_4=Vida de enemigos:<font color='#11F210'> 660%</font><br>Ataque de enemigos:<font color='#11F210'> 675%</font><br>Ganancia EXP:<font color='#11F210'> 145%</font>
 LS_DungeonLodDescByUiType10_9040363_0=Nivel 1 Monstruo: <font color='#11F210'>Necesita 2 golpes para matar</font><br>Nivel 2 Monstruo: <font color='#11F210'>Necesita 3 golpes para matar</font><br>Nivel 3 Monstruo: <font color='#11F210'>Necesita 5 golpes para matar</font><br>Monstruo Élite: <font color='#11F210'>Necesita 10 golpes para matar</font><br>Monstruo Gigante: <font color='#11F210'>Necesita 50 golpes para matar</font>
-LS_DungeonLodDescByUiType10_9040365_0=Monstruo HP<font color='#11F210'> 200%</font><br>Monstruo Ataque<font color='#11F210'> 305%</font><br>Ganancia EXPP<font color='#11F210'>125%</font>
-LS_DungeonLodDescByUiType10_9040366_0=Monstruo HP <font color='#11F210'>176%</font><br>Monstruo Ataque <font color='#11F210'>237%</font><br>GananciaEXP <font color='#11F210'>174%</font>
-LS_DungeonLodDescByUiType10_9040367_0=Monstruo HP <font color='#11F210'>176%</font><br>Monstruo Ataque <font color='#11F210'>237%</font><br>GananciaEXP <font color='#11F210'>174%</font>
+LS_DungeonLodDescByUiType10_9040365_0=Vida de enemigos<font color='#11F210'> 200%</font><br>Ataque de enemigos<font color='#11F210'> 305%</font><br>Ganancia EXP<font color='#11F210'>125%</font>
+LS_DungeonLodDescByUiType10_9040366_0=Vida de enemigos <font color='#11F210'>176%</font><br>Ataque de enemigos <font color='#11F210'>237%</font><br>Ganancia EXP <font color='#11F210'>174%</font>
+LS_DungeonLodDescByUiType10_9040367_0=Vida de enemigos <font color='#11F210'>176%</font><br>Ataque de enemigos <font color='#11F210'>237%</font><br>Ganancia EXP <font color='#11F210'>174%</font>
 Dungeon_UI_Artifact_Desc[0]=-6/1%
 Dungeon_UI_Artifact_Desc[1]=-5/3%
 Dungeon_UI_Artifact_Desc[2]=-4/6%
@@ -4123,7 +4123,7 @@ LS_CreateDungeonEnterCost=Coste de entrada
 LS_BlockMove=Mover bloque
 LS_NewBlockMove=Mover a un nuevo bloque
 LS_DescAutoMoveAfterDTime=Serás movido automáticamente después de un tiempo determinado.
-LS_Step=Paso %s_1
+LS_Step=Etapa %s_1
 LS_MemberInviteDungeonEnter=%s ha solicitado entrar en la Dungeon.
 LS_BossDungeon=Espacio del Jefe
 LS_CanNotSee=Desconocido
@@ -4288,24 +4288,24 @@ Dungeon_Title_9430001=El abismo hirviente de la corrupción
 Dungeon_Desc_9430001=Quinireal. Una vez que un ángel honorable en el servicio del cielo, pero ahora los degenerados de devildom que dio la espalda a la luz y aceptó la oscuridad. Debe ser detenido antes de que la destrucción que provocará llegue a la tierra.
 Dungeon_Title_9430201=El abismo de sangre coagulada
 Dungeon_Desc_9430201=Erzeta, la loca de la sangre que se atiborraba de vida exprimida de los vivos. La gran maga del pasado ya no existe. Sólo existe la gigantesca máquina de tortura que desgarra la carne y derrama sangre flotando en la satisfactoria luz azul.
-LS_DungeonLodDescByUiType10_9601901_0=Monstruo HP <font color='#11F210'> 27576%</font><br>monstruo Ataque<font color='#11F210'> 4500%</font><br>gana EXP <font color='#11F210'> 19323%</font>
-LS_DungeonLodDescByUiType10_9601601_0=Monstruo HP <font color='#11F210'> 5091%</font><br>monstruo Ataque<font color='#11F210'> 1440%</font><br>ganancia EXP <font color='#11F210'> 5153%</font>
-LS_DungeonLodDescByUiType10_9040368_0=Monstruo HP <font color='#11F210'> 701%</font><br>Monstruo Ataque<font color='#11F210'> 411%</font><br>Ganancia EXP <font color='#11F210'> 4122%</font>
-LS_DungeonLodDescByUiType10_9602401_0=Monstruo HP <font color='#11F210'> 176%</font><br>Monstruo Ataque<font color='#11F210'> 237%</font><br>ganar EXP <font color='#11F210'> 174%</font>
-LS_DungeonLodDescByUiType10_9602401_1=Monstruo HP <font color='#11F210'> 12132%</font><br>monstruo Ataque<font color='#11F210'> 3200%</font><br>ganancia EXP <font color='#11F210'> 5277%</font>
-LS_DungeonLodDescByUiType10_9040372_0=Monstruo HP <font color='#11F210'> 176%</font><br>Monstruo Ataque<font color='#11F210'> 237%</font><br>ganancia EXP <font color='#11F210'> 174%</font>
-LS_DungeonLodDescByUiType10_9040372_1=Monstruo HP <font color='#11F210'> 12132%</font><br>monstruo Ataque<font color='#11F210'> 3200%</font><br>ganancia EXP <font color='#11F210'> 5277%</font>
-LS_DungeonLodDescByUiType10_9040902_0=Monstruo HP <font color='#11F210'> 2472%</font><br>Monstruo Ataque<font color='#11F210'> 2472%</font><br>ganancia EXP <font color='#11F210'> 334%</font>
-LS_DungeonLodDescByUiType10_9059203_0=Monstruo HP <font color='#11F210'> 100%</font><br>monstruo Ataque<font color='#11F210'> 100%</font><br>ganar EXP <font color='#11F210'> 100%</font>
-LS_DungeonLodDescByUiType4_9059221_0=Monstruo HP <font color='#11F210'> 2000%</font><br>monstruo Ataque<font color='#11F210'> 1228%</font><br>ganar EXP <font color='#11F210'> 1122%</font>
-LS_DungeonLodDescByUiType4_9059221_1=Monstruo HP <font color='#11F210'> 4600%</font><br>Monstruo Ataque<font color='#11F210'> 2796%</font><br>Ganancia EXP <font color='#11F210'> 2674%</font>
-LS_DungeonLodDescByUiType4_9059221_2=Monstruo HP <font color='#11F210'> 8000%</font><br>monstruo Ataque<font color='#11F210'> 4084%</font><br>ganar EXP <font color='#11F210'> 4676%</font>
-LS_DungeonLodDescByUiType4_9059231_0=Monstruo HP <font color='#11F210'> 2000%</font><br>monstruo Ataque<font color='#11F210'> 1228%</font><br>ganar EXP <font color='#11F210'> 1122%</font>
-LS_DungeonLodDescByUiType4_9059231_1=Monstruo HP <font color='#11F210'> 4600%</font><br>Monstruo Ataque<font color='#11F210'> 2796%</font><br>ganancia EXP <font color='#11F210'> 2674%</font>
-LS_DungeonLodDescByUiType4_9059231_2=Monstruo HP <font color='#11F210'> 8000%</font><br>monstruo Ataque<font color='#11F210'> 4084%</font><br>ganar EXP <font color='#11F210'> 4676%</font>
-LS_DungeonLodDescByUiType4_9062631_0=Monstruo HP <font color='#11F210'> 2000%</font><br>monstruo Ataque<font color='#11F210'> 1228%</font><br>ganar EXP <font color='#11F210'> 1122%</font>
-LS_DungeonLodDescByUiType4_9062631_1=Monstruo HP <font color='#11F210'> 4600%</font><br>Monstruo Ataque<font color='#11F210'> 2796%</font><br>ganancia EXP <font color='#11F210'> 2674%</font>
-LS_DungeonLodDescByUiType4_9062631_2=Monstruo HP <font color='#11F210'> 8000%</font><br>monstruo Ataque<font color='#11F210'> 4084%</font><br>ganar EXP <font color='#11F210'> 4676%</font>
+LS_DungeonLodDescByUiType10_9601901_0=Vida de enemigos <font color='#11F210'> 27576%</font><br>Ataque de enemigos<font color='#11F210'> 4500%</font><br>gana EXP <font color='#11F210'> 19323%</font>
+LS_DungeonLodDescByUiType10_9601601_0=Vida de enemigos <font color='#11F210'> 5091%</font><br>Ataque de enemigos<font color='#11F210'> 1440%</font><br>ganancia EXP <font color='#11F210'> 5153%</font>
+LS_DungeonLodDescByUiType10_9040368_0=Vida de enemigos <font color='#11F210'> 701%</font><br>Ataque de enemigos<font color='#11F210'> 411%</font><br>Ganancia EXP <font color='#11F210'> 4122%</font>
+LS_DungeonLodDescByUiType10_9602401_0=Vida de enemigos <font color='#11F210'> 176%</font><br>Ataque de enemigos<font color='#11F210'> 237%</font><br>ganar EXP <font color='#11F210'> 174%</font>
+LS_DungeonLodDescByUiType10_9602401_1=Vida de enemigos <font color='#11F210'> 12132%</font><br>Ataque de enemigos<font color='#11F210'> 3200%</font><br>ganancia EXP <font color='#11F210'> 5277%</font>
+LS_DungeonLodDescByUiType10_9040372_0=Vida de enemigos <font color='#11F210'> 176%</font><br>Ataque de enemigos<font color='#11F210'> 237%</font><br>ganancia EXP <font color='#11F210'> 174%</font>
+LS_DungeonLodDescByUiType10_9040372_1=Vida de enemigos <font color='#11F210'> 12132%</font><br>Ataque de enemigos<font color='#11F210'> 3200%</font><br>ganancia EXP <font color='#11F210'> 5277%</font>
+LS_DungeonLodDescByUiType10_9040902_0=Vida de enemigos <font color='#11F210'> 2472%</font><br>Ataque de enemigos<font color='#11F210'> 2472%</font><br>ganancia EXP <font color='#11F210'> 334%</font>
+LS_DungeonLodDescByUiType10_9059203_0=Vida de enemigos <font color='#11F210'> 100%</font><br>Ataque de enemigos<font color='#11F210'> 100%</font><br>ganar EXP <font color='#11F210'> 100%</font>
+LS_DungeonLodDescByUiType4_9059221_0=Vida de enemigos <font color='#11F210'> 2000%</font><br>Ataque de enemigos<font color='#11F210'> 1228%</font><br>ganar EXP <font color='#11F210'> 1122%</font>
+LS_DungeonLodDescByUiType4_9059221_1=Vida de enemigos <font color='#11F210'> 4600%</font><br>Ataque de enemigos<font color='#11F210'> 2796%</font><br>Ganancia EXP <font color='#11F210'> 2674%</font>
+LS_DungeonLodDescByUiType4_9059221_2=Vida de enemigos <font color='#11F210'> 8000%</font><br>Ataque de enemigos<font color='#11F210'> 4084%</font><br>ganar EXP <font color='#11F210'> 4676%</font>
+LS_DungeonLodDescByUiType4_9059231_0=Vida de enemigos <font color='#11F210'> 2000%</font><br>Ataque de enemigos<font color='#11F210'> 1228%</font><br>ganar EXP <font color='#11F210'> 1122%</font>
+LS_DungeonLodDescByUiType4_9059231_1=Vida de enemigos <font color='#11F210'> 4600%</font><br>Ataque de enemigos<font color='#11F210'> 2796%</font><br>ganancia EXP <font color='#11F210'> 2674%</font>
+LS_DungeonLodDescByUiType4_9059231_2=Vida de enemigos <font color='#11F210'> 8000%</font><br>Ataque de enemigos<font color='#11F210'> 4084%</font><br>ganar EXP <font color='#11F210'> 4676%</font>
+LS_DungeonLodDescByUiType4_9062631_0=Vida de enemigos <font color='#11F210'> 2000%</font><br>Ataque de enemigos<font color='#11F210'> 1228%</font><br>ganar EXP <font color='#11F210'> 1122%</font>
+LS_DungeonLodDescByUiType4_9062631_1=Vida de enemigos <font color='#11F210'> 4600%</font><br>Ataque de enemigos<font color='#11F210'> 2796%</font><br>ganancia EXP <font color='#11F210'> 2674%</font>
+LS_DungeonLodDescByUiType4_9062631_2=Vida de enemigos <font color='#11F210'> 8000%</font><br>Ataque de enemigos<font color='#11F210'> 4084%</font><br>ganar EXP <font color='#11F210'> 4676%</font>
 LS_DungeonDesc_9059231=La dificultad de la Dungeon épica es muy alta. Party play recomendado.
 
 [MU2AutoActionPawn]
@@ -4689,7 +4689,7 @@ LS_RewardTitle=Información clara
 
 [MU2GFxBloodCastleInfoWidget]
 LS_PointTitle=Puntuación
-LS_MainTitle=¡Elimina a los monstruos del Castillo de Sangre y vuelve a sellar Anilata!
+LS_MainTitle=¡Elimina a los monstruos del Blood Castle y vuelve a sellar Anilata!
 LS_RemainTime=Límite de tiempo
 LS_BreakGateDesc=Destruir las Piedras de Sello aumenta el nivel de los monstruos.
 LS_KillBossDesc=Eliminar a Anilata y a todos sus lacayos.
@@ -5411,7 +5411,7 @@ LS_MsgEmptySearchResult=No se han encontrado resultados.
 [MU2GFxFindPartySystem]
 LS_MainWinTitle=Buscar Party
 LS_MainWinRefreshBtn=Refrescar
-LS_MainWinRecruitBtn=Componer
+LS_MainWinRecruitBtn=Crear Party
 LS_MainWinRecruitWriteCancelBtn=Borrar
 LS_CloseString=Cerrar (Esc)
 LS_AllString=Todo
@@ -5755,11 +5755,11 @@ LS_TierLeagueName[5]=Liga de Leyendas
 
 [MU2GFxKnightAgeCreate]
 LS_CreateTitle=Crear guild
-LS_CreateDesc=Para registrar tu Guild, debes introducir su nombre y pagar la cuota de registro.
+LS_CreateDesc=Para crear un Guild, debes introducir su nombre y pagar la cuota de registro.
 LS_KnightName=Nombre del guild
 LS_RegistCost=Cuota de registro del guild
-LS_NameOverlap=Comprobar Existencia
-LS_Regist=Crear la guild
+LS_NameOverlap=Comprobar
+LS_Regist=Crear Guild
 LS_EnableName=El nombre del guild está disponible para su uso.
 LS_DefaultInput=2 - 16 caracteres. No se permiten caracteres especiales.
 LS_KnightOpenErrMsg=Sólo los personajes que no están en guilds pueden crear un guild.
@@ -5946,7 +5946,7 @@ LS_EmblemInit=Reiniciar
 LS_EmblemReset=Cancelar
 LS_EmblemAccept=Aplicar
 LS_NoneKnightAge=No estás en un guild.
-LS_CautionEmblemChange=Una vez que el nivel del guild alcanze el nivel requerido su emblame podra ser cambiado
+LS_CautionEmblemChange=Requiere nivel de Guild 2
 
 [MU2GFxKnightAgeContribute]
 LS_KnightContributeTitle=Evaluación de la Contribución del guild
@@ -7159,14 +7159,14 @@ LS_MaxLevel=Nivel Máximo
 [MU2GFxArtifactLevelTransfer]
 LS_ArtifactLevelTransferTitle=Transferir nivel de artefacto
 LS_LvTransferStep[0]=1. Reglas básicas
-LS_LvTransferStep[1]=2. Paso básico Seleccionar un artefacto de origen
+LS_LvTransferStep[1]=2. Etapa básica: Seleccionar un artefacto de origen
 LS_LvTransferStep[2]=3. Seleccionar un Artefacto de Destino Seleccionar un artefacto de destino
 LS_LvTransferStep[3]=4. Confirmar
 LS_TransferArtifactTitle_Source=Artefacto de origen
 LS_TransferArtifactTitle_Target=Artefacto de destino
 LS_ArtifactList_Empty=No hay artefactos seleccionables
 LS_CancelBtnLabel=Cerrar
-LS_Step=Paso %s_1
+LS_Step=Etapa %s_1
 LS_ALTStep1_Title=Transferir nivel de artefacto
 LS_ALTStep1_Contents=Puedes transferir el nivel de un Artefacto a otro Artefacto.<br>Esto requiere 150 Redzen, independientemente del nivel.
 LS_ALTStep1_WarnningTitle=Precaución
@@ -7368,7 +7368,7 @@ LS_EventInfo=Derrota a los monstruos Jefes de las Dungeons establecidas y consig
 LS_DungeonName[0]=
 LS_DungeonName[1]=Jardín de Fabrice
 LS_DungeonName[2]=Mina de Gemas Mágicas de la Guerra
-LS_DungeonName[3]=Castillo de Sangre
+LS_DungeonName[3]=Blood Castle
 LS_DungeonName[4]=Bóveda secreta de Luery
 LS_DungeonName[5]=El Santuario del Caballero Dragón
 LS_DungeonName[6]=Refugio del Dragón
@@ -8422,12 +8422,12 @@ LS_LegendBingoPeriod=Período del evento: 2022-06-28
 
 [MU2GFxTalismanTicketReward]
 LS_Caption=Compensación Ticket Artesano Talismán
-LS_StepCaption[0]=Paso 1
-LS_StepCaption[1]=Paso 2
-LS_StepCaption[2]=Paso 3
-LS_StepCaption[3]=Paso 4
-LS_StepCaption[4]=Paso 5
-LS_InitStep1[0]=Paso 1. Información del sistema
+LS_StepCaption[0]=Etapa 1
+LS_StepCaption[1]=Etapa 2
+LS_StepCaption[2]=Etapa 3
+LS_StepCaption[3]=Etapa 4
+LS_StepCaption[4]=Etapa 5
+LS_InitStep1[0]=Etapa 1. Información del sistema
 LS_InitStep1[1]=Compensación del billete de artesano talismán
 LS_InitStep1[2]=Obtén una compensación por todos los Cofres de la Suerte Talismán que hayas comprado<br>en forma de Tickets de craft Talismán Limitados.<br>Puedes revisar tu historial de compras de Cofres de la Suerte Talismán en el siguiente paso.
 LS_InitStep1[3]=Aviso
@@ -8438,19 +8438,19 @@ LS_InitStep1[7]=Cerrar
 LS_InitStep1_2[0]=Revisar historial de compras
 LS_InitStep1_2[1]=En curso
 LS_InitStep1_2[2]=Revisando el historial de compras del Cofre de la Suerte del Talismán...<br>Para asegurar una revisión más fluida, las acciones de tu personaje se han desactivado por el momento.<br>Por favor, no cierres el juego.
-LS_InitStep2[0]=Paso 2. Revisar el historial de compras
+LS_InitStep2[0]=Etapa 2. Revisar el historial de compras
 LS_InitStep2[1]=Revisar Historial de Compras
 LS_InitStep2[2]=Comprado.
 LS_InitStep2[3]=¿Está de acuerdo en que este historial de compras es correcto?<br><font color='#FDC243'>Puede comprobar la información sobre su ticket-compensación en el siguiente paso.</font>
 LS_InitStep2[4]=Sí, estoy de acuerdo.
 LS_InitStep2[5]=Cerrar
-LS_InitStep2N[0]=Paso 2. Revisar historial de compras
+LS_InitStep2N[0]=Etapa 2. Revisar historial de compras
 LS_InitStep2N[1]=Revisar historial de compras
 LS_InitStep2N[2]=<font color='#FF0000'>No hay datos de compra del Cofre de la Suerte Talismán disponibles.</font>
 LS_InitStep2N[3]=Ver historial de compras.
 LS_InitStep2N[4]=Sí, estoy de acuerdo.
 LS_InitStep2N[5]=Cerrar
-LS_InitStep3[0]=Paso 3. Información de compensación
+LS_InitStep3[0]=Etapa 3. Información de compensación
 LS_InitStep3[1]=Información compensación
 LS_InitStep3[2]=Información de intercambio
 LS_InitStep3[3]=Información sobre el billete de artesano talismán
@@ -8461,13 +8461,13 @@ LS_InitStep3[7]=Cerrar
 LS_InitStep3_4[0]=Comprobar datos de compensación
 LS_InitStep3_4[1]=En curso
 LS_InitStep3_4[2]=Revisando los detalles de compensación del Ticket de Elaboración de Talismanes...<br>Para asegurar una revisión más fluida, las acciones de tu personaje se han desactivado por el momento.<br>Por favor, no cierres el juego.
-LS_InitStep4[0]=Paso 4. Comprobar Detalles de Compensación
+LS_InitStep4[0]=Etapa 4. Comprobar Detalles de Compensación
 LS_InitStep4[1]=Comprobar Detalles de Compensación
 LS_InitStep4[2]=Comprobar detalles de compensación
 LS_InitStep4[3]=¿Ha revisado los detalles de la compensación?<br><font color='#FDC243'>Puede obtener sus entradas en el siguiente paso.</font>
 LS_InitStep4[4]=Sí, continúe.
 LS_InitStep4[5]=Cerrar
-LS_InitStep5[0]=Paso 5. Aceptar Tickets
+LS_InitStep5[0]=Etapa 5. Aceptar Tickets
 LS_InitStep5[1]=¿Desea aceptar los Tickets?
 LS_InitStep5[2]=<br>Los tickets se añadirán a tu inventario. No podrás obtenerlos si tu inventario está lleno.<br>Podrán utilizarse hasta el 6 de agosto de 2019.
 LS_InitStep5[3]=No te preocupes.
@@ -8475,7 +8475,7 @@ LS_InitStep5[4]=Cerrar
 LS_InitStep5_6[0]=Aceptar entradas
 LS_InitStep5_6[1]=En curso
 LS_InitStep5_6[2]=Emitiendo Tickets de craft de Talismanes...<br>Para asegurar un proceso de distribución sin problemas, las acciones de tu personaje han sido desactivadas por el momento.<br>Por favor, no cierres el juego.
-LS_InitStep6[0]=Paso 5. Ticket Emitido
+LS_InitStep6[0]=Etapa 5. Ticket Emitido
 LS_InitStep6[1]=Aceptar Tickets
 LS_InitStep6[2]=Completado
 LS_InitStep6[3]=Talisman Crafting Tickets han sido emitidos.<br>Por favor, comprueba los Talisman Crafting Tickets en tu inventario.
@@ -8578,7 +8578,7 @@ LS_FamilyLinkCreatePopUp_NextStepLabel[0]=Siguiente
 LS_FamilyLinkCreatePopUp_NextStepLabel[1]=Seleccionar maestro
 LS_FamilyLinkCreatePopUp_NextStepLabel[2]=Elegir discípulo
 LS_FamilyLinkCreatePopUp_NextStepLabel[3]=Enlazar
-LS_FamilyLinkCreatePopUp_Paso1_Title=Enlace con el alma
+LS_FamilyLinkCreatePopUp_Step1_Title=Enlace con el alma
 LS_FamilyLinkCreatePopUp_Step1_Contents=Puedes seleccionar un personaje para unir almas en el siguiente paso.
 LS_FamilyLinkCreatePopUp_Step1_WarnningTitle=Notificación
 LS_FamilyLinkCreatePopUp_Step1_WarnningContents=Configura el Maestro y el Esclavo del Vínculo de Almas.<br>Acumula una parte de la EXP de Almas que ganen ambos personajes.<br>Puedes recibir una recompensa igual a la EXP de Almas que acumules.
