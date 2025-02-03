@@ -16,7 +16,8 @@ LS_MissionComplete=Completar todas las misiones
 LS_MissionRewardWating=Obtén la recompensa del paso %s_1
 
 [GuideCategoryDesc]
-CategoryDesc_101=¿Has alcanzado el nivel 85? La lección comenzará en el nivel 85~<br>¡Te guiaré hacia una forma mucho más fácil de crecer! Sólo tienes que creerme y dar un paso a la vez
+CategoryDesc_101=¿Has alcanzado el nivel 85? La lección inicia en el nivel 85~<br> ¡Confía en mí y crece fácilmente!
+CategoryDesc_102=Si sigues confiando en mi, mantendrás este ritmo de crecimiento. ¡Vamos!
 CategoryDesc_103=¡Supera fácilmente las misiones difíciles! ¡Me alegra verte crecer hasta convertirte en un aventurero veterano!
 CategoryDesc_104=¡Lo estás haciendo muy bien! Las recompensas que obtienes de las misiones son objetos que ayudan mucho a tu crecimiento.
 CategoryDesc_105=Una nueva experiencia te permite crecer ¿no es divertido tener nuevas experiencias~?
