@@ -749,7 +749,7 @@ Buff_904018002=Balance
 Buff_904019001=Allegro
 Buff_904020002=Allegro
 Buff_904021001=Hysteria
-Buff_904023000=Retoño creciente
+Buff_904023000=Magníficos guerreros creciente
 Buff_904025000=Promesa sólida
 Buff_904026000=Promesa sólida
 Buff_904027000=Luz de Kantra
@@ -1789,21 +1789,21 @@ Buff_7441000=Poción de Alma Rápida: 3,000%
 Buff_7442000=Poción de Alma Rápida: 5,000%
 Buff_4128000=Atontar
 Buff_4130000=Congelar
-Buff_2003000=Retoño Creciente
-Buff_2004000=Retoño Creciente
-Buff_2005000=Retoño Creciente
-Buff_2006000=Retoño Creciente
+Buff_2003000=Brote Creciente
+Buff_2004000=Brote Creciente
+Buff_2005000=Brote Creciente
+Buff_2006000=Brote Creciente
 Buff_2007000=Brote en crecimiento
 Buff_2008000=Brote en crecimiento
 Buff_2009000=Brote en crecimiento
 Buff_2010000=Brote en crecimiento
 Buff_2011000=Brote en crecimiento
-Buff_2012000=Retoño Creciente
+Buff_2012000=Brote Creciente
 Buff_2013000=Bendición de Noria
-Buff_2014000=Retoño Creciente I
+Buff_2014000=Brote Creciente I
 Buff_2015000=Brote Creciente I
 Buff_2016000=Brote Creciente II
-Buff_2021000=Retoño de Lamo
+Buff_2021000=Bonificación de Brote
 Buff_2017000=Black Impulse
 Buff_2018000=Vigor Intenso
 Buff_2019000=Velocidad Obsidiana
@@ -2328,9 +2328,9 @@ Buff_3000000=Disminuye el daño recibido.
 Buff_3001000=Aumenta la Velocidad de Movimiento.
 Buff_3002001=Ignora los efectos de Control de Multitudes.
 Buff_2200000=Restaura los HP en 5 segundos.
-Buff_2201001=Aumenta el Ataque de los Monstruos de Élite/Boss un 10% durante 10 minutos.
+Buff_2201001=Aumenta el ataque contra los enemigos de Élite/Boss un 10% durante 10 minutos.
 Buff_2204000=Restaura HP durante 5 segundos.
-Buff_2205001=Aumenta el Ataque de los Monstruos de Élite/Boss un 10% durante 10 minutos.
+Buff_2205001=Aumenta el ataque contra los enemigos de Élite/Boss un 10% durante 10 minutos.
 Buff_2206001=Restaura MP durante 5 segundos.
 Buff_2207000=Restaura 50% HP durante 5 segundos.
 Buff_2208000=Aumenta los HP máximos de tu grupo un 10% durante 30 segundos.
@@ -2349,11 +2349,11 @@ Buff_2222000=Aumenta el ataque en 450 durante 10 minutos. ¶Este efecto persiste
 Buff_2223000=Aumenta el ataque en 500 durante 10 minutos. ¶Este efecto persiste hasta la muerte.
 Buff_2225000=Velocidad de Movimiento aumenta un 5% durante 10 minutos.
 Buff_2226000=Aumenta la Recuperación HP/MP en un 10% durante 10 minutos.
-Buff_2227000=El Ataque de los Monstruos de Élite y Jefes aumenta un 10% durante 10 minutos.
+Buff_2227000=El Aataque contra los enemigos de Élite y Jefes aumenta un 10% durante 10 minutos.
 Buff_2228000=Recupera el 50% de los HP Máximos durante 5 segundos.
 Buff_2229000=La ganancia de EXP de Alma aumenta un 50% durante 10 minutos.
 Buff_2230000=Recupera HP durante 5 segundos.
-Buff_2231000=Aumenta el Ataque de los Monstruos de Élite/Boss un 10% durante 10 minutos.
+Buff_2231000=Aumenta ataque contra los enemigos de Élite/Boss un 10% durante 10 minutos.
 Buff_2232000=Restaura MP durante 5 segundos.
 Buff_2233000=El jugador inflige un 30% más de daño a humanoides durante 5 minutos.¶La muerte no elimina el efecto.
 Buff_2234000=El jugador recibe un 30% menos de daño de los humanoides durante 5 minutos.¶La muerte no elimina el efecto.
@@ -4031,21 +4031,21 @@ Buff_7441000=La ganancia de EXP de alma a través de la caza se incrementa en <f
 Buff_7442000=La ganancia de EXP del alma a través de la caza se incrementa en un <font color='#FE6D03'>5,000%</font>.
 Buff_4128000=Aturde e inmoviliza a su objetivo. Este efecto no se puede cancelar, incluso si el objetivo es atacado.
 Buff_4130000=Te congela, restringiendo todas tus acciones.
-Buff_2003000=¡LAMUS apoya a los jóvenes retoños que crecerán hasta convertirse en magníficos árboles! ¶Soul EXP gain increased by <font color='#FE6D03'>100%</font>¶Max HP increased by <font color='#FE6D03'>20,000</font>¶Monster Attack increased by <font color='#FE6D03'>30%</font>¶Defense increased by <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
-Buff_2004000=¡LAMUS apoya a los jóvenes retoños que crecerán hasta convertirse en magníficos árboles! #Soul EXP gain increased by <font color='#FE6D03'>100%</font> #Max HP increased by <font color='#FE6D03'>20,000</font> #Monster Attack increased by <font color='#FE6D03'>30%</font> #Defense increased by <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
-Buff_2005000=¡LAMUS apoya a los jóvenes retoños que crecerán hasta convertirse en magníficos árboles! #Soul EXP gain increased by <font color='#FE6D03'>100%</font> #Max HP increased by <font color='#FE6D03'>20,000</font> #Monster Attack increased by <font color='#FE6D03'>30%</font> #Defense increased by <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
-Buff_2006000=¡LAMUS apoya a los jóvenes retoños que crecerán hasta convertirse en magníficos árboles! #Soul EXP gain increased by <font color='#FE6D03'>100%</font> #Max HP increased by <font color='#FE6D03'>20,000</font> #Monster Attack increased by <font color='#FE6D03'>30%</font> #Defense increased by <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
-Buff_2007000=¡LAMUS apoya a los jóvenes retoños que crecerán hasta convertirse en magníficos árboles! #Soul EXP gain increased by <font color='#FE6D03'>100%</font> #Max HP increased by <font color='#FE6D03'>20,000</font> #Monster Attack increased by <font color='#FE6D03'>30%</font> #Defense increased by <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
-Buff_2008000=¡LAMUS apoya a los jóvenes retoños que crecerán hasta convertirse en magníficos árboles! #Soul EXP gain increased by <font color='#FE6D03'>100%</font> #Max HP increased by <font color='#FE6D03'>20,000</font> #Monster Attack increased by <font color='#FE6D03'>30%</font> #Defense increased by <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
-Buff_2009000=¡LAMUS apoya a los jóvenes retoños que crecerán hasta convertirse en magníficos árboles! #Soul EXP gain increased by <font color='#FE6D03'>100%</font> #Max HP increased by <font color='#FE6D03'>20,000</font> #Monster Attack increased by <font color='#FE6D03'>30%</font> #Defense increased by <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
-Buff_2010000=¡LAMUS apoya a los jóvenes retoños que crecerán hasta convertirse en magníficos árboles! ¶Soul EXP gain increased by <font color='#FE6D03'>100%</font>¶Max HP increased by <font color='#FE6D03'>20,000</font>¶El ataque de los monstruos ha aumentado en <font color='#FE6D03'>30%</font>¶La defensa ha aumentado en <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
-Buff_2011000=¡LAMUS apoya a los jóvenes retoños que crecerán hasta convertirse en magníficos árboles! ¶Soul EXP gain increased by <font color='#FE6D03'>100%</font>¶Max HP increased by <font color='#FE6D03'>20,000</font>¶El ataque de los monstruos ha aumentado en <font color='#FE6D03'>30%</font>¶La defensa ha aumentado en <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
-Buff_2012000=¡LAMUS apoya a los jóvenes retoños que crecerán hasta convertirse en magníficos árboles! ¶Soul EXP gain increased by <font color='#FE6D03'>100%</font>¶Max HP increased by <font color='#FE6D03'>20,000</font>¶El ataque de los monstruos ha aumentado en <font color='#FE6D03'>30%</font>¶La defensa ha aumentado en <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
+Buff_2003000=¡LAMUS apoya a los nuevos aventureros que crecerán hasta convertirse en magníficos guerreros! ¶Soul EXP gain increased by <font color='#FE6D03'>100%</font>¶Max HP increased by <font color='#FE6D03'>20,000</font>¶Monster Attack increased by <font color='#FE6D03'>30%</font>¶Defense increased by <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
+Buff_2004000=¡LAMUS apoya a los nuevos aventureros que crecerán hasta convertirse en magníficos guerreros! #Soul EXP gain increased by <font color='#FE6D03'>100%</font> #Max HP increased by <font color='#FE6D03'>20,000</font> #Monster Attack increased by <font color='#FE6D03'>30%</font> #Defense increased by <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
+Buff_2005000=¡LAMUS apoya a los nuevos aventureros que crecerán hasta convertirse en magníficos guerreros! #Soul EXP gain increased by <font color='#FE6D03'>100%</font> #Max HP increased by <font color='#FE6D03'>20,000</font> #Monster Attack increased by <font color='#FE6D03'>30%</font> #Defense increased by <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
+Buff_2006000=¡LAMUS apoya a los nuevos aventureros que crecerán hasta convertirse en magníficos guerreros! #Soul EXP gain increased by <font color='#FE6D03'>100%</font> #Max HP increased by <font color='#FE6D03'>20,000</font> #Monster Attack increased by <font color='#FE6D03'>30%</font> #Defense increased by <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
+Buff_2007000=¡LAMUS apoya a los nuevos aventureros que crecerán hasta convertirse en magníficos guerreros! #Soul EXP gain increased by <font color='#FE6D03'>100%</font> #Max HP increased by <font color='#FE6D03'>20,000</font> #Monster Attack increased by <font color='#FE6D03'>30%</font> #Defense increased by <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
+Buff_2008000=¡LAMUS apoya a los nuevos aventureros que crecerán hasta convertirse en magníficos guerreros! #Soul EXP gain increased by <font color='#FE6D03'>100%</font> #Max HP increased by <font color='#FE6D03'>20,000</font> #Monster Attack increased by <font color='#FE6D03'>30%</font> #Defense increased by <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
+Buff_2009000=¡LAMUS apoya a los nuevos aventureros que crecerán hasta convertirse en magníficos guerreros! #Soul EXP gain increased by <font color='#FE6D03'>100%</font> #Max HP increased by <font color='#FE6D03'>20,000</font> #Monster Attack increased by <font color='#FE6D03'>30%</font> #Defense increased by <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
+Buff_2010000=¡LAMUS apoya a los nuevos aventureros que crecerán hasta convertirse en magníficos guerreros! ¶Soul EXP gain increased by <font color='#FE6D03'>100%</font>¶Max HP increased by <font color='#FE6D03'>20,000</font>¶El ataque de los monstruos ha aumentado en <font color='#FE6D03'>30%</font>¶La defensa ha aumentado en <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
+Buff_2011000=¡LAMUS apoya a los nuevos aventureros que crecerán hasta convertirse en magníficos guerreros! ¶Soul EXP gain increased by <font color='#FE6D03'>100%</font>¶Max HP increased by <font color='#FE6D03'>20,000</font>¶El ataque de los monstruos ha aumentado en <font color='#FE6D03'>30%</font>¶La defensa ha aumentado en <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
+Buff_2012000=¡LAMUS apoya a los nuevos aventureros que crecerán hasta convertirse en magníficos guerreros! ¶Soul EXP gain increased by <font color='#FE6D03'>100%</font>¶Max HP increased by <font color='#FE6D03'>20,000</font>¶El ataque de los monstruos ha aumentado en <font color='#FE6D03'>30%</font>¶La defensa ha aumentado en <font color='#FE6D03'>1, 500</font>¶Recompensas adicionales por completar ciertas Dungeons¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons
 Buff_2013000=Noria rebosa energía.¶Attack +<font color='#FE6D03'>5,000</font>¶Boss/Elite Monster Attack +<font color='#FE6D03'>100%</font>
-Buff_2014000=¡LAMUS apoya a los jóvenes retoños que crecerán hasta convertirse en magníficos árboles!¶¶Max HP increased by <font color='#FE6D03'>20,000</font>.¶El Ataque de Monstruo aumenta en <font color='#FE6D03'>30%</font>.¶La Defensa aumenta en <font color='#FE6D03'>1,500</font>.
-Buff_2015000=¡LAMUS apoya a los jóvenes retoños que se convertirán en magníficos árboles!¶¶La HP máxima ha aumentado en <font color='#FE6D03'>20.000</font>.¶El Ataque de Monstruo ha aumentado en <font color='#FE6D03'>30%</font>.¶La Defensa ha aumentado en <font color='#FE6D03'>1.500</font>.
-Buff_2016000=¡LAMUS apoya a los jóvenes retoños que se convertirán en magníficos árboles!¶¶La ganancia de EXP del alma ha aumentado un <font color='#FE6D03'>100%</font>.¶Recompensas adicionales por completar ciertas Dungeons.¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons.
-Buff_2021000=¡LAMUS apoya a los jóvenes retoños que se convertirán en auténticos guerreros!¶La EXP del alma aumenta en <font color='#FE6D03'>100%</font>.¶El HP máximo aumenta en <font color='#FE6D03'>5.000</font>.¶El ataque de los monstruos aumenta en <font color='#FE6D03'>10%</font>. La defensa aumenta en <font color='#FE6D03'>300</font>.La tasa de golpe crítico aumenta en <font color='#FE6D03'>3%</font>.El enfriamiento aumenta en <font color='#FE6D03'>5%</font>.Consigue recompensas extra al completar Dungeons específicas.
+Buff_2014000=¡LAMUS apoya a los nuevos aventureros que crecerán hasta convertirse en magníficos guerreros!¶¶Max HP increased by <font color='#FE6D03'>20,000</font>.¶El Ataque de Monstruo aumenta en <font color='#FE6D03'>30%</font>.¶La Defensa aumenta en <font color='#FE6D03'>1,500</font>.
+Buff_2015000=¡LAMUS apoya a los nuevos aventureros que se convertirán en magníficos guerreros!¶¶La HP máxima ha aumentado en <font color='#FE6D03'>20.000</font>.¶El Ataque de Monstruo ha aumentado en <font color='#FE6D03'>30%</font>.¶La Defensa ha aumentado en <font color='#FE6D03'>1.500</font>.
+Buff_2016000=¡LAMUS apoya a los nuevos aventureros que se convertirán en magníficos guerreros!¶¶La ganancia de EXP del alma ha aumentado un <font color='#FE6D03'>100%</font>.¶Recompensas adicionales por completar ciertas Dungeons.¶Recompensas adicionales a los miembros del grupo por completar ciertas Dungeons.
+Buff_2021000=¡LAMUS apoya a los nuevos aventureros que se convertirán en auténticos guerreros!¶La EXP del alma aumenta en <font color='#FE6D03'>100%</font>.¶El HP máximo aumenta en <font color='#FE6D03'>5.000</font>.¶El ataque de los monstruos aumenta en <font color='#FE6D03'>10%</font>. La defensa aumenta en <font color='#FE6D03'>300</font>.La tasa de golpe crítico aumenta en <font color='#FE6D03'>3%</font>.El enfriamiento aumenta en <font color='#FE6D03'>5%</font>.Consigue recompensas extra al completar Dungeons específicas.
 Buff_2017000=Aumenta el Daño de Monstruo de Élite/Boss en <font color='#FE6D03'>10%</font> durante 30 minutos para todo tu grupo.
 Buff_2018000=Restaura <font color='#FE6D03'>20%</font> de tus HP durante 5 minutos.
 Buff_2019000=Aumenta la Velocidad de Movimiento en <font color='#FE6D03'>10%</font> y reduce el Enfriamiento en <font color='#FE6D03'>20%</font> durante 30 minutos.
@@ -4147,7 +4147,7 @@ Buff_2244000=El té oolong caliente hace que tus golpes sean un poco más propen
 Buff_2245000=El poder dulce restaura tus HP.
 Buff_2246000=¡Lleno de dulces pasteles de arroz! Incrementa el Max HP y la Recuperación de HP por segundo.
 Buff_2247000=Delicious! Esto te pone de tan buen humor que aumenta el Ataque de Monstruo Élite/Boss.
-Buff_2248000=¡Lleno de sabrosas castañas! Aumenta significativamente el Ataque de los Monstruos de Élite y Jefes.
+Buff_2248000=¡Lleno de sabrosas castañas! Aumenta significativamente ataque contra los enemigos de Élite y Jefes.
 Buff_2257000=Aumenta el Ataque Bonificado de Demonio en un 15%, el Ataque Bonificado de Planta en un 15%, y el Daño Bonificado Mágico en un 15% durante 5 minutos.
 Buff_2258000=<font color='#FE6D03'>Buff Alegría de Dukan</font>¶Velocidad de Movimiento +<font color='#FE6D03'>10%</font><br>Ataque de Monstruos Élite/Boss +<font color='#FE6D03'>3%</font><br>Ganancia de EXP del alma +<font color='#FE6D03'>100%</font><br><font color='#999999'>Los efectos duran 30 minutos. </font>
 Buff_2259000=<font color='#909090'>Buff de Apoyo de Jonathan</font>¶Velocidad de Movimiento +<font color='#909090'>15%</font><br>Elite/Ataque de Monstruo Jefe +<font color='#909090'>5%</font><br>Ganancia de EXP de Alma +<font color='#909090'>200%</font><br><font color='#999999'>Los efectos duran 30 minutos. </font>
@@ -4262,8 +4262,8 @@ Buff_2295000=<font color='#FE6D03'>Dulce Brigadeiro</font><br>Restaura <font col
 Buff_2296000=<font color='#FE6D03'>Caipirinha Refrescante</font><br>Ataque Adicional de Mutante +<font color='#FE6D03'>50%</font><br>Ataque Adicional de No Muerto +<font color='#FE6D03'>50%</font></font>
 Buff_2284000=Restaura HP durante 5 segundos.
 Buff_2285000=Restaura HP durante 5 segundos.
-Buff_2286000=Aumenta el Ataque de los Monstruos de Élite/Boss un 10% durante 10 minutos.
-Buff_2287000=Aumenta el Ataque de los Monstruos de Élite/Boss un 10% durante 10 minutos.
+Buff_2286000=Aumenta ataque contra los enemigos de Élite/Boss un 10% durante 10 minutos.
+Buff_2287000=Aumenta ataque contra los enemigos de Élite/Boss un 10% durante 10 minutos.
 Buff_2289000=Aumenta el Ataque en 500 y la EXP de Alma en un 50% durante 30 minutos.
 Buff_8921000=Monta en un transporte rápido, aumenta la velocidad de movimiento en <font color='#B4FE42'>150%</font>.
 Buff_941060005=Aumenta la recuperación de maná del objetivo.

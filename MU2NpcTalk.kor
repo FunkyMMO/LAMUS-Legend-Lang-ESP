@@ -2199,11 +2199,11 @@ Name=Costume Merchant
 Sayhello1=¡Puedes comprar aspectos con las Gemas Mágicas!
 
 [Npc_11]
-Name=Account Storage Manager
+Name=Administrador de almacenamiento
 Sayhello1=¿Está llena tu mochila? Déjame ayudarte a vaciarla.
 
 [Npc_9420]
-Name=Personal Storage Manager
+Name=Administrador de almacen personal
 Sayhello1=Tus artículos son importantes para ti. Los mantendré seguros.
 
 [Npc_75]
@@ -2232,27 +2232,27 @@ Name=Appearance Merchant
 Sayhello1=Solo ven a hablar conmigo si quieres cambiar el aspecto de tu equipo.
 
 [Npc_80]
-Name=Craftsman
+Name=Artesano
 Sayhello1=¿Quieres fabricar equipo que se ajuste a tu nivel?
 
 [Npc_1022]
-Name=Craftsman
+Name=Artesano
 Sayhello1=¿Quieres fabricar equipo que se ajuste a tu nivel?
 
 [Npc_2989]
-Name=Craftsman
+Name=Artesano
 Sayhello1=¿Quieres fabricar equipo que se ajuste a tu nivel?
 
 [Npc_26]
-Name=Craftsman
+Name=Artesano
 Sayhello1=¿Quieres fabricar equipo que se ajuste a tu nivel?
 
 [Npc_1024]
-Name=Craftsman
+Name=Artesano
 Sayhello1=¿Quieres fabricar equipo que se ajuste a tu nivel?
 
 [Npc_2988]
-Name=Craftsman
+Name=Artesano
 Sayhello1=¿Quieres fabricar equipo que se ajuste a tu nivel?
 
 [Npc_67]
