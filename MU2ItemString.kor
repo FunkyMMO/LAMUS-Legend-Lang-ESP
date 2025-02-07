@@ -35034,357 +35034,357 @@ Item_3131205=Aumenta <font color='#FE6D03'>Vicious Charge</font><font color='#FF
 Item_3131206=Aumenta <font color='#FE6D03'>Vicious Charge</font><font color='#FFFFFF'>'s</font>¶Daño Verdadero en <font color='#FF9C00'>3%</font>
 Item_3131301=Aumenta <font color='#FE6D03'>Rugard's Protection</font><font color='#FFFFFF'>'s</font>¶Defensa en <font color='#FF9C00'>12%</font>
 Item_3131302=Aumenta <font color='#FE6D03'>Rugard's Protection</font><font color='#FFFFFF'>'s</font>¶Duración de Aturdimiento en <font color='#FF9C00'>60%</font>
-Item_3131304=Decreases <font color='#FE6D03'>Rugard's Protection</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>6%</font>
-Item_3131401=Increases <font color='#FE6D03'>Eternal Flames</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>15%</font>
-Item_3131402=Increases <font color='#FE6D03'>Eternal Flames</font><font color='#FFFFFF'>'s</font>¶Skill Duration by <font color='#FF9C00'>15%</font>
-Item_3131403=Increases <font color='#FE6D03'>Eternal Flames</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>12%</font>
-Item_3131404=Increases <font color='#FE6D03'>Eternal Flames</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3131405=Increases <font color='#FE6D03'>Eternal Flames</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3131501=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3131502=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3131504=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3131505=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3131506=Increases <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3131601=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3131602=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>30%</font>
-Item_3131603=Decreases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3131604=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3131605=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
-Item_3131606=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3131607=Increases <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3131701=Increases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3131702=Decreases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3131703=Increases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3131704=Increases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
-Item_3131705=Increases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3131706=Increases <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3131801=Increases <font color='#FE6D03'>Ice Claw</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3131802=Increases <font color='#FE6D03'>Ice Claw</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3131803=Increases <font color='#FE6D03'>Ice Claw</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
-Item_3131804=Increases <font color='#FE6D03'>Ice Claw</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3131805=Increases <font color='#FE6D03'>Ice Claw</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3131901=Increases <font color='#FE6D03'>Purification</font><font color='#FFFFFF'>'s</font>¶MP Recovery by <font color='#FF9C00'>12%</font>
-Item_3131902=Decreases <font color='#FE6D03'>Purification</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3131904=Increases <font color='#FE6D03'>Purification</font><font color='#FFFFFF'>'s</font>¶Immunity Duration by <font color='#FF9C00'>30%</font>
-Item_3132001=Increases <font color='#FE6D03'>Holy Light</font><font color='#FFFFFF'>'s</font>¶HP Recovery by <font color='#FF9C00'>6%</font>
-Item_3132002=Decreases <font color='#FE6D03'>Holy Light</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>12%</font>
-Item_3132003=Decreases <font color='#FE6D03'>Holy Light</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>6%</font>
-Item_3132004=Increases <font color='#FE6D03'>Holy Light'</font><font color='#FFFFFF'>s</font>¶Enchant Duration by <font color='#FF9C00'>12%</font>
-Item_3132201=Decreases <font color='#FE6D03'>Pain Immunity</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>12%</font>
-Item_3132202=Increases <font color='#FE6D03'>Pain Immunity</font><font color='#FFFFFF'>'s</font>¶Enchant Duration by <font color='#FF9C00'>9%</font>
-Item_3132203=Decreases <font color='#FE6D03'>Pain Immunity</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>6%</font>
-Item_3132301=Increases <font color='#FE6D03'>Madness Absorption</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3132303=Increases <font color='#FE6D03'>Madness Absorption</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3132304=Increases <font color='#FE6D03'>Madness Absorption</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
-Item_3132305=Increases <font color='#FE6D03'>Madness Absorption</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3132306=Increases <font color='#FE6D03'>Madness Absorption</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3132401=Increases <font color='#FE6D03'>Rugard's Choice</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3132402=Increases <font color='#FE6D03'>Rugard's Choice</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3132403=Decreases <font color='#FE6D03'>Rugard's Choice</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>6%</font>
-Item_3132404=Decreases <font color='#FE6D03'>Rugard's Choice</font><font color='#FFFFFF'>'s</font>¶cooldown by <font color='#FF9C00'>12%</font>
-Item_3132405=Increases <font color='#FE6D03'>Rugard's Choice</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
-Item_3132406=Increases <font color='#FE6D03'>Rugard's Choice</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3132501=Increases <font color='#FE6D03'>Follower's Spirit</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3132502=Decreases <font color='#FE6D03'>Follower's Spirit</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>9%</font>
-Item_3132503=Decreases <font color='#FE6D03'>Follower's Spirit</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>12%</font>
-Item_3132504=Increases <font color='#FE6D03'>Follower's Spirit</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3132505=Increases <font color='#FE6D03'>Follower's Spirit</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3132506=Increases <font color='#FE6D03'>Follower's Spirit</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3230101=Increases <font color='#FE6D03'>Dismember</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>9%</font>
-Item_3230102=Increases <font color='#FE6D03'>Dismember</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
-Item_3230103=Increases <font color='#FE6D03'>Dismember</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3230104=Increases <font color='#FE6D03'>Dismember</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3230105=Increases <font color='#FE6D03'>Dismember</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3230201=Increases <font color='#FE6D03'>Piercing Slash</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>9%</font>
-Item_3230202=Increases <font color='#FE6D03'>Piercing Slash</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3230203=Increases <font color='#FE6D03'>Piercing Slash</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3230204=Increases <font color='#FE6D03'>Piercing Slash</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>15%</font>
-Item_3230205=Increases <font color='#FE6D03'>Piercing Slash</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3230301=Increases <font color='#FE6D03'>Assault</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>9%</font>
-Item_3230302=Increases <font color='#FE6D03'>Assault</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3230303=Increases <font color='#FE6D03'>Assault</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3230304=Increases <font color='#FE6D03'>Assault</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3230305=Increases <font color='#FE6D03'>Assault</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3230401=Increases <font color='#FE6D03'>Blood Pillage</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3230402=Increases <font color='#FE6D03'>Blood Pillage</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>15%</font>
-Item_3230403=Increases <font color='#FE6D03'>Blood Pillage</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3230404=Increases <font color='#FE6D03'>Blood Pillage</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3230405=Increases <font color='#FE6D03'>Blood Pillage</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3230501=Increases <font color='#FE6D03'>Sweep</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>9%</font>
-Item_3230502=Increases <font color='#FE6D03'>Sweep</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3230503=Increases <font color='#FE6D03'>Sweep</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
-Item_3230504=Increases <font color='#FE6D03'>Sweep</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3230505=Increases <font color='#FE6D03'>Sweep</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3230601=Increases <font color='#FE6D03'>Shatter</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3230603=Increases <font color='#FE6D03'>Shatter</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3230604=Increases <font color='#FE6D03'>Shatter</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3230605=Increases <font color='#FE6D03'>Shatter</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>15%</font>
-Item_3230606=Increases <font color='#FE6D03'>Shatter</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3230701=Increases <font color='#FE6D03'>Crush</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3230702=Decreases <font color='#FE6D03'>Crush</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>12%</font>
-Item_3230703=Increases <font color='#FE6D03'>Crush</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
-Item_3230704=Increases <font color='#FE6D03'>Crush</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3230705=Increases <font color='#FE6D03'>Crush</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3230706=Increases <font color='#FE6D03'>Crush</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3230801=Increases <font color='#FE6D03'>Threatening Roar</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3230802=Decreases <font color='#FE6D03'>Threatening Roar</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>18%</font>
-Item_3230803=Increases <font color='#FE6D03'>Threatening Roar</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3230804=Decreases <font color='#FE6D03'>Threatening Roar</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3230805=Increases <font color='#FE6D03'>Threatening Roar</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3230806=Increases <font color='#FE6D03'>Threatening Roar</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3230807=Increases <font color='#FE6D03'>Threatening Roar</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3230901=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3230902=Decreases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3230903=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3230904=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
-Item_3230905=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>30%</font>
-Item_3230906=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3230907=Increases <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3231001=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3231003=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>15%</font>
-Item_3231004=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3231005=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3231006=Increases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3231007=Decreases <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>6%</font>
-Item_3231101=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3231102=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3231103=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3231104=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3231105=Increases <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3231201=Increases <font color='#FE6D03'>Sonorous Roar</font><font color='#FFFFFF'>'s</font>¶Enchant Duration by <font color='#FF9C00'>30%</font>
-Item_3231202=Increases <font color='#FE6D03'>Sonorous Roar</font><font color='#FFFFFF'>'s</font>¶Fear Duration by <font color='#FF9C00'>60%</font>
-Item_3231203=Decreases <font color='#FE6D03'>Sonorous Roar</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>12%</font>
-Item_3231204=Decreases <font color='#FE6D03'>Sonorous Roar</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>12%</font>
-Item_3231301=Increases <font color='#FE6D03'>Fierce Rage</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3231302=Increases <font color='#FE6D03'>Fierce Rage</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3231303=Decreases <font color='#FE6D03'>Fierce Rage</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3231304=Increases <font color='#FE6D03'>Fierce Rage</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
-Item_3231305=Increases <font color='#FE6D03'>Fierce Rage</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3231306=Increases <font color='#FE6D03'>Fierce Rage</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3231401=Increases <font color='#FE6D03'>Charge</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3231402=Increases <font color='#FE6D03'>Charge</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3231403=Decreases <font color='#FE6D03'>Charge</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3231404=Increases <font color='#FE6D03'>Charge</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3231405=Increases <font color='#FE6D03'>Charge</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3231406=Increases <font color='#FE6D03'>Charge</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3231501=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3231502=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3231503=Decreases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3231504=Decreases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>12%</font>
-Item_3231505=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3231506=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
-Item_3231507=Increases <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3231601=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3231602=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3231603=Decreases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3231604=Decreases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>12%</font>
-Item_3231605=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3231606=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
-Item_3231607=Increases <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3231702=Decreases <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>12%</font>
-Item_3231703=Increases <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3231704=Increases <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3231807=Decreases <font color='#FE6D03'>Last-ditch Effort</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3231808=Decreases <font color='#FE6D03'>Last-ditch Effort</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>12%</font>
-Item_3231901=Increases <font color='#FE6D03'>Redemption</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3231902=Increases <font color='#FE6D03'>Redemption</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3231903=Increases <font color='#FE6D03'>Redemption</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3231904=Increases <font color='#FE6D03'>Redemption</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3231905=Decreases <font color='#FE6D03'>Redemption</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3231906=Decreases <font color='#FE6D03'>Redemption</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>12%</font>
-Item_3232003=Decreases <font color='#FE6D03'>Lightspeed Slash</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3232004=Increases <font color='#FE6D03'>Lightspeed Slash</font><font color='#FFFFFF'>'s</font>¶Attack Speed by <font color='#FF9C00'>30%</font>
-Item_3232005=Decreases <font color='#FE6D03'>Lightspeed Slash</font><font color='#FFFFFF'>'s</font>¶cooldown by <font color='#FF9C00'>6%</font>
-Item_3232101=Increases <font color='#FE6D03'>Reversed Rage</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3232102=Increases <font color='#FE6D03'>Reversed Rage</font><font color='#FFFFFF'>'s</font>¶MP Recovery by <font color='#FF9C00'>60%</font>
-Item_3232103=Decreases <font color='#FE6D03'>Reversed Rage</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3232104=Decreases <font color='#FE6D03'>Reversed Rage</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>6%</font>
-Item_3232201=Increases <font color='#FE6D03'>Raging Shout</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3232202=Increases <font color='#FE6D03'>Raging Shout</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3232203=Increases <font color='#FE6D03'>Raging Shout</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3232204=Increases <font color='#FE6D03'>Raging Shout</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3232205=Increases <font color='#FE6D03'>Raging Shout</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3232301=Increases <font color='#FE6D03'>Gravity Deflection</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3232302=Decreases <font color='#FE6D03'>Gravity Deflection</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3232303=Decreases <font color='#FE6D03'>Gravity Deflection</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>12%</font>
-Item_3232304=Increases <font color='#FE6D03'>Gravity Deflection</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3232305=Increases <font color='#FE6D03'>Gravity Deflection</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
-Item_3232306=Increases <font color='#FE6D03'>Gravity Deflection</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3232307=Increases <font color='#FE6D03'>Gravity Deflection</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3232402=Increases <font color='#FE6D03'>Iron Armor</font><font color='#FFFFFF'>'s</font>¶Damage-to-HP Conversion by <font color='#FF9C00'>15%</font>
-Item_3232404=Decreases <font color='#FE6D03'>Iron Armor</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>12%</font>
-Item_3232405=Decreases <font color='#FE6D03'>Iron Armor</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>6%</font>
-Item_3232601=Increases <font color='#FE6D03'>Sweeper</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3232602=Increases <font color='#FE6D03'>Sweeper</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3232603=Increases <font color='#FE6D03'>Sweeper</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3232604=Increases <font color='#FE6D03'>Sweeper</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
-Item_3232605=Increases <font color='#FE6D03'>Sweeper</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3232606=Decreases <font color='#FE6D03'>Sweeper</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>6%</font>
-Item_3330101=Increases <font color='#FE6D03'>Ice Arrow</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3330102=Increases <font color='#FE6D03'>Ice Arrow</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>60%</font>
-Item_3330103=Increases <font color='#FE6D03'>Ice Arrow</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>15%</font>
-Item_3330104=Increases <font color='#FE6D03'>Ice Arrow</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3330105=Increases <font color='#FE6D03'>Ice Arrow</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3330106=Increases <font color='#FE6D03'>Ice Arrow</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3330201=Increases <font color='#FE6D03'>Weakness Shot</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>9%</font>
-Item_3330202=Increases <font color='#FE6D03'>Weakness Shot</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
-Item_3330203=Increases <font color='#FE6D03'>Weakness Shot</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3330204=Increases <font color='#FE6D03'>Weakness Shot</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3330205=Increases <font color='#FE6D03'>Weakness Shot</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3330301=Increases <font color='#FE6D03'>Poison Arrow</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3330302=Increases <font color='#FE6D03'>Poison Arrow</font><font color='#FFFFFF'>'s</font>¶Skill Duration by <font color='#FF9C00'>15%</font>
-Item_3330303=Increases <font color='#FE6D03'>Poison Arrow</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3330304=Increases <font color='#FE6D03'>Poison Arrow</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3330305=Increases <font color='#FE6D03'>Poison Arrow</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>6%</font>
-Item_3330401=Increases <font color='#FE6D03'>Buckshot</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>9%</font>
-Item_3330402=Increases <font color='#FE6D03'>Buckshot</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
-Item_3330403=Increases <font color='#FE6D03'>Buckshot</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3330404=Increases <font color='#FE6D03'>Buckshot</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3330405=Increases <font color='#FE6D03'>Buckshot</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3330501=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3330502=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3330503=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3330504=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>12%</font>
-Item_3330505=Increases <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3330601=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3330602=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3330603=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3330604=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3330605=Increases <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>9%</font>
-Item_3330701=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3330702=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>30%</font>
-Item_3330703=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3330704=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3330705=Increases <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
-Item_3330801=Increases <font color='#FE6D03'>Multi Shot</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3330802=Decreases <font color='#FE6D03'>Multi Shot</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3330803=Increases <font color='#FE6D03'>Multi Shot</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3330804=Increases <font color='#FE6D03'>Multi Shot</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3330805=Increases <font color='#FE6D03'>Multi Shot</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3330806=Increases <font color='#FE6D03'>Multi Shot</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3330901=Increases <font color='#FE6D03'>Roll</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>30%</font>
-Item_3330902=Increases <font color='#FE6D03'>Roll</font><font color='#FFFFFF'>'s</font>¶Enchant Duration by <font color='#FF9C00'>30%</font>
-Item_3330904=Decreases <font color='#FE6D03'>Roll</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>12%</font>
-Item_3331001=Increases <font color='#FE6D03'>Swift Shot</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3331002=Increases <font color='#FE6D03'>Swift Shot</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>12%</font>
-Item_3331003=Increases <font color='#FE6D03'>Swift Shot</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3331004=Increases <font color='#FE6D03'>Swift Shot</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3331005=Increases <font color='#FE6D03'>Swift Shot</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3331101=Increases <font color='#FE6D03'>Condensed Shot</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3331102=Increases <font color='#FE6D03'>Condensed Shot</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3331103=Increases <font color='#FE6D03'>Condensed Shot</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3331104=Increases <font color='#FE6D03'>Condensed Shot</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3331105=Increases <font color='#FE6D03'>Condensed Shot</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3331201=Increases <font color='#FE6D03'>Multi Kill</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3331202=Increases <font color='#FE6D03'>Multi Kill</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>24%</font>
-Item_3331203=Decreases <font color='#FE6D03'>Multi Kill</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3331204=Increases <font color='#FE6D03'>Multi Kill</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3331205=Increases <font color='#FE6D03'>Multi Kill</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
-Item_3331206=Increases <font color='#FE6D03'>Multi Kill</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3331207=Increases <font color='#FE6D03'>Multi Kill</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3331301=Increases <font color='#FE6D03'>Wind Sprint</font><font color='#FFFFFF'>'s</font>¶Movement Speed by <font color='#FF9C00'>12%</font>
-Item_3331302=Increases <font color='#FE6D03'>Wind Sprint</font><font color='#FFFFFF'>'s</font>¶Enchant Duration by <font color='#FF9C00'>9%</font>
-Item_3331303=Decreases <font color='#FE6D03'>Wind Sprint</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>15%</font>
-Item_3331401=Increases <font color='#FE6D03'>Death Sentence</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3331402=Decreases <font color='#FE6D03'>Death Sentence</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>9%</font>
-Item_3331403=Decreases <font color='#FE6D03'>Death Sentence</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>9%</font>
-Item_3331404=Increases <font color='#FE6D03'>Death Sentence</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3331405=Increases <font color='#FE6D03'>Death Sentence</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3331406=Increases <font color='#FE6D03'>Death Sentence</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>6%</font>
-Item_3331407=Increases <font color='#FE6D03'>Death Sentence</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3331501=Increases <font color='#FE6D03'>Natural Assimilation</font><font color='#FFFFFF'>'s</font>¶Stealth Duration by <font color='#FF9C00'>30%</font>
-Item_3331502=Increases <font color='#FE6D03'>Natural Assimilation</font><font color='#FFFFFF'>'s</font>¶Enchant Duration by <font color='#FF9C00'>15%</font>
-Item_3331503=Decreases <font color='#FE6D03'>Natural Assimilation</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>15%</font>
-Item_3331601=Increases <font color='#FE6D03'>Elemental Chain</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3331602=Increases <font color='#FE6D03'>Elemental Chain</font><font color='#FFFFFF'>'s</font>¶Ensnare Duration by <font color='#FF9C00'>12%</font>
-Item_3331603=Increases <font color='#FE6D03'>Elemental Chain</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>12%</font>
-Item_3331604=Decreases <font color='#FE6D03'>Elemental Chain</font><font color='#FFFFFF'>'s</font>¶cooldown by <font color='#FF9C00'>6%</font>
-Item_3331605=Increases <font color='#FE6D03'>Elemental Chain</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3331606=Increases <font color='#FE6D03'>Elemental Chain</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
-Item_3331607=Increases <font color='#FE6D03'>Elemental Chain</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3331701=Increases <font color='#FE6D03'>Smokescreen</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3331702=Increases <font color='#FE6D03'>Smokescreen</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3331703=Increases <font color='#FE6D03'>Smokescreen</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3331704=Increases <font color='#FE6D03'>Smokescreen</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3331705=Increases <font color='#FE6D03'>Smokescreen</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>6%</font>
-Item_3331801=Increases <font color='#FE6D03'>Explosive Shot</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3331802=Decreases <font color='#FE6D03'>Explosive Shot</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3331803=Decreases <font color='#FE6D03'>Explosive Shot</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>12%</font>
-Item_3331804=Increases <font color='#FE6D03'>Explosive Shot</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3331805=Increases <font color='#FE6D03'>Explosive Shot</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
-Item_3331806=Increases <font color='#FE6D03'>Explosive Shot</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3331807=Increases <font color='#FE6D03'>Explosive Shot</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3331901=Increases <font color='#FE6D03'>Poison Throw</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3331902=Increases <font color='#FE6D03'>Poison Throw</font><font color='#FFFFFF'>'s</font>¶debuff duration by <font color='#FF9C00'>15%</font>
-Item_3331903=Increases <font color='#FE6D03'>Poison Throw</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3331904=Increases <font color='#FE6D03'>Poison Throw</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3331905=Increases <font color='#FE6D03'>Poison Throw</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3331906=Increases <font color='#FE6D03'>Poison Throw</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>6%</font>
-Item_3332001=Increases <font color='#FE6D03'>Green Sanctum</font><font color='#FFFFFF'>'s</font>¶Attack Speed by <font color='#FF9C00'>12%</font>
-Item_3332002=Increases <font color='#FE6D03'>Green Sanctum</font><font color='#FFFFFF'>'s</font>¶Enchant Duration by <font color='#FF9C00'>12%</font>
-Item_3332003=Decreases <font color='#FE6D03'>Green Sanctum</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3332004=Decreases <font color='#FE6D03'>Green Sanctum</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>6%</font>
-Item_3332102=Increases <font color='#FE6D03'>Madness Power</font><font color='#FFFFFF'>'s</font>¶Enchant Duration by <font color='#FF9C00'>12%</font>
-Item_3332103=Decreases <font color='#FE6D03'>Madness Power</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>6%</font>
-Item_3332104=Decreases <font color='#FE6D03'>Madness Power</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3332201=Increases <font color='#FE6D03'>Tree of the Otherworld</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>15%</font>
-Item_3332202=Decreases <font color='#FE6D03'>Tree of the Otherworld</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>12%</font>
-Item_3332203=Decreases <font color='#FE6D03'>Tree of the Otherworld</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>12%</font>
-Item_3332204=Increases <font color='#FE6D03'>Tree of the Otherworld</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3332205=Increases <font color='#FE6D03'>Tree of the Otherworld</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3332206=Increases <font color='#FE6D03'>Tree of the Otherworld</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3332207=Increases <font color='#FE6D03'>Tree of the Otherworld</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3332301=Increases <font color='#FE6D03'>Bombardment</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3332302=Decreases <font color='#FE6D03'>Bombardment</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3332303=Decreases <font color='#FE6D03'>Bombardment</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>6%</font>
-Item_3332304=Increases <font color='#FE6D03'>Bombardment</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3332305=Increases <font color='#FE6D03'>Bombardment</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3332306=Increases <font color='#FE6D03'>Bombardment</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>12%</font>
-Item_3332307=Increases <font color='#FE6D03'>Bombardment</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>6%</font>
-Item_3332401=Increases <font color='#FE6D03'>Torment Wall</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3332402=Decreases <font color='#FE6D03'>Torment Wall</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3332403=Decreases <font color='#FE6D03'>Torment Wall</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>15%</font>
-Item_3332404=Increases <font color='#FE6D03'>Torment Wall</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3332405=Increases <font color='#FE6D03'>Torment Wall</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3332406=Increases <font color='#FE6D03'>Torment Wall</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3332407=Increases <font color='#FE6D03'>Torment Wall</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3332501=Increases <font color='#FE6D03'>Torment Magnetic Field</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3332502=Decreases <font color='#FE6D03'>Torment Magnetic Field</font><font color='#FFFFFF'>'s</font>¶MP Cost by <font color='#FF9C00'>15%</font>
-Item_3332503=Decreases <font color='#FE6D03'>Torment Magnetic Field</font><font color='#FFFFFF'>'s</font>¶Cooldown by <font color='#FF9C00'>9%</font>
-Item_3332504=Increases <font color='#FE6D03'>Torment Magnetic Field</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3332505=Increases <font color='#FE6D03'>Torment Magnetic Field</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
-Item_3332506=Increases <font color='#FE6D03'>Torment Magnetic Field</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3332507=Increases <font color='#FE6D03'>Torment Magnetic Field</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3430101=Increases <font color='#FE6D03'>Chaos Orb</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>9%</font>
-Item_3430102=Increases <font color='#FE6D03'>Chaos Orb</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
-Item_3430103=Increases <font color='#FE6D03'>Chaos Orb</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3430104=Increases <font color='#FE6D03'>Chaos Orb</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3430105=Increases <font color='#FE6D03'>Chaos Orb</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3430201=Increases <font color='#FE6D03'>Energy Explosion</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>9%</font>
-Item_3430202=Increases <font color='#FE6D03'>Energy Explosion</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3430203=Increases <font color='#FE6D03'>Energy Explosion</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3430204=Increases <font color='#FE6D03'>Energy Explosion</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>12%</font>
-Item_3430205=Increases <font color='#FE6D03'>Energy Explosion</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3430301=Increases <font color='#FE6D03'>Shockwave</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3430302=Increases <font color='#FE6D03'>Shockwave</font><font color='#FFFFFF'>'s</font>¶Debuff Duration by <font color='#FF9C00'>15%</font>
-Item_3430303=Increases <font color='#FE6D03'>Shockwave</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3430304=Increases <font color='#FE6D03'>Shockwave</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3430305=Increases <font color='#FE6D03'>Shockwave</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3430306=Increases <font color='#FE6D03'>Shockwave</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3430401=Increases <font color='#FE6D03'>War Veteran</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3430402=Increases <font color='#FE6D03'>War Veteran</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3430403=Increases <font color='#FE6D03'>War Veteran</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>6%</font>
-Item_3430404=Increases <font color='#FE6D03'>War Veteran</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3430405=Increases <font color='#FE6D03'>War Veteran</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3430501=Increases <font color='#FE6D03'>Marching Blade</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>6%</font>
-Item_3430502=Increases <font color='#FE6D03'>Marching Blade</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
-Item_3430503=Increases <font color='#FE6D03'>Marching Blade</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3430504=Increases <font color='#FE6D03'>Marching Blade</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>9%</font>
-Item_3430505=Increases <font color='#FE6D03'>Marching Blade</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
-Item_3430601=Increases <font color='#FE6D03'>Magic Sword Throw</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
-Item_3430602=Increases <font color='#FE6D03'>Magic Sword Throw</font><font color='#FFFFFF'>'s</font>¶Critical Rate by <font color='#FF9C00'>3%</font>
-Item_3430603=Increases <font color='#FE6D03'>Magic Sword Throw</font><font color='#FFFFFF'>'s</font>¶Critical Damage by <font color='#FF9C00'>15%</font>
-Item_3430604=Increases <font color='#FE6D03'>Magic Sword Throw</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
+Item_3131304=Disminuye <font color='#FE6D03'>Rugard's Protection</font><font color='#FFFFFF'>'s</font>¶Tiempo de Reutilización en <font color='#FF9C00'>6%</font>
+Item_3131401=Aumenta <font color='#FE6D03'>Eternal Flames</font><font color='#FFFFFF'>'s</font>¶Ataque en <font color='#FF9C00'>15%</font>
+Item_3131402=Aumenta <font color='#FE6D03'>Eternal Flames</font><font color='#FFFFFF'>'s</font>¶Duración de Habilidad en <font color='#FF9C00'>15%</font>
+Item_3131403=Aumenta <font color='#FE6D03'>Eternal Flames</font><font color='#FFFFFF'>'s</font>¶Penetración de Defensa en <font color='#FF9C00'>12%</font>
+Item_3131404=Aumenta <font color='#FE6D03'>Eternal Flames</font><font color='#FFFFFF'>'s</font>¶Tasa Crítica en <font color='#FF9C00'>3%</font>
+Item_3131405=Aumenta <font color='#FE6D03'>Eternal Flames</font><font color='#FFFFFF'>'s</font>¶Daño Crítico en <font color='#FF9C00'>9%</font>
+Item_3131501=Aumenta <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Ataque en <font color='#FF9C00'>6%</font>
+Item_3131502=Aumenta <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Penetración de Defensa en <font color='#FF9C00'>6%</font>
+Item_3131504=Aumenta <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Tasa Crítica en <font color='#FF9C00'>3%</font>
+Item_3131505=Aumenta <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Daño Crítico en <font color='#FF9C00'>9%</font>
+Item_3131506=Aumenta <font color='#FE6D03'>Monarch's Touch</font><font color='#FFFFFF'>'s</font>¶Daño Verdadero en <font color='#FF9C00'>3%</font>
+Item_3131601=Aumenta <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Ataque en <font color='#FF9C00'>6%</font>
+Item_3131602=Aumenta <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Duración de Perjuicio en <font color='#FF9C00'>30%</font>
+Item_3131603=Disminuye <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Costo de MP en <font color='#FF9C00'>15%</font>
+Item_3131604=Aumenta <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Penetración de Defensa en <font color='#FF9C00'>6%</font>
+Item_3131605=Aumenta <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Tasa Crítica en <font color='#FF9C00'>6%</font>
+Item_3131606=Aumenta <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Daño Crítico en <font color='#FF9C00'>9%</font>
+Item_3131607=Aumenta <font color='#FE6D03'>Fire Scream</font><font color='#FFFFFF'>'s</font>¶Daño Verdadero en <font color='#FF9C00'>3%</font>
+Item_3131701=Aumenta <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Ataque en <font color='#FF9C00'>6%</font>
+Item_3131702=Disminuye <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Costo de MP en <font color='#FF9C00'>15%</font>
+Item_3131703=Aumenta <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Penetración de Defensa en <font color='#FF9C00'>6%</font>
+Item_3131704=Aumenta <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Tasa Crítica en <font color='#FF9C00'>6%</font>
+Item_3131705=Aumenta <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Daño Crítico en <font color='#FF9C00'>9%</font>
+Item_3131706=Aumenta <font color='#FE6D03'>Weapon Throw</font><font color='#FFFFFF'>'s</font>¶Daño Verdadero en <font color='#FF9C00'>3%</font>
+Item_3131801=Aumenta <font color='#FE6D03'>Ice Claw</font><font color='#FFFFFF'>'s</font>¶Ataque en <font color='#FF9C00'>6%</font>
+Item_3131802=Aumenta <font color='#FE6D03'>Ice Claw</font><font color='#FFFFFF'>'s</font>¶Penetración de Defensa en <font color='#FF9C00'>6%</font>
+Item_3131803=Aumenta <font color='#FE6D03'>Ice Claw</font><font color='#FFFFFF'>'s</font>¶Tasa Crítica en <font color='#FF9C00'>6%</font>
+Item_3131804=Aumenta <font color='#FE6D03'>Ice Claw</font><font color='#FFFFFF'>'s</font>¶Daño Crítico en <font color='#FF9C00'>9%</font>
+Item_3131805=Aumenta <font color='#FE6D03'>Ice Claw</font><font color='#FFFFFF'>'s</font>¶Daño Verdadero en <font color='#FF9C00'>3%</font>
+Item_3131901=Aumenta <font color='#FE6D03'>Purification</font><font color='#FFFFFF'>'s</font>¶Recuperación de MP en <font color='#FF9C00'>12%</font>
+Item_3131902=Disminuye <font color='#FE6D03'>Purification</font><font color='#FFFFFF'>'s</font>¶Costo de MP en <font color='#FF9C00'>15%</font>
+Item_3131904=Aumenta <font color='#FE6D03'>Purification</font><font color='#FFFFFF'>'s</font>¶Duración de Inmunidad en <font color='#FF9C00'>30%</font>
+Item_3132001=Aumenta <font color='#FE6D03'>Holy Light</font><font color='#FFFFFF'>'s</font>¶Recuperación de HP en <font color='#FF9C00'>6%</font>
+Item_3132002=Disminuye <font color='#FE6D03'>Holy Light</font><font color='#FFFFFF'>'s</font>¶Costo de MP en <font color='#FF9C00'>12%</font>
+Item_3132003=Disminuye <font color='#FE6D03'>Holy Light</font><font color='#FFFFFF'>'s</font>¶Tiempo de Reutilización en <font color='#FF9C00'>6%</font>
+Item_3132004=Aumenta <font color='#FE6D03'>Holy Light</font><font color='#FFFFFF'>'s</font>¶Duración de Encantamiento en <font color='#FF9C00'>12%</font>
+Item_3132201=Disminuye <font color='#FE6D03'>Pain Immunity</font><font color='#FFFFFF'>'s</font>¶Costo de MP en <font color='#FF9C00'>12%</font>
+Item_3132202=Aumenta <font color='#FE6D03'>Pain Immunity</font><font color='#FFFFFF'>'s</font>¶Duración de Encantamiento en <font color='#FF9C00'>9%</font>
+Item_3132203=Disminuye <font color='#FE6D03'>Pain Immunity</font><font color='#FFFFFF'>'s</font>¶Tiempo de Reutilización en <font color='#FF9C00'>6%</font>
+Item_3132301=Aumenta <font color='#FE6D03'>Madness Absorption</font><font color='#FFFFFF'>'s</font>¶Ataque en <font color='#FF9C00'>6%</font>
+Item_3132303=Aumenta <font color='#FE6D03'>Madness Absorption</font><font color='#FFFFFF'>'s</font>¶Penetración de Defensa en <font color='#FF9C00'>6%</font>
+Item_3132304=Aumenta <font color='#FE6D03'>Madness Absorption</font><font color='#FFFFFF'>'s</font>¶Tasa Crítica en <font color='#FF9C00'>6%</font>
+Item_3132305=Aumenta <font color='#FE6D03'>Madness Absorption</font><font color='#FFFFFF'>'s</font>¶Daño Crítico en <font color='#FF9C00'>9%</font>
+Item_3132306=Aumenta <font color='#FE6D03'>Madness Absorption</font><font color='#FFFFFF'>'s</font>¶Daño Verdadero en <font color='#FF9C00'>3%</font>
+Item_3132401=Aumenta <font color='#FE6D03'>Rugard's Choice</font><font color='#FFFFFF'>'s</font>¶Ataque en <font color='#FF9C00'>6%</font>
+Item_3132402=Aumenta <font color='#FE6D03'>Rugard's Choice</font><font color='#FFFFFF'>'s</font>¶Penetración de Defensa en <font color='#FF9C00'>6%</font>
+Item_3132403=Disminuye <font color='#FE6D03'>Rugard's Choice</font><font color='#FFFFFF'>'s</font>¶Costo de MP en <font color='#FF9C00'>6%</font>
+Item_3132404=Disminuye <font color='#FE6D03'>Rugard's Choice</font><font color='#FFFFFF'>'s</font>¶Tiempo de Reutilización en <font color='#FF9C00'>12%</font>
+Item_3132405=Aumenta <font color='#FE6D03'>Rugard's Choice</font><font color='#FFFFFF'>'s</font>¶Tasa Crítica en <font color='#FF9C00'>6%</font>
+Item_3132406=Aumenta <font color='#FE6D03'>Rugard's Choice</font><font color='#FFFFFF'>'s</font>¶Daño Crítico en <font color='#FF9C00'>9%</font>
+Item_3132501=Aumenta <font color='#FE6D03'>Follower's Spirit</font><font color='#FFFFFF'>'s</font>¶Ataque en <font color='#FF9C00'>6%</font>
+Item_3132502=Disminuye <font color='#FE6D03'>Follower's Spirit</font><font color='#FFFFFF'>'s</font>¶Costo de MP en <font color='#FF9C00'>9%</font>
+Item_3132503=Disminuye <font color='#FE6D03'>Follower's Spirit</font><font color='#FFFFFF'>'s</font>¶Tiempo de Reutilización en <font color='#FF9C00'>12%</font>
+Item_3132504=Aumenta <font color='#FE6D03'>Follower's Spirit</font><font color='#FFFFFF'>'s</font>¶Tasa Crítica en <font color='#FF9C00'>3%</font>
+Item_3132505=Aumenta <font color='#FE6D03'>Follower's Spirit</font><font color='#FFFFFF'>'s</font>¶Daño Crítico en <font color='#FF9C00'>9%</font>
+Item_3132506=Aumenta <font color='#FE6D03'>Follower's Spirit</font><font color='#FFFFFF'>'s</font>¶Penetración de Defensa en <font color='#FF9C00'>6%</font>
+Item_3230101=Aumenta <font color='#FE6D03'>Dismember</font><font color='#FFFFFF'>'s</font>¶Ataque en <font color='#FF9C00'>9%</font>
+Item_3230102=Aumenta <font color='#FE6D03'>Dismember</font><font color='#FFFFFF'>'s</font>¶Tasa Crítica en <font color='#FF9C00'>6%</font>
+Item_3230103=Aumenta <font color='#FE6D03'>Dismember</font><font color='#FFFFFF'>'s</font>¶Daño Crítico en <font color='#FF9C00'>9%</font>
+Item_3230104=Aumenta <font color='#FE6D03'>Dismember</font><font color='#FFFFFF'>'s</font>¶Penetración de Defensa en <font color='#FF9C00'>6%</font>
+Item_3230105=Aumenta <font color='#FE6D03'>Dismember</font><font color='#FFFFFF'>'s</font>¶Daño Verdadero en <font color='#FF9C00'>3%</font>
+Item_3230201=Aumenta <font color='#FE6D03'>Piercing Slash</font><font color='#FFFFFF'>'s</font>¶Ataque en <font color='#FF9C00'>9%</font>
+Item_3230202=Aumenta <font color='#FE6D03'>Piercing Slash</font><font color='#FFFFFF'>'s</font>¶Tasa Crítica en <font color='#FF9C00'>3%</font>
+Item_3230203=Aumenta <font color='#FE6D03'>Piercing Slash</font><font color='#FFFFFF'>'s</font>¶Daño Crítico en <font color='#FF9C00'>9%</font>
+Item_3230204=Aumenta <font color='#FE6D03'>Piercing Slash</font><font color='#FFFFFF'>'s</font>¶Penetración de Defensa en <font color='#FF9C00'>15%</font>
+Item_3230205=Aumenta <font color='#FE6D03'>Piercing Slash</font><font color='#FFFFFF'>'s</font>¶Daño Verdadero en <font color='#FF9C00'>3%</font>
+Item_3230301=Aumenta <font color='#FE6D03'>Assault</font><font color='#FFFFFF'>'s</font>¶Ataque en <font color='#FF9C00'>9%</font>
+Item_3230302=Aumenta <font color='#FE6D03'>Assault</font><font color='#FFFFFF'>'s</font>¶Tasa Crítica en <font color='#FF9C00'>3%</font>
+Item_3230303=Aumenta <font color='#FE6D03'>Assault</font><font color='#FFFFFF'>'s</font>¶Daño Crítico en <font color='#FF9C00'>9%</font>
+Item_3230304=Aumenta <font color='#FE6D03'>Assault</font><font color='#FFFFFF'>'s</font>¶Penetración de Defensa en <font color='#FF9C00'>6%</font>
+Item_3230305=Aumenta <font color='#FE6D03'>Assault</font><font color='#FFFFFF'>'s</font>¶Daño Verdadero en <font color='#FF9C00'>3%</font>
+Item_3230401=Aumenta <font color='#FE6D03'>Blood Pillage</font><font color='#FFFFFF'>'s</font>¶Ataque en <font color='#FF9C00'>6%</font>
+Item_3230402=Aumenta <font color='#FE6D03'>Blood Pillage</font><font color='#FFFFFF'>'s</font>¶Penetración de Defensa en <font color='#FF9C00'>15%</font>
+Item_3230403=Aumenta <font color='#FE6D03'>Blood Pillage</font><font color='#FFFFFF'>'s</font>¶Tasa Crítica en <font color='#FF9C00'>3%</font>
+Item_3230404=Aumenta <font color='#FE6D03'>Blood Pillage</font><font color='#FFFFFF'>'s</font>¶Daño Crítico en <font color='#FF9C00'>9%</font>
+Item_3230405=Aumenta <font color='#FE6D03'>Blood Pillage</font><font color='#FFFFFF'>'s</font>¶Daño Verdadero en <font color='#FF9C00'>3%</font>
+Item_3230501=Aumenta <font color='#FE6D03'>Sweep</font><font color='#FFFFFF'>'s</font>¶Ataque en <font color='#FF9C00'>9%</font>
+Item_3230502=Aumenta <font color='#FE6D03'>Sweep</font><font color='#FFFFFF'>'s</font>¶Tasa Crítica en <font color='#FF9C00'>3%</font>
+Item_3230503=Aumenta <font color='#FE6D03'>Sweep</font><font color='#FFFFFF'>'s</font>¶Daño Crítico en <font color='#FF9C00'>15%</font>
+Item_3230504=Aumenta <font color='#FE6D03'>Sweep</font><font color='#FFFFFF'>'s</font>¶Penetración de Defensa en <font color='#FF9C00'>6%</font>
+Item_3230505=Aumenta <font color='#FE6D03'>Sweep</font><font color='#FFFFFF'>'s</font>¶Daño Verdadero en <font color='#FF9C00'>3%</font>
+Item_3230601=Aumenta <font color='#FE6D03'>Shatter</font><font color='#FFFFFF'>'s</font>¶Ataque en <font color='#FF9C00'>6%</font>
+Item_3230603=Aumenta <font color='#FE6D03'>Shatter</font><font color='#FFFFFF'>'s</font>¶Tasa Crítica en <font color='#FF9C00'>3%</font>
+Item_3230604=Aumenta <font color='#FE6D03'>Shatter</font><font color='#FFFFFF'>'s</font>¶Daño Crítico en <font color='#FF9C00'>9%</font>
+Item_3230605=Aumenta <font color='#FE6D03'>Shatter</font><font color='#FFFFFF'>'s</font>¶Penetración de Defensa en <font color='#FF9C00'>15%</font>
+Item_3230606=Aumenta <font color='#FE6D03'>Shatter</font><font color='#FFFFFF'>'s</font>¶Daño Verdadero en <font color='#FF9C00'>3%</font>
+Item_3230701=Aumenta <font color='#FE6D03'>Crush</font><font color='#FFFFFF'>'s</font>¶Ataque en <font color='#FF9C00'>12%</font>
+Item_3230702=Reduce el costo de MP de <font color='#FE6D03'>Crush</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3230703=Aumenta la Tasa Crítica de <font color='#FE6D03'>Crush</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3230704=Aumenta el Daño Crítico de <font color='#FE6D03'>Crush</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3230705=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Crush</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3230706=Aumenta el Daño Verdadero de <font color='#FE6D03'>Crush</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3230801=Aumenta el Ataque de <font color='#FE6D03'>Threatening Roar</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3230802=Reduce el Ataque de <font color='#FE6D03'>Threatening Roar</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>18%</font>
+Item_3230803=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Threatening Roar</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3230804=Reduce el costo de MP de <font color='#FE6D03'>Threatening Roar</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3230805=Aumenta la Tasa Crítica de <font color='#FE6D03'>Threatening Roar</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3230806=Aumenta el Daño Crítico de <font color='#FE6D03'>Threatening Roar</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3230807=Aumenta el Daño Verdadero de <font color='#FE6D03'>Threatening Roar</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3230901=Aumenta el Ataque de <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3230902=Reduce el costo de MP de <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3230903=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3230904=Aumenta la Tasa Crítica de <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3230905=Aumenta la Duración de Debuff de <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>30%</font>
+Item_3230906=Aumenta el Daño Crítico de <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3230907=Aumenta el Daño Verdadero de <font color='#FE6D03'>Leap Attack</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3231001=Aumenta el Ataque de <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3231003=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3231004=Aumenta la Tasa Crítica de <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3231005=Aumenta el Daño Crítico de <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3231006=Aumenta el Daño Verdadero de <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3231007=Reduce el costo de MP de <font color='#FE6D03'>Twisting Slash</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3231101=Aumenta el Ataque de <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3231102=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3231103=Aumenta la Tasa Crítica de <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3231104=Aumenta el Daño Crítico de <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3231105=Aumenta el Daño Verdadero de <font color='#FE6D03'>Rampage</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3231201=Aumenta la Duración del Encantamiento de <font color='#FE6D03'>Sonorous Roar</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>30%</font>
+Item_3231202=Aumenta la Duración del Miedo de <font color='#FE6D03'>Sonorous Roar</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>60%</font>
+Item_3231203=Reduce el costo de MP de <font color='#FE6D03'>Sonorous Roar</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3231204=Reduce el Tiempo de Reutilización de <font color='#FE6D03'>Sonorous Roar</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3231301=Aumenta el Ataque de <font color='#FE6D03'>Fierce Rage</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3231302=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Fierce Rage</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3231303=Reduce el costo de MP de <font color='#FE6D03'>Fierce Rage</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3231304=Aumenta la Tasa Crítica de <font color='#FE6D03'>Fierce Rage</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3231305=Aumenta el Daño Crítico de <font color='#FE6D03'>Fierce Rage</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3231306=Aumenta el Daño Verdadero de <font color='#FE6D03'>Fierce Rage</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3231401=Aumenta el Ataque de <font color='#FE6D03'>Charge</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3231402=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Charge</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3231403=Reduce el costo de MP de <font color='#FE6D03'>Charge</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3231404=Aumenta la Tasa Crítica de <font color='#FE6D03'>Charge</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3231405=Aumenta el Daño Crítico de <font color='#FE6D03'>Charge</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3231406=Aumenta el Daño Verdadero de <font color='#FE6D03'>Charge</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3231501=Aumenta el Ataque de <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3231502=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3231503=Reduce el costo de MP de <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3231504=Reduce el Tiempo de Reutilización de <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3231505=Aumenta la Tasa Crítica de <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3231506=Aumenta el Daño Crítico de <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3231507=Aumenta el Daño Verdadero de <font color='#FE6D03'>Turning Blow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3231601=Aumenta el Ataque de <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3231602=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3231603=Reduce el costo de MP de <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3231604=Reduce el Tiempo de Reutilización de <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3231605=Aumenta la Tasa Crítica de <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3231606=Aumenta el Daño Crítico de <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3231607=Aumenta el Daño Verdadero de <font color='#FE6D03'>Rageful Blow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3231702=Reduce el Tiempo de Reutilización de <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3231703=Aumenta la Tasa Crítica de <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3231704=Aumenta el Daño Crítico de <font color='#FE6D03'>Wallop</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3231807=Reduce el costo de MP de <font color='#FE6D03'>Last-ditch Effort</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3231808=Reduce el Tiempo de Reutilización de <font color='#FE6D03'>Last-ditch Effort</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3231901=Aumenta el Ataque de <font color='#FE6D03'>Redemption</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3231902=Aumenta la Tasa Crítica de <font color='#FE6D03'>Redemption</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3231903=Aumenta el Daño Crítico de <font color='#FE6D03'>Redemption</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3231904=Aumenta el Daño Verdadero de <font color='#FE6D03'>Redemption</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3231905=Reduce el costo de MP de <font color='#FE6D03'>Redemption</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3231906=Reduce el Tiempo de Reutilización de <font color='#FE6D03'>Redemption</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3232003=Reduce el costo de MP de <font color='#FE6D03'>Lightspeed Slash</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3232004=Aumenta la Velocidad de Ataque de <font color='#FE6D03'>Lightspeed Slash</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>30%</font>
+Item_3232005=Reduce el Tiempo de Reutilización de <font color='#FE6D03'>Lightspeed Slash</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3232101=Aumenta el Ataque de <font color='#FE6D03'>Reversed Rage</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3232102=Aumenta la Recuperación de MP de <font color='#FE6D03'>Reversed Rage</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>60%</font>
+Item_3232103=Reduce el costo de MP de <font color='#FE6D03'>Reversed Rage</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3232104=Reduce el Tiempo de Reutilización de <font color='#FE6D03'>Reversed Rage</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3232201=Aumenta el Ataque de <font color='#FE6D03'>Raging Shout</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3232202=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Raging Shout</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3232203=Aumenta la Tasa Crítica de <font color='#FE6D03'>Raging Shout</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3232204=Aumenta el Daño Crítico de <font color='#FE6D03'>Raging Shout</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3232205=Aumenta el Daño Verdadero de <font color='#FE6D03'>Raging Shout</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3232301=Aumenta el Ataque de <font color='#FE6D03'>Gravity Deflection</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3232302=Reduce el costo de MP de <font color='#FE6D03'>Gravity Deflection</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3232303=Reduce el Tiempo de Reutilización de <font color='#FE6D03'>Gravity Deflection</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3232304=Aumenta la Tasa Crítica de <font color='#FE6D03'>Gravity Deflection</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3232305=Aumenta el Daño Crítico de <font color='#FE6D03'>Gravity Deflection</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3232306=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Gravity Deflection</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3232307=Aumenta el Daño Verdadero de <font color='#FE6D03'>Gravity Deflection</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3232402=Aumenta la Conversión de Daño a HP de <font color='#FE6D03'>Iron Armor</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3232404=Reduce el costo de MP de <font color='#FE6D03'>Iron Armor</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3232405=Reduce el Tiempo de Reutilización de <font color='#FE6D03'>Iron Armor</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3232601=Aumenta el Ataque de <font color='#FE6D03'>Sweeper</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3232602=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Sweeper</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3232603=Aumenta la Tasa Crítica de <font color='#FE6D03'>Sweeper</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3232604=Aumenta el Daño Crítico de <font color='#FE6D03'>Sweeper</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3232605=Aumenta el Daño Verdadero de <font color='#FE6D03'>Sweeper</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3232606=Reduce el costo de MP de <font color='#FE6D03'>Sweeper</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3330101=Aumenta el Ataque de <font color='#FE6D03'>Ice Arrow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3330102=Aumenta la Duración del Debuff de <font color='#FE6D03'>Ice Arrow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>60%</font>
+Item_3330103=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Ice Arrow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3330104=Aumenta la Tasa Crítica de <font color='#FE6D03'>Ice Arrow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3330105=Aumenta el Daño Crítico de <font color='#FE6D03'>Ice Arrow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3330106=Aumenta el Daño Verdadero de <font color='#FE6D03'>Ice Arrow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3330201=Aumenta el Ataque de <font color='#FE6D03'>Weakness Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3330202=Aumenta la Tasa Crítica de <font color='#FE6D03'>Weakness Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3330203=Aumenta el Daño Crítico de <font color='#FE6D03'>Weakness Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3330204=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Weakness Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3330205=Aumenta el Daño Verdadero de <font color='#FE6D03'>Weakness Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3330301=Aumenta el Ataque de <font color='#FE6D03'>Poison Arrow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3330302=Aumenta la Duración de la Habilidad de <font color='#FE6D03'>Poison Arrow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3330303=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Poison Arrow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3330304=Aumenta el Daño Crítico de <font color='#FE6D03'>Poison Arrow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3330305=Aumenta el Daño Verdadero de <font color='#FE6D03'>Poison Arrow</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3330401=Aumenta el Ataque de <font color='#FE6D03'>Buckshot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3330402=Aumenta la Tasa Crítica de <font color='#FE6D03'>Buckshot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3330403=Aumenta el Daño Crítico de <font color='#FE6D03'>Buckshot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3330404=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Buckshot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3330405=Aumenta el Daño Verdadero de <font color='#FE6D03'>Buckshot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3330501=Aumenta el Ataque de <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3330502=Aumenta la Tasa Crítica de <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3330503=Aumenta el Daño Crítico de <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3330504=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3330505=Aumenta el Daño Verdadero de <font color='#FE6D03'>Fire Bullet</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3330601=Aumenta el Ataque de <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3330602=Aumenta la Tasa Crítica de <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3330603=Aumenta el Daño Crítico de <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3330604=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3330605=Aumenta el Daño Verdadero de <font color='#FE6D03'>Penetration</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3330701=Aumenta el Ataque de <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3330702=Aumenta la Duración de Debuff de <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>30%</font>
+Item_3330703=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3330704=Aumenta la Tasa Crítica de <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3330705=Aumenta el Daño Crítico de <font color='#FE6D03'>Electric Explosion</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3330801=Aumenta el Ataque de <font color='#FE6D03'>Multi Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3330802=Disminuye el Costo de MP de <font color='#FE6D03'>Multi Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3330803=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Multi Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3330804=Aumenta la Tasa Crítica de <font color='#FE6D03'>Multi Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3330805=Aumenta el Daño Crítico de <font color='#FE6D03'>Multi Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3330806=Aumenta el Daño Verdadero de <font color='#FE6D03'>Multi Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3330901=Aumenta el Ataque de <font color='#FE6D03'>Roll</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>30%</font>
+Item_3330902=Aumenta la Duración de Encantamiento de <font color='#FE6D03'>Roll</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>30%</font>
+Item_3330904=Disminuye el Enfriamiento de <font color='#FE6D03'>Roll</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3331001=Aumenta el Ataque de <font color='#FE6D03'>Swift Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3331002=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Swift Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3331003=Aumenta la Tasa Crítica de <font color='#FE6D03'>Swift Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3331004=Aumenta el Daño Crítico de <font color='#FE6D03'>Swift Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3331005=Aumenta el Daño Verdadero de <font color='#FE6D03'>Swift Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3331101=Aumenta el Ataque de <font color='#FE6D03'>Condensed Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3331102=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Condensed Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3331103=Aumenta la Tasa Crítica de <font color='#FE6D03'>Condensed Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3331104=Aumenta el Daño Crítico de <font color='#FE6D03'>Condensed Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3331105=Aumenta el Daño Verdadero de <font color='#FE6D03'>Condensed Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3331201=Aumenta el Ataque de <font color='#FE6D03'>Multi Kill</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3331202=Aumenta la Duración de Debuff de <font color='#FE6D03'>Multi Kill</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>24%</font>
+Item_3331203=Disminuye el Costo de MP de <font color='#FE6D03'>Multi Kill</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3331204=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Multi Kill</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3331205=Aumenta la Tasa Crítica de <font color='#FE6D03'>Multi Kill</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3331206=Aumenta el Daño Crítico de <font color='#FE6D03'>Multi Kill</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3331207=Aumenta el Daño Verdadero de <font color='#FE6D03'>Multi Kill</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3331301=Aumenta la Velocidad de Movimiento de <font color='#FE6D03'>Wind Sprint</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3331302=Aumenta la Duración de Encantamiento de <font color='#FE6D03'>Wind Sprint</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3331303=Disminuye el Enfriamiento de <font color='#FE6D03'>Wind Sprint</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3331401=Aumenta el Ataque de <font color='#FE6D03'>Death Sentence</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3331402=Disminuye el Costo de MP de <font color='#FE6D03'>Death Sentence</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3331403=Disminuye el Enfriamiento de <font color='#FE6D03'>Death Sentence</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3331404=Aumenta la Tasa Crítica de <font color='#FE6D03'>Death Sentence</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3331405=Aumenta el Daño Crítico de <font color='#FE6D03'>Death Sentence</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3331406=Aumenta el Daño Verdadero de <font color='#FE6D03'>Death Sentence</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3331407=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Death Sentence</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3331501=Aumenta la Duración del Sigilo de <font color='#FE6D03'>Natural Assimilation</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>30%</font>
+Item_3331502=Aumenta la Duración de Encantamiento de <font color='#FE6D03'>Natural Assimilation</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3331503=Disminuye el Enfriamiento de <font color='#FE6D03'>Natural Assimilation</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3331601=Aumenta el Ataque de <font color='#FE6D03'>Elemental Chain</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3331602=Aumenta la Duración de Inmovilización de <font color='#FE6D03'>Elemental Chain</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3331603=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Elemental Chain</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3331604=Disminuye el Enfriamiento de <font color='#FE6D03'>Elemental Chain</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3331605=Aumenta la Tasa Crítica de <font color='#FE6D03'>Elemental Chain</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3331606=Aumenta el Daño Crítico de <font color='#FE6D03'>Elemental Chain</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3331607=Aumenta el Daño Verdadero de <font color='#FE6D03'>Elemental Chain</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3331701=Aumenta el Ataque de <font color='#FE6D03'>Smokescreen</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3331702=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Smokescreen</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3331703=Aumenta la Tasa Crítica de <font color='#FE6D03'>Smokescreen</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3331704=Aumenta el Daño Crítico de <font color='#FE6D03'>Smokescreen</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3331705=Aumenta el Daño Verdadero de <font color='#FE6D03'>Smokescreen</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3331801=Aumenta el Ataque de <font color='#FE6D03'>Explosive Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3331802=Disminuye el Costo de MP de <font color='#FE6D03'>Explosive Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3331803=Disminuye el Enfriamiento de <font color='#FE6D03'>Explosive Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3331804=Aumenta la Tasa Crítica de <font color='#FE6D03'>Explosive Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3331805=Aumenta el Daño Crítico de <font color='#FE6D03'>Explosive Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3331806=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Explosive Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3331807=Aumenta el Daño Verdadero de <font color='#FE6D03'>Explosive Shot</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3331901=Aumenta el Ataque de <font color='#FE6D03'>Poison Throw</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3331902=Aumenta la Duración del Debuff de <font color='#FE6D03'>Poison Throw</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3331903=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Poison Throw</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3331904=Aumenta la Tasa Crítica de <font color='#FE6D03'>Poison Throw</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3331905=Aumenta el Daño Crítico de <font color='#FE6D03'>Poison Throw</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3331906=Aumenta el Daño Verdadero de <font color='#FE6D03'>Poison Throw</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3332001=Aumenta la Velocidad de Ataque de <font color='#FE6D03'>Green Sanctum</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3332002=Aumenta la Duración de Encantamiento de <font color='#FE6D03'>Green Sanctum</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3332003=Disminuye el Costo de MP de <font color='#FE6D03'>Green Sanctum</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3332004=Disminuye el Enfriamiento de <font color='#FE6D03'>Green Sanctum</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3332102=Aumenta la Duración de Encantamiento de <font color='#FE6D03'>Madness Power</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3332103=Disminuye el Enfriamiento de <font color='#FE6D03'>Madness Power</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3332104=Disminuye el Costo de MP de <font color='#FE6D03'>Madness Power</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3332201=Aumenta el Ataque de <font color='#FE6D03'>Tree of the Otherworld</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3332202=Disminuye el Costo de MP de <font color='#FE6D03'>Tree of the Otherworld</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3332203=Disminuye el Enfriamiento de <font color='#FE6D03'>Tree of the Otherworld</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3332204=Aumenta la Tasa Crítica de <font color='#FE6D03'>Tree of the Otherworld</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3332205=Aumenta el Daño Crítico de <font color='#FE6D03'>Tree of the Otherworld</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3332206=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Tree of the Otherworld</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3332207=Aumenta el Daño Verdadero de <font color='#FE6D03'>Tree of the Otherworld</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3332301=Aumenta el Ataque de <font color='#FE6D03'>Bombardment</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3332302=Disminuye el Costo de MP de <font color='#FE6D03'>Bombardment</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3332303=Disminuye el Enfriamiento de <font color='#FE6D03'>Bombardment</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3332304=Aumenta la Tasa Crítica de <font color='#FE6D03'>Bombardment</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3332305=Aumenta el Daño Crítico de <font color='#FE6D03'>Bombardment</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3332306=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Bombardment</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3332307=Aumenta el Daño Verdadero de <font color='#FE6D03'>Bombardment</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3332401=Aumenta el Ataque de <font color='#FE6D03'>Torment Wall</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3332402=Disminuye el Costo de MP de <font color='#FE6D03'>Torment Wall</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3332403=Disminuye el Enfriamiento de <font color='#FE6D03'>Torment Wall</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3332404=Aumenta la Tasa Crítica de <font color='#FE6D03'>Torment Wall</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3332405=Aumenta el Daño Crítico de <font color='#FE6D03'>Torment Wall</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3332406=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Torment Wall</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3332407=Aumenta el Daño Verdadero de <font color='#FE6D03'>Torment Wall</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3332501=Aumenta el Ataque de <font color='#FE6D03'>Torment Magnetic Field</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3332502=Disminuye el Costo de MP de <font color='#FE6D03'>Torment Magnetic Field</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3332503=Disminuye el Enfriamiento de <font color='#FE6D03'>Torment Magnetic Field</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3332504=Aumenta la Tasa Crítica de <font color='#FE6D03'>Torment Magnetic Field</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3332505=Aumenta el Daño Crítico de <font color='#FE6D03'>Torment Magnetic Field</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3332506=Aumenta el Daño Verdadero de <font color='#FE6D03'>Torment Magnetic Field</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3332507=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Torment Magnetic Field</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3430101=Aumenta el Ataque de <font color='#FE6D03'>Chaos Orb</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3430102=Aumenta la Tasa Crítica de <font color='#FE6D03'>Chaos Orb</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3430103=Aumenta el Daño Crítico de <font color='#FE6D03'>Chaos Orb</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3430104=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Chaos Orb</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3430105=Aumenta el Daño Verdadero de <font color='#FE6D03'>Chaos Orb</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3430201=Aumenta el Ataque de <font color='#FE6D03'>Energy Explosion</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3430202=Aumenta la Tasa Crítica de <font color='#FE6D03'>Energy Explosion</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3430203=Aumenta el Daño Crítico de <font color='#FE6D03'>Energy Explosion</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3430204=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Energy Explosion</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3430205=Aumenta el Daño Verdadero de <font color='#FE6D03'>Energy Explosion</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3430301=Aumenta el Ataque de <font color='#FE6D03'>Shockwave</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3430302=Aumenta la Duración del Debuff de <font color='#FE6D03'>Shockwave</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3430303=Aumenta la Tasa Crítica de <font color='#FE6D03'>Shockwave</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3430304=Aumenta el Daño Crítico de <font color='#FE6D03'>Shockwave</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3430305=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Shockwave</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3430306=Aumenta el Daño Verdadero de <font color='#FE6D03'>Shockwave</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3430401=Aumenta el Ataque de <font color='#FE6D03'>War Veteran</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3430402=Aumenta la Penetración de Defensa de <font color='#FE6D03'>War Veteran</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3430403=Aumenta la Tasa Crítica de <font color='#FE6D03'>War Veteran</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3430404=Aumenta el Daño Crítico de <font color='#FE6D03'>War Veteran</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3430405=Aumenta el Daño Verdadero de <font color='#FE6D03'>War Veteran</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3430501=Aumenta el Ataque de <font color='#FE6D03'>Marching Blade</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3430502=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Marching Blade</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
+Item_3430503=Aumenta la Tasa Crítica de <font color='#FE6D03'>Marching Blade</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3430504=Aumenta el Daño Crítico de <font color='#FE6D03'>Marching Blade</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>9%</font>
+Item_3430505=Aumenta el Daño Verdadero de <font color='#FE6D03'>Marching Blade</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3430601=Aumenta el Ataque de <font color='#FE6D03'>Magic Sword Throw</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>12%</font>
+Item_3430602=Aumenta la Tasa Crítica de <font color='#FE6D03'>Magic Sword Throw</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>3%</font>
+Item_3430603=Aumenta el Daño Crítico de <font color='#FE6D03'>Magic Sword Throw</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>15%</font>
+Item_3430604=Aumenta la Penetración de Defensa de <font color='#FE6D03'>Magic Sword Throw</font><font color='#FFFFFF'>'s</font>¶en <font color='#FF9C00'>6%</font>
 Item_3430605=Increases <font color='#FE6D03'>Magic Sword Throw</font><font color='#FFFFFF'>'s</font>¶True Damage by <font color='#FF9C00'>3%</font>
 Item_3430701=Increases <font color='#FE6D03'>Fire Clutches</font><font color='#FFFFFF'>'s</font>¶Attack by <font color='#FF9C00'>12%</font>
 Item_3430702=Increases <font color='#FE6D03'>Fire Clutches</font><font color='#FFFFFF'>'s</font>¶Defense Penetration by <font color='#FF9C00'>6%</font>
