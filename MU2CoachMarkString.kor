@@ -109,7 +109,7 @@ Contents_56000=Puedes obtener <font color='#FDD890'>objetos útiles</font> a par
 Contents_57000=Puedes obtener <font color='#FDD890'>objetos útiles</font> de los materiales que extrajiste de <font color='#FDD890'>Cubos</font>.
 Contents_58000=¡Puedes aprender una <font color='#FDD889'>nueva Habilidad de Experto!</font><br>- Has adquirido una <font color='#FDD889'>nueva Habilidad de Experto</font>.<br>- Abre tu <font color='#FDD889'>ventana de Habilidad (K)</font> para comprobarlo.
 Contents_59000=¡Puedes aprender una <font color='#FDD889'>nueva Habilidad de Experto!</font><br>- Has adquirido una <font color='#FDD889'>nueva Habilidad de Experto</font>.<br>- Abre tu <font color='#FDD889'>Ventana de Habilidad (K)</font> para comprobarlo.
-Contents_60000=¡Felicidades! <font color='#FDD889'>¡Has alcanzado el Nivel 65!</font><br>- Has adquirido una <font color='#FDD889'>nueva Ranura de Habilidad Experto</font>. <br>- Has recibido el potenciador <font color='#FDD889'>Retoño Creciente</font>. <br>- Puedes aprender fácilmente cómo progresar a través de <font color='#FDD889'>Entrenamiento de Progresión de Linda</font>.<br>- Pulsa el botón <font color='#FDD889'>Detalles</font> para ver más información.
+Contents_60000=¡Felicidades! <font color='#FDD889'>¡Has alcanzado el Nivel 65!</font><br>- Has adquirido una <font color='#FDD889'>nueva Ranura de Habilidad Experto</font>. <br>- Has recibido el potenciador <font color='#FDD889'>Brote Creciente</font>. <br>- Puedes aprender fácilmente cómo progresar a través de <font color='#FDD889'>Entrenamiento de Progresión de Linda</font>.<br>- Pulsa el botón <font color='#FDD889'>Detalles</font> para ver más información.
 Contents_61000=<font color='#FDD889'>Ohrdor</font> ofrece todas las comodidades que puedas pedir!<br>- Podrás disfrutar de varios Mapas de Misión en la <font color='#FDD889'>Sala del Deber</font>.
 Contents_62000=<font color='#FDD889'>¡Has conseguido un artefacto!</font><br>- <font color='#FDD889'>Los artefactos</font> pueden aumentar significativamente tu progreso. Cada tipo ofrece un efecto diferente.<br>- Pulsa el botón <font color='#FDD889'>Detalles</font> para obtener más información.
 Contents_63000=¡Felicidades! <font color='#FDD889'>¡Has alcanzado el nivel 70!</font><br>- Ahora puedes adquirir un <font color='#FDD889'>Talismán.</font><br>- Ahora puedes probar suerte en <font color='#FDD889'>El Laberinto Despertado de Lupa</font>. <br>- Ahora puedes acceder al <font color='#FDD889'>Centro de Entrenamiento de Iris</font>.<br>- Pulsa el botón <font color='#FDD889'>Detalles</font> para obtener más información.
@@ -252,7 +252,7 @@ Content_SubTitle_1=Nueva habilidad Experto y ranuras
 Content_Text_1=- Puedes aprender una nueva Habilidad de Experto. <br>- Se ha desbloqueado la tercera Ranura de Habilidad Experto.
 Content_GuideLink_1=1003002
 Content_Image_1=SuperGuía_04
-Content_Title_2=Retoño Creciente
+Content_Title_2=Brote Creciente
 Content_SubTitle_2=Potente potenciador de crecimiento
 Content_Text_2=- ¡Has recibido el potenciador Brote Creciente!<br>- Ciertos mapas de misión y Dungeons te otorgarán recompensas extra. <br>- ¡Los miembros de tu grupo también recibirán recompensas extra!
 Content_GuideLink_2=1049002
