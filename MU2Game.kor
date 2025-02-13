@@ -4731,7 +4731,7 @@ LS_TotalScorePoint=Puntos totales
 
 [MU2GFxItemSocket]
 LS_Title=Añadir ranura de equipo
-LS_DescTop=Añadir ranura de joya¶a artículos de equipo.
+LS_DescTop=Añadir ranura de joya¶a Items de equipo.
 LS_DescBottom=Añadir un elemento de equipo para añadir una ranura.
 LS_NeedItem=Requerido
 LS_SuccessDesc0=Añadir una ranura al Item de equipo.
