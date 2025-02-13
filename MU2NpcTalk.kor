@@ -1915,8 +1915,8 @@ Sayhello2=Mis compañeros caballeros, abran los ojos. Y sean libres... de las pe
 
 [Npc_8355]
 Name=GM Character
-Sayhello1=Hola, soy el GM ✪Funky✪.
-Sayhello2=Que tengas un gran día en LAMUS Legend.
+Sayhello1=Hola, soy el ADM ✪Funky✪.
+Sayhello2=Que tengas un gran día en LAMUS.
 Greeting1=Saludos, aventurero.
 Greeting2=El juego excesivo puede ser perjudicial para tu salud. Asegúrate de descansar lo suficiente.
 Greeting3=Puedo ayudarte a resolver cualquier cosa.
@@ -9519,7 +9519,7 @@ Sayhello1=Tengo una variedad de artículos de la luna en venta.
 
 [Npc_19648]
 Name=Envoy Quirrel
-Sayhello1=Si precisas ayuda, no dudes en abrir un ticket. Gracias por jugar Lamus Legend
+Sayhello1=Si precisas ayuda, no dudes en abrir un ticket. Gracias por jugar LAMUS
 
 [Npc_19651]
 Name=Envoy Rye
@@ -9531,4 +9531,4 @@ Sayhello1=Un examen rápido: ¿quién es el Enviado más generoso del mundo? ¡�
 
 [Npc_19657]
 Name=Envoy Jiji
-Sayhello1=Te dejo mi stream twitch.tv/cahos_gaming muchas gracias por jugar Lamus Legend 
+Sayhello1=Te dejo mi stream twitch.tv/cahos_gaming muchas gracias por jugar LAMUS 
