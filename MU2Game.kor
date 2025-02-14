@@ -3372,7 +3372,7 @@ LS_DetailInfo=Detalles
 LS_EnterConditionTitle=Requisitos de entrada
 LS_MyRecordTitle=Mi récord más alto
 LS_RewardTitle=Recompensa principal
-LS_SproutBonusRewardTitle=Bonificación de brote
+LS_SproutBonusRewardTitle=Bonus de brote
 LS_NeedResourceTitle=Coste
 LS_MazeLodTitle=Dificultad del laberinto
 LS_MyArtifactTitle=Artefacto de Mejora
@@ -5193,7 +5193,7 @@ LS_AddNewManufacture=Obtenido una nueva lista de craft.
 LS_MainMenuBtnLabel=Menu
 LS_LegendShopBtnLabel=Tienda
 LS_LueryBoxBtnLabel=Tesoro de Luery's
-LS_SproutBonusLabel=Bonificación de brote
+LS_SproutBonusLabel=Bonus de brote
 
 [MU2GFxItemDisassemble]
 LS_Title=Desmontar Items
@@ -8318,7 +8318,7 @@ LS_ChanceCount=%s_1
 LS_Title=Bono por brote
 LS_ReceiveReward=Reclamar recompensa ahora
 LS_NextRewardReaminTime=Próxima recompensa %s_1
-LS_SproutBonusDesc[0]=Una poderosa bonificación de Brote está actualmente en efecto.<br>Pasa el ratón por encima del icono de mejora de Brote para ver sus efectos.
+LS_SproutBonusDesc[0]=Un poderoso bonus de Brote está actualmente en efecto.<br>Pasa el ratón por encima del icono de mejora de Brote para ver sus efectos.
 LS_SproutBonusDesc[1]=Este potenciador Brote se mantiene hasta que alcanzas el nivel de alma 300. Puedes recibir el potenciador una última vez cuando alcances el nivel 300.
 LS_SproutBonusDesc[2]=Los usuarios bonificados pueden recibir beneficios adicionales en la mayoría de las características del juego, y dichas bonificaciones a menudo se extienden a los miembros del grupo, así que no dudes en unirte a grupos.<br>Puedes encontrar información sobre las recompensas de bonificación en los detalles de entrada a las Dungeons.
 LS_RewardBottomDesc=Puedes recibir una recompensa cada 2 horas, a partir del mediodía.
