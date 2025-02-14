@@ -4338,8 +4338,8 @@ LS_CancelString=Cancelar (Espacio)
 LS_CloseString=Cerrar (Espacio)
 LS_GreenZen=Gema mágica
 LS_Zen=Zen
-LS_RedZen=Redeno
-LS_ImputedRedZen=Rojo
+LS_RedZen=Redzen
+LS_ImputedRedZen=Redzen
 LS_SelectItemTitle=Seleccione una recompensa adicional.
 LS_SelectBtn=Seleccionar
 
@@ -5969,7 +5969,7 @@ LS_GradeSoldier=Soldado
 LS_GradeNewMember=Recluta
 
 [MU2GFxCharacterGuide]
-LS_RecommendGuideTitle=Patrón de crecimiento recomendado
+LS_RecommendGuideTitle=Builds recomendadas
 LS_VideoNone=Los vídeos no están disponibles todavía.
 LS_RecommendWeaponTitle=Equipo principal
 LS_RecommendAbilityTitle=Estadísticas principales
@@ -5977,8 +5977,8 @@ LS_RecommendSkillTitle=Habilidades principales
 LS_AttackTitle=Ataque
 LS_HealthTitle=Vida
 LS_TeamPlayTitle=Apoyo
-LS_SelectCardMsg=Selecciona un patrón de crecimiento que quieras probar durante el tutorial.
-LS_ChangeCardMsg=Seleccione un nuevo patrón para reiniciar el tutorial.
+LS_SelectCardMsg=Selecciona una build que quieras probar durante el tutorial.
+LS_ChangeCardMsg=Seleccione una nueva build para reiniciar el tutorial.
 LS_SelectBtn=OK
 LS_ExitBtn=Continuar (Esc)
 LS_Level=Nivel
