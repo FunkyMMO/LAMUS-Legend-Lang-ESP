@@ -2362,13 +2362,13 @@ Index_19=Chaos Castle
 
 [RankSystem]
 CharLevel=Personajes de nivel 10 en niveles superiores y con mayor cantidad de EXP
-combatPower=Personajes con el mayor Poder de Combate
-SoulLevel=Personajes con el mayor Nivel de Alma y más EXP
+combatPower=Personajes con mayor poder de combate
+SoulLevel=Personajes con mayor nivel de alma
 accountlevel=Niveles más altos
 Zen=Personajes con más Zen
 GreenZen=Personajes con más Gemas Mágicas
 normaldungeon=Tiempo más rápido en Dungeons míticas 3
-epicdungeon=Personajes que superaron las Dungeons épicas 3 en el menor tiempo posible
+epicdungeon=Personajes que superaron las Dungeons épicas en el menor tiempo posible
 MissionMap=Récords de victorias más altos
 BloodCastle=Personajes que han superado el Blood Castle en el menor tiempo posible
 EndlessTower=Personajes que han superado el piso más alto de Endless Tower más rápido que los demás.
@@ -2379,7 +2379,7 @@ netherworld=Personajes que han superado Pit of The Dead más difícil y más rá
 fireevil=Personajes que han superado Fire Demon Cave más difícil más rápido que otros.
 iceevil=Personajes que superaron Ice Demon Cave más rápido que otros.
 AirShipDefence=Personajes que han superado Airship Defense más rápido que otros.
-chaos_castle=Personaje con el mayor número de victorias finales en el Chaos Castle
+chaos_castle=Personaje con el mayor número de victorias en Chaos Castle
 rank_charlevel=Nivel
 rank_combatpower=Poder de combate
 rank_soullevel=Nivel del alma
