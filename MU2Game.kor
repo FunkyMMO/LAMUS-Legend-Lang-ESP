@@ -1,5 +1,5 @@
 [MU2GFxFrontEnd_Container_Login]
-LS_GameSubTitle=Afterlife
+LS_GameSubTitle=LAMUS
 LS_LoginView=Inicio de sesión
 LS_ID=ID
 LS_Password=Contraseña
@@ -2513,8 +2513,8 @@ Zen=<font color='#fce7b0'>Zen</font><br>La moneda por defecto de MU Continent.<b
 GreenZen=<font color='#c7ff88'>Gemas Mágicas</font><br>Una valiosa moneda del Continente MU que se ata a sus dueños.
 RiftPoint=<font color='#88d6ff'>Fragmento de Rift</font><br>Una moneda encontrada en la Rift.<br>Puede ser usada a través de los Comerciantes de Fragmentos de Rift.
 KnightsPoint=<font color='#ddafff'>Puntos de Contribución de guild</font><br>Puntos que puedes ganar mientras progresas en el juego. Los Puntos de Contribución se pueden utilizar en la Tienda de Contribución del territorio.
-RedZen=<font color='#fbaf5d'>Redzen</font><br>Una moneda preciosa que se puede comprar con WCoin.
-RedZen2=<font color='#fbaf5d'>Redzen</font><br>Una moneda preciosa que se puede comprar con Daum Cash.
+RedZen=<font color='#fbaf5d'>Redzen</font><br>Una moneda que se puede obtener jugando y comprando con WCoins.
+RedZen2=<font color='#fbaf5d'>Redzen</font><br>Una moneda que se puede obtener jugando y comprando con WCoins.
 LS_EmotionPoint=<font color='#bbbbbb'>Energía de Éter</font><br>Energía inestable extraída de Soulstones e ingredientes mágicos. Explota al entrar en contacto con Sealstones, materializándose.
 ImputedRedZen=<font color='#fc7711'>Redzen</font><br>Una moneda que se encuentra en el juego.<br>Se puede usar en la Tienda LAMUS igual que el Redzen normal.
 WCoin=<font color='#ffcc99'>WCoin</font><br>Moneda utilizada para comprar varios servicios y productos del juego.
@@ -6232,7 +6232,7 @@ LS_NoCategoryDesc=Se implementará en breve.
 LS_NoItemCap=No hay ningún artículo registrado.
 LS_NoItemDesc=Se implementará en breve.
 LS_NoEventCap=Tienda
-LS_NoEventDesc=
+LS_NoEventDesc=La tienda cambia todos los Martes 14:00hs (GMT-3). Descubre nuevos atuendos, monturas e items.
 LS_NoEventItemCap=No hay ningún elemento registrado.
 LS_NoEventItemDesc=Se implementará en breve.
 LS_Date=DD, MM, YY
@@ -6274,7 +6274,7 @@ LS_BuyPackage=Genera todos los siguientes elementos cuando se utiliza.
 LS_BuyGacha=<font color='#fdc243'>Genera uno de los siguientes Items.</font>
 LS_BuyRefund=He leído, entiendo y acepto la política de compra.
 LS_RefundPolicyCap=Precaución
-LS_RefundPolicyDesc=* He leído y comprendido las condiciones de servicio de Valofe y renuncio a mi derecho a cancelar la compra o a recibir un reembolso.
+LS_RefundPolicyDesc=* He leído y comprendido las condiciones de servicio de LAMUS y renuncio a mi derecho a cancelar la compra o a recibir un reembolso.
 LS_BuyBtn=Comprar
 LS_PresentBtn=Comprar para otra persona
 LS_PresentDefName=Introduzca el nombre del personaje.

@@ -9768,8 +9768,8 @@ Item_200150=Wing Growth Stone Package
 Item_200151=Wing Growth Stone Random Package
 Item_200152=Wing Evolution Stone Package
 Item_200153=Wing Evolution Stone Random Package
-Item_200154=Ordinary Net Cafe Box
-Item_200155=Gold Net Cafe Box
+Item_200154=Caja de recompensas común
+Item_200155=Caja de recompensas especial
 Item_62902=Infinite Essence
 Item_10110010=Training Scepter
 Item_10110020=Contract Knight Scepter
@@ -39504,8 +39504,8 @@ Item_200150=Paquete de Piedras de Crecimiento de Alas
 Item_200151=Paquete Aleatorio de Piedras de Crecimiento de Alas
 Item_200152=Paquete de Piedras de Evolución de Alas
 Item_200153=Paquete Aleatorio de Piedras de Evolución de Alas
-Item_200154=Una Caja de Net Cafe con apariencia ordinaria. Se otorga a los jugadores del Servicio Premium que inician sesión en un net cafe.¶<font color='#A9ABAA'>Haz clic derecho para abrir.</font>
-Item_200155=Una Caja de Net Cafe dorada y brillante. Se otorga a los jugadores del Servicio Premium que inician sesión en un net cafe.¶<font color='#A9ABAA'>Haz clic derecho para abrir.</font>
+Item_200154=Una Caja de recompensas con apariencia ordinaria. Se otorga a los jugadores del Servicio Platinum.¶<font color='#A9ABAA'>Haz clic derecho para abrir.</font>
+Item_200155=Una Caja de recompensas dorada y brillante. Se otorga a los jugadores del Servicio Platinum.¶<font color='#A9ABAA'>Haz clic derecho para abrir.</font>
 Item_62902=Un objeto material obtenido de la Torre Infinita.<br>Se puede sentir un poder desconocido emanando de él.
 Item_10110010=
 Item_10110020=
