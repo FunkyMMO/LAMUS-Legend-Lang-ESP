@@ -1401,19 +1401,19 @@ Mission_Target1=Entrar en la casa del nuevo rico
 
 [Quest_225]
 Name=Creando el Equipo de Incursión del Torneo
-Occur_String1=¡Finalmente, se han anunciado las directrices para los equipos de incursión del Torneo!<br>¡Únete al Torneo y compite contra otros gremios por territorio, gloria y fama!<br>¡Pon a prueba tu habilidad con la espada y la magia contra los demás!
-Occur_String2=Este torneo no es una pelea de bar. Sigue reglas estrictas.<br>Todos los gremios participantes deben elegir a un líder de incursión, crear un equipo de incursión y competir en las partidas en horarios determinados.
-Occur_String3=Si quieres más detalles, Durendal y Gladius en el Guild Harbor pueden ayudarte.<br>Ellos están ahí para ayudar a los gremios a crear y despachar a sus equipos de incursión.
+Occur_String1=¡Finalmente, se han anunciado las directrices para los equipos de incursión del Torneo!<br>¡Únete al Torneo y compite contra otros guilds por territorio, gloria y fama!<br>¡Pon a prueba tu habilidad con la espada y la magia contra los demás!
+Occur_String2=Este torneo no es una pelea de bar. Sigue reglas estrictas.<br>Todos los guilds participantes deben elegir a un líder de incursión, crear un equipo de incursión y competir en las partidas en horarios determinados.
+Occur_String3=Si quieres más detalles, Durendal y Gladius en el Guild Harbor pueden ayudarte.<br>Ellos están ahí para ayudar a los guilds a crear y despachar a sus equipos de incursión.
 Doing_String=¿Eh? ¿Por qué sigues aquí? El Guild Harbor está al suroeste de aquí.
-Completable_String1=Estoy aquí por el equipo de incursión del gremio.<br>Me dijeron que podrías ayudarme a crear uno.
-Completable_String2=Bienvenido. Puedo decir que has enfrentado más de tu parte justa de desafíos.<br>Cualquier gremio tiene suerte de tener guerreros experimentados como tú.
-Completable_String3=El equipo de incursión es el representante de su gremio en el Torneo.<br>Solo los líderes de gremios pueden postular para crear uno durante la semana del Torneo.
-Completable_String4=Si la postulación de tu gremio es aceptada, entonces se le dará tiempo para crear un equipo de incursión.<br>Solo el líder de incursión—generalmente el líder del gremio o alguien que él designe—puede crear un equipo de incursión.
+Completable_String1=Estoy aquí por el equipo de incursión del guild.<br>Me dijeron que podrías ayudarme a crear uno.
+Completable_String2=Bienvenido. Puedo decir que has enfrentado más de tu parte justa de desafíos.<br>Cualquier guild tiene suerte de tener guerreros experimentados como tú.
+Completable_String3=El equipo de incursión es el representante de su guild en el Torneo.<br>Solo los líderes de guilds pueden postular para crear uno durante la semana del Torneo.
+Completable_String4=Si la postulación de tu guild es aceptada, entonces se le dará tiempo para crear un equipo de incursión.<br>Solo el líder de incursión—generalmente el líder del guild o alguien que él designe—puede crear un equipo de incursión.
 Completable_String5=Una vez que se crea un equipo de incursión, puedes reclutar miembros para tus partidas y prepararte para despachar al equipo.<br>Cuando comienza el Torneo, todos los equipos de incursión parten para sus partidas, ¡es un espectáculo para ver!
 Completable_String6=Eso es todo lo que necesitas saber sobre la creación de un equipo de incursión.<br>Parece complicado, pero inténtalo una o dos veces. Le cogerás el truco.
-Complete_String=Durendal me explicó cómo crear el equipo de incursión. Primero, el líder de mi gremio debe postular para el Torneo, y luego mi líder de incursión podrá crear un equipo, reclutar miembros y prepararse para despachar al equipo.
-List_String=Estoy interesado en el equipo de incursión del gremio. Debería ir a hablar con Durendal, que está en el Guild Harbor ayudando a los gremios a crearlo.
-Mission_String=Debo escuchar y aprender cómo crear el equipo de incursión del gremio.
+Complete_String=Durendal me explicó cómo crear el equipo de incursión. Primero, el líder de mi guild debe postular para el Torneo, y luego mi líder de incursión podrá crear un equipo, reclutar miembros y prepararse para despachar al equipo.
+List_String=Estoy interesado en el equipo de incursión del guild. Debería ir a hablar con Durendal, que está en el Guild Harbor ayudando a los guilds a crearlo.
+Mission_String=Debo escuchar y aprender cómo crear el equipo de incursión del guild.
 Mission_Target1=Habla con Durendal
 
 [Quest_226]
@@ -1421,16 +1421,16 @@ Name=Despachando el Equipo de Incursión del Torneo
 Occur_String1=Una vez que cree un equipo de incursión, ¿qué sigue?<br>Dijiste que tenía que unirme al Torneo, ¿no?
 Occur_String2=Sí. Aunque crees un equipo de incursión, no servirá de nada si no te marchas para tu partida.<br>Habla con Gladius, que está a mi lado.<br>Él puede explicarte todo sobre ello.
 Doing_String=Ve a Gladius. Él puede decirte cómo despachar a tu equipo para el Torneo.
-Completable_String1=Veo que viniste a mí después de hablar con Durendal, supongo que quieres saber sobre el equipo de incursión del gremio.<br>Puedo explicarte cómo despachar a tu equipo para las partidas del Torneo.
+Completable_String1=Veo que viniste a mí después de hablar con Durendal, supongo que quieres saber sobre el equipo de incursión del guild.<br>Puedo explicarte cómo despachar a tu equipo para las partidas del Torneo.
 Completable_String2=Los equipos de incursión pueden ser despachados para sus partidas 5 minutos antes de que comience el Torneo.<br>Por supuesto, todos los miembros de tu equipo de incursión, incluido su líder, deben estar presentes para hacerlo.
 Completable_String3=Cuando todos los miembros estén listos, entonces el líder de incursión puede venir a mí y anunciar su salida.<br>Luego, tu equipo de incursión partirá hacia el campo de batalla.<br>Lo que suceda después depende de ti y de tus miembros.
 Completable_String4=El proceso de despacho es bastante simple, pero hay algo que debes recordar:<br>No puedes despachar el equipo una vez que comience el Torneo. Serás automáticamente descalificado.<br>Y tendrás que esperar otro Torneo.
 Completable_String5=¿Estás diciendo que solo tengo 5 minutos para anunciar mi disposición para despachar? No es suficiente tiempo.
-Completable_String6=Este torneo no es una pelea callejera. Hay mucho en juego para los gremios participantes.<br>Esta restricción de tiempo es necesaria para filtrar a aquellos que no merecen estar en la competencia.
-Completable_String7=Esto se llama la Moneda de Trofeo. Puedes donarla a tu gremio y aumentar tus Trofeos de Gremio, que son necesarios para unirte al Torneo.<br>Es valiosa. Úsala para unirte al Torneo más tarde.<br>Ahora, te veré cuando comience el Torneo.
+Completable_String6=Este torneo no es una pelea callejera. Hay mucho en juego para los guilds participantes.<br>Esta restricción de tiempo es necesaria para filtrar a aquellos que no merecen estar en la competencia.
+Completable_String7=Esto se llama la Moneda de Trofeo. Puedes donarla a tu guild y aumentar tus Trofeos de Guild, que son necesarios para unirte al Torneo.<br>Es valiosa. Úsala para unirte al Torneo más tarde.<br>Ahora, te veré cuando comience el Torneo.
 Complete_String=Gladius me explicó cómo despachar al equipo para el Torneo. Los equipos de incursión deben ser despachados dentro de un período de tiempo específico, y aquellos que no lo hagan serán descalificados cuando comience el Torneo.
-List_String=Quiero saber cómo despachar al equipo de incursión. Debería hablar con Gladius, que está en el Guild Harbor ayudando a los gremios con eso.
-Mission_String=Debo escuchar y aprender cómo despachar al equipo de incursión del gremio.
+List_String=Quiero saber cómo despachar al equipo de incursión. Debería hablar con Gladius, que está en el Guild Harbor ayudando a los guilds con eso.
+Mission_String=Debo escuchar y aprender cómo despachar al equipo de incursión del guild.
 Mission_Target1=Habla con Gladius
 
 [Quest_230]
@@ -1548,7 +1548,7 @@ Occur_String5=...<br>¡Regresa al Airship Dockyard ahora mismo! ¡Ese lugar est�
 Occur_String6=¡Maldición! ¿Por qué nunca fallan mis malos presentimientos?
 Doing_String=Seguiré investigando esta nota. Podría haber algo más que sea importante.
 Complete_String=Entré en el Airship Dockyard. Ya había sido infiltrado por los Demonios que querían destruir el dirigible. Maldición, tendré que luchar ahora.
-List_String=Los Demonios han invadido el lugar supuestamente más seguro de Ohrdor, el Puerto del Gremio. Será mejor que me dirija al Airship Dockyard allí de inmediato.
+List_String=Los Demonios han invadido el lugar supuestamente más seguro de Ohrdor, el Puerto del Guild. Será mejor que me dirija al Airship Dockyard allí de inmediato.
 Mission_String=Detén a los Demonios antes de que ataquen el Airship Dockyard
 Mission_Target1=Entra en el Airship Dockyard
 
@@ -3436,7 +3436,7 @@ Occur_String3=Oh, y si visitas Ohrdor y no sabes a dónde ir primero, habla con 
 Doing_String=Hm... ¿Cuándo puedo ser trasladado a Ohrdor? Este lugar es un poco demasiado frío para mi gusto...
 Completable_String1=¡Bienvenido a Ohrdor, la ciudad más grande del continente MU!<br>Esta ciudad, como su reputación sugiere, tiene todo lo que puedas imaginar y más. Es tan grande que puedes perderte fácilmente en ella, si no mantienes la vista en el mapa. También es lo suficientemente grande como para tener portales de viaje que conectan diferentes áreas dentro de la ciudad.
 Completable_String2=Actualmente, te encuentras en el Distrito Portuario. Es la entrada a la ciudad por la que todos los que vienen a Ohrdor pasan. Los Distritos Central y Comercial están al norte.
-Completable_String3=El Central District, con un gran parque en el centro, es donde se encuentran la mayoría de las instalaciones administrativas. En el lado norte de este distrito, puedes encontrar personas encargadas de tareas como la creación y gestión de gremios. Y también está conectado a la Sala de Deber, donde guerreros como tú pueden demostrar su valía y proteger el continente MU.<br>Oh, y la mansión del Alcalde Dumpain está en el lado oeste también. ¡Sí, es realmente grande!
+Completable_String3=El Central District, con un gran parque en el centro, es donde se encuentran la mayoría de las instalaciones administrativas. En el lado norte de este distrito, puedes encontrar personas encargadas de tareas como la creación y gestión de guilds. Y también está conectado a la Sala de Deber, donde guerreros como tú pueden demostrar su valía y proteger el continente MU.<br>Oh, y la mansión del Alcalde Dumpain está en el lado oeste también. ¡Sí, es realmente grande!
 Completable_String4=El Commercial District es, como puedes imaginar, literalmente un distrito comercial. Allí, puedes comprar y vender todo tipo de equipo, intercambiar artículos a través del Corredor de Comercio, y fabricar y encantar tu equipo. Debe ser el distrito más popular entre los guerreros de contrato como tú, %s_9_1.
 Completable_String5=Eso concluye mi introducción a la ciudad. Pero ver para creer. ¿Por qué no exploras por tu cuenta?<br>Espero que disfrutes tu estadía en Ohrdor.
 Complete_String=Recibí información sobre Ohrdor. Es una ciudad grande y tiene todo lo que puedo imaginar. Debería tomarme mi tiempo para explorar.
@@ -19441,7 +19441,7 @@ Mission_String=Derrotar a %s_1_1
 Mission_Target1=Mata a %s_1_1
 
 [Template_18001]
-Name=Invasión de Monstruos en la Sala del Gremio
+Name=Invasión de Monstruos en la Sala del Guild
 Occur_String1=Los monstruos bajo el control de Sekneum están apareciendo debido a la influencia del Fragmento de Dios.
 Doing_String=Mata al %s_1_1 que ha sido invocado por el Fragmento de Dios.
 Completable_String1=

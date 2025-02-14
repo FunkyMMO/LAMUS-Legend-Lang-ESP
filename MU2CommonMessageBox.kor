@@ -51,7 +51,7 @@ ExitDungeon=Salir de la Dungeon
 Enchant_Transfer=Mensaje de transferencia de encantamiento
 lsDungeonItem=Brújula dimensional
 UseDungeonItem=Brújula dimensional
-ExitGuildHall=Salir de la sala del gremio
+ExitGuildHall=Salir de la sala del guild
 DeadMsg_Revive_Item=Resucitar ahora
 DeadMsg_Revive_RedZen=Resucitar ahora
 DeadMsg_Revive_PlatinumFree=Servicio Premium de Resurrección
@@ -88,19 +88,19 @@ Msg_Knightage_Manage_Reset=Inicializar configuración del guild
 Msg_Knightage_Manage_Undo=Restablecer configuración del guild
 Msg_Knightage_Manage_Accept=Aplicar configuración de guild
 Msg_Knightage_Breakup_Disc=Disolver Guild
-Msg_Knightage_Manage_Confirm=Aplicar Función de Gremio
+Msg_Knightage_Manage_Confirm=Aplicar Función de Guild
 Msg_Knightage_Emblem_Reset=Inicializar emblema
 Msg_Knightage_Emblem_Undo=Reiniciar emblema
 Msg_Knightage_Emblem_Accept=Aplicar emblema
 Msg_Knightage_Emblem_Confirm=Aplicar emblema
-Msg_Knightage_Withdraw_Disc=Abandonar gremio
-Msg_Knightage_Ban_Disc=Prohibir miembro del gremio
-Msg_Knightage_Delegation_Accept=Designar líder del gremio
+Msg_Knightage_Withdraw_Disc=Abandonar guild
+Msg_Knightage_Ban_Disc=Prohibir miembro del guild
+Msg_Knightage_Delegation_Accept=Designar líder del guild
 ConsignmentRegistItemCancel=Cancelar venta de artículo
 RecvBusinessProfits=Recoger dinero
 ConsignmentBuyItem=Comprar Item
 Change_CharacterName=Cambiar nombre de personaje
-Change_KnightageName=Nombrar Gremio
+Change_KnightageName=Nombrar Guild
 Msg_Knightage_Invite=Invitar a Guild
 MegaPhoneMsg=Mensaje de megáfono
 RankingBless=Felicitar
@@ -239,7 +239,7 @@ ExitDungeon=¿Salir de la Dungeon?
 Enchant_Transfer=%s_1<br><br><font size='15' color='#EEEEEE'>Los Items consumibles se destruirán independientemente de los resultados de la transferencia de encantamiento.</font>
 lsDungeonItem=No hay suficientes brújulas de dimensión.¶ Las brújulas de dimensión pueden aumentar los tipos y pisos de la Rift.
 UseDungeonItem=¿Usar brújula de dimensión?¶La brújula de dimensión puede aumentar los tipos y niveles de la Rift.
-ExitGuildHall=¿Salir de la zona del Gremio?
+ExitGuildHall=¿Salir de la zona del Guild?
 DeadMsg_Revive_Item=¿Usar un Item y resucitar ahora?
 DeadMsg_Revive_RedZen=¿Usar Redzen y resucitar ahora?
 DeadMsg_Revive_PlatinumFree=¿Quieres gastar un Servicio Premium de Resurrección y resucitar en el acto?
@@ -271,25 +271,25 @@ ArtifactAlchemy=¿Alquimizar el siguiente artefacto?
 ColosseumConsecutiveBattle=<font color='#FDC243'>¿Realmente quieres aceptar el desafío de victorias consecutivas?</font><br><br>¡Las bonificaciones por victorias consecutivas se anulan cuando pierdes una partida!
 ColosseumReSearch=Usa Redzen y busca un nuevo oponente?
 AlchemyBoost=Acorta el tiempo de alquimia en <font color='#FDD889'>%s_1 horas</font><br>Cuenta de aceleración de alquimia restante: %s_2
-Msg_Knightage_Invite_join_Text=El gremio <font color='#FDC243'>%s_1</font> te ha invitado.<br>¿Puedes unirte a este gremio?<br><font color='#FF0000'>Puedes rechazar las invitaciones a través de Ajustes > Juego > Ajustes sociales.</font><br><font color='#999999'>Precaución: Si te unes a un gremio, tendrás el rango más bajo durante un tiempo.</font>
-Msg_Knightage_Manage_Reset=Inicializando configuración del Gremio.<br>¿Proceder con la inicialización?
+Msg_Knightage_Invite_join_Text=El guild <font color='#FDC243'>%s_1</font> te ha invitado.<br>¿Puedes unirte a este guild?<br><font color='#FF0000'>Puedes rechazar las invitaciones a través de Ajustes > Juego > Ajustes sociales.</font><br><font color='#999999'>Precaución: Si te unes a un guild, tendrás el rango más bajo durante un tiempo.</font>
+Msg_Knightage_Manage_Reset=Inicializando configuración del Guild.<br>¿Proceder con la inicialización?
 Msg_Knightage_Manage_Undo=Restablecer ajustes del clan.<br>Los ajustes cambiados volverán a los anteriores.<br>¿Proceder con el restablecimiento?
-Msg_Knightage_Manage_Accept=Aplicar la configuración actual del Gremio.<br>¿Aplicar la configuración del Gremio?
-Msg_Knightage_Breakup_Disc=Seleccionado para disolver el Gremio.<br><br><font color='#FDC243'>%s_1</font><br><br>¿Disolver este Gremio?<br><font color='#FF0000'>Todos los Items del Almacén del Gremio se perderán.
-Msg_Knightage_Manage_Confirm=Los ajustes del Gremio han cambiado.<br>¿Aplicar los cambios en los ajustes del Gremio?
+Msg_Knightage_Manage_Accept=Aplicar la configuración actual del Guild.<br>¿Aplicar la configuración del Guild?
+Msg_Knightage_Breakup_Disc=Seleccionado para disolver el Guild.<br><br><font color='#FDC243'>%s_1</font><br><br>¿Disolver este Guild?<br><font color='#FF0000'>Todos los Items del Almacén del Guild se perderán.
+Msg_Knightage_Manage_Confirm=Los ajustes del Guild han cambiado.<br>¿Aplicar los cambios en los ajustes del Guild?
 Msg_Knightage_Emblem_Reset=Inicializando el diseño del emblema.<br>¿Proceder con la inicialización?
 Msg_Knightage_Emblem_Undo=Cancelar el diseño de emblema modificado.<br>La configuración modificada volverá a la configuración anterior.<br>¿Proceder con la inicialización?
 Msg_Knightage_Emblem_Accept=Aplicar el emblema modificado.<br>¿Aplicar el diseño del emblema?
 Msg_Knightage_Emblem_Confirm=Los ajustes del emblema han cambiado.<br>¿Aplicar el diseño del emblema cambiado?
-Msg_Knightage_Withdraw_Disc=Has solicitado abandonar tu gremio.<br><br><font color='#FDC243'>%s_1</font><br><br>¿Estás seguro?<br><br><font color='#999999'>Precaución: Si lo dejas y te unes a otro, serás puesto en el rango más bajo de miembro de gremio durante un tiempo.</font>
+Msg_Knightage_Withdraw_Disc=Has solicitado abandonar tu guild.<br><br><font color='#FDC243'>%s_1</font><br><br>¿Estás seguro?<br><br><font color='#999999'>Precaución: Si lo dejas y te unes a otro, serás puesto en el rango más bajo de miembro de guild durante un tiempo.</font>
 Msg_Knightage_Ban_Disc=¿Prohibir a este personaje entrar en <font color='#FDC243'>%s_1</font>?<br><br><font color='#FDC243'>%s_2</font>
-Msg_Knightage_Delegation_Accept=¿Designas a <font color='#FDC243'>%s_2</font> como nuevo maestro del gremio <font color='#FDC243'>%s_1</font>?
+Msg_Knightage_Delegation_Accept=¿Designas a <font color='#FDC243'>%s_2</font> como nuevo maestro del guild <font color='#FDC243'>%s_1</font>?
 ConsignmentRegistItemCancel=¿Cancelar la venta del Item registrado?
 RecvBusinessProfits=¿Cobrar el dinero?
 ConsignmentBuyItem=¿Comprar este artículo?
 Change_CharacterName=Nombra a tu personaje <font color='#FDC243'>%s_1</font>?<br>Selecciona OK para pasar a la ventana de Selección de Personaje.
-Change_KnightageName=Nombra tu gremio <font color='#FDC243'>%s_1</font>?
-Msg_Knightage_Invite=Introduzca un nombre de personaje para invitar a su gremio.
+Change_KnightageName=Nombra tu guild <font color='#FDC243'>%s_1</font>?
+Msg_Knightage_Invite=Introduzca un nombre de personaje para invitar a su guild.
 MegaPhoneMsg=Introduzca un mensaje de megáfono.
 RankingBless=Felicita al personaje por alcanzar un nuevo rango?<br>*Recibirás EXP de Alma a cambio.
 Msg_CheckCloseDealMeter=Apaga el medidor de daño?<br>Siempre puedes volver a activarlo en Ajustes.
