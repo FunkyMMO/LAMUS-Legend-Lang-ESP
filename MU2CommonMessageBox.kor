@@ -233,12 +233,12 @@ RequestLeaveInDungeon=Si abandonas la partida, serás expulsado de la Dungeon.
 RequestBreakeup=¿Disolver la partida?
 RequestChangeLeader=¿Designar a %s_1 como líder del grupo?
 DungeonAdmission=¿Entrar en la Dungeon?
-NewAdvDungeonAdmission=¿Entrar en una nueva Grieta?
+NewAdvDungeonAdmission=¿Entrar en una nueva Rift?
 BossDungeonAdmission=¿Entrar en la sala del jefe?
 ExitDungeon=¿Salir de la Dungeon?
 Enchant_Transfer=%s_1<br><br><font size='15' color='#EEEEEE'>Los Items consumibles se destruirán independientemente de los resultados de la transferencia de encantamiento.</font>
-lsDungeonItem=No hay suficientes brújulas de dimensión.¶ Las brújulas de dimensión pueden aumentar los tipos y pisos de la Grieta.
-UseDungeonItem=¿Usar brújula de dimensión?¶La brújula de dimensión puede aumentar los tipos y niveles de la Grieta.
+lsDungeonItem=No hay suficientes brújulas de dimensión.¶ Las brújulas de dimensión pueden aumentar los tipos y pisos de la Rift.
+UseDungeonItem=¿Usar brújula de dimensión?¶La brújula de dimensión puede aumentar los tipos y niveles de la Rift.
 ExitGuildHall=¿Salir de la zona del Gremio?
 DeadMsg_Revive_Item=¿Usar un Item y resucitar ahora?
 DeadMsg_Revive_RedZen=¿Usar Redzen y resucitar ahora?

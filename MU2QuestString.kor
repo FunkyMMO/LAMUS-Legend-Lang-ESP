@@ -566,8 +566,8 @@ Occur_String1=Aún no son muchos.<br>Atácalos ahora, y podrás acabar con ellos
 Occur_String2=Danos algo de tiempo para reagruparnos y...
 Occur_String3=Asaltar se trata todo de tiempo. Déjamelo a mí.<br>Les mostraré el infierno.
 Occur_String4=Espera, una cosa más:<br>Quiero saber por qué se atreven a establecerse en este lugar cuando su número es tan pequeño.
-Occur_String5=¿Podrías robar sus planes de batalla de su campamento?<br>Eso nos ayudará a descubrir qué están planeando.
-Occur_String6=Ah, hay un problema: ninguno de nosotros habla el idioma goblin.<br>Lleva sus planes de batalla a Vigmund en el sitio de excavación.<br>Él debería poder leerlos.
+Occur_String5=¿Podrías robar sus planos de batalla de su campamento?<br>Eso nos ayudará a descubrir qué están planeando.
+Occur_String6=Ah, hay un problema: ninguno de nosotros habla el idioma goblin.<br>Lleva sus planos de batalla a Vigmund en el sitio de excavación.<br>Él debería poder leerlos.
 Occur_String7=
 Doing_String=La Guardia Enana es una milicia organizada por Sir Duprian. Como sabes, el ejército de Lorencia se supone que defiende Dudrin,<br>pero es poco confiable. Sir Duprian ha formado la Guardia Enana para proteger las minas aquí, y fue una de las mejores decisiones que ha tomado.
 Completable_String1=¡Eso fue increíble!<br>Pude ver los barracones Goblin ardiendo, incluso desde tan lejos.
@@ -579,19 +579,19 @@ Mission_Target2=Mata a los Goblin Workers
 Mission_Target3=Mata a los Goblin Guards
 
 [Quest_113]
-Name=Planes de batalla Goblin
+Name=Planos de Batalla Goblin
 Occur_String1=Pero había muy pocos.<br>No hay suficientes para llamarlo una invasión...
 Occur_String2=Deben estar aquí por la mina Karmatan, ya que es la mayor productora de newk en este lugar,<br>pero sí, tienes razón, hay muy pocos de ellos.
 Occur_String3=La mina Karmatan está más segura que nunca, ahora que el comandante Duprian y sus fuerzas se han unido a sus defensas.<br>Debe haber algo más que los Goblins quieran.
 Occur_String4=Voy a averiguarlo.
-Occur_String5=¿Podrías robar sus planes de batalla de su campamento?<br>Eso nos ayudará a descubrir qué están planeando.
-Occur_String6=Ah, hay un problema: ninguno de nosotros habla el idioma Goblin.<br>Lleva sus planes de batalla a Vigmund en el sitio de excavación.<br>Él debería poder leer su idioma.
+Occur_String5=¿Podrías robar sus planos de batalla de su campamento?<br>Eso nos ayudará a descubrir qué están planeando.
+Occur_String6=Ah, hay un problema: ninguno de nosotros habla el idioma Goblin.<br>Lleva sus planos de batalla a Vigmund en el sitio de excavación.<br>Él debería poder leer su idioma.
 Doing_String=Tardaremos un tiempo en reagruparnos y atacar a los Kerus.<br>Ni la Policía de Dudrin ni la Guardia Enana son un ejército regular: hay un límite de lo que podemos hacer.<br>¡Esos cobardes de Lorencia, no puedo creer que nos hayan abandonado en estos tiempos!
 Completable_String1=¿Estás excavando artefactos en medio de una guerra?<br>¿Estás loco?
-Complete_String=Había muy pocos Goblins en el campamento que asalté. Pensé que habían establecido su base en el lado norte de Weiss Basin para atacar la mina Karmatan, pero los que encontré en el campamento no podrían haberla tomado por sí solos.Me Infiltré su campamento, robé sus planes de batalla y los entregué al arqueólogo Vigmund. Él era el único que podía leer el idioma Goblin y descubrir qué estaban planeando los Goblins.
+Complete_String=Había muy pocos Goblins en el campamento que asalté. Pensé que habían establecido su base en el lado norte de Weiss Basin para atacar la mina Karmatan, pero los que encontré en el campamento no podrían haberla tomado por sí solos.Me Infiltré su campamento, robé sus planos de batalla y los entregué al arqueólogo Vigmund. Él era el único que podía leer el idioma Goblin y descubrir qué estaban planeando los Goblins.
 List_String=(Misión Principal de Enova) (34/48)<br>Debo infiltrarme en el campamento
-Mission_String=Roba Goblins' battle plans y llevaselos a Vigmund
-Mission_Target1=Battle Plans
+Mission_String=Roba Goblins' Planos de Batalla y llevaselos a Vigmund
+Mission_Target1=Planos de Batalla
 
 [Quest_114]
 Name=Accesorios de Goblin
@@ -606,20 +606,20 @@ Mission_String=Incauta Pendientes de Goblin y entrégalos a Olivia
 Mission_Target1=Pendientes de Goblin
 
 [Quest_115]
-Name=Juntar los Planes de Batalla
+Name=Juntar los Planos de Batalla
 Occur_String1=... Puedo ser bastante terco cuando se trata de mi trabajo. Por cierto, ¿quién eres tú?
-Occur_String2=Un guerrero contratado del Western Post.<br>Estos son los planes de batalla de los Goblins. Quiero que los leas para mí.
+Occur_String2=Un guerrero contratado del Western Post.<br>Estos son los planos de batalla de los Goblins. Quiero que los leas para mí.
 Occur_String3=Todo está destrozado.<br>Soy el mejor arqueólogo de Enova, ¡y exijo ser tratado como tal!
 Occur_String4=No están rotos.<br>Creo que fueron divididos en tres piezas a propósito para evitar robos.
 Occur_String5=No me importa. Júntalos.<br>No tolero la falta de respeto, ¡especialmente si es de mis estudiantes!
 Occur_String6=¿Qué? ¡No soy tu estudiante! Bah, lo que sea.<br>Los juntaré para ti.
-Doing_String=¿Qué estás haciendo?<br>Presiona la tecla 'I' para abrir tu inventario.<br>Y haz clic derecho sobre los Planes de Batalla para combinarlos en uno.
+Doing_String=¿Qué estás haciendo?<br>Presiona la tecla 'I' para abrir tu inventario.<br>Y haz clic derecho sobre los Planos de Batalla para combinarlos en uno.
 Completable_String1=Torcidos y apenas unidos con pegamento...<br>Eres buen luchador, pero eres un desastre con cosas como esta.
-Complete_String=Ese viejo arrogante, el arqueólogo Vigmund, declaró que no traduciría los planes de batalla de los Goblins a menos que uniera las tres partes. Pensé en romperle el cuello e irme, pero decidí no hacerlo. En cambio, pacientemente pegué cada parte y le entregué los planes de batalla combinados al viejo.
-List_String=(Enova Misión Principal) (35/48)<br>Los planes de batalla de los Goblins están divididos en tres partes por seguridad. Júntalos y dáselos al arqueólogo Vigmund.
-Mission_String=Junta los Planes de Batalla en el Inventario y entrégalos a Vigmund
-Mission_Target1=Junta los Planes de Batalla
-Mission_Target2=Entrega los Planes de Batalla
+Complete_String=Ese viejo arrogante, el arqueólogo Vigmund, declaró que no traduciría los planos de batalla de los Goblins a menos que uniera las tres partes. Pensé en romperle el cuello e irme, pero decidí no hacerlo. En cambio, pacientemente pegué cada parte y le entregué los planos de batalla combinados al viejo.
+List_String=(Enova Misión Principal) (35/48)<br>Los planos de batalla de los Goblins están divididos en tres partes por seguridad. Júntalos y dáselos al arqueólogo Vigmund.
+Mission_String=Junta los Planos de Batalla en el Inventario y entrégalos a Vigmund
+Mission_Target1=Abre el inventario y haz click en los Planos de Batalla
+Mission_Target2=Entrega los Planos de Batalla
 
 [Quest_116]
 Name=Detén el Intento de Asesinato a Duprian
@@ -633,7 +633,7 @@ Occur_String7=Ramotu Duprian es literalmente y figurativamente el verdadero líd
 Occur_String8=¿Dijiste que el nombre del asesino es Rosso?
 Doing_String=No será difícil encontrar a ese tal Rosso. Según algunos documentos de la Guerra de los Tres Años, los asesinos Goblin son tan grandes como montañas.<br>No son sigilosos, pero son lo suficientemente fuertes como para romperle el cuello a su objetivo con una sola mano.
 Completable_String1=Mmm, me alegra que hayas llegado aquí a salvo.
-Complete_String=Ese irritante viejo finalmente tradujo los planes de batalla de los Goblins, y lo que descubrió nos dejó atónitos a ambos. No había muchos Goblins en su campamento porque no vinieron por la Karmatan Mine, vinieron a atentar contra la vida de Duprian. Encontré y maté al Asesino Goblin Rosso, cuyo nombre fue mencionado en sus planes de batalla, pero estos Goblins no eran las fuerzas principales; las fuerzas principales estaban en otro lugar en Weiss Basin. La situación está empeorando.
+Complete_String=Ese irritante viejo finalmente tradujo los planos de batalla de los Goblins, y lo que descubrió nos dejó atónitos a ambos. No había muchos Goblins en su campamento porque no vinieron por la Karmatan Mine, vinieron a atentar contra la vida de Duprian. Encontré y maté al Asesino Goblin Rosso, cuyo nombre fue mencionado en sus planos de batalla, pero estos Goblins no eran las fuerzas principales; las fuerzas principales estaban en otro lugar en Weiss Basin. La situación está empeorando.
 List_String=(Enova Misión Principal) (36/48)<br>Debo ir al campamento Goblin y matar al Asesino Goblin Rosso que ha sido enviado para matar al Comandante de la Guardia Enana Duprian.
 Mission_String=Frustra el plan de asesinato a Duprian y reporta a Duprian
 Mission_Target1=Mata al Asesino Goblin Rosso

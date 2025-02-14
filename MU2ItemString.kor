@@ -266,8 +266,8 @@ Item_40007=Proof of Contribution
 Item_40008=Level 80 Set Accessory Crafting Material Chest
 Item_40009=Level 80 Mythic Accessory Chest
 Item_41001=Goddess Tears
-Item_50050=Battle Plan
-Item_50051=Battle Plan
+Item_50050=Planos de Batalla
+Item_50051=Planos de Batalla
 Item_50052=Fragmented Map
 Item_50053=Restored Map
 Item_50054=Infection Inhibitor
@@ -29999,7 +29999,7 @@ Item_40007=Esta recompensa se otorga a los jugadores que han logrado un gran des
 Item_40008=Este cofre se otorga solo a aquellos que han tenido un gran desempeño en el Castillo del Caos.<br>Tiene una baja probabilidad de otorgar un Material de Creación para un Accesorio de Conjunto de Nivel 80.<br><font color='#A9ABAA'>Click derecho para usar.</font>
 Item_40009=Este cofre se otorga solo a aquellos que han tenido un gran desempeño en el Castillo del Caos.<br>Tiene una baja probabilidad de obtener un Accesorio Mítico de Nivel 80.<br><font color='#A9ABAA'>Click derecho para usar.</font>
 Item_41001=¿Pueden las Lágrimas de la Diosa convertir monstruos en hombres? Por supuesto que no, esto solo es agua del grifo.<br><br><font color='#A9ABAA'>Pero mantengámoslo en secreto. No quiero decepcionar a la linda Belbee.</font>
-Item_50050=Planes de Batalla Goblin desgarrados.<br>Click derecho para combinarlos en uno solo.
+Item_50050=Planos de Batalla Goblin desgarrados.<br>Click derecho para combinarlos en uno solo.
 Item_50051=Un plan de batalla enviado a la Legión Goblin por Sezak.
 Item_50052=Un fragmento de mapa encontrado en un miembro de la Legión Gnoll.<br>Haz clic derecho para combinarlo con otras piezas.
 Item_50053=Un mapa creado por la Legión Gnoll para marcar los almacenes de comida de todas las granjas en el continente Duelden.
@@ -30065,8 +30065,8 @@ Item_62824=Sello Rasgado del Olvido. Recolecta estos para crear un Sello Antiguo
 Item_62825=Sello Rasgado del Olvido. Recolecta estos para crear un Sello Mítico del Olvido.
 Item_62826=Sello Rasgado del Olvido. Recolecta estos para crear un Sello de Conjunto del Olvido.
 Item_62827=Este objeto permite a los jugadores cambiar estadísticas con una Piedra Trascendental. Se aplica a cualquier nivel de Piedra Trascendental.
-Item_62828=Te permite refrescar el Cofre del Tesoro de Luery.
-Item_62829=Te permite refrescar el Cofre del Tesoro de Luery.
+Item_62828=Te permite actualizar el Cofre del Tesoro de Luery.
+Item_62829=Te permite actualizar el Cofre del Tesoro de Luery.
 Item_62830=Un increíble logro de Kundun y Etramu, esta es la fuente detrás de la mejor manatecnología.¶<font color='#A9ABAA'>Un material clave para la fabricación de Crestas de Habilidad Legendarias.</font><font color='#A9ABAA'>¶Se puede obtener en la Torre del Alba.</font>
 Item_62900=Material obtenido al cazar Monstruos de la Suerte. Usado para fabricar armas y armaduras de nivel 65.¶<font color='#A9ABAA'>Se puede obtener de los Monstruos de la Suerte.</font>
 Item_62915=Una creación increíble que supera todas las leyes del tiempo y el espacio. Usado para fabricar una variedad de objetos de alto grado.¶<font color='#A9ABAA'>Se puede obtener realizando alquimia en artefactos normales.</font>
