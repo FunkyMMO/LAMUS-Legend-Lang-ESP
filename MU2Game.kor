@@ -2221,7 +2221,7 @@ LS_Fail=Fallo
 
 [MU2MakeTooltip]
 LS_CombatPower=Poder de combate %d
-LS_SeeCharInfo=Ver información del personaje
+LS_SeeCharInfo=Información del personaje
 LS_EquipItemString=: Equipar Item
 LS_UnequipItemString=: Desequipar Item
 LS_UseItemString=: Usar elemento
@@ -4848,7 +4848,7 @@ LS_PartyMember_4=4 Jugadores
 LS_PartyMember_3=3 Jugadores
 LS_PartyMember_2=2 Jugadores
 LS_PartyMember_1=1 Jugador
-LS_ShowRecord=Ver Registro
+LS_ShowRecord=Salón de la fama
 
 [MU2GFxRankingStatueInfo]
 LS_Rank=Rango
@@ -4872,7 +4872,7 @@ LS_RankingStatue_SoulLevel=Hola, este es un mensaje de LAMUS. <br>Esta estatua h
 LS_RankingStatue_EndlessTower=Hola, este es un mensaje de LAMUS. <br>Esta estatua ha sido erigida para marcar un nuevo capítulo en nuestra historia. <br>En <font color='#FFFFFF'>%s_1</font>, <br><font size='20' color='#FCE7B0'>%s_2</font> se ha clasificado en lo más alto de la categoría Endless Tower.<br>¡Por favor, envíanos tus felicitaciones!
 LS_RankingStatue_Colosseum=Hola, este es un mensaje de LAMUS. <br>Esta estatua ha sido erigida para marcar un nuevo capítulo en nuestra historia. <br>En <font color='#FFFFFF'>%s_1</font>, <br><font size='20' color='#FCE7B0'>%s_2</font> se ha clasificado en lo más alto de la categoría Arena.<br>¡Por favor, envíanos tus felicitaciones!
 LS_Date=DD, MM, YY
-LS_ShowCharacterInfo=Ver información del personaje
+LS_ShowCharacterInfo=Información del personaje
 LS_RecordDate=Fecha
 LS_Celebrate=Felicitar
 
