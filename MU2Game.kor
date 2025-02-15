@@ -4354,7 +4354,7 @@ lsDifficulty=Dificultad
 
 [MU2GfxSelectKnightAge]
 lsKnightUITitle=Unirse al guild
-lsClose=Cerrar
+lsClose=Cerrado
 lsJoin=Unirse
 lsUIDesc=Selecciona una Guild a la que unirte.
 lsHeraus=Coalición Heraus
@@ -5518,11 +5518,11 @@ LS_WebOfGod_Ranking_Empty_Point=0 pts.
 [MU2GfxMissionMap]
 LS_btnClose=Cerrar (Esc)
 LS_CenterVideoCloseBtn=Cerrar
-LS_MissionmapState_Close=Cerrar
+LS_MissionmapState_Close=Evento cerrado
 LS_MissionmapState_Ready=Esperando para entrar
-LS_MissionmapState_Requestable=Ahora aceptando peticiones
+LS_MissionmapState_Requestable=Evento abierto
 LS_MissionmapState_Requested=Solicitando...
-LS_MissionmapState_NotEnoughLevel=Nivel Insuficiente
+LS_MissionmapState_NotEnoughLevel=Nivel insuficiente
 LS_MissionmapState_EnterPenalty=Penalización de entrada en vigor
 LS_MissionmapState_NotUsable=No disponible
 LS_MissionmapButton_RequestSolo=Ingresar solo
