@@ -376,5 +376,5 @@ Msg_State_Fight_4_Title=Ronda Final
 Msg_State_Fight_4_Desc=Estás en la ronda final.
 Msg_State_Fight_5_Title=Ronda final
 Msg_State_Fight_5_Desc=Estás en la ronda final ¡Buena suerte!
-Msg_State_Defeat_Title=Perder
+Msg_State_Defeat_Title=Derrota
 Msg_State_Defeat_Desc=Has perdido una partida y has sido eliminado del Torneo.
