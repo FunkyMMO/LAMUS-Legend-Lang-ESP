@@ -85,7 +85,7 @@ Contents_23000=Caza monstruos y <font color='#FDD889'>llena el medidor de Trenta
 Contents_25000=Puedes fabricar y equipar artefactos cuando alcances el <font color='#FDD889'>nivel 65</font>. Puedes mejorar los artefactos ganando EXP de artefacto en <font color='#FDD889'>Laberinto de Lupa</font>.<br>A medida que los artefactos mejoran, sus efectos se potencian.
 Contents_26000=Puedes comprobar y equipar artefactos en Gestionar artefacto (X). Para hacer crecer un artefacto, debes <font color='#FDD889'>seleccionarlo como tu Artefacto de Crecimiento</font>.<br>Los artefactos que no estén seleccionados como Artefacto de Crecimiento no pueden crecer.
 Contents_27000=Puedes unirte a una <font color='#FDD889'>Guilda o comprobar la información de la Guilda</font> en la ventana de la Guilda.
-Contents_28000=<font color='#FDD889'>Contribución</font> es el dinero del Gremio que se usa para las actividades del gremio. Podrás usarlo en la Tienda de Contribución después de que la Guerra de Facción se implemente en el juego.
+Contents_28000=<font color='#FDD889'>Contribución</font> es el dinero del Guild que se usa para las actividades del guild. Podrás usarlo en la Tienda de Contribución después de que la Guerra de Facción se implemente en el juego.
 Contents_29000=Puedes participar en una batalla <font color='#FDD889'>1 contra 1 con el personaje IA de otro jugador</font> en la Arena.<br>Ganarás un pequeño número de <font color='#FDD889'>Gemas mágicas</font> tras ganar un combate en la Arena.
 Contents_30000=Caza monstruos dentro del Laberinto, y tu <font color='#FDD889'>Tasa de Carga</font> aumentará.<br>Debes <font color='#FDD889'>alcanzar el 100% de Tasa de Carga dentro del límite de tiempo para obtener la mejor recompensa.</font>Tu recompensa disminuye si no consigues maximizar tu Tasa de Carga.
 Contents_31000=LAMUS cuenta con una variedad de funciones para su conveniencia para la actualización fácil y rápida.<br>Haga clic en <font color='#FDD889'>Detalles</font> para obtener más información.
@@ -146,7 +146,7 @@ Content_GuideLink_1=1003002
 Content_Image_1=SuperGuía_04
 Content_Title_2=Metrópolis Ohrdor
 Content_SubTitle_2=Ohrdor, la ciudad más grande del continente MU, ofrece todas las comodidades posibles.
-Content_Text_2=- Puedes jugar varios mapas de Misión en la Sala del Deber en Ohrdor.<br>- Puedes aprender habilidades de Experto, usar el Corredor de Comercio, y conocer al Gerente del Gremio.
+Content_Text_2=- Puedes jugar varios mapas de Misión en la Sala del Deber en Ohrdor.<br>- Puedes aprender habilidades de Experto, usar el Corredor de Comercio, y conocer al Gerente del Guild.
 Content_GuideLink_2=1023001
 Content_Image_2=SuperGuía_05
 Content_Title_3=Jardín de Fabrice
@@ -218,7 +218,7 @@ Content_GuideLink_1=1047001
 Content_Image_1=SuperGuía_20
 Content_Title_2=Defensa de naves aéreas
 Content_SubTitle_2=¡Usa las habilidades del talismán!
-Content_Text_2=- Defiende una aeronave contra 20 oleadas de poderosos invasores de Pandemonium.<br>- Accesible desde el Puerto del Gremio en Ohrdor.<br>- Usa habilidades de Talismán para triunfar en la batalla.
+Content_Text_2=- Defiende una aeronave contra 20 oleadas de poderosos invasores de Pandemonium.<br>- Accesible desde el Puerto del Guild en Ohrdor.<br>- Usa habilidades de Talismán para triunfar en la batalla.
 Content_GuideLink_2=1048001
 Content_Image_2=SuperGuía_21
 Content_Title_3=El Laberinto Despertado de Lupa

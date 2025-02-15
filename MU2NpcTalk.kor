@@ -2208,16 +2208,16 @@ Sayhello1=Tus artículos son importantes para ti. Los mantendré seguros.
 
 [Npc_75]
 Name=Guild Registrar
-Sayhello1=¿Te gustaría crear un Gremio?
+Sayhello1=¿Te gustaría crear un Guild?
 
 [Npc_76]
 Name=Guild Manager
-Sayhello1=Oye, ¿no quieres cambiar el emblema de tu Gremio?
+Sayhello1=Oye, ¿no quieres cambiar el emblema de tu Guild?
 Sayhello2=Estoy evaluando la contribución de los caballeros. Solo pregunta si tienes alguna duda.
 
 [Npc_77]
 Name=Guild Storage
-Sayhello1=Si estás en un Gremio, mantendré tus artículos seguros.
+Sayhello1=Si estás en un Guild, mantendré tus artículos seguros.
 
 [Npc_94]
 Name=Alchemist Merchant
@@ -5222,8 +5222,8 @@ Greeting1=Hoy hace un clima maravilloso.
 
 [Npc_199014001]
 Name=Guard Captain
-Sayhello1=Todos los gremios pueden construir un Airship.
-Sayhello2=El nivel del gremio es demasiado bajo para construir una Airship.
+Sayhello1=Todos los guilds pueden construir un Airship.
+Sayhello2=El nivel del guild es demasiado bajo para construir una Airship.
 Greeting1=Solo tienes que subir rápidamente el nivel de la Airship.
 
 [Npc_199014006]
