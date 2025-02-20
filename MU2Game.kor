@@ -5211,8 +5211,8 @@ LS_Missionmap_Requestable=%s_1 <font color='#00CC00'>(Aceptando solicitudes)</fo
 LS_Missionmap_Control=: Abrir ventana de mapa de misión
 LS_BurningStamina_Title=Rift
 LS_BurningStamina_Control=: Abrir ventana de Rift
-LS_SoulLevel_Title=Caja del Alma
-LS_SoulLevel_Main=Queda EXP de Alma.
+LS_SoulLevel_Title=Árbol de Alma
+LS_SoulLevel_Main=Queda EXP de Alma
 LS_SoulLevel_Control=: Abrir árbol de almas
 LS_SkillRune_Title=Ranura de la Cresta de Habilidad
 LS_SkillRune_Main=Se ha desbloqueado una nueva Cresta de Habilidad.
