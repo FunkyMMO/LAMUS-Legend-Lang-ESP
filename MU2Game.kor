@@ -4071,7 +4071,7 @@ LS_DungeonLodDescByUiType10_9040361_1=Vida de enemigos:<font color='#11F210'> 31
 LS_DungeonLodDescByUiType10_9040361_2=Vida de enemigos:<font color='#11F210'> 430%</font><br>Ataque de enemigos:<font color='#11F210'> 480%</font><br>Ganancia EXP:<font color='#11F210'> 135%</font>
 LS_DungeonLodDescByUiType10_9040361_3=Vida de enemigos:<font color='#11F210'> 545%</font><br>Ataque de enemigos:<font color='#11F210'> 575%</font><br>Ganancia EXP:<font color='#11F210'> 140%</font>
 LS_DungeonLodDescByUiType10_9040361_4=Vida de enemigos:<font color='#11F210'> 660%</font><br>Ataque de enemigos:<font color='#11F210'> 675%</font><br>Ganancia EXP:<font color='#11F210'> 145%</font>
-LS_DungeonLodDescByUiType10_9040363_0=Nivel 1 Monstruo: <font color='#11F210'>Necesita 2 golpes para matar</font><br>Nivel 2 Monstruo: <font color='#11F210'>Necesita 3 golpes para matar</font><br>Nivel 3 Monstruo: <font color='#11F210'>Necesita 5 golpes para matar</font><br>Monstruo Élite: <font color='#11F210'>Necesita 10 golpes para matar</font><br>Monstruo Gigante: <font color='#11F210'>Necesita 50 golpes para matar</font>
+LS_DungeonLodDescByUiType10_9040363_0=Nivel 1 Monstruo: <font color='#11F210'>2 golpes para matar</font><br>Nivel 2 Monstruo: <font color='#11F210'>3 golpes para matar</font><br>Nivel 3 Monstruo: <font color='#11F210'>5 golpes para matar</font><br>Monstruo Élite: <font color='#11F210'>10 golpes para matar</font><br>Monstruo Gigante: <font color='#11F210'>50 golpes para matar</font>
 LS_DungeonLodDescByUiType10_9040365_0=Vida de enemigos<font color='#11F210'> 200%</font><br>Ataque de enemigos<font color='#11F210'> 305%</font><br>Ganancia EXP<font color='#11F210'>125%</font>
 LS_DungeonLodDescByUiType10_9040366_0=Vida de enemigos <font color='#11F210'>176%</font><br>Ataque de enemigos <font color='#11F210'>237%</font><br>Ganancia EXP <font color='#11F210'>174%</font>
 LS_DungeonLodDescByUiType10_9040367_0=Vida de enemigos <font color='#11F210'>176%</font><br>Ataque de enemigos <font color='#11F210'>237%</font><br>Ganancia EXP <font color='#11F210'>174%</font>
@@ -4268,25 +4268,25 @@ DungeonTag_9430301=Contenido de Devildom
 DungeonTag_9088801=Relic dungeon
 Dungeon_Title_9059211=Time-space warp
 Dungeon_Desc_9059211=Un misterioso túnel que conecta con un tiempo y espacio desconocidos.<br>Puedes sentir la fuerte distorsión del tiempo-espacio dentro de un vórtice azulado.
-Dungeon_Title_9059221=Cueva de Vulcano
+Dungeon_Title_9059221=Cave of Vulcan
 Dungeon_Desc_9059221=La cueva donde se dice que Vulcano creó a Drakans, una nueva criatura, imitando la esencia de Kaizel. Aquellos no cualificados serán negados de la existencia misma por dios. Solo al mejor guerrero que herede la voluntad del rey dragon se le concedera el derecho.
-Dungeon_Title_9059231=Altar de roca de cristal
+Dungeon_Title_9059231=Crystal rock altar
 Dungeon_Desc_9059231=El altar donde Vulcano, creador de Drakans, solía entregar la revelación. El dragón guardián Epiaros protegió el lugar trascendiendo las leyes de la vida y la muerte, pero ahora amenaza el altar que debería custodiar.
-Dungeon_Title_9040368=La zona prohibida del carnaval
+Dungeon_Title_9040368=The carnival prohibited area
 Dungeon_Desc_9040368=Un área prohibida de otro espacio-tiempo, que fue abierta por el carnaval nómada en el festival del 4º Aniversario<br><br><font color='#FF0000'>¡Precaución! Esta Dungeon es un poco fácil.</font>
-Dungeon_Title_9601901=La codicia de Kaizel
+Dungeon_Title_9601901=Kaizel's greed
 Dungeon_Desc_9601901=El vasto y antiguo santuario donde el antiguo dragón Kaizel, origen de los Drakans, una vez adorado por el imperio Walkreeger como el 'rey dragón', pero que se ha sometido a la fuerza de la oscuridad y corrompido ahora, es ahora morada...<br><font color='#FDD889'>¡Precaución! Esta Dungeon tiene una dificultad muy alta, que es igual o más difícil que la antigua Kantur arca dificultad 3.<br>Toma el reto con cautela con los miembros del partido fuerte!</font>
-Dungeon_Title_9601601=Deseo de Targash
+Dungeon_Title_9601601=Targash's desire
 Dungeon_Desc_9601601=Targash es el antiguo dragón que perdió el destino de convertirse en un gran ser a manos de los demonios y Garuda, y lo único que queda en él es resentimiento y odio.<br>Una terrible guarida de dragones locos que antagonizan con todo lo que está intacto.
-Dungeon_Title_9602401=El viejo castillo famoso por sus cerezos en flor
+Dungeon_Title_9602401=The old castle famous for its cherry blossoms
 Dungeon_Desc_9602401=Este lugar era famoso por sus cerezos en flor, pero ahora lleva muchos años bajo la ocupación de las famosas tropas Solo of devildom<br>Se dice que la persona que se supone que es el comandante invasor lleva mucho tiempo solo... (lágrimas)
-Dungeon_Title_9040372=Templo del resentimiento
+Dungeon_Title_9040372=Temple of resentment
 Dungeon_Desc_9040372=El ser de Orman fue confirmado en la urdimbre espacio-temporal que fue encontrada recientemente por Silver sparrow hawks.<br>Orman, que se hizo mucho más fuerte al ser tomado por el resentimiento tiene que ser derrotado.
-Dungeon_Title_9040902=Vainas blindadas
+Dungeon_Title_9040902=Armored sheath
 Dungeon_Desc_9040902=Un arma mágica que fue diseñado sólo para la destrucción total de todo en la tierra. Quién será el sacrificado brutalmente destrozado por tan extraña combinación de metal.
-Dungeon_Title_9430001=El abismo hirviente de la corrupción
+Dungeon_Title_9430001=The boiling abyss of corruption
 Dungeon_Desc_9430001=Quinireal. Una vez que un ángel honorable en el servicio del cielo, pero ahora los degenerados de devildom que dio la espalda a la luz y aceptó la oscuridad. Debe ser detenido antes de que la destrucción que provocará llegue a la tierra.
-Dungeon_Title_9430201=El abismo de sangre coagulada
+Dungeon_Title_9430201=The coagulated abyss of blood
 Dungeon_Desc_9430201=Erzeta, la loca de la sangre que se atiborraba de vida exprimida de los vivos. La gran maga del pasado ya no existe. Sólo existe la gigantesca máquina de tortura que desgarra la carne y derrama sangre flotando en la satisfactoria luz azul.
 LS_DungeonLodDescByUiType10_9601901_0=Vida de enemigos <font color='#11F210'> 27576%</font><br>Ataque de enemigos<font color='#11F210'> 4500%</font><br>gana EXP <font color='#11F210'> 19323%</font>
 LS_DungeonLodDescByUiType10_9601601_0=Vida de enemigos <font color='#11F210'> 5091%</font><br>Ataque de enemigos<font color='#11F210'> 1440%</font><br>ganancia EXP <font color='#11F210'> 5153%</font>
