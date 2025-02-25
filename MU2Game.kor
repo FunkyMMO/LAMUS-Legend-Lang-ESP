@@ -4852,9 +4852,9 @@ LS_ShowRecord=Salón de la fama
 
 [MU2GFxRankingStatueInfo]
 LS_Rank=Rango
-LS_Guide=Guía
+LS_Guide=Actual
 LS_LastRecord=Registro anterior
-LS_CharName=Nombre del personaje
+LS_CharName=Nombre
 LS_CombatPower=Poder de combate
 LS_SoulLevel=Nivel del alma
 LS_EndlessTower=Endless Tower
@@ -4878,10 +4878,10 @@ LS_Celebrate=Felicitar
 
 [MU2GFxRankingStatueCBT]
 LS_Rank=Rango
-LS_CharName=Nombre del personaje
-LS_CombatPower=Poder de combate
-LS_SoulLevel=Nivel del alma
-LS_EndlessTower=Endless Tower
+LS_CharName=Nombre
+LS_CombatPower=CP
+LS_SoulLevel=SOUL
+LS_EndlessTower=ENDLESS
 LS_ClearTime=Tiempo de Despeje
 LS_Primary=1º
 LS_Secondary=2do
