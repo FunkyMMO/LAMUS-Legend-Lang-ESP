@@ -965,7 +965,7 @@ LS_SoulLevel=Nivel de alma
 LS_ReincarnationLevel=Reencarnaciones
 LS_Level=<font color='#FFD461'>%s_1</font>/<font color='#67FFF2'>%s_2</font> (<font color='#FF9933'>%s_3</font>)
 LS_Control=: Menú emergente de personaje
-LS_Channel=Canal
+LS_Channel= CH
 LS_BtnCharacterGuide=Seleccionar guía de nivel
 LS_ReviveString=Resucitando...
 LS_AFK=AFK
@@ -2830,7 +2830,7 @@ RewardIcon_64901=Puedes recibir Chakram Misterioso
 
 [MU2GFxNPCPopupMenu]
 LS_CancelString=Cancelar
-LS_InvitePartyString=Invitar
+LS_InvitePartyString=Invitar a Party
 LS_RequestPartyString=Solicitud de Party
 LS_DemandPvPString=Solicitud de duelo
 LS_PartySettingString=Configuración de la Party
@@ -3169,7 +3169,7 @@ LS_OK=OK
 LS_Cancel=Cancelar
 LS_Accept=Aceptar
 LS_Reject=Rechazar
-LS_PartyAccept=Aceptar Parte
+LS_PartyAccept=Aceptar
 LS_RollingDice_OK=Tira los dados
 LS_RollingDice_Cancel=Ceder
 LS_OwnedItemTypeEquipChar=Se vincula al personaje cuando está equipado
