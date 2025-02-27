@@ -4,8 +4,8 @@ EquipCustomSkill=Equipar cresta
 UnEquipCustomSkill=Quitar cresta
 UnEquipCustomSkillNeedItem=Quitar cresta
 PurchaseExpandSlot=Ampliar almacén
-DeleteInventoryItem=Eliminar artículo
-DeleteInventoryItemHighGrade=Borrar artículo
+DeleteInventoryItem=Eliminar Item
+DeleteInventoryItemHighGrade=Borrar Item
 TearDownInventoryItem=Desmontar Item
 Enchant_Begin=Encantar
 Enchant_High=Encantar
@@ -30,8 +30,8 @@ CreateManufactureFormula=Registrar diseño
 MeetHealer=Sanador
 OwnedItemEquipError=Equipar Item limitado
 OwnedItemEquip=Equipar Item limitado
-OwnedItemSeal=Desligar artículo
-RepairAll=Reparar artículo
+OwnedItemSeal=Desligar Item
+RepairAll=Reparar Item
 RepairOne=Reparar Item
 EnterNaviDungeon=Entrar en Dungeon de búsqueda
 EnterNaviDungeonUseStamp=Entrar en Dungeon de búsqueda
@@ -51,13 +51,13 @@ ExitDungeon=Salir de la Dungeon
 Enchant_Transfer=Mensaje de transferencia de encantamiento
 lsDungeonItem=Brújula dimensional
 UseDungeonItem=Brújula dimensional
-ExitGuildHall=Salir de la sala del guild
+ExitGuildHall=Salir de la sala del Guild
 DeadMsg_Revive_Item=Resucitar ahora
 DeadMsg_Revive_RedZen=Resucitar ahora
 DeadMsg_Revive_PlatinumFree=Servicio Premium de Resurrección
 DeadMsg_Party_Member_Revive_Item=Resucitar ahora
 DeadMsg_Party_Member_Revive_Redzen=Resucitar ahora
-ItemDisassemble=Desmontar artículo
+ItemDisassemble=Desmontar Item
 ExitAltarOfElements=Salir del Altar de los Espíritus
 ExitAltarOfElements_End=Salir del Altar de los Espíritus
 ExitEndlessTower_Die=Salir de Torre sin fin
@@ -82,21 +82,21 @@ NotifyAccountBlock=Conexión de juego restringida
 ArtifactAlchemy=Realizar Alquimia
 AlchemyBoost=Acelerar Alquimia
 ColosseumConsecutiveBattle=Reto de victorias consecutivas en el coliseo
-ColosseumReSearch=Buscar de nuevo
-Msg_Knightage_Invite_join_Text=Invitación a unirse al guild
-Msg_Knightage_Manage_Reset=Inicializar configuración del guild
-Msg_Knightage_Manage_Undo=Restablecer configuración del guild
-Msg_Knightage_Manage_Accept=Aplicar configuración de guild
+ColosseumReSearch=Buscar
+Msg_Knightage_Invite_join_Text=Invitación a unirse al Guild
+Msg_Knightage_Manage_Reset=Inicializar configuración del Guild
+Msg_Knightage_Manage_Undo=Restablecer configuración del Guild
+Msg_Knightage_Manage_Accept=Aplicar configuración de Guild
 Msg_Knightage_Breakup_Disc=Disolver Guild
 Msg_Knightage_Manage_Confirm=Aplicar Función de Guild
 Msg_Knightage_Emblem_Reset=Inicializar emblema
 Msg_Knightage_Emblem_Undo=Reiniciar emblema
 Msg_Knightage_Emblem_Accept=Aplicar emblema
 Msg_Knightage_Emblem_Confirm=Aplicar emblema
-Msg_Knightage_Withdraw_Disc=Abandonar guild
-Msg_Knightage_Ban_Disc=Prohibir miembro del guild
-Msg_Knightage_Delegation_Accept=Designar líder del guild
-ConsignmentRegistItemCancel=Cancelar venta de artículo
+Msg_Knightage_Withdraw_Disc=Abandonar Guild
+Msg_Knightage_Ban_Disc=Prohibir miembro del Guild
+Msg_Knightage_Delegation_Accept=Designar líder del Guild
+ConsignmentRegistItemCancel=Cancelar venta de Item
 RecvBusinessProfits=Recoger dinero
 ConsignmentBuyItem=Comprar Item
 Change_CharacterName=Cambiar nombre de personaje
@@ -106,7 +106,7 @@ MegaPhoneMsg=Mensaje de megáfono
 RankingBless=Felicitar
 Msg_CheckCloseDealMeter=Apagar medidor de daño
 AdditionalOption=Imprimir Item
-Msg_ExtentionPeriodItem=Ampliar periodo de artículo
+Msg_ExtentionPeriodItem=Ampliar periodo de Item
 Mopup_Request=Solicitud de subyugación
 PlatinumItemUse_117=Servicio Premium
 PlatinumItemUse_118=Servicio Premium
@@ -121,8 +121,8 @@ WeaponFusion_Warning=Equipo fusible
 OptionChanger_SealedItem=Restablecer opciones
 OptionChangerSealedItem=Restablecer opciones
 AutobotDefence_Disconnect_Server=Alerta del sistema
-SelecetAO=Imprimir artículo
-ItemRefine_ReqRefine=Refinar artículo
+SelecetAO=Imprimir Item
+ItemRefine_ReqRefine=Refinar Item
 UnlockCharacterCreationSlot=Desbloquear ranura de personaje
 MoveCharacterCreation=Mover a creación de personaje
 ResetGetEmotionBox=Reorganizar piedras del alma
@@ -271,7 +271,7 @@ ArtifactAlchemy=¿Alquimizar el siguiente artefacto?
 ColosseumConsecutiveBattle=<font color='#FDC243'>¿Realmente quieres aceptar el desafío de victorias consecutivas?</font><br><br>¡Las bonificaciones por victorias consecutivas se anulan cuando pierdes una partida!
 ColosseumReSearch=Usa Redzen y busca un nuevo oponente?
 AlchemyBoost=Acorta el tiempo de alquimia en <font color='#FDD889'>%s_1 horas</font><br>Cuenta de aceleración de alquimia restante: %s_2
-Msg_Knightage_Invite_join_Text=El guild <font color='#FDC243'>%s_1</font> te ha invitado.<br>¿Puedes unirte a este guild?<br><font color='#FF0000'>Puedes rechazar las invitaciones a través de Ajustes > Juego > Ajustes sociales.</font><br><font color='#999999'>Precaución: Si te unes a un guild, tendrás el rango más bajo durante un tiempo.</font>
+Msg_Knightage_Invite_join_Text=El Guild <font color='#FDC243'>%s_1</font> te ha invitado.<br>¿Puedes unirte a este Guild?<br><font color='#FF0000'>Puedes rechazar las invitaciones a través de Ajustes > Juego > Ajustes sociales.</font><br><font color='#999999'>Precaución: Si te unes a un Guild, tendrás el rango más bajo durante un tiempo.</font>
 Msg_Knightage_Manage_Reset=Inicializando configuración del Guild.<br>¿Proceder con la inicialización?
 Msg_Knightage_Manage_Undo=Restablecer ajustes del clan.<br>Los ajustes cambiados volverán a los anteriores.<br>¿Proceder con el restablecimiento?
 Msg_Knightage_Manage_Accept=Aplicar la configuración actual del Guild.<br>¿Aplicar la configuración del Guild?
@@ -281,15 +281,15 @@ Msg_Knightage_Emblem_Reset=Inicializando el diseño del emblema.<br>¿Proceder c
 Msg_Knightage_Emblem_Undo=Cancelar el diseño de emblema modificado.<br>La configuración modificada volverá a la configuración anterior.<br>¿Proceder con la inicialización?
 Msg_Knightage_Emblem_Accept=Aplicar el emblema modificado.<br>¿Aplicar el diseño del emblema?
 Msg_Knightage_Emblem_Confirm=Los ajustes del emblema han cambiado.<br>¿Aplicar el diseño del emblema cambiado?
-Msg_Knightage_Withdraw_Disc=Has solicitado abandonar tu guild.<br><br><font color='#FDC243'>%s_1</font><br><br>¿Estás seguro?<br><br><font color='#999999'>Precaución: Si lo dejas y te unes a otro, serás puesto en el rango más bajo de miembro de guild durante un tiempo.</font>
+Msg_Knightage_Withdraw_Disc=Has solicitado abandonar tu Guild.<br><br><font color='#FDC243'>%s_1</font><br><br>¿Estás seguro?<br><br><font color='#999999'>Precaución: Si lo dejas y te unes a otro, serás puesto en el rango más bajo de miembro de Guild durante un tiempo.</font>
 Msg_Knightage_Ban_Disc=¿Prohibir a este personaje entrar en <font color='#FDC243'>%s_1</font>?<br><br><font color='#FDC243'>%s_2</font>
-Msg_Knightage_Delegation_Accept=¿Designas a <font color='#FDC243'>%s_2</font> como nuevo maestro del guild <font color='#FDC243'>%s_1</font>?
+Msg_Knightage_Delegation_Accept=¿Designas a <font color='#FDC243'>%s_2</font> como nuevo maestro del Guild <font color='#FDC243'>%s_1</font>?
 ConsignmentRegistItemCancel=¿Cancelar la venta del Item registrado?
 RecvBusinessProfits=¿Cobrar el dinero?
-ConsignmentBuyItem=¿Comprar este artículo?
+ConsignmentBuyItem=¿Comprar este Item?
 Change_CharacterName=Nombra a tu personaje <font color='#FDC243'>%s_1</font>?<br>Selecciona OK para pasar a la ventana de Selección de Personaje.
-Change_KnightageName=Nombra tu guild <font color='#FDC243'>%s_1</font>?
-Msg_Knightage_Invite=Introduzca un nombre de personaje para invitar a su guild.
+Change_KnightageName=Nombra tu Guild <font color='#FDC243'>%s_1</font>?
+Msg_Knightage_Invite=Introduzca un nombre de personaje para invitar a su Guild.
 MegaPhoneMsg=Introduzca un mensaje de megáfono.
 RankingBless=Felicita al personaje por alcanzar un nuevo rango?<br>*Recibirás EXP de Alma a cambio.
 Msg_CheckCloseDealMeter=Apaga el medidor de daño?<br>Siempre puedes volver a activarlo en Ajustes.
@@ -331,9 +331,9 @@ Msg_Pet_Collect_Warnning=Usar la mascota como material eliminará el efecto de r
 Msg_Pet_Level_Warnning=Usar la mascota como material reducirá el nivel de crecimiento. ¿Realmente quieres continuar?
 NebulaOpen_Request=¿Desea abrir la nebulosa?
 NebulaItemEquip_Request=Actualmente tienes %s_1 <font color='#FDC243'>%s_2</font>.<br>Cuando esta gema se consume en la nebulosa, no se puede quitar.<br>Una vez usada en la nebulosa no se puede volver a quitar.
-NpcShop_SellAll=Las ventas de múltiples artículos no se pueden deshacer.<br>¿De verdad quieres venderlos todos?
+NpcShop_SellAll=Las ventas de múltiples Items no se pueden deshacer.<br>¿De verdad quieres venderlos todos?
 ReWright=Se borrará el contenido actual.<br>¿Volver a escribir?
-MailDelAll=Existen Zen y artículos no reclamados.
+MailDelAll=Existen Zen y Items no reclamados.
 MailHaveItemNotEmpty=Tu bolsa está llena.
 MailHaveItemAndDel=Eliminar todos los mensajes recibidos.
 ExitChaosCastle=¿Salir del Castillo del Caos?

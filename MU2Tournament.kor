@@ -253,7 +253,7 @@ ScheduleDesc_14=Todos los partidos del Torneo han terminado.
 
 [TournamentMap_StateSystemMessage]
 StateTitle_1=Ha comenzado el periodo de solicitud de la 1ª ronda
-StateDesc_1=¡Maestros de guild, abran el mapa de Guerra de facciones (/) y soliciten ya su participación en los primeros enfrentamientos preliminares!
+StateDesc_1=¡Maestros de Guild, abran el mapa de Guerra de facciones (/) y soliciten ya su participación en los primeros enfrentamientos preliminares!
 StateTitle_3=Ha comenzado el periodo de solicitud para la 2ª ronda
 StateDesc_3=Sólo aquellos cuya solicitud no haya sido seleccionada en la primera ronda tienen 30 minutos para volver a presentar su solicitud.
 StateTitle_4=El periodo de solicitud de la 2ª ronda ha finalizado

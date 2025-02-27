@@ -4327,8 +4327,8 @@ Skill_6419=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>
 Skill_6420=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>60%</font>.
 Skill_6899=Los Fondos del Guild pueden ser recolectados cuando un miembro obtiene Zen.
 Skill_6900=Establece el número de miembros del Guild en 20.
-Skill_6901=Guild creado, esto te permite equipar una Insignia que representa a tu guild.
-Skill_6902=Tu guild es reconocido oficialmente, permitiéndote personalizar el Emblema, la Insignia y el Ícono.
+Skill_6901=Guild creado, esto te permite equipar una Insignia que representa a tu Guild.
+Skill_6902=Tu Guild es reconocido oficialmente, permitiéndote personalizar el Emblema, la Insignia y el Ícono.
 Skill_6903=Puedes abrir el Almacén del Guild compartido por sus miembros.
 Skill_6904=Establece el número de miembros del Guild en 30.
 Skill_6905=aumenta los Fondos del Guild obtenidos en un 2% cuando un miembro obtiene Zen.
@@ -7777,5 +7777,5 @@ Skill_951140=Invoca armas antiguas en una posición específica para causar <fon
 Skill_961080=Explota toda la <font color='#FE6D03'>esencia</font> poseída y se vuelve invencible durante <font color='#FED700'>$eff:961080000:dur:f10$ segundos</font> y causa <font color='#FE6D03'>$eff:961080003:a:i$%</font> de ataque como daño cada <font color='#FED700'>$eff:961080001:interval:f10$ segundos</font> durante <font color='#FED700'>$eff:961080001:dur:f10$ segundos</font> y silencia durante <font color='#FED700'>$eff:961080004:dur:f10$ segundos</font>. <br><br><font color='#FFF59B'>Causa daño adicional de 15% por cada esencia consumida.</font>
 Skill_961090=Crea un cristal mágico agregando energía en una posición específica y causa <font color='#FE6D03'>$eff:961090001:a:i$%</font> de ataque como daño y adquiere <font color='#FED700'>2</font> <font color='#FE6D03'>esencias</font>.
 Skill_961100=Causa daño de <font color='#FE6D03'>$eff:961100001:a:i$%</font> de ataque en una posición específica y aturde durante <font color='#FED700'>$eff:961100011:dur:f10$ segundos</font>. Causa daño adicional por explosión de <font color='#FE6D03'>($eff:961100003:a:i$/$eff:961100006:a:i$/$eff:961100010:a:i$)%</font> según el paso de la marca.
-Skill_903011=Carne especial para el festival, el tiempo de recarga del artículo de fuegos artificiales del segundo aniversario disminuye en un 30%.
+Skill_903011=Carne especial para el festival, el tiempo de recarga del Item de fuegos artificiales del segundo aniversario disminuye en un 30%.
 

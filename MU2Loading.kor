@@ -78,15 +78,15 @@ Loading_76=Cada vez que un jugador entra en la Grieta de un continente, el medid
 Loading_77=Puedes comprobar el estado del indicador de la Grieta en el <font color='#FFD144'>menú de la Grieta (N)</font>.
 Loading_78=Pulsa Esc y consulta la <font color='#FFD144'>Guía de Crecimiento</font>. Ofrece información general sobre los contenidos del juego.
 Loading_79=El <font color='#FFD144'>Indicador de la Grieta</font> aumenta más rápidamente cuando entran más jugadores en el mismo servidor.
-Loading_80=Únete a un guild, y podrás usar <font color='#FFD144'>Contenido de guild</font>.
+Loading_80=Únete a un Guild, y podrás usar <font color='#FFD144'>Contenido de Guild</font>.
 Loading_81=Los miembros del Guild reciben <font color='#FFD144'>varios beneficios extra basados en el nivel del Guild y los Santuarios</font>.
-Loading_82=Puedes unirte a un guild a través del <font color='#FFD144'>menú Guild (G)</font>.
-Loading_83=Puedes crear un guild a través del <font color='#FFD144'>Secretario de la Alianza de Guilds</font> en Ohrdor.
-Loading_84=Cuando cazas monstruos, tu <font color='#FFD144'>guild gana EXP</font> junto contigo.
+Loading_82=Puedes unirte a un Guild a través del <font color='#FFD144'>menú Guild (G)</font>.
+Loading_83=Puedes crear un Guild a través del <font color='#FFD144'>Secretario de la Alianza de Guilds</font> en Ohrdor.
+Loading_84=Cuando cazas monstruos, tu <font color='#FFD144'>Guild gana EXP</font> junto contigo.
 Loading_85=Pulsa Esc y consulta la <font color='#FFD144'>Guía de Crecimiento</font>. Ofrece información general sobre los contenidos del juego.
-Loading_86=Para que un guild pueda construir un <font color='#FFD144'>Santuario</font>, debe tener los materiales necesarios en su almacén.
+Loading_86=Para que un Guild pueda construir un <font color='#FFD144'>Santuario</font>, debe tener los materiales necesarios en su almacén.
 Loading_87=Los personajes con el buff Brote Creciente pueden conseguir el <font color='#FFD144'>Caja de Apoyo Brote</font> jugando en ciertas Dungeons.
-Loading_88=Los miembros del guild pueden conseguir Contribución <font color='#FFD144'>participando en actividades del guild y cazando monstruos</font>.
+Loading_88=Los miembros del Guild pueden conseguir Contribución <font color='#FFD144'>participando en actividades del Guild y cazando monstruos</font>.
 Loading_89=Los miembros del Guild obtienen Contribución una vez a la semana a través de <font color='#FFD144'>Evaluación de la Contribución del Guild</font>.
 Loading_90=Los monstruos se clasifican en <font color='#FFD144'>Planta, Insecto, Bestia, Humanoide, No Muerto, Mutante, Mágico y Edificio</font>.
 Loading_91=Sólo <font color='#FFD144'>Los personajes de nivel 70 que hayan completado la misión del Talismán</font> pueden utilizar el poder del Talismán.
@@ -104,21 +104,21 @@ Loading_102=Puedes conseguir <font color='#FFD144'>Fragmentos de Piedra Trascend
 Loading_103=<font color='#FFD144'>Las Piedras Trascendentes</font> pueden ser <font color='#FFD144'>encantadas</font> con <font color='#FFD144'>Piedras de Intensificación</font>. Las Piedras Trascendentes encantadas añaden <font color='#FFD144'>efectos de Trascendencia</font> al equipo.
 Loading_104=Usa <font color='#FFD144'>Piedras Trascendentes</font> en tu equipo para conseguir poderosos efectos de Trascendencia.
 Loading_105=Trascendencia, Fusión, y la Tienda de Contribución son parte de los beneficios del <font color='#FFD144'>Territorio de Guerra de Facción</font>.
-Loading_106=¿No puedes luchar en la Guerra de Facciones? Siempre puedes convertirte en un <font color='#FFD144'>seguidor</font> y compartir los beneficios del territorio del guild al que sigues.
+Loading_106=¿No puedes luchar en la Guerra de Facciones? Siempre puedes convertirte en un <font color='#FFD144'>seguidor</font> y compartir los beneficios del territorio del Guild al que sigues.
 Loading_107=El efecto <font color='#FFD144'>seguidor</font> se reinicia cuando termina el torneo.
-Loading_108=Todos los seguidores pueden disfrutar de los <font color='#FFD144'>mismos beneficios</font> independientemente del grado del territorio. Siéntete libre de seguir a cualquier guild que esté disponible.
+Loading_108=Todos los seguidores pueden disfrutar de los <font color='#FFD144'>mismos beneficios</font> independientemente del grado del territorio. Siéntete libre de seguir a cualquier Guild que esté disponible.
 Loading_109=Los Talismanes de mayor grado añaden <font color='#FFD144'>mayores cantidades de Poder de Combate y Puntos de Colección</font> con cada nuevo nivel.
-Loading_110=<font color='#FFD144'>Las Fichas de Trofeo</font> son necesarias para <font color='#FFD144'>donar Trofeos</font> a tu guild o <font color='#FFD144'>convertirte en seguidor</font>.
-Loading_111=Únete a un guild y dona <font color='#FFD144'>Trofeos</font>, y podrás obtener <font color='#FFD144'>Gemas Mágicas</font> a cambio.
+Loading_110=<font color='#FFD144'>Las Fichas de Trofeo</font> son necesarias para <font color='#FFD144'>donar Trofeos</font> a tu Guild o <font color='#FFD144'>convertirte en seguidor</font>.
+Loading_111=Únete a un Guild y dona <font color='#FFD144'>Trofeos</font>, y podrás obtener <font color='#FFD144'>Gemas Mágicas</font> a cambio.
 Loading_112=Los guilds que posean un <font color='#FFD144'>territorio de 3 estrellas</font> podrán encantar sus Piedras Trascendentes <font color='#FFD144'>12 veces</font>.
 Loading_113=Los guilds que posean un <font color='#FFD144'>territorio de 3 estrellas</font> pueden producir hasta <font color='#FFD144'>3</font> Piedras de Intensificación al mismo tiempo.
 Loading_114=El Torneo de Guerra de Facciones tiene lugar una vez a la semana. Abre el <font color='#FFD144'>Mapa de la Guerra de Facción</font> para ver el calendario detallado.
 Loading_115=El periodo de inscripción al torneo comienza a las 21:00 del viernes de la semana del torneo. Sólo <font color='#FFD144'>maestros de clan</font> pueden inscribirse en el torneo.
-Loading_116=<font color='#FFD144'>Los maestros de guild</font> pueden nombrar un <font color='#FFD144'>Líder de incursión</font> y dejar que comande el <font color='#FFD144'>equipo de incursión</font>.
+Loading_116=<font color='#FFD144'>Los maestros de Guild</font> pueden nombrar un <font color='#FFD144'>Líder de incursión</font> y dejar que comande el <font color='#FFD144'>equipo de incursión</font>.
 Loading_117=Para participar en el torneo, debes crear un <font color='#FFD144'>equipo de incursión</font>. Sólo los <font color='#FFD144'>Líderes de Incursión</font> de los guilds participantes pueden crear equipos de incursión.
 Loading_118=Si varios guilds solicitan el mismo territorio, serán seleccionados aquellos que oferten más <font color='#FFD144'>Trofias</font> que los demás.
 Loading_119=Para ganar el derecho a luchar por el territorio que deseas, <font color='#FFD144'>puja tantos Trofeos como puedas</font>.
-Loading_120=El guild que ocupe el territorio sólo tendrá que participar en la <font color='#FFD144'>ronda final</font> del siguiente torneo. Conveniente, ¿verdad?
+Loading_120=El Guild que ocupe el territorio sólo tendrá que participar en la <font color='#FFD144'>ronda final</font> del siguiente torneo. Conveniente, ¿verdad?
 Loading_121=No tienes que presentarte para competir por los territorios que ya posees. Entonces puedes intentar hacerte con un <font color='#FFD144'>nuevo territorio</font>.
 Loading_122=Durante cada torneo, sólo puedes solicitar <font color='#FFD144'>un territorio</font>.
 Loading_123=<font color='#FFD144'>Fusiona equipo</font> y consigue un objeto con la opción <font color='#FFD144'>Bono de Daño Humanoide</font>.
@@ -140,12 +140,12 @@ Loading_138=Cualquier clan puede unirse a la Guerra de facciones, independientem
 Loading_139=Puedes ganar Puntos de Contribución simplemente por <font color='#FFD144'>participar</font> en el Torneo.
 Loading_140=Ocupar <font color='#FFD144'>2 o más territorios</font> requiere un gran número de miembros para realizar múltiples combates al mismo tiempo.
 Loading_141=<font color='#FFD144'>El nivel del territorio vecino</font> sólo se tiene en cuenta cuando el territorio está conectado al <font color='#FFD144'>territorio capital</font>.
-Loading_142=Puedes disminuir el <font color='#FFD144'>nivel de territorio vecino</font> de otro guild desconectando sus territorios.
+Loading_142=Puedes disminuir el <font color='#FFD144'>nivel de territorio vecino</font> de otro Guild desconectando sus territorios.
 Loading_143=Todos los <font color='#FFD144'>seguidores</font> son expulsados cuando el <font color='#FFD144'>torneo termina</font>. Cronometra tu <font color='#FFD144'>producción de Piedra de Intensificación</font> con cuidado.
 Loading_144=Todos los <font color='#FFD144'>seguidores</font> son despedidos cuando el <font color='#FFD144'>torneo termina</font>. Calcula bien tu producción de <font color='#FFD144'>Piedra de Intensificación</font>.
 Loading_145=Para obtener mejores resultados, conviértete en Seguidor tan pronto como el <font color='#FFD144'>Torneo termine</font>.
 Loading_146=Convertirse en un <font color='#FFD144'>seguidor</font> cuesta un gran número de <font color='#FFD144'>Fichas de Trofeo</font>.
-Loading_147=Por cada nuevo <font color='#FFD144'>Seguidor</font>, el <font color='#FFD144'>guild</font> al que se sigue consigue 20 Trofeos.
+Loading_147=Por cada nuevo <font color='#FFD144'>Seguidor</font>, el <font color='#FFD144'>Guild</font> al que se sigue consigue 20 Trofeos.
 Loading_148=Los equipos de asalto de torneo pueden ser <font color='#FFD144'>creados</font> y <font color='#FFD144'>despachados</font> en el <font color='#FFD144'>Puerto del Guild en Ohrdor</font>.
 Loading_149=<font color='#FFD144'>Los equipos de asalto de torneo</font> que no cumplan los requisitos de jugadores para sus partidas <font color='#FFD144'>no podrán ser enviados</font>.
 Loading_150=<font color='#FFD144'>El Archivo Antiguo de Lupa</font> tiene una baja probabilidad de ser descubierto en modo Épico 6 o superior.
@@ -202,7 +202,7 @@ Loading_200=Usa <font color='#FFD144'>Martillos de Extracción de Joyas</font> p
 Loading_201=Puedes usar <font color='#FFD144'>Objetos de Recompensa de la Misión Diaria</font> para comprar objetos especiales.
 Loading_202=<font color='#FFD144'>El Renacer</font> está disponible cuando alcanzas el nivel máximo de personaje y el Nivel de Alma 300.
 Loading_203=<font color='#FFD144'>El Renacimiento</font> aumentará tu ganancia de EXP de Alma.
-Loading_204=Únete a un guild para recibir varios beneficios de Santuario como <font color='#FFD144'>+ EXP Artefacto</font> y <font color='#FFD144'>+ EXP Alma</font>.
+Loading_204=Únete a un Guild para recibir varios beneficios de Santuario como <font color='#FFD144'>+ EXP Artefacto</font> y <font color='#FFD144'>+ EXP Alma</font>.
 Loading_205=Sólo puedes obtener <font color='#FFD144'>Esencia de Artefacto Despertada</font> realizando alquimia en Artefactos normales de Nivel 100.
 Loading_206=Equipar ciertas <font color='#FFD144'>Piedras de Alma</font> mejorará las habilidades existentes o añadirá efectos especiales.
 Loading_207=Múltiples monstruos jefe aparecen en la <font color='#FFD144'>Fosa de los Muertos</font>.

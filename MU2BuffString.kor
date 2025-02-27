@@ -4061,26 +4061,26 @@ Buff_2029000=Dulzura de la leche con chocolateAumenta el Daño de Monstruo Élit
 Buff_2030000=Energía de una deliciosa galleta¶Restaura <font color='#FE6D03'>20%</font> de tus HP durante 5 minutos.
 Buff_2031000=Una bebida maravillosa que hace sentir bien a su usuario¶Aumenta la Velocidad de Movimiento un <font color='#FE6D03'>10%</font> y disminuye el <font color='#FE6D03'>enfriamiento</font> un 20% durante 30 minutos.
 Buff_6800000=Aumenta la EXP de Alma obtenida cazando.
-Buff_6801000=Aumenta en <font color='#FE6D03'>100%</font> la EXP de alma obtenida de la caza. Dura 30 minutos desde que el guild la lanza.
-Buff_6802000=Aumenta la EXP de alma obtenida de la caza en <font color='#FE6D03'>100%</font>.¶Dura 60 minutos desde que el guild lo lanza.
-Buff_6803000=Aumenta la EXP de alma obtenida de la caza en <font color='#FE6D03'>200%</font>.¶Dura 30 minutos desde que el guild lo lanza.
-Buff_6804000=Aumenta la EXP de alma obtenida de la caza en <font color='#FE6D03'>200%</font>.¶Dura 60 minutos desde que el guild lo lanza.
-Buff_6805000=Aumenta la EXP de alma obtenida de la caza en <font color='#FE6D03'>300%</font>.¶Dura 30 minutos desde que el guild lo lanza.
-Buff_6806000=Aumenta la EXP de alma obtenida de la caza en <font color='#FE6D03'>300%</font>.¶Dura 60 minutos desde que el guild lo lanza.
+Buff_6801000=Aumenta en <font color='#FE6D03'>100%</font> la EXP de alma obtenida de la caza. Dura 30 minutos desde que el Guild la lanza.
+Buff_6802000=Aumenta la EXP de alma obtenida de la caza en <font color='#FE6D03'>100%</font>.¶Dura 60 minutos desde que el Guild lo lanza.
+Buff_6803000=Aumenta la EXP de alma obtenida de la caza en <font color='#FE6D03'>200%</font>.¶Dura 30 minutos desde que el Guild lo lanza.
+Buff_6804000=Aumenta la EXP de alma obtenida de la caza en <font color='#FE6D03'>200%</font>.¶Dura 60 minutos desde que el Guild lo lanza.
+Buff_6805000=Aumenta la EXP de alma obtenida de la caza en <font color='#FE6D03'>300%</font>.¶Dura 30 minutos desde que el Guild lo lanza.
+Buff_6806000=Aumenta la EXP de alma obtenida de la caza en <font color='#FE6D03'>300%</font>.¶Dura 60 minutos desde que el Guild lo lanza.
 Buff_6810000=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos de la caza.
-Buff_6811000=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos de la caza en <font color='#FE6D03'>200%</font>.¶Dura 60 minutos desde que el guild lo lanza.
-Buff_6812000=Aumenta la EXP del Guild y los puntos de contribución obtenidos de la caza en un <font color='#FE6D03'>200%</font>.¶Dura 120 minutos desde que el guild lo lanza.
-Buff_6813000=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos de la caza en <font color='#FE6D03'>350%</font>.¶Dura 60 minutos desde que el guild lo lanza.
-Buff_6814000=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos de la caza en <font color='#FE6D03'>350%</font>.¶Dura 120 minutos desde que el guild lo lanza.
-Buff_6815000=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos de la caza en <font color='#FE6D03'>500%</font>.¶Dura 60 minutos desde que el guild lo lanza.
-Buff_6816000=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos de la caza en <font color='#FE6D03'>500%</font>.¶Dura 120 minutos desde que el guild lo lanza.
+Buff_6811000=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos de la caza en <font color='#FE6D03'>200%</font>.¶Dura 60 minutos desde que el Guild lo lanza.
+Buff_6812000=Aumenta la EXP del Guild y los puntos de contribución obtenidos de la caza en un <font color='#FE6D03'>200%</font>.¶Dura 120 minutos desde que el Guild lo lanza.
+Buff_6813000=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos de la caza en <font color='#FE6D03'>350%</font>.¶Dura 60 minutos desde que el Guild lo lanza.
+Buff_6814000=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos de la caza en <font color='#FE6D03'>350%</font>.¶Dura 120 minutos desde que el Guild lo lanza.
+Buff_6815000=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos de la caza en <font color='#FE6D03'>500%</font>.¶Dura 60 minutos desde que el Guild lo lanza.
+Buff_6816000=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos de la caza en <font color='#FE6D03'>500%</font>.¶Dura 120 minutos desde que el Guild lo lanza.
 Buff_6820000=Aumenta la EXP de Artefacto Despertado obtenida en el Laberinto.
-Buff_6821000=Aumenta la EXP de Artefacto Despertado obtenida del Laberinto en <font color='#FE6D03'>200%</font>.¶Dura 30 minutos desde que el guild lo lanza.
-Buff_6822000=Aumenta la EXP de Artefacto despertado obtenida en el Laberinto un <font color='#FE6D03'>200%</font>.¶Dura 60 minutos desde que el guild lo lanza.
-Buff_6823000=Aumenta la EXP de Artefacto despertado obtenida en el Laberinto un <font color='#FE6D03'>350%</font>.¶Dura 30 minutos desde que el guild lo lanza.
-Buff_6824000=Aumenta la EXP de Artefacto despertado obtenida en el Laberinto un <font color='#FE6D03'>350%</font>.¶Dura 60 minutos desde que el guild lo lanza.
-Buff_6825000=Aumenta la EXP de Artefacto despertado obtenida en el Laberinto un <font color='#FE6D03'>500%</font>.¶Dura 30 minutos desde que el guild lo lanza.
-Buff_6826000=Aumenta la EXP de Artefacto Despertado obtenida en el Laberinto un <font color='#FE6D03'>500%</font>.¶Dura 60 minutos desde que el guild lo lanza.
+Buff_6821000=Aumenta la EXP de Artefacto Despertado obtenida del Laberinto en <font color='#FE6D03'>200%</font>.¶Dura 30 minutos desde que el Guild lo lanza.
+Buff_6822000=Aumenta la EXP de Artefacto despertado obtenida en el Laberinto un <font color='#FE6D03'>200%</font>.¶Dura 60 minutos desde que el Guild lo lanza.
+Buff_6823000=Aumenta la EXP de Artefacto despertado obtenida en el Laberinto un <font color='#FE6D03'>350%</font>.¶Dura 30 minutos desde que el Guild lo lanza.
+Buff_6824000=Aumenta la EXP de Artefacto despertado obtenida en el Laberinto un <font color='#FE6D03'>350%</font>.¶Dura 60 minutos desde que el Guild lo lanza.
+Buff_6825000=Aumenta la EXP de Artefacto despertado obtenida en el Laberinto un <font color='#FE6D03'>500%</font>.¶Dura 30 minutos desde que el Guild lo lanza.
+Buff_6826000=Aumenta la EXP de Artefacto Despertado obtenida en el Laberinto un <font color='#FE6D03'>500%</font>.¶Dura 60 minutos desde que el Guild lo lanza.
 Buff_2239000=La energía purificada de la oscuridad entra en tu cuerpo, aumentando el Ataque en 100.
 Buff_2239001=La energía purificada de la oscuridad entra en tu cuerpo, aumentando el Ataque en 150.
 Buff_2239002=La energía purificada de la oscuridad entra en tu cuerpo, aumentando tu Ataque en 200.

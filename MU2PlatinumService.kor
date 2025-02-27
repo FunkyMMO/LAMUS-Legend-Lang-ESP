@@ -25,7 +25,7 @@ Service_204=Teleporte habilitado
 Service_205=Correo remoto habilitado
 Service_206=Ranuras de agente comercial +5
 Service_207=Cargo de corredor de bolsa (Zen) cambiado a 3%
-Service_208=Opción de registro de 72 horas de Trade Broker
+Service_208=Opción de registro de 72 horas de Bazar
 Service_301=1 Caja de Oro y 70.000 Gemas Mágicas cada día
 Service_303=2 espacios de inventario adicionales
 Service_304=Emoticonos adicionales
@@ -33,9 +33,9 @@ Service_305=Teleporte habilitado
 Service_306=Correo remoto habilitado
 Service_307=Baúl de cuenta remoto
 Service_308=Baúl personal remoto
-Service_309=Cuenta de registro de artículos de corredor de bolsa +8
+Service_309=Cuenta de registro de Items de corredor de bolsa +8
 Service_310=Cargo de corredor de bolsa (Zen) cambiado a 3%
-Service_311=Opción de registro de 72 horas de Trade Broker
+Service_311=Opción de registro de 72 horas de Bazar
 Service_401=1 Caja de Oro y 100.000 Gemas Mágicas cada día
 Service_402=2 ranuras de inventario adicionales
 Service_403=Emoticonos adicionales
@@ -44,9 +44,9 @@ Service_405=Correo remoto habilitado
 Service_406=Almacenamiento remoto de cuentas
 Service_407=Almacenamiento personal remoto
 Service_408=Desmantelamiento remoto
-Service_409=Cuenta de registro de artículos de corredor de bolsa +8
+Service_409=Cuenta de registro de Items de corredor de bolsa +8
 Service_410=Cargo de corredor de bolsa (Zen) cambiado a 3%
-Service_411=Opción de registro de 72 horas de Trade Broker
+Service_411=Opción de registro de 72 horas de Bazar
 Service_501=Cajas de registro gratuitas todos los días
 Service_503=Emoticonos adicionales
 Service_504=Teletransporte remoto <font color='#37C7DF'>(F2)</font>
@@ -55,9 +55,9 @@ Service_506=Almacenamiento remoto de cuenta disponible <font color='#37C7DF'>(F4
 Service_507=Desmantelamiento remoto <font color='#37C7DF'>(F5)</font>
 Service_508=Tienda de pociones remota <font color='#37C7DF'>(F6)</font>
 Service_509=Buzón remoto <font color='#37C7DF'>(F7)</font>
-Service_510=Registro adicional de artículos de corredor de comercio +10
+Service_510=Registro adicional de Items de corredor de comercio +10
 Service_511=Tarifa de corredor de comercio (Zen) y (Redzen) cambiada a 6%.
-Service_512=Opción de registro de 72 horas de Trade Broker
+Service_512=Opción de registro de 72 horas de Bazar
 Service_1002=Pestaña adicional de Inventario +2
 Service_1003=Caja de ingresos diarios
 Service_1004=Regalo de Servicio Premium
@@ -84,9 +84,9 @@ Service_7=Almacenamiento de cuenta
 Service_8=Almacenamiento personal
 Service_9=Desmantelamiento a distancia
 Service_10=Tienda a distancia
-Service_11=Registro de artículos del corredor de bolsa
+Service_11=Registro de Items del corredor de bolsa
 Service_12=Descuento de la tasa de corredor de bolsa (Zen)
-Service_13=Periodo de registro de Trade Broker
+Service_13=Periodo de registro de Bazar
 ServceBenefit_1=+%s_1
 ServceBenefit_2=Cajas Premium x%s_1
 ServceBenefit_3=+%s_1

@@ -1037,7 +1037,7 @@ Greeting1=Tengo más dinero del que puedo gastar en toda una vida. Simplemente l
 
 [Npc_104050508]
 Name=Arke Noble
-Greeting1=Espero que haya más artículos caros que pueda comprar.
+Greeting1=Espero que haya más Items caros que pueda comprar.
 
 [Npc_104050512]
 Name=Airship Guard
@@ -1928,63 +1928,63 @@ Greeting2=Puedo dar fe personalmente del sabor de nuestra comida.
 Greeting3=Bienvenido, ho ho. Avísame si necesitas algo.
 
 [Npc_9276]
-Name=Potion Merchant
+Name=Mercader de Pociones
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9271]
-Name=Potion Merchant
+Name=Mercader de Pociones
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9272]
-Name=Potion Merchant
+Name=Mercader de Pociones
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9273]
-Name=Potion Merchant
+Name=Mercader de Pociones
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9274]
-Name=Potion Merchant
+Name=Mercader de Pociones
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9275]
-Name=Potion Merchant
+Name=Mercader de Pociones
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9277]
-Name=Potion Merchant
+Name=Mercader de Pociones
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9278]
-Name=Potion Merchant
+Name=Mercader de Pociones
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9279]
-Name=Potion Merchant
+Name=Mercader de Pociones
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9281]
-Name=Potion Merchant
+Name=Mercader de Pociones
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9282]
-Name=Potion Merchant
+Name=Mercader de Pociones
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9283]
-Name=Potion Merchant
+Name=Mercader de Pociones
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9284]
-Name=Potion Merchant
+Name=Mercader de Pociones
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9285]
-Name=Potion Merchant
+Name=Mercader de Pociones
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_20800]
-Name=Potion Merchant
+Name=Mercader de Pociones
 Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9409]
@@ -2006,116 +2006,116 @@ Sayhello1=Ven a mí siempre que quieras encantar objetos o alas.
 
 [Npc_9212]
 Name=Armor Merchant
-Sayhello1=¡Desmontaré cualquier artículo inútil!
+Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9211]
 Name=Armor Merchant
-Sayhello1=¡Desmontaré cualquier artículo inútil!
+Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9213]
 Name=Armor Merchant
-Sayhello1=¡Desmontaré cualquier artículo inútil!
+Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9214]
 Name=Armor Merchant
-Sayhello1=¡Desmontaré cualquier artículo inútil!
+Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9215]
 Name=Armor Merchant
-Sayhello1=¡Desmontaré cualquier artículo inútil!
+Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9216]
 Name=Armor Merchant
-Sayhello1=¡Desmontaré cualquier artículo inútil!
+Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9217]
 Name=Armor Merchant
-Sayhello1=¡Desmontaré cualquier artículo inútil!
+Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9218]
 Name=Armor Merchant
-Sayhello1=¡Desmontaré cualquier artículo inútil!
+Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9219]
 Name=Armor Merchant
-Sayhello1=¡Desmontaré cualquier artículo inútil!
+Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9287]
 Name=Armor Merchant
-Sayhello1=¡Desmontaré cualquier artículo inútil!
+Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9294]
 Name=Armor Merchant
-Sayhello1=¡Desmontaré cualquier artículo inútil!
+Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_20510]
 Name=Armor Merchant
-Sayhello1=¡Desmontaré cualquier artículo inútil!
+Sayhello1=¡Desmontaré cualquier Item inútil!
 Sayhello2=
 
 [Npc_9202]
 Name=Weapon Merchant
-Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
+Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9201]
 Name=Weapon Merchant
-Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
+Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9203]
 Name=Weapon Merchant
-Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
+Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9204]
 Name=Weapon Merchant
-Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
+Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9205]
 Name=Weapon Merchant
-Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
+Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9206]
 Name=Weapon Merchant
-Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
+Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9207]
 Name=Weapon Merchant
-Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
+Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9208]
 Name=Weapon Merchant
-Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
+Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9209]
 Name=Weapon Merchant
-Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
+Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9210]
 Name=Weapon Merchant
-Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
+Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9286]
 Name=Weapon Merchant
-Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
+Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9293]
 Name=Weapon Merchant
-Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
+Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_20490]
 Name=Weapon Merchant
-Sayhello1=¡Puedes obtener materiales para crafting desmontando artículos!
+Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9221]
@@ -2188,7 +2188,7 @@ Sayhello1=¿Sabías que puedes conseguir gran equipo con Fragmentos del Rift?
 
 [Npc_9304]
 Name=Magic Gem Merchant
-Sayhello1=¡Tengo muchos artículos que puedes comprar con Gemas Mágicas!
+Sayhello1=¡Tengo muchos Items que puedes comprar con Gemas Mágicas!
 
 [Npc_9305]
 Name=Mount Merchant
@@ -2204,24 +2204,24 @@ Sayhello1=¿Está llena tu mochila? Déjame ayudarte a vaciarla.
 
 [Npc_9420]
 Name=Administrador de almacen personal
-Sayhello1=Tus artículos son importantes para ti. Los mantendré seguros.
+Sayhello1=Tus Items son importantes para ti. Los mantendré seguros.
 
 [Npc_75]
 Name=Guild Registrar
 Sayhello1=¿Te gustaría crear un Guild?
 
 [Npc_76]
-Name=Guild Manager
+Name=Emblemas de Guild
 Sayhello1=Oye, ¿no quieres cambiar el emblema de tu Guild?
 Sayhello2=Estoy evaluando la contribución de los caballeros. Solo pregunta si tienes alguna duda.
 
 [Npc_77]
 Name=Guild Storage
-Sayhello1=Si estás en un Guild, mantendré tus artículos seguros.
+Sayhello1=Si estás en un Guild, mantendré tus Items seguros.
 
 [Npc_94]
 Name=Alchemist Merchant
-Sayhello1=Si tienes un Artefacto elevado, puedes intercambiarlo aquí por artículos raros.
+Sayhello1=Si tienes un Artefacto elevado, puedes intercambiarlo aquí por Items raros.
 
 [Npc_9418]
 Name=Appearance Merchant
@@ -5223,7 +5223,7 @@ Greeting1=Hoy hace un clima maravilloso.
 [Npc_199014001]
 Name=Guard Captain
 Sayhello1=Todos los guilds pueden construir un Airship.
-Sayhello2=El nivel del guild es demasiado bajo para construir una Airship.
+Sayhello2=El nivel del Guild es demasiado bajo para construir una Airship.
 Greeting1=Solo tienes que subir rápidamente el nivel de la Airship.
 
 [Npc_199014006]
@@ -6253,7 +6253,7 @@ Sayhello1=¡Por aquí! ¡Sal de aquí mientras tratamos de detenerlos!
 Sayhello2=¡Rápido! ¡Solo podemos aguantar un poco más!
 
 [Npc_4604]
-Name=Potion Merchant M'Baku
+Name=Mercader de Pociones M'Baku
 Sayhello1=Solo una preparación exhaustiva te dará la fuerza para superar las dificultades.
 Sayhello2=No pienses que puedes alcanzar la gloria sin dar algo a cambio.
 
@@ -9511,11 +9511,11 @@ Sayhello1=¡Festival de apreciación al cliente! ¡Ven por ellos mientras puedas
 
 [Npc_19642]
 Name=Envoy Spellbinder
-Sayhello1=¡Hola! ¡Hola! ¡Hola! Tengo algunos buenos artículos en venta. ¡Ven a por ellos mientras puedas! ¡Gracias!
+Sayhello1=¡Hola! ¡Hola! ¡Hola! Tengo algunos buenos Items en venta. ¡Ven a por ellos mientras puedas! ¡Gracias!
 
 [Npc_19645]
 Name=Envoy Moon Rabbit
-Sayhello1=Tengo una variedad de artículos de la luna en venta.
+Sayhello1=Tengo una variedad de Items de la luna en venta.
 
 [Npc_19648]
 Name=Envoy Quirrel
@@ -9523,7 +9523,7 @@ Sayhello1=Si precisas ayuda, no dudes en abrir un ticket. Gracias por jugar LAMU
 
 [Npc_19651]
 Name=Envoy Rye
-Sayhello1=Me he disfrazado de miembro del enviado para repartir artículos de nuestra parte. Espero que nadie lo note...
+Sayhello1=Me he disfrazado de miembro del enviado para repartir Items de nuestra parte. Espero que nadie lo note...
 
 [Npc_19654]
 Name=Envoy Spinky

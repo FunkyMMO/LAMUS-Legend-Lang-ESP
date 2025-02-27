@@ -1,4 +1,4 @@
-[MU2GFxKnightAgeCreate] Crear guild
+[MU2GFxKnightAgeCreate] Crear Guild
 
 [MU2GFxKnightAgeInfo] Guild Info
 

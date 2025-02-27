@@ -94,7 +94,7 @@ ItemDivision_75=Ticket de cambio de nombre
 ItemDivision_76=Ticket de cambio de nombre
 ItemDivision_77=Ticket de extensión
 ItemDivision_78=Ticket de ampliación
-ItemDivision_80=Artículo de chat
+ItemDivision_80=Item de chat
 ItemDivision_81=Ticket de salvaguardia
 ItemDivision_82=Ticket de encantamiento
 ItemDivision_83=Transferencia de impresión
@@ -527,7 +527,7 @@ Ability_monster_exp=Exp de monstruo +%s_1
 Ability_normal_monster_exp=Exp monstruo normal +%s_1
 Ability_elite_monster_exp=Exp monstruo élite +%s_1
 Ability_boss_monster_exp=Exp monstruo jefe +%s_1
-Ability_sell_itme_price=Precios de venta de artículos +%s_1
+Ability_sell_itme_price=Precios de venta de Items +%s_1
 Ability_item_protect=Pérdida de durabilidad -%s_1
 Ability_monster_kill_hp_rec=HP +%s_1 por cada monstruo matado
 Ability_monster_kill_mp_rec=MP +%s_1 por cada monstruo asesinado
@@ -679,7 +679,7 @@ AbilityRate_monster_exp=Exp de monstruo +%s_1%.
 AbilityRate_normal_monster_exp=Exp. normal de monstruo +%s_1%.
 AbilityRate_elite_monster_exp=Exp Monstruo de Élite +%s_1
 AbilityRate_boss_monster_exp=Exp del monstruo jefe +%s_1%.
-AbilityRate_sell_itme_price=Precios de venta de artículos +%s_1%
+AbilityRate_sell_itme_price=Precios de venta de Items +%s_1%
 AbilityRate_item_protect=Pérdida de durabilidad -%s_1%
 AbilityRate_monster_kill_hp_rec=HP +%s_1% por cada monstruo matado
 AbilityRate_monster_kill_mp_rec=MP +%s_1% por cada monstruo asesinado
@@ -1283,7 +1283,7 @@ PetAbility_monster_exp=Exp monstruo <font color='#11f210'>+%s_1</font>
 PetAbility_normal_monster_exp=Exp monstruo normal <font color='#11f210'>+%s_1</font>
 PetAbility_elite_monster_exp=Exp monstruo élite <font color='#11f210'>+%s_1</font>
 PetAbility_boss_monster_exp=Exp monstruo jefe <font color='#11f210'>+%s_1</font>
-PetAbility_sell_itme_price=Precios de venta de artículos <font color='#11f210'>+%s_1</font>
+PetAbility_sell_itme_price=Precios de venta de Items <font color='#11f210'>+%s_1</font>
 PetAbility_item_protect=Pérdida de durabilidad <font color='#11f210'>-%s_1</font>
 PetAbility_monster_kill_hp_rec=HP +<font color='#11f210'>%s_1</font> por Cada Monstruo Matado
 PetAbility_monster_kill_mp_rec=MP +<font color='#11f210'>%s_1</font> por Cada Monstruo Matado
@@ -1746,14 +1746,14 @@ Msg_Mailbox_Survey_ITEM_CONTENT=Recompensa Encuesta
 Msg_Mailbox_Gold_ITEM_SUBJECT=Zen Adjunto
 Msg_Mailbox_Gold_ITEM_SENDER=Desconocido
 Msg_Mailbox_Gold_ITEM_CONTENT=Sin contenido
-Msg_Mailbox_Item_ITEM_SUBJECT=Artículo Adjunto
+Msg_Mailbox_Item_ITEM_SUBJECT=Item Adjunto
 Msg_Mailbox_Item_ITEM_SENDER=Desconocido
 Msg_Mailbox_Item_ITEM_CONTENT=Sin contenido
 Msg_Mailbox_Empty_ITEM_SUBJECT=Sin título
 Msg_Mailbox_Empty_ITEM_SENDER=Desconocido
 Msg_Mailbox_Empty_ITEM_CONTENT=Sin contenido
-Msg_Mailbox_Knightage_ITEM_SUBJECT=Contribución al guild
-Msg_Mailbox_Knightage_ITEM_SENDER=Administrador del guild
+Msg_Mailbox_Knightage_ITEM_SUBJECT=Contribución al Guild
+Msg_Mailbox_Knightage_ITEM_SENDER=Administrador del Guild
 Msg_Mailbox_Knightage_ITEM_CONTENT=Hay %s_1 Puntos de Contribución que no has recibido. Te los daremos ahora.
 Msg_Mailbox_Ranking_ITEM_SENDER=Sistema
 Msg_Mailbox_Ranking_ITEM_SUBJECT=Elemento de Recompensa de Ranking
@@ -1762,17 +1762,17 @@ Msg_Mailbox_IncludeZen_ITEM_SUBJECT=[Correo del sistema] Correo con pago
 Msg_Mailbox_IncludeZen_ITEM_CONTENT=El pago se adjunta a este correo.
 Msg_Mailbox_ReturnLetter_ITEM_SUBJECT=[Correo Devuelto]
 Msg_Mailbox_ItemTypeChange_ITEM_SENDER=Sistema
-Msg_Mailbox_ItemTypeChange_ITEM_SUBJECT=[Correo del sistema] Cambio de artículo
+Msg_Mailbox_ItemTypeChange_ITEM_SUBJECT=[Correo del sistema] Cambio de Item
 Msg_Mailbox_ItemTypeChange_ITEM_CONTENT=Le reenviamos los elementos cuyo contenido ha cambiado.
 Msg_Mailbox_ItemEnchantFailReward_ITEM_SUBJECT=[Fallo Encantamiento] Acepta este Item
 Msg_Mailbox_ItemEnchantFailReward_ITEM_SENDER=Gestor de Mejoras
 Msg_Mailbox_ItemEnchantFailReward_ITEM_CONTENT=Este Item se envía como compensación por un fallo de mejora.
 Msg_Mailbox_Exchange_ITEM_SUBJECT=[Puesto Comercial] Acepta tus Items
 Msg_Mailbox_Exchange_ITEM_SENDER=Puesto de Comercio
-Msg_Mailbox_Exchange_ITEM_CONTENT=Has comprado estos artículos a través del Corredor de Comercio.
-Msg_Mailbox_Exchange_CANCEL_SUBJECT=[Puesto Comercial] Venta de artículo cancelada
+Msg_Mailbox_Exchange_ITEM_CONTENT=Has comprado estos Items a través del Corredor de Comercio.
+Msg_Mailbox_Exchange_CANCEL_SUBJECT=[Puesto Comercial] Venta de Item cancelada
 Msg_Mailbox_Exchange_CANCEL_SENDER=Puesto de Comercio
-Msg_Mailbox_Exchange_CANCEL_CONTENT=Has cancelado la venta de estos artículos a través del Corredor de Comercio.
+Msg_Mailbox_Exchange_CANCEL_CONTENT=Has cancelado la venta de estos Items a través del Corredor de Comercio.
 Msg_Mailbox_ACCOUNT_LEVEL_REWARD_SUBJECT_INDEX01=Recompensa por logro de nivel 65 emitida.
 Msg_Mailbox_ACCOUNT_LEVEL_REWARD_SUBJECT_INDEX02=Recompensa por logro de cuenta nivel 130 emitida.
 Msg_Mailbox_ACCOUNT_LEVEL_REWARD_SUBJECT_INDEX03=Recompensa por logro emitida por cuenta de nivel 195.
@@ -1790,7 +1790,7 @@ Msg_Mailbox_Field_Item_COLOSSEUM_SUBJECT=Aquí tienes tu Item de recompensa del 
 Msg_Mailbox_Field_Item_COLOSSEUM_CONTENT=Estas son las Fichas de Luchador que no has podido recibir en tu inventario porque estaba lleno.
 Mag_Mailbox_ItemTypeChnage_ITEM_SENDER=LAMUS
 Mag_Mailbox_ItemTypeChnage_ITEM_SUBJECT=Te enviamos los Items cuya información ha cambiado.
-Mag_Mailbox_ItemTypeChnage_ITEM_CONTENT=Te estamos reenviando los artículos cuya información ha cambiado.
+Mag_Mailbox_ItemTypeChnage_ITEM_CONTENT=Te estamos reenviando los Items cuya información ha cambiado.
 Msg_Mailbox_Mopup_SENDER=LAMUS
 Msg_Mailbox_Mopup_SUBJECT=Te estamos enviando tu recompensa de Solicitud de Subyugación.
 Msg_Mailbox_Mopup_CONTENT=Te enviamos la recompensa de Solicitud de Subyugación que ganaste a través de LAMUS: Plus.
@@ -2128,13 +2128,13 @@ Event_Login_Title=<font size='15' color='#FDC243'>Evento de Comprobación de Ini
 Event_Login_Desc=: Abrir ventana de comprobación de inicio de sesión
 Event_LoginClass_Title=<font size='15' color='#FDC243'>Evento Black Phantom</font>
 Event_LoginClass_Desc=: Abrir la ventana de comprobación de asistencia a clase
-Event_LImitBanner_Title=<font size='15' color='#FDC243'>Artículos de edición limitada a la venta</font>
-Event_LImitBanner_Desc=: Abrir el banner de artículos de edición limitada
+Event_LImitBanner_Title=<font size='15' color='#FDC243'>Items de edición limitada a la venta</font>
+Event_LImitBanner_Desc=: Abrir el banner de Items de edición limitada
 Event_ConnectTimeEvent_Title=<font size='15' color='#FDC243'>Evento de recompensa por inicio de sesión</font>
 Event_ConnectTimeEvent_Desc=: Evento de recompensa por inicio de sesión
 Event_LindaShop_Title=<font size='15' color='#FDC243'>Tienda Linda</font>
 Event_LindaShop_Desc=: Linda Shop
-TournamentTooltip_1=<font size='17' color='#FDC243'>1ª Ronda de Solicitudes</font><br><font size='14'>Los líderes de guild ya pueden solicitar competir por los territorios en el mapa de Guerra de Facciones.</font>
+TournamentTooltip_1=<font size='17' color='#FDC243'>1ª Ronda de Solicitudes</font><br><font size='14'>Los líderes de Guild ya pueden solicitar competir por los territorios en el mapa de Guerra de Facciones.</font>
 TournamentTooltip_2=<font size='17' color='#FDC243'>Segunda Ronda de Solicitudes</font><br><font size='14'>Sólo aquellos cuya solicitud no fue seleccionada en la primera ronda tienen 30 minutos para volver a solicitarlo.</font>
 TournamentTooltip_3=<font size='17' color='#FDC243'>Segunda ronda de solicitudes</font><br><font size='14'>Sólo aquellos cuya solicitud no haya sido seleccionada en la primera ronda tienen 30 minutos para volver a presentarse.</font>
 TournamentTooltip_4=<font size='17' color='#FDC243'>Segunda ronda de solicitudes finalizada</font><br><font size='14'>El periodo de solicitudes del Torneo ha finalizado. Los solicitantes ya pueden comprobar los resultados de su solicitud.</font>
@@ -3517,97 +3517,97 @@ AltarSkill_6201=Ganancia EXP artefacto normal <Font color = '#00FF06'>+10%< / Fo
 AltarSkill_6301=Ganancia EXP Artefacto Despertado <Font color = '#00FF06'>+5%< / Font>
 AltarSkill_6401=Mascota EXP ganancia <Font color = '#00FF06'>+5%< / Font>
 AltarSkill_6002=Ganancia EXP alma <Font color = '#00FF06'>+10%< / Font>
-AltarSkill_6102=Ganancia de EXP/Puntos de contribución de guild <Font color = '#00FF06'>+10%< / Font>
+AltarSkill_6102=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+10%< / Font>
 AltarSkill_6202=Ganancia EXP artefacto normal <Font color = '#00FF06'>+20%< / Font>
 AltarSkill_6302=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+10%< / Font>
 AltarSkill_6402=Mascota EXP ganancia <Font color = '#00FF06'>+10%< / Font>
 AltarSkill_6003=Ganancia EXP alma <Font color = '#00FF06'>+15%< / Font>
-AltarSkill_6103=Ganancia de EXP/Puntos de contribución de guild <Font color = '#00FF06'>+15%< / Font>
+AltarSkill_6103=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+15%< / Font>
 AltarSkill_6203=Ganancia EXP artefacto normal <Font color = '#00FF06'>+30%< / Font>
 AltarSkill_6303=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+15%< / Font>
 AltarSkill_6403=Ganancia EXP Mascota <Font color = '#00FF06'>+15%< / Font>
 AltarSkill_6004=Ganancia EXP alma <Font color = '#00FF06'>+20%< / Font>
-AltarSkill_6104=Ganancia de EXP/Puntos de contribución de guild <Font color = '#00FF06'>+20%< / Font>
+AltarSkill_6104=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+20%< / Font>
 AltarSkill_6204=Ganancia EXP artefacto normal <Font color = '#00FF06'>+40%< / Font>
 AltarSkill_6304=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+20%< / Font>
 AltarSkill_6404=Ganancia EXP Mascota <Font color = '#00FF06'>+20%< / Font>
 AltarSkill_6005=Ganancia EXP alma <Font color = '#00FF06'>+22%< / Font>
-AltarSkill_6105=Ganancia de EXP/Puntos de contribución de guild <Font color = '#00FF06'>+25%< / Font>
+AltarSkill_6105=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+25%< / Font>
 AltarSkill_6205=Ganancia EXP artefacto normal <Font color = '#00FF06'>+50%< / Font>
 AltarSkill_6305=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+25%< / Font>
 AltarSkill_6405=Ganancia EXP Mascota <Font color = '#00FF06'>+22%< / Font>
 AltarSkill_6006=Ganancia EXP alma <Font color = '#00FF06'>+24%< / Font>
-AltarSkill_6106=Ganancia de EXP/Puntos de contribución de guild <Font color = '#00FF06'>+30%< / Font>
+AltarSkill_6106=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+30%< / Font>
 AltarSkill_6206=Ganancia EXP artefacto normal <Font color = '#00FF06'>+60%< / Font>
 AltarSkill_6306=Ganancia EXP Artefacto Despertado <Font color = '#00FF06'>+30%< / Font>
 AltarSkill_6406=Mascota EXP ganancia <Font color = '#00FF06'>+24%< / Font>
 AltarSkill_6007=Aumento EXP alma <Font color = '#00FF06'>+26%< / Font>
-AltarSkill_6107=Ganancia de EXP/Puntos de contribución de guild <Font color = '#00FF06'>+35%< / Font>
+AltarSkill_6107=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+35%< / Font>
 AltarSkill_6207=Ganancia EXP artefacto normal <Font color = '#00FF06'>+70%< / Font>
 AltarSkill_6307=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+35%< / Font>
 AltarSkill_6407=Mascota EXP ganancia <Font color = '#00FF06'>+26%< / Font>
 AltarSkill_6008=Aumento EXP alma <Font color = '#00FF06'>+28%< / Font>
-AltarSkill_6108=Ganancia EXP de guild/Puntos de contribución <Font color = '#00FF06'>+40%< / Font>
+AltarSkill_6108=Ganancia EXP de Guild/Puntos de contribución <Font color = '#00FF06'>+40%< / Font>
 AltarSkill_6208=Ganancia EXP artefacto normal <Font color = '#00FF06'>+80%< / Font>
 AltarSkill_6308=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+40%< / Font>
 AltarSkill_6408=Ganancia EXP Mascota <Font color = '#00FF06'>+28%< / Font>
 AltarSkill_6009=Ganancia EXP alma <Font color = '#00FF06'>+30%< / Font>
-AltarSkill_6109=Ganancia de EXP/Puntos de contribución de guild <Font color = '#00FF06'>+45%< / Font>
+AltarSkill_6109=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+45%< / Font>
 AltarSkill_6209=Ganancia EXP artefacto normal <Font color = '#00FF06'>+90%< / Font>
 AltarSkill_6309=Ganancia EXP Artefacto Despertado <Font color = '#00FF06'>+45%< / Font>
 AltarSkill_6409=Mascota EXP ganancia <Font color = '#00FF06'>+30%< / Font>
 AltarSkill_6010=Alma EXP ganancia <Font color = '#00FF06'>+32%< / Font>
-AltarSkill_6110=Ganancia de EXP/Puntos de contribución de guild <Font color = '#00FF06'>+50%< / Font>
+AltarSkill_6110=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+50%< / Font>
 AltarSkill_6210=Ganancia EXP artefacto normal <Font color = '#00FF06'>+100%< / Font>
 AltarSkill_6310=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+50%< / Font>
 AltarSkill_6410=Ganancia EXP Mascota <Font color = '#00FF06'>+32%< / Font>
 AltarSkill_6011=Ganancia EXP alma <Font color = '#00FF06'>+34%< / Font>
-AltarSkill_6111=Ganancia de EXP/Puntos de contribución de guild <Font color = '#00FF06'>+55%< / Font>
+AltarSkill_6111=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+55%< / Font>
 AltarSkill_6211=Ganancia EXP artefacto normal <Font color = '#00FF06'>+110%< / Font>
 AltarSkill_6311=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+55%< / Font>
 AltarSkill_6411=Ganancia EXP Mascota <Font color = '#00FF06'>+34%< / Font>
 AltarSkill_6012=Alma EXP ganancia <Font color = '#00FF06'>+36%< / Font>
-AltarSkill_6112=Ganancia de EXP/Puntos de contribución de guild <Font color = '#00FF06'>+60%< / Font>
+AltarSkill_6112=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+60%< / Font>
 AltarSkill_6212=Ganancia EXP artefacto normal <Font color = '#00FF06'>+120%< / Font>
 AltarSkill_6312=Ganancia EXP Artefacto Despertado <Font color = '#00FF06'>+60%< / Font>
 AltarSkill_6412=Ganancia EXP Mascota <Font color = '#00FF06'>+36%< / Font>
 AltarSkill_6013=Alma EXP ganancia <Font color = '#00FF06'>+38%< / Font>
-AltarSkill_6113=Ganancia de EXP/Puntos de contribución de guild <Font color = '#00FF06'>+65%< / Font>
+AltarSkill_6113=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+65%< / Font>
 AltarSkill_6213=Ganancia EXP artefacto normal <Font color = '#00FF06'>+130%< / Font>
 AltarSkill_6313=Ganancia EXP Artefacto Despertado <Font color = '#00FF06'>+65%< / Font>
 AltarSkill_6413=Ganancia EXP Mascota <Font color = '#00FF06'>+38%< / Font>
 AltarSkill_6014=Alma EXP ganancia <Font color = '#00FF06'>+40%< / Font>
-AltarSkill_6114=Ganancia de EXP/Puntos de contribución de guild <Font color = '#00FF06'>+70%< / Font>
+AltarSkill_6114=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+70%< / Font>
 AltarSkill_6214=Ganancia EXP artefacto normal <Font color = '#00FF06'>+140%< / Font>
 AltarSkill_6314=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+70%< / Font>
 AltarSkill_6414=Ganancia EXP Mascota <Font color = '#00FF06'>+40%< / Font>
 AltarSkill_6015=Aumento de EXP de alma <Font color = '#00FF06'>+42%< / Font>
-AltarSkill_6115=Ganancia de EXP/Puntos de contribución de guild <Font color = '#00FF06'>+75%< / Font>
+AltarSkill_6115=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+75%< / Font>
 AltarSkill_6215=Ganancia EXP artefacto normal <Font color = '#00FF06'>+150%< / Font>
 AltarSkill_6315=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+75%< / Font>
 AltarSkill_6415=Ganancia EXP Mascota <Font color = '#00FF06'>+42%< / Font>
 AltarSkill_6016=Alma EXP ganancia <Font color = '#00FF06'>+44%< / Font>
-AltarSkill_6116=Ganancia de EXP/Puntos de contribución de guild <Font color = '#00FF06'>+80%< / Font>
+AltarSkill_6116=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+80%< / Font>
 AltarSkill_6216=Ganancia EXP artefacto normal <Font color = '#00FF06'>+160%< / Font>
 AltarSkill_6316=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+80%< / Font>
 AltarSkill_6416=Ganancia EXP Mascota <Font color = '#00FF06'>+44%< / Font>
 AltarSkill_6017=Alma EXP ganancia <Font color = '#00FF06'>+46%< / Font>
-AltarSkill_6117=Ganancia de EXP/Puntos de contribución de guild <Font color = '#00FF06'>+85%< / Font>
+AltarSkill_6117=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+85%< / Font>
 AltarSkill_6217=Ganancia EXP artefacto normal <Font color = '#00FF06'>+170%< / Font>
 AltarSkill_6317=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+85%< / Font>
 AltarSkill_6417=Ganancia EXP Mascota <Font color = '#00FF06'>+46%< / Font>
 AltarSkill_6018=Alma EXP ganancia <Font color = '#00FF06'>+48%< / Font>
-AltarSkill_6118=Ganancia de EXP/Puntos de contribución de guild <Font color = '#00FF06'>+90%< / Font>
+AltarSkill_6118=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+90%< / Font>
 AltarSkill_6218=Ganancia EXP artefacto normal <Font color = '#00FF06'>+180%< / Font>
 AltarSkill_6318=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+90%< / Font>
 AltarSkill_6418=Mascota EXP ganancia <Font color = '#00FF06'>+48%< / Font>
 AltarSkill_6019=Alma EXP ganancia <Font color = '#00FF06'>+50%< / Font>
-AltarSkill_6119=Ganancia de EXP/Puntos de contribución de guild <Font color = '#00FF06'>+95%< / Font>
+AltarSkill_6119=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+95%< / Font>
 AltarSkill_6219=Ganancia EXP artefacto normal <Font color = '#00FF06'>+190%< / Font>
 AltarSkill_6319=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+95%< / Font>
 AltarSkill_6419=Ganancia EXP Mascota <Font color = '#00FF06'>+50%< / Font>
 AltarSkill_6020=Alma EXP ganancia <Font color = '#00FF06'>+60%< / Font>
-AltarSkill_6120=Ganancia de EXP/Puntos de contribución de guild <Font color = '#00FF06'>+100%< / Font>
+AltarSkill_6120=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+100%< / Font>
 AltarSkill_6220=Ganancia EXP artefacto normal <Font color = '#00FF06'>+200%< / Font>
 AltarSkill_6320=Ganancia EXP Artefacto Despertado <Font color = '#00FF06'>+100%< / Font>
 AltarSkill_6420=Mascota EXP ganancia <Font color = '#00FF06'>+60%< / Font>
@@ -4233,7 +4233,7 @@ limit_49_ItemDesc2=No se pueden comprar productos de tiempo limitado después de
 limit_50_Title=Viernes negro
 limit_50_ItemTitle=Viernes negro
 limit_50_ItemDesc=Regalos para el Black Friday
-limit_50_ItemDesc2=No se pueden comprar artículos por tiempo limitado después del periodo indicado.<br>Este producto se puede comprar por personaje.
+limit_50_ItemDesc2=No se pueden comprar Items por tiempo limitado después del periodo indicado.<br>Este producto se puede comprar por personaje.
 
 [CostType]
 CostType_1=Zen
