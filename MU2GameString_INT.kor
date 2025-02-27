@@ -16,7 +16,7 @@ Puzzle_1_Stamp_DoneText=Puzzle completado
 Puzzle_1_CloseBtnLabel=Cerrar (Esc)
 Puzzle_1_PuzzleSetupBtnLable=Configurar el puzzle
 Puzzle_1_PuzzleNextBtnLable=Próximo puzzle
-Puzzle_1_StampRewardMessage=Has recibido un objeto de recompensa.
+Puzzle_1_StampRewardMessage=Has recibido un item de recompensa.
 PSR_1_DurationTitle=Duración del evento: 29 de mayo de 2018 ~ 12 de junio de 2018 después del mantenimiento.
 
 [EventPopup]

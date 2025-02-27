@@ -45,7 +45,7 @@ RequestLeaveInDungeon=Abandonar partida
 RequestBreakeup=Desbandar partida
 RequestChangeLeader=Designar líder del grupo
 DungeonAdmission=Entrar en la Dungeon
-NewAdvDungeonAdmission=Entrar en la Grieta
+NewAdvDungeonAdmission=Entrar en la Rift
 BossDungeonAdmission=Entrar en la sala del jefe
 ExitDungeon=Salir de la Dungeon
 Enchant_Transfer=Mensaje de transferencia de encantamiento
@@ -60,7 +60,7 @@ DeadMsg_Party_Member_Revive_Redzen=Resucitar ahora
 ItemDisassemble=Desmontar Item
 ExitAltarOfElements=Salir del Altar de los Espíritus
 ExitAltarOfElements_End=Salir del Altar de los Espíritus
-ExitEndlessTower_Die=Salir de Torre sin fin
+ExitEndlessTower_Die=Salir de Endless Tower
 ExitEndlessTower_Complete=Salir de la Torre Inacabable
 ExitEndlessTower=Salir de Endless Tower
 ExitBloodCastle=Salir del Castillo de Sangre
@@ -193,7 +193,7 @@ UnEquipCustomSkillNeedItem=Para quitar una cresta,¶necesitas un Martillo de Art
 PurchaseExpandSlot=¿Añadir una ranura?
 DeleteInventoryItem=¿Eliminar este Item?
 DeleteInventoryItemHighGrade=Es un Item de grado %s_1.¶¿Eliminar el Item?
-TearDownInventoryItem=%s_1 Item¶¿Desmantelar este Item?
+TearDownInventoryItem=%s_1 Item¶¿Reciclar este Item?
 Enchant_Begin=<font size='18'>¿Encantar?</font>
 Enchant_High=<font size='18'>¿Encantar?</font><br><br><font color='#FF0000'>Atención: Su Item será destruido si su encantamiento falla.</font><br><br><font color='#8a8a8a'>* Puede usar Encantamiento Protegido para proteger su Item.</font>
 AutoEnchant=<font size='18'>¿Encantar automáticamente?</font><br><br><font color='#8a8a8a'>Tu Item será encantado al nivel máximo en el rango de Encantamiento Seguro.</font>
@@ -248,9 +248,9 @@ DeadMsg_Party_Member_Revive_Redzen=¿Usas Redzen y resucitas %s_1 ahora?
 ItemDisassemble=¿Desmontar Item(s)?
 ExitAltarOfElements=<font color='#FDC243'>¿Salir?</font><br><br>El Altar de los Espíritus no ha terminado.<br>Si sales ahora, no podrás entrar en el Altar de los Espíritus durante algún tiempo.
 ExitAltarOfElements_End=<font color='#FDC243'>¿Salir?</font>
-ExitEndlessTower_Die=<font color='#FDC243'>¿Salir?</font><br><br>Otros jugadores siguen subiendo a la Torre Sin Fin.<br>Si sales de la Torre Sin Fin ahora, no obtendrás recompensas.<br>Si otros jugadores han completado la conquista o si han muerto, podrás obtener recompensas.
+ExitEndlessTower_Die=<font color='#FDC243'>¿Salir?</font><br><br>Otros jugadores siguen subiendo a la Endless Tower.<br>Si sales de la Endless Tower ahora, no obtendrás recompensas.<br>Si otros jugadores han completado la conquista o si han muerto, podrás obtener recompensas.
 ExitEndlessTower_Complete=<font color='#FDC243'>¿Salir?</font>
-ExitEndlessTower=<font color='#FDC243'>¿Salir?</font><br><br>Aún estás escalando la Torre Sin Fin.<br>Si sales de la Torre Sin Fin ahora, no obtendrás recompensas.
+ExitEndlessTower=<font color='#FDC243'>¿Salir?</font><br><br>Aún estás escalando la Endless Tower.<br>Si sales de la Endless Tower ahora, no obtendrás recompensas.
 ExitBloodCastle=¿Salir del Castillo de Sangre?
 MSS_RegisterRuneSkill=¿Registrar esta cresta? Una vez registrada una cresta, no se puede recuperar.
 EnterCountQuest=No hay suficiente número de entradas. ¿Mover, de todos modos?
@@ -316,7 +316,7 @@ ItemRefine_ReqRefine=¿Desea refinar este Item?
 UnlockCharacterCreationSlot=Este ítem se usa automáticamente cuando desbloqueas ranuras de Personaje.<br>¿Realmente quieres usar este ítem?<br><font color='#FF0000'>(Max Opening Slots: %s_1)</font>
 MoveCharacterCreation=Ranuras de Personaje desbloqueadas.<br>¿Quieres moverte a la pantalla de Selección de Personaje?
 ResetGetEmotionBox=¿Quieres reorganizar las piedras del alma?
-ExtractEmotion=¿Desmantelar este Item y <font color='#ff0000'>obtener</font> Energía de Éter?
+ExtractEmotion=¿Reciclar este Item y <font color='#ff0000'>obtener</font> Energía de Éter?
 BuffEvent=¿Utilizas este buff?<br><br><font color='#999999'>Precaución: Tu actual efecto de buff será cancelado.</font>
 ArtifactItem=No puedes usarlo si no hay reliquia de crecimiento equipada, la reliquia de crecimiento está al máximo nivel,<br>o si la clase del Item y la reliquia son diferentes.<br><br><font color='#999999'>Precaución: Por favor, comprueba la reliquia de crecimiento.</font>
 ExitMazeInDarkness=¿Quieres salir del Laberinto?

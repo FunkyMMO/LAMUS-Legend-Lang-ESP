@@ -450,7 +450,7 @@ Greeting1=Afortunadamente, toda mi familia ha sobrevivido.
 
 [Npc_8372]
 Name=Female Civilian
-Greeting1=No pude traer objetos valiosos conmigo, pero al menos tengo mi tetera.
+Greeting1=No pude traer items valiosos conmigo, pero al menos tengo mi tetera.
 
 [Npc_8376]
 Name=Wise
@@ -1989,20 +1989,20 @@ Sayhello1=Tengo pociones para curar tus heridas.
 
 [Npc_9409]
 Name=Enchantment Merchant
-Sayhello1=Ven a mí siempre que quieras encantar objetos o alas.
+Sayhello1=Ven a mí siempre que quieras encantar items o alas.
 Sayhello2=
 
 [Npc_9424]
 Name=Enchantment Merchant
-Sayhello1=Ven a mí siempre que quieras encantar objetos o alas.
+Sayhello1=Ven a mí siempre que quieras encantar items o alas.
 
 [Npc_9431]
 Name=Enchantment Merchant
-Sayhello1=Ven a mí siempre que quieras encantar objetos o alas.
+Sayhello1=Ven a mí siempre que quieras encantar items o alas.
 
 [Npc_20910]
 Name=Enchantment Merchant
-Sayhello1=Ven a mí siempre que quieras encantar objetos o alas.
+Sayhello1=Ven a mí siempre que quieras encantar items o alas.
 
 [Npc_9212]
 Name=Armor Merchant
@@ -7547,7 +7547,7 @@ Mission1_1=¿Qué demonios hace realmente el Ejército del Reino Lorencia?
 
 [Quest_9599]
 StartQuest1=Espera, ¿es eso... una Rift? ¿Quién diablos la creó?
-StartQuest2=¡Ah! Estoy seguro de que la Sociedad de Investigación de Grietas sabrá algo sobre esto.
+StartQuest2=¡Ah! Estoy seguro de que la Sociedad de Investigación de Rifts sabrá algo sobre esto.
 
 [Quest_127]
 MissionDeco1_1_1=Aquí solo hay hierro impuro. Quiero algo nuevo.
@@ -7934,7 +7934,7 @@ Mission1_1=He conseguido las órdenes de su comandante.
 Mission1_2=Espero que contengan información útil.
 
 [Quest_1704]
-Mission1_1=He recuperado los objetos de los saqueadores de tumbas.
+Mission1_1=He recuperado los items de los saqueadores de tumbas.
 Mission1_2=Judging por la extraña energía que emite, esto debe ser el generador de pentáculo.
 
 [Quest_1706]
@@ -8895,11 +8895,11 @@ Sayhello1=¡Ven a echar un vistazo! ¡Tengo pociones de EXP de artefacto y perga
 
 [Npc_19597]
 Name=Carrollton
-Sayhello1=Tengo todo tipo de objetos talismán.
+Sayhello1=Tengo todo tipo de items talismán.
 
 [Npc_19598]
 Name=Tail
-Sayhello1=¡Tráeme Monedas de Plata del Festival y las cambiaré por una variedad de objetos!
+Sayhello1=¡Tráeme Monedas de Plata del Festival y las cambiaré por una variedad de items!
 
 [Npc_196081005]
 Name=Venti
