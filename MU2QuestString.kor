@@ -32505,16 +32505,16 @@ Name=Actividad Secreta de los Ashas 1
 Occur_String1=Destruí el Campamento Broll. Y también me ocupé de los Brolls restantes.<br>La fortaleza está segura, por ahora.
 Occur_String2=Te lo agradezco. También pudimos ahuyentar a las fuerzas Ashas.
 Occur_String3=¡Sí! Eres la Comandante de los Fantasmas Sombras Iris que conozco.
-Occur_String4=No. Las fuerzas que sitian la fortaleza eran bastante pequeñas. <br>Interrogé a un prisionero y me dijo que la fuerza principal del ejército había partido hacia las Sombras Verdes Oscuras.
+Occur_String4=No. Las fuerzas que sitian la fortaleza eran bastante pequeñas. <br>Interrogé a un prisionero y me dijo que la fuerza principal del ejército había partido hacia las Dark Green Shadows.
 Occur_String5=Aunque está cerca de la región norte, no tiene importancia militar.<br>Es solo un pequeño bosque frondoso que creció gracias al Árbol del Mundo.<br>No entiendo qué podrían querer los Ashas de un lugar así. Debemos reunir nuestras fuerzas y rastrearlos...
 Occur_String6=Estoy seguro de que están tramando algo. Iré tras ellos primero. <br>Ven a ayudar tan pronto como estés listo. Como en la Heath Mine.
 Doing_String=El Reino de Noria y los Ashas han tenido una relación tensa, pero nunca hemos tenido una guerra real. ¿Por qué nos atacaron los Ashas?
 Completable_String1=
 Completable_String2=
-Complete_String=Iris, la Comandante de los Fantasmas Sombras en la Fortaleza Chaber, me dijo hacia dónde marcharon las fuerzas Ashas.<br>Se dirigieron hacia las Sombras Verdes Oscuras que se encuentran al oeste de la fortaleza.<br>Fui al lugar e investigué las fuerzas Ashas estacionadas en el bosque. Y descubrí que estaban transmitiendo energía a algún lugar más profundo en las sombras desde una gran unidad de suministro de energía.
-List_String=(Misión Principal de Noria) (10/48)<br>Debo averiguar qué están haciendo las fuerzas Ashas en las Sombras Verdes Oscuras.
-Mission_String=Investigar las Sombras Verdes Oscuras donde han invadido los Ashas
-Mission_Target1=Llegar a la entrada de las Sombras Verdes Oscuras
+Complete_String=Iris, la Comandante de los Fantasmas Sombras en la Fortaleza Chaber, me dijo hacia dónde marcharon las fuerzas Ashas.<br>Se dirigieron hacia las Dark Green Shadows que se encuentran al oeste de la fortaleza.<br>Fui al lugar e investigué las fuerzas Ashas estacionadas en el bosque. Y descubrí que estaban transmitiendo energía a algún lugar más profundo en las sombras desde una gran unidad de suministro de energía.
+List_String=(Misión Principal de Noria) (10/48)<br>Debo averiguar qué están haciendo las fuerzas Ashas en las Dark Green Shadows.
+Mission_String=Investigar las Dark Green Shadows donde han invadido los Ashas
+Mission_Target1=Llegar a la entrada de las Dark Green Shadows
 Mission_Target2=Investigar la Unidad de Suministro de Energía
 Mission_Target3=Destruir la Unidad de Suministro de Energía
 Mission_Target4=
@@ -32563,7 +32563,7 @@ Occur_String9=....<br>Si estás mintiendo, será el mayor error de tu vida. Me a
 Doing_String=¿Has cambiado de opinión? Solo mátame ahora.
 Completable_String1=
 Completable_String2=
-Complete_String=La gigantesca máquina perforadora instalada por los Ashas en el centro de las Sombras Verdes Oscuras no era un arma.<br>Los Ashas solo estaban excavando en el suelo para llegar a la raíz del Árbol del Mundo, diezmando sus fuerzas.<br><br>El Árbol del Mundo resultó ser un arma mortal que destruye a cualquier soldado Ashas que se acerque al árbol.
+Complete_String=La gigantesca máquina perforadora instalada por los Ashas en el centro de las Dark Green Shadows no era un arma.<br>Los Ashas solo estaban excavando en el suelo para llegar a la raíz del Árbol del Mundo, diezmando sus fuerzas.<br><br>El Árbol del Mundo resultó ser un arma mortal que destruye a cualquier soldado Ashas que se acerque al árbol.
 List_String=(Misión Principal de Noria) (13/48)<br>Debo ir al Árbol del Mundo y ver si las fuerzas Ashas están siendo masacradas allí.
 Mission_String=Investigar el Árbol del Mundo
 Mission_Target1=Llegar cerca del Árbol del Mundo
@@ -32600,7 +32600,7 @@ Occur_String7=No te diré nada. No soy un traidor. ¡Prefiero morir!
 Occur_String8=Soy %s_9_1... luché junto a Lunedill en Enova y Duelden.<br>Esta guerra no es justa. Si no identifico qué está sucediendo realmente ahora, ocurrirá algo mucho peor.
 Occur_String9=%s_9_1...? Tú eres de quien habló la princesa.<br>Ve a la Guarida de la Reina. Solía ser la casa de vacaciones de la Reina, pero ahora es una base militar.
 Doing_String=No confío en ti. Pero creo en lo que la Princesa Lunedill vio en ti.
-Completable_String1=Soy un extraño que luchó junto a Iris en Heath Mine.<br>¿Sabes dónde está Iris? Se suponía que debíamos encontrarnos en las Sombras Verdes Oscuras, pero ella nunca vino.
+Completable_String1=Soy un extraño que luchó junto a Iris en Heath Mine.<br>¿Sabes dónde está Iris? Se suponía que debíamos encontrarnos en las Dark Green Shadows, pero ella nunca vino.
 Completable_String2=
 Complete_String=Destruí la raíz del Árbol del Mundo que los Elfos usaban para destruir a las fuerzas Ashas. Sin embargo, el Elfo que custodiaba la raíz me dijo que su único propósito era defender el árbol de los invasores Ashas.<br>Tratando desesperadamente de entender qué está sucediendo realmente, me dirigí a una instalación militar cercana para buscar a Iris.
 List_String=(Misión Principal de Noria) (15/48)<br>Debo ir a la Guarida de la Reina, una base militar elfa, para averiguar qué fue lo que realmente desencadenó la guerra entre los elfos y los Ashas.
@@ -32613,7 +32613,7 @@ Occur_String1=Finalmente puedo verte en persona. ¡El Extraño Asesino!<br>Tengo
 Occur_String2=Soy Miren, la asistente de la Reina Cara.<br>¿Me permitirás extenderte una adecuada bienvenida élfica? Tus hazañas son bastante conocidas en Noria.
 Occur_String3=Aún cuando soy yo quien destruyó el Árbol del Mundo?
 Occur_String4=Hm... Entonces, retiro mi oferta. ¿Te dijeron los Ashas que hicieras eso?
-Occur_String5=Escuché que los Ashas invadieron este lugar, así que exterminé su unidad principal en las Sombras Verdes Oscuras.<br>Pero dijeron que ustedes comenzaron a cargar el Árbol del Mundo y solo querían detenerlos de hacerlo.
+Occur_String5=Escuché que los Ashas invadieron este lugar, así que exterminé su unidad principal en las Dark Green Shadows.<br>Pero dijeron que ustedes comenzaron a cargar el Árbol del Mundo y solo querían detenerlos de hacerlo.
 Occur_String6=¿Y destruiste el Árbol del Mundo?
 Occur_String7=Sí, porque su ataque de ola estaba matando al ejército Ashas.<br>Pero ahora, me estás diciendo que obtuviste la información sobre la invasión de los Ashas y cargaste el Árbol del Mundo. ¿Quién te dio esa información?
 Occur_String8=Solo la reina lo sabe.<br>Una cosa es segura. Fuiste engañado por la escoria Ashas.<br>¿Dijiste que vinieron a detener el Árbol del Mundo? No me hagas reír.
@@ -32756,7 +32756,7 @@ Mission_Target3=Matar al Líder de los Soldados Ashas
 
 [Quest_5422]
 Name=Rastrear a la Chica de Piel Azul
-Occur_String1=Lo siento. Estaba a punto de irme a las Sombras Verdes Oscuras, pero recibí un mensaje que decía que Lunedill estaba en peligro. Así que regresé a Ethedrean apresuradamente, pero ella estaba bien.
+Occur_String1=Lo siento. Estaba a punto de irme a las Dark Green Shadows, pero recibí un mensaje que decía que Lunedill estaba en peligro. Así que regresé a Ethedrean apresuradamente, pero ella estaba bien.
 Occur_String2=Alguien debió haber enviado un mensaje falso. Pero, ¿quién? (Suspira profundamente)... Los soldados Ashas destruyeron completamente la estatua de Sapientia.
 Occur_String3=Si esto se conoce en Ethedrean, todos estarán furiosos.<br>No hay forma de detener la guerra ahora.
 Occur_String4=La chica de piel azul robó la piedra azul de la estatua. ¿Qué es esa piedra?
@@ -37952,7 +37952,7 @@ Mission_Target1=Completa las misiones del área de la Oficina de Gestión de Rui
 
 [Quest_1001901]
 Name=Cuaderno de Expedición del Nuevo Continente
-Mission_Target1=Explora las Sombras Verdes Oscuras
+Mission_Target1=Explora las Dark Green Shadows
 
 [Quest_1001902]
 Name=Cuaderno de Expedición del Nuevo Continente
@@ -39058,40 +39058,40 @@ Occur_String2=Estoy ocupado... ¿de qué se trata?
 Occur_String3=Recientemente, el flujo del tiempo-espacio es muy inestable. Estoy seguro de que eres consciente de ello, siendo un viajero del tiempo-espacio como tú mismo, ¿no?
 Occur_String4=..
 Occur_String5=¡Ja, ja! Tal vez no me molesta porque estoy libre de la distorsión del tiempo-espacio. Pero Arche, que no se ve afectado por la distorsión del tiempo-espacio como yo, debería saber que el flujo del tiempo-espacio es muy inestable.
-Occur_String6=Entonces investigué de dónde comenzó, y resulta ser la Rift del tiempo-espacio en el Fabris Garden.
-Occur_String7=Pero, ¿no es extraño? El Fabris Garden, donde el poder de los dioses permanece, debería ser mucho más estable que cualquier otro lugar.
-Occur_String8=Por favor, averigua si hay algún problema en el Fabris Garden. Es un asunto importante; espero que te ocupes de ello.
+Occur_String6=Entonces investigué de dónde comenzó, y resulta ser la Rift del tiempo-espacio en el garden of Fabris.
+Occur_String7=Pero, ¿no es extraño? El garden of Fabris, donde el poder de los dioses permanece, debería ser mucho más estable que cualquier otro lugar.
+Occur_String8=Por favor, averigua si hay algún problema en el garden of Fabris. Es un asunto importante; espero que te ocupes de ello.
 Doing_String=No hay muchas personas en las que confíe para tal tarea. Así que, por favor, llega al fondo del asunto.
-Completable_String1=¿Has investigado el Fabris Garden? ¿Hubo algún cambio en el jardín? No me hagas esperar, cuéntamelo.
-Complete_String=(Misión de grupo de Croaker) (1/5)<br>A pedido de Arche, investigué el Fabris Garden por el reciente flujo inestable sospechoso del tiempo-espacio. El Fabris Garden estaba en un estado caótico debido a la invasión de Gnolls.
-List_String=(Misión de grupo de Croaker) (1/5)<br=A pedido sospechoso de Arche, debo investigar el Fabris Garden, la Rift del tiempo-espacio en la sala de tareas de Oldor y entregar los resultados.
-Mission_String=Investiga el Fabris Garden en la sala de tareas de Oldor
-Mission_Target1=Investiga el Fabris Garden
+Completable_String1=¿Has investigado el garden of Fabris? ¿Hubo algún cambio en el jardín? No me hagas esperar, cuéntamelo.
+Complete_String=(Misión de grupo de Croaker) (1/5)<br>A pedido de Arche, investigué el garden of Fabris por el reciente flujo inestable sospechoso del tiempo-espacio. El garden of Fabris estaba en un estado caótico debido a la invasión de Gnolls.
+List_String=(Misión de grupo de Croaker) (1/5)<br=A pedido sospechoso de Arche, debo investigar el garden of Fabris, la Rift del tiempo-espacio en la sala de tareas de Oldor y entregar los resultados.
+Mission_String=Investiga el garden of Fabris en la sala de tareas de Oldor
+Mission_Target1=Investiga el garden of Fabris
 
 
 [Quest_202512]
 Name=(T) El invasor inesperado
-Occur_String1=El Fabris Garden ha sido invadido por los Gnolls de melena dorada. Todas las ranas allí han huido.
-Occur_String2=¿Los Gnolls de melena dorada se apoderaron del Fabris Garden? ¿Es por eso que el flujo del tiempo-espacio ha estado tan inestable?
-Occur_String3=El Fabris Garden es un vestigio dejado en la Rift del tiempo-espacio por Fabris, dios de la manufactura. Es un espacio sagrado que los simples Gnolls de melena dorada nunca podrían haber encontrado, mucho menos invadido. Si no fue por pura suerte que lo encontraron mientras buscaban comida...
-Occur_String4=Si debemos sospechar, alguien debió abrir la Rift del tiempo-espacio a los Gnolls de melena dorada, que conduce al Fabris Garden. Este es un asunto serio. Es difícil de creer, pero alguien ha interferido con la línea de tiempo de la dimensión.
-Occur_String5=Es una suposición apresurada, pero debemos averiguar si fue así. La forma más rápida sería averiguar si los Gnolls de melena dorada que invadieron el Fabris Garden son simples Gnolls de Duelden o si cruzaron la dimensión a través de la Rift del tiempo-espacio.
-Occur_String6=Por favor, dirígete al Fabris Garden y recolecta las melenas de los Gnolls de melena dorada, y haré el análisis comparativo.
+Occur_String1=El garden of Fabris ha sido invadido por los Gnolls de melena dorada. Todas las ranas allí han huido.
+Occur_String2=¿Los Gnolls de melena dorada se apoderaron del garden of Fabris? ¿Es por eso que el flujo del tiempo-espacio ha estado tan inestable?
+Occur_String3=El garden of Fabris es un vestigio dejado en la Rift del tiempo-espacio por Fabris, dios de la manufactura. Es un espacio sagrado que los simples Gnolls de melena dorada nunca podrían haber encontrado, mucho menos invadido. Si no fue por pura suerte que lo encontraron mientras buscaban comida...
+Occur_String4=Si debemos sospechar, alguien debió abrir la Rift del tiempo-espacio a los Gnolls de melena dorada, que conduce al garden of Fabris. Este es un asunto serio. Es difícil de creer, pero alguien ha interferido con la línea de tiempo de la dimensión.
+Occur_String5=Es una suposición apresurada, pero debemos averiguar si fue así. La forma más rápida sería averiguar si los Gnolls de melena dorada que invadieron el garden of Fabris son simples Gnolls de Duelden o si cruzaron la dimensión a través de la Rift del tiempo-espacio.
+Occur_String6=Por favor, dirígete al garden of Fabris y recolecta las melenas de los Gnolls de melena dorada, y haré el análisis comparativo.
 Doing_String=Parece demasiado pronto... ¿ya ha oscurecido?<br>¿Eh? ¿Sigues aquí? A mi edad, uno tiende a preocuparse bastante. Solo estoy pensando en voz alta, no me hagas caso.
 Completable_String1=¿Lo tienes? Ugh... eso apesta. Aun así, lo investigaré, solo déjalo en la esquina.
 Complete_String=(Misión de grupo de Croaker) (2/5)<br>El sospechoso Arche menciona que hay dudas y ha solicitado recolectar las melenas de Gnolls para investigar este asunto.
-List_String=(Misión de grupo de Croaker) (2/5)<br=A petición del sospechoso Arche, tengo que recolectar las melenas de los Gnolls que invadieron el Fabris Garden en la sala de tareas.
-Mission_String=Recolecta las melenas de los Gnolls que invaden el Fabris Garden
+List_String=(Misión de grupo de Croaker) (2/5)<br=A petición del sospechoso Arche, tengo que recolectar las melenas de los Gnolls que invadieron el garden of Fabris en la sala de tareas.
+Mission_String=Recolecta las melenas de los Gnolls que invaden el garden of Fabris
 Mission_Target1=Melena de Gnoll
 
 [Quest_202513]
 Name=(T) Melena de Gnoll de melena dorada
-Occur_String1=Hemos recolectado las melenas de los Gnolls que invadieron el Fabris Garden. Ahora, por favor dirígete al almacén abandonado de Duelden para recolectar las melenas de los Gnolls de melena dorada.
+Occur_String1=Hemos recolectado las melenas de los Gnolls que invadieron el garden of Fabris. Ahora, por favor dirígete al almacén abandonado de Duelden para recolectar las melenas de los Gnolls de melena dorada.
 Occur_String2=¿Yo otra vez? Esto de los Gnolls de melena dorada nunca termina.
 Occur_String3=Sé que es difícil, pero necesito que lo hagas para llevar a cabo el análisis comparativo. Mientras tanto, trabajaré en las melenas de Gnoll que recolectaste.
-Doing_String=Al observar estas melenas, parece que los Gnolls invadieron el Fabris Garden hace poco. No está completamente impregnado con el tiempo-espacio allí. Así que no será difícil averiguarlo.
+Doing_String=Al observar estas melenas, parece que los Gnolls invadieron el garden of Fabris hace poco. No está completamente impregnado con el tiempo-espacio allí. Así que no será difícil averiguarlo.
 Completable_String1=Bien hecho. Esto terminará pronto, solo un momento.
-Complete_String=(Misión de grupo de Croaker) (3/5)<br>El sospechoso Arche ahora solicita ayuda para averiguar si los Gnolls de melena dorada son los mismos que invadieron el Fabris Garden. Así que me dirigí al almacén abandonado de Duelden para recolectar las melenas de los Gnolls de melena dorada.
+Complete_String=(Misión de grupo de Croaker) (3/5)<br>El sospechoso Arche ahora solicita ayuda para averiguar si los Gnolls de melena dorada son los mismos que invadieron el garden of Fabris. Así que me dirigí al almacén abandonado de Duelden para recolectar las melenas de los Gnolls de melena dorada.
 List_String=(Misión de grupo de Croaker) (3/5)<br=El sospechoso Arche te pide recolectar las melenas de los Gnolls de melena dorada del almacén abandonado de Duelden.
 Mission_String=Recolecta las melenas de los Gnolls de melena dorada del almacén abandonado
 Mission_Target1=Melena de Gnoll de melena dorada
@@ -39102,14 +39102,14 @@ Occur_String1=No tomó mucho tiempo porque tenía los registros de investigació
 Occur_String2=Al compararlos, descubrí que la única diferencia era el nivel de contaminación del tiempo-espacio; son la misma especie. No pude encontrar ningún rastro de que hayan viajado a través de dimensiones por la distorsión del tiempo-espacio.
 Occur_String3=No entiendo. ¿Cómo sabes si viajaron a través de dimensiones por la distorsión del tiempo-espacio?
 Occur_String4=Estaba creando algo que se aRift si la energía del tiempo-espacio de la dimensión no coincidía, por si acaso. No está completado aún... estoy un poco desconcertado porque el problema de la línea de tiempo de la dimensión ocurrió demasiado temprano.
-Occur_String5=De todos modos, parece que el reciente flujo inestable de tiempo-espacio no fue un problema del Fabris Garden. Supongo que fue pura suerte que los Gnolls de melena dorada encontraran el Fabris Garden mientras buscaban comida.
+Occur_String5=De todos modos, parece que el reciente flujo inestable de tiempo-espacio no fue un problema del garden of Fabris. Supongo que fue pura suerte que los Gnolls de melena dorada encontraran el garden of Fabris mientras buscaban comida.
 Occur_String6=No... es sospechoso...<br>Según tu investigación, es extraño que los croakers estén asustados y que todas las ranas hayan huido. Los croakers son un tipo muy especial de ranas. Especialmente, su canto tiene un efecto que anima a las ranas.
-Occur_String7=Por favor, encuentra las ranas fugitivas. Tengo que investigar la razón por la cual huyeron del Fabris Garden y verificar si eso está relacionado con la línea de tiempo de la dimensión.
+Occur_String7=Por favor, encuentra las ranas fugitivas. Tengo que investigar la razón por la cual huyeron del garden of Fabris y verificar si eso está relacionado con la línea de tiempo de la dimensión.
 Occur_String8=Recientemente, escuché que en las llanuras de Bredrias de Duelden, se pueden escuchar los gritos de ranas en la distorsión del tiempo-espacio, algo que nunca sucedía en la lluvia. Parece que las ranas fugitivas están allí, así que por favor investígalas.
 Doing_String=Por suerte, parece que lloverá, así que por favor apresúrate. Solo sigue sus gritos y encontrarás a las ranas fugitivas en poco tiempo.
-Completable_String1=¿Has hablado con las ranas? ¿Por qué huyeron del Fabris Garden?
+Completable_String1=¿Has hablado con las ranas? ¿Por qué huyeron del garden of Fabris?
 Complete_String=(Misión de grupo de Croaker) (4/5)<br>Aunque resultó que los Gnolls eran de la misma especie, fue difícil entender por qué las ranas huyeron del refugio de los croakers. El sospechoso Arche me pidió que encontrara a las ranas fugitivas y descubriera si hubo algún cambio en su situación.
-List_String=(Misión de grupo de Croaker) (4/5)<br=El sospechoso Arche me pidió investigar la razón por la cual las ranas huyeron del Fabris Garden hacia la distorsión del tiempo-espacio de Duelden.
+List_String=(Misión de grupo de Croaker) (4/5)<br=El sospechoso Arche me pidió investigar la razón por la cual las ranas huyeron del garden of Fabris hacia la distorsión del tiempo-espacio de Duelden.
 Mission_String=Investiga las ranas que huyeron a la distorsión del tiempo-espacio
 Mission_Target1=Investigación de las ranas
 
@@ -39134,15 +39134,15 @@ Mission_Target1=Cristal de tiempo-espacio
 Name=(T) Investigación de la caja fuerte secreta
 Occur_String1=No pude encontrar nada fuera de lo común en los cristales de tiempo-espacio que obtuviste. Sospecho que alguien ha alterado la línea de tiempo de la dimensión, pero no tengo pruebas.
 Occur_String2=¿Mi intuición está equivocada?
-Occur_String3=No necesariamente. Estimando el período desde que las ranas huyeron del Fabris Garden hasta ahora, la tasa de contaminación del tiempo-espacio es demasiado alta. Necesitaré investigar más sobre este asunto.
+Occur_String3=No necesariamente. Estimando el período desde que las ranas huyeron del garden of Fabris hasta ahora, la tasa de contaminación del tiempo-espacio es demasiado alta. Necesitaré investigar más sobre este asunto.
 Occur_String4=Es difícil. La línea de tiempo de la dimensión... y la investigación del flujo inestable de tiempo-espacio desde allí...
 Occur_String5=Todo esto habría sucedido eventualmente. Solo estoy un poco confundido porque ocurrió demasiado temprano.
 Occur_String6=No te preocupes demasiado. Recientemente, el flujo de tiempo-espacio se ha vuelto muy inestable, y sospecho que hay juego sucio en la línea de tiempo de la dimensión al investigar ese flujo. Y por eso estamos buscando pruebas de eso...
-Occur_String7=Ahora, tenemos que investigar la caja fuerte secreta, oculta en la distorsión del tiempo-espacio por Luery. Porque ahí se encontró un flujo de tiempo-espacio similar al del Fabris Garden. Si seguimos investigando, estamos destinados a encontrar algo.
+Occur_String7=Ahora, tenemos que investigar la caja fuerte secreta, oculta en la distorsión del tiempo-espacio por Luery. Porque ahí se encontró un flujo de tiempo-espacio similar al del garden of Fabris. Si seguimos investigando, estamos destinados a encontrar algo.
 Doing_String=¡Ah! Habrá un escándalo si Luery descubre que la caja fuerte fue registrada, así que no dejes que nadie se entere de tu viaje.
 Completable_String1=¿Terminaste de investigar la caja fuerte secreta? Déjame saber si encontraste algo extraño.
-Complete_String=(Misión de grupo de Warblin) (1/4)<br=A petición de Arche, investigué la caja fuerte secreta donde se encontró un flujo de tiempo-espacio similar al del Fabris Garden, pero no encontré nada fuera de lo común.
-List_String=(Misión de grupo de Warblin) (1/4)<br=El sospechoso Arche me pidió investigar la caja fuerte secreta donde el flujo de tiempo-espacio era similar al del Fabris Garden.
+Complete_String=(Misión de grupo de Warblin) (1/4)<br=A petición de Arche, investigué la caja fuerte secreta donde se encontró un flujo de tiempo-espacio similar al del garden of Fabris, pero no encontré nada fuera de lo común.
+List_String=(Misión de grupo de Warblin) (1/4)<br=El sospechoso Arche me pidió investigar la caja fuerte secreta donde el flujo de tiempo-espacio era similar al del garden of Fabris.
 Mission_String=Investiga la caja fuerte secreta en la sala de tareas de Oldor
 Mission_Target1=Investigación de la caja fuerte secreta
 
@@ -39154,7 +39154,7 @@ Occur_String3=Hmm... pensé que podría haber algunos cambios considerando el fl
 Occur_String4=Creo que es hora de compartir todo. En este mundo en el que vivimos, hay muchas dimensiones coexistentes. Cada dimensión cambia sutilmente debido a incidentes triviales o entornos, pero hay hechos comunes que son constantes.
 Occur_String5=Esos hechos están ligados por la línea de tiempo de la dimensión, la cual mantiene nuestro mundo. Los antiguos pioneros cruzaron dimensiones a través de distorsiones del tiempo-espacio y registraron los incidentes ligados a esta línea de tiempo, y esos registros se guardan en la biblioteca oculta en la distorsión del tiempo-espacio.
 Occur_String6=Uno de los registros en la biblioteca es la rebelión de la caja fuerte secreta. Parece ser un incidente trivial, pero esta rebelión de la caja fuerte secreta causó cambios en Luery y llevó a una gran influencia en la Sociedad de Investigación de la Rift en el futuro.
-Occur_String7=Pero según tu informe, el líder de la rebelión ha cambiado a Warblin el caníbal. Creo que alguien está tratando de distorsionar la línea de tiempo de la dimensión causando un pequeño cambio. El Fabris Garden también parece ser una intervención en la línea de tiempo de la dimensión mediante un método similar...
+Occur_String7=Pero según tu informe, el líder de la rebelión ha cambiado a Warblin el caníbal. Creo que alguien está tratando de distorsionar la línea de tiempo de la dimensión causando un pequeño cambio. El garden of Fabris también parece ser una intervención en la línea de tiempo de la dimensión mediante un método similar...
 Occur_String8=Primero, debemos investigar si la intervención en la línea de tiempo de la dimensión causó el cambio del líder en la rebelión de la caja fuerte secreta. Por favor, verifica qué sucedió encontrando a Warblin, quien estaba vigilando la caja fuerte secreta.
 Occur_String9=Warblin solía ser el líder de un grupo de bandidos goblins que saqueaban en la cuenca de Wais. Puede que haya algunos goblins que todavía estén en contacto con Warblin, así que registra el lugar y encuentra cualquier rastro.
 Doing_String=Busca la distorsión del tiempo-espacio en la cuenca de Wais. Registra el lugar, ya que puede haber algunos goblins que todavía estén en contacto con Warblin.

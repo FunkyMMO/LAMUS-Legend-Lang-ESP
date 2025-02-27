@@ -1605,7 +1605,7 @@ Msg_Mailbox_ADV_CARD_SUBJECT=Te enviamos el Item que perdiste en la Rift.
 Msg_Mailbox_ADV_CARD_SENDER=Sociedad de Investigación de la Rift de Arke
 Msg_Mailbox_ADV_CARD_CONTENT=Te enviamos los Items que perdiste en la Rift.
 Msg_Mailbox_Endless_Tower_SUBJECT=Recompensas de la Endless Tower
-Msg_Mailbox_Endless_Tower_SENDER=Encargado de la sala de guardia
+Msg_Mailbox_Endless_Tower_SENDER=Encargado de la room of duty
 Msg_Mailbox_Endless_Tower_CONTENT=Hemos encontrado el Item que dejaste en la Endless Tower. Te lo enviamos.
 Msg_Mailbox_Blood_Castle_SUBJECT=Recompensas del Castillo de Sangre
 Msg_Mailbox_Blood_Castle_SENDER=Encargado de la Sala de Servicio
@@ -1846,7 +1846,7 @@ Msg_Mailbox_Liberation_Ranker_Sender=LAMUS
 Msg_Mailbox_Liberation_Ranker_SUBJECT=Tienes el ranking de liberación espacio-temporal y la recompensa de liberación.
 Msg_Mailbox_Liberation_Ranker_CONTENT=El flujo del espacio-tiempo ha sido liberado de la opresión del Administrador. La Sociedad de Investigación de la Rift te ha enviado esta recompensa en reconocimiento a tu increíble logro.
 Msg_Mailbox_Web_of_God_Sender=LAMUS
-Msg_Mailbox_Web_of_God_SUBJECT=Tu recompensa del Dios del Corredor ha llegado.
+Msg_Mailbox_Web_of_God_SUBJECT=Tu recompensa del God of Corridor ha llegado.
 Msg_Mailbox_Web_of_God_CONTENT=Tu inventario está lleno. Tu recompensa será enviada a tu buzón de correo. Por favor, haz espacio en tu inventario para recibirla.
 Msg_Mailbox_ExtractReward_SUBJECT=La recompensa desmontada que no había sido recogida ha sido entregada.
 Msg_Mailbox_ExtractReward_SENDER=Desmantelado
@@ -2957,7 +2957,7 @@ ContentsDesc_21=50 personajes luchan por convertirse en el único superviviente.
 ContentsDesc_22=La Antigua Arca Kanturiana es un lugar misterioso donde yacen latentes la gloria de una antigua civilización y su tecnología. Es mucho más difícil que la dificultad Mítica.<br><br>- Las Dungeons Épicas tienen un nivel de dificultad muy alto.<br><font color='#FE6D03'>- Solo los personajes con al menos 500.000 de Poder de Combate pueden entrar en ellas.<br></font>- Te recomendamos que entrenes en las Dungeons Míticas y en el Laberinto de Lupa hasta que cumplas el requisito de Poder de Combate de las Dungeons Épicas.
 ContentsDesc_23=La quintaesencia de la ingeniería mágica diseñada por Kundun y Etramu. En los pisos superiores de la torre aguardan enemigos más formidables.<br><br>- Accesible a través de Room of Duty en Ohrdor.<br>- Si superas una fase con la suficiente rapidez, podrás saltarte varias fases.<br>Mientras estás parado tras superar una fase, puedes usar el conductor de ingeniería mágica para experimentar el poder de la ingeniería mágica.
 ContentsDesc_10000=Reino de la Perseverancia: Proof es una cueva oscura donde se encuentra Death Roar, el dragón guardián. <br>Quien demuestre su valía derrotando a Rugido de la Muerte en esta última etapa de Reino de la Perseverancia se hará merecedor de entrar en el Salón de la Sabiduría oculto tras la guarida de Rugido de la Muerte. <br>Reino de la Perseverancia: La prueba es extremadamente difícil.
-ContentsDesc_24=El Dios del Corredor es un Mapa de Misión en solitario en el que puedes luchar contra oleadas de enemigos durante un tiempo determinado.<br>La batalla termina inmediatamente cuando se acaba el tiempo o si mueres. Usa la habilidad Liberación de Tiza cuando estés en peligro. Te otorgará un poder más allá de tu imaginación.<br><font color='#FE6D03'>- Se requiere el 1er Renacimiento.<br></font>
+ContentsDesc_24=El God of Corridor es un Mapa de Misión en solitario en el que puedes luchar contra oleadas de enemigos durante un tiempo determinado.<br>La batalla termina inmediatamente cuando se acaba el tiempo o si mueres. Usa la habilidad Liberación de Tiza cuando estés en peligro. Te otorgará un poder más allá de tu imaginación.<br><font color='#FE6D03'>- Se requiere el 1er Renacimiento.<br></font>
 ContentLevel_1=Nivel requerido
 ContentLevelDesc_1=%s_1
 ContentEnterCnt_1=Entradas diarias (Se renicia 5:00 a.m.)

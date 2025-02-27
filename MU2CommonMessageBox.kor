@@ -144,7 +144,7 @@ MailDelAll=Borrar todo
 MailHaveItemNotEmpty=Aceptar todo
 MailHaveItemAndDel=Aceptar todo
 ExitChaosCastle=Salir del Blood Castle
-ExitWebOfGod=Salir del Dios del Corredor
+ExitWebOfGod=Salir del God of Corridor
 Msg_Field_Boss_Raid=Asalto del Jefe de Campo
 Msg_Enchant_Cancel=Notificación de cancelación de encantamiento
 Msg_Dominion_World_Buff=Disposición de Buff Mundial
@@ -337,7 +337,7 @@ MailDelAll=Existen Zen y Items no reclamados.
 MailHaveItemNotEmpty=Tu bolsa está llena.
 MailHaveItemAndDel=Eliminar todos los mensajes recibidos.
 ExitChaosCastle=¿Salir del Blood Castle?
-ExitWebOfGod=Si abandonas el Dios del Corredor ahora, perderás tu recompensa.<br>¿Salir de todas formas?
+ExitWebOfGod=Si abandonas el God of Corridor ahora, perderás tu recompensa.<br>¿Salir de todas formas?
 Msg_Field_Boss_Raid=¿Invocar a este monstruo?
 Msg_Enchant_Cancel=Información de encantamiento cambiada. Encantamiento cancelado. Vuelve a intentarlo más tarde.
 Msg_Dominion_World_Buff=¿Utiliza <font color='#FDC243'>%s_1</font> Trofeos y proporciona la <font color='#FDC243'>%s_2</font> mejora?
