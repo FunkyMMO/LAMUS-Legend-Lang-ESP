@@ -400,15 +400,15 @@ Mission_String=Encuentra al Guardia Enano en el Southern Post en Weiss Basin
 Mission_Target1=Hablar con Kilry
 
 [Quest_101]
-Name=Un Comerciante en el Campo de Batalla - 1
-Occur_String1=¡Ahora, no me importa si eres un guerrero, un comerciante o lo que sea!<br>¡Solo tráeme pieles de belbee! ¡Te pagaré buen dinero!
+Name=Un Mercader en el Campo de Batalla - 1
+Occur_String1=¡Ahora, no me importa si eres un guerrero, un Mercader o lo que sea!<br>¡Solo tráeme pieles de belbee! ¡Te pagaré buen dinero!
 Occur_String2=¡Estás incitando a la gente a despellejar bestias! ¿Estás loco?<br>Esas bestias también son mutantes, ¿sabes?
 Occur_String3=No sabes de lo que hablas. Los abrigos hechos de piel de belbee se venden como pan caliente entre las mujeres nobles de Lorencia.<br>¡Están ganando mucho dinero!
 Occur_String4=Cuando termines de recolectar pieles de belbee, llévalas a la Guardia Enana al norte de aquí.<br>Te pagarán tanto como quieras.
 Occur_String5=La vida es como el juego. Si tienes suerte, cazarás un belbee y te harás rico. Si fallas, el belbee se llenará de ti.<br>¡Si tienes demasiado miedo, entonces sigue tu camino!
 Doing_String=¡Lleva pieles de belbee a la Guardia Enana y te recompensará!<br>¡Arriesga tu vida como el valiente guerrero que eres!
 Completable_String1=¿Te envió Phili?<br>¡Vaya, eres bueno despellejando!<br>No puedo dejar mi puesto para cazar belbees yo mismo. Gracias.
-Complete_String=Un comerciante llamado Phili me pidió que recolectara pieles de belbee y las entregara a la Guardia Enana en el norte. Los belbees son bestias feroces nativas de Weiss Basin, y su piel se usa popularmente para hacer ropa cara. Los belbees han mutado como todo lo demás en Enova. Pensé que Phili estaba loco, animando a la gente a matarlos por sus pieles. Apuesto a que mucha gente perdió la vida tratando de cazarlos. Entré en la guarida de las mortales bestias, preparándome para el mismo destino que mis predecesores, pero salí vivo, con la piel de la bestia en mis manos.
+Complete_String=Un Mercader llamado Phili me pidió que recolectara pieles de belbee y las entregara a la Guardia Enana en el norte. Los belbees son bestias feroces nativas de Weiss Basin, y su piel se usa popularmente para hacer ropa cara. Los belbees han mutado como todo lo demás en Enova. Pensé que Phili estaba loco, animando a la gente a matarlos por sus pieles. Apuesto a que mucha gente perdió la vida tratando de cazarlos. Entré en la guarida de las mortales bestias, preparándome para el mismo destino que mis predecesores, pero salí vivo, con la piel de la bestia en mis manos.
 List_String=Debería matar Belbees Prairie y entregar su piel a un miembro de la Guardia Enana.
 Mission_String=Recolecta piel de belbee y entrégala a un miembro de la Guardia Enana
 Mission_Target1=Piel de Belbee Prairie
@@ -672,18 +672,18 @@ Mission_String=Mata a los Bull Horn Majors e informa a Duprian
 Mission_Target1=Mata a los Bull Horn Majors
 
 [Quest_119]
-Name=Un Comerciante en el Campo de Batalla - 2
-Occur_String1=¡No me importa si eres un guerrero, un comerciante o lo que sea! ...Err, ¡nos volvemos a encontrar!
-Occur_String2=Eres el comerciante que conocí en el Western Post. Querías que desollara Belbees para ti.
+Name=Un Mercader en el Campo de Batalla - 2
+Occur_String1=¡No me importa si eres un guerrero, un Mercader o lo que sea! ...Err, ¡nos volvemos a encontrar!
+Occur_String2=Eres el Mercader que conocí en el Western Post. Querías que desollara Belbees para ti.
 Occur_String3=¿Estás vivo? Pensé que ya te habrían comido los Demonios.
 Occur_String4=¿Qué haces aquí?
 Occur_String5=Voy donde sea que haya guerra. ¿Por qué? ¡Porque la guerra es igual a dinero!<br>Esta vez, estoy buscando comprar equipo de la Bull Horn Legion's.
 Occur_String6=Es muy buscado por los coleccionistas militares por su peculiar diseño.<br>¿Puedes conseguírmelo? Te pagaré bien, como la última vez.
-Doing_String=No me importa si eres un guerrero, un comerciante o lo que sea.<br>¡Tráeme equipo de la Bull Horn Legion's! ¡Te pagaré bien!
+Doing_String=No me importa si eres un guerrero, un Mercader o lo que sea.<br>¡Tráeme equipo de la Bull Horn Legion's! ¡Te pagaré bien!
 Completable_String1=Wow, eres tan bueno como recordaba. ¿Has pensado en mi propuesta?<br>Me refiero a trabajar conmigo.
-Complete_String=Recolecté equipo de la Bull Horn Legion's para el Comerciante Phili y recibí mi pago.
-List_String=Debo recolectar equipo de la Bull Horn Legion's para el Comerciante Phili.
-Mission_String=Recolecta equipo de la Bull Horn Legion's para el Comerciante Phili
+Complete_String=Recolecté equipo de la Bull Horn Legion's para el Mercader Phili y recibí mi pago.
+List_String=Debo recolectar equipo de la Bull Horn Legion's para el Mercader Phili.
+Mission_String=Recolecta equipo de la Bull Horn Legion's para el Mercader Phili
 Mission_Target1=Swift Axes
 Mission_Target2=Solid Shields
 
@@ -763,7 +763,7 @@ Name=Colusión con el Enemigo
 Occur_String1=Este es el plano de la Heath Mine, pero ese lugar está cerrado.<br>No sé qué querrían los Demonios con ella.
 Occur_String2=Ve al Eastern Post. Vigila la Heath Mine.<br>Los guardias allí necesitan saber qué están tramando los Demonios.
 Occur_String3=Lo haré. Gracias por todo. Adiós.
-Occur_String4=¡Espera! Soy comerciante y no me involucro en ningún negocio a menos que me beneficie.<br>¿Qué puedes hacer por mí a cambio?
+Occur_String4=¡Espera! Soy Mercader y no me involucro en ningún negocio a menos que me beneficie.<br>¿Qué puedes hacer por mí a cambio?
 Occur_String5=¿Qué quieres?
 Occur_String6=Me preocupa la fuerza principal de los Goblins estacionada aquí.<br>Quiero que te encargues de sus jefes.
 Occur_String7=Tienes suficientes soldados para hacerlo por tu cuenta.
@@ -1199,7 +1199,7 @@ Name=El Líder de Ohrdor
 Occur_String1=No estoy buscando un trabajo.<br>Soy el guerrero que fue encontrado inconsciente en el Amberial Forest. Algunos me llaman el Extraño Carnicero.
 Occur_String2=Ah, lamento no haberte reconocido. "El Héroe de Enova," "Extraño Carnicero"...<br>Eres conocido por muchos nombres. ¿Qué te trae por aquí?
 Occur_String3=He perdido mis recuerdos. ¿Podrías ayudarme a recuperarlos?<br>El administrador del puerto me recomendó que hablara contigo.
-Occur_String4=Tal vez. Soy lo suficientemente rico como para comprar cualquier cosa que desee, incluida información.<br>¿Qué puedes hacer por mí a cambio? Soy un comerciante, no un trabajador de caridad.
+Occur_String4=Tal vez. Soy lo suficientemente rico como para comprar cualquier cosa que desee, incluida información.<br>¿Qué puedes hacer por mí a cambio? Soy un Mercader, no un trabajador de caridad.
 Occur_String5=Dime qué quieres.
 Occur_String6=
 Doing_String=
@@ -1225,15 +1225,15 @@ Mission_Target1=Primer Monumento.
 Mission_Target2=Segundo Monumento.
 
 [Quest_209]
-Name=Un Comerciante del Campo
+Name=Un Mercader del Campo
 Occur_String1=Guerrero, por favor ayúdame si tienes un momento.
 Occur_String2=Todos me ignoran porque soy del campo.<br>Estoy seguro de que se sorprenderán con mis productos...<br>Son cosas que los habitantes de la ciudad ni siquiera han visto antes.
 Occur_String3=¿Podrías llevar mis productos y venderlos a los comerciantes de Ohrdor?<br>Una vez que vean mis obras maestras, se enamorarán de ellas...<br>Por favor, hazme este favor.
 Doing_String=No deberías subestimar a la gente del campo como yo.<br>A veces son mejores en algunas cosas que los de la ciudad...
 Completable_String1=¿Dónde conseguiste esto? No es algo que se pueda encontrar en Ohrdor...<br>Y la calidad es excelente.
-Complete_String=Recolecté los productos del comerciante del campo y los entregué al comerciante de Ohrdor. Al ver las reacciones del comerciante de Ohrdor, parece que el comerciante del campo no estaba exagerando.
-List_String=Debo recolectar los productos del comerciante del campo y entregarlos al comerciante de armas.
-Mission_String=Recolecta los productos del comerciante del campo y entrégalos al comerciante de armas.
+Complete_String=Recolecté los productos del Mercader del campo y los entregué al Mercader de Ohrdor. Al ver las reacciones del Mercader de Ohrdor, parece que el Mercader del campo no estaba exagerando.
+List_String=Debo recolectar los productos del Mercader del campo y entregarlos al Mercader de armas.
+Mission_String=Recolecta los productos del Mercader del campo y entrégalos al Mercader de armas.
 Mission_Target1=Recolecta el Item de armas.
 Mission_Target2=Recolecta el Item de armadura.
 Mission_Target3=Entrega los Items recolectados.
@@ -1246,13 +1246,13 @@ Occur_String3=Ohrdor es una metrópolis comercial donde se fabrican y exportan m
 Occur_String4=Estoy a cargo del comercio en Ohrdor.<br>Hablando de eso, ¿podrías ayudarme a recolectar productos de los comerciantes de Ohrdor?
 Occur_String5=Es una ciudad grande, por lo que es difícil para mí recorrerla solo.<br>Cuento contigo.
 Doing_String=Todo, desde este enorme dirigible hasta ese pequeño montón de hierba, pertenece a Dumpain.<br>Me pregunto cómo se sentirá ser tan rico...
-Completable_String1=Gracias, ¡forastero!<br>Trabajas tan rápido que probablemente podrías seguir mis pasos y convertirte en comerciante también.
-Complete_String=Recolecté los productos de los comerciantes de Ohrdor y los entregué al Comerciante de Comercio Tray. Ohrdor era más grande de lo que pensaba.
-List_String=Debo recolectar los productos de los comerciantes de Ohrdor y entregarlos al Comerciante de Comercio Tray.
-Mission_String=Recolecta los productos de los comerciantes de Ohrdor y entrégalos al Comerciante de Comercio Tray.
+Completable_String1=Gracias, ¡forastero!<br>Trabajas tan rápido que probablemente podrías seguir mis pasos y convertirte en Mercader también.
+Complete_String=Recolecté los productos de los comerciantes de Ohrdor y los entregué al Mercader de Comercio Tray. Ohrdor era más grande de lo que pensaba.
+List_String=Debo recolectar los productos de los comerciantes de Ohrdor y entregarlos al Mercader de Comercio Tray.
+Mission_String=Recolecta los productos de los comerciantes de Ohrdor y entrégalos al Mercader de Comercio Tray.
 Mission_Target1=Administrador de Almacenamiento de Cuentas.
-Mission_Target2=Comerciante de Pociones.
-Mission_Target3=Comerciante de Armaduras.
+Mission_Target2=Mercader de Pociones.
+Mission_Target3=Mercader de Armaduras.
 
 [Quest_211]
 Name=Energía Misteriosa en Ohrdor
@@ -2633,14 +2633,14 @@ Mission_Target2=Caballeros Revenant
 [Quest_503]
 Name=Reencuentro con Phili
 Occur_String1=Oye, ¿no es este el guerrero errante de Weiss Basin?
-Occur_String2=¡Eres tú! Ah, ¡te recuerdo! Eres el comerciante que quería pieles de Belbee.<br>¿Qué haces aquí?
+Occur_String2=¡Eres tú! Ah, ¡te recuerdo! Eres el Mercader que quería pieles de Belbee.<br>¿Qué haces aquí?
 Occur_String3=Te dije, la guerra trae dinero. ¡Oh, y este lugar apesta a eso!<br>Oye, ¿qué tal si hacemos algo de dinero?
 Occur_String4=Algunos saqueadores de tumbas fueron asesinados por espíritus vengativos mientras robaban la tumba de un noble,<br>y las cosas que robaron todavía están ahí tiradas.
 Occur_String5=No puedo hacer nada con los muertos, pero puedo aprovechar lo que dejaron si puedes traerlo a mí a través de mi retinue en el sureste.<br>El lugar debe estar lleno de fantasmas enojados, pero ¿y qué? Todos van a morir tarde o temprano, ¿verdad? ¡Vamos, hagámoslo!
 Occur_String6=
-Doing_String=¡No me importa si eres un guerrero, un comerciante o lo que sea!
+Doing_String=¡No me importa si eres un guerrero, un Mercader o lo que sea!
 Completable_String1=Phili me ha contado muchas cosas buenas sobre ti. Aquí está tu pago.<br>Espero volver a trabajar contigo.
-Complete_String=Me encontré de nuevo con el Comerciante Phili, a quien conocí por primera vez en Weiss Basin. Recogí los artefactos dejados por los saqueadores de tumbas para él.
+Complete_String=Me encontré de nuevo con el Mercader Phili, a quien conocí por primera vez en Weiss Basin. Recogí los artefactos dejados por los saqueadores de tumbas para él.
 List_String=Recoge los artefactos abandonados en la tumba noble y llévalos a Kinun.
 Mission_String=Recoge Artefactos en el campo y llévalos a Kinun en el retinue de Phili.
 Mission_Target1=Artefactos de una Tumba Noble
@@ -2675,8 +2675,8 @@ Occur_String5=
 Occur_String6=
 Doing_String=¿Por qué estás dudando? ¿No tienes miedo, verdad?
 Completable_String1=¡Buen trabajo! Aquí está tu recompensa.
-Complete_String=Recolecté y entregué huevos de dragón al comerciante Arkeano, Wesley.
-List_String=Recolecta y entrega Huevos de Dragón al comerciante Arkeano, Wesley.
+Complete_String=Recolecté y entregué huevos de dragón al Mercader Arkeano, Wesley.
+List_String=Recolecta y entrega Huevos de Dragón al Mercader Arkeano, Wesley.
 Mission_String=Recolecta Huevos de Dragón y entrégaselos a Wesley.
 Mission_Target1=Huevos de Dragón
 
@@ -2691,8 +2691,8 @@ Occur_String6=Te diré una cosa. No es común ver dragones en el continente MU,<
 Occur_String7=
 Doing_String=Todos los que pagué para cazarlos fueron asesinados.<br>Espero que no encuentres el mismo destino que ellos.
 Completable_String1=Parece que no mostraste piedad a esos dragones.<br>Pude escuchar sus gritos de dolor, incluso desde tan lejos. Aquí está tu pago.
-Complete_String=Maté dragones para el comerciante Arkeano, Srov, y fui pagado.
-List_String=Mata dragones para el comerciante Arkeano, Srov.
+Complete_String=Maté dragones para el Mercader Arkeano, Srov, y fui pagado.
+List_String=Mata dragones para el Mercader Arkeano, Srov.
 Mission_String=Extermina Dragones e informa a Wesley.
 Mission_Target1=Mata Dragones Budge Infectados
 
@@ -3326,7 +3326,7 @@ Mission_Target1=Carne de Jabalí de Hielo Grande
 Mission_Target2=Carne de Jabalí de Hielo Pequeña
 
 [Quest_617]
-Name=Un Comerciante en el Frío
+Name=Un Mercader en el Frío
 Occur_String1=La vida es como una apuesta.
 Occur_String2=Eres tú de nuevo. ¿Cómo llegaste aquí?
 Occur_String3=Te lo dije. Voy a donde pueda oler el dinero.<br>¿Qué estás haciendo? Toma esto.
@@ -3336,8 +3336,8 @@ Occur_String6=¿Están pescando en medio de una guerra?
 Occur_String7=Son viejos. Sirvieron a su país cuando eran jóvenes,<br>y ahora están disfrutando de sus vidas. Por eso están pescando.
 Occur_String8=¿Qué haces? ¿No quieres ganar dinero? Lleva esto a esos viejos, ¿quieres?
 Doing_String=La vida es como una apuesta.
-Completable_String1=Bienvenido, extraño.<br>El comerciante Phili envió cebo. Por favor, entrégamelo.
-Complete_String=Por solicitud del comerciante Phili, entregué cebo de pesca al pescador Narby.
+Completable_String1=Bienvenido, extraño.<br>El Mercader Phili envió cebo. Por favor, entrégamelo.
+Complete_String=Por solicitud del Mercader Phili, entregué cebo de pesca al pescador Narby.
 List_String=Entregar cebo de pesca al pescador Narby.
 Mission_String=Entregar Cebo de Pesca a un Pescador
 Mission_Target1=Hablar con Narby
@@ -3387,7 +3387,7 @@ Mission_Target1=Fluido de Bicho de Alcantarilla
 
 [Quest_621]
 Name=Subyugar Parásitos
-Occur_String1=¡No me importa si eres un guerrero, un comerciante, o lo que sea!<br>¡Enriquece o muere en el intento! ¡La vida es como una apuesta!
+Occur_String1=¡No me importa si eres un guerrero, un Mercader, o lo que sea!<br>¡Enriquece o muere en el intento! ¡La vida es como una apuesta!
 Occur_String2=Sigh, eres tú de nuevo. ¿Qué quieres esta vez?
 Occur_String3=El canal está infestado de parásitos<br>conocidos como Azotadores, que se alimentan de las criaturas que hay allí.<br>Algunos dicen que los Dracanos los han dejado sueltos en el canal para mantener a raya a los intrusos,
 Occur_String4=mientras que otros sostienen que son humanos que se convirtieron en monstruos.<br>De cualquier manera, quiero que te deshagas de tantos como puedas.
@@ -3397,7 +3397,7 @@ Occur_String7=¿Adivina qué pasó después? Fue devorado por los Azotadores.<br
 Occur_String8=Cuando la noticia sobre Chaisong abriendo el canal se difundió, sus padres me contactaron sobre su deseo de venganza.
 Occur_String9=¿Qué haces? ¡Muévete! ¿No quieres ganar dinero?
 Doing_String=La vida es como una apuesta.
-Complete_String=Por solicitud del comerciante Phili, exterminé a los Azotadores, unos mutantes que viven en el canal cerrado.
+Complete_String=Por solicitud del Mercader Phili, exterminé a los Azotadores, unos mutantes que viven en el canal cerrado.
 List_String=Matar Azotadores, unos mutantes que viven en el canal cerrado.
 Mission_String=Exterminar Azotadores en el Canal Cerrado
 Mission_Target1=Azotadores de Ira
@@ -4109,7 +4109,7 @@ Completable_String2=¡Oh! Un artesano de ítems está en la ciudad. Deberías ir
 Complete_String=Desmantelé equipo. Puedo obtener una variedad de materiales y artículos especiales, dependiendo del ítem que desmantelo.
 List_String=Voy a desmantelar equipo. Puedo obtener una variedad de materiales y artículos especiales, dependiendo del ítem que desmantelo.
 >>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
-Mission_String=Solicitar a un Comerciante de Armas que desmantele un ítem de equipo
+Mission_String=Solicitar a un Mercader de Armas que desmantele un ítem de equipo
 Mission_Target1=Reciclar un ítem
 Mission_Target2=Investigar el Área Restringida 2
 Mission_Target3=Investigar el Área Restringida 3
@@ -4157,7 +4157,7 @@ Doing_String=
 Completable_String1=¿Hay un laboratorio de pruebas intensivas dentro del área restringida? Vi un lugar lleno de enormes tanques de cultivo.
 Completable_String2=¿Eh? Eso suena como la sala de cultivo intensivo. ¿Cómo entraste allí? No pudimos encontrarlo, por mucho que lo intentamos. La sala entera desapareció como por arte de magia.
 Completable_String3=Te creo. No lo habría encontrado si no hubiera usado el Porystal. ¿Has oído hablar de él? Es una gema que te permite viajar a través del spacetime para llegar a un lugar determinado.<br>¿Sabes por qué está aquí? ¿O por qué está conectado a esa sala de cultivo intensivo?
-Completable_String4=¿El Porystal? ¡Oh! Un comerciante de alquimia que conocí en Ohrdor me habló de él una vez.<br>Pero no sé por qué está conectado a esa sala.
+Completable_String4=¿El Porystal? ¡Oh! Un Mercader de alquimia que conocí en Ohrdor me habló de él una vez.<br>Pero no sé por qué está conectado a esa sala.
 Completable_String5=La Rift... el Porystal... la sala de cultivo intensivo... ¡Oh, no!<br>¡Ese mestizo, Varex!
 Complete_String=Alguien ha enviado la sala de cultivo intensivo dentro del área restringida al otro lado de la Rift. ¿Quién hizo esto? ¿Y por qué? ¿Y quién es este mestizo del que habla Cellan?
 List_String=Vi lo que parecía ser un laboratorio de pruebas de Ashases, lleno de equipos de cultivo. Cellan podría conocer este lugar.
@@ -4204,9 +4204,9 @@ Occur_String4=Sí, son emblemas de habilidades encantadas que se pueden equipar 
 Occur_String5=Puedo reforzar tus habilidades de combate por una pequeña tarifa.<br>No dudes en preguntarme en cualquier momento.
 Doing_String=¿Te gustaría comprar Emblemas de Habilidades?
 Completable_String1=Me alegra que entiendas mi explicación.<br>Siempre estaré aquí, así que siéntete libre de venir a mí si deseas comprar Emblemas de Habilidades.
-Complete_String=El comerciante de Emblemas de Habilidades en la Tempano City me enseñó a agregar Emblemas de Habilidades a mis habilidades de combate y a mejorar su poder.<br>Ahora puedo comprar Emblemas de Habilidades y agregarlos a mis espacios de habilidad para mejorar mis habilidades.
-List_String=Escuchar al comerciante de Emblemas de Habilidades en la Dudrin City sobre cómo agregar Emblemas de Habilidades a las habilidades de combate y comprender sus funciones.
-Mission_String=Escuchar al Comerciante de Emblemas de Habilidades sobre Emblemas de Habilidades
+Complete_String=El mercader de Emblemas de Habilidades en la Tempano City me enseñó a agregar Emblemas de Habilidades a mis habilidades de combate y a mejorar su poder.<br>Ahora puedo comprar Emblemas de Habilidades y agregarlos a mis espacios de habilidad para mejorar mis habilidades.
+List_String=Escuchar al mercader de Emblemas de Habilidades en la Dudrin City sobre cómo agregar Emblemas de Habilidades a las habilidades de combate y comprender sus funciones.
+Mission_String=Escuchar al mercader de Emblemas de Habilidades sobre Emblemas de Habilidades
 Mission_Target1=Escuchar la Explicación sobre Emblemas de Habilidades
 
 [Quest_756]
@@ -4252,7 +4252,7 @@ Completable_String1=No es difícil, ¿verdad? Puedes obtener una variedad de mat
 Completable_String2=¡Oh! Hay un maestro artesano en la ciudad. Deberías ir a él. Puede ayudarte a crear items de equipo.
 Complete_String=Desmonté equipo. Puedo obtener una variedad de materiales y items especiales, dependiendo del item que desmonte.
 List_String=Voy a desmontar equipo. Puedo obtener una variedad de materiales y items especiales, dependiendo del item que desmonte.
-Mission_String=Solicitar a un Comerciante de Armas que desmonte un item de equipo
+Mission_String=Solicitar a un Mercader de Armas que desmonte un item de equipo
 Mission_Target1=Desmontar item
 
 [Quest_759]
@@ -4450,15 +4450,15 @@ Mission_String=Poner a dormir a los Espíritus Witchrior
 Mission_Target1=Matar Espíritus Witchrior
 
 [Quest_813]
-Name=El Doppelgänger del Comerciante Phili
+Name=El Doppelgänger del Mercader Phili
 Occur_String1=Hola, extraño. ¿Te gustaría ganar algo de dinero?
-Occur_String2=(No puedo creer que haya una versión kanturiana del Comerciante Phili.<br>Incluso suena como Phili. ¿Es su Doppelgänger?)
+Occur_String2=(No puedo creer que haya una versión kanturiana del Mercader Phili.<br>Incluso suena como Phili. ¿Es su Doppelgänger?)
 Occur_String3=Tráeme un poco de piel de los zorros que viven en la Cueva de la Cascada de Hielo, ¿quieres?<br>Su suave piel blanca es popular entre las damas nobles.
 Occur_String4=¿Qué estás haciendo? ¡Ve rápido! ¿No quieres ganar dinero?
 Doing_String=¡Si quieres que te pague, muévete!
 Completable_String1=Hmpf, esta piel está manchada de sangre. Mira.<br>Esto vale solo la mitad del dinero que te prometí.
-Complete_String=Por solicitud del comerciante kanturiano, recolecté piel de zorros polares en la Cueva de la Cascada de Hielo.
-List_String=Recolectar piel de zorros polares en la Cueva de la Cascada de Hielo para el comerciante kanturiano.
+Complete_String=Por solicitud del Mercader kanturiano, recolecté piel de zorros polares en la Cueva de la Cascada de Hielo.
+List_String=Recolectar piel de zorros polares en la Cueva de la Cascada de Hielo para el Mercader kanturiano.
 Mission_String=Recolectar piel de zorro polar en la Cueva de la Cascada de Hielo y entregársela a Magoaduk
 Mission_Target1=Pieles de Zorro Polar
 
@@ -4977,7 +4977,7 @@ Completable_String1=¡Oh... ¡Todavía estás vivo!
 Complete_String=La esposa del minero, Susan, dijo que su esposo, que trabaja en la brasería, había desaparecido. Fui a la brasería y busqué a su esposo.
 List_String=La esposa del minero, Susan, dijo que su esposo, que trabaja en la brasería, ha desaparecido. Necesito ir a la brasería y buscar a su esposo.
 Mission_String=Buscar al esposo de Susan
-Mission_Target1=Hablar con el Comerciante Phili
+Mission_Target1=Hablar con el Mercader Phili
 
 [Quest_1107]
 Name=Olor a Dinero
@@ -4989,9 +4989,9 @@ Occur_String5=¿Dónde está él ahora?
 Occur_String6=Muerto. Lo atraparon robando sus armas. <br>La vida es como el juego. ¿Por qué no intentas conseguir sus armas también? <br>Te pagaré generosamente.
 Doing_String=¡La vida es como el juego!
 Completable_String1=Nunca he visto a nadie más que pueda hacer un trabajo tan limpio como tú.
-Complete_String=El comerciante Phili dijo que el esposo de Susan fue asesinado mientras intentaba robar armas del Mayor Bull Horn. No puedo darme a mí mismo la noticia trágica a su esposa. Pero necesito dinero para alimentarme. Recogí armas del Mayor Bull Horn y las entregué al comerciante Phili.
-List_String=El comerciante Phili dijo que el esposo de Susan fue asesinado mientras intentaba robar armas del Mayor Bull Horn. No puedo darme a mí mismo la noticia trágica a su esposa. Pero necesito dinero para alimentarme. Voy a recoger armas del Mayor Bull Horn y entregarlas al comerciante Phili.
-Mission_String=Recoger armas de la Legión Bull Horn y entregarlas al Comerciante Phili
+Complete_String=El mercader Phili dijo que el esposo de Susan fue asesinado mientras intentaba robar armas del Mayor Bull Horn. No puedo darme a mí mismo la noticia trágica a su esposa. Pero necesito dinero para alimentarme. Recogí armas del Mayor Bull Horn y las entregué al Mercader Phili.
+List_String=El mercader Phili dijo que el esposo de Susan fue asesinado mientras intentaba robar armas del Mayor Bull Horn. No puedo darme a mí mismo la noticia trágica a su esposa. Pero necesito dinero para alimentarme. Voy a recoger armas del Mayor Bull Horn y entregarlas al Mercader Phili.
+Mission_String=Recoger armas de la Legión Bull Horn y entregarlas al Mercader Phili
 Mission_Target1=Armas de la Legión Bull Horn
 
 [Quest_1108]
@@ -5079,27 +5079,27 @@ Mission_String=Escoltar al Coleccionista de Cristales en la Cueva de Cristal
 Mission_Target1=Escoltar al Coleccionista de Cristales
 
 [Quest_1201]
-Name=Comerciante de Lorencia
+Name=Mercader de Lorencia
 Occur_String1=Oh, extraño mi hogar en Lorencia, lleno de leche y miel...
 Occur_String2=¿Qué hace un lorenciano aquí?
 Occur_String3=Intentando hacer dinero. <br>Es una tendencia reciente entre los hombres ricos decorar sus salones con Thrashers disecados.
 Occur_String4=Por qué querrían tales cosas horrendas para sus salones no es mi preocupación. <br>Si quieres hacer dinero, entonces ve a atrapar algunos Thrashers.
 Doing_String=¡Ten cuidado! Sus mordidas pueden matarte.
 Completable_String1=Eres tan bueno como un cazador profesional.
-Complete_String=Un comerciante lorenciano estaba buscando piel de Thrasher, que es popular entre los ricos en Lorencia. Recolecté la piel para él y recibí una recompensa.
-List_String=Un comerciante lorenciano está buscando piel de Thrasher que es popular entre los ricos en Lorencia. Necesito recolectar la piel para él y obtener una recompensa.
+Complete_String=Un Mercader lorenciano estaba buscando piel de Thrasher, que es popular entre los ricos en Lorencia. Recolecté la piel para él y recibí una recompensa.
+List_String=Un Mercader lorenciano está buscando piel de Thrasher que es popular entre los ricos en Lorencia. Necesito recolectar la piel para él y obtener una recompensa.
 Mission_String=Recolectar Piel de Thrasher y entregársela a Pontua
 Mission_Target1=Piel de Thrasher
 
 [Quest_1202]
 Name=Dormir con el Enemigo
 Occur_String1=Un lorenciano y un Dracans. Eres una pareja extraña.
-Occur_String2=Hemos estado juntos durante más de diez años. Quiero ser un gran comerciante algún día, <br>y para eso estoy dispuesto a hacer cualquier cosa, incluso trabajar con personas que se supone que son mis enemigos. <br>Y Pontua es mi amigo ahora.
+Occur_String2=Hemos estado juntos durante más de diez años. Quiero ser un gran Mercader algún día, <br>y para eso estoy dispuesto a hacer cualquier cosa, incluso trabajar con personas que se supone que son mis enemigos. <br>Y Pontua es mi amigo ahora.
 Occur_String3=Ahora que hemos intercambiado palabras, tú también eres mi amigo. Consígueme picos de cóndor, amigo. <br>Los dagueros hechos de ellos se están vendiendo como pan caliente en Noria.
 Doing_String=Prueba que puedes cazar cóndores, o estaré muy decepcionado contigo.
 Completable_String1=¡Gracias, amigo! Toma esta pequeña muestra de mi aprecio.
-Complete_String=Recolecté picos de cóndor para un comerciante Dracans.
-List_String=Debo recolectar picos de cóndor para el comerciante Dracans.
+Complete_String=Recolecté picos de cóndor para un Mercader Dracans.
+List_String=Debo recolectar picos de cóndor para el Mercader Dracans.
 Mission_String=Recolectar Picos de Cóndor y entregárselos a Tutu
 Mission_Target1=Picos de Cóndor
 
@@ -5542,11 +5542,11 @@ Occur_String3=Un avance repentino... Debe haber algo.
 Occur_String4=Sí. Si encuentras algo relacionado en el Campamento de los Brolls, por favor, investiga más al respecto.
 Doing_String=¿Cómo fue?<br>¿Descubriste por qué su equipo mejoró?<br¿Cuál es su secreto?
 Completable_String1=¿Oh, quién eres?<br>Ha pasado un tiempo desde que conocí a una persona de verdad y no a un apestoso Broll.
-Complete_String=Los Brolls que están presionando el lado este de la Fortaleza Chaber eran una raza bárbara incivilizada que no tenía equipo adecuado para la batalla.<br>Pero recientemente, empezaron a usar armas y armaduras de alta calidad, así que investigué el motivo detrás de eso y encontré un Contrato de Producción de Armas almacenado en su campamento.<br>El sello del contrato era del Asociación de Comerciantes Ohrdor, y encontré a un comerciante Arke de la Asociación.
+Complete_String=Los Brolls que están presionando el lado este de la Fortaleza Chaber eran una raza bárbara incivilizada que no tenía equipo adecuado para la batalla.<br>Pero recientemente, empezaron a usar armas y armaduras de alta calidad, así que investigué el motivo detrás de eso y encontré un Contrato de Producción de Armas almacenado en su campamento.<br>El sello del contrato era del Asociación de Comerciantes Ohrdor, y encontré a un Mercader Arke de la Asociación.
 List_String=Tengo que infiltrar el Campamento de los Brolls en el Susurro del Árbol del Mundo y averiguar cómo obtuvieron equipo de combate de vanguardia.
 Mission_String=Investigar por qué los Brolls están usando el equipo más reciente
 Mission_Target1=Obtener Contrato de Producción de Armas
-Mission_Target2=Hablar con el comerciante Arke
+Mission_Target2=Hablar con el Mercader Arke
 
 [Quest_1411]
 Name=Secreto Detrás de la Mejora del Equipo 2
@@ -6445,7 +6445,7 @@ Mission_Target1=Líder Cargador Dantarex
 
 [Quest_1601]
 Name=Accidente Comercial
-Occur_String1=No te he visto por aquí.<br>Soy Jade, un comerciante.<br>Si has venido a comerciar, lo siento, pero este no es el momento adecuado.
+Occur_String1=No te he visto por aquí.<br>Soy Jade, un Mercader.<br>Si has venido a comerciar, lo siento, pero este no es el momento adecuado.
 Occur_String2=No es que lo haya hecho intencionalmente, pero ahora tengo curiosidad.
 Occur_String3=Alguien ha robado todos los bienes de un gran trato comercial que se realizó por aquí.<br>Fui enviado por la realeza de Noria para rastrear los bienes robados.
 Occur_String4=La persona encargada del trato desapareció de repente, así que sospecho de un caso de malversación, en lugar de un simple robo.
@@ -6459,7 +6459,7 @@ Doing_String=Encontré un montón de pelos de mono en el lugar donde se transpor
 Completable_String1=Keke, me rindo. ¡Me rindo!<br>¿Por qué nos molestas?! Keke.
 Completable_String2=
 Completable_String3=
-Complete_String=Todos los bienes comerciales en el lugar de comercio en la Isla Luna Creciente fueron robados.<br>Según la investigación realizada por un comerciante enviado por la realeza de Noria, parecía que la persona encargada del comercio estaba malversando...<br>Rastreé a los monos salvajes con el pelo de mono encontrado en el lugar del crimen y los obligué a darme el estado de la transacción.
+Complete_String=Todos los bienes comerciales en el lugar de comercio en la Isla Luna Creciente fueron robados.<br>Según la investigación realizada por un Mercader enviado por la realeza de Noria, parecía que la persona encargada del comercio estaba malversando...<br>Rastreé a los monos salvajes con el pelo de mono encontrado en el lugar del crimen y los obligué a darme el estado de la transacción.
 List_String=Debo interrogar a los monos salvajes alrededor del Campamento de Comerciantes de la Isla Luna Creciente para averiguar si están relacionados con la desaparición de los bienes comerciales.
 Mission_String=Obtener prueba de que los monos salvajes están relacionados con la desaparición de los bienes comerciales
 Mission_Target1=Estado de la Transacción
@@ -6494,11 +6494,11 @@ Mission_Target3=
 Mission_Target4=
 
 [Quest_1603]
-Name=Ser el Mejor Comerciante
+Name=Ser el Mejor Mercader
 Occur_String1=¡La vida es como un juego de azar!
 Occur_String2=(¿Eh? He oído eso antes...)
 Occur_String3=¿Qué haces aquí?
-Occur_String4=¿No puedes ver?<br>Soy Murilly, un comerciante novato que sigue al gran comerciante Phili.
+Occur_String4=¿No puedes ver?<br>Soy Murilly, un Mercader novato que sigue al gran Mercader Phili.
 Occur_String5=(Ahora lo entiendo... ¿Qué demonios?)
 Occur_String6=He oído hablar de ti por Phili.<br>Dijo que tu tasa de éxito en las solicitudes es del 100%.<br>¡Tengo tanta suerte de conocerte así! Haha.
 Occur_String7=La Isla Luna Creciente es conocida por su oro aluvial.<br>Si puedo recolectar el oro, solo será cuestión de tiempo antes de que obtenga buenas ganancias.
@@ -6511,7 +6511,7 @@ Completable_String2=
 Completable_String3=
 Completable_String4=
 Completable_String5=
-Complete_String=Conocí a un comerciante novato que sigue al comerciante Phili en el Campamento de Comerciantes de la Isla Luna Creciente.<br>Como solicitó el comerciante, que estaba tan motivado por el dinero como Phili, recolecté los caparazones de los Escarabajos Monstruosos y se los entregué.
+Complete_String=Conocí a un Mercader novato que sigue al Mercader Phili en el Campamento de Comerciantes de la Isla Luna Creciente.<br>Como solicitó el Mercader, que estaba tan motivado por el dinero como Phili, recolecté los caparazones de los Escarabajos Monstruosos y se los entregué.
 List_String=Debo recolectar los caparazones de los Escarabajos Monstruosos que están alrededor del Campamento de Comerciantes de la Isla Luna Creciente y entregárselos a Murilly.
 Mission_String=Recolectar caparazones de Escarabajos Monstruosos y entregárselos a Murilly
 Mission_Target1=Caparazones de Escarabajos Monstruosos
@@ -8878,7 +8878,7 @@ Mission_Target1=Mata a Zakarian
 Name=Lágrimas del Creador 1
 Occur_String1=Si has venido aquí para ayudarme, llegaste tarde.<br>Pensé que tenías más cerebro que músculos.
 Occur_String2=¿De qué hablas? Soy tan capaz con la magia como con las estrategias.<br>No vine a ayudarte, de todos modos. ¿Has visto a los dragones, verdad?
-Occur_String3=Claro. He cazado un montón de ellos para un joven comerciante de Arke.
+Occur_String3=Claro. He cazado un montón de ellos para un joven Mercader de Arke.
 Occur_String4=Los dragones no son del Continente MU.<br>Empezaron a aparecer después de que Orman invadió Salormis.<br>He estado buscando su origen.
 Occur_String5=Nacen de una extraña energía que he rastreado hasta el Templo del Cielo, más específicamente al escondite de Orman.
 Occur_String6=[Mostrando el cristal que acaban de obtener]<br>¿Crees que esto tiene algo que ver con ellos? Lo encontré en Orman.
@@ -11682,7 +11682,7 @@ Occur_String7=Oh, Dios mío. Lo siento. Me emocioné de nuevo.<br>*Ejem* Ve al e
 Doing_String=Me encantan las novelas y las historias.<br>Mm, tal vez debería dejar un par de libros en el Rift, como Pierre Pan o Princesa Encantadora. ¿Quién sabe?<br>Piensas que estoy siendo tonto, pero me encantaría conocer a esos personajes.
 Completable_String1, ¿Los has conocido? Son los agentes de Avalanchera y Naklokhan. Necesitan ayuda para deshacerse el uno del otro.<br>Lo que quiero que hagas es ayudarlos, para que puedas explorar la Cueva del Demonio de Hielo y la Cueva del Demonio de Fuego.
 Completable_String2=Y toma esto. Necesitas estas Piedras de Sabio para entrar a los lugares. Sin ellas... no pasará nada.<br>Lo siento, solo puedo darte una.
-Completable_String3=He oído que se encuentran en artefactos alquimizados. Mi sociedad está tratando de averiguar por qué no pasa nada sin las Piedras de Sabio, y por qué estas piedras solo se encuentran en artefactos alquimizados.<br>Pero es difícil: el comerciante de alquimia no habla.
+Completable_String3=He oído que se encuentran en artefactos alquimizados. Mi sociedad está tratando de averiguar por qué no pasa nada sin las Piedras de Sabio, y por qué estas piedras solo se encuentran en artefactos alquimizados.<br>Pero es difícil: el Mercader de alquimia no habla.
 Completable_String4=Ese viejo apenas habla. De acuerdo, iré.<br>Por cierto, ¿sabes que no son humanos? Creo que son elementales de algún tipo.
 Completable_String5=¿No lo son? Después de todo, salieron de los Rifts, de un mundo ficticio.<br>No es sorprendente que sean diferentes de nosotros. Investigaré sobre ellos. Gracias.
 Complete_String=Tengo que explorar el mundo dentro de un libro llamado la Danza de Hielo y Lava mientras ayudo a los agentes de los personajes del libro, Avalanchera y Naklokhan. El mundo de un libro. ¡No puedo esperar a verlo!
@@ -13047,7 +13047,7 @@ Occur_String3=..
 Occur_String4=¡Oh, dioses! ¡Guerrero! ¿Puedes darte cuenta de lo precioso que es esto?<br>¡Esta apariencia brillante! ¡Imbuido con el poder del rift! ¡La agregación de toda magia y habilidades!<br>Si pudiera vender esto, ¡podría comprar toda una aldea!<br>¡Es asombroso! ¡Simplemente asombroso!
 Occur_String5=Eh... entendido. Entendido. Para... Para de agitarme.<br>Me estoy mareando.
 Occur_String6=Oh, Dios mío... Hmm. Lo siento. Yo...<br>No era eso lo que quería decir, pero dado que me mostraste el artefacto... Hmm.
-Occur_String7=Lleva tu artefacto de nivel máximo al Comerciante Alquimista en Ohrdor.<br>Él hará alquimia con el artefacto.<br>No sé cómo lo hace, pero puede crear Items muy raros a través de la alquimia de artefactos.
+Occur_String7=Lleva tu artefacto de nivel máximo al Mercader Alquimista en Ohrdor.<br>Él hará alquimia con el artefacto.<br>No sé cómo lo hace, pero puede crear Items muy raros a través de la alquimia de artefactos.
 Occur_String8=Sin embargo, el Brote Creciente es solo una imitación hecha por la Sociedad de Investigación del Rift,<br>así que no obtendrás un Item tan bueno como si usaras un artefacto real.<br>Así que no tengas altas expectativas cuando realices la alquimia de artefactos con el Brote Creciente.
 Occur_String9=¡Además!!<br>Debes tener esto en cuenta.<br>¡El artefacto utilizado como material para la alquimia de artefactos desaparecerá!<br>Así que asegúrate de intentar la alquimia de artefactos cuando tengas un artefacto extra.
 Doing_String=La alquimia de artefactos es buena... pero es desafortunado que un artefacto tan hermoso desaparezca.
@@ -13055,10 +13055,10 @@ Completable_String1=Grande de la Sociedad de Investigación del Rift me dijo que
 Completable_String2=Oh, otro cliente. Desafortunadamente, nunca nos hemos conocido antes.<br>¿Y eso es importante? La alquimia de artefactos es lo que importa.<br>Te explicaré, así que escucha bien. Y no te enojes conmigo cuando tu artefacto se haya ido.
 Completable_String3=Derretir un artefacto de nivel máximo para crear algo nuevo. Eso es la alquimia de artefactos.<br>El artefacto desaparece ya que necesito derretirlo primero... no sé qué va a salir al final.<br>Como nadie sabe lo que la energía del artefacto hará con la alquimia.<br>He oído de aquellos que obtuvieron algo muy precioso de la alquimia de artefactos, y presumieron sobre ello.
 Completable_String4=Si quieres intentarlo, dame tu artefacto. Haré la alquimia por ti.<br>Pero te sugeriría que uses un artefacto que no necesites.<br>Ya que estarás en un apuro una vez que el artefacto desaparezca.<br>No te impediré usar cualquier artefacto, pero piénsalo bien.
-Complete_String=He escuchado sobre la alquimia de artefactos del Comerciante Alquimista. Crear algo nuevo con un artefacto de nivel máximo... suena interesante, pero el artefacto desaparecerá, así que debo tener cuidado.
-List_String=Debo encontrar al Comerciante Alquimista en Ohrdor y preguntar sobre la alquimia de artefactos.
-Mission_String=Ve a buscar al Comerciante Alquimista
-Mission_Target1=Hablar con el Comerciante Alquimista
+Complete_String=He escuchado sobre la alquimia de artefactos del Mercader Alquimista. Crear algo nuevo con un artefacto de nivel máximo... suena interesante, pero el artefacto desaparecerá, así que debo tener cuidado.
+List_String=Debo encontrar al Mercader Alquimista en Ohrdor y preguntar sobre la alquimia de artefactos.
+Mission_String=Ve a buscar al Mercader Alquimista
+Mission_Target1=Hablar con el Mercader Alquimista
 
 [Quest_9513]
 Name=Hacia el Labyrinth Sin Fin
@@ -13163,19 +13163,19 @@ Mission_String=Preguntar sobre el espacio peculiar
 Mission_Target1=Hablar con Venti
 
 [Quest_9600]
-Name=Comerciante Alquimista Bien Conocido
-Occur_String1=¡Oh! Ve a buscar al Comerciante Alquimista.<br¡Él podría saber algo.<br>¡Es muy bien conocido!
+Name=Mercader Alquimista Bien Conocido
+Occur_String1=¡Oh! Ve a buscar al Mercader Alquimista.<br¡Él podría saber algo.<br>¡Es muy bien conocido!
 Occur_String2=Es un poco extraño, y sabe muchas cosas extrañas también.<br>Nosotros hablamos con él a veces.<br>He oído que también ha estado en otro mundo.
-Doing_String=Es interesante. El Comerciante Alquimista.
+Doing_String=Es interesante. El Mercader Alquimista.
 Completable_String1=¿Sabes sobre una joya extraña que te teletransporta a una gigantesca biblioteca?<br>Suspira... Sé que suena absurdo.
 Completable_String2=¿Mm? ¿Viste el lugar? Ah, tienes mucha suerte.<br>No es muy fácil entrar. Tuviste una experiencia valiosa.
 Completable_String3=Entonces, sabes sobre eso.<br>¿Qué es ese lugar?
 Completable_String4=Es solo uno de muchos rifts.<br>La joya extraña que mencionaste... La llamo el Porystal.<br>De todos modos, es diferente de otros rifts a los que solo puedes entrar con la joya.
 Completable_String5=Debe ser un rift que alguien creó mientras estudiaba el rift a través del universo.<br>Y el Porystal debe ser una llave para la biblioteca.<br>Sabes, en la Sala de Deberes? Escuché que alguien había hecho un rift hacia su bóveda. Los libros no son nada.
-Complete_String=El Comerciante Alquimista parece saber sobre la joya que llama Porystal y la biblioteca... pero no parece querer contarme sobre eso.
-List_String=Me dijeron que el Comerciante Alquimista es bien conocido, así que iré a preguntarle sobre la joya y la biblioteca.
-Mission_String=Encuentra al Comerciante Alquimista y pregúntale sobre la joya y la biblioteca
-Mission_Target1=Hablar con el Comerciante Alquimista
+Complete_String=El Mercader Alquimista parece saber sobre la joya que llama Porystal y la biblioteca... pero no parece querer contarme sobre eso.
+List_String=Me dijeron que el Mercader Alquimista es bien conocido, así que iré a preguntarle sobre la joya y la biblioteca.
+Mission_String=Encuentra al Mercader Alquimista y pregúntale sobre la joya y la biblioteca
+Mission_Target1=Hablar con el Mercader Alquimista
 
 [Quest_9601]
 Name=Limpieza de las Estanterías
@@ -13187,8 +13187,8 @@ Occur_String5=¿Son esos libros peligrosos?
 Occur_String6=Bueno, no es eso... No preguntes, y por favor hazlo.<br>Te recompensaré bien. ¿Qué dices?
 Doing_String=Cuando dije que era un alivio... ya sabes,<br>me refería... podría ser la biblioteca de un mal tipo. ¿Cierto? Por eso dije que era un alivio.<br>Si solo hay monstruos, significa que nadie ha estado allí hasta ahora.
 Completable_String1=¿Destruiste las estanterías? ¿Todo desordenado?<br>Uf. Me alegra escuchar eso.
-Complete_String=Destruí todas las estanterías en la biblioteca para el Comerciante Alquimista. El que me dice que no me preocupe parece más preocupado. Me siento un poco inquieto.
-List_String=Debo destruir todas las estanterías en la biblioteca a la que se puede acceder con el Porystal para el Comerciante Alquimista.
+Complete_String=Destruí todas las estanterías en la biblioteca para el Mercader Alquimista. El que me dice que no me preocupe parece más preocupado. Me siento un poco inquieto.
+List_String=Debo destruir todas las estanterías en la biblioteca a la que se puede acceder con el Porystal para el Mercader Alquimista.
 Mission_String=Destruir las estanterías de la biblioteca que se pueden acceder con el Porystal
 Mission_Target1=Destruir Estanterías
 
@@ -13203,8 +13203,8 @@ Completable_String1=Oh, buen trabajo. Eres increíble.<br>Gracias por la ayuda. 
 Completable_String2=¿No me vas a contar nada, verdad?<br>¿No confías en mí? ¿O crees que soy estúpido?
 Completable_String3=... No. Confío en ti y sé que eres inteligente.<br>No te lo digo porque sé quién eres.<br>Esto no es algo con lo que debas cargar.
 Completable_String4=Te lo diré cuando llegue el momento adecuado.<br>Así que por favor, espera.
-Complete_String=Quiero preguntarle al Comerciante Alquimista sobre la verdad detrás de la biblioteca... pero no puedo hacer nada más que esperar si él lo dice.
-List_String=Debo derrotar al Mutante que ronda por la biblioteca dentro del Porystal. El Comerciante Alquimista y la biblioteca. Y los Mutantes. ¿Cómo están relacionados?
+Complete_String=Quiero preguntarle al Mercader Alquimista sobre la verdad detrás de la biblioteca... pero no puedo hacer nada más que esperar si él lo dice.
+List_String=Debo derrotar al Mutante que ronda por la biblioteca dentro del Porystal. El Mercader Alquimista y la biblioteca. Y los Mutantes. ¿Cómo están relacionados?
 Mission_String=Derrotar al Mutante en la biblioteca
 Mission_Target1=Eliminar al Mutante
 
@@ -13213,10 +13213,10 @@ Name=Nuevo Archivo
 Completable_String1=¿Mm? ¿Qué te trae a mí? ¿Tienes artefactos para alquimizar?
 Completable_String2=No, no eso. He descubierto otro espacio lleno de libros,<br>y es diferente del anterior. Pensé que querrías saberlo.
 Completable_String3=¿Libros? ¿Otra vez? Mm...<br>¡Ah, maldita sea! ¿Se formó un Rift allí también? Esto no es bueno.
-Complete_String=El Comerciante de Alquimia frunció el ceño cuando le conté sobre el nuevo archivo. ¿Qué tipo de lugar es?
-List_String=He descubierto otro antiguo archivo lleno de libros, y parece diferente del anterior. Debo ir al Comerciante Alquimista.
-Mission_String=Ve a preguntar al Comerciante Alquimista sobre el nuevo archivo
-Mission_Target1=Hablar con el Comerciante Alquimista
+Complete_String=El Mercader de Alquimia frunció el ceño cuando le conté sobre el nuevo archivo. ¿Qué tipo de lugar es?
+List_String=He descubierto otro antiguo archivo lleno de libros, y parece diferente del anterior. Debo ir al Mercader Alquimista.
+Mission_String=Ve a preguntar al Mercader Alquimista sobre el nuevo archivo
+Mission_Target1=Hablar con el Mercader Alquimista
 
 [Quest_9611]
 Name=Investigar el Antiguo Archivo
@@ -13230,8 +13230,8 @@ Doing_String=No puede ser lo que creo que es... ¿Mm? Oh, estaba pensando en otr
 Completable_String1=¿Fuiste allí? Tienes mucha suerte de ir a un lugar que otros apenas pueden encontrar dos veces.<br>Entonces, cuéntame.
 Completable_String2=Es un archivo antiguo, y la luz brilla a través de sus estanterías y paredes.<br>No hay solo unas pocas Rifts. Todo el lugar parece cristal roto.
 Completable_String3=Y... esto puede sonar extraño, pero es como si el lugar flotara sobre agua.<br>No se balancea ni tiembla, pero sentí que estaba en algo que estaba flotando.
-Complete_String=Le conté al Comerciante de Alquimia sobre el antiguo archivo. ¿Así es como es una biblioteca construida sobre agua? He estado en muchos lugares, pero ninguno era como este.
-List_String=Debo investigar a fondo el otro archivo conectado al Porystal. Dado que el Rift puede formarse en cualquier lugar, no me sorprende que me haya llevado a un antiguo archivo esta vez, pero quiero saber por qué el Comerciante de Alquimia actúa de manera tan sospechosa.
+Complete_String=Le conté al Mercader de Alquimia sobre el antiguo archivo. ¿Así es como es una biblioteca construida sobre agua? He estado en muchos lugares, pero ninguno era como este.
+List_String=Debo investigar a fondo el otro archivo conectado al Porystal. Dado que el Rift puede formarse en cualquier lugar, no me sorprende que me haya llevado a un antiguo archivo esta vez, pero quiero saber por qué el Mercader de Alquimia actúa de manera tan sospechosa.
 Mission_String=Entrar e investigar el nuevo archivo
 Mission_Target1=Investigar el Antiguo Archivo
 
@@ -13246,8 +13246,8 @@ Occur_String6=Esto es... un trabajo. ¿Por qué no piensas en ello como un traba
 Doing_String=Todo eso fue inútil... Tsk, tsk.
 Completable_String1=Destruí todas las estanterías como pediste. También esparcí todos los libros. Nadie podrá revisarlos ahora.
 Completable_String2=Muchas gracias. Y hay una cosa más que me gustaría pedirte—<br>No, quiero decir que tengo un trabajo para ti.
-Complete_String=Destruí estanterías y esparcí libros como me pidió el Comerciante de Alquimia. Revisé los libros, pero estaban escritos en idiomas desconocidos. Todo sobre este antiguo archivo es sospechoso. También lo es el Comerciante de Alquimia.
-List_String=El Comerciante de Alquimia está tan confundido que parece patético. Debo destruir estanterías y esparcir libros como él pide.
+Complete_String=Destruí estanterías y esparcí libros como me pidió el Mercader de Alquimia. Revisé los libros, pero estaban escritos en idiomas desconocidos. Todo sobre este antiguo archivo es sospechoso. También lo es el Mercader de Alquimia.
+List_String=El Mercader de Alquimia está tan confundido que parece patético. Debo destruir estanterías y esparcir libros como él pide.
 Mission_String=Destruir estanterías que liberan monstruos en el antiguo archivo
 Mission_Target1=Destruir Estanterías
 
@@ -13259,8 +13259,8 @@ Occur_String3=No necesitas saber esto. Estás muy involucrado en esto, lo que es
 Occur_String4=Maldita sea. Eso significa que tengo que hacer esto, pase lo que pase, ¿verdad? Te va a costar mucho.
 Doing_String=Hay un límite para todo... ¿Por qué intenté sobrepasarlo?
 Completable_String1=Gracias. Eso me alivia, pero fue solo uno de muchos arrepentimientos que dejé atrás.<br>Espero que algún día pueda romper este ciclo vicioso...
-Complete_String=El Comerciante de Alquimia divagó sobre cosas que solo él conoce. ¿Qué quiso decir con que ya estoy muy involucrado en esto? ¿Y qué es este ciclo vicioso del que hablaba? Hice lo que me pidió, pero me dejó un mal sabor de boca.
-List_String=Debo encontrar las entidades de las que habló el Comerciante de Alquimia y ponerlas en paz. No confío en él, pero no creo que sea una mala persona.
+Complete_String=El Mercader de Alquimia divagó sobre cosas que solo él conoce. ¿Qué quiso decir con que ya estoy muy involucrado en esto? ¿Y qué es este ciclo vicioso del que hablaba? Hice lo que me pidió, pero me dejó un mal sabor de boca.
+List_String=Debo encontrar las entidades de las que habló el Mercader de Alquimia y ponerlas en paz. No confío en él, pero no creo que sea una mala persona.
 Mission_String=Encontrar a los atados al antiguo archivo
 Mission_Target1=Eliminar %s_1_1
 Mission_Target2=Eliminar %s_2_1
@@ -13313,7 +13313,7 @@ Occur_String1=Bien, completaste todas las tareas muy bien.
 Occur_String2=Oh, espera. No he terminado. Tengo una solicitud más.
 Occur_String3=Acabas de decir que completé todas las tareas.
 Occur_String4=Sí, correcto. Hiciste las solicitudes existentes. Esto es como un seguro. Las personas estúpidas piensan que no habrá problemas, y las personas un poco inteligentes preparan una solución cuando surge el problema, y las personas como yo previenen que los problemas ocurran. ¿Entiendes? ¿Qué significa la última solicitud?
-Occur_String5=Cualquier cosa que diga el gran Comerciante de Alquimia debe ser correcta. Entonces, ¿qué tengo que hacer esta vez? Solo dímelo. Es cansado hablar contigo.
+Occur_String5=Cualquier cosa que diga el gran Mercader de Alquimia debe ser correcta. Entonces, ¿qué tengo que hacer esta vez? Solo dímelo. Es cansado hablar contigo.
 Occur_String6=Jajaja, es obvio, pero también me hace sentir genial ser elogiado cada vez. Lo que necesitas hacer es simple. Si encuentras algún otro espacio nuevo cuando entres a la biblioteca, destruye todos los archivos dentro.
 Occur_String7=Así que es lo mismo.
 Occur_String8=No intentes buscar ese espacio. Es una pérdida de tiempo hacer eso. No podrás encontrarlo de todos modos.<br>Es solo para cuando te lo encuentres por casualidad.
@@ -13423,13 +13423,13 @@ Occur_String5=Tienes buen ojo.<br>Sí, soy un discípulo del Gran Sabio Kundun, 
 Occur_String6=....<br>¿Tienes algo que decir?
 Occur_String7=Mi maestro espera que los mejores guerreros del Continente Mu se preparen para la guerra contra Pandemonium.
 Occur_String8=Estoy aquí para hablarte sobre formas más efectivas de prepararte en nombre de mi maestro, que está muy ocupado.
-Occur_String9=Ve a encontrar al Comerciante Dukan en Ohrdor de inmediato.<br>Él te contará sobre las tareas que debes hacer a partir de ahora.
+Occur_String9=Ve a encontrar al Mercader Dukan en Ohrdor de inmediato.<br>Él te contará sobre las tareas que debes hacer a partir de ahora.
 Occur_String10=
 Doing_String=¿Qué estás haciendo?<br>Ve a encontrar a Dukan en el área comercial de Ohrdor.
 Completable_String1=Ha pasado un tiempo desde que tuve un visitante.
-Complete_String=Hablé con una maga en la aldea Qwyinan de Litenberg.<br>Dijo que era discípula de Kundun y que estaba ayudando a los guerreros del continente a prepararse para la guerra contra Pandemonium, bajo las órdenes de Kundun.<br>Vine a buscar a un comerciante de magia en Ohrdor como ella sugirió.
-List_String=Debo encontrar al Comerciante Dukan en Ohrdor como sugirió Remulia.
-Mission_String=Debo encontrar al comerciante de misiones diarias en Ohrdor.
+Complete_String=Hablé con una maga en la aldea Qwyinan de Litenberg.<br>Dijo que era discípula de Kundun y que estaba ayudando a los guerreros del continente a prepararse para la guerra contra Pandemonium, bajo las órdenes de Kundun.<br>Vine a buscar a un Mercader de magia en Ohrdor como ella sugirió.
+List_String=Debo encontrar al Mercader Dukan en Ohrdor como sugirió Remulia.
+Mission_String=Debo encontrar al Mercader de misiones diarias en Ohrdor.
 Mission_Target1=Habla con Dukan
 
 [Quest_9801]
@@ -13462,7 +13462,7 @@ Occur_String6=
 Doing_String=Tus habilidades se desperdician en este lugar insignificante.<br>Ve a Ohrdor para descubrir el escenario para una verdadera batalla.
 Completable_String1=Oh... Tenemos aquí a un gran guerrero.
 Complete_String=Conocí a un misterioso hombre que parecía del Ejército de Lorencia en la aldea Qwyinan de Litenberg.<br>Mencionó un escenario para una verdadera batalla para guerreros hábiles, y me dijo que fuera a Ohrdor para saber más.
-List_String=Debo encontrar al Comerciante Trilgard de Ohrdor como dijo el misterioso guerrero Gaion.
+List_String=Debo encontrar al Mercader Trilgard de Ohrdor como dijo el misterioso guerrero Gaion.
 Mission_String=Debo encontrar al Mercader PvP en Ohrdor.
 Mission_Target1=Habla con Trilgard
 
@@ -13481,9 +13481,9 @@ Completable_String3=En la parte izquierda del menú del Juego, haz clic en Misio
 Completable_String4=Las Misiones Diarias se reinician cada día, así que revísalas todos los días.
 Completable_String5=Una vez que completes una Misión Diaria, recibirás una recompensa especial.<br>Si obtienes la Prueba de Dukan, la cambiaré por Items de primera calidad que no puedes conseguir fácilmente en ningún otro lugar.
 Completable_String6=¿Entendido?<br>Para volverte más fuerte, no olvides completar las Misiones Diarias.
-Complete_String=Escuché sobre las Misiones Diarias y las recompensas especiales del Comerciante Dukan en Ohrdor.
-List_String=Debo escuchar sobre las Misiones Diarias y cómo llevarlas a cabo del Comerciante de Misiones Diarias Dukan.
-Mission_String=Debo averiguar sobre las Misiones Diarias del Comerciante Dukan.
+Complete_String=Escuché sobre las Misiones Diarias y las recompensas especiales del Mercader Dukan en Ohrdor.
+List_String=Debo escuchar sobre las Misiones Diarias y cómo llevarlas a cabo del Mercader de Misiones Diarias Dukan.
+Mission_String=Debo averiguar sobre las Misiones Diarias del Mercader Dukan.
 Mission_Target1=Habla con Dukan
 
 [Quest_9804]
@@ -13499,9 +13499,9 @@ Completable_String3=Los Mapas de Misión disponibles se muestran a la izquierda 
 Completable_String4=Dependiendo de los resultados de la batalla, puedes obtener monedas especiales. Tráelas a mí, y las cambiaré por Items valiosos.
 Completable_String5=¿Lo entendiste?<br>Te has demostrado en combate regular, pero ahora es el momento de poner a prueba tus habilidades en un campo de batalla oficial.<br>¡Buena suerte!
 Completable_String6=
-Complete_String=Escuché sobre cómo participar en el Mapa de Misión y sus recompensas especiales del Comerciante Trilgard en Ohrdor.
+Complete_String=Escuché sobre cómo participar en el Mapa de Misión y sus recompensas especiales del Mercader Trilgard en Ohrdor.
 List_String=Debo escuchar sobre cómo participar en el Mapa de Misión del Mercader PvP Trilgard.
-Mission_String=Debo averiguar sobre el Mapa de Misión del Comerciante Trilgard.
+Mission_String=Debo averiguar sobre el Mapa de Misión del Mercader Trilgard.
 Mission_Target1=Habla con Trilgard
 
 [Quest_9900]
@@ -13673,15 +13673,15 @@ Mission_Target1=Limpiar el Pozo de los Muertos
 Name=Un Ayudante Misterioso
 Occur_String1=Ah, no te sorprendas si te encuentras con un extraño espíritu en el Pozo de los Muertos.<br>Mientras investigábamos ese lugar, un espíritu se acercó a nosotros y se presentó como Greed's.
 Occur_String2=¿Greed's?<br>(¿Por qué suena este nombre tan familiar?)
-Occur_String3=Dijo que era un comerciante antes de morir y fue arrastrado al Pozo.<br>Pensó que iba a convertirse en un monstruo, pero los demonios y la Dark mission no estaban tan interesados en él.
+Occur_String3=Dijo que era un Mercader antes de morir y fue arrastrado al Pozo.<br>Pensó que iba a convertirse en un monstruo, pero los demonios y la Dark mission no estaban tan interesados en él.
 Occur_String4=Así es como ha sobrevivido hasta ahora. Mm, esa no es una expresión apropiada.<br>De todos modos, desde entonces lo hemos estado protegiendo de la contaminación por Evil Energy o magia negra. A cambio, nos ha estado dando las cosas raras que ha encontrado.
 Occur_String5=Si lo ves en el Pozo de los Muertos, deberías hablar con él.<br>¿Quién sabe? Podría darte algo valioso.
 Doing_String=¿Has conocido a Greed's?
 Completable_String1=Ah, encantado de conocerte. ¿Eres un nuevo cliente? Soy Greed's.<br>Veamos... ¿Nos hemos conocido antes? ¿Por qué te ves tan familiar para mí?<br>Mm, tal vez nos conocimos cuando estaba vivo.
-Completable_String2=Fui un famoso comerciante en mi tiempo. ¡Pero Dumpain me mató!<br>Bueno, puede que haya sido un poco demasiado generoso con los sobornos, pero eso no es una razón suficiente para matar a alguien, ¿verdad?<br>Aunque sobornar es un delito serio en Ohrdor.
-Completable_String3=Voy a ser el más rico de todos aquí, así puedo tener a Dumpain a sus pies cuando muera.<br>Eso será la venganza definitiva para un comerciante, ¿no?
+Completable_String2=Fui un famoso Mercader en mi tiempo. ¡Pero Dumpain me mató!<br>Bueno, puede que haya sido un poco demasiado generoso con los sobornos, pero eso no es una razón suficiente para matar a alguien, ¿verdad?<br>Aunque sobornar es un delito serio en Ohrdor.
+Completable_String3=Voy a ser el más rico de todos aquí, así puedo tener a Dumpain a sus pies cuando muera.<br>Eso será la venganza definitiva para un Mercader, ¿no?
 Completable_String4=No tengo suficiente para mostrarte en este momento. ¿Volverás más tarde?<br>Te mostraré cosas que no verás en ningún otro lugar.
-Complete_String=Conocí a un espíritu llamado Greed's en el Pozo de los Muertos. Dijo que era un comerciante en Ohrdor, y se veía lo suficientemente familiar. Dijo que me mostraría algo bonito. Tal vez acepte su oferta más tarde.
+Complete_String=Conocí a un espíritu llamado Greed's en el Pozo de los Muertos. Dijo que era un Mercader en Ohrdor, y se veía lo suficientemente familiar. Dijo que me mostraría algo bonito. Tal vez acepte su oferta más tarde.
 List_String=Debo conocer al espíritu llamado Greed's en el Pozo de los Muertos. Su nombre suena familiar... Si tengo suerte, podría conseguir algo valioso de él.
 Mission_String=Conocer al espíritu de Greed's
 Mission_Target1=Hablar con el Espíritu de Greed's
@@ -17130,71 +17130,71 @@ Mission_String=Recoge la Espina Tentacular de %s_1_1
 Mission_Target1=Espina Tentacular
 
 [Template_57]
-Name=Solicitud de Caza del Comerciante Arke
+Name=Solicitud de Caza del Mercader Arke
 Occur_String1=Estamos arruinados... Esos animales parecidos a bandidos están interfiriendo con nuestros importantes intercambios.<br>Si no expulsamos a esos salvajes %s_1_1, esta área pronto morirá.
 Doing_String=¿Cómo van las cosas?<br>%s_1_1 siguen campando a sus anchas...
 Completable_String1=
-Complete_String=Mataron a %s_1_4 %s_1_1 como pidió el Comerciante Arke.
+Complete_String=Mataron a %s_1_4 %s_1_1 como pidió el Mercader Arke.
 List_String=Matar a %s_1_4 %s_1_1.
 Mission_String=Cazar %s_1_1
 Mission_Target1=Matar %s_1_1
 
 [Template_5701]
-Name=Solicitud de Recolección del Comerciante Arke
+Name=Solicitud de Recolección del Mercader Arke
 Occur_String1=Tuve muchos problemas para traer la mercancía del lejano Continente Oriental.<br>¡Pero todo fue robado! ¿Por quién preguntas? Por esos malvados matones %s_1_1, por supuesto.<br>Si traes de vuelta los Accesorios Radiantes que robaron, haré lo que sea para recompensarte por ayudarme.
 Doing_String=¿Dónde están los Accesorios Radiantes?<br>¡Estoy seguro de que esos %s_1_1 los robaron!
 Completable_String1=
-Complete_String=Solicitud de recolección de Accesorios Radiantes del Comerciante Arke completada.
+Complete_String=Solicitud de recolección de Accesorios Radiantes del Mercader Arke completada.
 List_String=Caza %s_1_1 y recoge %s_1_5 Accesorios Radiantes.
 Mission_String=Recuperar Accesorios Radiantes de %s_1_1
 Mission_Target1=Accesorios Radiantes
 
 [Template_5702]
-Name=Solicitud de Recolección del Comerciante Arke
+Name=Solicitud de Recolección del Mercader Arke
 Occur_String1=Tuve muchos problemas para traer la mercancía del lejano Continente Oriental.<br>¡Pero todo fue robado! ¿Por quién preguntas? Por esos malvados matones %s_1_1, por supuesto.<br>Si traes de vuelta los Anillos Arke que robaron, haré lo que sea para recompensarte.
 Doing_String=¿Dónde están los Anillos Arke?<br>¡Estoy seguro de que esos %s_1_1 los robaron!
 Completable_String1=
-Complete_String=Solicitud de recolección de Anillos Arke del Comerciante Arke completada.
+Complete_String=Solicitud de recolección de Anillos Arke del Mercader Arke completada.
 List_String=Caza %s_1_1 y recoge %s_1_5 Anillos Arke.
 Mission_String=Recuperar Anillo Arke de %s_1_1
 Mission_Target1=Anillo Arke
 
 [Template_5703]
-Name=Solicitud de Recolección del Comerciante Arke
+Name=Solicitud de Recolección del Mercader Arke
 Occur_String1=Tuve muchos problemas para traer la mercancía del lejano Continente Oriental.<br>¡Pero todo fue robado! ¿Por quién preguntas? Por esos malvados matones %s_1_1, por supuesto.<br>Si traes de vuelta las Ropas de Seda que robaron, haré lo que sea para recompensarte por ayudarme.
 Doing_String=¿Dónde están las Ropas de Seda?<br>¡Estoy seguro de que esos %s_1_1 las robaron!
 Completable_String1=
-Complete_String=Solicitud de recolección de Ropas de Seda del Comerciante Arke completada.
+Complete_String=Solicitud de recolección de Ropas de Seda del Mercader Arke completada.
 List_String=Caza %s_1_1 y recoge %s_1_5 Ropas de Seda.
 Mission_String=Recoge %s_1_1 Ropa de Seda
 Mission_Target1=Ropa de Seda
 
 [Template_5704]
-Name=Solicitud de Caza del Comerciante Arke
+Name=Solicitud de Caza del Mercader Arke
 Occur_String1=Estamos arruinados... Esos animales parecidos a bandidos están interfiriendo con nuestros importantes intercambios.<br>Si no expulsamos a esos salvajes %s_1_1 y %s_1_2, esta área pronto morirá.
 Doing_String=¿Cómo van las cosas?<br>%s_1_1 y %s_1_2 siguen campando a sus anchas...
 Completable_String1=
-Complete_String=Solicitud de caza del Comerciante Arke completada.
+Complete_String=Solicitud de caza del Mercader Arke completada.
 List_String=Matar a %s_1_4 %s_1_1 y %s_1_2.
 Mission_String=Derrotar Ganado Goblin
 Mission_Target1=Matar Bestia Rana
 
 [Template_5705]
-Name=Solicitud de Recolección del Comerciante Arke
+Name=Solicitud de Recolección del Mercader Arke
 Occur_String1=Tuve muchos problemas para traer la mercancía del lejano Continente Oriental.<br>¡Pero todo fue robado! ¿Por quién preguntas? Por esos malvados matones %s_1_1, por supuesto.<br>Si traes de vuelta los Paraguas de Algodón que robaron, haré lo que sea para recompensarte.
 Doing_String=¿Dónde están los Paraguas de Algodón?<br>¡Estoy seguro de que esos %s_1_1 los robaron!
 Completable_String1=
-Complete_String=Solicitud de recolección de Paraguas de Algodón del Comerciante Arke completada.
+Complete_String=Solicitud de recolección de Paraguas de Algodón del Mercader Arke completada.
 List_String=Caza %s_1_1 y recoge %s_1_5 Paraguas de Algodón.
 Mission_String=Recuperar Paraguas de Algodón de %s_1_1
 Mission_Target1=Paraguas de Algodón
 
 [Template_5706]
-Name=Solicitud de Caza del Comerciante Arke
+Name=Solicitud de Caza del Mercader Arke
 Occur_String1=Estamos arruinados... Esos animales parecidos a bandidos están interfiriendo con nuestros importantes intercambios.<br>Si no expulsamos a esos salvajes %s_1_1 y %s_2_1, esta área pronto morirá.
 Doing_String=¿Cómo van las cosas?<br>%s_1_1 y %s_2_1 siguen campando a sus anchas...
 Completable_String1=
-Complete_String=Solicitud de caza del Comerciante Arke completada.
+Complete_String=Solicitud de caza del Mercader Arke completada.
 List_String=Matar a %s_1_1 y %s_2_1.
 Mission_String=Derrotar Gorrón
 Mission_Target1=Matar %s_1_1
@@ -19837,9 +19837,9 @@ Mission_Target1=Matar %s_1_1
 Mission_Target2=Matar %s_2_1
 
 [Template_22006]
-Name=Intercambio con un Comerciante
+Name=Intercambio con un Mercader
 Occur_String1=Tengo una pequeña propuesta para ti.<br>Quiero vender frutas de %s_1_1, pero soy demasiado débil para conseguirlas yo mismo.
-Occur_String2=Soy un comerciante. Creo que todo tiene su precio.<br>Si me traes %s_1_5 frutas de %s_1_1, las compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
+Occur_String2=Soy un Mercader. Creo que todo tiene su precio.<br>Si me traes %s_1_5 frutas de %s_1_1, las compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
 Doing_String=Creo que todo tiene su precio.<br>Si me traes %s_1_5 frutas de %s_1_1, las compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
 Completable_String1=
 Complete_String=Recolecté y vendí %s_1_5 frutas de %s_1_1.
@@ -19965,8 +19965,8 @@ Mission_String=Recolectar la piel del %s_1_1 utilizada para pintar
 Mission_Target1=Piel de %s_1_1
 
 [Template_22018]
-Name=Intercambio con un Comerciante
-Occur_String1=Soy un comerciante. Creo que todo tiene su precio.<br>Si me traes %s_1_5 cuernos de %s_1_1, los compraré a un precio razonable. ¿Qué dices? Suena como una buena oferta, ¿verdad?
+Name=Intercambio con un Mercader
+Occur_String1=Soy un Mercader. Creo que todo tiene su precio.<br>Si me traes %s_1_5 cuernos de %s_1_1, los compraré a un precio razonable. ¿Qué dices? Suena como una buena oferta, ¿verdad?
 Doing_String=Por favor, tráeme %s_1_5 cuernos de %s_1_1.
 Completable_String1=
 Complete_String=Recolecté y vendí %s_1_5 cuernos de %s_1_1.
@@ -20056,8 +20056,8 @@ Mission_String=Recolectar los materiales para la fabricación de armas, cuernos 
 Mission_Target1=Cuerno de %s_1_1
 
 [Template_22027]
-Name=Intercambio con un Comerciante
-Occur_String1=Soy un comerciante. Creo que todo tiene su precio.<br>Si me traes %s_1_5 pares de alas de %s_1_1, las compraré a un precio razonable. ¿Qué dices? Suena como una buena oferta, ¿verdad?
+Name=Intercambio con un Mercader
+Occur_String1=Soy un Mercader. Creo que todo tiene su precio.<br>Si me traes %s_1_5 pares de alas de %s_1_1, las compraré a un precio razonable. ¿Qué dices? Suena como una buena oferta, ¿verdad?
 Doing_String=Por favor, tráeme %s_1_5 alas de %s_1_1.
 Completable_String1=
 Complete_String=Recolecté y vendí %s_1_5 alas de %s_1_1.
@@ -20141,8 +20141,8 @@ Mission_Target1=Matar a %s_1_1
 Mission_Target2=Matar a %s_2_1
 
 [Template_22036]
-Name=Intercambio con un Comerciante
-Occur_String1=Soy un comerciante. Creo que todo tiene su precio.<br>Si me traes %s_1_5 piezas de equipo de %s_1_1, las compraré a un precio razonable. ¿Qué dices? Suena como un buen negocio, ¿verdad?
+Name=Intercambio con un Mercader
+Occur_String1=Soy un Mercader. Creo que todo tiene su precio.<br>Si me traes %s_1_5 piezas de equipo de %s_1_1, las compraré a un precio razonable. ¿Qué dices? Suena como un buen negocio, ¿verdad?
 Doing_String=Por favor, tráeme %s_1_5 piezas de equipo de %s_1_1.
 Completable_String1=
 Complete_String=Recolecté y vendí %s_1_5 piezas de equipo de %s_1_1.
@@ -20275,8 +20275,8 @@ Mission_String=Limpiar un camino para la sacerdotisa
 Mission_Target1=Matar a %s_1_1
 
 [Template_22049]
-Name=Comercio con un Comerciante
-Occur_String1=Soy un comerciante. Creo que todo tiene su precio.<br>Si me traes %s_1_5 %s_1_1 telescopios, los compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
+Name=Comercio con un Mercader
+Occur_String1=Soy un Mercader. Creo que todo tiene su precio.<br>Si me traes %s_1_5 %s_1_1 telescopios, los compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
 Doing_String=Por favor, tráeme %s_1_5 %s_1_1 telescopios.
 Completable_String1=
 Complete_String=Recolecté y vendí %s_1_5 %s_1_1 telescopios.
@@ -20326,8 +20326,8 @@ Mission_String=Recolectar materiales para armaduras
 Mission_Target1=Piel de %s_1_1
 
 [Template_23005]
-Name=Comercio con un Comerciante
-Occur_String1=Soy un comerciante. Creo que todo tiene su precio.<br>Si me consigues %s_1_5 %s_1_1 tentáculos, los compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
+Name=Comercio con un Mercader
+Occur_String1=Soy un Mercader. Creo que todo tiene su precio.<br>Si me consigues %s_1_5 %s_1_1 tentáculos, los compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
 Doing_String=Por favor, tráeme %s_1_5 %s_1_1 tentáculos.
 Completable_String1=
 Complete_String=Recolecté y vendí %s_1_5 %s_1_1 tentáculos.
@@ -20474,8 +20474,8 @@ Mission_String=Ralentizar el avance de los monstruos
 Mission_Target1=Matar %s_1_1
 
 [Template_23019]
-Name=Intercambio con un Comerciante
-Occur_String1=Soy un comerciante. Creo que todo tiene su precio.<br>Si me traes %s_1_5 armas %s_1_1, las compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
+Name=Intercambio con un Mercader
+Occur_String1=Soy un Mercader. Creo que todo tiene su precio.<br>Si me traes %s_1_5 armas %s_1_1, las compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
 Doing_String=Consígueme %s_1_5 armas %s_1_1.
 Completable_String1=
 Complete_String=Recolecté %s_1_5 armas %s_1_1 y las vendí.
@@ -20618,8 +20618,8 @@ Mission_String=Eliminar la amenaza al pueblo
 Mission_Target1=Matar %s_1_1
 
 [Template_23033]
-Name=Intercambiar con un Comerciante
-Occur_String1=Soy un comerciante. Creo que todo tiene su precio.<br>Si me traes %s_1_5 plumas de %s_1_1, las compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
+Name=Intercambiar con un Mercader
+Occur_String1=Soy un Mercader. Creo que todo tiene su precio.<br>Si me traes %s_1_5 plumas de %s_1_1, las compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
 Doing_String=Consígueme %s_1_5 plumas de %s_1_1.
 Completable_String1=
 Complete_String=Recogí %s_1_5 plumas de %s_1_1 y las vendí.
@@ -20723,8 +20723,8 @@ Mission_Target1=Matar %s_1_1
 Mission_Target2=Matar %s_2_1
 
 [Template_23043]
-Name=Intercambio con un Comerciante
-Occur_String1=Soy un comerciante. Creo que todo tiene su precio.<br>Si me traes %s_1_5 Tokens de Nakan de %s_1_1, los compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
+Name=Intercambio con un Mercader
+Occur_String1=Soy un Mercader. Creo que todo tiene su precio.<br>Si me traes %s_1_5 Tokens de Nakan de %s_1_1, los compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
 Doing_String=Consígueme %s_1_5 Tokens de Nakan de %s_1_1.
 Completable_String1=
 Complete_String=Recogí %s_1_5 Tokens de Nakan de %s_1_1 y los vendí.
@@ -20775,8 +20775,8 @@ Mission_String=Matar %s_1_1
 Mission_Target1=Matar %s_1_1
 
 [Template_24004]
-Name=Intercambio con un Comerciante
-Occur_String1=Soy un comerciante. Creo que todo tiene su precio.<br>Si me traes %s_1_5 piezas de Esencia de %s_1_1, las compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
+Name=Intercambio con un Mercader
+Occur_String1=Soy un Mercader. Creo que todo tiene su precio.<br>Si me traes %s_1_5 piezas de Esencia de %s_1_1, las compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
 Doing_String=Consígueme %s_1_5 piezas de esencia de %s_1_1.
 Completable_String1=
 Complete_String=Recogí %s_1_5 piezas de esencia de %s_1_1 y las vendí.
@@ -20848,8 +20848,8 @@ Mission_String=Cazar monstruos
 Mission_Target1=Matar %s_1_1
 
 [Template_24011]
-Name=Intercambio con un Comerciante
-Occur_String1=Soy un comerciante. Creo que todo tiene su precio.<br>Si me traes %s_1_5 sacos de respiración de %s_1_1, los compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
+Name=Intercambio con un Mercader
+Occur_String1=Soy un Mercader. Creo que todo tiene su precio.<br>Si me traes %s_1_5 sacos de respiración de %s_1_1, los compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
 Doing_String=Consígueme %s_1_5 sacos de respiración de %s_1_1.
 Completable_String1=
 Complete_String=Recogí %s_1_5 sacos de respiración de %s_1_1 y los vendí.
@@ -21070,8 +21070,8 @@ Mission_Target1=Matar %s_1_1
 Mission_Target2=Matar %s_2_1
 
 [Template_24032]
-Name=Comercio con un Comerciante
-Occur_String1=Soy un comerciante. Creo que todo tiene su precio.<br>Si me traes %s_1_5 piedras encantadas de %s_1_1, las compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
+Name=Comercio con un Mercader
+Occur_String1=Soy un Mercader. Creo que todo tiene su precio.<br>Si me traes %s_1_5 piedras encantadas de %s_1_1, las compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
 Doing_String=Consígueme %s_1_5 piedras encantadas de %s_1_1.
 Completable_String1=
 Complete_String=Recolecté %s_1_5 piedras encantadas de %s_1_1 y las vendí.
@@ -21194,8 +21194,8 @@ Mission_String=Recuperar items de valor robados
 Mission_Target1=items de Valor de los Ashas
 
 [Template_24044]
-Name=Intercambio con un Comerciante
-Occur_String1=Soy un comerciante. Creo que todo tiene su precio.<br>Si me traes %s_1_5 banderas de %s_1_1, las compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
+Name=Intercambio con un Mercader
+Occur_String1=Soy un Mercader. Creo que todo tiene su precio.<br>Si me traes %s_1_5 banderas de %s_1_1, las compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
 Doing_String=Consígueme %s_1_5 banderas de %s_1_1.
 Completable_String1=
 Complete_String=Recolecté %s_1_5 banderas de %s_1_1 y las vendí.
@@ -21267,8 +21267,8 @@ Mission_String=Matar %s_1_1
 Mission_Target1=Matar %s_1_1
 
 [Template_24051]
-Name=Intercambio con un Comerciante
-Occur_String1=Soy un comerciante. Creo que todo tiene su precio.<br>Si me traes %s_1_5 cascos de %s_1_1, los compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
+Name=Intercambio con un Mercader
+Occur_String1=Soy un Mercader. Creo que todo tiene su precio.<br>Si me traes %s_1_5 cascos de %s_1_1, los compraré a un precio razonable. ¿Qué dices? Suena como un buen trato, ¿no?
 Doing_String=Consígueme %s_1_5 cascos de %s_1_1.
 Completable_String1=
 Complete_String=Recolecté %s_1_5 cascos de %s_1_1 y los vendí.
@@ -21463,12 +21463,12 @@ Mission_Target1=Matar %s_1_1
 Mission_Target2=Matar %s_2_1
 
 [Template_25016]
-Name=Comercio con un Comerciante
+Name=Comercio con un Mercader
 Occur_String1=Recientemente, las armaduras de %s_1_1 se están comerciando a un precio bastante alto.<br>Si encuentras alguna armadura de %s_1_1, por favor, véndemela. Te pagaré un buen precio. Será un buen trato para ambos.
 Doing_String=Necesito %s_1_5 armaduras de %s_1_1.
-Complete_String=Recolecté %s_1_5 armaduras de %s_1_1 y se las entregué al comerciante.
-List_String=Tengo que recolectar %s_1_5 armaduras de %s_1_1 según la solicitud del comerciante.
-Mission_String=Recolectar los bienes que quiere el comerciante
+Complete_String=Recolecté %s_1_5 armaduras de %s_1_1 y se las entregué al Mercader.
+List_String=Tengo que recolectar %s_1_5 armaduras de %s_1_1 según la solicitud del Mercader.
+Mission_String=Recolectar los bienes que quiere el Mercader
 Mission_Target1=Armaduras de %s_1_1
 
 [Template_25017]
@@ -21501,12 +21501,12 @@ Mission_Target1=Matar %s_1_1
 Mission_Target2=Matar %s_1_2
 
 [Template_25020]
-Name=Comercio con un Comerciante
+Name=Comercio con un Mercader
 Occur_String1=Recientemente, los órganos luminosos de %s_1_1 y %s_1_2 se están comerciando a un precio bastante alto.<br>Si encuentras algún órgano luminoso de %s_1_1 o %s_1_2, por favor, véndemelo. Te pagaré un buen precio. Será un buen trato para ambos.
 Doing_String=Necesito %s_1_5 órganos luminosos de %s_1_1 y %s_1_2.
-Complete_String=Recolecté %s_1_5 órganos luminosos de %s_1_1 y %s_1_2 y se los entregué al comerciante.
-List_String=Tengo que recolectar %s_1_5 órganos luminosos de %s_1_1 y %s_1_2 según la solicitud del comerciante.
-Mission_String=Recolectar los bienes que quiere el comerciante
+Complete_String=Recolecté %s_1_5 órganos luminosos de %s_1_1 y %s_1_2 y se los entregué al Mercader.
+List_String=Tengo que recolectar %s_1_5 órganos luminosos de %s_1_1 y %s_1_2 según la solicitud del Mercader.
+Mission_String=Recolectar los bienes que quiere el Mercader
 Mission_Target1=Órganos Luminosos
 
 [Template_25021]
@@ -34062,7 +34062,7 @@ Mission_Target1=Newk de Alta Pureza
 
 [Quest_1802]
 Name=Poder Oculto de los Chakuas 2
-Occur_String1=Iba a preguntarte la misma pregunta. Pareces un comerciante Arke. ¿Cómo entraste aquí?
+Occur_String1=Iba a preguntarte la misma pregunta. Pareces un Mercader Arke. ¿Cómo entraste aquí?
 Occur_String2=Mm... Eso es un secreto comercial. Pero puedo darte una pista: el dinero habla.
 Occur_String3=No, el dinero no siempre habla. Puedo probártelo si quieres. Deberías saber, también me llaman el Extraño Carnicero.
 Occur_String4=¡Heeeek! ¡Lo-siento! ¡Por favor, no me mates!
@@ -36052,7 +36052,7 @@ Completable_String2=
 Complete_String=No puedo estar seguro de si las habilidades de los Cristales Azules mencionadas en el libro de la Biblioteca Sapientia son reales por el momento.<br>No pude encontrar más pistas del lado de los elfos. Así que decidí visitar la Isla de la Luna Creciente de los Ashas, donde se encuentra la chica que robó los Cristales Azules.
 List_String=Tengo que viajar a la Isla de la Luna Creciente para encontrar a la chica de piel azul retenida por los Ashas.
 Mission_String=Dirígete a la Isla de la Luna Creciente para encontrar a la chica de piel azul
-Mission_Target1=Hablar con el Comerciante Phili
+Mission_Target1=Hablar con el Mercader Phili
 Mission_Target2=
 Mission_Target3=
 Mission_Target4=
@@ -36071,9 +36071,9 @@ Occur_String8=
 Doing_String=¡La vida es como jugar!
 Completable_String1=Bienvenido.<br>Te vi reparando el barco. No hay nada que no puedas hacer, ¿verdad?
 Completable_String2=
-Complete_String=Vine a la Isla de la Luna Creciente por la chica de piel azul. Allí conocí al Comerciante Phili, el buscador de ganancias con el que tuve el placer de encontrarme antes.<br>Phili me dijo que me daría la ubicación de la casa de seguridad donde se encuentra la chica si hacía lo que me pedía. Acepté la oferta y reparé su barco después de exterminar a los cangrejos gigantes en la playa.
-List_String=Tengo que cumplir con la solicitud del Comerciante Phili para averiguar dónde se encuentra la casa de seguridad.
-Mission_String=Cumple con la solicitud del Comerciante Phili varado en la isla
+Complete_String=Vine a la Isla de la Luna Creciente por la chica de piel azul. Allí conocí al Mercader Phili, el buscador de ganancias con el que tuve el placer de encontrarme antes.<br>Phili me dijo que me daría la ubicación de la casa de seguridad donde se encuentra la chica si hacía lo que me pedía. Acepté la oferta y reparé su barco después de exterminar a los cangrejos gigantes en la playa.
+List_String=Tengo que cumplir con la solicitud del Mercader Phili para averiguar dónde se encuentra la casa de seguridad.
+Mission_String=Cumple con la solicitud del Mercader Phili varado en la isla
 Mission_Target1=Derrotar a la Langosta Monstruosa y al Cangrejo Monstruoso
 Mission_Target2=Reparar el barco roto
 Mission_Target3=
@@ -36093,8 +36093,8 @@ Occur_String8=
 Doing_String=¡La vida es un Juego de Azar!
 Completable_String1=Bienvenido. Hemos estado esperando. Estamos interrogando a la chica con Fratanne.
 Completable_String2=
-Complete_String=Después de completar la pequeña misión del Comerciante Phili en la entrada de la Isla de la Luna Creciente, pude llegar a la casa de seguridad Ashas.
-List_String=Tengo que ir a la casa de seguridad Ashas en el área que me indicó el Comerciante Phili.
+Complete_String=Después de completar la pequeña misión del Mercader Phili en la entrada de la Isla de la Luna Creciente, pude llegar a la casa de seguridad Ashas.
+List_String=Tengo que ir a la casa de seguridad Ashas en el área que me indicó el Mercader Phili.
 Mission_String=Dirígete a la Casa de Seguridad Ashas
 Mission_Target1=Alcanza la Casa de Seguridad
 Mission_Target2=
@@ -38951,8 +38951,8 @@ Mission_String=Mata a los monstruos de élite Zelotes
 Mission_Target1=Matar Seguidores Oscuros
 
 [Quest_2601505]
-Name=Solicitud del Comerciante Desalentado
-Occur_String1=*Suspiro* Creo que no estoy hecho para ser comerciante. Tal vez llevar un negocio no sea mi verdadero llamado. Solía soñar con vivir en una gran mansión como Dumpain, pero mírame ahora. Estoy al borde de la bancarrota.
+Name=Solicitud del Mercader Desalentado
+Occur_String1=*Suspiro* Creo que no estoy hecho para ser Mercader. Tal vez llevar un negocio no sea mi verdadero llamado. Solía soñar con vivir en una gran mansión como Dumpain, pero mírame ahora. Estoy al borde de la bancarrota.
 Occur_String2=No debí haber sido tan codicioso. Quería hacerme rico de un golpe, así que me aventuré al Labyrinth Despertado de alguien y al Área Restringida 6 algo. Y, especialmente en esa Sala de Cultivo Intensivo, perdí todo lo que tenía.
 Occur_String3=(Hm, debe estar hablando del Labyrinth Despertado de Lupa, el Área Restringida 6-1 y la Sala de Cultivo Intensivo.)
 Occur_String4=No he ganado nada vendiendo cosas. Ya no quiero hacerlo más. Solo quiero volver a casa y llevar una vida honesta, pero estoy demasiado enfadado para irme con las manos vacías.<br>Así que estaba pensando... ¿Podrías hacerme un favor, guerrero?
@@ -38960,9 +38960,9 @@ Occur_String5=Te agradecería si pudieras ir donde perdí todo y acabar con los 
 Occur_String6=Si encuentras mis cosas... puedes quedártelas. Ya no las necesito. Y si haces esto, también te daré todo lo que tengo conmigo. Mejor me lavo las manos de todo esto antes de irme.<br>Entonces, gracias por hacer esto, guerrero.
 Doing_String=Los lugares a los que fui se llamaban... algo así como el Labyrinth Despertado de alguien... Área Restringida 6 algo... y Sala de Cultivo Intensivo.<br>Lo siento, no recuerdo sus nombres, y no quiero hacerlo.
 Completable_String1=Muchas gracias, guerrero. Por favor, acepta este símbolo de mi gratitud. Insisto. Si puedes darle buen uso, seré feliz.
-Complete_String=Vengué al comerciante desalentado encargándome de los maleantes que lo robaron.
-List_String=(Esta es una misión diaria de Evento que debe completarse antes de las 5:00 a.m.)<br>Debo vengar al comerciante desalentado encargándome de los maleantes que lo robaron. Creo que están en el Labyrinth Despertado de Lupa, el Área Restringida 6-1 y la Sala de Cultivo Intensivo.<br>Me da lástima, pero, con su suerte, me sorprende que siga con vida.
-Mission_String=Vengar al comerciante desalentado enfrentando a los monstruos que lo robaron
+Complete_String=Vengué al Mercader desalentado encargándome de los maleantes que lo robaron.
+List_String=(Esta es una misión diaria de Evento que debe completarse antes de las 5:00 a.m.)<br>Debo vengar al Mercader desalentado encargándome de los maleantes que lo robaron. Creo que están en el Labyrinth Despertado de Lupa, el Área Restringida 6-1 y la Sala de Cultivo Intensivo.<br>Me da lástima, pero, con su suerte, me sorprende que siga con vida.
+Mission_String=Vengar al Mercader desalentado enfrentando a los monstruos que lo robaron
 Mission_Target1=Someter el Labyrinth Despertado de Lupa, el Área Restringida 6-1 y la Sala de Cultivo Intensivo
 
 [Quest_2601401]
@@ -42288,8 +42288,8 @@ Name=Metales de vital importancia en el inframundo
 Occur_String1=El metal del inframundo que rodea el exterior de Kylops Rojo y Kylops Azul es un metal con alta afinidad con el poder mágico, por lo que puede usarse en varios campos. Por supuesto, para armaduras y espadas, así como pequeñas piezas para barcos voladores. <br>Si recoges los metales del inframundo y los traes, te recompensaremos generosamente.
 Doing_String=Por favor, trae los metales del inframundo.
 Completable_String1=Buen trabajo, Señor %s_9_1. Este metal será muy útil aquí y allá.
-Complete_String=Recogí y traje los metales del inframundo solicitados por un comerciante del Grupo Comercial Ohrdor de Kylops.
-List_String=Debo recoger y traer los metales del inframundo solicitados por un comerciante del Grupo Comercial Ohrdor de Kylops.
+Complete_String=Recogí y traje los metales del inframundo solicitados por un Mercader del Grupo Comercial Ohrdor de Kylops.
+List_String=Debo recoger y traer los metales del inframundo solicitados por un Mercader del Grupo Comercial Ohrdor de Kylops.
 Mission_String=Recolectar metales del inframundo de Kylops.
 Mission_Target1=Metales del inframundo
 
@@ -42298,8 +42298,8 @@ Name=Energía de ángeles caídos
 Occur_String1=Ocasionalmente, se encuentra una mezcla de energía de luz y oscuridad. Esto se comercia a un precio muy alto entre los magos. Entonces, ¿cuánto costaría si las energías de ángeles y demonios monstruosos estuvieran mezcladas? <br>Agradecería si pudieras reunir la energía del ángel caído Quinireal.
 Doing_String=Necesito la energía de Quinireal.
 Completable_String1=Esto es asombroso para mí, un profano en magia. Buen trabajo.
-Complete_String=Recogí y traje la energía de Quinireal solicitada por un comerciante del Grupo Comercial Ohrdor.
-List_String=Debo recoger y traer la energía de Quinireal solicitada por un comerciante del Grupo Comercial Ohrdor.
+Complete_String=Recogí y traje la energía de Quinireal solicitada por un Mercader del Grupo Comercial Ohrdor.
+List_String=Debo recoger y traer la energía de Quinireal solicitada por un Mercader del Grupo Comercial Ohrdor.
 Mission_String=Recoger la energía del ángel caído Quinireal.
 Mission_Target1=Energía de Quinireal
 
@@ -42308,8 +42308,8 @@ Name=Rastrillo de Relámpago de Erzeta
 Occur_String1=Llamamos al enorme instrumento mágico que reemplaza la mano de Erzeta como el Rastrillo de Relámpago. El rastrillo de relámpago puede usarse efectivamente para almacenar y liberar electricidad, por lo que su uso es interminable. <br>Entonces, lo que estoy pidiendo esta vez es el Rastrillo de Relámpago de Erzeta. Confío en %s_9_1.
 Doing_String=El objetivo de esta misión es el Rastrillo de Relámpago de Erzeta.
 Completable_String1=Lo trajiste. Ya está arrancado, pero aún almacena mucha electricidad. Si lo tocas mal, te meterás en problemas. <br>Gracias a los esfuerzos de %s_9_1.
-Complete_String=Traje el Rastrillo de Relámpago de Erzeta como lo solicitó un comerciante del Grupo Comercial Ohrdor.
-List_String=Debo traer el Rastrillo de Relámpago de Erzeta como lo solicitó un comerciante del Grupo Comercial Ohrdor.
+Complete_String=Traje el Rastrillo de Relámpago de Erzeta como lo solicitó un Mercader del Grupo Comercial Ohrdor.
+List_String=Debo traer el Rastrillo de Relámpago de Erzeta como lo solicitó un Mercader del Grupo Comercial Ohrdor.
 Mission_String=Obtener el Rastrillo de Relámpago de Erzeta.
 Mission_Target1=Rastrillo de Relámpago de Erzeta
 

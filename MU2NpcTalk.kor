@@ -1071,7 +1071,7 @@ Sayhello1=Adiós, mis bebés.
 [Npc_104050520]
 Name=Ohrdor Trader Tray
 Sayhello1=¡No dejes caer ni golpees la mercancía!
-Sayhello2=Puedes decir que soy el comerciante más influyente de Ohrdor.
+Sayhello2=Puedes decir que soy el Mercader más influyente de Ohrdor.
 Greeting1=¿Eh? ¡Extraño, nos volvemos a encontrar!
 Greeting2=No he olvidado tu ayuda. ¡Gracias!
 
@@ -1081,7 +1081,7 @@ Greeting1=Bueno, no me gusta el tono de tu voz.
 
 [Npc_104050525]
 Name=Arke Trader
-Sayhello1=Ser comerciante no es tan fácil como pensaba.
+Sayhello1=Ser mercader no es tan fácil como pensaba.
 Greeting1=¿Sí? ¿Estás interesado en mi mercancía?
 
 [Npc_104050526]
@@ -1879,7 +1879,7 @@ Greeting1=Me quedo aquí en el campamento, con la esperanza de encontrar a mi fa
 
 [Npc_8326]
 Name=Kevis
-Greeting1=Soy un comerciante de Arke que visita aquí para comerciar alimentos. Bueno, si tienes algo bueno, no dudes en hablar conmigo.
+Greeting1=Soy un mercader de Arke que visita aquí para comerciar alimentos. Bueno, si tienes algo bueno, no dudes en hablar conmigo.
 Greeting2=Las granjas están en mal estado debido a los ataques de los Gnolls.
 
 [Npc_8325]
@@ -2005,173 +2005,173 @@ Name=Enchantment Merchant
 Sayhello1=Ven a mí siempre que quieras encantar items o alas.
 
 [Npc_9212]
-Name=Armor Merchant
+Name=Mercader de Armaduras
 Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9211]
-Name=Armor Merchant
+Name=Mercader de Armaduras
 Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9213]
-Name=Armor Merchant
+Name=Mercader de Armaduras
 Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9214]
-Name=Armor Merchant
+Name=Mercader de Armaduras
 Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9215]
-Name=Armor Merchant
+Name=Mercader de Armaduras
 Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9216]
-Name=Armor Merchant
+Name=Mercader de Armaduras
 Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9217]
-Name=Armor Merchant
+Name=Mercader de Armaduras
 Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9218]
-Name=Armor Merchant
+Name=Mercader de Armaduras
 Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9219]
-Name=Armor Merchant
+Name=Mercader de Armaduras
 Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9287]
-Name=Armor Merchant
+Name=Mercader de Armaduras
 Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_9294]
-Name=Armor Merchant
+Name=Mercader de Armaduras
 Sayhello1=¡Desmontaré cualquier Item inútil!
 
 [Npc_20510]
-Name=Armor Merchant
+Name=Mercader de Armaduras
 Sayhello1=¡Desmontaré cualquier Item inútil!
 Sayhello2=
 
 [Npc_9202]
-Name=Weapon Merchant
+Name=Mercader de Armas
 Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9201]
-Name=Weapon Merchant
+Name=Mercader de Armas
 Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9203]
-Name=Weapon Merchant
+Name=Mercader de Armas
 Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9204]
-Name=Weapon Merchant
+Name=Mercader de Armas
 Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9205]
-Name=Weapon Merchant
+Name=Mercader de Armas
 Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9206]
-Name=Weapon Merchant
+Name=Mercader de Armas
 Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9207]
-Name=Weapon Merchant
+Name=Mercader de Armas
 Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9208]
-Name=Weapon Merchant
+Name=Mercader de Armas
 Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9209]
-Name=Weapon Merchant
+Name=Mercader de Armas
 Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9210]
-Name=Weapon Merchant
+Name=Mercader de Armas
 Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9286]
-Name=Weapon Merchant
+Name=Mercader de Armas
 Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9293]
-Name=Weapon Merchant
+Name=Mercader de Armas
 Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_20490]
-Name=Weapon Merchant
+Name=Mercader de Armas
 Sayhello1=¡Puedes obtener materiales para crafting desmontando Items!
 Sayhello2=
 
 [Npc_9221]
-Name=Gemcutter
+Name=Cortador de Gemas
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9220]
-Name=Gemcutter
+Name=Cortador de Gemas
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9222]
-Name=Gemcutter
+Name=Cortador de Gemas
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9223]
-Name=Gemcutter
+Name=Cortador de Gemas
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9224]
-Name=Gemcutter
+Name=Cortador de Gemas
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9225]
-Name=Gemcutter
+Name=Cortador de Gemas
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9226]
-Name=Gemcutter
+Name=Cortador de Gemas
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9227]
-Name=Gemcutter
+Name=Cortador de Gemas
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9228]
-Name=Gemcutter
+Name=Cortador de Gemas
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9229]
-Name=Gemcutter
+Name=Cortador de Gemas
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9230]
-Name=Gemcutter
+Name=Cortador de Gemas
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9288]
-Name=Gemcutter
+Name=Cortador de Gemas
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_9295]
-Name=Gemcutter
+Name=Cortador de Gemas
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_20390]
-Name=Gemcutter
+Name=Cortador de Gemas
 Sayhello1=Puedo crear ranuras para joyas en tu equipo.
 
 [Npc_23]
@@ -2207,7 +2207,7 @@ Name=Administrador de almacen personal
 Sayhello1=Tus Items son importantes para ti. Los mantendré seguros.
 
 [Npc_75]
-Name=Guild Registrar
+Name=Crear Guild
 Sayhello1=¿Te gustaría crear un Guild?
 
 [Npc_76]
@@ -6253,7 +6253,7 @@ Sayhello1=¡Por aquí! ¡Sal de aquí mientras tratamos de detenerlos!
 Sayhello2=¡Rápido! ¡Solo podemos aguantar un poco más!
 
 [Npc_4604]
-Name=Mercader de Pociones M'Baku
+Name=Mercader de Pociones
 Sayhello1=Solo una preparación exhaustiva te dará la fuerza para superar las dificultades.
 Sayhello2=No pienses que puedes alcanzar la gloria sin dar algo a cambio.
 
@@ -8000,7 +8000,7 @@ StartQuest2=Mejor regreso a Dumpain.
 
 [Quest_9610]
 StartQuest1=¿Es esto... otro estudio? Este parece diferente al anterior.
-StartQuest2=Mejor voy al Mercader Alquimista.
+StartQuest2=Mejor voy al mercader Alquimista.
 
 [//Quest_5453]
 StartQuest1=Esto es frustrante. Debería ir a encontrarme con Lunedill. No puedo razonar con la Reina.

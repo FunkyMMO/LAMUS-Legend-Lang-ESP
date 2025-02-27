@@ -101,7 +101,7 @@ Loading_94=A Nivel 65, pulsa Esc y comprueba la <font color='#FFD144'>Informaci�
 Loading_95=Pulsa Esc y consulta la <font color='#FFD144'>Guía de Crecimiento</font>. Ofrece información general sobre los contenidos del juego.
 Loading_96=Las Misiones Diarias te dan <font color='#FFD144'>Recompensas de la Misión Diaria</font>.
 Loading_97=Todos los monstruos Jefes en <font color='#FFD144'>Biblioteca de Lupa</font> siempre sueltan Joyas de Bendición.
-Loading_98=Ve al <font color='#FFD144'>Comerciante de Misiones Diarias en Ohrdor</font> para usar la Tienda de Misiones Diarias.
+Loading_98=Ve al <font color='#FFD144'>Mercader de Misiones Diarias en Ohrdor</font> para usar la Tienda de Misiones Diarias.
 Loading_99=<font color='#FFD144'>Las Recompensas de la Misión Diaria</font> pueden ser usadas para comprar una variedad de items.
 Loading_100=Los Goblins de la Rift dejan caer <font color='#FFD144'>Porystales conectados a la Biblioteca de Lupa</font>.
 Loading_101=Usa <font color='#FFD144'>Restablecer Opciones</font> para cambiar las opciones de los items.
@@ -192,15 +192,15 @@ Loading_185=El poder de una habilidad de Talismán varía, dependiendo del <font
 Loading_186=Los Talismanes de mayor grado añaden <font color='#FFD144'>mayores cantidades de Poder de Combate y Puntos de Colección</font> con cada nuevo nivel.
 Loading_187=Los efectos de la habilidad Talismán <font color='#FFD144'>mejoran continuamente, dependiendo del nivel del Talismán</font>.
 Loading_188=Sólo <font color='#FFD144'>Los personajes de nivel 70 que hayan completado la misión del Talismán</font> pueden utilizar el poder del Talismán.
-Loading_189=Sé el <font color='#FFD144'>último superviviente</font> en el Castillo del Caos.
+Loading_189=Sé el <font color='#FFD144'>último superviviente</font> en el Blood Castle.
 Loading_190=Haz un buen uso de tus habilidades de <font color='#FFD144'>Talismán</font>. Pueden marcar la diferencia en la batalla y ayudarte a <font color='#FFD144'>ganar</font>.
 Loading_191=Busca al <font color='#FFD144'>Duende Brillante</font>. Puedes conseguir de él items Brillantes con varios efectos.
-Loading_192=¡Las <font color='#FFD144'>llamas</font> del Castillo del Caos infligen grandes cantidades de daño con el tiempo! Aléjate de ellas tan rápido como puedas.
+Loading_192=¡Las <font color='#FFD144'>llamas</font> del Blood Castle infligen grandes cantidades de daño con el tiempo! Aléjate de ellas tan rápido como puedas.
 Loading_193=Puedes beneficiarte del efecto Set si equipas múltiples <font color='#FFD144'>items Set</font>.
 Loading_194=Cada continente tiene una o dos <font color='#FFD144'>Dungeons épicas</font>.
 Loading_195=Puedes usar el botón <font color='#FFD144'>Ordenar Todo</font> en la parte inferior del inventario para organizar rápidamente tus items.
-Loading_196=Puedes buscar una partida en el <font color='#FFD144'>Castillo del Caos</font> sólo a horas señaladas.
-Loading_197=Si necesitas algún item, intenta usar el <font color='#FFD144'>Comerciante</font>.
+Loading_196=Puedes buscar una partida en el <font color='#FFD144'>Blood Castle</font> sólo a horas señaladas.
+Loading_197=Si necesitas algún item, intenta usar el <font color='#FFD144'>Mercader</font>.
 Loading_198=¡Encuentra <font color='#FFD144'>participantes</font> que se unan a tu aventura! Juntos os haréis más fuertes y ganaréis más recompensas.
 Loading_199=Las misiones diarias sólo pueden completarse <font color='#FFD144'>una vez</font> al día.
 Loading_200=Usa <font color='#FFD144'>Martillos de Extracción de Joyas</font> para extraer joyas del equipo.
@@ -282,7 +282,7 @@ Scenario_42=La Biblioteca de Lupa es una Rift creada en la mente de Lupa.
 Scenario_43=Los Depredadores de la Rift en el laberinto tienen una poderosa energía de la Rift que se condensó con el tiempo.
 Scenario_44=Puedes encontrarte con seres completamente diferentes de distintas dimensiones a través de la Rift.
 Scenario_45=Una exposición prolongada a la Urdimbre de la Rift puede causar mutaciones en tu cuerpo y mente.
-Scenario_46=El Castillo del Caos es una peligrosa trampa diseñada para eliminar a los caballeros que se oponen al Pandemónium.
+Scenario_46=El Blood Castle es una peligrosa trampa diseñada para eliminar a los caballeros que se oponen al Pandemónium.
 Scenario_47=Altar de los Espíritus es un campo de pruebas para encontrar al mejor caballero de todos derrotando elementales.
 Scenario_48=Has sido seleccionado para salvar el mundo viajando a una época en la que Sekneum está dormido.
 Scenario_49=Si despiertas tu potencial a través del entrenamiento, podrás aprender una nueva habilidad.
