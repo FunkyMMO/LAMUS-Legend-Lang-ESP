@@ -1513,7 +1513,7 @@ SubAbility_DamageReflection=Reflejo de daño
 SubAbility_SkillProficiency=Dominio de habilidad
 SubAbility_GetZen=Soltar zen
 SubAbility_GetGreenZen=Ganancia de gema mágica
-SubAbility_GetRiftPoint=Ganancia de fragmento de grieta
+SubAbility_GetRiftPoint=Ganancia de fragmento de Rift
 SubAbility_GetItemChange=Cambio de Item
 SubAbility_GetMagicItemChange=Cambio de Items no comunes
 SubAbility_GetItemRootingRateRange=Radio de recogida de Items
@@ -1630,7 +1630,7 @@ SubAbility_DamageReflection=Refleja cierta cantidad de daño a tus atacantes.
 SubAbility_SkillProficiency=Aumenta tu Dominio de Habilidades más rápidamente.
 SubAbility_GetZen=Los monstruos sueltan más Zen.
 SubAbility_GetGreenZen=Los monstruos sueltan más gemas mágicas.
-SubAbility_GetRiftPoint=Los monstruos sueltan más fragmentos de grieta.
+SubAbility_GetRiftPoint=Los monstruos sueltan más fragmentos de Rift.
 SubAbility_GetItemChange=Matar a un monstruo te da más Items.
 SubAbility_GetMagicItemChange=Matar a un monstruo te da más Items poco comunes.
 SubAbility_GetItemRootingRateRange=Aumenta tu radio de recogida de Items.
@@ -2927,7 +2927,7 @@ MapIcon_2050=Altar del Viento
 MapIcon_2051=Mercader de desplazamiento
 MapIcon_2052=Puerta de la Llave de Bronce
 MapIcon_2053=Puerta con llave de oro
-MapIcon_2054=Vendedor Torre Sin Fin
+MapIcon_2054=Vendedor Endless Tower
 MapIcon_2055=Vendedor de monedas de honor
 MapIcon_2056=Vendedor de monedas de Enova
 MapIcon_2057=Comerciante de fichas de héroe
@@ -3809,7 +3809,7 @@ Dungeon_Desc_9057003=Vosotros que buscáis la sabiduría antigua: derrotad a Rug
 Dungeon_Title_9062631=Volcanic lair
 Dungeon_Desc_9062631=El dragón de fuego Valtheram, que se sacrificó al dios demonio y fue dotado de poderes capaces de derretir la tierra y hacer hervir el mar. El traidor de todos los dragones que estuvo sellado durante muchos años intenta desplegar sus alas y remontar el vuelo. Para quemar la orden que tanto odiaba.
 Dungeon_Title_9920101=Endless Tower
-Dungeon_Desc_9920101=Una inmensa torre construida por Rugard y Bulcan.<br>Se dice que aquellos que superan el reto de escalar la torre obtienen un gran poder.<br><font color='#FDD889'>* El nivel de dificultad de la Torre sin fin varía en función del número de miembros de tu grupo.</font>
+Dungeon_Desc_9920101=Una inmensa torre construida por Rugard y Bulcan.<br>Se dice que aquellos que superan el reto de escalar la torre obtienen un gran poder.<br><font color='#FDD889'>* El nivel de dificultad de la Endless Tower varía en función del número de miembros de tu grupo.</font>
 Dungeon_Title_9920201=Blood Castle
 Dungeon_Desc_9920201=Un castillo de otro mundo en el que yace dormida Anilata, la líder de los Cruzados.<br>Recientemente, ha tenido lugar una disputa, instigada por los Demonios del Pandemónium, que quieren resucitar a Anilata para mantener a raya a Rugard.<br><font color='#FDD889'>* El nivel de dificultad del Blood Castle varía en función del número de miembros de tu party.</font>
 Dungeon_Title_9040101=Hall of Awakening
@@ -4215,7 +4215,7 @@ LS_DungeonDesc_9800110=La Biblioteca de Lupa es mucho más difícil que una Rift
 LS_DungeonDesc_9050431=Las Dungeons épicas son mucho más difíciles que otras Dungeons. Se recomienda jugar en grupo.
 LS_DungeonDesc_9030331=Las Dungeons épicas son mucho más difíciles que otras Dungeons. Se recomienda jugar en grupo.
 LS_DungeonDesc_9062631=Las Dungeons épicas son mucho más difíciles que otras Dungeons. Se recomienda explorarlas en grupo.
-LS_DungeonDesc_9920101=El nivel de dificultad de la Torre sin fin varía dependiendo del <font color='#B4FE42'>número de miembros de tu grupo</font>.
+LS_DungeonDesc_9920101=El nivel de dificultad de la Endless Tower varía dependiendo del <font color='#B4FE42'>número de miembros de tu grupo</font>.
 LS_DungeonDesc_9920201=El nivel de dificultad del Castillo Sangriento varía en función del <font color='#B4FE42'>número de miembros de tu grupo</font>.
 LS_DungeonDesc_9040101=Solo puedes entrar en esta Dungeon solo,<br>no con tu grupo.
 LS_DungeonDesc_9040102=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
@@ -4663,7 +4663,7 @@ Desc2_9088401=Cuidado!! No hay puntos de resurrección en la zona del jefe.
 [MU2GFxEndlessTowerInfoWidget]
 LS_NextBtnDesc=Pasar a la siguiente fase (barra espaciadora).
 LS_Stage=Etapa
-LS_TowerStart=Empezar a subir la Torre sin Fin.
+LS_TowerStart=Empezar a subir la Endless Tower.
 LS_TowerGoUp=Vienen nuevos enemigos.
 LS_TowerGuardian=Guardián de la Torre
 LS_TowerBossDesc=¡Buena suerte!
@@ -4864,7 +4864,7 @@ LS_ColosseumScore=Puntos en la arena
 LS_TopLanker=Rango 1
 LS_CombatPowerStatue=Poder de combate, rango 1
 LS_SoulLevelStatue=Nivel del alma, rango 1
-LS_EndlessTowerStatue=Torre sin fin, rango 1
+LS_EndlessTowerStatue=Endless Tower, rango 1
 LS_ColosseumStatue=Arena rango 1
 LS_RankingStatue_NoRanker=Hola, este es un mensaje de LAMUS. <br>Esta estatua se ha erigido para marcar un nuevo capítulo de nuestra historia.
 LS_RankingStatue_CombatPower=Hola, este es un mensaje de LAMUS. <br>Esta estatua ha sido erigida para marcar un nuevo capítulo en nuestra historia. <br>En <font color='#FFFFFF'>%s_1</font>, <br><font size='20' color='#FCE7B0'>%s_2</font> ha sido clasificado en lo más alto en la categoría de Poder de Combate.<br>¡Por favor, envíanos tus felicitaciones!
@@ -8030,14 +8030,14 @@ Condition_103=1 Pilas Cargadas por acceder al juego durante 60 minutos
 Condition_104=1 Pilas Cargadas por acceder al juego durante 120 minutos
 Condition_105=1 Pilas Se cobra por acceder al juego durante 180 minutos
 Condition_106=Cargado una vez al entrar en Defensa del Dirigible
-Condition_107=Cargado una vez al entrar en la Torre Sin Fin
+Condition_107=Cargado una vez al entrar en la Endless Tower
 Condition_201=Iniciar sesión en PC Cafe para obtener 1 ficha
 Condition_202=Carga una vez después de 30 minutos de tiempo en línea (net cafés)
 Condition_203=Carga una vez después de 60 minutos de tiempo en línea (net cafés)
 Condition_204=Cargado una vez tras 120 minutos de conexión (cibercafés)
 Condition_205=Carga única tras 180 minutos de conexión (cibercafés)
 Condition_206=Cargado una vez al entrar en Aircraft defense (net cafes)
-Condition_207=Cargado una vez al entrar en la Torre Sin Fin (net cafes)
+Condition_207=Cargado una vez al entrar en la Endless Tower (net cafes)
 RarbaDesc_30102=¡Recompensa Cofre EXP x2!
 RarbaDesc_30103=Te moverás hacia atrás en el siguiente turno.
 RarbaDesc_30104=Avanzarás a doble velocidad en el siguiente turno.

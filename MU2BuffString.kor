@@ -2693,8 +2693,8 @@ Buff_1859001001=El objetivo es golpeado por el miedo e inmovilizado. Este efecto
 Buff_1859002001=Petrifica temporalmente al objetivo.
 Buff_1859005000=Disminuye el daño DoT y la Defensa cada segundo. Explota al acumularse 6 veces.
 Buff_1871014000=Refleja el daño sufrido por el objetivo en sus aliados.
-Buff_211000=La energía de la Grieta recorre su cuerpo, poniéndolo a tope. <br>Ataque +<font color='#B4FE42'>400%</font><br>Ritmo Crítico +<font color='#B4FE42'>200%</font><br>Tiempo de Enfriamiento -<font color='#B4FE42'>50%</font><br>Velocidad de Movimiento +<font color='#B4FE42'>20%</font><br>Recuperación PH/MP +<font color='#B4FE42'>100%</font>
-Buff_240000=Has puesto la Grieta a toda marcha. Obtienes una fuerza sobrehumana mientras estás en la Grieta.<br>Tu Velocidad de Movimiento fuera de la Grieta aumenta un <font color='#B4FE42'>20%</font>.
+Buff_211000=La energía de la Rift recorre su cuerpo, poniéndolo a tope. <br>Ataque +<font color='#B4FE42'>400%</font><br>Ritmo Crítico +<font color='#B4FE42'>200%</font><br>Tiempo de Enfriamiento -<font color='#B4FE42'>50%</font><br>Velocidad de Movimiento +<font color='#B4FE42'>20%</font><br>Recuperación PH/MP +<font color='#B4FE42'>100%</font>
+Buff_240000=Has puesto la Rift a toda marcha. Obtienes una fuerza sobrehumana mientras estás en la Rift.<br>Tu Velocidad de Movimiento fuera de la Rift aumenta un <font color='#B4FE42'>20%</font>.
 Buff_200000=Aumenta temporalmente el Ataque en <font color='#B4FE42'>5%</font>. Los efectos de Brillo se acumulan hasta 5 veces.
 Buff_201000=Aumenta temporalmente la Velocidad de Movimiento en <font color='#B4FE42'>5%</font> y la Velocidad de Ataque en <font color='#B4FE42'>10%</font>. Los efectos de brillo se acumulan hasta 5 veces.
 Buff_202003=Aumenta temporalmente la Recuperación de HP/MP en <font color='#B4FE42'>5%</font>. Los efectos de brillo se acumulan hasta 5 veces.
@@ -2709,9 +2709,9 @@ Buff_210000=La poderosa energía de Bulcan recorre tu cuerpo, permitiéndote sup
 Buff_214000=La poderosa energía de Bulcan permite a su objetivo superar temporalmente sus límites.
 Buff_215000=El poder del Hombre de las Nieves Resbaladizo le permite correr a una velocidad ridícula durante un tiempo.
 Buff_251000=El jugador se vuelve inmune a estados anormales durante un tiempo, e ignora la colisión con enemigos. La Velocidad de Movimiento aumenta un <font color='#B4FE42'>3%</font> adicional.
-Buff_324000=La probabilidad del jugador de obtener un objeto poco común aumenta un <font color='#B4FE42'>50%</font>. <br>La cuenta de entrada a la Grieta no se consume<br>El buff de sobrecarga de la Rift se acumula mientras el jugador se mueve entre pisos.
-Buff_325000=La probabilidad del jugador de obtener un objeto poco común aumenta un <font color='#B4FE42'>100%.</font> <br>La cuenta de entrada a la Grieta no se consume<br>La recompensa de la última carta mejora considerablemente<br>El buff de Aceleración de la Grieta se acumula a medida que el jugador se mueve entre pisos.
-Buff_326000=La probabilidad del jugador de obtener un objeto poco común aumenta en <font color='#B4FE42'><FLink:GetBuffAbilityValue>%</font>.<br>El número máximo de pisos de la Grieta aumenta en <font color='#B4FE42'>1</font><br>La recompensa de las cartas de rango mejora considerablemente<br>La cuenta de entradas de la Grieta no se consume<br>El potenciador Aceleración de la Grieta se acumula a medida que el jugador se mueve entre pisos.
+Buff_324000=La probabilidad del jugador de obtener un objeto poco común aumenta un <font color='#B4FE42'>50%</font>. <br>La cuenta de entrada a la Rift no se consume<br>El buff de sobrecarga de la Rift se acumula mientras el jugador se mueve entre pisos.
+Buff_325000=La probabilidad del jugador de obtener un objeto poco común aumenta un <font color='#B4FE42'>100%.</font> <br>La cuenta de entrada a la Rift no se consume<br>La recompensa de la última carta mejora considerablemente<br>El buff de Aceleración de la Rift se acumula a medida que el jugador se mueve entre pisos.
+Buff_326000=La probabilidad del jugador de obtener un objeto poco común aumenta en <font color='#B4FE42'><FLink:GetBuffAbilityValue>%</font>.<br>El número máximo de pisos de la Rift aumenta en <font color='#B4FE42'>1</font><br>La recompensa de las cartas de rango mejora considerablemente<br>La cuenta de entradas de la Rift no se consume<br>El potenciador Aceleración de la Rift se acumula a medida que el jugador se mueve entre pisos.
 Buff_1854006002= Aturde e inmoviliza al objetivo. Este efecto no puede cancelarse aunque el objetivo sea atacado.
 Buff_1854007001=Te envuelve en fuego, infligiendo daño continuo.
 Buff_1851005002=Disminuye la Velocidad de Movimiento del objetivo.

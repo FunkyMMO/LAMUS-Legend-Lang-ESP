@@ -1,16 +1,16 @@
 [Loading]
 Loading_1=Pulsa la <font color='#FFD144'>tecla Alt</font> para interactuar con otros jugadores o controlar la IU.
-Loading_2=Puedes obtener una gran cantidad de Gemas Mágicas de la <font color='#FFD144'>Mina de Gemas Mágicas</font> en la Sala del Deber.
-Loading_3=Puedes obtener una gran cantidad de Zen y objetos de <font color='#FFD144'>La Bóveda Secreta de Luery</font> en la Sala del Deber.
-Loading_4=<font color='#FFD144'>El Jardín de Fabrice</font> en la Sala del Deber es abundante en materiales de artesanía y pociones raras.
-Loading_5=Puedes entrar en una variedad de Mapas de Misión en la <font color='#FFD144'>Sala del Deber</font> en Ohrdor.
-Loading_6=Si superas rápidamente una fase en la <font color='#FFD144'>Torre sin fin</font>, puedes saltarte varias fases a la vez.
-Loading_7=Puedes encontrar grandes cantidades de <font color='#FFD144'>Gemas Mágicas</font> en la Grieta y en la Mina de Gemas Mágicas Warped.
+Loading_2=Puedes obtener una gran cantidad de Gemas Mágicas de la <font color='#FFD144'>Mina de Gemas Mágicas</font> en la Room of Duty.
+Loading_3=Puedes obtener una gran cantidad de Zen y objetos de <font color='#FFD144'>La Bóveda Secreta de Luery</font> en la Room of Duty.
+Loading_4=<font color='#FFD144'>El Jardín de Fabrice</font> en la Room of Duty es abundante en materiales de artesanía y pociones raras.
+Loading_5=Puedes entrar en una variedad de Mapas de Misión en la <font color='#FFD144'>Room of Duty</font> en Ohrdor.
+Loading_6=Si superas rápidamente una fase en la <font color='#FFD144'>Endless Tower</font>, puedes saltarte varias fases a la vez.
+Loading_7=Puedes encontrar grandes cantidades de <font color='#FFD144'>Gemas Mágicas</font> en la Rift y en la Mina de Gemas Mágicas Warped.
 Loading_8=Atacar mientras pulsas la <font color='#FFD144'>tecla Mayús</font> hará que <font color='#FFD144'>mantengas tu posición</font> durante los ataques.
 Loading_9=Las Dungeons <font color='#FFD144'>Épicas</font> son más duras que las de dificultad Mítica. Pruébalas cuando <font color='#FFD144'>seas lo suficientemente fuerte</font>.
 Loading_10=Subir la <font color='#FFD144'>dificultad de la Dungeon</font> aumenta significativamente tus posibilidades de obtener equipo mayor.
 Loading_11=En <font color='#FFD144'>El Castillo de Sangre</font>, puedes conseguir Fragmentos de Alma y Pociones de Alma.
-Loading_12=La <font color='#FFD144'>Torre sin fin</font> es un mapa de Misión abundante en materiales de encantamiento/Evolución de Alas. Se desbloquea en el Nivel 65.
+Loading_12=La <font color='#FFD144'>Endless Tower</font> es un mapa de Misión abundante en materiales de encantamiento/Evolución de Alas. Se desbloquea en el Nivel 65.
 Loading_13=Cuando aprendas <font color='#FFD144'>Habilidades de Experto</font>, ganarás efectos de aumento de estadísticas.
 Loading_14=<font color='#FFD144'>Las Habilidades de Experto</font> se pueden aprender en los Niveles 25, 45 y 65.
 Loading_15=Las mascotas pueden ser <font color='#FFD144'>crecidas y Evolucionadas</font> para mejorar sus habilidades.
@@ -21,13 +21,13 @@ Loading_19=Pulsa la <font color='#FFD144'>tecla F</font> para recoger todos los 
 Loading_20=<font color='#FFD144'>¡Clic derecho</font> en el minimapa! Tu personaje se moverá automáticamente.
 Loading_21=Utiliza el <font color='#FFD144'>Dispositivo Portal del Pueblo</font> para moverte al pueblo más cercano en cualquier momento.
 Loading_22=<font color='#FFD144'>Las Gemas Mágicas</font> se usan para encantar, evolucionar y comprar objetos especiales.
-Loading_23=El nivel del monstruo en la Grieta coincide con el del miembro del grupo con el <font color='#FFD144'>nivel más alto</font>.
+Loading_23=El nivel del monstruo en la Rift coincide con el del miembro del grupo con el <font color='#FFD144'>nivel más alto</font>.
 Loading_24=Puedes obtener fácilmente equipo <font color='#FFD144'>que coincida con tu nivel</font> en la Rift.
 Loading_25=Las Dungeons Épicas y el Laberinto de Lupa tienen un <font color='#FFD144'>límite de uso de «Resucitar Ahora»</font>. Usa las Piedras de Resurrección con cuidado.
-Loading_26=¡Envía la Grieta a <font color='#FFD144'>Overdrive (N)</font> y consigue grandes cantidades de Gemas Mágicas!
-Loading_27=La Grieta, mientras está en modo <font color='#FFD144'>Overdrive (N)</font>, puede ser introducida un número ilimitado de veces.
+Loading_26=¡Envía la Rift a <font color='#FFD144'>Overdrive (N)</font> y consigue grandes cantidades de Gemas Mágicas!
+Loading_27=La Rift, mientras está en modo <font color='#FFD144'>Overdrive (N)</font>, puede ser introducida un número ilimitado de veces.
 Loading_28=Si tienes suerte, puedes encontrarte con los <font color='#FFD144'>Monstruos de la Suerte Dorada</font> en algún lugar de los campos.
-Loading_29=Los Goblins de la Grieta dejan caer <font color='#FFD144'>Porystales conectados a la Biblioteca de Lupa</font>.
+Loading_29=Los Goblins de la Rift dejan caer <font color='#FFD144'>Porystales conectados a la Biblioteca de Lupa</font>.
 Loading_30=¡No olvides usar <font color='#FFD144'>Portales de Viaje</font> y tu <font color='#FFD144'>montura</font> para viajar rápidamente por el continente!
 Loading_31=Puedes resucitar inmediatamente en tu localización usando la <font color='#FFD144'>Piedra de Resurrección de la Vida</font>.
 Loading_32=Puedes vender objetos a una tienda haciendo <font color='#FFD144'>clic derecho</font> sobre ellos.
@@ -55,7 +55,7 @@ Loading_53=Antes de entrar en el Laberinto de Lupa, asegúrate de <font color='#
 Loading_54=<font color='#FFD144'>Los objetos establecidos o mejores</font> no pueden ser intercambiados entre usuarios o a través del Corredor de Comercio.
 Loading_55=<font color='#FFD144'>Pasar el ratón + Ctrl</font> sobre el icono del objeto activa la función <font color='#FFD144'>Vista Previa</font>.
 Loading_56=En la Arena IA, puedes conseguir hasta 30.000 <font color='#FFD144'>Gemas Mágicas</font> al día.
-Loading_57=<font color='#FFD144'>Los Sellos de Poder</font> que se encuentran en la Torre Sin Fin pueden usarse para comprar Piedras de Encantamiento/Evolución de Alas.
+Loading_57=<font color='#FFD144'>Los Sellos de Poder</font> que se encuentran en la Endless Tower pueden usarse para comprar Piedras de Encantamiento/Evolución de Alas.
 Loading_58=Los niveles de monstruos y dificultad aumentan <font color='#FFD144'>grandiosamente</font> en <font color='#FFD144'>Modo Mítico</font>.
 Loading_59=Puedes abrir muchos cubos a la vez a través de la función <font color='#FFD144'>Abrir Todos los Cubos</font>.
 Loading_60=Utiliza <font color='#FFD144'>Buscar Partida (P)</font> y <font color='#FFD144'>Acertar Partida Automáticamente</font> para encontrar una partida fácilmente.
@@ -74,10 +74,10 @@ Loading_72=Los Artefactos, cuando se Alquimizan, se destruyen y dejan los materi
 Loading_73=Puedes jugar Dungeons en <font color='#FFD144'>Dificultad Mítica</font> una vez hayas cumplido los requisitos de nivel.
 Loading_74=Completa misiones sencillas y consigue recompensas para impulsar tu crecimiento a través de <font color='#FFD144'>El Entrenamiento de Progresión de Linda</font>, que estará disponible cuando alcances el nivel 65.
 Loading_75=Todos los miembros del grupo deben estar en la <font color='#FFD144'>misma zona</font> para entrar en una Dungeon.
-Loading_76=Cada vez que un jugador entra en la Grieta de un continente, el medidor de <font color='#FFD144'>Desfase de la Grieta</font> del continente aumenta.
-Loading_77=Puedes comprobar el estado del indicador de la Grieta en el <font color='#FFD144'>menú de la Grieta (N)</font>.
+Loading_76=Cada vez que un jugador entra en la Rift de un continente, el medidor de <font color='#FFD144'>Desfase de la Rift</font> del continente aumenta.
+Loading_77=Puedes comprobar el estado del indicador de la Rift en el <font color='#FFD144'>menú de la Rift (N)</font>.
 Loading_78=Pulsa Esc y consulta la <font color='#FFD144'>Guía de Crecimiento</font>. Ofrece información general sobre los contenidos del juego.
-Loading_79=El <font color='#FFD144'>Indicador de la Grieta</font> aumenta más rápidamente cuando entran más jugadores en el mismo servidor.
+Loading_79=El <font color='#FFD144'>Indicador de la Rift</font> aumenta más rápidamente cuando entran más jugadores en el mismo servidor.
 Loading_80=Únete a un guild, y podrás usar <font color='#FFD144'>Contenido de guild</font>.
 Loading_81=Los miembros del Guild reciben <font color='#FFD144'>varios beneficios extra basados en el nivel del Guild y los Santuarios</font>.
 Loading_82=Puedes unirte a un guild a través del <font color='#FFD144'>menú Guild (G)</font>.
@@ -98,7 +98,7 @@ Loading_96=Las Misiones Diarias te dan <font color='#FFD144'>Recompensas de la M
 Loading_97=Todos los monstruos Jefes en <font color='#FFD144'>Biblioteca de Lupa</font> siempre sueltan Joyas de Bendición.
 Loading_98=Ve al <font color='#FFD144'>Comerciante de Misiones Diarias en Ohrdor</font> para usar la Tienda de Misiones Diarias.
 Loading_99=<font color='#FFD144'>Las Recompensas de la Misión Diaria</font> pueden ser usadas para comprar una variedad de objetos.
-Loading_100=Los Goblins de la Grieta dejan caer <font color='#FFD144'>Porystales conectados a la Biblioteca de Lupa</font>.
+Loading_100=Los Goblins de la Rift dejan caer <font color='#FFD144'>Porystales conectados a la Biblioteca de Lupa</font>.
 Loading_101=Usa <font color='#FFD144'>Restablecer Opciones</font> para cambiar las opciones de los objetos.
 Loading_102=Puedes conseguir <font color='#FFD144'>Fragmentos de Piedra Trascendente</font> desmontando equipo, los Fragmentos se usan para fabricar <font color='#FFD144'>Piedras Trascendentes</font>.
 Loading_103=<font color='#FFD144'>Las Piedras Trascendentes</font> pueden ser <font color='#FFD144'>encantadas</font> con <font color='#FFD144'>Piedras de Intensificación</font>. Las Piedras Trascendentes encantadas añaden <font color='#FFD144'>efectos de Trascendencia</font> al equipo.
@@ -161,7 +161,7 @@ Loading_159=<font color='#FFD144'>Defensa de la Nave</font> es accesible a trav�
 Loading_160=En <font color='#FFD144'>Defensa de la Nave</font>, puedes ganar <font color='#FFD144'>materiales de crecimiento Talismán</font>.
 Loading_161=<font color='#FFD144'>Alquimiza Artefactos de Nivel 100</font> para conseguir <font color='#FFD144'>Artefactos Despertados</font>.
 Loading_162=Cuando estés en el <font color='#FFD144'>Laberinto Despertado de Lupa</font>, ¡ten cuidado de no ser arrastrado a la <font color='#FFD144'>Cámara Negra</font>!
-Loading_163=¡En la <font color='#FFD144'>Torre Sin Fin</font>, consigue <font color='#FFD144'>Sellos de Trascendencia</font> y úsalos para encantar y Evolucionar Alas de Nivel 4!
+Loading_163=¡En la <font color='#FFD144'>Endless Tower</font>, consigue <font color='#FFD144'>Sellos de Trascendencia</font> y úsalos para encantar y Evolucionar Alas de Nivel 4!
 Loading_164=La <font color='#FFD144'>Bóveda Secreta Abandonada</font> a veces ofrece enormes cantidades de <font color='#FFD144'>Zen</font>.
 Loading_165=<font color='#FFD144'>Los Fragmentos Despertados</font> se pueden encontrar en <font color='#FFD144'>El Laberinto Despertado de Lupa</font>.
 Loading_166=Los Talismanes pueden ser activados en <font color='#FFD144'>Nivel 70</font> si completas las misiones necesarias.
@@ -178,7 +178,7 @@ Loading_176=Puedes <font color='#FFD144'>Romper</font> Talismanes para aumentar 
 Loading_177=<font color='#FFD144'>Los Talismanes</font> revelan su verdadero poder después de que <font color='#FFD144'>Rompas</font> sus límites.
 Loading_178=<font color='#FFD144'>Las habilidades de <font color='#FFD144'>Talismán</font> o superiores son increíblemente poderosas.
 Loading_179=La mayoría de los objetos pueden usarse como materiales para <font color='#FFD144'>subir los niveles de los Talismanes</font>.
-Loading_180=En los <font color='#FFD144'>pisos superiores de la Torre Sin Fin</font>, puedes encontrar el <font color='#FFD144'>Sello de la Trascendencia</font>, un ingrediente esencial para hacer crecer las Alas de Nivel 4.
+Loading_180=En los <font color='#FFD144'>pisos superiores de la Endless Tower</font>, puedes encontrar el <font color='#FFD144'>Sello de la Trascendencia</font>, un ingrediente esencial para hacer crecer las Alas de Nivel 4.
 Loading_181=El contenido <font color='#FFD144'>Talismán</font> puede ser desbloqueado a través de la misión Talismán Despierto en el Nivel 70.
 Loading_182=Cuando alcanzas el <font color='#FFD144'>Nivel 70</font>, se desbloquea el contenido <font color='#FFD144'>Talismán</font> y <font color='#FFD144'>Artefactos Despertados</font>.
 Loading_183=Los Pergaminos de Impronta azules o mejores promueven mejores resultados de Impronta para <font color='#FFD144'>Equipos de Nivel 66 o superior</font> que para los objetos existentes de Nivel 65.
@@ -271,12 +271,12 @@ Scenario_36=Karolsandria se convirtió en una ciudad de cadáveres debido a la m
 Scenario_37=Salormis, la cuna del Ducado Tephakin, quedó reducida a ruinas durante la invasión de Pandemonium.
 Scenario_38=Los Garudas perdieron sus tierras tras una serie de derrotas continuas, y ahora residen en su fortaleza, el Templo del Cielo.
 Scenario_39=Ciudad Tempano es un importante centro que conecta el Continente Duelden con otros continentes.
-Scenario_40=La Grieta es el paso a otras dimensiones inexploradas.
-Scenario_41=Lupa, de la Sociedad de Investigación de la Grieta Arke, puede romper dimensiones artificialmente para crear Grietas.
-Scenario_42=La Biblioteca de Lupa es una Grieta creada en la mente de Lupa.
-Scenario_43=Los Depredadores de la Grieta en el laberinto tienen una poderosa energía de la Grieta que se condensó con el tiempo.
-Scenario_44=Puedes encontrarte con seres completamente diferentes de distintas dimensiones a través de la Grieta.
-Scenario_45=Una exposición prolongada a la Urdimbre de la Grieta puede causar mutaciones en tu cuerpo y mente.
+Scenario_40=La Rift es el paso a otras dimensiones inexploradas.
+Scenario_41=Lupa, de la Sociedad de Investigación de la Rift Arke, puede romper dimensiones artificialmente para crear Rifts.
+Scenario_42=La Biblioteca de Lupa es una Rift creada en la mente de Lupa.
+Scenario_43=Los Depredadores de la Rift en el laberinto tienen una poderosa energía de la Rift que se condensó con el tiempo.
+Scenario_44=Puedes encontrarte con seres completamente diferentes de distintas dimensiones a través de la Rift.
+Scenario_45=Una exposición prolongada a la Urdimbre de la Rift puede causar mutaciones en tu cuerpo y mente.
 Scenario_46=El Castillo del Caos es una peligrosa trampa diseñada para eliminar a los caballeros que se oponen al Pandemónium.
 Scenario_47=Altar de los Espíritus es un campo de pruebas para encontrar al mejor caballero de todos derrotando elementales.
 Scenario_48=Has sido seleccionado para salvar el mundo viajando a una época en la que Sekneum está dormido.
