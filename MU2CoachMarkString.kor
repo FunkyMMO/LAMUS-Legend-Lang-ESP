@@ -8,7 +8,7 @@ Title_6000=Conseguido Porystal
 Title_7000=Obtenido Mascota
 Title_8000=Gema adquirida
 Title_9000=Ventana de habilidad
-Title_10000=Aceleración de la Grieta
+Title_10000=Aceleración de la Rift
 Title_11000=Mapa del mundo
 Title_12000=Rift
 Title_13000=Dificultad de la Dungeon
@@ -18,10 +18,10 @@ Title_16000=Gestionar logros
 Title_17000=Encantar equipo
 Title_18000=Endless Tower
 Title_19000=Desprecintar
-Title_20000=Sala del deber
+Title_20000=Room of Duty
 Title_21000=Mina de gemas mágicas
 Title_22000=Dungeon Zen
-Title_23000=Dungeon de objetos materiales
+Title_23000=Dungeon de items materiales
 Title_25000=Gestionar artefactos
 Title_26000=Artefacto obtenido
 Title_27000=Construcción
@@ -63,22 +63,22 @@ Title_68000=¡Alcanzado el nivel 80!
 Contents_1000=<font color='#FDD889'>Puedes moverte y atacar</font> haciendo clic con el botón izquierdo del ratón.<br>Haz clic con el botón izquierdo en el suelo para moverte.<br>Haz clic con el botón izquierdo en un enemigo para atacar.
 Contents_2000=Click izquierdo sobre <font color='#FDD889'>Linda</font> en la pantalla para recibir una <font color='#FDD889'>misión</font>.
 Contents_3000=Cuando aprendas una nueva habilidad, podrás equiparla y usarla en la ranura de habilidad de la parte inferior. <font color='#FDD889'>Haz clic con el botón izquierdo en la ranura de habilidad</font> para comprobar y cambiar las habilidades disponibles.
-Contents_4000=La <font color='#FDD889'>Gema mágica</font> es una moneda muy rara e importante. Sólo puedes obtenerlas de la <font color='#FDD889'>Mina de Gemas Mágicas en Ohrdor - Sala del Deber o la Grieta</font>.
+Contents_4000=La <font color='#FDD889'>Gema mágica</font> es una moneda muy rara e importante. Sólo puedes obtenerlas de la <font color='#FDD889'>Mina de Gemas Mágicas en Ohrdor - Room of Duty o la Rift</font>.
 Contents_5000=Cada vez que tu nivel de Alma aumenta, obtienes un Punto de Alma. Puedes asignar tus Puntos de Alma a varias estadísticas en el <font color='#FDD889'>Árbol de Alma (Z)</font>.
 Contents_6000=Usa Porystals para acceder a Dungeons muy especiales como la Biblioteca de Lupa y el Archivo Antiguo. Puedes usarlos directamente desde tu inventario haciendo <font color='#FDD889'>clic derecho</font> sobre ellos. Las Dungeons Porystal son más difíciles que las Dungeons normales. Entra en ellas en grupo.
 Contents_7000=Abre tu inventario y <font color='#FDD889'>haz clic con el botón derecho del ratón</font> en una mascota para registrarla en la <font color='#FDD889'>Identificación de mascotas</font>.
-Contents_8000=Haz clic con el botón derecho en una Gema y, a continuación, haz clic en un objeto de Equipo con ranura para equipar la Gema. Puedes añadir ranuras a tu equipo a través del <font color='#FDD889'>Cortador de Gemas</font> de la ciudad.
+Contents_8000=Haz clic con el botón derecho en una Gema y, a continuación, haz clic en un item de Equipo con ranura para equipar la Gema. Puedes añadir ranuras a tu equipo a través del <font color='#FDD889'>Cortador de Gemas</font> de la ciudad.
 Contents_9000=Puedes comprobar la información de una variedad de habilidades y equipar crestas de habilidades. Puedes obtener <font color='#FDD889'>Habilidades de experto en los niveles 25, 45 y 65</font>.
-Contents_10000=Cuando el medidor de sobrecarga alcanza el nivel máximo, la Rift entra en sobrecarga.<br>Cuando la Rift entra en sobrecarga, <font color='#FDD889'>el recuento de entradas de la Grieta es ilimitado</font>.
+Contents_10000=Cuando el medidor de sobrecarga alcanza el nivel máximo, la Rift entra en sobrecarga.<br>Cuando la Rift entra en sobrecarga, <font color='#FDD889'>el recuento de entradas de la Rift es ilimitado</font>.
 Contents_11000=El mapa del mundo admite <font color='#FDD889'>Movimiento automático</font>. <font color='#FDD889'>Click derecho</font> en el lugar al que quieras moverte.
-Contents_12000=La Rift tiene <font color='#FDD889'>monstruos que coinciden con el nivel del jugador</font>. Esta Dungeon es especialmente <font color='#FDD889'>abundante en objetos y Gemas Mágicas</font>.
+Contents_12000=La Rift tiene <font color='#FDD889'>monstruos que coinciden con el nivel del jugador</font>. Esta Dungeon es especialmente <font color='#FDD889'>abundante en items y Gemas Mágicas</font>.
 Contents_14000=Cada categoría de clasificación tiene una frecuencia de actualización y recompensas diferentes.<br>Puedes consultar la información de otros jugadores en la página de clasificación.
 Contents_15000=Las mascotas proporcionan estadísticas adicionales al personaje cuando crecen y evolucionan. Las mascotas que crecen requieren <font color='#FDD889'>mascotas materiales</font>.
-Contents_16000=Cuando consigas logros, obtendrás <font color='#FDD889'>Puntos de Logro, objetos y títulos</font>. Las recompensas de Grado de logros incluyen objetos raros.
-Contents_17000=<font color='#FDD889'>Las Joyas de Bendición</font> se pueden usar para encantar objetos. Se pueden encantar armas y armaduras. <br>Se necesita mucho <font color='FF0000'>Zen y Gemas Mágicas</font> para encantar.
+Contents_16000=Cuando consigas logros, obtendrás <font color='#FDD889'>Puntos de Logro, items y títulos</font>. Las recompensas de Grado de logros incluyen items raros.
+Contents_17000=<font color='#FDD889'>Las Joyas de Bendición</font> se pueden usar para encantar items. Se pueden encantar armas y armaduras. <br>Se necesita mucho <font color='FF0000'>Zen y Gemas Mágicas</font> para encantar.
 Contents_18000=La Torre Interminable consta de 150 etapas. Supera una fase <font color='#FDD889'>lo suficientemente rápido</font>, y podrás saltarte varias fases.<br>Esta función de salto de fase es útil para saltarse fases difíciles.
 Contents_19000=Si se supera el <font color='#FDD889'>límite de tiempo de 10 minutos</font>, fallas el desafío. <br>Si el tiempo de superación del Castillo de Sangre es <font color='#FDD889'>menor</font>, ¡obtendrás mayores recompensas!
-Contents_20000=La Sala del deber te lleva a varios <font color='#FDD889'>mapas de misión</font> como la Torre sin fin y el Castillo sangriento. Un mapa de misión es un campo de batalla de evento con reglas de juego y recompensas únicas.
+Contents_20000=La Room of Duty te lleva a varios <font color='#FDD889'>mapas de misión</font> como la Endless Tower y el Castillo sangriento. Un mapa de misión es un campo de batalla de evento con reglas de juego y recompensas únicas.
 Contents_21000=Derrota a los monstruos para <font color='#FDD889'>llenar el Medidor de Trenta</font> y pasar a la siguiente planta.<br>Puedes obtener <font color='#FDD889'>un gran número de Gemas Mágicas</font> en la Mina de Gemas Mágicas.
 Contents_22000=Derrota monstruos para <font color='#FDD889'>llenar el Medidor de Trenta</font> y pasar a la siguiente planta.<br>Puedes obtener <font color='#FDD889'>una gran cantidad de Zen</font> en la Bóveda Secreta.
 Contents_23000=Caza monstruos y <font color='#FDD889'>llena el medidor de Trenta</font> para pasar a la siguiente planta.<br>Este jardín es <font color='#FDD889'>abundante en materiales de artesanía y pociones raras</font>.
@@ -98,19 +98,24 @@ Contents_41000=El objetivo del modo Invasión de Monstruos es proteger las 3 pie
 Contents_42000=El objetivo del modo Asalto al jefe de campo es <font color='FDD889'>eliminar al monstruo jefe dentro del tiempo límite</font>. El monstruo Raid Boss huye cuando pierde HP. Puedes detener su huida infligiéndole un gran daño.
 Contents_43000=El objetivo del modo Incursión del Jefe de Campo es <font color='FDD889'>eliminar al monstruo jefe dentro del límite de tiempo</font>. El monstruo Raid Boss huye cuando pierde HP. Puedes detener su huida infligiéndole un gran daño.
 Contents_44000=El objetivo del modo Incursión del Jefe de Campo es <font color='FDD889'>eliminar al monstruo jefe dentro del límite de tiempo</font>. El monstruo Raid Boss huye cuando pierde HP. Puedes detener su huida infligiéndole un gran daño.
+<<<<<<< HEAD
 Contents_45000=En el modo cooperativo 3:3, gana el equipo que consiga más puntos de muerte que el otro dentro del límite de tiempo.<br>Los ganadores obtienen <font color='FDD889'>Fichas de luchador</font>, que pueden canjearse por otros recursos del juego a través del Mercader PvP de Ohrdor.
 Contents_47000=<br>- <font color='#FDD889'>Múltiples Monstruos Jefes</font> aparecen en el Pozo de los Muertos!<br>- Supera cada fase rápidamente para tener la oportunidad de conocer al <font color='#FDD889'>Comerciante Negro</font>, ¡que vende objetos raros!
+=======
+Contents_45000=En el modo cooperativo 3:3, gana el equipo que consiga más puntos de muerte que el otro dentro del límite de tiempo.<br>Los ganadores obtienen <font color='FDD889'>Fichas de luchador</font>, que pueden canjearse por otros recursos del juego a través del comerciante PvP de Ohrdor.
+Contents_47000=<br>- <font color='#FDD889'>Múltiples Monstruos Jefes</font> aparecen en el Pozo de los Muertos!<br>- Supera cada fase rápidamente para tener la oportunidad de conocer al <font color='#FDD889'>Comerciante Negro</font>, ¡que vende items raros!
+>>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
 Contents_48000=Has obtenido un <font color='#FDD889'>Artefacto Despertado</font>. Los Artefactos Despertados pueden cultivarse a través del <font color='#FDD889'>Laberinto Despertado</font>.
 Contents_49000=Has entrado en la <font color='#FDD889'>Defensa de la Aeronave</font>.<br>¡Utiliza tus <font color='#FDD889'>habilidades de Talismán</font> y protege la aeronave!
 Contents_53000=Los <font color='#FDD889'>Antiguos Artefactos, Talismanes</font><font color='#FDD889'>, han sido desbloqueados.<br>Pulsa el botón <font color='#FDD889'>Detalles</font> para más detalles.
 Contents_54000=Crea y cultiva <font color='#FDD889'>Talismanes</font> para conseguir Puntos de Libro.<br>Tu Nivel de Libro aumenta a medida que ganas Puntos de Libro, y las estadísticas de tu personaje mejoran significativamente.
 Contents_55000=<font color='#FDD889'>Núcleos de Talismán</font> son los principales recursos utilizados para fabricar y atravesar Talismanes.<br>Puedes fabricar y atravesar Talismanes a través de <,> en la IU del Libro de Talismanes.
-Contents_56000=Puedes obtener <font color='#FDD890'>objetos útiles</font> a partir de materiales que hayas extraído de <font color='#FDD890'>Cubos</font>.
-Contents_57000=Puedes obtener <font color='#FDD890'>objetos útiles</font> de los materiales que extrajiste de <font color='#FDD890'>Cubos</font>.
+Contents_56000=Puedes obtener <font color='#FDD890'>items útiles</font> a partir de materiales que hayas extraído de <font color='#FDD890'>Cubos</font>.
+Contents_57000=Puedes obtener <font color='#FDD890'>items útiles</font> de los materiales que extrajiste de <font color='#FDD890'>Cubos</font>.
 Contents_58000=¡Puedes aprender una <font color='#FDD889'>nueva Habilidad de Experto!</font><br>- Has adquirido una <font color='#FDD889'>nueva Habilidad de Experto</font>.<br>- Abre tu <font color='#FDD889'>ventana de Habilidad (K)</font> para comprobarlo.
 Contents_59000=¡Puedes aprender una <font color='#FDD889'>nueva Habilidad de Experto!</font><br>- Has adquirido una <font color='#FDD889'>nueva Habilidad de Experto</font>.<br>- Abre tu <font color='#FDD889'>Ventana de Habilidad (K)</font> para comprobarlo.
 Contents_60000=¡Felicidades! <font color='#FDD889'>¡Has alcanzado el Nivel 65!</font><br>- Has adquirido una <font color='#FDD889'>nueva Ranura de Habilidad Experto</font>. <br>- Has recibido el potenciador <font color='#FDD889'>Brote Creciente</font>. <br>- Puedes aprender fácilmente cómo progresar a través de <font color='#FDD889'>Entrenamiento de Progresión de Linda</font>.<br>- Pulsa el botón <font color='#FDD889'>Detalles</font> para ver más información.
-Contents_61000=<font color='#FDD889'>Ohrdor</font> ofrece todas las comodidades que puedas pedir!<br>- Podrás disfrutar de varios Mapas de Misión en la <font color='#FDD889'>Sala del Deber</font>.
+Contents_61000=<font color='#FDD889'>Ohrdor</font> ofrece todas las comodidades que puedas pedir!<br>- Podrás disfrutar de varios Mapas de Misión en la <font color='#FDD889'>Room of Duty</font>.
 Contents_62000=<font color='#FDD889'>¡Has conseguido un artefacto!</font><br>- <font color='#FDD889'>Los artefactos</font> pueden aumentar significativamente tu progreso. Cada tipo ofrece un efecto diferente.<br>- Pulsa el botón <font color='#FDD889'>Detalles</font> para obtener más información.
 Contents_63000=¡Felicidades! <font color='#FDD889'>¡Has alcanzado el nivel 70!</font><br>- Ahora puedes adquirir un <font color='#FDD889'>Talismán.</font><br>- Ahora puedes probar suerte en <font color='#FDD889'>El Laberinto Despertado de Lupa</font>. <br>- Ahora puedes acceder al <font color='#FDD889'>Centro de Entrenamiento de Iris</font>.<br>- Pulsa el botón <font color='#FDD889'>Detalles</font> para obtener más información.
 Contents_64000=<font color='#FDD889'>¡Comienza tu aventura en Noria!</font><br>- ¿Has estado tomando el <font color='#FDD889'>Entrenamiento de Progresión de Linda?</font><br>- ¿Has equipado tus <font color='#FDD889'>Artefactos?</font>? <br>- El nivel de dificultad aumentará en Noria. ¡Asegúrate de estar completamente preparado!
@@ -127,8 +132,8 @@ Content_Text_1=- Haz clic con el botón derecho del ratón en un lugar del minim
 Content_GuideLink_1=1001001
 Content_Image_1=SuperGuía_01
 Content_Title_2=Recogida automática
-Content_SubTitle_2=Puedes recoger todos los objetos cercanos a la vez.
-Content_Text_2=- Si pulsas la tecla F cerca de un objeto caído, recogerás todos los objetos cercanos.
+Content_SubTitle_2=Puedes recoger todos los items cercanos a la vez.
+Content_Text_2=- Si pulsas la tecla F cerca de un item caído, recogerás todos los items cercanos.
 Content_GuideLink_2=1001002
 Content_Image_2=SuperGuía_02
 Content_Title_3=Alt y Mayúsculas
@@ -146,12 +151,12 @@ Content_GuideLink_1=1003002
 Content_Image_1=SuperGuía_04
 Content_Title_2=Metrópolis Ohrdor
 Content_SubTitle_2=Ohrdor, la ciudad más grande del continente MU, ofrece todas las comodidades posibles.
-Content_Text_2=- Puedes jugar varios mapas de Misión en la Sala del Deber en Ohrdor.<br>- Puedes aprender habilidades de Experto, usar el Corredor de Comercio, y conocer al Gerente del Guild.
+Content_Text_2=- Puedes jugar varios mapas de Misión en la Room of Duty en Ohrdor.<br>- Puedes aprender habilidades de Experto, usar el Corredor de Comercio, y conocer al Gerente del Guild.
 Content_GuideLink_2=1023001
 Content_Image_2=SuperGuía_05
 Content_Title_3=Jardín de Fabrice
 Content_SubTitle_3=El Jardín de Fabrice está optimizado para el cultivo de materiales.
-Content_Text_3=- Es accesible a través de la Sala del Deber en Ohrdor.<br>- Es abundante en materiales y pociones de alto grado.
+Content_Text_3=- Es accesible a través de la Room of Duty en Ohrdor.<br>- Es abundante en materiales y pociones de alto grado.
 Content_GuideLink_3=1023006
 Content_Image_3=SuperGuía_14
 
@@ -182,12 +187,12 @@ Content_GuideLink_1=1019004
 Content_Image_1=SuperGuía_13
 Content_Title_2=Laberinto de Lupa
 Content_SubTitle_2=Contenido de Crecimiento de Artefacto
-Content_Text_2=- El Laberinto de Lupa es un mapa de Misión único cuya dificultad se puede elegir entre 100 niveles diferentes.<br>- Se puede acceder a él a través de la Sala del Deber en Ohrdor.<br>- Puedes crear y hacer crecer artefactos a través del Laberinto de Lupa.
+Content_Text_2=- El Laberinto de Lupa es un mapa de Misión único cuya dificultad se puede elegir entre 100 niveles diferentes.<br>- Se puede acceder a él a través de la Room of Duty en Ohrdor.<br>- Puedes crear y hacer crecer artefactos a través del Laberinto de Lupa.
 Content_GuideLink_2=1023007
 Content_Image_2=SuperGuía_11
-Content_Title_3=Torre sin fin
+Content_Title_3=Endless Tower
 Content_SubTitle_3=¡Crece tus alas!
-Content_Text_3=- La Torre sin fin consta de 150 plantas y tiene un nivel de dificultad alto.<br>- Explora la Torre sin fin y consigue Sellos de poder y Sellos de trascendencia, que se pueden cambiar por objetos para hacer crecer las alas a través del NPC mercader de la Torre sin fin en Ohrdor.
+Content_Text_3=- La Endless Tower consta de 150 plantas y tiene un nivel de dificultad alto.<br>- Explora la Endless Tower y consigue Sellos de poder y Sellos de trascendencia, que se pueden cambiar por items para hacer crecer las alas a través del NPC mercader de la Endless Tower en Ohrdor.
 Content_GuideLink_3=1023002
 Content_Image_3=SuperGuía_06
 
@@ -223,7 +228,7 @@ Content_GuideLink_2=1048001
 Content_Image_2=SuperGuía_21
 Content_Title_3=El Laberinto Despertado de Lupa
 Content_SubTitle_3=Laberinto más poderoso
-Content_Text_3=- El Laberinto Despertado de Lupa consta de un total de 50 niveles y tiene un nivel de dificultad muy alto.<br>- Es accesible desde la Sala del Deber, igual que su versión normal.<br>- ¡Crea y haz crecer Artefactos Despertados!
+Content_Text_3=- El Laberinto Despertado de Lupa consta de un total de 50 niveles y tiene un nivel de dificultad muy alto.<br>- Es accesible desde la Room of Duty, igual que su versión normal.<br>- ¡Crea y haz crecer Artefactos Despertados!
 Content_GuideLink_3=1023009
 Content_Image_3=SuperGuía_22
 
@@ -266,17 +271,17 @@ Content_Image_3=SuperGuía_28
 [SuperGuide_62000]
 SuperGuideTitle=¡Has adquirido un Artefacto!
 Content_Title_1=Artefactos
-Content_SubTitle_1=Poderosos objetos de crecimiento
+Content_SubTitle_1=Poderosos items de crecimiento
 Content_Text_1=- ¡Has recibido un Artefacto de Kundun!<br>- Hay varios tipos de Artefactos. Cada Artefacto tiene un efecto poderoso.<br>- Abre la ventana de Artefactos (X) para comprobar y elaborar Artefactos.
 Content_GuideLink_1=1024001
 Content_Image_1=SuperGuía_12
 Content_Title_2=Laberinto de Lupa
 Content_SubTitle_2=Contenido de crecimiento de artefactos
-Content_Text_2=- El Laberinto de Lupa es un Mapa de Misión único con hasta 100 niveles de dificultad.<br>- ¡Derrota al Depredador de la Grieta del Laberinto y gana EXP de Artefacto! <br>- El Laberinto de Lupa se encuentra en la Sala del Deber.
+Content_Text_2=- El Laberinto de Lupa es un Mapa de Misión único con hasta 100 niveles de dificultad.<br>- ¡Derrota al Depredador de la Rift del Laberinto y gana EXP de Artefacto! <br>- El Laberinto de Lupa se encuentra en la Room of Duty.
 Content_GuideLink_2=1023007
 Content_Image_2=SuperGuía_11
 Content_Title_3=Alquimia de artefactos
-Content_SubTitle_3=Adquirir objetos de artefactos
+Content_SubTitle_3=Adquirir items de artefactos
 Content_Text_3=- Los artefactos a partir de ciertos niveles se pueden procesar mediante alquimia. <br>- La alquimia de artefactos puede producir materiales muy valiosos.
 Content_GuideLink_3=1024004
 Content_Image_3=SuperGuía_29
@@ -295,15 +300,15 @@ Content_GuideLink_2=1024006
 Content_Image_2=Coach_30
 Content_Title_3=Centro de entrenamiento de Iris
 Content_SubTitle_3=Un lugar de aprendizaje para un crecimiento acelerado
-Content_Text_3=- Puedes ganar EXP de Alma rápidamente en el Centro de Entrenamiento de Iris en Ethedrean.<br>- Recoge Fichas de Iris para comprar varios objetos para tu aventura.
+Content_Text_3=- Puedes ganar EXP de Alma rápidamente en el Centro de Entrenamiento de Iris en Ethedrean.<br>- Recoge Fichas de Iris para comprar varios items para tu aventura.
 Content_GuideLink_3=1049003
 Content_Image_3=SuperGuía_30
 
 [SuperGuide_68000]
 SuperGuideTitle=¡Felicidades por alcanzar el nivel 80!
-Content_Title_1=Sala del deber
+Content_Title_1=Room of Duty
 Content_SubTitle_1=Varios mapas de misiones
-Content_Text_1=- La Sala del Deber ofrece varios Mapas de Misión como la Torre Interminable y el Laberinto de Lupa. <br>- Puedes hacer crecer a tu personaje sin fin a través de los Mapas de Misión.
+Content_Text_1=- La Room of Duty ofrece varios Mapas de Misión como la Torre Interminable y el Laberinto de Lupa. <br>- Puedes hacer crecer a tu personaje sin fin a través de los Mapas de Misión.
 Content_GuideLink_1=1023001
 Content_Image_1=SuperGuía_26
 Content_Title_2=Dungeons Épicas y Míticas
