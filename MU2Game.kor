@@ -1468,7 +1468,7 @@ LS_Element=Atributo
 LS_Grade=Grado
 LS_Size=Tamaño
 LS_Type=Tipo
-LS_DamageReport=Informe de daños
+LS_DamageReport=Informe de DPS
 LS_MyAccountLevelBuff=Efectos del nivel de mi cuenta
 LS_AccountLevelNoBuff=Sin efectos de nivel de cuenta.
 LS_AddDamage=+ %s_1
@@ -5334,7 +5334,7 @@ LS_ProtectedTicket_Description=Para usar Billetes de Salvaguardia, haga clic en 
 LS_DamageReportString=Informe de DPS
 LS_DetailInfoString=Detalles
 LS_NotifyMessage=Resultados de batalla.
-LS_OpenDialogCheckBoxString=Ver resultado de DPS al salir de las Dungeons
+LS_OpenDialogCheckBoxString=Ver informe de DPS al salir de Dungeons
 
 [MU2GFxDamageReport_DamageReport]
 LS_MyDamageString=Daño infligido a enemigos
