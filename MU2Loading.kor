@@ -53,7 +53,7 @@ Loading_51=Las Dungeons Épicas son extremadamente difíciles. Te recomendamos q
 Loading_52=Antes de entrar en el Laberinto de Lupa, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
 Loading_53=Antes de entrar en el Laberinto de Lupa, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
 Loading_54=<font color='#FFD144'>Los items establecidos o mejores</font> no pueden ser intercambiados entre usuarios o a través del Corredor de Comercio.
-Loading_55=<font color='#FFD144'>Pasar el ratón + Ctrl</font> sobre el icono del objeto activa la función <font color='#FFD144'>Vista Previa</font>.
+Loading_55=<font color='#FFD144'>Pasar el ratón + Ctrl</font> sobre el icono del item activa la función <font color='#FFD144'>Vista Previa</font>.
 Loading_56=En la Arena IA, puedes conseguir hasta 30.000 <font color='#FFD144'>Gemas Mágicas</font> al día.
 Loading_57=<font color='#FFD144'>Los Sellos de Poder</font> que se encuentran en la Endless Tower pueden usarse para comprar Piedras de Encantamiento/Evolución de Alas.
 Loading_58=Los niveles de monstruos y dificultad aumentan <font color='#FFD144'>grandiosamente</font> en <font color='#FFD144'>Modo Mítico</font>.
@@ -63,7 +63,7 @@ Loading_61=Cuando <font color='#FFD144'>subas</font> las alas a nivel 10, podrá
 Loading_62=Hay <font color='#FFD144'>Mascotas invocadas</font> y <font color='#FFD144'>Mascotas camaradas</font>. Es bueno hacer crecer ambos tipos de mascotas.
 Loading_63=Cuantas más mascotas tengas, más beneficios tendrás (<font color='#FFD144'>Efectos de las mascotas camaradas, bonus de Poder de Combate, etc.</font>).
 Loading_64=Si estás en un lugar inaccesible, puedes usar <font color='#FFD144'>Escape de Emergencia</font> para moverte a la entrada del mapa.
-Loading_65=Cada <font color='#FFD144'>Cubo</font> puede generar un objeto hasta 3 veces. ¿Y adivina qué? ¡La primera vez es gratis!
+Loading_65=Cada <font color='#FFD144'>Cubo</font> puede generar un item hasta 3 veces. ¿Y adivina qué? ¡La primera vez es gratis!
 Loading_66=Utiliza la opción <font color='#FFD144'>Cambiar Habilidad</font> para el crecimiento estratégico de tu personaje.
 Loading_67=Equipa <font color='#FFD144'>Joyas y Piedras del Alma</font> para mejorar las habilidades de tu personaje.
 Loading_68=Puedes recoger materiales <font color='#FFD144'>Joyas y Piedras del Alma</font> de monstruos en Dungeons y otros lugares de caza.
@@ -121,7 +121,7 @@ Loading_119=Para ganar el derecho a luchar por el territorio que deseas, <font c
 Loading_120=El guild que ocupe el territorio sólo tendrá que participar en la <font color='#FFD144'>ronda final</font> del siguiente torneo. Conveniente, ¿verdad?
 Loading_121=No tienes que presentarte para competir por los territorios que ya posees. Entonces puedes intentar hacerte con un <font color='#FFD144'>nuevo territorio</font>.
 Loading_122=Durante cada torneo, sólo puedes solicitar <font color='#FFD144'>un territorio</font>.
-Loading_123=<font color='#FFD144'>Fusiona equipo</font> y consigue un objeto con la opción <font color='#FFD144'>Bono de Daño Humanoide</font>.
+Loading_123=<font color='#FFD144'>Fusiona equipo</font> y consigue un item con la opción <font color='#FFD144'>Bono de Daño Humanoide</font>.
 Loading_124=<font color='#FFD144'>Los torneos de territorios de 1 estrella</font> se disputan 5 contra 5. Es decir, ¡sólo necesitas 5 miembros para tener la oportunidad de ocupar un territorio!
 Loading_125=<font color='#FFD144'>Los torneos de territorios de 3 estrellas</font> se disputan 20 contra 20. Será mejor que cubras todas las bases para estos combates.
 Loading_126=Los combates <font color='#FFD144'>preliminares</font> del Torneo se celebran en el <font color='#FFD144'>Campo de Batalla del Cielo</font>. Concéntrate en los <font color='#FFD144'>cristales</font> que aparecen por el campo de batalla.
@@ -195,7 +195,7 @@ Loading_193=Puedes beneficiarte del efecto Set si equipas múltiples <font color
 Loading_194=Cada continente tiene una o dos <font color='#FFD144'>Dungeons épicas</font>.
 Loading_195=Puedes usar el botón <font color='#FFD144'>Ordenar Todo</font> en la parte inferior del inventario para organizar rápidamente tus items.
 Loading_196=Puedes buscar una partida en el <font color='#FFD144'>Castillo del Caos</font> sólo a horas señaladas.
-Loading_197=Si necesitas algún objeto, intenta usar el <font color='#FFD144'>Comerciante</font>.
+Loading_197=Si necesitas algún item, intenta usar el <font color='#FFD144'>Comerciante</font>.
 Loading_198=¡Encuentra <font color='#FFD144'>participantes</font> que se unan a tu aventura! Juntos os haréis más fuertes y ganaréis más recompensas.
 Loading_199=Las misiones diarias sólo pueden completarse <font color='#FFD144'>una vez</font> al día.
 Loading_200=Usa <font color='#FFD144'>Martillos de Extracción de Joyas</font> para extraer joyas del equipo.
@@ -229,7 +229,7 @@ Loading_227=Entre los visitantes del famoso lugar de los cerezos en flor hay un 
 Loading_228=<font color='#FFD144'>La defensa del avión</font> solo puede ser desafiada por guardianes de <font color='#FFD144'>Lv. 80</font> y superiores.
 Loading_229=<font color='#FFD144'>La defensa de la aeronave</font> puede ser desafiada en <font color='#FFD144'>Ohrdor - puerto de los caballeros</font>.
 Loading_230=<font color='#FFD144'>La defensa de aeronave dificultad 2</font> puede hacerte ganar <font color='#FFD144'>más piedras mágicas y materiales de crecimiento de talismanes</font>.
-Loading_231=En <font color='#FFD144'>defensa aérea</font>, por baja probabilidad, puedes adquirir un objeto <font color='#FFD144'>vista de gerente</font>.
+Loading_231=En <font color='#FFD144'>defensa aérea</font>, por baja probabilidad, puedes adquirir un item <font color='#FFD144'>vista de gerente</font>.
 
 [Scenario]
 Scenario_1=Pandemonium es el mundo al que el dios demonio Sekneum fue exiliado por el Creador Akneria.

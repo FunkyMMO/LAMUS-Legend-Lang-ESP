@@ -2854,7 +2854,7 @@ LS_EquipItem=Equipar
 LS_EquipItemOff=Desequipar
 LS_UseItem=Utilizar
 LS_DivideItem=Dividir
-LS_TeardownItem=Desmantelar
+LS_TeardownItem=Reciclar
 LS_ThrowItem=Desechar
 LS_ReDo=Deshacer
 LS_Revial=Utilizar
@@ -7699,12 +7699,12 @@ LS_AllClear=Limpiado todo
 
 [MU2GFxExtractEmotion]
 LS_TitleStr=Extraer éter
-LS_DescriptionStr=Desmantelar materiales y Piezas de Alma para obtener Energía de Éter.
+LS_DescriptionStr=Reciclar materiales y Piezas de Alma para obtener Energía de Éter.
 LS_EmotionPointStr=Energía de éter
-LS_ItemDecompositionStr=Desmantelar Item
+LS_ItemDecompositionStr=Reciclar Item
 LS_EjectAllStr=Retirar todo
 LS_SuccessExtractEmotion=Energía de éter obtenida.
-LS_CostDescriptionText=¿Desmantelar los elementos y <font color = '#ff0000'>obtener</font> la energía de éter a continuación?
+LS_CostDescriptionText=¿Reciclar los elementos y <font color = '#ff0000'>obtener</font> la energía de éter a continuación?
 
 [MU2GFxGetEmotionBox]
 LS_TitleStr=Forja del alma

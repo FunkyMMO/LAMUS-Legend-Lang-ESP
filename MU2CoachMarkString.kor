@@ -67,7 +67,7 @@ Contents_4000=La <font color='#FDD889'>Gema mágica</font> es una moneda muy rar
 Contents_5000=Cada vez que tu nivel de Alma aumenta, obtienes un Punto de Alma. Puedes asignar tus Puntos de Alma a varias estadísticas en el <font color='#FDD889'>Árbol de Alma (Z)</font>.
 Contents_6000=Usa Porystals para acceder a Dungeons muy especiales como la Biblioteca de Lupa y el Archivo Antiguo. Puedes usarlos directamente desde tu inventario haciendo <font color='#FDD889'>clic derecho</font> sobre ellos. Las Dungeons Porystal son más difíciles que las Dungeons normales. Entra en ellas en grupo.
 Contents_7000=Abre tu inventario y <font color='#FDD889'>haz clic con el botón derecho del ratón</font> en una mascota para registrarla en la <font color='#FDD889'>Identificación de mascotas</font>.
-Contents_8000=Haz clic con el botón derecho en una Gema y, a continuación, haz clic en un objeto de Equipo con ranura para equipar la Gema. Puedes añadir ranuras a tu equipo a través del <font color='#FDD889'>Cortador de Gemas</font> de la ciudad.
+Contents_8000=Haz clic con el botón derecho en una Gema y, a continuación, haz clic en un item de Equipo con ranura para equipar la Gema. Puedes añadir ranuras a tu equipo a través del <font color='#FDD889'>Cortador de Gemas</font> de la ciudad.
 Contents_9000=Puedes comprobar la información de una variedad de habilidades y equipar crestas de habilidades. Puedes obtener <font color='#FDD889'>Habilidades de experto en los niveles 25, 45 y 65</font>.
 Contents_10000=Cuando el medidor de sobrecarga alcanza el nivel máximo, la Rift entra en sobrecarga.<br>Cuando la Rift entra en sobrecarga, <font color='#FDD889'>el recuento de entradas de la Rift es ilimitado</font>.
 Contents_11000=El mapa del mundo admite <font color='#FDD889'>Movimiento automático</font>. <font color='#FDD889'>Click derecho</font> en el lugar al que quieras moverte.
@@ -128,7 +128,7 @@ Content_GuideLink_1=1001001
 Content_Image_1=SuperGuía_01
 Content_Title_2=Recogida automática
 Content_SubTitle_2=Puedes recoger todos los items cercanos a la vez.
-Content_Text_2=- Si pulsas la tecla F cerca de un objeto caído, recogerás todos los items cercanos.
+Content_Text_2=- Si pulsas la tecla F cerca de un item caído, recogerás todos los items cercanos.
 Content_GuideLink_2=1001002
 Content_Image_2=SuperGuía_02
 Content_Title_3=Alt y Mayúsculas

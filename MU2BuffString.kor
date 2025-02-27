@@ -2317,7 +2317,7 @@ Buff_7883000=Aumenta temporalmente HP.
 Buff_7884000=La velocidad de movimiento aumenta mientras exista el buff
 Buff_7885000=La velocidad de movimiento disminuye mientras existe el buff
 Buff_7886000=La velocidad de movimiento y ataque disminuye mientras existe el buff
-Buff_7887000=La velocidad de movimiento y ataque disminuye, el objeto no caerá mientras exista el buff
+Buff_7887000=La velocidad de movimiento y ataque disminuye, el item no caerá mientras exista el buff
 Buff_7888000=<font color='#FE6D03'>El debilitamiento se aplica durante un periodo de tiempo </font><br>Disminuye la velocidad de movimiento<br>Disminuye el ataque<br>No se obtienen items<br>No se puede ganar EXP de alma
 Buff_7890000=Aumenta la EXP de alma de caza en un 15%.
 Buff_7891000=Aumenta la EXP de alma de caza un 20%.
@@ -2363,7 +2363,7 @@ Buff_2238000=El dulce sabor de la manzana permanece en tu boca. Proporciona pode
 Buff_2253000=Aumenta el Ataque en 500 y la Velocidad de Movimiento en un 7% durante 10 minutos.¶Este efecto persiste hasta la muerte.
 Buff_2254000=Aumenta el Ataque de Demonio en 1.500 y reduce el Daño de Demonio en un 15% durante 10 minutos.
 Buff_2255000=Aumenta el Ataque Humano un 30% y reduce el Daño Humano un 30% durante 5 minutos.
-Buff_8601000=Restaura la durabilidad del objeto seleccionado.
+Buff_8601000=Restaura la durabilidad del item seleccionado.
 Buff_8602000=Restaura la durabilidad de todos los items equipados.
 Buff_8901000=Aumenta la Velocidad de Movimiento en <font color='#B4FE42'>50%</font> al montar.
 Buff_8911000=Aumenta la Velocidad de Movimiento en <font color='#B4FE42'>100%</font> al montar.
@@ -2709,9 +2709,9 @@ Buff_210000=La poderosa energía de Bulcan recorre tu cuerpo, permitiéndote sup
 Buff_214000=La poderosa energía de Bulcan permite a su objetivo superar temporalmente sus límites.
 Buff_215000=El poder del Hombre de las Nieves Resbaladizo le permite correr a una velocidad ridícula durante un tiempo.
 Buff_251000=El jugador se vuelve inmune a estados anormales durante un tiempo, e ignora la colisión con enemigos. La Velocidad de Movimiento aumenta un <font color='#B4FE42'>3%</font> adicional.
-Buff_324000=La probabilidad del jugador de obtener un objeto poco común aumenta un <font color='#B4FE42'>50%</font>. <br>La cuenta de entrada a la Rift no se consume<br>El buff de sobrecarga de la Rift se acumula mientras el jugador se mueve entre pisos.
-Buff_325000=La probabilidad del jugador de obtener un objeto poco común aumenta un <font color='#B4FE42'>100%.</font> <br>La cuenta de entrada a la Rift no se consume<br>La recompensa de la última carta mejora considerablemente<br>El buff de Aceleración de la Rift se acumula a medida que el jugador se mueve entre pisos.
-Buff_326000=La probabilidad del jugador de obtener un objeto poco común aumenta en <font color='#B4FE42'><FLink:GetBuffAbilityValue>%</font>.<br>El número máximo de pisos de la Rift aumenta en <font color='#B4FE42'>1</font><br>La recompensa de las cartas de rango mejora considerablemente<br>La cuenta de entradas de la Rift no se consume<br>El potenciador Aceleración de la Rift se acumula a medida que el jugador se mueve entre pisos.
+Buff_324000=La probabilidad del jugador de obtener un item poco común aumenta un <font color='#B4FE42'>50%</font>. <br>La cuenta de entrada a la Rift no se consume<br>El buff de sobrecarga de la Rift se acumula mientras el jugador se mueve entre pisos.
+Buff_325000=La probabilidad del jugador de obtener un item poco común aumenta un <font color='#B4FE42'>100%.</font> <br>La cuenta de entrada a la Rift no se consume<br>La recompensa de la última carta mejora considerablemente<br>El buff de Aceleración de la Rift se acumula a medida que el jugador se mueve entre pisos.
+Buff_326000=La probabilidad del jugador de obtener un item poco común aumenta en <font color='#B4FE42'><FLink:GetBuffAbilityValue>%</font>.<br>El número máximo de pisos de la Rift aumenta en <font color='#B4FE42'>1</font><br>La recompensa de las cartas de rango mejora considerablemente<br>La cuenta de entradas de la Rift no se consume<br>El potenciador Aceleración de la Rift se acumula a medida que el jugador se mueve entre pisos.
 Buff_1854006002= Aturde e inmoviliza al objetivo. Este efecto no puede cancelarse aunque el objetivo sea atacado.
 Buff_1854007001=Te envuelve en fuego, infligiendo daño continuo.
 Buff_1851005002=Disminuye la Velocidad de Movimiento del objetivo.
