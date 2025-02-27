@@ -2903,7 +2903,7 @@ Region_409=Demon conquest area
 GuideDungeonType_0=Dungeon
 GuideDungeonType_1=Mapa de misión
 ContentsName_1=Rift
-ContentsName_8=Dungeon Mítica
+ContentsName_8=Dungeons Míticas
 ContentsName_9=Sanctum of Dragon Knights
 ContentsName_10=Dragon's Haven
 ContentsName_2=Fabrice's Garden
@@ -2914,7 +2914,7 @@ ContentsName_6=Endless Tower
 ContentsName_7=Lupa's Labyrinth
 ContentsName_11=Field Overdrive
 ContentsName_12=AI Arena
-ContentsName_13=Modo cooperativo 3:3
+ContentsName_13=Modo Cooperativo 3:3
 ContentsName_14=Pit of the Dead
 ContentsName_1000=Misión de Dukan
 ContentsName_2000=Misión de Jonathan
@@ -3423,9 +3423,9 @@ ContentsName_60000=Duty of Etramu
 ContentsName_25=Cave of Vulcan
 ContentsName_26=Crystal rock altar
 ContentsName_27=Volcanic lair
-ContentsName_28=The boiling abyss of corruption
-ContentsName_29=The coagulated abyss of blood
-ContentsName_30=Armored sheath
+ContentsName_28=Boiling Abyss of Corruption
+ContentsName_29=Coagulated Aabyss of Blood
+ContentsName_30=Armored Sheath
 ContentsDesc_25=Una cueva sagrada que alberga 'El noble corazón del rey dragón', su propia esencia que el rey dragón Kaizel presentó a Vulcano y se dice que Drakans fue creado aquí. Los no cualificados no pueden entrar nunca en este santuario, y se dice que a los no cualificados se les niega la existencia y son exterminados por dios.<br><br>- La dificultad de la Dungeon épica es muy alta.<br><font color='#FE6D03'>- Puedes recoger armaduras de clase conjunto de Lv. 85 para materiales de producción de manos, zapatos y armaduras, y armas de clase mito de Lv. 85.
 ContentsDesc_26=El altar donde Vulcano solía entregar la revelación a Drakans. El dragón guardián Epiaros que tiene el hueso de dragón azul de luz sagrada se ha vuelto loco por razones desconocidas y está amenazando el altar. Drakans caerá en un gran peligro si esto no se detiene.<br><br>- La dificultad de la Dungeon épica es muy alta.<br><font color='#FE6D03'>- Puedes recoger Lv. 85 set class armor para cabeza, hombro y materiales de producción de armadura, y Lv. 85 myth class weapons.
 ContentsDesc_27=El dragón de fuego Valtheram, el traidor de todos los dragones que se sacrificó al dios demonio y fue dotado de poderes está sellado aquí. Fue sellado por el sacrificio de muchos dragones, pero se acerca una crisis para que sus gritos vuelvan a resonar por este mundo.<br><br>- La dificultad de la Dungeon épica es muy alta.<br><font color='#FE6D03'>- Puedes recoger armaduras de clase conjunto de Lv. 85 para el cuerpo, la pierna y materiales de producción de armaduras, y armas de clase mito de Lv. 85.
