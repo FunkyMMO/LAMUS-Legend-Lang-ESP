@@ -175,8 +175,8 @@ Greeting1=Este es un templo dedicado a Rugard, el dios de la protección. Todos 
 
 [Npc_51]
 Name=Martinez
-Sayhello1=Ahora tienes la habilidad Experto a tu disposición. Por favor, revisa tu ventana de Habilidades.
-Greeting1=Ahora tienes la habilidad Experto a tu disposición. Por favor, revisa tu ventana de Habilidades.
+Sayhello1=Ahora tienes la habilidad experta a tu disposición. Por favor, revisa tu ventana de Habilidades.
+Greeting1=Ahora tienes la habilidad experta a tu disposición. Por favor, revisa tu ventana de Habilidades.
 
 [Npc_251]
 Name=Army Cook Hinter
