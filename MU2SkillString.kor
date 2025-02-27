@@ -4217,12 +4217,12 @@ Skill_5151=aumenta la velocidad de movimiento.
 Skill_5142=aumenta la velocidad de movimiento en <font color='#FE6D03'>$eff:5142000:a:i$</font><font color='#FE6D04'>%</font> fuera de combate.
 Skill_5143=El daño recibido tiene una probabilidad de aumentar la velocidad de movimiento en <font color='#FE6D03'>$eff:5143000:a:i$</font><font color='#FE6D04'>%</font>.
 Skill_5160=aumenta la cantidad de Zen obtenido al cazar.
-Skill_5161=Reduce los costos de reparación de objetos en <font color='#FE6D03'>$eff:5161000:a:i$</font><font color='#FE6D04'>%</font>.
+Skill_5161=Reduce los costos de reparación de items en <font color='#FE6D03'>$eff:5161000:a:i$</font><font color='#FE6D04'>%</font>.
 Skill_5162=El Zen restaura <font color='#FE6D03'>0.5%</font> del HP Máximo cada vez que se obtiene.
 Skill_5170=aumenta la EXP obtenida al cazar.
 Skill_5172=Las misiones completadas otorgan <font color='#FE6D03'>$eff:5172000:a:i$</font><font color='#FE6D04'>%</font> más EXP.
 Skill_5171=Los monstruos derrotados otorgan <font color='#FE6D03'>$eff:5171000:a:i$</font><font color='#FE6D04'>%</font> más EXP de Alma.
-Skill_5180=aumenta la probabilidad de encontrar mejores objetos al cazar.
+Skill_5180=aumenta la probabilidad de encontrar mejores items al cazar.
 Skill_5181=aumenta la duración de los efectos de Shine y otros beneficios Neutrales en <font color='#FE6D03'>$eff:5181000:a:i$</font><font color='#FE6D04'>%</font>.
 Skill_5182=Mejora los efectos de Shine y otros beneficios Neutrales en <font color='#FE6D03'>$eff:5182000:a:i$</font><font color='#FE6D04'>%</font>.
 Skill_6001=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>5%</font>.
@@ -4343,7 +4343,7 @@ Skill_6913=aumenta los Fondos del Guild obtenidos en un 2% cuando un miembro obt
 Skill_6914=La velocidad de montura de todos los miembros del Guild aumenta en un 5% adicional.
 Skill_6915=aumenta los Fondos del Guild obtenidos en un 2% cuando un miembro obtiene Zen.
 Skill_6916=aumenta la EXP de personaje obtenida en un 20%.
-Skill_6917=aumenta tu probabilidad de encontrar mejores objetos en un 20%.
+Skill_6917=aumenta tu probabilidad de encontrar mejores items en un 20%.
 Skill_6918=aumenta la cantidad de Zen obtenida en un 20%.
 Skill_6919=aumenta la cantidad de Gemas Mágicas obtenidas en un 20%.
 Skill_6800=aumenta la EXP de Alma obtenida al cazar.

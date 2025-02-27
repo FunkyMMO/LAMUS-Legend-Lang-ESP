@@ -21,7 +21,7 @@ Title_19000=Desprecintar
 Title_20000=Room of Duty
 Title_21000=Mina de gemas mágicas
 Title_22000=Dungeon Zen
-Title_23000=Dungeon de objetos materiales
+Title_23000=Dungeon de items materiales
 Title_25000=Gestionar artefactos
 Title_26000=Artefacto obtenido
 Title_27000=Construcción
@@ -71,11 +71,11 @@ Contents_8000=Haz clic con el botón derecho en una Gema y, a continuación, haz
 Contents_9000=Puedes comprobar la información de una variedad de habilidades y equipar crestas de habilidades. Puedes obtener <font color='#FDD889'>Habilidades de experto en los niveles 25, 45 y 65</font>.
 Contents_10000=Cuando el medidor de sobrecarga alcanza el nivel máximo, la Rift entra en sobrecarga.<br>Cuando la Rift entra en sobrecarga, <font color='#FDD889'>el recuento de entradas de la Rift es ilimitado</font>.
 Contents_11000=El mapa del mundo admite <font color='#FDD889'>Movimiento automático</font>. <font color='#FDD889'>Click derecho</font> en el lugar al que quieras moverte.
-Contents_12000=La Rift tiene <font color='#FDD889'>monstruos que coinciden con el nivel del jugador</font>. Esta Dungeon es especialmente <font color='#FDD889'>abundante en objetos y Gemas Mágicas</font>.
+Contents_12000=La Rift tiene <font color='#FDD889'>monstruos que coinciden con el nivel del jugador</font>. Esta Dungeon es especialmente <font color='#FDD889'>abundante en items y Gemas Mágicas</font>.
 Contents_14000=Cada categoría de clasificación tiene una frecuencia de actualización y recompensas diferentes.<br>Puedes consultar la información de otros jugadores en la página de clasificación.
 Contents_15000=Las mascotas proporcionan estadísticas adicionales al personaje cuando crecen y evolucionan. Las mascotas que crecen requieren <font color='#FDD889'>mascotas materiales</font>.
-Contents_16000=Cuando consigas logros, obtendrás <font color='#FDD889'>Puntos de Logro, objetos y títulos</font>. Las recompensas de Grado de logros incluyen objetos raros.
-Contents_17000=<font color='#FDD889'>Las Joyas de Bendición</font> se pueden usar para encantar objetos. Se pueden encantar armas y armaduras. <br>Se necesita mucho <font color='FF0000'>Zen y Gemas Mágicas</font> para encantar.
+Contents_16000=Cuando consigas logros, obtendrás <font color='#FDD889'>Puntos de Logro, items y títulos</font>. Las recompensas de Grado de logros incluyen items raros.
+Contents_17000=<font color='#FDD889'>Las Joyas de Bendición</font> se pueden usar para encantar items. Se pueden encantar armas y armaduras. <br>Se necesita mucho <font color='FF0000'>Zen y Gemas Mágicas</font> para encantar.
 Contents_18000=La Torre Interminable consta de 150 etapas. Supera una fase <font color='#FDD889'>lo suficientemente rápido</font>, y podrás saltarte varias fases.<br>Esta función de salto de fase es útil para saltarse fases difíciles.
 Contents_19000=Si se supera el <font color='#FDD889'>límite de tiempo de 10 minutos</font>, fallas el desafío. <br>Si el tiempo de superación del Castillo de Sangre es <font color='#FDD889'>menor</font>, ¡obtendrás mayores recompensas!
 Contents_20000=La Room of Duty te lleva a varios <font color='#FDD889'>mapas de misión</font> como la Endless Tower y el Castillo sangriento. Un mapa de misión es un campo de batalla de evento con reglas de juego y recompensas únicas.
@@ -99,14 +99,14 @@ Contents_42000=El objetivo del modo Asalto al jefe de campo es <font color='FDD8
 Contents_43000=El objetivo del modo Incursión del Jefe de Campo es <font color='FDD889'>eliminar al monstruo jefe dentro del límite de tiempo</font>. El monstruo Raid Boss huye cuando pierde HP. Puedes detener su huida infligiéndole un gran daño.
 Contents_44000=El objetivo del modo Incursión del Jefe de Campo es <font color='FDD889'>eliminar al monstruo jefe dentro del límite de tiempo</font>. El monstruo Raid Boss huye cuando pierde HP. Puedes detener su huida infligiéndole un gran daño.
 Contents_45000=En el modo cooperativo 3:3, gana el equipo que consiga más puntos de muerte que el otro dentro del límite de tiempo.<br>Los ganadores obtienen <font color='FDD889'>Fichas de luchador</font>, que pueden canjearse por otros recursos del juego a través del comerciante PvP de Ohrdor.
-Contents_47000=<br>- <font color='#FDD889'>Múltiples Monstruos Jefes</font> aparecen en el Pozo de los Muertos!<br>- Supera cada fase rápidamente para tener la oportunidad de conocer al <font color='#FDD889'>Comerciante Negro</font>, ¡que vende objetos raros!
+Contents_47000=<br>- <font color='#FDD889'>Múltiples Monstruos Jefes</font> aparecen en el Pozo de los Muertos!<br>- Supera cada fase rápidamente para tener la oportunidad de conocer al <font color='#FDD889'>Comerciante Negro</font>, ¡que vende items raros!
 Contents_48000=Has obtenido un <font color='#FDD889'>Artefacto Despertado</font>. Los Artefactos Despertados pueden cultivarse a través del <font color='#FDD889'>Laberinto Despertado</font>.
 Contents_49000=Has entrado en la <font color='#FDD889'>Defensa de la Aeronave</font>.<br>¡Utiliza tus <font color='#FDD889'>habilidades de Talismán</font> y protege la aeronave!
 Contents_53000=Los <font color='#FDD889'>Antiguos Artefactos, Talismanes</font><font color='#FDD889'>, han sido desbloqueados.<br>Pulsa el botón <font color='#FDD889'>Detalles</font> para más detalles.
 Contents_54000=Crea y cultiva <font color='#FDD889'>Talismanes</font> para conseguir Puntos de Libro.<br>Tu Nivel de Libro aumenta a medida que ganas Puntos de Libro, y las estadísticas de tu personaje mejoran significativamente.
 Contents_55000=<font color='#FDD889'>Núcleos de Talismán</font> son los principales recursos utilizados para fabricar y atravesar Talismanes.<br>Puedes fabricar y atravesar Talismanes a través de <,> en la IU del Libro de Talismanes.
-Contents_56000=Puedes obtener <font color='#FDD890'>objetos útiles</font> a partir de materiales que hayas extraído de <font color='#FDD890'>Cubos</font>.
-Contents_57000=Puedes obtener <font color='#FDD890'>objetos útiles</font> de los materiales que extrajiste de <font color='#FDD890'>Cubos</font>.
+Contents_56000=Puedes obtener <font color='#FDD890'>items útiles</font> a partir de materiales que hayas extraído de <font color='#FDD890'>Cubos</font>.
+Contents_57000=Puedes obtener <font color='#FDD890'>items útiles</font> de los materiales que extrajiste de <font color='#FDD890'>Cubos</font>.
 Contents_58000=¡Puedes aprender una <font color='#FDD889'>nueva Habilidad de Experto!</font><br>- Has adquirido una <font color='#FDD889'>nueva Habilidad de Experto</font>.<br>- Abre tu <font color='#FDD889'>ventana de Habilidad (K)</font> para comprobarlo.
 Contents_59000=¡Puedes aprender una <font color='#FDD889'>nueva Habilidad de Experto!</font><br>- Has adquirido una <font color='#FDD889'>nueva Habilidad de Experto</font>.<br>- Abre tu <font color='#FDD889'>Ventana de Habilidad (K)</font> para comprobarlo.
 Contents_60000=¡Felicidades! <font color='#FDD889'>¡Has alcanzado el Nivel 65!</font><br>- Has adquirido una <font color='#FDD889'>nueva Ranura de Habilidad Experto</font>. <br>- Has recibido el potenciador <font color='#FDD889'>Brote Creciente</font>. <br>- Puedes aprender fácilmente cómo progresar a través de <font color='#FDD889'>Entrenamiento de Progresión de Linda</font>.<br>- Pulsa el botón <font color='#FDD889'>Detalles</font> para ver más información.
@@ -127,8 +127,8 @@ Content_Text_1=- Haz clic con el botón derecho del ratón en un lugar del minim
 Content_GuideLink_1=1001001
 Content_Image_1=SuperGuía_01
 Content_Title_2=Recogida automática
-Content_SubTitle_2=Puedes recoger todos los objetos cercanos a la vez.
-Content_Text_2=- Si pulsas la tecla F cerca de un objeto caído, recogerás todos los objetos cercanos.
+Content_SubTitle_2=Puedes recoger todos los items cercanos a la vez.
+Content_Text_2=- Si pulsas la tecla F cerca de un objeto caído, recogerás todos los items cercanos.
 Content_GuideLink_2=1001002
 Content_Image_2=SuperGuía_02
 Content_Title_3=Alt y Mayúsculas
@@ -187,7 +187,7 @@ Content_GuideLink_2=1023007
 Content_Image_2=SuperGuía_11
 Content_Title_3=Endless Tower
 Content_SubTitle_3=¡Crece tus alas!
-Content_Text_3=- La Endless Tower consta de 150 plantas y tiene un nivel de dificultad alto.<br>- Explora la Endless Tower y consigue Sellos de poder y Sellos de trascendencia, que se pueden cambiar por objetos para hacer crecer las alas a través del NPC mercader de la Endless Tower en Ohrdor.
+Content_Text_3=- La Endless Tower consta de 150 plantas y tiene un nivel de dificultad alto.<br>- Explora la Endless Tower y consigue Sellos de poder y Sellos de trascendencia, que se pueden cambiar por items para hacer crecer las alas a través del NPC mercader de la Endless Tower en Ohrdor.
 Content_GuideLink_3=1023002
 Content_Image_3=SuperGuía_06
 
@@ -266,7 +266,7 @@ Content_Image_3=SuperGuía_28
 [SuperGuide_62000]
 SuperGuideTitle=¡Has adquirido un Artefacto!
 Content_Title_1=Artefactos
-Content_SubTitle_1=Poderosos objetos de crecimiento
+Content_SubTitle_1=Poderosos items de crecimiento
 Content_Text_1=- ¡Has recibido un Artefacto de Kundun!<br>- Hay varios tipos de Artefactos. Cada Artefacto tiene un efecto poderoso.<br>- Abre la ventana de Artefactos (X) para comprobar y elaborar Artefactos.
 Content_GuideLink_1=1024001
 Content_Image_1=SuperGuía_12
@@ -276,7 +276,7 @@ Content_Text_2=- El Laberinto de Lupa es un Mapa de Misión único con hasta 100
 Content_GuideLink_2=1023007
 Content_Image_2=SuperGuía_11
 Content_Title_3=Alquimia de artefactos
-Content_SubTitle_3=Adquirir objetos de artefactos
+Content_SubTitle_3=Adquirir items de artefactos
 Content_Text_3=- Los artefactos a partir de ciertos niveles se pueden procesar mediante alquimia. <br>- La alquimia de artefactos puede producir materiales muy valiosos.
 Content_GuideLink_3=1024004
 Content_Image_3=SuperGuía_29
@@ -295,7 +295,7 @@ Content_GuideLink_2=1024006
 Content_Image_2=Coach_30
 Content_Title_3=Centro de entrenamiento de Iris
 Content_SubTitle_3=Un lugar de aprendizaje para un crecimiento acelerado
-Content_Text_3=- Puedes ganar EXP de Alma rápidamente en el Centro de Entrenamiento de Iris en Ethedrean.<br>- Recoge Fichas de Iris para comprar varios objetos para tu aventura.
+Content_Text_3=- Puedes ganar EXP de Alma rápidamente en el Centro de Entrenamiento de Iris en Ethedrean.<br>- Recoge Fichas de Iris para comprar varios items para tu aventura.
 Content_GuideLink_3=1049003
 Content_Image_3=SuperGuía_30
 

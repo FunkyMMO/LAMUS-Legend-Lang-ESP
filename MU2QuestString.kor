@@ -1491,7 +1491,7 @@ Doing_String=¿Cuánto tiempo más crees que necesitas para conseguir tres Crist
 Completable_String1=¡Vaya, buen trabajo! Los trajiste tan rápido. Eres tan bueno como dicen. ¡Gracias!<br>Ahora, debería ponerme a trabajar.
 Complete_String=Durov quería Cristales de Rift que se podían encontrar en monstruos de categoría Élite o superior que han vagado por las Rifts durante mucho tiempo. Tan pronto como le di los Cristales de Rift, Durov comenzó a preparar una prueba del Reactor Odyssey.
 List_String=Debo eliminar monstruos de categoría Élite o superior en las Rifts y recolectar Cristales de Rift para Durov, para que pueda realizar una prueba del Reactor Odyssey.
-Mission_String=Recolecta objetos para Durov de monstruos de categoría Élite o superior en las Rifts
+Mission_String=Recolecta items para Durov de monstruos de categoría Élite o superior en las Rifts
 Mission_Target1=Rift Crystal
 
 [Quest_233]
@@ -1504,7 +1504,7 @@ Doing_String=Todo esto es por el motor. Pero bueno, incluso yo sé que mejorar e
 Completable_String1=Vaya, esto es mejor de lo que esperaba. Puedo decir solo con verlo que será el casco perfecto!<br>¡Muy bien, estoy listo para investigar de nuevo!
 Complete_String=Duropan quería las armas o los componentes corporales de los enemigos más formidables en el Lupa's Labyrinth donde el spacetime está distorsionado. Se los traje, y de inmediato comenzó a mejorar el casco del dirigible.
 List_String=Debo conseguir las armas o componentes corporales de los enemigos más formidables en el Lupa's Labyrinth, para que Duropan pueda mejorar el casco del dirigible con ellos.
-Mission_String=Elimina a los Rift Predators en el Lupa's Labyrinth de nivel 50 y recolecta objetos para Duropan
+Mission_String=Elimina a los Rift Predators en el Lupa's Labyrinth de nivel 50 y recolecta items para Duropan
 Mission_Target1=Material Forjado en el Spacetime
 
 [Quest_234]
@@ -3473,15 +3473,15 @@ Mission_Target1=Cristal Intacto del Flarin Mutado
 
 [Quest_652]
 Name=Recuperando Bienes Robados
-Occur_String1=Algunos de los objetos mágicos de los Halcones Plateados desaparecieron, y recibimos un informe de que el Mono de Campo de Nieve los llevó a la Tumba Real de Wallkreiger.
+Occur_String1=Algunos de los items mágicos de los Halcones Plateados desaparecieron, y recibimos un informe de que el Mono de Campo de Nieve los llevó a la Tumba Real de Wallkreiger.
 Occur_String2=El problema es que la seguridad se ha reforzado debido a la resurrección del Emperador Wallkreiger.<br>Pero si me infiltran y me atrapan, definitivamente causará un problema mayor.<br>Lo siento, pero ¿podrías ir tú? Los dracanos confían en ti, así que estoy seguro de que puedes entrar fácilmente.
-Occur_String3=Oh, y esos objetos no van a explotar ni amplificar nada, así que no te preocupes por eso.<br>Estoy más preocupado por la marca de los Halcones Plateados grabada en esos objetos.<br>Si alguien más los encuentra, sería una cuestión de perder la cara.<br>Halcones Plateados, robados por monos. ¿Puedes imaginar lo vergonzoso que sería?
+Occur_String3=Oh, y esos items no van a explotar ni amplificar nada, así que no te preocupes por eso.<br>Estoy más preocupado por la marca de los Halcones Plateados grabada en esos items.<br>Si alguien más los encuentra, sería una cuestión de perder la cara.<br>Halcones Plateados, robados por monos. ¿Puedes imaginar lo vergonzoso que sería?
 Occur_String4=Perdimos una lámpara flotante, una tetera automática de calefacción y refrigeración, un bolígrafo de tinta mágica, un purificador de agua mágico portátil y una alarma mágica.<br>Buscaré más posibles ubicaciones. Te dejo la Tumba Real de Wallkreiger a ti.
-Doing_String=No pienses que estas lámparas y teteras no tienen valor. Son objetos bastante caros.
+Doing_String=No pienses que estas lámparas y teteras no tienen valor. Son items bastante caros.
 Completable_String1=Oh, gracias. Los has conseguido todos. Si no los hubiera encontrado, mi salario del próximo mes se habría reducido en esa cantidad. Eso debió ser horrible.
-Complete_String=Recuperé los objetos mágicos de los Halcones Plateados del Mono de Campo de Nieve que entró en la Tumba Real de Wallkreiger.
-List_String=Debo recuperar los objetos mágicos de los Halcones Plateados del Mono de Campo de Nieve que entró en la Tumba Real de Wallkreiger.
-Mission_String=Recuperar los objetos mágicos de los Halcones Plateados del Mono de Campo de Nieve
+Complete_String=Recuperé los items mágicos de los Halcones Plateados del Mono de Campo de Nieve que entró en la Tumba Real de Wallkreiger.
+List_String=Debo recuperar los items mágicos de los Halcones Plateados del Mono de Campo de Nieve que entró en la Tumba Real de Wallkreiger.
+Mission_String=Recuperar los items mágicos de los Halcones Plateados del Mono de Campo de Nieve
 Mission_Target1=Lámpara Flotante
 Mission_Target2=Tetera Automática de Calefacción y Refrigeración
 Mission_Target3=Bolígrafo de Tinta Mágica
@@ -4173,8 +4173,8 @@ Mission_Target1=Encontrar a Baraex
 
 [Quest_751]
 Name=Fin de Su Trágica Locura
-Occur_String1=Hola, estoy aquí para ayudarte a crear objetos útiles para tus aventuras.
-Doing_String=Déjame saber si quieres crear un objeto. Te ayudaré de inmediato. Tengo una variedad de objetos. Siéntete libre de echar un vistazo y hablar conmigo.
+Occur_String1=Hola, estoy aquí para ayudarte a crear items útiles para tus aventuras.
+Doing_String=Déjame saber si quieres crear un objeto. Te ayudaré de inmediato. Tengo una variedad de items. Siéntete libre de echar un vistazo y hablar conmigo.
 Completable_String1=Así que Baraex era el culpable. Lo sabía. Ese mestizo incapaz de telepatía.
 Completable_String2=Cállate.<br>Esto es responsabilidad tuya y de los otros Ashases.
 Completable_String3=¿Eh? ¿Qué quieres decir?
@@ -4224,26 +4224,26 @@ Mission_Target2=Alquimia de Artefacto
 Mission_Target3=
 
 [Quest_757]
-Name=Creación de Objetos
-Occur_String1=Hola, estoy aquí para ayudarte a crear objetos útiles para tus aventuras.
+Name=Creación de items
+Occur_String1=Hola, estoy aquí para ayudarte a crear items útiles para tus aventuras.
 Occur_String2=Déjame saber si quieres crear un objeto. Te ayudaré de inmediato. Sin embargo, mi servicio no es gratis—requiere algunos materiales y Zen.
-Doing_String=Déjame saber si quieres crear un objeto. Te ayudaré de inmediato. Tengo una variedad de objetos. Siéntete libre de echar un vistazo y hablar conmigo.
+Doing_String=Déjame saber si quieres crear un objeto. Te ayudaré de inmediato. Tengo una variedad de items. Siéntete libre de echar un vistazo y hablar conmigo.
 Completable_String1=¡Gracias! Por favor, vuelve pronto. Aquí hay algunos materiales que me gustaría darte como regalo de agradecimiento.
-Complete_String=Creé un objeto con un Artesano. Con los Artesanos, puedo crear varios objetos. Debo usar sus servicios a menudo.
-List_String=Puedo crear una variedad de objetos con los Artesanos.
+Complete_String=Creé un objeto con un Artesano. Con los Artesanos, puedo crear varios items. Debo usar sus servicios a menudo.
+List_String=Puedo crear una variedad de items con los Artesanos.
 Mission_String=Solicitar a un Artesano que cree un objeto
 Mission_Target1=Crear objeto
 
 [Quest_758]
 Name=Desmontar objeto
 Occur_String1=Bienvenido. Llevas muchas cosas contigo.
-Occur_String2=Si tienes objetos no deseados, puedes desmontarlos en materiales en lugar de cargarlos contigo. Luego, puedes usar los materiales para crear los objetos que desees.
-Occur_String3=Solo házmelo saber si quieres desmontar objetos.
-Doing_String=Si deseas desmontar objetos, selecciona Desmontar en mi menú.
-Completable_String1=No es difícil, ¿verdad? Puedes obtener una variedad de materiales y objetos especiales, dependiendo del objeto que desmontes. Te di algunos materiales como regalo de agradecimiento.
-Completable_String2=¡Oh! Hay un maestro artesano en la ciudad. Deberías ir a él. Puede ayudarte a crear objetos de equipo.
-Complete_String=Desmonté equipo. Puedo obtener una variedad de materiales y objetos especiales, dependiendo del objeto que desmonte.
-List_String=Voy a desmontar equipo. Puedo obtener una variedad de materiales y objetos especiales, dependiendo del objeto que desmonte.
+Occur_String2=Si tienes items no deseados, puedes desmontarlos en materiales en lugar de cargarlos contigo. Luego, puedes usar los materiales para crear los items que desees.
+Occur_String3=Solo házmelo saber si quieres desmontar items.
+Doing_String=Si deseas desmontar items, selecciona Desmontar en mi menú.
+Completable_String1=No es difícil, ¿verdad? Puedes obtener una variedad de materiales y items especiales, dependiendo del objeto que desmontes. Te di algunos materiales como regalo de agradecimiento.
+Completable_String2=¡Oh! Hay un maestro artesano en la ciudad. Deberías ir a él. Puede ayudarte a crear items de equipo.
+Complete_String=Desmonté equipo. Puedo obtener una variedad de materiales y items especiales, dependiendo del objeto que desmonte.
+List_String=Voy a desmontar equipo. Puedo obtener una variedad de materiales y items especiales, dependiendo del objeto que desmonte.
 Mission_String=Solicitar a un Comerciante de Armas que desmonte un objeto de equipo
 Mission_Target1=Desmontar objeto
 
@@ -4270,7 +4270,7 @@ Occur_String5=Ahora, inténtalo.<br>Es una forma fácil de mejorar tu equipo.
 Doing_String=¿No perdiste los materiales y las gemas que te di, verdad?
 Completable_String1=¡Agregaste la ranura y equipaste la gema como te enseñé!<br¿Lo entendiste ahora, verdad? Siéntete libre de volver.
 Complete_String=Agregué una ranura y equipé una gema como me enseñó el Cortador de Gemas.<br>Supongo que cuanto mejor sea la gema, más fuerte seré.
-List_String=Las gemas dotan a los objetos de equipo de habilidades adicionales. Vamos a equipar una gema a un objeto de equipo, tal como me dijo el Cortador de Gemas.
+List_String=Las gemas dotan a los items de equipo de habilidades adicionales. Vamos a equipar una gema a un objeto de equipo, tal como me dijo el Cortador de Gemas.
 Mission_String=Agregar una ranura a un objeto de equipo y equipar una gema
 Mission_Target1=Agregar una ranura a un objeto de equipo
 Mission_Target2=Equipar una gema
@@ -5492,7 +5492,7 @@ Completable_String1=
 Complete_String=Los caballos salvajes fueron afectados por las extrañas estructuras de Ashas que se erigieron por todo el bosque del Susurro del Árbol del Mundo.<br>Estas estructuras irradiaban una energía ominosa que me recordaba a la Dark mission.<br>¿Qué son?
 List_String=Tengo que investigar las pertenencias de los Ashas para confirmar la teoría de Ansen de que los animales fueron mutados por su hechizo.
 Mission_String=Buscar en el Campamento Ashas para encontrar la razón de los animales mutados
-Mission_Target1=Investigar objetos de los Ashas
+Mission_Target1=Investigar items de los Ashas
 
 [Quest_1408]
 Name=Subyugando a los Invasores
@@ -6396,16 +6396,16 @@ Mission_String=Obtén herramientas de cultivo de los ladrones Orik Goblin e info
 Mission_Target1=Herramientas de Agricultura de Haiman
 
 [Quest_1531]
-Name=Recuperar Objetos Perdidos
-Occur_String1=Esto es malo. Dejé caer muchos objetos importantes en el camino a la Fortaleza Parablum al apresurarme para evitar a las Sombras Oscuras.
+Name=Recuperar items Perdidos
+Occur_String1=Esto es malo. Dejé caer muchos items importantes en el camino a la Fortaleza Parablum al apresurarme para evitar a las Sombras Oscuras.
 Occur_String2=Regresé a buscarlos, pero las Sombras Oscuras ya habían ocupado el camino.
-Occur_String3=¿Podrías ir allí y recuperar mis objetos perdidos por mí?
+Occur_String3=¿Podrías ir allí y recuperar mis items perdidos por mí?
 Doing_String=Son muy importantes para mí. Realmente necesito recuperarlos.
 Completable_String1=He traído algunas cosas. Verifica si son tuyas.
 Completable_String2=¡Oh, sí! ¡Esto es mío!
-Complete_String=Pradion dejó caer algunos objetos importantes en su camino a la Fortaleza Parablum, al apresurarse para evitar las Sombras Oscuras.<br>Tenía demasiado miedo de las Sombras Oscuras para recuperarlos por sí mismo, así que lo hice por él.
-List_String=Recoge los objetos dejados fuera de la fortaleza.
-Mission_String=Recoge los objetos perdidos e informa a Pradion
+Complete_String=Pradion dejó caer algunos items importantes en su camino a la Fortaleza Parablum, al apresurarse para evitar las Sombras Oscuras.<br>Tenía demasiado miedo de las Sombras Oscuras para recuperarlos por sí mismo, así que lo hice por él.
+List_String=Recoge los items dejados fuera de la fortaleza.
+Mission_String=Recoge los items perdidos e informa a Pradion
 Mission_Target1=Objeto Perdido
 
 [Quest_1532]
@@ -6894,7 +6894,7 @@ Mission_Target5=Proteger a los soldados Ashas
 Name=Tesoros en el Labyrinth
 Occur_String1=Hace mucho tiempo, cuando el Ejército de Pandemonium invadió, los Nagas tomaron el control del mar. Han pasado cientos de años desde entonces.
 Occur_String2=Los Nagas nunca salieron a la tierra, y deben haber construido una sociedad propia dentro de este Labyrinth.<br>Eso significa...
-Occur_String3=Debe haber muchos objetos raros y preciosos dentro de este Labyrinth que nunca hemos visto.<br>¿No te interesa?
+Occur_String3=Debe haber muchos items raros y preciosos dentro de este Labyrinth que nunca hemos visto.<br>¿No te interesa?
 Occur_String4=¿Vas a entrar en este Labyrinth de los Nagas? Si encuentras algunos tesoros allí, ¿te importaría mostrármelos?
 Occur_String5=
 Occur_String6=
@@ -6904,12 +6904,12 @@ Occur_String9=
 Occur_String10=
 Doing_String=¿Mm? ¿Por qué no estoy buscándolos yo mismo?<br>Hm, hm. Todavía me estoy calentando antes de mi aventura. Je je.
 Completable_String1=Esto lo tengo, pero no lo necesito. Puedes quedártelo.
-Completable_String2=Oh, estos son objetos muy únicos...<br>Podré vender estos a los nobles a un alto precio.
+Completable_String2=Oh, estos son items muy únicos...<br>Podré vender estos a los nobles a un alto precio.
 Completable_String3=
 Completable_String4=
 Completable_String5=
-Complete_String=Un cazador de tesoros que conocí en los Pantanos de Nungchentian me dijo que quiere coleccionar los objetos Naga del Labyrinth de Escamas.<br>Recolecté los extraños objetos Naga del interior del Labyrinth y se los entregué al cazador de tesoros.
-List_String=Debo recolectar los objetos especiales Naga dentro del Labyrinth de Escamas.
+Complete_String=Un cazador de tesoros que conocí en los Pantanos de Nungchentian me dijo que quiere coleccionar los items Naga del Labyrinth de Escamas.<br>Recolecté los extraños items Naga del interior del Labyrinth y se los entregué al cazador de tesoros.
+List_String=Debo recolectar los items especiales Naga dentro del Labyrinth de Escamas.
 Mission_String=Recolectar tesoros Naga en el Labyrinth de Escamas y entregarlos a Nodachi
 Mission_Target1=Recolectar Tesoros Personales Naga
 Mission_Target2=Recolectar Tesoros Naga Valiosos
@@ -7745,7 +7745,7 @@ Completable_String2=Oh, estos cristales son las virtudes que un líder Ashas deb
 Completable_String3=Ahora que encontré la razón, no tengo ningún arrepentimiento.<br>Gracias por ayudarme a encontrar la paz interior, Extraño Guerrero.
 Completable_String4=
 Completable_String5=El Cueva Susurrante fue un lugar de entrenamiento para aquellos que buscaban ser el Papa Rey de los Ashas.<br>Un Ashas estaba de pie en la entrada de la cueva, recordando su entrenamiento del pasado.<br>Intentó alcanzar la posición de Papa Rey, pero fracasó, y quería saber el resultado del entrenamiento que no pudo completar.<br>Le mostré los cristales que obtuve al derrotar las ilusiones Ashas dentro de la cueva, y admitió su error.
-List_String=Tengo que superar la prueba dada por las ilusiones de los antepasados Ashas dentro de Whispering Cave y recolectar los objetos resultantes.
+List_String=Tengo que superar la prueba dada por las ilusiones de los antepasados Ashas dentro de Whispering Cave y recolectar los items resultantes.
 Mission_String=Recolecta el resultado del entrenamiento de Whispering Cave
 Mission_Target1=Recolectar Cristal de Diligencia
 Mission_Target2=Recolectar Cristal de Humildad
@@ -7766,7 +7766,7 @@ Occur_String9=
 Occur_String10=
 Doing_String=¿Encontraste el tesoro de los Naga?<br>Si no hacemos algo, los pantanos se quemarán y se volverán inhabitables.
 Completable_String1=Aquí, creo que esto es de lo que hablabas.
-Completable_String2=Hmm... Esta planta se siente refrescante solo con mirarla.<br>Los Naga tienen algunos de los objetos más extravagantes.
+Completable_String2=Hmm... Esta planta se siente refrescante solo con mirarla.<br>Los Naga tienen algunos de los items más extravagantes.
 Completable_String3=
 Completable_String4=
 Completable_String5=
@@ -12856,7 +12856,7 @@ Occur_String6=¿Qué? No hice ninguna expresión...<br>Mis ojos siempre han sido
 Occur_String7=Gracias.<br>Prepararé algunas cosas para ayudarte a explorar el Labyrinth.<br>Por favor, espera. Sacaré el objeto.
 Doing_String=
 Completable_String1=¡Oh?!... Lo encontré. <br>Aquí tienes. Puedes usar este fragmento para crear un poderoso artefacto.
-Completable_String2=Los artefactos son objetos misteriosos encontrados en el Labyrinth.<br>Oh, cierto... No sabes sobre artefactos, ¿verdad?
+Completable_String2=Los artefactos son items misteriosos encontrados en el Labyrinth.<br>Oh, cierto... No sabes sobre artefactos, ¿verdad?
 Complete_String=Grande de la Sociedad de Investigación del Rift me dio un fragmento de artefacto. Dijo que es un objeto necesario para crear artefactos. Realmente no podía creer que este objeto me haría más fuerte.
 List_String=Sabía que la Sociedad de Investigación del Rift hace muchas cosas extrañas, pero no sabía que estaban conectados a un espacio tan peligroso. Tomaré el objeto de Grande antes de entrar.
 Mission_String=Recibir un objeto de Grande
@@ -14737,7 +14737,7 @@ Mission_Target1=Escama de Dragón de Balanceo
 
 [Template_1007]
 Name=Solicitud de Recolección de los Mercaderes de Arke
-Occur_String1=A los dragones les encantan las cosas hermosas y brillantes. No dudan en atacar a otras criaturas, incluidos los humanos, para recolectar esos objetos.
+Occur_String1=A los dragones les encantan las cosas hermosas y brillantes. No dudan en atacar a otras criaturas, incluidos los humanos, para recolectar esos items.
 Occur_String2=Uno de nuestros carruajes que transportaba joyas fue atacado no hace mucho. No hay duda de que es obra de los dragones en esta área.<br>Por favor, trae de vuelta las joyas robadas de los dragones.
 Doing_String=Si recuperas las joyas robadas de los dragones en esta área, ganarás mucha confianza de nuestra parte.
 Complete_String=Completé la solicitud de los Mercaderes de Arke para recolectar Joyería de Arke.
@@ -14889,7 +14889,7 @@ Mission_Target1=Matar %s_1_1
 [Template_1301]
 Name=Solicitud de Recolección de la Sacerdotisa Rugard
 Occur_String1=La extraña y maligna energía que desafía la luz actúa como una plaga. Puede transferirse a través de cuerpos, almas e incluso a través de pertenencias que fueron utilizadas por los infectados.<br>Derrota a %s_1_1 para evitar que esa energía se propague más y, por favor, trae de vuelta sus Trajes de Vigilante Infectado.
-Doing_String=¿Has recolectado los objetos infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
+Doing_String=¿Has recolectado los items infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
 Completable_String1=
 Complete_String=Solicitud de la Sacerdotisa Rugard completada para recolectar Trajes de Vigilante Infectado.
 List_String=Recolecta %s_1_5 Trajes de Vigilante Infectado cazando a %s_1_1.
@@ -14899,7 +14899,7 @@ Mission_Target1=Traje de Vigilante Infectado
 [Template_1302]
 Name=Solicitud de Recolección de la Sacerdotisa Rugard
 Occur_String1=La extraña y maligna energía que desafía la luz actúa como una plaga. Puede transferirse a través de cuerpos, almas e incluso a través de pertenencias que fueron utilizadas por los infectados.<br>Derrota a %s_1_1 para evitar que esa energía se propague más y, por favor, trae de vuelta sus Trajes de Saqueador Infectado.
-Doing_String=¿Has recolectado los objetos infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
+Doing_String=¿Has recolectado los items infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
 Completable_String1=
 Complete_String=Solicitud de la Sacerdotisa Rugard completada para recolectar Trajes de Saqueador Infectado.
 List_String=Recolecta %s_1_5 Trajes de Saqueador Infectado cazando a %s_1_1.
@@ -14909,7 +14909,7 @@ Mission_Target1=Traje de Saqueador Infectado
 [Template_1303]
 Name=Solicitud de Recolección de la Sacerdotisa Rugard
 Occur_String1=La extraña y maligna energía que desafía la luz actúa como una plaga. Puede transferirse a través de cuerpos, almas e incluso a través de pertenencias que fueron utilizadas por los infectados.<br>Derrota a %s_1_1 para evitar que esa energía se propague más y, por favor, trae de vuelta sus Trajes de Francotirador Infectado.
-Doing_String=¿Has recolectado los objetos infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
+Doing_String=¿Has recolectado los items infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
 Completable_String1=
 Complete_String=Solicitud de la Sacerdotisa Rugard completada para recolectar Trajes de Francotirador Infectado.
 List_String=Recolecta %s_1_5 Trajes de Francotirador Infectado cazando a %s_1_1.
@@ -14919,7 +14919,7 @@ Mission_Target1=Traje de Francotirador Infectado
 [Template_1304]
 Name=Solicitud de Recolección de la Sacerdotisa Rugard
 Occur_String1=La extraña y maligna energía que desafía la luz actúa como una plaga. Puede transferirse a través de cuerpos, almas e incluso a través de pertenencias que fueron utilizadas por los infectados.<br>Derrota a %s_1_1 para evitar que esa energía se propague más y, por favor, trae de vuelta sus Trajes de Capitán de Guardia Infectado.
-Doing_String=¿Has recolectado los objetos infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
+Doing_String=¿Has recolectado los items infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
 Completable_String1=
 Complete_String=Solicitud de la Sacerdotisa Rugard completada para recolectar Trajes de Capitán de Guardia Infectado.
 List_String=Recolecta %s_1_5 Trajes de Capitán de Guardia Infectado cazando a %s_1_1.
@@ -15020,7 +15020,7 @@ Mission_Target1=Matar a %s_1_1
 [Template_1401]
 Name=Solicitud de Recolección del Sacerdote Rugard
 Occur_String1=La extraña y maligna energía que desafía la luz actúa como una plaga. Puede transferirse a través de cuerpos, almas e incluso a través de pertenencias que fueron utilizadas por los infectados.<br>Derrota a %s_1_1 para evitar que esa energía se propague más y, por favor, trae de vuelta sus Trajes de Vigilante Infectado.
-Doing_String=¿Has recolectado los objetos infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
+Doing_String=¿Has recolectado los items infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
 Completable_String1=
 Complete_String=Solicitud del Sacerdote Rugard completada para recolectar Trajes de Vigilante Infectado.
 List_String=Recolecta %s_1_5 Trajes de Vigilante Infectado cazando a %s_1_1.
@@ -15030,7 +15030,7 @@ Mission_Target1=Traje de Vigilante Infectado
 [Template_1402]
 Name=Solicitud de Recolección del Sacerdote Rugard
 Occur_String1=La extraña y maligna energía que desafía la luz actúa como una plaga. Puede transferirse a través de cuerpos, almas e incluso a través de pertenencias que fueron utilizadas por los infectados.<br>Derrota a %s_1_1 para evitar que esa energía se propague más y, por favor, trae de vuelta sus Trajes de Saqueador Infectado.
-Doing_String=¿Has recolectado los objetos infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
+Doing_String=¿Has recolectado los items infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
 Completable_String1=
 Complete_String=Solicitud del Sacerdote Rugard completada para recolectar Trajes de Saqueador Infectado.
 List_String=Recolecta %s_1_5 Trajes de Saqueador Infectado cazando a %s_1_1.
@@ -15040,7 +15040,7 @@ Mission_Target1=Traje de Saqueador Infectado
 [Template_1403]
 Name=Solicitud de Recolección del Sacerdote Rugard
 Occur_String1=La extraña y maligna energía que desafía la luz actúa como una plaga. Puede transferirse a través de cuerpos, almas e incluso a través de pertenencias que fueron utilizadas por los infectados.<br>Derrota a %s_1_1 para evitar que esa energía se propague más y, por favor, trae de vuelta sus Trajes de Francotirador Infectados.
-Doing_String=¿Has recolectado los objetos infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
+Doing_String=¿Has recolectado los items infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
 Completable_String1=
 Complete_String=Solicitud del Sacerdote Rugard completada para recolectar Trajes de Francotirador Infectados.
 List_String=Recolecta %s_1_5 Trajes de Francotirador Infectados cazando a %s_1_1.
@@ -15050,7 +15050,7 @@ Mission_Target1=Traje de Francotirador Infectado
 [Template_1404]
 Name=Solicitud de Recolección del Sacerdote Rugard
 Occur_String1=La extraña y maligna energía que desafía la luz actúa como una plaga. Puede transferirse a través de cuerpos, almas e incluso a través de pertenencias que fueron utilizadas por los infectados.<br>Derrota a %s_1_1 para evitar que esa energía se propague más y, por favor, trae de vuelta sus Trajes de Capitán de Guardia Infectados.
-Doing_String=¿Has recolectado los objetos infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
+Doing_String=¿Has recolectado los items infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
 Completable_String1=
 Complete_String=Solicitud del Sacerdote Rugard completada para recolectar Trajes de Capitán de Guardia Infectados.
 List_String=Recolecta %s_1_5 Trajes de Capitán de Guardia Infectados cazando a %s_1_1.
@@ -15060,7 +15060,7 @@ Mission_Target1=Traje de Capitán de Guardia Infectado
 [Template_1405]
 Name=Solicitud de Recolección del Sacerdote Rugard
 Occur_String1=La extraña y maligna energía que desafía la luz actúa como una plaga. Puede transferirse a través de cuerpos, almas e incluso a través de pertenencias que fueron utilizadas por los infectados.<br>Derrota a %s_1_1 para evitar que esa energía se propague más y, por favor, trae de vuelta sus Hojas Infectadas.
-Doing_String=¿Has recolectado los objetos infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
+Doing_String=¿Has recolectado los items infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
 Completable_String1=
 Complete_String=Solicitud del Sacerdote Rugard completada para recolectar Hojas Infectadas.
 List_String=Recolecta %s_1_5 Hojas Infectadas cazando a %s_1_1.
@@ -15070,7 +15070,7 @@ Mission_Target1=Hoja Infectada
 [Template_1406]
 Name=Solicitud de Recolección del Sacerdote Rugard
 Occur_String1=La extraña y maligna energía que desafía la luz actúa como una plaga. Puede transferirse a través de cuerpos, almas e incluso a través de pertenencias que fueron utilizadas por los infectados.<br>Derrota a %s_1_1 para evitar que esa energía se propague más y, por favor, trae de vuelta sus Estacas Grandes.
-Doing_String=¿Has recolectado los objetos infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
+Doing_String=¿Has recolectado los items infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
 Completable_String1=
 Complete_String=Solicitud del Sacerdote Rugard completada para recolectar Estacas Grandes.
 List_String=Recolecta %s_1_5 Estacas Grandes cazando a %s_1_1.
@@ -15080,7 +15080,7 @@ Mission_Target1=Estaca Grande
 [Template_1407]
 Name=Solicitud de Recolección del Sacerdote Rugard
 Occur_String1=La extraña y maligna energía que desafía la luz actúa como una plaga. Puede transferirse a través de cuerpos, almas e incluso a través de pertenencias que fueron utilizadas por los infectados.<br>Derrota a %s_1_1 para evitar que esa energía se propague más y, por favor, trae de vuelta sus Trajes Desgarrados.
-Doing_String=¿Has recolectado los objetos infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
+Doing_String=¿Has recolectado los items infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
 Completable_String1=
 Complete_String=Solicitud del Sacerdote Rugard completada para recolectar Trajes Desgarrados.
 List_String=Recolecta %s_1_5 Trajes Desgarrados cazando a %s_1_1.
@@ -15090,7 +15090,7 @@ Mission_Target1=Traje Desgarrado
 [Template_1408]
 Name=Solicitud de Recolección del Sacerdote Rugard
 Occur_String1=La extraña y maligna energía que desafía la luz actúa como una plaga. Puede transferirse a través de cuerpos, almas e incluso a través de pertenencias que fueron utilizadas por los infectados.<br>Derrota a %s_1_1 para evitar que esa energía se propague más y, por favor, trae de vuelta sus Bandanas de Gremlin.
-Doing_String=¿Has recolectado los objetos infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
+Doing_String=¿Has recolectado los items infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
 Completable_String1=
 Complete_String=Solicitud del Sacerdote Rugard completada para recolectar Bandanas de Gremlin.
 List_String=Recolecta %s_1_5 Bandanas de Gremlin cazando a %s_1_1.
@@ -15100,7 +15100,7 @@ Mission_Target1=Bandana de Gremlin
 [Template_1409]
 Name=Solicitud de Recolección del Sacerdote Rugard
 Occur_String1=La extraña y maligna energía que desafía la luz actúa como una plaga. Puede transferirse a través de cuerpos, almas e incluso a través de pertenencias que fueron utilizadas por los infectados.<br>Derrota a %s_1_1 para evitar que esa energía se propague más y, por favor, trae de vuelta sus Pieles Infectadas.
-Doing_String=¿Has recolectado los objetos infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
+Doing_String=¿Has recolectado los items infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
 Completable_String1=
 Complete_String=Solicitud de Recolección del Sacerdote Rugard completada.
 List_String=Recolecta %s_1_5 Pieles Infectadas cazando a %s_1_1.
@@ -15110,7 +15110,7 @@ Mission_Target1=Piel Infectada
 [Template_1410]
 Name=Solicitud de Recolección del Sacerdote Rugard
 Occur_String1=La extraña y maligna energía que desafía la luz actúa como una plaga. Puede transferirse a través de cuerpos, almas e incluso a través de pertenencias que fueron utilizadas por los infectados.<br>Derrota al %s_1_1 para evitar que esa energía se propague más y, por favor, trae de vuelta sus Colas Infectadas.
-Doing_String=¿Has recolectado los objetos infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
+Doing_String=¿Has recolectado los items infectados con Evil Energy?<br>El poder de la luz puede purificar cualquier cosa en el mundo.
 Completable_String1=
 Complete_String=Solicitud de Recolección del Sacerdote Rugard completada.
 List_String=Recolecta %s_1_5 Colas Infectadas cazando a %s_1_1.
@@ -16135,7 +16135,7 @@ Mission_Target1=Escama de Dragón Balanceada
 
 [Template_3502]
 Name=Solicitud de Recolección del Cazador de Dragones
-Occur_String1=Los Dragones Budge son la especie de dragones más abundante.<br>Son muy comunes y sus trofeos se comercian en grandes cantidades también.<br>Intenta recolectar Pieles de %s_1_1 o %s_1_2, ya que se utilizan como materiales para muchos objetos.
+Occur_String1=Los Dragones Budge son la especie de dragones más abundante.<br>Son muy comunes y sus trofeos se comercian en grandes cantidades también.<br>Intenta recolectar Pieles de %s_1_1 o %s_1_2, ya que se utilizan como materiales para muchos items.
 Doing_String=No puedes llamarte a ti mismo un verdadero cazador de dragones si nunca has cazado un Dragón Budge.<br>Recolecta Pieles de %s_1_1 o %s_1_2 para probarte a ti mismo.
 Complete_String=Solicitud completada del Cazador de Dragones para recolectar Pieles de Dragón Budge.
 List_String=Colecta %s_1_5 Pieles de Dragón Budge cazando %s_1_1 o %s_1_2.
@@ -20641,15 +20641,15 @@ Mission_String=Recolectar lo que quiere el coleccionista
 Mission_Target1=Arma de %s_1_1
 
 [Template_23036]
-Name=Objetos Robados
+Name=items Robados
 Occur_String1=¡Los %s_1_1 han robado todos mis tesoros! Quiero decir, ¡todos!<br>¡He pasado toda mi vida coleccionándolos! ¡Esos ladrones pagarán por esto!<br>Pero... no tengo la fuerza para luchar contra ellos. Así que necesito tu ayuda.
-Occur_String2=Mata a esos %s_1_1 y devuelve los objetos valiosos que me robaron. Todos %s_1_5.<br>Por favor, te lo suplico. ¡Son el trabajo de mi vida!
+Occur_String2=Mata a esos %s_1_1 y devuelve los items valiosos que me robaron. Todos %s_1_5.<br>Por favor, te lo suplico. ¡Son el trabajo de mi vida!
 Doing_String=¿Hm? ¿Olvidaste lo que te pedí? Quiero decir, esos %s_1_1. Por favor, recupera lo que me robaron.<br>Todos %s_1_5. Debes conseguir todos ellos.
 Completable_String1=
-Complete_String=Recuperé los objetos valiosos del elfo de los %s_1_1. Todos %s_1_5.
-List_String=Tengo que recuperar los objetos valiosos del elfo de los %s_1_1. Todos %s_1_5.
-Mission_String=Recuperar objetos robados
-Mission_Target1=Los Objetos Valiosos del Elfo
+Complete_String=Recuperé los items valiosos del elfo de los %s_1_1. Todos %s_1_5.
+List_String=Tengo que recuperar los items valiosos del elfo de los %s_1_1. Todos %s_1_5.
+Mission_String=Recuperar items robados
+Mission_Target1=Los items Valiosos del Elfo
 
 [Template_23037]
 Name=Bellas Crines
@@ -21175,15 +21175,15 @@ Mission_String=Completar la solicitud de defensa
 Mission_Target1=Orbe de %s_1_1
 
 [Template_24043]
-Name=Objetos Robados
+Name=items Robados
 Occur_String1=¡%s_1_1 han robado todos mis tesoros! ¡Quiero decir, todos ellos!<br>¡Pasé toda mi vida coleccionándolos! ¡Esos ladrones pagarán por esto!<br>Pero... no tengo la fuerza para luchar contra ellos. Entonces... ¿puedes ayudarme a recuperarlos?
-Occur_String2=Mata a esos %s_1_1 y trae de vuelta los objetos de valor que me robaron. Son %s_1_5 en total.<br>¡Por favor, señor! ¡Son el trabajo de mi vida!
+Occur_String2=Mata a esos %s_1_1 y trae de vuelta los items de valor que me robaron. Son %s_1_5 en total.<br>¡Por favor, señor! ¡Son el trabajo de mi vida!
 Doing_String=¿Hm? ¿Olvidaste lo que te pedí? Quiero decir, esos %s_1_1. Por favor, recupera lo que me robaron.<br>Todos %s_1_5 de ellos. Debes conseguirlos todos.
 Completable_String1=
-Complete_String=Recuperé los objetos de valor de los Ashas de %s_1_1. Todos %s_1_5 de ellos.
-List_String=Tengo que recuperar los objetos de valor de los Ashas de %s_1_1. Todos %s_1_5 de ellos.
-Mission_String=Recuperar objetos de valor robados
-Mission_Target1=Objetos de Valor de los Ashas
+Complete_String=Recuperé los items de valor de los Ashas de %s_1_1. Todos %s_1_5 de ellos.
+List_String=Tengo que recuperar los items de valor de los Ashas de %s_1_1. Todos %s_1_5 de ellos.
+Mission_String=Recuperar items de valor robados
+Mission_Target1=items de Valor de los Ashas
 
 [Template_24044]
 Name=Intercambio con un Comerciante
@@ -23636,7 +23636,7 @@ Doing_String=Este documento de la Legión Gremlin está escrito en el idioma pan
 Completable_String1=¿Encontraste algunos altos demonios?<br>Muestra lo que obtuviste de ellos.
 Completable_String2=
 Completable_String3=
-Complete_String=(Misión Individual de Orman) (3/13)<br>Icarus analizó los objetos relacionados con Orman que recolecté de los restos del Ejército del Pandemonium en Salormis, en el Continente Duelden. Descubrió que Orman era diferente de los otros comandantes demoníacos de alto rango en cuanto a su disposición.<br>Pero no pudo traducir el último documento escrito en el idioma de los altos demonios, así que busqué en las Fisuras y obtuve la herramienta de traducción que llevaban los altos demonios.
+Complete_String=(Misión Individual de Orman) (3/13)<br>Icarus analizó los items relacionados con Orman que recolecté de los restos del Ejército del Pandemonium en Salormis, en el Continente Duelden. Descubrió que Orman era diferente de los otros comandantes demoníacos de alto rango en cuanto a su disposición.<br>Pero no pudo traducir el último documento escrito en el idioma de los altos demonios, así que busqué en las Fisuras y obtuve la herramienta de traducción que llevaban los altos demonios.
 List_String=(Misión Individual de Orman) (3/13)<br>Para traducir el idioma de los altos demonios, entra en las Fisuras y recolecta herramientas de traducción de los altos demonios allí.
 Mission_String=Busca en las Fisuras y recolecta herramientas de traducción del idioma pandemoníaco de los altos demonios
 Mission_Target1=Recolecta la Herramienta de Traducción del Idioma del Alto Pandemonium
@@ -25449,7 +25449,7 @@ Occur_String1=La secta Esperanza Aplastada tiene su base en el Rifting al este d
 Occur_String2=Incluso su símbolo es una marca en carne contaminada. Por favor, castígalos y tráeme sus símbolos.<br>Deshacerse de ellos será un golpe aplastante para la Dark mission.<br>Han aplastado las esperanzas de otros. Déjalos probar su propia medicina.
 Doing_String=Esta facción eligió la Marca de Carne Contaminada como su símbolo... Espero que tengas nervios de acero.<br>Bueno, ver estas cosas causará más que náuseas, sin duda.
 Completable_String1=Gran trabajo allá afuera. Obtuvieron lo que merecían.<br>Los que aplastan las esperanzas de los demás no merecen esperanza para sí mismos.<br>Creo que el perdón es solo para aquellos que se arrepienten sinceramente de sus pecados y no cruzan la línea.
-Complete_String=(Misión del Grupo de la Dark mission) (9/10)<br>Somete el bastión de la secta Esperanza Aplastada y trae sus símbolos, Marcas de Carne Contaminada. Después de verificar los objetos, Kinzen me dijo que los miembros de esta secta no debían ser perdonados, porque quienes quitan las esperanzas de los demás nunca merecen tener esperanza.
+Complete_String=(Misión del Grupo de la Dark mission) (9/10)<br>Somete el bastión de la secta Esperanza Aplastada y trae sus símbolos, Marcas de Carne Contaminada. Después de verificar los items, Kinzen me dijo que los miembros de esta secta no debían ser perdonados, porque quienes quitan las esperanzas de los demás nunca merecen tener esperanza.
 List_String=(Misión del Grupo de la Dark mission) (9/10)<br>Necesito someter el bastión de la secta Esperanza Aplastada y traer sus símbolos, Marcas de Carne Contaminada.
 Mission_String=Elimina la facción Esperanza Aplastada y toma su símbolo
 Mission_Target1=Obtén Marca de Carne Contaminada
@@ -25572,7 +25572,7 @@ Mission_Target1=Habla con Senozana Edney
 Name=(T) Huellas de los Antiguos Chakuas 1
 Occur_String1=Judgando por los registros que he encontrado hasta ahora, los Chakuas que se asentaron en las Llanuras del Lago Helado tienen pistas sobre las antiguas estructuras Chakua.<br>¿Puedes reunir esas pistas para mí?
 Occur_String2=Las pistas que mencionaste... ¿Qué son exactamente? ¿Documentos? ¿O placas de piedra?
-Occur_String3=Solo reúne cualquier cosa que parezca especial. Los registros sobre los antiguos Chakuas se encontraron en una amplia gama de objetos, desde documentos, placas de piedra, platos, accesorios e incluso ropa.
+Occur_String3=Solo reúne cualquier cosa que parezca especial. Los registros sobre los antiguos Chakuas se encontraron en una amplia gama de items, desde documentos, placas de piedra, platos, accesorios e incluso ropa.
 Doing_String=Así que, cualquier cosa sirve. Solo recoge cualquier cosa que te parezca un poco fuera de lo común. He encontrado algunos registros cruciales en los lugares más improbables.
 Completable_String1=Está bien, traje todo lo que encontré de los Chakuas que parecía decente.<br>Entre ellos hay algunos hervidores de aspecto extraño.<br>¿Estás seguro de que esto es lo que buscas?
 Completable_String2=Supongo que nunca se sabe hasta que realmente se eche un vistazo. Los antiguos Chakuas solían dejar grabados elaborados que resultan ser recetas de comida, y garabatear ubicaciones de artefactos preciosos en algunas ropas que no son mejores que harapos.<br>Compararé lo que traigas con los registros que tengo.
@@ -25803,7 +25803,7 @@ Occur_String4=¿Los Tres Tesoros de Pabillune?
 Occur_String5=Son tres reliquias sagradas que Bulcan otorgó a Pabillune cuando se convirtió en el gobernante de Ashas.<br>Tienen un valor insustituible para nosotros, los Ashas.
 Completable_String1=Las tres reliquias son la Espada de Bronce, el Espejo de Bronce y las Campanas de Bronce. La espada le otorgó a Pabillune un poder inmenso, y el espejo desvió cualquier daño que le llegara. Además, cuando Pabillune sonaba las Campanas de Bronce, el mensajero de Bulcan aparecía y le mostraba qué camino tomar.
 Completable_String2=Las tres reliquias fueron destruidas cuando Pabillune falleció, y posteriormente fueron encomendadas a las Ruinas del Pionero.<br>Nunca imaginé que alguien intentaría robárnoslas.
-Complete_String=(Pabillune Individual Quest) (1/5)<br>Los Tres Tesoros de Pabillune resultaron ser los tres objetos sagrados que Bulcan le dio personalmente a Pabillune, un antiguo Ashas venerado por su sabiduría. Sin embargo, se pensaba que habían sido hechos pedazos cuando el gran Ashas falleció... ¿Por qué querrían robarlos?
+Complete_String=(Pabillune Individual Quest) (1/5)<br>Los Tres Tesoros de Pabillune resultaron ser los tres items sagrados que Bulcan le dio personalmente a Pabillune, un antiguo Ashas venerado por su sabiduría. Sin embargo, se pensaba que habían sido hechos pedazos cuando el gran Ashas falleció... ¿Por qué querrían robarlos?
 List_String=(Pabillune Individual Quest) (1/5)<br>Un soldado Ashas irrumpió y reportó que los Tres Tesoros de Pabillune fueron robados por los Ashas Nakans, sorprendiendo a Fratanne. ¿Cuáles son estos Tres Tesoros?
 Mission_String=Preguntar sobre los Tres Tesoros de Pabillune
 Mission_Target1=Hablar con Fratanne
@@ -30184,14 +30184,14 @@ Mission_String=El camino se abre al llegar al destino dentro del límite de tiem
 Mission_Target1=Alcanza el Destino en 2 min
 
 [Quest_2052104]
-Name=Puerta: Destruir Objetos
+Name=Puerta: Destruir items
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Destruir Objetos
-Mission_Target1=Destruir Objetos de Cristal
+Mission_String=Destruir items
+Mission_Target1=Destruir items de Cristal
 
 [Quest_2052105]
 Name=Puerta: Matar Monstruos
@@ -39273,7 +39273,7 @@ Completable_String1=Este Benti mutado no posee nada valioso, ¿verdad?<br>Hm... 
 Complete_String=(Misión del grupo de la Sociedad de Investigación del Rift) (6/8)<br>Descubrí un trozo de una carta en el vórtice del tiempo-espacio recién encontrado, escrita por Luery de otra dimensión. Deduciendo de la carta, estaba ocurriendo una situación muy diferente a la de la dimensión actual.
 List_String=(Misión del grupo de la Sociedad de Investigación del Rift) (6/8)<br>Luery solicitó que recogiera cualquier objeto de valor del Benti mutado del escondite del libertador depravado utilizando Porystal.
 Mission_String=Recoger cualquier objeto valioso del Benti mutado
-Mission_Target1=Recoger objetos valiosos
+Mission_Target1=Recoger items valiosos
 
 [Quest_202527]
 Name=(T) Un trozo de carta
@@ -40171,7 +40171,7 @@ Mission_Target1=Barrer las tropas de la alianza de los Nobles
 Name=(T) La venganza exitosa
 Completable_String1=Maldita sea. Adrian finalmente se enteró de mí. Creo que me está buscando. Pero tengo todo planeado: dónde correr, cómo llegar allí y cómo voy a quedarme allí. Si no me atrapan en el camino, Adrian nunca me encontrará, entonces, supongo, viviré feliz para siempre con mis ahorros.
 Completable_String2=Nuestra relación fue peculiar, pero creo que es suficiente para al menos despedirnos antes de separarnos. Desafortunadamente, solo puedo dejar este breve mensaje porque Adrian está en movimiento. Espero que lo entiendas. También, espero que encuentres esta carta. Hm. ¿Debería haber añadido esto?
-Completable_String3=De todos modos, gracias por arruinarle la vida a Adrian. Será mi recuerdo más dulce de toda mi vida. Lamento no poder ver su cara arrugada yo mismo, pero siento que cualquier tipo de bebida sabrá increíble solo con imaginar a Adrian volcando su escritorio y arrojando todos los objetos a su alcance.
+Completable_String3=De todos modos, gracias por arruinarle la vida a Adrian. Será mi recuerdo más dulce de toda mi vida. Lamento no poder ver su cara arrugada yo mismo, pero siento que cualquier tipo de bebida sabrá increíble solo con imaginar a Adrian volcando su escritorio y arrojando todos los items a su alcance.
 Completable_String4=Por último, ahora que las cosas resultaron así, deséame suerte solo una vez, aunque hayamos sido enemigos en el pasado.<br>Siento que un simple deseo de alguien como tú sería mucho más efectivo que una bendición.
 Complete_String=(Misión del grupo de la alianza de los Nobles) (5/5)<br>Regresé al lugar donde estaba el oficial ausente, pero solo había la carta y él ya se había ido. La carta decía que Adrian había comenzado su persecución y que esperaba que entendiera no poder despedirse, también que estaba contento de que Adrian estuviera teniendo una rabieta. Finalmente, para desearle suerte... bueno, ¿por qué no?
 List_String=(Misión del grupo de la alianza de los Nobles) (5/5)<br>Destruí todos los destacamentos secretos de la alianza de los Nobles. Voy a entregar esta noticia.
