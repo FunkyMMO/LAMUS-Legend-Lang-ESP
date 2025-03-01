@@ -8,7 +8,7 @@ Title_6000=Conseguido Porystal
 Title_7000=Obtenido Mascota
 Title_8000=Gema adquirida
 Title_9000=Ventana de habilidad
-Title_10000=Aceleración de la Rift
+Title_10000=Aceleración de Rift
 Title_11000=Mapa del mundo
 Title_12000=Rift
 Title_13000=Dificultad de la Dungeon
@@ -63,15 +63,15 @@ Title_68000=¡Alcanzado el nivel 80!
 Contents_1000=<font color='#FDD889'>Puedes moverte y atacar</font> haciendo clic con el botón izquierdo del ratón.<br>Haz clic con el botón izquierdo en el suelo para moverte.<br>Haz clic con el botón izquierdo en un enemigo para atacar.
 Contents_2000=Click izquierdo sobre <font color='#FDD889'>Linda</font> en la pantalla para recibir una <font color='#FDD889'>misión</font>.
 Contents_3000=Cuando aprendas una nueva habilidad, podrás equiparla y usarla en la ranura de habilidad de la parte inferior. <font color='#FDD889'>Haz clic con el botón izquierdo en la ranura de habilidad</font> para comprobar y cambiar las habilidades disponibles.
-Contents_4000=La <font color='#FDD889'>Gema mágica</font> es una moneda muy rara e importante. Sólo puedes obtenerlas de la <font color='#FDD889'>Gem Mine en Ohrdor - Room of Duty o la Rift</font>.
+Contents_4000=La <font color='#FDD889'>Gema mágica</font> es una moneda muy rara e importante. Sólo puedes obtenerlas de la <font color='#FDD889'>Gem Mine en Ohrdor - Room of Duty o Rift</font>.
 Contents_5000=Cada vez que tu nivel de Alma aumenta, obtienes un Punto de Alma. Puedes asignar tus Puntos de Alma a varias estadísticas en el <font color='#FDD889'>Árbol de Alma (Z)</font>.
 Contents_6000=Usa Porystals para acceder a Dungeons muy especiales como la Biblioteca de Lupa y el Archivo Antiguo. Puedes usarlos directamente desde tu inventario haciendo <font color='#FDD889'>clic derecho</font> sobre ellos. Las Dungeons Porystal son más difíciles que las Dungeons normales. Entra en ellas en grupo.
 Contents_7000=Abre tu inventario y <font color='#FDD889'>haz clic con el botón derecho del ratón</font> en una mascota para registrarla en la <font color='#FDD889'>Identificación de mascotas</font>.
 Contents_8000=Haz clic con el botón derecho en una Gema y, a continuación, haz clic en un item de Equipo con ranura para equipar la Gema. Puedes añadir ranuras a tu equipo a través del <font color='#FDD889'>Cortador de Gemas</font> de la ciudad.
 Contents_9000=Puedes comprobar la información de una variedad de habilidades y equipar crestas de habilidades. Puedes obtener <font color='#FDD889'>Habilidades de experto en los niveles 25, 45 y 65</font>.
-Contents_10000=Cuando el medidor de sobrecarga alcanza el nivel máximo, la Rift entra en sobrecarga.<br>Cuando la Rift entra en sobrecarga, <font color='#FDD889'>el recuento de entradas de la Rift es ilimitado</font>.
+Contents_10000=Cuando el medidor de sobrecarga alcanza el nivel máximo, Rift entra en sobrecarga.<br>Cuando Rift entra en sobrecarga, <font color='#FDD889'>el recuento de entradas de Rift es ilimitado</font>.
 Contents_11000=El mapa del mundo admite <font color='#FDD889'>Movimiento automático</font>. <font color='#FDD889'>Click derecho</font> en el lugar al que quieras moverte.
-Contents_12000=La Rift tiene <font color='#FDD889'>monstruos que coinciden con el nivel del jugador</font>. Esta Dungeon es especialmente <font color='#FDD889'>abundante en items y Gemas Mágicas</font>.
+Contents_12000=Rift tiene <font color='#FDD889'>monstruos que coinciden con el nivel del jugador</font>. Esta Dungeon es especialmente <font color='#FDD889'>abundante en items y Gemas Mágicas</font>.
 Contents_14000=Cada categoría de clasificación tiene una frecuencia de actualización y recompensas diferentes.<br>Puedes consultar la información de otros jugadores en la página de clasificación.
 Contents_15000=Las mascotas proporcionan estadísticas adicionales al personaje cuando crecen y evolucionan. Las mascotas que crecen requieren <font color='#FDD889'>mascotas materiales</font>.
 Contents_16000=Cuando consigas logros, obtendrás <font color='#FDD889'>Puntos de Logro, items y títulos</font>. Las recompensas de Grado de logros incluyen items raros.
@@ -277,7 +277,7 @@ Content_GuideLink_1=1024001
 Content_Image_1=SuperGuía_12
 Content_Title_2=Lupa's Labyrinth
 Content_SubTitle_2=Contenido de crecimiento de artefactos
-Content_Text_2=- Lupa's Labyrinth es un Mapa de Misión único con hasta 100 niveles de dificultad.<br>- ¡Derrota al Depredador de la Rift del Laberinto y gana EXP de Artefacto! <br>- Lupa's Labyrinth se encuentra en la Room of Duty.
+Content_Text_2=- Lupa's Labyrinth es un Mapa de Misión único con hasta 100 niveles de dificultad.<br>- ¡Derrota al Depredador de Rift del Laberinto y gana EXP de Artefacto! <br>- Lupa's Labyrinth se encuentra en la Room of Duty.
 Content_GuideLink_2=1023007
 Content_Image_2=SuperGuía_11
 Content_Title_3=Alquimia de artefactos

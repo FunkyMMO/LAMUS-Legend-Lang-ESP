@@ -1601,9 +1601,9 @@ Msg_Mailbox_20VS20_ITEM_CONTENT=Recompensa Arena Sangrienta de Almas
 Msg_Mailbox_Chaos_Castle_SUBJECT=Hemos encontrado el Item que dejaste en Blood Castle. Te lo enviamos.
 Msg_Mailbox_Chaos_Castle_SENDER=Encargado de Blood Castle
 Msg_Mailbox_Chaos_Castle_CONTENT=Recompensa Blood Castle
-Msg_Mailbox_ADV_CARD_SUBJECT=Te enviamos el Item que perdiste en la Rift.
-Msg_Mailbox_ADV_CARD_SENDER=Sociedad de Investigación de la Rift de Arke
-Msg_Mailbox_ADV_CARD_CONTENT=Te enviamos los Items que perdiste en la Rift.
+Msg_Mailbox_ADV_CARD_SUBJECT=Te enviamos el Item que perdiste en Rift.
+Msg_Mailbox_ADV_CARD_SENDER=Sociedad de Investigación de Rift de Arke
+Msg_Mailbox_ADV_CARD_CONTENT=Te enviamos los Items que perdiste en Rift.
 Msg_Mailbox_Endless_Tower_SUBJECT=Recompensas de la Endless Tower
 Msg_Mailbox_Endless_Tower_SENDER=Room of Duty
 Msg_Mailbox_Endless_Tower_CONTENT=Hemos encontrado el Item que dejaste en la Endless Tower. Te lo enviamos.
@@ -1841,10 +1841,10 @@ Msg_Mailbox_Tower_Of_Dawn_SUBJECT=Tu recompensa del evento Tower of Dawn.
 Msg_Mailbox_Tower_Of_Dawn_CONTENT=Esta es tu recompensa del evento Tower of Dawn.
 Msg_Mailbox_Liberation_Sender=LAMUS
 Msg_Mailbox_Liberation_SUBJECT=Tu recompensa básica por la Liberación del Espacio-Tiempo.
-Msg_Mailbox_Liberation_CONTENT=El flujo del espaciotiempo ha sido liberado de la opresión del Administrador. La Sociedad de Investigación de la Rift te ha enviado esta recompensa para agradecerte tu contribución.
+Msg_Mailbox_Liberation_CONTENT=El flujo del espaciotiempo ha sido liberado de la opresión del Administrador. La Sociedad de Investigación de Rift te ha enviado esta recompensa para agradecerte tu contribución.
 Msg_Mailbox_Liberation_Ranker_Sender=LAMUS
 Msg_Mailbox_Liberation_Ranker_SUBJECT=Tienes el ranking de liberación espacio-temporal y la recompensa de liberación.
-Msg_Mailbox_Liberation_Ranker_CONTENT=El flujo del espacio-tiempo ha sido liberado de la opresión del Administrador. La Sociedad de Investigación de la Rift te ha enviado esta recompensa en reconocimiento a tu increíble logro.
+Msg_Mailbox_Liberation_Ranker_CONTENT=El flujo del espacio-tiempo ha sido liberado de la opresión del Administrador. La Sociedad de Investigación de Rift te ha enviado esta recompensa en reconocimiento a tu increíble logro.
 Msg_Mailbox_Web_of_God_Sender=LAMUS
 Msg_Mailbox_Web_of_God_SUBJECT=Tu recompensa del God of Corridor ha llegado.
 Msg_Mailbox_Web_of_God_CONTENT=Tu inventario está lleno. Tu recompensa será enviada a tu buzón de correo. Por favor, haz espacio en tu inventario para recibirla.
@@ -2103,7 +2103,7 @@ Event_1=EXP del alma de monstruos: +<font color='#11F210'>%s_1%</font>¶
 Event_2=Zen de Monstruos: +<font color='#11F210'>%s_1%</font>¶
 Event_3=Gemas Mágicas de Monstruos: +<font color='#11F210'>%s_1%</font>¶
 Event_4=Tasa de caída de Items de monstruos: +<font color='#11F210'>%s_1%</font>¶
-Event_5=Probabilidad de que aparezcan Hermanos Goblin en la Rift: +<font color='#11F210'>%s_1%</font> ¶<font color='#AEAEAE'>(Goblin de Oro, Goblin de Gemas Mágicas, etc.)</font>¶
+Event_5=Probabilidad de que aparezcan Hermanos Goblin en Rift: +<font color='#11F210'>%s_1%</font> ¶<font color='#AEAEAE'>(Goblin de Oro, Goblin de Gemas Mágicas, etc.)</font>¶
 Event_TimeFormat=¶<font color='#59FFBD'>Hasta DD.MM.YY hh:mm</font>
 EnchantEvent_Title=<font size='15' color='#FDC243'>Evento de Encantamiento</font>
 EnchantEvent_NoRedzenDiscountRateStr=Coste del Zen Encantador: -<font color='#11F210'>%s%%</font>¶Coste de la Gema Mágica Encantadora: -<font color='#11F210'>%s%%</font>
@@ -3275,12 +3275,12 @@ DailySubMission_100_10000_1=Derrota al monstruo de élite: Rift Test Subject - Z
 DailySubMission_100_10000_2=Derrota al monstruo jefe: Baraex la Locura Dolorosa
 DailySubMission_100_10000_3=Derrota al monstruo jefe: Baraex the Sorrowful Madness
 DailySubMission_100_10000_4=Supera la prueba de Jian Manas
-DailySubMission_100_10001_0=Derrotar monstruo normal: Sujeto de Prueba de la Rift - Spearman
+DailySubMission_100_10001_0=Derrotar monstruo normal: Sujeto de Prueba de Rift - Spearman
 DailySubMission_100_10001_1=Derrotar monstruo de élite: Rift Test Subject - Sorcerer
 DailySubMission_100_10001_2=Derrota al monstruo jefe: Baraex la Locura Dolorosa
 DailySubMission_100_10001_3=Derrota al monstruo jefe: Baraex la dolorosa locura
 DailySubMission_100_10001_4=Supera la prueba de Jian Manas
-DailySubMission_100_10002_0=Derrotar Monstruo Normal: Prueba de la Rift - Mago
+DailySubMission_100_10002_0=Derrotar Monstruo Normal: Prueba de Rift - Mago
 DailySubMission_100_10002_1=Derrotar monstruo de élite: Rift Test Subject - Berserker
 DailySubMission_100_10002_2=Derrota al monstruo jefe: Baraex the Sorrowful Madness
 DailySubMission_100_10002_3=Derrota al monstruo jefe: Baraex the Sorrowful Madness
@@ -3989,8 +3989,8 @@ MemImp_ScenarioContents_12_3=El Laberinto de las Escamas... es extremadamente di
 MemImp_ScenarioContents_12_4=El aura oscura me consume poco a poco, desde todas las direcciones. El dolor hace que sea difícil distinguir si es de día o de noche. Si caigo, las mentes de todos mis compañeros Ashas se corromperán. Mi pueblo, al que nuestros ancestros protegieron, nunca llegará a su fin aquí. Me sellaré este día y atraparé la energía demoníaca dentro de mí. Y la derrotaré. Pase lo que pase. Mi última esperanza es poder continuar este registro con mi propia letra otra vez.
 MemImp_ScenarioContents_13_1=Era el propio miedo ardiente. El ojo gigante en el centro de su cuerpo podía ver todas partes sin un solo punto ciego, gracias a las docenas de otros ojos flotantes que buscaban objetivos a los que prender fuego. Los extraños tentáculos al rojo vivo escupían tanto calor que era imposible acercarse a ellos. No había duda... Corrientes de lava deben estar fluyendo dentro de este monstruo. Lava ardiente y palpitante.
 MemImp_ScenarioContents_13_2=Las alas azules y heladas son el símbolo de la reina. La lanza gigante en su mano derecha cortará sin piedad a sus enemigos. La lámpara en su mano izquierda recoge las almas congeladas. Es un faro que atrae a los muertos. ¿Cuál podría ser la razón para esconder la propia alma dentro del cristal bajo el casquete polar? La belleza no es más que una cáscara. Sería imposible desafiar la fría tiranía de la reina, que desprecia incluso un atisbo de calidez.
-MemImp_ScenarioContents_13_3=¡Jajaja! Esto es encantador. Me da tanto placer ver a esa mujer de cabeza rosada perder la cabeza. Gracias a mi investigación, sabía que esto ocurriría cuando atesorara todo su oro, intentando construir una caja fuerte en la Rift para evadir impuestos. ¿Y sabes qué es lo más loco? ¡Quería dejárselo a los goblins! Es como tener al zorro cuidando el gallinero. Absolutamente fuera de su mente, te digo. Pero me molesta que los duendes estén a punto de empezar a causar estragos...
-MemImp_ScenarioContents_13_4=Es realmente asombroso. La exposición prolongada a la energía de la Rift puede causar mutaciones. Por ejemplo, a uno le puede Mejorar un cuerno o su piel se puede convertir en un material diferente. A veces, el cuerpo permanece intacto, pero la persona puede perder su mente. Cuanto más pienso en él... No puedo comprender lo que le pasó. ¿Cómo puede alguien volverse así? Es como si un montón de cajas estuvieran unidas al azar. Ni siquiera puedo imaginarme cómo eran algunas de ellas antes de mutar.
+MemImp_ScenarioContents_13_3=¡Jajaja! Esto es encantador. Me da tanto placer ver a esa mujer de cabeza rosada perder la cabeza. Gracias a mi investigación, sabía que esto ocurriría cuando atesorara todo su oro, intentando construir una caja fuerte en Rift para evadir impuestos. ¿Y sabes qué es lo más loco? ¡Quería dejárselo a los goblins! Es como tener al zorro cuidando el gallinero. Absolutamente fuera de su mente, te digo. Pero me molesta que los duendes estén a punto de empezar a causar estragos...
+MemImp_ScenarioContents_13_4=Es realmente asombroso. La exposición prolongada a la energía de Rift puede causar mutaciones. Por ejemplo, a uno le puede Mejorar un cuerno o su piel se puede convertir en un material diferente. A veces, el cuerpo permanece intacto, pero la persona puede perder su mente. Cuanto más pienso en él... No puedo comprender lo que le pasó. ¿Cómo puede alguien volverse así? Es como si un montón de cajas estuvieran unidas al azar. Ni siquiera puedo imaginarme cómo eran algunas de ellas antes de mutar.
 MemImp_ScenarioContents_14_1=Wallkreiger es el descendiente de Kaizel, el Gran Rey Dragón. Su poderoso rugido sacude el mundo.<br>Y, sin embargo, es gentil. Recuerda que todo lo que tenemos procede de su carne y sus huesos.<br>Nadie podrá detener la furia del Rey Dragón, cuya estatura es como las montañas nevadas y cuyo poder es como la avalancha.<br>El Rey Dragón Kaizel y los guerreros de Wallkreiger reinarán para siempre. Para siempre jamás.
 MemImp_ScenarioContents_14_2=De hecho... El Refugio del Dragón era extremadamente aterrador. Me di cuenta en el momento en que entré allí... Yo soy la presa aquí. No me atrevía a dar un paso más. Entonces, conocí a un caballero contratado... Y cuando vi el corazón gigante que llevaba, me recorrió un escalofrío. No podía ni imaginarme lo enorme que sería ese dragón si su corazón fuera ya tan grande. Ahora que lo pienso, hacer caso a mi instinto me salvó la vida entonces.
 MemImp_ScenarioContents_14_3=Descubrimos un órgano desconocido mientras investigábamos los restos y muestras del sujeto de pruebas enfurecido. La energía emitida por ese órgano es muy similar al poder telepático que usamos los Ashas. También descubrimos que la magia biológica del sujeto de pruebas furioso era casi idéntica a nuestro poder mágico único. Esto nos lleva a especular que los Ashas vivos pueden haber servido de base para el sujeto de pruebas furioso... (abreviado)
@@ -4210,13 +4210,13 @@ limit_44_Title=Paquete 3 de pergaminos con impresión especial
 limit_44_ItemTitle=Paquete de 3 pergaminos con impresión especial
 limit_44_ItemDesc=¿Necesitas pergaminos de impresión para mejorar tu equipo?<br>¡Tenemos el paquete perfecto para ti!
 limit_44_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
-limit_45_Title=Paquete especial reliquia despierta 1
-limit_45_ItemTitle=Paquete especial reliquia despierta 1
-limit_45_ItemDesc=¡Siente el gran y sorprendente poder de la nueva reliquia!<br>Puedes hacer Mejorar la reliquia despierta del paso 1 sobre el paso 20.
+limit_45_Title=Paquete especial artefacto despierta 1
+limit_45_ItemTitle=Paquete especial artefacto despierta 1
+limit_45_ItemDesc=¡Siente el gran y sorprendente poder de la nueva artefacto!<br>Puedes hacer Mejorar la artefacto despierta del paso 1 sobre el paso 20.
 limit_45_ItemDesc2=No puedes comprar productos de tiempo limitado después del periodo dado.<br>Este producto puede comprarse por personaje.
-limit_46_Title=Paquete especial de reliquia despierta 2
-limit_46_ItemTitle=Paquete especial reliquia despierta 2
-limit_46_ItemDesc=¡Siente el gran y sorprendente poder de la nueva reliquia!<br>Puedes hacer Mejorar la reliquia despierta del paso 1 sobre el paso 40.
+limit_46_Title=Paquete especial de artefacto despierta 2
+limit_46_ItemTitle=Paquete especial artefacto despierta 2
+limit_46_ItemDesc=¡Siente el gran y sorprendente poder de la nueva artefacto!<br>Puedes hacer Mejorar la artefacto despierta del paso 1 sobre el paso 40.
 limit_46_ItemDesc2=No puedes comprar productos de tiempo limitado después del periodo establecido.<br>Este producto se puede comprar por personaje.
 limit_47_Title=Viernes negro
 limit_47_ItemTitle=Viernes negro

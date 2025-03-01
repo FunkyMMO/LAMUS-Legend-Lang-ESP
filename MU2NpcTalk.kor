@@ -84,7 +84,7 @@ Talk_950217=¡Canallas... Tomen esta bomba!
 Talk_950218=¡Keh keh keh, los haré volar a todos por los aires!
 Talk_960801=Parece que no puedes soportar la incertidumbre por mucho tiempo.
 Talk_960802=Es como si estuviera viendo mi antiguo yo.
-Talk_960803=Fue Dumpain quien me involucró en la Rift Research Society.
+Talk_960803=Fue Dumpain quien me involucró en Rift Research Society.
 Talk_960804=El alto salario y el título de presidente... Todo era tan atractivo.
 Talk_960805=Traje a las mejores personas que pude encontrar.
 Talk_960806=Usé mi propia luz, recursos y, a veces, incluso mi encanto.
@@ -114,7 +114,7 @@ Talk_960829=No tenía elección. Nunca imaginé un futuro sin él.
 Talk_960830=Pero... Debería haberlo detenido.
 Talk_960831=¿Realmente pensaste que este era el camino correcto?
 Talk_960832=Espero que no te arrepientas de tu decisión.
-Talk_960833=Nunca he lamentado unirme a la Rift Research Society.
+Talk_960833=Nunca he lamentado unirme a Rift Research Society.
 Talk_960834=Al menos fue mi decisión, y soy responsable de ella.
 Talk_960835=Pero... Es diferente para mi hermano.
 Talk_960836=En ese momento, Tall era... demasiado joven para juzgar las cosas por sí mismo.
@@ -5393,7 +5393,7 @@ Greeting1=Por favor, avísame si hay algo que pueda hacer para que tu visita sea
 
 [Npc_104030031]
 Name=Prelcarter
-Sayhello1=La Rift Research Society ha ocupado las calles nuevamente.
+Sayhello1=Rift Research Society ha ocupado las calles nuevamente.
 Greeting1=¿Podrías sacarlos de aquí?
 
 [Npc_104030032]
@@ -5471,12 +5471,12 @@ Sayhello1=¡Revisa tu historial de compras de Talismán y obtén tus boletos de 
 Name=Grande
 Sayhello1=El descubrimiento del Labyrinth introdujo la presencia de Artefactos en el Continente Mu.
 Sayhello2=Mira esta tormenta de Rift gigante... Este mundo está lleno de sorpresas.
-Greeting1=La Rift Research Society siempre ha puesto gran énfasis en su coexistencia con todos los aventureros.
+Greeting1=Rift Research Society siempre ha puesto gran énfasis en su coexistencia con todos los aventureros.
 Greeting2=El Labyrinth es un territorio inexplorado que aún no ha sido investigado.
 
 [Npc_8435]
 Name=Hyre
-Greeting1=Bienvenido a la Rift Research Society.
+Greeting1=Bienvenido a Rift Research Society.
 Greeting2=Está oculto, y la entrada es solo por invitación.
 Greeting3=A mi derecha está la sala de referencia. Detrás de mí está el laboratorio.
 
@@ -5501,7 +5501,7 @@ Greeting2=Ese Mukler. Tal vez debería encerrarlo, para que no pueda ir a ningú
 [Npc_9117]
 Name=Schurak
 Greeting1=Jejeje, soy solo un mensajero, pero gano mucho dinero.
-Greeting2=Esos tipos de la Rift Research Society me pagan mucho dinero. Deben tener más dinero del que podrían gastar en toda su vida.
+Greeting2=Esos tipos de Rift Research Society me pagan mucho dinero. Deben tener más dinero del que podrían gastar en toda su vida.
 
 [Npc_174700000]
 Name=Lucky Magic Gems Goblin
@@ -5536,7 +5536,7 @@ Greeting1=El Reactor de Odisea tiene un retroceso tan fuerte que hizo explotar c
 
 [Npc_104080503]
 Name=Barbara
-Sayhello1=Estoy trabajando con la Rift Research Society para desarrollar una tecnología de viajes interdimensionales.
+Sayhello1=Estoy trabajando con Rift Research Society para desarrollar una tecnología de viajes interdimensionales.
 Greeting1=No sé por qué Durov piensa tan bien de la tecnología de la Sociedad. Todo lo que he escuchado sobre ella está exagerado.
 
 [Npc_104080504]
@@ -5572,7 +5572,7 @@ Greeting1=Antes de soñar con conquistar una nueva dimensión, deberías intenta
 
 [Npc_104080510]
 Name=Grande
-Sayhello1=La Rift Research Society está proporcionando su tecnología del Reactor de Odisea al Grupo de Expedición para la paz del Continente MU.
+Sayhello1=Rift Research Society está proporcionando su tecnología del Reactor de Odisea al Grupo de Expedición para la paz del Continente MU.
 Greeting1=¿No sabes qué es el Reactor de Odisea? Es el motor utilizado en los dirigibles.
 
 [Npc_104080511]
@@ -6202,7 +6202,7 @@ Sayhello1=No temas a la muerte. La bendición de Bulcan estará contigo.
 
 [Npc_4445]
 Name=Dracans Combat Priest
-Sayhello1=¡Protege a los sacerdotes que mantienen la Rift antes que a nadie!
+Sayhello1=¡Protege a los sacerdotes que mantienen Rift antes que a nadie!
 Sayhello2=¡Derrota a esos desagradables secuaces de Death Roar y reclama el Templo!
 
 [Npc_160090001]
@@ -8129,7 +8129,7 @@ CompleteQuest1=He recolectado todos los materiales que necesito para combinar lo
 CompleteQuest2=Mejor vuelvo al artesano.
 
 [Quest_200208]
-StartQuest1=El bastión de las Larvas en la Rift...
+StartQuest1=El bastión de las Larvas en Rift...
 Mission2_1=He destruido el bastión de las Larvas.
 Mission2_2=Mejor vuelvo al Ejército Lorencia.
 
@@ -8187,7 +8187,7 @@ Mission2_1=Tampoco veo rastros de Glasha aquí.
 CompleteQuest1=He recolectado suficiente. Mejor regresa con la Mining Association.
 
 [Quest_200410]
-StartQuest1=Un sonido aterrador viene de la Rift al este.
+StartQuest1=Un sonido aterrador viene de Rift al este.
 StartQuest2=¿Qué está pasando!?
 Mission1_1=¿Qué es esto? Creo que esto es... la Weiss Basin.
 Mission1_2=Espera, ¿acaso acabo de viajar en el tiempo!?
@@ -8266,7 +8266,7 @@ CompleteQuest1=He recolectado todo lo que pude encontrar de los restos del Ejér
 CompleteQuest2=Mejor se los llevo a Icarus.
 
 [Quest_200803]
-StartQuest1=Mejor reviso la Rift más cercana.
+StartQuest1=Mejor reviso Rift más cercana.
 Mission1_1=Finalmente conseguí esa cosa que los Demonios de alto rango llevan con ellos.
 Mission1_2=Espero que esto ayude a traducir el lenguaje de los Demonios de alto rango.
 
@@ -9072,7 +9072,7 @@ StartQuest3=Debería informar a Elrond.
 Mission1_1=Me pregunto si ella ha escapado con seguridad. Espero que nos volvamos a encontrar.
 
 [Quest_1753]
-Mission1_1=Esto es tan peligroso. Parece que la Rift Research Society está llena de raros.
+Mission1_1=Esto es tan peligroso. Parece que Rift Research Society está llena de raros.
 
 [Quest_1755]
 StartQuest1=¿Adivinanzas? ¿Qué tipo de tesoro increíble están escondiendo? Mejor lo reviso.
