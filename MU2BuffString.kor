@@ -2693,8 +2693,8 @@ Buff_1859001001=El objetivo es golpeado por el miedo e inmovilizado. Este efecto
 Buff_1859002001=Petrifica temporalmente al objetivo.
 Buff_1859005000=Disminuye el daño DoT y la Defensa cada segundo. Explota al acumularse 6 veces.
 Buff_1871014000=Refleja el daño sufrido por el objetivo en sus aliados.
-Buff_211000=La energía de la Rift recorre su cuerpo, poniéndolo a tope. <br>Ataque +<font color='#B4FE42'>400%</font><br>Ritmo Crítico +<font color='#B4FE42'>200%</font><br>Tiempo de Enfriamiento -<font color='#B4FE42'>50%</font><br>Velocidad de Movimiento +<font color='#B4FE42'>20%</font><br>Recuperación PH/MP +<font color='#B4FE42'>100%</font>
-Buff_240000=Has puesto la Rift a toda marcha. Obtienes una fuerza sobrehumana mientras estás en la Rift.<br>Tu Velocidad de Movimiento fuera de la Rift aumenta un <font color='#B4FE42'>20%</font>.
+Buff_211000=La energía de Rift recorre su cuerpo, poniéndolo a tope. <br>Ataque +<font color='#B4FE42'>400%</font><br>Ritmo Crítico +<font color='#B4FE42'>200%</font><br>Tiempo de Enfriamiento -<font color='#B4FE42'>50%</font><br>Velocidad de Movimiento +<font color='#B4FE42'>20%</font><br>Recuperación PH/MP +<font color='#B4FE42'>100%</font>
+Buff_240000=Has puesto Rift a toda marcha. Obtienes una fuerza sobrehumana mientras estás en Rift.<br>Tu Velocidad de Movimiento fuera de Rift aumenta un <font color='#B4FE42'>20%</font>.
 Buff_200000=Aumenta temporalmente el Ataque en <font color='#B4FE42'>5%</font>. Los efectos de Brillo se acumulan hasta 5 veces.
 Buff_201000=Aumenta temporalmente la Velocidad de Movimiento en <font color='#B4FE42'>5%</font> y la Velocidad de Ataque en <font color='#B4FE42'>10%</font>. Los efectos de brillo se acumulan hasta 5 veces.
 Buff_202003=Aumenta temporalmente la Recuperación de HP/MP en <font color='#B4FE42'>5%</font>. Los efectos de brillo se acumulan hasta 5 veces.
@@ -2709,9 +2709,9 @@ Buff_210000=La poderosa energía de Bulcan recorre tu cuerpo, permitiéndote sup
 Buff_214000=La poderosa energía de Bulcan permite a su objetivo superar temporalmente sus límites.
 Buff_215000=El poder del Hombre de las Nieves Resbaladizo le permite correr a una velocidad ridícula durante un tiempo.
 Buff_251000=El jugador se vuelve inmune a estados anormales durante un tiempo, e ignora la colisión con enemigos. La Velocidad de Movimiento aumenta un <font color='#B4FE42'>3%</font> adicional.
-Buff_324000=La probabilidad del jugador de obtener un item poco común aumenta un <font color='#B4FE42'>50%</font>. <br>La cuenta de entrada a la Rift no se consume<br>El buff de sobrecarga de la Rift se acumula mientras el jugador se mueve entre pisos.
-Buff_325000=La probabilidad del jugador de obtener un item poco común aumenta un <font color='#B4FE42'>100%.</font> <br>La cuenta de entrada a la Rift no se consume<br>La recompensa de la última carta mejora considerablemente<br>El buff de Aceleración de la Rift se acumula a medida que el jugador se mueve entre pisos.
-Buff_326000=La probabilidad del jugador de obtener un item poco común aumenta en <font color='#B4FE42'><FLink:GetBuffAbilityValue>%</font>.<br>El número máximo de pisos de la Rift aumenta en <font color='#B4FE42'>1</font><br>La recompensa de las cartas de rango mejora considerablemente<br>La cuenta de entradas de la Rift no se consume<br>El potenciador Aceleración de la Rift se acumula a medida que el jugador se mueve entre pisos.
+Buff_324000=La probabilidad del jugador de obtener un item poco común aumenta un <font color='#B4FE42'>50%</font>. <br>La cuenta de entrada a Rift no se consume<br>El buff de sobrecarga de Rift se acumula mientras el jugador se mueve entre pisos.
+Buff_325000=La probabilidad del jugador de obtener un item poco común aumenta un <font color='#B4FE42'>100%.</font> <br>La cuenta de entrada a Rift no se consume<br>La recompensa de la última carta mejora considerablemente<br>El buff de Aceleración de Rift se acumula a medida que el jugador se mueve entre pisos.
+Buff_326000=La probabilidad del jugador de obtener un item poco común aumenta en <font color='#B4FE42'><FLink:GetBuffAbilityValue>%</font>.<br>El número máximo de pisos de Rift aumenta en <font color='#B4FE42'>1</font><br>La recompensa de las cartas de rango mejora considerablemente<br>La cuenta de entradas de Rift no se consume<br>El potenciador Aceleración de Rift se acumula a medida que el jugador se mueve entre pisos.
 Buff_1854006002= Aturde e inmoviliza al objetivo. Este efecto no puede cancelarse aunque el objetivo sea atacado.
 Buff_1854007001=Te envuelve en fuego, infligiendo daño continuo.
 Buff_1851005002=Disminuye la Velocidad de Movimiento del objetivo.
@@ -4074,13 +4074,13 @@ Buff_6813000=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos de
 Buff_6814000=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos de la caza en <font color='#FE6D03'>350%</font>.¶Dura 120 minutos desde que el Guild lo lanza.
 Buff_6815000=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos de la caza en <font color='#FE6D03'>500%</font>.¶Dura 60 minutos desde que el Guild lo lanza.
 Buff_6816000=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos de la caza en <font color='#FE6D03'>500%</font>.¶Dura 120 minutos desde que el Guild lo lanza.
-Buff_6820000=Aumenta la EXP de Artefacto Despertado obtenida en el Laberinto.
-Buff_6821000=Aumenta la EXP de Artefacto Despertado obtenida del Laberinto en <font color='#FE6D03'>200%</font>.¶Dura 30 minutos desde que el Guild lo lanza.
+Buff_6820000=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto.
+Buff_6821000=Aumenta la EXP de Artefacto Awakened obtenida del Laberinto en <font color='#FE6D03'>200%</font>.¶Dura 30 minutos desde que el Guild lo lanza.
 Buff_6822000=Aumenta la EXP de Artefacto despertado obtenida en el Laberinto un <font color='#FE6D03'>200%</font>.¶Dura 60 minutos desde que el Guild lo lanza.
 Buff_6823000=Aumenta la EXP de Artefacto despertado obtenida en el Laberinto un <font color='#FE6D03'>350%</font>.¶Dura 30 minutos desde que el Guild lo lanza.
 Buff_6824000=Aumenta la EXP de Artefacto despertado obtenida en el Laberinto un <font color='#FE6D03'>350%</font>.¶Dura 60 minutos desde que el Guild lo lanza.
 Buff_6825000=Aumenta la EXP de Artefacto despertado obtenida en el Laberinto un <font color='#FE6D03'>500%</font>.¶Dura 30 minutos desde que el Guild lo lanza.
-Buff_6826000=Aumenta la EXP de Artefacto Despertado obtenida en el Laberinto un <font color='#FE6D03'>500%</font>.¶Dura 60 minutos desde que el Guild lo lanza.
+Buff_6826000=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto un <font color='#FE6D03'>500%</font>.¶Dura 60 minutos desde que el Guild lo lanza.
 Buff_2239000=La energía purificada de la oscuridad entra en tu cuerpo, aumentando el Ataque en 100.
 Buff_2239001=La energía purificada de la oscuridad entra en tu cuerpo, aumentando el Ataque en 150.
 Buff_2239002=La energía purificada de la oscuridad entra en tu cuerpo, aumentando tu Ataque en 200.
@@ -4272,7 +4272,7 @@ Buff_904030000=Aumenta los HP máximos y la velocidad de movimiento al estar lib
 Buff_904033001=El objetivo no puede moverse durante un tiempo determinado.
 Buff_904034000=El objetivo se vuelve inmune a todos los daños.
 Buff_905029000=Crea un anillo de liberación que inflige daño a los enemigos cercanos.
-Buff_905033001=Aumenta la penetración de la defensa y el Ataque, por efecto de la reliquia y otorga una habilidad adicional de aumentar el Ataque, aumenta la recuperación de maná, o disminuye todos los daños.
+Buff_905033001=Aumenta la penetración de la defensa y el Ataque, por efecto de la artefacto y otorga una habilidad adicional de aumentar el Ataque, aumenta la recuperación de maná, o disminuye todos los daños.
 Buff_911200003=El objetivo se quema y recibe daño continuo durante un tiempo determinado.
 Buff_911200004=Aumenta la velocidad de ataque del objetivo.
 Buff_911210002=El objetivo queda congelado durante un tiempo determinado. Queda totalmente incapacitado y el enemigo no puede atacar al objetivo.
@@ -4464,9 +4464,9 @@ Buff_941230005=Aumenta la velocidad de movimiento.
 Buff_2278000=Aumenta la EXP de alma un 300%, el Ataque un 5%, y la velocidad de movimiento un 5%.
 Buff_2279000=La Flor de Cerezo cae al suelo durante 5 segundos e inflige daño a los enemigos cercanos.
 Buff_2279004=Se vuelve inmune a todos los daños durante 3 segundos.
-Buff_2290000=<font color='#FE6D03'>Buff efecto de vítores de Djukan</font>¶La EXP de la reliquia despertada aumenta un <font color='#FE6D03'>200%</font> dentro del laberinto<br>alma. La EXP aumenta un <font color='#FE6D03'>100%</font><br>velocidad de movimiento aumenta un <font color='#FE6D03'>5%</font><br><font color='#999999'>dura 20 minutos. </font>
-Buff_2291000=<font color='#FE6D03'>Efecto del apoyo de Jonathan</font>¶La EXP de la reliquia despierta aumenta un <font color='#FE6D03'>350%</font> dentro del laberinto<br>alma La EXP aumenta un <font color='#FE6D03'>150%</font><br>velocidad de movimiento aumenta un <font color='#FE6D03'>10%</font><br><font color='#999999'>dura 20 minutos. </font>
-Buff_2292000=<font color='#FE6D03'>Efecto del buff de gracia de Kundun</font>¶La EXP de reliquia despierta aumenta un <font color='#FE6D03'>500%</font> dentro del laberinto<br>alma La EXP aumenta un <font color='#FE6D03'>200%</font><br>velocidad de movimiento aumenta un <font color='#FE6D03'>15%</font><br><font color='#999999'>dura 20 minutos. </font>
+Buff_2290000=<font color='#FE6D03'>Buff efecto de vítores de Djukan</font>¶La EXP de la artefacto Awakened aumenta un <font color='#FE6D03'>200%</font> dentro del laberinto<br>alma. La EXP aumenta un <font color='#FE6D03'>100%</font><br>velocidad de movimiento aumenta un <font color='#FE6D03'>5%</font><br><font color='#999999'>dura 20 minutos. </font>
+Buff_2291000=<font color='#FE6D03'>Efecto del apoyo de Jonathan</font>¶La EXP de la artefacto despierta aumenta un <font color='#FE6D03'>350%</font> dentro del laberinto<br>alma La EXP aumenta un <font color='#FE6D03'>150%</font><br>velocidad de movimiento aumenta un <font color='#FE6D03'>10%</font><br><font color='#999999'>dura 20 minutos. </font>
+Buff_2292000=<font color='#FE6D03'>Efecto del buff de gracia de Kundun</font>¶La EXP de artefacto despierta aumenta un <font color='#FE6D03'>500%</font> dentro del laberinto<br>alma La EXP aumenta un <font color='#FE6D03'>200%</font><br>velocidad de movimiento aumenta un <font color='#FE6D03'>15%</font><br><font color='#999999'>dura 20 minutos. </font>
 Buff_2282001=Aumenta la velocidad de movimiento un 25%.
 Buff_2283002=El Ataque de monstruos de élite y jefes aumenta un <font color='#FE6D03'> 10%</font>, el Ataque adicional de tipo demonio aumenta un<font color='#FE6D03'> 10%</font> durante 10 minutos.
 Buff_216001=El poder de la luz impregna y abrasa todo lo cercano durante un tiempo determinado.
@@ -4479,7 +4479,11 @@ Buff_2300000=1 discípulo se conecta. El maestro recibe un 200% de beneficio adi
 Buff_2301000=2 discípulos están conectados. El maestro recibe un 300% de EXP de alma adicional.
 Buff_2302000=1 maestro está conectado. El discípulo recibe 200% de beneficio adicional de EXP de alma.
 Buff_8732000=+40% de aumento de EXP y +40% de EXP de alma.
+<<<<<<< HEAD
 Buff_8733000=+40% EXP rate and +40% Soul EXP rate increaseIncreased drops for the following dungeons#</font><font color='#FFEE5F'>Reliquia Antigua#Cave of Bulcan#Crystal Rock Altar#El Abismo Hirviente de la Corrupción#El Abismo Coagulado de la Sangre#Vainas Blindadas#Luery's Secret Vault#Piso de Mina de Gema Mágica Descompuesto#</font> [Buff_8733000=+40% EXP rate and +40% Soul EXP rate increase
+=======
+Buff_8733000=+40% EXP rate and +40% Soul EXP rate increaseIncreased drops for the following dungeons#</font><font color='#FFEE5F'>artefacto Antigua#Cueva de Vulcano#Altar de Roca de Cristal#El Abismo Hirviente de la Corrupción#El Abismo Coagulado de la Sangre#Vainas Blindadas#Luery's Secret Vault#Piso de Mina de Gema Mágica Descompuesto#</font> [Buff_8733000=+40% EXP rate and +40% Soul EXP rate increase
+>>>>>>> a096a83ddbe58ee2e9a10e27029dbd2db8b44616
 
 [BuffBubbleTalk]
 Buff_700010=

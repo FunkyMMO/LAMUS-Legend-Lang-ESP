@@ -55,8 +55,8 @@ Service_506=Almacenamiento remoto de cuenta disponible <font color='#37C7DF'>(F4
 Service_507=Desmantelamiento remoto <font color='#37C7DF'>(F5)</font>
 Service_508=Tienda de pociones remota <font color='#37C7DF'>(F6)</font>
 Service_509=Buzón remoto <font color='#37C7DF'>(F7)</font>
-Service_510=Registro adicional de Items de corredor de comercio +10
-Service_511=Tarifa de corredor de comercio (Zen) y (Redzen) cambiada a 6%.
+Service_510=Registro adicional de Items de Bazar +10
+Service_511=Tarifa de Bazar (Zen) y (Redzen) cambiada a 6%.
 Service_512=Opción de registro de 72 horas de Bazar
 Service_1002=Pestaña adicional de Inventario +2
 Service_1003=Caja de ingresos diarios

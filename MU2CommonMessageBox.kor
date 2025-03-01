@@ -19,7 +19,7 @@ CancelWriteMail=Cancelar correo
 SendMail=Enviar correo
 DeleteMail=Borrar correo
 DeleteItemMail=Borrar correo
-GetMailItem=Recibir elemento adjunto
+GetMailItem=Recibir zen u item adjunto
 OptionConfirm=OK
 RemoveMagicStoneError=OK
 RemoveMagicStone=Quitar piedra mágica
@@ -45,7 +45,7 @@ RequestLeaveInDungeon=Abandonar partida
 RequestBreakeup=Desbandar partida
 RequestChangeLeader=Designar líder del grupo
 DungeonAdmission=Entrar en la Dungeon
-NewAdvDungeonAdmission=Entrar en la Rift
+NewAdvDungeonAdmission=Entrar en Rift
 BossDungeonAdmission=Entrar en la sala del jefe
 ExitDungeon=Salir de la Dungeon
 Enchant_Transfer=Mensaje de transferencia de encantamiento
@@ -206,7 +206,7 @@ KnightEnchant_UnProtected=No has usado el ticket de encantamiento, los accesorio
 SendMail=¿Enviar el correo?
 DeleteMail=Este correo será devuelto al remitente si es eliminado.
 DeleteItemMail=Este correo tiene adjuntos.¶¿Borrarlo de todos modos?
-GetMailItem=¿Recibir el elemento adjunto?
+GetMailItem=¿Recibir el item adjunto?
 CancelWriteMail=Tiene una carta sin enviar.¶¿Cancelarla?
 OptionConfirm=Algunos elementos han cambiado.¶¿Aplicar los cambios y cerrar la ventana?
 RemoveMagicStoneError=Añadir un Item con una Piedra Mágica equipada.
@@ -237,8 +237,8 @@ NewAdvDungeonAdmission=¿Entrar en una nueva Rift?
 BossDungeonAdmission=¿Entrar en la sala del jefe?
 ExitDungeon=¿Salir de la Dungeon?
 Enchant_Transfer=%s_1<br><br><font size='15' color='#EEEEEE'>Los Items consumibles se destruirán independientemente de los resultados de la transferencia de encantamiento.</font>
-lsDungeonItem=No hay suficientes brújulas de dimensión.¶ Las brújulas de dimensión pueden aumentar los tipos y pisos de la Rift.
-UseDungeonItem=¿Usar brújula de dimensión?¶La brújula de dimensión puede aumentar los tipos y niveles de la Rift.
+lsDungeonItem=No hay suficientes brújulas de dimensión.¶ Las brújulas de dimensión pueden aumentar los tipos y pisos de Rift.
+UseDungeonItem=¿Usar brújula de dimensión?¶La brújula de dimensión puede aumentar los tipos y niveles de Rift.
 ExitGuildHall=¿Salir de la zona del Guild?
 DeadMsg_Revive_Item=¿Usar un Item y resucitar ahora?
 DeadMsg_Revive_RedZen=¿Usar Redzen y resucitar ahora?
@@ -318,7 +318,7 @@ MoveCharacterCreation=Ranuras de Personaje desbloqueadas.<br>¿Quieres moverte a
 ResetGetEmotionBox=¿Quieres reorganizar las piedras del alma?
 ExtractEmotion=¿Reciclar este Item y <font color='#ff0000'>obtener</font> Energía de Éter?
 BuffEvent=¿Utilizas este buff?<br><br><font color='#999999'>Precaución: Tu actual efecto de buff será cancelado.</font>
-ArtifactItem=No puedes usarlo si no hay reliquia de crecimiento equipada, la reliquia de crecimiento está al máximo nivel,<br>o si la clase del Item y la reliquia son diferentes.<br><br><font color='#999999'>Precaución: Por favor, comprueba la reliquia de crecimiento.</font>
+ArtifactItem=No puedes usarlo si no hay artefacto de crecimiento equipada, la artefacto de crecimiento está al máximo nivel,<br>o si la clase del Item y la artefacto son diferentes.<br><br><font color='#999999'>Precaución: Por favor, comprueba la artefacto de crecimiento.</font>
 ExitMazeInDarkness=¿Quieres salir del Laberinto?
 ExitOhrdorSewerage=¿Quieres salir del sistema de alcantarillado de Ohrdor?
 MakeItemSocket=¿Quieres añadir una ranura en un Item de equipo?

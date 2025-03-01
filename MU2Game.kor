@@ -558,7 +558,7 @@ LS_ShopDesc_19992=Los Items de compra limitada sólo se pueden comprar una vez.
 LS_BuyCount_19992=Compras disponibles
 LS_NoLimit_19992=Unlimited
 LS_TokenCount_19992=Ticket RPS
-LS_ToolTipText_19992=<b><font color='#FDC243'>Ticket RPS </font></b><br>Obtenible a través de la Dungeon del Refugio del Dragón y la Reliquia Antigua.
+LS_ToolTipText_19992=<b><font color='#FDC243'>Ticket RPS </font></b><br>Obtenible a través de la Dungeon del Refugio del Dragón y la artefacto Antigua.
 LS_Title_19993=Tienda de monedas de evento
 LS_ShopDesc_19993=Los Items de compra limitada sólo se pueden comprar una vez.
 LS_BuyCount_19993=Compras disponibles
@@ -720,7 +720,7 @@ LS_NoLimit_147=Ilimitado
 LS_TokenCount_147=Huevo caliente de primavera
 LS_ToolTipText_147=Requiere <b><font color='#FDC243'>Huevos de Primavera Caliente</font></b> a los monstruos de la Primavera Caliente.
 LS_LimitedBuy_147=(El recuento de compras se reinicia en %s_1 d)
-LS_Title_149=Tienda de Lupa Despertada
+LS_Title_149=Tienda de Lupa Awakened
 LS_ShopDesc_149=Esta tienda solo abre durante un periodo de evento.
 LS_BuyCount_149=Compras disponibles
 LS_NoLimit_149=Ilimitado
@@ -1710,7 +1710,7 @@ mailTile=Titulo:
 tfLimitSendChars=Cuento de caracteres
 mailChargeTitle=Cargo de envío
 readTitle=Leer correo
-senderTitle=Remitente
+senderTitle=Remitente:
 sendMoneyTitle=Importe adjunto
 sendItemTitle=Item adjunto
 btnReply=Responder
@@ -2592,7 +2592,7 @@ ConditionIcon_60000=<font color='#fce7b0'>Items Requeridos</font><br><font color
 ConditionIcon_800=<font color='#fce7b0'>Nivel de Alma Requerido</font><br><font color='#ffffff'>Tienes que alcanzar cierto Nivel de Alma para entrar.</font>
 ConditionIcon_900=<font color='#fce7b0'>Requisito de Nivel de Alma</font><br><font color='#ffffff'>Debes estar por debajo del Nivel de Alma especificado para entrar.</font>
 ConditionIcon_59999=<font color='#fce7b0'>Cómo Conseguir</font><br><font color='#FFBB00'>Dracansor: Proof Key</font><br><font color='#fce7b0'>Consumibles</font><br><font color='#ffffff'>Cambiar usando <font color='#FFBB00'>Perseverance Tokens</font>, que se pueden adquirir completando la misión en Realm of Perseverance: Pruebas y recogiendo botín. Dirígete al <font color='#FFBB00'>Mercader de la facción</font> para intercambiar las fichas por la Llave de Prueba.
-ConditionIcon_59998=<font color='#fce7b0'>Items Requeridos</font><br><font color='#ffffff'>Se requieren Fragmentos Despertados para entrar.</font>
+ConditionIcon_59998=<font color='#fce7b0'>Items Requeridos</font><br><font color='#ffffff'>Se requieren Fragmentos Awakened para entrar.</font>
 ConditionIcon_90108=<font color='#fce7b0'>Items Requeridos</font><br><font color='#ffffff'>15 entradas para la fiesta del foso están disponibles.</font>
 LS_PlatinumService=El efecto Servicio Premium ha aumentado su número máximo de entradas en %s_1.
 LS_PCRoomService=El efecto Platino Premium ha aumentado tu número máximo de entradas en %s_1.
@@ -2652,7 +2652,7 @@ RewardIcon_90015=Genera sellos de poder. Pueden ser cambiados por los items que 
 RewardIcon_90016=Genera piedras de mejora de alas.
 RewardIcon_90017=Genera sellos de trascendencia.
 RewardIcon_90018=Genera EXP de Artefacto (si derrotas al monstruo Jefe) y materiales de craft de Artefacto Normal.
-RewardIcon_90019=Genera EXP de Artefacto (si derrotas al monstruo Jefe) y materiales de craft de Artefacto Despertado.
+RewardIcon_90019=Genera EXP de Artefacto (si derrotas al monstruo Jefe) y materiales de craft de Artefacto Awakened.
 RewardIcon_60703=Genera accesorios de Set.
 RewardIcon_60611=Genera armas, armaduras y accesorios míticos.
 RewardIcon_90007=Aparece el Mercader Negro, que vende una variedad de Items.
@@ -2668,7 +2668,7 @@ RewardIcon_60708=Genera armadura Set. (Niveles 1 - 5: armadura Set, Niveles 6 - 
 RewardIcon_60709=Genera armadura de conjunto. (Niveles 1 - 5: armadura de conjunto, Niveles 6 - 10: armadura de conjunto verdadera)
 RewardIcon_60607=Genera armas y armaduras de opciones fijas Míticas.
 RewardIcon_60711=Genera armadura de conjunto.
-RewardIcon_90006=Genera los materiales de craft de artefactos despertados, Fragmentos Despertados.
+RewardIcon_90006=Genera los materiales de craft de artefactos Awakened, Fragmentos Awakened.
 RewardIcon_90008=Genera medallas de Kundun recibidas a través de la interfaz de misión diaria (Esc). Cámbialas por Items especiales a través de Kyle en Ohrdor.
 RewardIcon_90009=Genera Jewell of Bless
 RewardIcon_90012=Genera Dukan's Proofs y Fighter's Tokens.
@@ -2799,7 +2799,7 @@ RewardIcon_90078=Puedes recibir la poción de collar matadragones.
 RewardIcon_90022=Puede recibir núcleo de talismán de clase antigua.
 RewardIcon_90079=Puede recibir moneda de plata 4º Aniversario.
 RewardIcon_90080=Puede recibir moneda de oro 4º Aniversario.
-RewardIcon_90081=Puedes recibir reliquia EXP.
+RewardIcon_90081=Puedes recibir artefacto EXP.
 RewardIcon_90075=Puedes recibir memoria perdida.
 RewardIcon_90082=Puede recibir alimento especial Beatrice.
 RewardIcon_90083=Puede recibir la piedra con aroma de flor.
@@ -2821,8 +2821,8 @@ RewardIcon_90107=Puede recibir la hoja de pedido del brazalete.
 LS_TeacherStudent_Help=Consejo:<br>Si el personaje de la cuenta es de Lv. 80 o superior, puedes usar el sistema de maestro y discípulo. Un maestro puede conectarse con un máximo de 2 discípulos, y un discípulo puede conectarse con un máximo de 1 maestro.<br>2. Si la persona conectada está en línea, puedes recibir un poderoso beneficio de apoyo a la mejora.
 LS_FamilyMirrorHelp=Este es el espejo del alma.
 RewardIcon_70805=Puedes recibir equipo de calidad ilimitada.
-RewardIcon_90111=Puedes recibir La Ficha de la Reliquia
-RewardIcon_90110=Puedes recibir la joya de encantamiento del equipo Reliquia
+RewardIcon_90111=Puedes recibir La Ficha de la artefacto
+RewardIcon_90110=Puedes recibir la joya de encantamiento del equipo artefacto
 RewardIcon_90108=Puedes recibir el Pergamino del Arca
 RewardIcon_90109=Puedes recibir un pergamino del Arca (intercambiable)
 RewardIcon_58041=Puedes recibir un Cofre de la Suerte de Piedra Estelar
@@ -3899,7 +3899,7 @@ Dungeon_Desc_9960810=Los Libertadores han creado este lugar para esconderse de l
 Dungeon_Title_9601501=Cherry Blossom Castle
 Dungeon_Desc_9601501=Un viejo castillo que luce en su máximo esplendor durante la época de florecimiento de los cerezos,<br>cuando muchos lugareños y turistas lo visitan para disfrutar del Festival de los Cerezos en Flor.
 Dungeon_Title_9088801=Ancient Relic
-Dungeon_Desc_9088801=Los guerreros, con el fin de perseguir el arma legendaria de los soldados mágicos valientes para derrotar Reliquia monstruo para obtener el botín.
+Dungeon_Desc_9088801=Los guerreros, con el fin de perseguir el arma legendaria de los soldados mágicos valientes para derrotar artefacto monstruo para obtener el botín.
 LS_DungeonName[0]=Rift
 LS_DungeonName[1]=Guild Rift
 LS_DungeonName[2]=Dungeon Normal
@@ -4228,7 +4228,7 @@ LS_ArtifactLvDesc[2]=La Dificultad es mayor que el nivel de crecimiento del Arte
 LS_ArtifactLvDesc[3]=La Dificultad es menor que el nivel de crecimiento del Artefacto.<br>¡Un desafío débil!<br><font color='#FF0000'>Obtendrás EXP de Artefacto reducida.</font>
 LS_AutoPartyMatchingToolTip=Jugadores en la cola de emparejamiento automático.
 LS_LevelStep=Etapa %s_1
-LS_AwakenMazeLodTitle=Dificultad Laberinto Despertado
+LS_AwakenMazeLodTitle=Dificultad Lupa's Awakened Labrynth
 LS_MazeofRupa=Dificultad Normal
 LS_MazeofAwakenRupa=Dificultad Despertado
 LS_Awaken=Despertar
@@ -7075,19 +7075,19 @@ BuffDesc_6815=Ganancia de EXP/Puntos de Contribución del Guild +500% (60 m)
 BuffName_6816=Honor del Guild
 BuffDesc_6816=Ganancia de EXP/Puntos de Contribución del Guild +500% (120 m)
 BuffName_6820=Confianza del Guild
-BuffDesc_6820=Genera EXP adicional de Artefacto Despertado
+BuffDesc_6820=Genera EXP adicional de Artefacto Awakened
 BuffName_6821=Confianza del Guild
-BuffDesc_6821=Ganancia EXP Artefacto Despertado +200% (30 m)
+BuffDesc_6821=Ganancia EXP Artefacto Awakened +200% (30 m)
 BuffName_6822=Confianza del Guild
-BuffDesc_6822=Aumento EXP Artefacto Despertado +200% (60 m)
+BuffDesc_6822=Aumento EXP Artefacto Awakened +200% (60 m)
 BuffName_6823=Confianza del Guild
-BuffDesc_6823=Aumento EXP Artefacto Despertado +350% (30 m)
+BuffDesc_6823=Aumento EXP Artefacto Awakened +350% (30 m)
 BuffName_6824=Confianza del Guild
-BuffDesc_6824=Aumento EXP Artefacto Despertado +350% (60 m)
+BuffDesc_6824=Aumento EXP Artefacto Awakened +350% (60 m)
 BuffName_6825=Confianza del Guild
-BuffDesc_6825=Aumento EXP Artefacto Despertado +500% (30 m)
+BuffDesc_6825=Aumento EXP Artefacto Awakened +500% (30 m)
 BuffName_6826=Confianza del Guild
-BuffDesc_6826=Aumento EXP Artefacto Despertado +500% (60 m)
+BuffDesc_6826=Aumento EXP Artefacto Awakened +500% (60 m)
 
 [MU2GFxSetSailMessage]
 LS_UITitle=¡Su unidad de ataque partirá en breve!
@@ -7170,7 +7170,7 @@ LS_Step=Etapa %s_1
 LS_ALTStep1_Title=Transferir nivel de artefacto
 LS_ALTStep1_Contents=Puedes transferir el nivel de un Artefacto a otro Artefacto.<br>Esto requiere 150 Redzen, independientemente del nivel.
 LS_ALTStep1_WarnningTitle=Precaución
-LS_ALTStep1_WarnningContents=Los Artefactos normales sólo pueden transferir su nivel a otros Artefactos normales, y los Artefactos Despertados sólo pueden transferir su nivel a otros Artefactos Despertados.<br>El Artefacto del que se extrae el nivel se reiniciará por completo una vez completada la extracción.<br>Este no es un sistema para combinar o intercambiar niveles de Artefactos.<br>El resultado es irreversible.
+LS_ALTStep1_WarnningContents=Los Artefactos normales sólo pueden transferir su nivel a otros Artefactos normales, y los Artefactos Awakened sólo pueden transferir su nivel a otros Artefactos Awakened.<br>El Artefacto del que se extrae el nivel se reiniciará por completo una vez completada la extracción.<br>Este no es un sistema para combinar o intercambiar niveles de Artefactos.<br>El resultado es irreversible.
 LS_ALTStep1_OKBtnLabel=Bien, ya lo tengo.
 LS_ALTStep2_Title=Seleccionar un Artefacto del que extraer.
 LS_ALTStep2_Contents=El nivel de este Artefacto seleccionado se transferirá a otro Artefacto.<br>Una vez completada la transferencia, el nivel de este Artefacto se restablecerá a 1.
@@ -7739,19 +7739,19 @@ LS_Immediately=Al conectarse
 LS_ThirtyMinutes=30 m
 LS_OneHour=1 h
 LS_ExitBtn=Cerrar (Esc)
-LS_BronzeBuffToolTipText=<font color='#FDC243'>Salud de Djukan</font></b><br><font color='#999999'>botón activado al conectarse al juego¶presiona el botón para adquirir el efecto de buff. </font>¶La EXP de reliquia despertada aumenta en <font color='#1CFD2D'>200%</font> dentro del laberinto<br>La EXP de alma aumenta en <font color='#1CFD2D'>100%</font> <br>La velocidad de movimiento aumenta en <font color='#1CFD2D'>5%</font> <br><font color='#999999'>el efecto dura 20 minutos.</font>
-LS_SilverBuffToolTipText=<font color='#FDC243'>Apoyo de Jonathan</font></b><br><font color='#999999'>botón activado 30 minutos después de conectarte al juego¶presiona el botón para adquirir el efecto de mejora. </font>¶La EXP de reliquia despertada aumenta un <font color='#1CFD2D'>350%</font> dentro del laberinto<br>La EXP de alma aumenta un <font color='#1CFD2D'>150%</font> <br>La velocidad de movimiento aumenta un <font color='#1CFD2D'>10%</font> <br><font color='#999999'>efecto dura 20 minutos.</font>
-LS_GoldBuffToolTipText=<font color='#FDC243'>Gracia de Kundun</font></b><br><font color='#999999'>botón activado 1 hora después de conectarse al juego¶presiona el botón para adquirir el efecto de mejora. </font>¶La EXP de reliquia despertada aumenta en <font color='#1CFD2D'>500%</font> <br>La EXP de alma aumenta en <font color='#1CFD2D'>200%</font> <br>La velocidad de movimiento aumenta en <font color='#1CFD2D'>15%</font> <br><font color='#999999'>el efecto dura 20 minutos.</font>
+LS_BronzeBuffToolTipText=<font color='#FDC243'>Salud de Djukan</font></b><br><font color='#999999'>botón activado al conectarse al juego¶presiona el botón para adquirir el efecto de buff. </font>¶La EXP de artefacto Awakened aumenta en <font color='#1CFD2D'>200%</font> dentro del laberinto<br>La EXP de alma aumenta en <font color='#1CFD2D'>100%</font> <br>La velocidad de movimiento aumenta en <font color='#1CFD2D'>5%</font> <br><font color='#999999'>el efecto dura 20 minutos.</font>
+LS_SilverBuffToolTipText=<font color='#FDC243'>Apoyo de Jonathan</font></b><br><font color='#999999'>botón activado 30 minutos después de conectarte al juego¶presiona el botón para adquirir el efecto de mejora. </font>¶La EXP de artefacto Awakened aumenta un <font color='#1CFD2D'>350%</font> dentro del laberinto<br>La EXP de alma aumenta un <font color='#1CFD2D'>150%</font> <br>La velocidad de movimiento aumenta un <font color='#1CFD2D'>10%</font> <br><font color='#999999'>efecto dura 20 minutos.</font>
+LS_GoldBuffToolTipText=<font color='#FDC243'>Gracia de Kundun</font></b><br><font color='#999999'>botón activado 1 hora después de conectarse al juego¶presiona el botón para adquirir el efecto de mejora. </font>¶La EXP de artefacto Awakened aumenta en <font color='#1CFD2D'>500%</font> <br>La EXP de alma aumenta en <font color='#1CFD2D'>200%</font> <br>La velocidad de movimiento aumenta en <font color='#1CFD2D'>15%</font> <br><font color='#999999'>el efecto dura 20 minutos.</font>
 LS_RewardBuff[0]=Animo de Dukan
 LS_RecompensaBuff[1]=Apoyo de Jonathan
 LS_RecompensaBuff[2]=Bendición de Kundun
-LS_BuffContents_Bronze[0]=La EXP de reliquia despertada aumenta un <font color='#1CFD2D'>200%</font> dentro del laberinto.
+LS_BuffContents_Bronze[0]=La EXP de artefacto Awakened aumenta un <font color='#1CFD2D'>200%</font> dentro del laberinto.
 LS_BuffContents_Bronze[1]=Aumento de EXP del alma en <font color='#1CFD2D'>100%</font>
 LS_BuffContents_Bronze[2]=La velocidad de movimiento aumenta en <font color='#1CFD2D'>5%</font>
-LS_BuffContents_Silver[0]=La EXP de reliquia despertada aumenta en <font color='#1CFD2D'>350%</font> dentro del laberinto
+LS_BuffContents_Silver[0]=La EXP de artefacto Awakened aumenta en <font color='#1CFD2D'>350%</font> dentro del laberinto
 LS_BuffContents_Silver[1]=La EXP del alma aumenta en <font color='#1CFD2D'>150%</font>
 LS_BuffContents_Silver[2]=La velocidad de movimiento aumenta un <font color='#1CFD2D'>10%</font>
-LS_BuffContents_Gold[0]=La EXP de reliquia despertada aumenta en <font color='#1CFD2D'>500%</font> dentro del laberinto
+LS_BuffContents_Gold[0]=La EXP de artefacto Awakened aumenta en <font color='#1CFD2D'>500%</font> dentro del laberinto
 LS_BuffContents_Gold[1]=La EXP del alma aumenta en <font color='#1CFD2D'>200%</font>
 LS_BuffContents_Gold[2]=La velocidad de movimiento aumenta en <font color='#1CFD2D'>15%</font>
 
@@ -7976,8 +7976,8 @@ Ride_8216=Comprado en la Tienda LAMUS.
 Ride_8606=No disponible por el momento.
 Ride_8608=No disponible por el momento.
 Ride_8610=Obtenido del Libro de la Unidad Talismán.
-Ride_8612=Obtenido de los aventureros Reliquia.
-Ride_8614=Obtenido de los aventureros Reliquia.
+Ride_8612=Obtenido de los aventureros artefacto.
+Ride_8614=Obtenido de los aventureros artefacto.
 Ride_8616=No disponible por ahora.
 Ride_8700=Comprado en la Tienda LAMUS.<br/>Obtenido de Artesano.
 Ride_8710=Comprado en la Tienda LAMUS.
@@ -8398,8 +8398,8 @@ LS_CoinInfoReward0_S2=Recompensa normal
 LS_CoinInfoReward1_S2=Recompensa exclusiva del café internet
 LS_NPCShopInfoTitle_S2=Recompensa de tienda NPC
 LS_NPCShopInfoReward0_S2=Nuevo material de piedra de alma
-LS_NPCShopInfoReward1_S2=Nueva esencia de reliquia
-LS_NPCShopInfoReward2_S2=Nueva esencia de reliquia
+LS_NPCShopInfoReward1_S2=Nueva esencia de artefacto
+LS_NPCShopInfoReward2_S2=Nueva esencia de artefacto
 LS_NPCShopInfoReward3_S2=Tarjeta de refuerzo de arma cofre
 LS_NPCShopInfoReward4_S2=Caja de refuerzo de armadura
 LS_NPCShopInfoReward5_S2=Talismán antiguo cofre central
