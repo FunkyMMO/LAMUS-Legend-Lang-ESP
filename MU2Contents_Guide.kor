@@ -567,7 +567,7 @@ Title_1023006100=Fabrice's Garden
 SubTitle_1023006101=Fabrice Garden produce Items materiales en grandes cantidades.
 Contents_1023006103=Fabrice Garden es una Rift especial: debes cargar la Energía Trenta para entrar en el mapa de monstruos jefe.<br>Puedes cargar la Energía Trenta eliminando monstruos dentro de la Dungeon.
 Title_1023007100=Lupa's Labyrinth
-SubTitle_1023007101=Lupa's Labyrinth es un Mapa de Misión dedicado a ayudarte a fabricar y cultivar Artefactos.
+SubTitle_1023007101=Lupa's Labyrinth es un Mapa de Misión dedicado a ayudarte a fabricar y mejorar Artefactos.
 Contents_1023007103=Lupa's Labyrinth tiene un total de 100 niveles de dificultad.<br>Consíguelo en un nivel de dificultad más alto para obtener mejores recompensas.
 SubTitle_1023007104=Debes aumentar tu índice de carga lo mejor que puedas en 10 minutos.
 Contents_1023007106=Lupa's Labyrinth tiene un límite de tiempo de 10 minutos.<br>Trata de aumentar tu tasa de carga al 100% dentro del límite de tiempo cazando tantos monstruos como puedas.<br>Aunque no consigas llegar al 100%, podrás luchar contra el monstruo jefe y conseguir una recompensa. Pero tu recompensa no será tan buena como si alcanzaras el 100%.<br><br><font color='#FE6D03'>Consejo: </font>Haz clic en los cubos para moverte a los bloques siguientes en cualquier momento.<br>Son útiles para evitar a los enemigos difíciles.<br>Pero sigue corriendo en lugar de luchar, y puedes acabar con un bajo índice de carga.
@@ -586,7 +586,7 @@ Contents_1023009103=El reloj que mantenía el Laberinto se rompió y liberó ene
 SubTitle_1023009104=Cámara Negra en lo Profundo del Laberinto
 Contents_1023009106=Pasar al siguiente bloque sin matar a todos los monstruos llenará el 2º medidor de carga. Una vez lleno, serás transportado a un espacio llamado Cámara Negra.<br>Ten cuidado de no ser arrastrado a la Cámara Negra cuando te aventures en el Lupa's Awakened Labrynth.<br><br><font color='#FE6D03'>Consejo:</font> ¡No pierdas de vista el 2º medidor de carga!
 SubTitle_1023009107=La guardería de los Artefactos Awakened
-Contents_1023009109=En Lupa's Awakened Labrynth, puedes cultivar Artefactos Awakened y encontrar sus materiales de artesanía.<br>Los Artefactos Awakened son más poderosos que los Artefactos normales.<br>¡Crea y aprovéchate de ellos!
+Contents_1023009109=En Lupa's Awakened Labrynth, puedes mejorar Artefactos Awakened y encontrar sus materiales de artesanía.<br>Los Artefactos Awakened son más poderosos que los Artefactos normales.<br>¡Crea y aprovéchate de ellos!
 Title_1024001100=Items de crecimiento poderoso: Artefactos
 SubTitle_1024001101=Los Artefactos te proporcionan una poderosa forma de Mejorar, gracias a sus habilidades únicas.
 Contents_1024001103=Puedes equipar/seleccionar/crear artefactos en la ventana de artefactos (X).<br>Hay diferentes tipos de artefactos con varios efectos.<br>Los artefactos se pueden craftear y hacer Mejorar con EXP de artefacto.<br>Cuando los artefactos crecen, sus efectos mejoran.
@@ -601,7 +601,7 @@ Contents_1024003103=Los artefactos no tienen que estar equipados para su crecimi
 SubTitle_1024003104=Para subir de nivel un artefacto: Registrar artefacto para subir de nivel.
 Contents_1024003106=Si quieres hacer Mejorar un artefacto, debes establecerlo como tu Artefacto de Crecimiento.<br>El nivel de tu Artefacto afecta a las cantidades de EXP de artefacto que obtienes del Laberinto en diferentes niveles de dificultad.<br>No puedes ganar EXP de artefacto si el nivel de dificultad del Laberinto es demasiado bajo comparado con el nivel de tu artefacto.
 SubTitle_1024003107=Para obtener efecto de artefacto: Equipar Artefacto
-Contents_1024003109=Puedes equipar artefactos en ranuras de artefacto vacías si sus formas coinciden.<br>Los artefactos equipados también se pueden cultivar.<br>Es importante que encuentres y equipes los artefactos que mejor se adapten a tu patrón de juego.
+Contents_1024003109=Puedes equipar artefactos en ranuras de artefacto vacías si sus formas coinciden.<br>Los artefactos equipados también se pueden mejorar.<br>Es importante que encuentres y equipes los artefactos que mejor se adapten a tu patrón de juego.
 Title_1024004100=Alquimización de artefactos cultivados
 SubTitle_1024004101=A través de la alquimia, puedes destruir artefactos de ciertos niveles y crear nuevos Items a partir de ellos.
 Contents_1024004103=Los artefactos de nivel 20 o superior se pueden alquimizar.<br>Puedes alquimizarlos a través del Mercader Alquimista (Lupa) en Ohrdor.<br>Los artefactos, cuando se alquimizan, se destruyen por completo y desaparecen. <br>Los niveles de los artefactos no afectan a los resultados de la alquimia.<br><br><font color='#FE6D03'>Consejo:</font> Es mejor que alquimices los artefactos en cuanto alcancen el nivel 20.
@@ -734,7 +734,7 @@ SubTitle_1036002107=Nivel de dificultad, límite de tiempo y tasa de carga. Esta
 Contents_1036002109=Despeja el Laberinto en un nivel de dificultad más alto para obtener mejores recompensas.<br>Pero como tu tasa de carga también afecta a tus recompensas,<br>no deberías seleccionar un nivel de dificultad demasiado alto.<br>Selecciona un nivel de dificultad adecuado para tu nivel y despeja la Dungeon tan rápido como puedas.
 Title_1036003100=Lupa's Labyrinth Recompensas clave: Contenido de Artefacto
 SubTitle_1036003101=Lupa's Labyrinth está diseñado para ayudarte a crear y hacer Mejorar artefactos.
-Contents_1036003103=En Lupa's Labyrinth, solo el monstruo jefe final (Depredador de Rift) suelta recompensas.<br>Suelta Fragmentos de Artefacto Rotos, que pueden usarse para crear artefactos.<br>Suelta Brillos de EXP de Artefacto, que pueden usarse para cultivar artefactos.<br>Suelta mayores cantidades de EXP de artefacto en niveles de dificultad más altos.
+Contents_1036003103=En Lupa's Labyrinth, solo el monstruo jefe final (Depredador de Rift) suelta recompensas.<br>Suelta Fragmentos de Artefacto Rotos, que pueden usarse para crear artefactos.<br>Suelta Brillos de EXP de Artefacto, que pueden usarse para mejorar artefactos.<br>Suelta mayores cantidades de EXP de artefacto en niveles de dificultad más altos.
 SubTitle_1036003104=Los niveles de los artefactos deben coincidir con los niveles de dificultad de las Dungeons.
 Contents_1036003106=Si el nivel de tu Artefacto de Crecimiento es menor que el del Lupa's Labyrinth,<br>gana más EXP de artefacto.<br>Si su nivel es mayor que el del Laberinto,<br>gana menos EXP de artefacto. <br>En otras palabras, no puedes hacer Mejorar tu artefacto si vas demasiado a lo seguro.<br>Los artefactos ganan un 0% de EXP en el Laberinto que esté al menos 10 niveles por debajo de sus niveles.<br>Asegúrate de aumentar el nivel de dificultad de la Dungeon a medida que crece tu artefacto.
 Title_1037001100=Puedes completar varios desafíos y obtener recompensas a través del Sistema de Logros.
