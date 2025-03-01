@@ -39058,40 +39058,40 @@ Occur_String2=Estoy ocupado... ¿de qué se trata?
 Occur_String3=Recientemente, el flujo del tiempo-espacio es muy inestable. Estoy seguro de que eres consciente de ello, siendo un viajero del tiempo-espacio como tú mismo, ¿no?
 Occur_String4=..
 Occur_String5=¡Ja, ja! Tal vez no me molesta porque estoy libre de la distorsión del tiempo-espacio. Pero Arche, que no se ve afectado por la distorsión del tiempo-espacio como yo, debería saber que el flujo del tiempo-espacio es muy inestable.
-Occur_String6=Entonces investigué de dónde comenzó, y resulta ser la Rift del tiempo-espacio en el garden of Fabris.
-Occur_String7=Pero, ¿no es extraño? El garden of Fabris, donde el poder de los dioses permanece, debería ser mucho más estable que cualquier otro lugar.
-Occur_String8=Por favor, averigua si hay algún problema en el garden of Fabris. Es un asunto importante; espero que te ocupes de ello.
+Occur_String6=Entonces investigué de dónde comenzó, y resulta ser la Rift del tiempo-espacio en el Fabrice Garden.
+Occur_String7=Pero, ¿no es extraño? El Fabrice Garden, donde el poder de los dioses permanece, debería ser mucho más estable que cualquier otro lugar.
+Occur_String8=Por favor, averigua si hay algún problema en el Fabrice Garden. Es un asunto importante; espero que te ocupes de ello.
 Doing_String=No hay muchas personas en las que confíe para tal tarea. Así que, por favor, llega al fondo del asunto.
-Completable_String1=¿Has investigado el garden of Fabris? ¿Hubo algún cambio en el jardín? No me hagas esperar, cuéntamelo.
-Complete_String=(Misión de grupo de Croaker) (1/5)<br>A pedido de Arche, investigué el garden of Fabris por el reciente flujo inestable sospechoso del tiempo-espacio. El garden of Fabris estaba en un estado caótico debido a la invasión de Gnolls.
-List_String=(Misión de grupo de Croaker) (1/5)<br=A pedido sospechoso de Arche, debo investigar el garden of Fabris, la Rift del tiempo-espacio en la sala de tareas de Oldor y entregar los resultados.
-Mission_String=Investiga el garden of Fabris en la sala de tareas de Oldor
-Mission_Target1=Investiga el garden of Fabris
+Completable_String1=¿Has investigado el Fabrice Garden? ¿Hubo algún cambio en el jardín? No me hagas esperar, cuéntamelo.
+Complete_String=(Misión de grupo de Croaker) (1/5)<br>A pedido de Arche, investigué el Fabrice Garden por el reciente flujo inestable sospechoso del tiempo-espacio. El Fabrice Garden estaba en un estado caótico debido a la invasión de Gnolls.
+List_String=(Misión de grupo de Croaker) (1/5)<br=A pedido sospechoso de Arche, debo investigar el Fabrice Garden, la Rift del tiempo-espacio en la sala de tareas de Oldor y entregar los resultados.
+Mission_String=Investiga el Fabrice Garden en la sala de tareas de Oldor
+Mission_Target1=Investiga el Fabrice Garden
 
 
 [Quest_202512]
 Name=(T) El invasor inesperado
-Occur_String1=El garden of Fabris ha sido invadido por los Gnolls de melena dorada. Todas las ranas allí han huido.
-Occur_String2=¿Los Gnolls de melena dorada se apoderaron del garden of Fabris? ¿Es por eso que el flujo del tiempo-espacio ha estado tan inestable?
-Occur_String3=El garden of Fabris es un vestigio dejado en la Rift del tiempo-espacio por Fabris, dios de la manufactura. Es un espacio sagrado que los simples Gnolls de melena dorada nunca podrían haber encontrado, mucho menos invadido. Si no fue por pura suerte que lo encontraron mientras buscaban comida...
-Occur_String4=Si debemos sospechar, alguien debió abrir la Rift del tiempo-espacio a los Gnolls de melena dorada, que conduce al garden of Fabris. Este es un asunto serio. Es difícil de creer, pero alguien ha interferido con la línea de tiempo de la dimensión.
-Occur_String5=Es una suposición apresurada, pero debemos averiguar si fue así. La forma más rápida sería averiguar si los Gnolls de melena dorada que invadieron el garden of Fabris son simples Gnolls de Duelden o si cruzaron la dimensión a través de la Rift del tiempo-espacio.
-Occur_String6=Por favor, dirígete al garden of Fabris y recolecta las melenas de los Gnolls de melena dorada, y haré el análisis comparativo.
+Occur_String1=El Fabrice Garden ha sido invadido por los Gnolls de melena dorada. Todas las ranas allí han huido.
+Occur_String2=¿Los Gnolls de melena dorada se apoderaron del Fabrice Garden? ¿Es por eso que el flujo del tiempo-espacio ha estado tan inestable?
+Occur_String3=El Fabrice Garden es un vestigio dejado en la Rift del tiempo-espacio por Fabris, dios de la manufactura. Es un espacio sagrado que los simples Gnolls de melena dorada nunca podrían haber encontrado, mucho menos invadido. Si no fue por pura suerte que lo encontraron mientras buscaban comida...
+Occur_String4=Si debemos sospechar, alguien debió abrir la Rift del tiempo-espacio a los Gnolls de melena dorada, que conduce al Fabrice Garden. Este es un asunto serio. Es difícil de creer, pero alguien ha interferido con la línea de tiempo de la dimensión.
+Occur_String5=Es una suposición apresurada, pero debemos averiguar si fue así. La forma más rápida sería averiguar si los Gnolls de melena dorada que invadieron el Fabrice Garden son simples Gnolls de Duelden o si cruzaron la dimensión a través de la Rift del tiempo-espacio.
+Occur_String6=Por favor, dirígete al Fabrice Garden y recolecta las melenas de los Gnolls de melena dorada, y haré el análisis comparativo.
 Doing_String=Parece demasiado pronto... ¿ya ha oscurecido?<br>¿Eh? ¿Sigues aquí? A mi edad, uno tiende a preocuparse bastante. Solo estoy pensando en voz alta, no me hagas caso.
 Completable_String1=¿Lo tienes? Ugh... eso apesta. Aun así, lo investigaré, solo déjalo en la esquina.
 Complete_String=(Misión de grupo de Croaker) (2/5)<br>El sospechoso Arche menciona que hay dudas y ha solicitado recolectar las melenas de Gnolls para investigar este asunto.
-List_String=(Misión de grupo de Croaker) (2/5)<br=A petición del sospechoso Arche, tengo que recolectar las melenas de los Gnolls que invadieron el garden of Fabris en la sala de tareas.
-Mission_String=Recolecta las melenas de los Gnolls que invaden el garden of Fabris
+List_String=(Misión de grupo de Croaker) (2/5)<br=A petición del sospechoso Arche, tengo que recolectar las melenas de los Gnolls que invadieron el Fabrice Garden en la sala de tareas.
+Mission_String=Recolecta las melenas de los Gnolls que invaden el Fabrice Garden
 Mission_Target1=Melena de Gnoll
 
 [Quest_202513]
 Name=(T) Melena de Gnoll de melena dorada
-Occur_String1=Hemos recolectado las melenas de los Gnolls que invadieron el garden of Fabris. Ahora, por favor dirígete al almacén abandonado de Duelden para recolectar las melenas de los Gnolls de melena dorada.
+Occur_String1=Hemos recolectado las melenas de los Gnolls que invadieron el Fabrice Garden. Ahora, por favor dirígete al almacén abandonado de Duelden para recolectar las melenas de los Gnolls de melena dorada.
 Occur_String2=¿Yo otra vez? Esto de los Gnolls de melena dorada nunca termina.
 Occur_String3=Sé que es difícil, pero necesito que lo hagas para llevar a cabo el análisis comparativo. Mientras tanto, trabajaré en las melenas de Gnoll que recolectaste.
-Doing_String=Al observar estas melenas, parece que los Gnolls invadieron el garden of Fabris hace poco. No está completamente impregnado con el tiempo-espacio allí. Así que no será difícil averiguarlo.
+Doing_String=Al observar estas melenas, parece que los Gnolls invadieron el Fabrice Garden hace poco. No está completamente impregnado con el tiempo-espacio allí. Así que no será difícil averiguarlo.
 Completable_String1=Bien hecho. Esto terminará pronto, solo un momento.
-Complete_String=(Misión de grupo de Croaker) (3/5)<br>El sospechoso Arche ahora solicita ayuda para averiguar si los Gnolls de melena dorada son los mismos que invadieron el garden of Fabris. Así que me dirigí al almacén abandonado de Duelden para recolectar las melenas de los Gnolls de melena dorada.
+Complete_String=(Misión de grupo de Croaker) (3/5)<br>El sospechoso Arche ahora solicita ayuda para averiguar si los Gnolls de melena dorada son los mismos que invadieron el Fabrice Garden. Así que me dirigí al almacén abandonado de Duelden para recolectar las melenas de los Gnolls de melena dorada.
 List_String=(Misión de grupo de Croaker) (3/5)<br=El sospechoso Arche te pide recolectar las melenas de los Gnolls de melena dorada del almacén abandonado de Duelden.
 Mission_String=Recolecta las melenas de los Gnolls de melena dorada del almacén abandonado
 Mission_Target1=Melena de Gnoll de melena dorada
@@ -39102,14 +39102,14 @@ Occur_String1=No tomó mucho tiempo porque tenía los registros de investigació
 Occur_String2=Al compararlos, descubrí que la única diferencia era el nivel de contaminación del tiempo-espacio; son la misma especie. No pude encontrar ningún rastro de que hayan viajado a través de dimensiones por la distorsión del tiempo-espacio.
 Occur_String3=No entiendo. ¿Cómo sabes si viajaron a través de dimensiones por la distorsión del tiempo-espacio?
 Occur_String4=Estaba creando algo que se aRift si la energía del tiempo-espacio de la dimensión no coincidía, por si acaso. No está completado aún... estoy un poco desconcertado porque el problema de la línea de tiempo de la dimensión ocurrió demasiado temprano.
-Occur_String5=De todos modos, parece que el reciente flujo inestable de tiempo-espacio no fue un problema del garden of Fabris. Supongo que fue pura suerte que los Gnolls de melena dorada encontraran el garden of Fabris mientras buscaban comida.
+Occur_String5=De todos modos, parece que el reciente flujo inestable de tiempo-espacio no fue un problema del Fabrice Garden. Supongo que fue pura suerte que los Gnolls de melena dorada encontraran el Fabrice Garden mientras buscaban comida.
 Occur_String6=No... es sospechoso...<br>Según tu investigación, es extraño que los croakers estén asustados y que todas las ranas hayan huido. Los croakers son un tipo muy especial de ranas. Especialmente, su canto tiene un efecto que anima a las ranas.
-Occur_String7=Por favor, encuentra las ranas fugitivas. Tengo que investigar la razón por la cual huyeron del garden of Fabris y verificar si eso está relacionado con la línea de tiempo de la dimensión.
+Occur_String7=Por favor, encuentra las ranas fugitivas. Tengo que investigar la razón por la cual huyeron del Fabrice Garden y verificar si eso está relacionado con la línea de tiempo de la dimensión.
 Occur_String8=Recientemente, escuché que en las llanuras de Bredrias de Duelden, se pueden escuchar los gritos de ranas en la distorsión del tiempo-espacio, algo que nunca sucedía en la lluvia. Parece que las ranas fugitivas están allí, así que por favor investígalas.
 Doing_String=Por suerte, parece que lloverá, así que por favor apresúrate. Solo sigue sus gritos y encontrarás a las ranas fugitivas en poco tiempo.
-Completable_String1=¿Has hablado con las ranas? ¿Por qué huyeron del garden of Fabris?
+Completable_String1=¿Has hablado con las ranas? ¿Por qué huyeron del Fabrice Garden?
 Complete_String=(Misión de grupo de Croaker) (4/5)<br>Aunque resultó que los Gnolls eran de la misma especie, fue difícil entender por qué las ranas huyeron del refugio de los croakers. El sospechoso Arche me pidió que encontrara a las ranas fugitivas y descubriera si hubo algún cambio en su situación.
-List_String=(Misión de grupo de Croaker) (4/5)<br=El sospechoso Arche me pidió investigar la razón por la cual las ranas huyeron del garden of Fabris hacia la distorsión del tiempo-espacio de Duelden.
+List_String=(Misión de grupo de Croaker) (4/5)<br=El sospechoso Arche me pidió investigar la razón por la cual las ranas huyeron del Fabrice Garden hacia la distorsión del tiempo-espacio de Duelden.
 Mission_String=Investiga las ranas que huyeron a la distorsión del tiempo-espacio
 Mission_Target1=Investigación de las ranas
 
@@ -39134,15 +39134,15 @@ Mission_Target1=Cristal de tiempo-espacio
 Name=(T) Investigación de la caja fuerte secreta
 Occur_String1=No pude encontrar nada fuera de lo común en los cristales de tiempo-espacio que obtuviste. Sospecho que alguien ha alterado la línea de tiempo de la dimensión, pero no tengo pruebas.
 Occur_String2=¿Mi intuición está equivocada?
-Occur_String3=No necesariamente. Estimando el período desde que las ranas huyeron del garden of Fabris hasta ahora, la tasa de contaminación del tiempo-espacio es demasiado alta. Necesitaré investigar más sobre este asunto.
+Occur_String3=No necesariamente. Estimando el período desde que las ranas huyeron del Fabrice Garden hasta ahora, la tasa de contaminación del tiempo-espacio es demasiado alta. Necesitaré investigar más sobre este asunto.
 Occur_String4=Es difícil. La línea de tiempo de la dimensión... y la investigación del flujo inestable de tiempo-espacio desde allí...
 Occur_String5=Todo esto habría sucedido eventualmente. Solo estoy un poco confundido porque ocurrió demasiado temprano.
 Occur_String6=No te preocupes demasiado. Recientemente, el flujo de tiempo-espacio se ha vuelto muy inestable, y sospecho que hay juego sucio en la línea de tiempo de la dimensión al investigar ese flujo. Y por eso estamos buscando pruebas de eso...
-Occur_String7=Ahora, tenemos que investigar la caja fuerte secreta, oculta en la distorsión del tiempo-espacio por Luery. Porque ahí se encontró un flujo de tiempo-espacio similar al del garden of Fabris. Si seguimos investigando, estamos destinados a encontrar algo.
+Occur_String7=Ahora, tenemos que investigar la caja fuerte secreta, oculta en la distorsión del tiempo-espacio por Luery. Porque ahí se encontró un flujo de tiempo-espacio similar al del Fabrice Garden. Si seguimos investigando, estamos destinados a encontrar algo.
 Doing_String=¡Ah! Habrá un escándalo si Luery descubre que la caja fuerte fue registrada, así que no dejes que nadie se entere de tu viaje.
 Completable_String1=¿Terminaste de investigar la caja fuerte secreta? Déjame saber si encontraste algo extraño.
-Complete_String=(Misión de grupo de Warblin) (1/4)<br=A petición de Arche, investigué la caja fuerte secreta donde se encontró un flujo de tiempo-espacio similar al del garden of Fabris, pero no encontré nada fuera de lo común.
-List_String=(Misión de grupo de Warblin) (1/4)<br=El sospechoso Arche me pidió investigar la caja fuerte secreta donde el flujo de tiempo-espacio era similar al del garden of Fabris.
+Complete_String=(Misión de grupo de Warblin) (1/4)<br=A petición de Arche, investigué la caja fuerte secreta donde se encontró un flujo de tiempo-espacio similar al del Fabrice Garden, pero no encontré nada fuera de lo común.
+List_String=(Misión de grupo de Warblin) (1/4)<br=El sospechoso Arche me pidió investigar la caja fuerte secreta donde el flujo de tiempo-espacio era similar al del Fabrice Garden.
 Mission_String=Investiga la caja fuerte secreta en la sala de tareas de Oldor
 Mission_Target1=Investigación de la caja fuerte secreta
 
@@ -39154,7 +39154,7 @@ Occur_String3=Hmm... pensé que podría haber algunos cambios considerando el fl
 Occur_String4=Creo que es hora de compartir todo. En este mundo en el que vivimos, hay muchas dimensiones coexistentes. Cada dimensión cambia sutilmente debido a incidentes triviales o entornos, pero hay hechos comunes que son constantes.
 Occur_String5=Esos hechos están ligados por la línea de tiempo de la dimensión, la cual mantiene nuestro mundo. Los antiguos pioneros cruzaron dimensiones a través de distorsiones del tiempo-espacio y registraron los incidentes ligados a esta línea de tiempo, y esos registros se guardan en la biblioteca oculta en la distorsión del tiempo-espacio.
 Occur_String6=Uno de los registros en la biblioteca es la rebelión de la caja fuerte secreta. Parece ser un incidente trivial, pero esta rebelión de la caja fuerte secreta causó cambios en Luery y llevó a una gran influencia en la Sociedad de Investigación de la Rift en el futuro.
-Occur_String7=Pero según tu informe, el líder de la rebelión ha cambiado a Warblin el caníbal. Creo que alguien está tratando de distorsionar la línea de tiempo de la dimensión causando un pequeño cambio. El garden of Fabris también parece ser una intervención en la línea de tiempo de la dimensión mediante un método similar...
+Occur_String7=Pero según tu informe, el líder de la rebelión ha cambiado a Warblin el caníbal. Creo que alguien está tratando de distorsionar la línea de tiempo de la dimensión causando un pequeño cambio. El Fabrice Garden también parece ser una intervención en la línea de tiempo de la dimensión mediante un método similar...
 Occur_String8=Primero, debemos investigar si la intervención en la línea de tiempo de la dimensión causó el cambio del líder en la rebelión de la caja fuerte secreta. Por favor, verifica qué sucedió encontrando a Warblin, quien estaba vigilando la caja fuerte secreta.
 Occur_String9=Warblin solía ser el líder de un grupo de bandidos goblins que saqueaban en la cuenca de Wais. Puede que haya algunos goblins que todavía estén en contacto con Warblin, así que registra el lugar y encuentra cualquier rastro.
 Doing_String=Busca la distorsión del tiempo-espacio en la cuenca de Wais. Registra el lugar, ya que puede haber algunos goblins que todavía estén en contacto con Warblin.
