@@ -130,7 +130,7 @@ ItemDivision_150=Desbloquear ranura de creación de personaje
 ItemDivision_151=Núcleo Talismán
 ItemDivision_160=Pecho de selección
 ItemDivision_170=Item de Mejora de Artefacto
-ItemDivision_171=Item de mejora de artefacto despertado
+ItemDivision_171=Item de mejora de Artefacto Awakened
 ItemDivision_172=Item Polivalente de Mejora de Artefacto Awakened
 ItemDivision_180=Pergamino
 ItemDivision_181=Item funcional
@@ -3519,22 +3519,22 @@ AltarSkill_6401=Mascota EXP ganancia <Font color = '#00FF06'>+5%< / Font>
 AltarSkill_6002=Ganancia EXP alma <Font color = '#00FF06'>+10%< / Font>
 AltarSkill_6102=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+10%< / Font>
 AltarSkill_6202=Ganancia EXP artefacto normal <Font color = '#00FF06'>+20%< / Font>
-AltarSkill_6302=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+10%< / Font>
+AltarSkill_6302=Ganancia EXP Artefacto Awakened <Font color = '#00FF06'>+10%< / Font>
 AltarSkill_6402=Mascota EXP ganancia <Font color = '#00FF06'>+10%< / Font>
 AltarSkill_6003=Ganancia EXP alma <Font color = '#00FF06'>+15%< / Font>
 AltarSkill_6103=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+15%< / Font>
 AltarSkill_6203=Ganancia EXP artefacto normal <Font color = '#00FF06'>+30%< / Font>
-AltarSkill_6303=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+15%< / Font>
+AltarSkill_6303=Ganancia EXP Artefacto Awakened <Font color = '#00FF06'>+15%< / Font>
 AltarSkill_6403=Ganancia EXP Mascota <Font color = '#00FF06'>+15%< / Font>
 AltarSkill_6004=Ganancia EXP alma <Font color = '#00FF06'>+20%< / Font>
 AltarSkill_6104=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+20%< / Font>
 AltarSkill_6204=Ganancia EXP artefacto normal <Font color = '#00FF06'>+40%< / Font>
-AltarSkill_6304=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+20%< / Font>
+AltarSkill_6304=Ganancia EXP Artefacto Awakened <Font color = '#00FF06'>+20%< / Font>
 AltarSkill_6404=Ganancia EXP Mascota <Font color = '#00FF06'>+20%< / Font>
 AltarSkill_6005=Ganancia EXP alma <Font color = '#00FF06'>+22%< / Font>
 AltarSkill_6105=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+25%< / Font>
 AltarSkill_6205=Ganancia EXP artefacto normal <Font color = '#00FF06'>+50%< / Font>
-AltarSkill_6305=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+25%< / Font>
+AltarSkill_6305=Ganancia EXP Artefacto Awakened <Font color = '#00FF06'>+25%< / Font>
 AltarSkill_6405=Ganancia EXP Mascota <Font color = '#00FF06'>+22%< / Font>
 AltarSkill_6006=Ganancia EXP alma <Font color = '#00FF06'>+24%< / Font>
 AltarSkill_6106=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+30%< / Font>
@@ -3544,12 +3544,12 @@ AltarSkill_6406=Mascota EXP ganancia <Font color = '#00FF06'>+24%< / Font>
 AltarSkill_6007=Aumento EXP alma <Font color = '#00FF06'>+26%< / Font>
 AltarSkill_6107=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+35%< / Font>
 AltarSkill_6207=Ganancia EXP artefacto normal <Font color = '#00FF06'>+70%< / Font>
-AltarSkill_6307=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+35%< / Font>
+AltarSkill_6307=Ganancia EXP Artefacto Awakened <Font color = '#00FF06'>+35%< / Font>
 AltarSkill_6407=Mascota EXP ganancia <Font color = '#00FF06'>+26%< / Font>
 AltarSkill_6008=Aumento EXP alma <Font color = '#00FF06'>+28%< / Font>
 AltarSkill_6108=Ganancia EXP de Guild/Puntos de contribución <Font color = '#00FF06'>+40%< / Font>
 AltarSkill_6208=Ganancia EXP artefacto normal <Font color = '#00FF06'>+80%< / Font>
-AltarSkill_6308=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+40%< / Font>
+AltarSkill_6308=Ganancia EXP Artefacto Awakened <Font color = '#00FF06'>+40%< / Font>
 AltarSkill_6408=Ganancia EXP Mascota <Font color = '#00FF06'>+28%< / Font>
 AltarSkill_6009=Ganancia EXP alma <Font color = '#00FF06'>+30%< / Font>
 AltarSkill_6109=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+45%< / Font>
@@ -3559,12 +3559,12 @@ AltarSkill_6409=Mascota EXP ganancia <Font color = '#00FF06'>+30%< / Font>
 AltarSkill_6010=Alma EXP ganancia <Font color = '#00FF06'>+32%< / Font>
 AltarSkill_6110=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+50%< / Font>
 AltarSkill_6210=Ganancia EXP artefacto normal <Font color = '#00FF06'>+100%< / Font>
-AltarSkill_6310=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+50%< / Font>
+AltarSkill_6310=Ganancia EXP Artefacto Awakened <Font color = '#00FF06'>+50%< / Font>
 AltarSkill_6410=Ganancia EXP Mascota <Font color = '#00FF06'>+32%< / Font>
 AltarSkill_6011=Ganancia EXP alma <Font color = '#00FF06'>+34%< / Font>
 AltarSkill_6111=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+55%< / Font>
 AltarSkill_6211=Ganancia EXP artefacto normal <Font color = '#00FF06'>+110%< / Font>
-AltarSkill_6311=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+55%< / Font>
+AltarSkill_6311=Ganancia EXP Artefacto Awakened <Font color = '#00FF06'>+55%< / Font>
 AltarSkill_6411=Ganancia EXP Mascota <Font color = '#00FF06'>+34%< / Font>
 AltarSkill_6012=Alma EXP ganancia <Font color = '#00FF06'>+36%< / Font>
 AltarSkill_6112=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+60%< / Font>
@@ -3579,32 +3579,32 @@ AltarSkill_6413=Ganancia EXP Mascota <Font color = '#00FF06'>+38%< / Font>
 AltarSkill_6014=Alma EXP ganancia <Font color = '#00FF06'>+40%< / Font>
 AltarSkill_6114=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+70%< / Font>
 AltarSkill_6214=Ganancia EXP artefacto normal <Font color = '#00FF06'>+140%< / Font>
-AltarSkill_6314=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+70%< / Font>
+AltarSkill_6314=Ganancia EXP Artefacto Awakened <Font color = '#00FF06'>+70%< / Font>
 AltarSkill_6414=Ganancia EXP Mascota <Font color = '#00FF06'>+40%< / Font>
 AltarSkill_6015=Aumento de EXP de alma <Font color = '#00FF06'>+42%< / Font>
 AltarSkill_6115=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+75%< / Font>
 AltarSkill_6215=Ganancia EXP artefacto normal <Font color = '#00FF06'>+150%< / Font>
-AltarSkill_6315=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+75%< / Font>
+AltarSkill_6315=Ganancia EXP Artefacto Awakened <Font color = '#00FF06'>+75%< / Font>
 AltarSkill_6415=Ganancia EXP Mascota <Font color = '#00FF06'>+42%< / Font>
 AltarSkill_6016=Alma EXP ganancia <Font color = '#00FF06'>+44%< / Font>
 AltarSkill_6116=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+80%< / Font>
 AltarSkill_6216=Ganancia EXP artefacto normal <Font color = '#00FF06'>+160%< / Font>
-AltarSkill_6316=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+80%< / Font>
+AltarSkill_6316=Ganancia EXP Artefacto Awakened <Font color = '#00FF06'>+80%< / Font>
 AltarSkill_6416=Ganancia EXP Mascota <Font color = '#00FF06'>+44%< / Font>
 AltarSkill_6017=Alma EXP ganancia <Font color = '#00FF06'>+46%< / Font>
 AltarSkill_6117=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+85%< / Font>
 AltarSkill_6217=Ganancia EXP artefacto normal <Font color = '#00FF06'>+170%< / Font>
-AltarSkill_6317=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+85%< / Font>
+AltarSkill_6317=Ganancia EXP Artefacto Awakened <Font color = '#00FF06'>+85%< / Font>
 AltarSkill_6417=Ganancia EXP Mascota <Font color = '#00FF06'>+46%< / Font>
 AltarSkill_6018=Alma EXP ganancia <Font color = '#00FF06'>+48%< / Font>
 AltarSkill_6118=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+90%< / Font>
 AltarSkill_6218=Ganancia EXP artefacto normal <Font color = '#00FF06'>+180%< / Font>
-AltarSkill_6318=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+90%< / Font>
+AltarSkill_6318=Ganancia EXP Artefacto Awakened <Font color = '#00FF06'>+90%< / Font>
 AltarSkill_6418=Mascota EXP ganancia <Font color = '#00FF06'>+48%< / Font>
 AltarSkill_6019=Alma EXP ganancia <Font color = '#00FF06'>+50%< / Font>
 AltarSkill_6119=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+95%< / Font>
 AltarSkill_6219=Ganancia EXP artefacto normal <Font color = '#00FF06'>+190%< / Font>
-AltarSkill_6319=Ganancia EXP artefacto despertado <Font color = '#00FF06'>+95%< / Font>
+AltarSkill_6319=Ganancia EXP Artefacto Awakened <Font color = '#00FF06'>+95%< / Font>
 AltarSkill_6419=Ganancia EXP Mascota <Font color = '#00FF06'>+50%< / Font>
 AltarSkill_6020=Alma EXP ganancia <Font color = '#00FF06'>+60%< / Font>
 AltarSkill_6120=Ganancia de EXP/Puntos de contribución de Guild <Font color = '#00FF06'>+100%< / Font>
@@ -4162,7 +4162,7 @@ limit_32_Title=Paquete especial para nivel de alma 200
 limit_32_ItemTitle=Paquete especial para alma de nivel 200
 limit_32_ItemDesc=¡Felicidades por alcanzar el nivel de alma 200!<br>Aquí tienes un paquete de crecimiento que contiene sólo lo mejor de los Items que más necesitas ahora mismo.
 limit_32_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
-limit_33_Title=Paquete especial de artefacto despertado 1
+limit_33_Title=Paquete especial de Artefacto Awakened 1
 limit_33_ItemTitle=Paquete especial de artefactos Awakened 1
 limit_33_ItemDesc=¡Siente los increíbles poderes de los artefactos Awakened<br>a través de este paquete especial!
 limit_33_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
