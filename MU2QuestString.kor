@@ -5121,7 +5121,7 @@ Occur_String3=Son solo un grupo de civiles que vinieron aquí a investigar fenó
 Occur_String4=También me pagan generosamente por mis hongos. <br>Pero no he podido enviarles hongos desde que me arrastraron a este lugar. <br>¿Podrías hacerlo por mí?
 Doing_String=Los Hongos de Crecimiento Rápido incluso prosperan en suelo congelado.
 Completable_String1=Los nómadas Dracans, Sailine, te envían estos hongos. Aquí.
-Completable_String2=Eres el guerrero de la Llanura del Lago Helado que nos trajo leña. <br¿Por qué viniste en lugar de Sailine?
+Completable_String2=Eres el guerrero de la Ice Lake Plain que nos trajo leña. <br¿Por qué viniste en lugar de Sailine?
 Complete_String=Recolecté Hongos de Crecimiento Rápido para el nómada Dracans Sailine y se los entregué a los Halcones de Plata.
 List_String=Recolecta Hongos de Crecimiento Rápido para el nómada Dracans Sailine y entrégaselos a los Halcones de Plata.
 Mission_String=Recolectar Hongos de Crecimiento Rápido y entregárselos a Jerry
@@ -5289,11 +5289,11 @@ Mission_Target1=Sacar Agua Glacial
 [Quest_1306]
 Name=Retaguardia Vulnerable
 Occur_String1=Nos encontramos de nuevo. Bueno verte, %s_9_1.
-Occur_String2=Sí, esta es la primera vez que nos encontramos desde aquel momento en la Llanura del Lago de Hielo. Aunque te veo preocupado.
+Occur_String2=Sí, esta es la primera vez que nos encontramos desde aquel momento en la Ice Lake Plain. Aunque te veo preocupado.
 Occur_String3=Los Caballeros Dracans galoparon más allá de las líneas de defensa del Pandemonio para llegar al frente central.
 Occur_String4=No espero menos de Chaisong.
 Occur_String5=Pero teníamos tanta prisa que no pudimos destruir sus líneas de defensa. <br>Ahora estoy preocupado por el contraataque de los Gremlins en la retaguardia.
-Occur_String6=¿Podrías deshacerte de ellos por nosotros? <br>Elimínalos, tal como obliteraste el campamento de la Dark mission en la Llanura del Lago de Hielo.
+Occur_String6=¿Podrías deshacerte de ellos por nosotros? <br>Elimínalos, tal como obliteraste el campamento de la Dark mission en la Ice Lake Plain.
 Doing_String=¡Honor a los Caballeros Dracans!
 Completable_String1=¿Ya te deshiciste de ellos? No has perdido habilidad, %s_9_1.
 Complete_String=Los Caballeros Dracans galoparon más allá de las líneas de defensa del Pandemonio y llegaron al frente central para la operación conjunta con el ejército real de Lorencia, pero tenían tanta prisa que tuvieron que dejar su retaguardia vulnerable al enemigo. Así que maté a la unidad fuerte del ejército del Pandemonio que había quedado atrás.
@@ -5347,7 +5347,7 @@ Mission_Target1=Mata a las Plantas Pandemoníacas
 
 [Quest_1313]
 Name=Un Halcón de Plata en un Disfraz Descuidado
-Occur_String1=¡Hey, tú! Eres el Halcón de Plata que se disfrazó de Dracan en la Llanura del Lago de Hielo, ¿verdad?
+Occur_String1=¡Hey, tú! Eres el Halcón de Plata que se disfrazó de Dracan en la Ice Lake Plain, ¿verdad?
 Occur_String2=Mi disfraz debería ser perfecto esta vez. ¿No? ¡Bah!
 Occur_String3=No, te ves tan descuidado como antes. No hay forma de que puedas pasar por un Dracan.<br> A menos que los Dracans aquí tengan mala vista.
 Occur_String4=¡Cállate, vas a llamar su atención! Kyle me envió a recoger sacos de aire de dragón.<br> No me dijo por qué los necesita. ¿Podrías recogerlos y llevarlos a mi campamento?
