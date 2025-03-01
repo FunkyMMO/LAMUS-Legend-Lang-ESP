@@ -1599,15 +1599,15 @@ Msg_Mailbox_20VS20_ITEM_SUBJECT=Hemos encontrado el Item que dejaste en la Arena
 Msg_Mailbox_20VS20_ITEM_SENDER=Encargado de la Arena Sangrienta de las Almas
 Msg_Mailbox_20VS20_ITEM_CONTENT=Recompensa Arena Sangrienta de Almas
 Msg_Mailbox_Chaos_Castle_SUBJECT=Hemos encontrado el Item que dejaste en Blood Castle. Te lo enviamos.
-Msg_Mailbox_Chaos_Castle_SENDER=Encargado dBlood Castle
+Msg_Mailbox_Chaos_Castle_SENDER=Encargado de Blood Castle
 Msg_Mailbox_Chaos_Castle_CONTENT=Recompensa Blood Castle
 Msg_Mailbox_ADV_CARD_SUBJECT=Te enviamos el Item que perdiste en la Rift.
 Msg_Mailbox_ADV_CARD_SENDER=Sociedad de Investigación de la Rift de Arke
 Msg_Mailbox_ADV_CARD_CONTENT=Te enviamos los Items que perdiste en la Rift.
 Msg_Mailbox_Endless_Tower_SUBJECT=Recompensas de la Endless Tower
-Msg_Mailbox_Endless_Tower_SENDER=Encargado de la room of duty
+Msg_Mailbox_Endless_Tower_SENDER=Room of Duty
 Msg_Mailbox_Endless_Tower_CONTENT=Hemos encontrado el Item que dejaste en la Endless Tower. Te lo enviamos.
-Msg_Mailbox_Blood_Castle_SUBJECT=Recompensas dBlood Castle
+Msg_Mailbox_Blood_Castle_SUBJECT=Recompensas de Blood Castle
 Msg_Mailbox_Blood_Castle_SENDER=Encargado de la Sala de Servicio
 Msg_Mailbox_Blood_Castle_CONTENT=Hemos encontrado el Item que dejaste en Blood Castle. Te lo enviamos.
 Msg_Mailbox_Account_1_SUBJECT=Recompensa por correo de nivel de cuenta
@@ -1616,7 +1616,7 @@ Msg_Mailbox_Account_1_CONTENT=Aquí tienes tu recompensa por aumentar el nivel d
 Msg_Mailbox_QUEST_ITEM_SUBJECT=Te estamos enviando recompensas de Items que no has recibido por completar misiones.
 Msg_Mailbox_QUEST_ITEM_SENDER=Encargado de misiones
 Msg_Mailbox_QUEST_ITEM_CONTENT=Recompensa de Búsqueda
-Msg_Mailbox_Achievement_SENDER=Encargado de logros
+Msg_Mailbox_Achievement_SENDER=Logros
 Msg_Mailbox_LegendOfDice_SUBJECT=Aquí tienes tu recompensa Leyenda de Dados que no ha podido ser añadida a tu inventario porque estaba lleno.
 Msg_Mailbox_LegendOfDice_SENDER=Leyenda de Dados
 Msg_Mailbox_LegendOfDice_CONTENT=Gestor de Leyenda de Dado
@@ -2563,7 +2563,7 @@ Survey_5_Question_1_Choice_2=Satisfactorio
 Survey_5_Question_1_Choice_3=Normal
 Survey_5_Question_1_Choice_5=Insatisfactorio
 Survey_5_Question_1_Choice_4=Muy insatisfactorio
-Survey_6_Information=Hola, este es un mensaje de LAMUS.<br>Esta encuesta está diseñada para registrar su <Font color='#FFCD12'>evaluación dBlood Castle</Font>.
+Survey_6_Information=Hola, este es un mensaje de LAMUS.<br>Esta encuesta está diseñada para registrar su <Font color='#FFCD12'>evaluación de Blood Castle</Font>.
 Survey_6_Subject=<Font color='#BCE55C'>Encuesta sobre Blood Castle</Font>
 Survey_6_Question_1=¿Le ha gustado Blood Castle?
 Survey_6_Question_1_Choice_1=Muy satisfactorio

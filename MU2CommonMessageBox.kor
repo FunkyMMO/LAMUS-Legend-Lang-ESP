@@ -63,7 +63,7 @@ ExitAltarOfElements_End=Salir del Altar de los Espíritus
 ExitEndlessTower_Die=Salir de Endless Tower
 ExitEndlessTower_Complete=Salir de la Torre Inacabable
 ExitEndlessTower=Salir de Endless Tower
-ExitBloodCastle=Salir dBlood Castle
+ExitBloodCastle=Salir de Blood Castle
 MSS_RegisterRuneSkill=Registrar Cresta
 EnterCountQuest=Entrar
 EvolutionWing=Evolucionar alas
@@ -143,7 +143,7 @@ ReWright=Reescribir
 MailDelAll=Borrar todo
 MailHaveItemNotEmpty=Aceptar todo
 MailHaveItemAndDel=Aceptar todo
-ExitChaosCastle=Salir dBlood Castle
+ExitChaosCastle=Salir de Blood Castle
 ExitWebOfGod=Salir del God of Corridor
 Msg_Field_Boss_Raid=Asalto del Jefe de Campo
 Msg_Enchant_Cancel=Notificación de cancelación de encantamiento
@@ -251,7 +251,7 @@ ExitAltarOfElements_End=<font color='#FDC243'>¿Salir?</font>
 ExitEndlessTower_Die=<font color='#FDC243'>¿Salir?</font><br><br>Otros jugadores siguen subiendo a la Endless Tower.<br>Si sales de la Endless Tower ahora, no obtendrás recompensas.<br>Si otros jugadores han completado la conquista o si han muerto, podrás obtener recompensas.
 ExitEndlessTower_Complete=<font color='#FDC243'>¿Salir?</font>
 ExitEndlessTower=<font color='#FDC243'>¿Salir?</font><br><br>Aún estás escalando la Endless Tower.<br>Si sales de la Endless Tower ahora, no obtendrás recompensas.
-ExitBloodCastle=¿Salir dBlood Castle?
+ExitBloodCastle=¿Salir de Blood Castle?
 MSS_RegisterRuneSkill=¿Registrar esta cresta? Una vez registrada una cresta, no se puede recuperar.
 EnterCountQuest=No hay suficiente número de entradas. ¿Mover, de todos modos?
 EvolutionWing=La evolución de las alas consume materiales automáticamente. ¿Continuar?
@@ -336,7 +336,7 @@ ReWright=Se borrará el contenido actual.<br>¿Volver a escribir?
 MailDelAll=Existen Zen y Items no reclamados.
 MailHaveItemNotEmpty=Tu bolsa está llena.
 MailHaveItemAndDel=Eliminar todos los mensajes recibidos.
-ExitChaosCastle=¿Salir dBlood Castle?
+ExitChaosCastle=¿Salir de Blood Castle?
 ExitWebOfGod=Si abandonas el God of Corridor ahora, perderás tu recompensa.<br>¿Salir de todas formas?
 Msg_Field_Boss_Raid=¿Invocar a este monstruo?
 Msg_Enchant_Cancel=Información de encantamiento cambiada. Encantamiento cancelado. Vuelve a intentarlo más tarde.

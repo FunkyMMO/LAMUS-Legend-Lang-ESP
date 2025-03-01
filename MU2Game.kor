@@ -3811,7 +3811,7 @@ Dungeon_Desc_9062631=El dragón de fuego Valtheram, que se sacrificó al dios de
 Dungeon_Title_9920101=Endless Tower
 Dungeon_Desc_9920101=Una inmensa torre construida por Rugard y Bulcan.<br>Se dice que aquellos que superan el reto de escalar la torre obtienen un gran poder.<br><font color='#FDD889'>* El nivel de dificultad de la Endless Tower varía en función del número de miembros de tu grupo.</font>
 Dungeon_Title_9920201=Blood Castle
-Dungeon_Desc_9920201=Un castillo de otro mundo en el que yace dormida Anilata, la líder de los Cruzados.<br>Recientemente, ha tenido lugar una disputa, instigada por los Demonios del Pandemónium, que quieren resucitar a Anilata para mantener a raya a Rugard.<br><font color='#FDD889'>* El nivel de dificultad dBlood Castle varía en función del número de miembros de tu party.</font>
+Dungeon_Desc_9920201=Un castillo de otro mundo en el que yace dormida Anilata, la líder de los Cruzados.<br>Recientemente, ha tenido lugar una disputa, instigada por los Demonios del Pandemónium, que quieren resucitar a Anilata para mantener a raya a Rugard.<br><font color='#FDD889'>* El nivel de dificultad de Blood Castle varía en función del número de miembros de tu party.</font>
 Dungeon_Title_9040101=Hall of Awakening
 Dungeon_Desc_9040101=Un lugar que la Instructora Ashas ha creado en tu subconsciente con sus poderes telepáticos.<br>Veamos qué tipos de recuerdos se pueden encontrar aquí.
 Dungeon_Title_9040102=Hall of Trials
@@ -4216,7 +4216,7 @@ LS_DungeonDesc_9050431=Las Dungeons épicas son mucho más difíciles que otras 
 LS_DungeonDesc_9030331=Las Dungeons épicas son mucho más difíciles que otras Dungeons. Se recomienda jugar en grupo.
 LS_DungeonDesc_9062631=Las Dungeons épicas son mucho más difíciles que otras Dungeons. Se recomienda explorarlas en grupo.
 LS_DungeonDesc_9920101=El nivel de dificultad de la Endless Tower varía dependiendo del <font color='#B4FE42'>número de miembros de tu grupo</font>.
-LS_DungeonDesc_9920201=El nivel de dificultad dBlood Castle varía en función del <font color='#B4FE42'>número de miembros de tu grupo</font>.
+LS_DungeonDesc_9920201=El nivel de dificultad de Blood Castle varía en función del <font color='#B4FE42'>número de miembros de tu grupo</font>.
 LS_DungeonDesc_9040101=Solo puedes entrar en esta Dungeon solo,<br>no con tu grupo.
 LS_DungeonDesc_9040102=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
 LS_DungeonDesc_9203001=Lupa's Labyrinth es un Mapa de Misión de alta dificultad, abundante en materiales de craft de Artefactos y diseñado para ayudar a mejorar los Artefactos.
@@ -4689,7 +4689,7 @@ LS_RewardTitle=Información clara
 
 [MU2GFxBloodCastleInfoWidget]
 LS_PointTitle=Puntuación
-LS_MainTitle=¡Elimina a los monstruos dBlood Castle y vuelve a sellar Anilata!
+LS_MainTitle=¡Elimina a los monstruos de Blood Castle y vuelve a sellar Anilata!
 LS_RemainTime=Límite de tiempo
 LS_BreakGateDesc=Destruir las Piedras de Sello aumenta el nivel de los monstruos.
 LS_KillBossDesc=Eliminar a Anilata y a todos sus lacayos.
@@ -4708,7 +4708,7 @@ LS_GameSuccess_Text[1]=¡Conquistado!
 LS_GameSuccess_Text[2]=Has conquistado Blood Castle.
 LS_GameFail_Text[0]=
 LS_GameFail_Text[1]=¡Fallido!
-LS_GameFail_Text[2]=Has fallado en la conquista dBlood Castle.
+LS_GameFail_Text[2]=Has fallado en la conquista de Blood Castle.
 LS_BreakGate_Text[0]=
 LS_BreakGate_Text[1]=Sin sellar
 LS_BreakGate_Text[2]=El sello del ataúd de cristal se ha roto.<br>El ataúd de cristal ahora puede ser destruido.
