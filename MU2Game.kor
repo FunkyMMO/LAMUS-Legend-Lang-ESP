@@ -474,7 +474,7 @@ LS_ShowAllList=Ver todos los Items de clase
 LS_ToolTipText_55003=<b><font color='#FDC243'>Prueba de Jonathan</font></b><br>Puede conseguirse completando la Misión diaria de Jonathan.
 LS_ToolTipText_55004=<b><font color='#FDC243'>Medalla de Kundun</font></b><br>Puede conseguirse completando la Misión diaria de Kundun.
 LS_ToolTipText_55015=<b><font color='#FDC243'>Prueba de Fletcher</font></b><br>Puede conseguirse completando la peligrosa Misión diaria de Fletcher.
-LS_ToolTipText_62901=<b><font color='#FDC243'>Sello de poder</font></b><br>Se puede conseguir jugando en la Torre infinita.
+LS_ToolTipText_62901=<b><font color='#FDC243'>Sello de poder</font></b><br>Se puede conseguir jugando en la Endless Tower.
 LS_ToolTipText_55011=<b><font color='#FDC243'>Precioso producto refinado</font></b><br>Puede obtenerse en la Refinería de Items.
 
 [MU2GFxNpcShopKnightsPoint]
@@ -528,7 +528,7 @@ LS_ShopDesc_9503=Esta tienda sólo abre durante un periodo de evento.
 LS_BuyCount_9503=Compras disponibles
 LS_NoLimit_9503=Ilimitado
 LS_TokenCount_9503=Tus fichas
-LS_ToolTipText_9503=<b><font color='#FDC243'>Chakram misterioso</font></b><br><font color='#FDC243'>(Se puede obtener de los monstruos jefe de las siguientes Dungeons.)</font></b><br>Jardín de Fabrice: 5 Chakrams</b><br>Magic Gem Mine: 5 Chakrams</b><br>Blood Castle: 5 Chakrams</b><br>Bóveda Secreta de Luery: 5 Chakrams</b><br>Sanctum de los Caballeros Dragón: 10 Chakrams</b><br>Castillo del Dragón: 10 Chakrams</b><br>Pit of the Dead: 10 Chakrams
+LS_ToolTipText_9503=<b><font color='#FDC243'>Chakram misterioso</font></b><br><font color='#FDC243'>(Se puede obtener de los monstruos jefe de las siguientes Dungeons.)</font></b><br>Fabrice Garden: 5 Chakrams</b><br>Magic Gem Mine: 5 Chakrams</b><br>Blood Castle: 5 Chakrams</b><br>Luery's Secret Vault: 5 Chakrams</b><br>Sanctum de los Caballeros Dragón: 10 Chakrams</b><br>Castillo del Dragón: 10 Chakrams</b><br>Pit of the Dead: 10 Chakrams
 LS_Title_9515=Tienda
 LS_ShopDesc_9515=Las compras diarias se reinician cada día a las 5:00 a.m.
 LS_BuyCount_9515=Compras diarias
@@ -1753,7 +1753,7 @@ LS_ChaosCastle_Desc5=Durante los primeros 50 minutos de cada hora
 LS_BloodCastle_Title=Blood Castle
 LS_BloodCastle_Desc0=Elimina a todos los enemigos.
 LS_BloodCastle_Desc1=Recompensas: grandes cantidades de EXP y EXP de Alma
-LS_BloodCastle_Desc2=Muchos valientes caballeros han entrado en el Blood Castle pero hasta ahora ninguno ha vuelto con vida.
+LS_BloodCastle_Desc2=Muchos valientes caballeros han entrado en Blood Castle pero hasta ahora ninguno ha vuelto con vida.
 LS_BloodCastle_Desc3=Hasta 5 jugadores
 LS_BloodCastle_Desc4=Level 33-39
 LS_BloodCastle_Desc5=Cada hora
@@ -3397,7 +3397,7 @@ LS_NetherWorld=Pit of the Dead
 LS_FireEvil=Cave of the Fire Demon
 LS_IceEvil=Ice Demon Cave
 LS_LOD=Dificultad
-LS_Fixed=Fijo 
+LS_Fixed= 
 LS_EpicTypeA=Ejemplo tipo A
 LS_TopLevel=Nivel más alto
 LS_TimeRequired=Duración
@@ -3788,8 +3788,8 @@ Dungeon_Title_9059012=Rift
 Dungeon_Desc_9059012=Un misterioso túnel que conduce a lugares de otro mundo.<br>Tras el vórtice azul de energía se puede sentir una poderosa fuerza que provoca una Deformación de Rift.
 Dungeon_Title_9059013=Rift
 Dungeon_Desc_9059013=Un misterioso túnel que conduce a lugares de otro mundo.<br>Una poderosa fuerza que causa una Rift Warp se puede sentir detrás del vórtice azul de energía.
-Dungeon_Title_9920301=Mina de Gemas Mágicas Warped
-Dungeon_Desc_9920301=Una antigua mina de Gemas Mágicas que ha existido durante miles de años.<br>Una gran cantidad de Gemas Mágicas se pueden encontrar aquí.
+Dungeon_Title_9920301=Gem Mine Warped
+Dungeon_Desc_9920301=Una antigua Gem Mine que ha existido durante miles de años.<br>Una gran cantidad de Gemas Mágicas se pueden encontrar aquí.
 Dungeon_Title_9920401=Luery's Secret Vault
 Dungeon_Desc_9920401=Contiene las grandes fortunas que Luery ha amasado explotando Rift.<br>Aquí se puede encontrar una gran cantidad de Zen y Items.
 Dungeon_Title_9920501=Fabrice's Garden
@@ -3811,7 +3811,7 @@ Dungeon_Desc_9062631=El dragón de fuego Valtheram, que se sacrificó al dios de
 Dungeon_Title_9920101=Endless Tower
 Dungeon_Desc_9920101=Una inmensa torre construida por Rugard y Bulcan.<br>Se dice que aquellos que superan el reto de escalar la torre obtienen un gran poder.<br><font color='#FDD889'>* El nivel de dificultad de la Endless Tower varía en función del número de miembros de tu grupo.</font>
 Dungeon_Title_9920201=Blood Castle
-Dungeon_Desc_9920201=Un castillo de otro mundo en el que yace dormida Anilata, la líder de los Cruzados.<br>Recientemente, ha tenido lugar una disputa, instigada por los Demonios del Pandemónium, que quieren resucitar a Anilata para mantener a raya a Rugard.<br><font color='#FDD889'>* El nivel de dificultad del Blood Castle varía en función del número de miembros de tu party.</font>
+Dungeon_Desc_9920201=Un castillo de otro mundo en el que yace dormida Anilata, la líder de los Cruzados.<br>Recientemente, ha tenido lugar una disputa, instigada por los Demonios del Pandemónium, que quieren resucitar a Anilata para mantener a raya a Rugard.<br><font color='#FDD889'>* El nivel de dificultad dBlood Castle varía en función del número de miembros de tu party.</font>
 Dungeon_Title_9040101=Hall of Awakening
 Dungeon_Desc_9040101=Un lugar que la Instructora Ashas ha creado en tu subconsciente con sus poderes telepáticos.<br>Veamos qué tipos de recuerdos se pueden encontrar aquí.
 Dungeon_Title_9040102=Hall of Trials
@@ -3855,7 +3855,7 @@ Dungeon_Desc_9042301=Otro mundo de misterios que ha sido descubierto por la Soci
 Dungeon_Title_9040309=Easter Hunt Dungeon
 Dungeon_Desc_9040309=En la Dungeon de la Caza de Pascua, abierta para la época de Pascua,<br> ¡prueba tu suerte encontrando algunas piezas de rompecabezas para combinar y<br>algunos conejos de chocolate gourmet que proporcionan virtudes extra!
 Dungeon_Title_9604001=Abandoned Secret Vault
-Dungeon_Desc_9604001=La bóveda secreta de Luery, que solía estar llena de brillantes e inestimables tesoros, está ahora abandonada. Sus tesoros han desaparecido, y este edificio se está convirtiendo en una escena sombría y lúgubre.<br>Sin embargo, se rumorea que algunos afortunados descubrieron aquí dentro cajas fuertes ocultas llenas de Zen.
+Dungeon_Desc_9604001=Luery's Secret Vault, que solía estar llena de brillantes e inestimables tesoros, está ahora abandonada. Sus tesoros han desaparecido, y este edificio se está convirtiendo en una escena sombría y lúgubre.<br>Sin embargo, se rumorea que algunos afortunados descubrieron aquí dentro cajas fuertes ocultas llenas de Zen.
 Dungeon_Title_Awaken_9203001=Lupa's Awakened Labyrinth
 Dungeon_Desc_Awaken_9203001=El reloj mejorado de Lupa llevó al descubrimiento de este laberinto.<br>Ni el laberinto del pasado ni uno del presente, este espacio increíblemente extraño no puede encontrarse en ningún otro lugar. ¿Cuál es la verdadera naturaleza de este mundo?<br><font color='#FDD889'>La dificultad aumenta aún más a partir de la fase 51 del Laberinto del Despertar de Lupa, con monstruos de más de nivel 80 que empiezan a aparecer.</font>
 Dungeon_Title_9686001=Intensive Cultivation Room
@@ -4216,10 +4216,10 @@ LS_DungeonDesc_9050431=Las Dungeons épicas son mucho más difíciles que otras 
 LS_DungeonDesc_9030331=Las Dungeons épicas son mucho más difíciles que otras Dungeons. Se recomienda jugar en grupo.
 LS_DungeonDesc_9062631=Las Dungeons épicas son mucho más difíciles que otras Dungeons. Se recomienda explorarlas en grupo.
 LS_DungeonDesc_9920101=El nivel de dificultad de la Endless Tower varía dependiendo del <font color='#B4FE42'>número de miembros de tu grupo</font>.
-LS_DungeonDesc_9920201=El nivel de dificultad del Castillo Sangriento varía en función del <font color='#B4FE42'>número de miembros de tu grupo</font>.
+LS_DungeonDesc_9920201=El nivel de dificultad dBlood Castle varía en función del <font color='#B4FE42'>número de miembros de tu grupo</font>.
 LS_DungeonDesc_9040101=Solo puedes entrar en esta Dungeon solo,<br>no con tu grupo.
 LS_DungeonDesc_9040102=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
-LS_DungeonDesc_9203001=El Lupa's Labyrinth es un Mapa de Misión de alta dificultad, abundante en materiales de craft de Artefactos y diseñado para ayudar a mejorar los Artefactos.
+LS_DungeonDesc_9203001=Lupa's Labyrinth es un Mapa de Misión de alta dificultad, abundante en materiales de craft de Artefactos y diseñado para ayudar a mejorar los Artefactos.
 LS_DungeonDesc_9040364=Descripción del Laberinto de Puzzles
 LS_DungeonDesc_9062408=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
 LS_ArtifactLvDesc[0]=<font color='#FF0000'>¡Selecciona un Artefacto para cultivar!</font><br>Si no hay un Artefacto para cultivar,<br>no puedes ganar EXP de Artefacto.
@@ -4663,7 +4663,7 @@ Desc2_9088401=Cuidado!! No hay puntos de resurrección en la zona del jefe.
 [MU2GFxEndlessTowerInfoWidget]
 LS_NextBtnDesc=Pasar a la siguiente fase (barra espaciadora).
 LS_Stage=Etapa
-LS_TowerStart=Empezar a subir la Endless Tower.
+LS_TowerStart=Empezar a subir Tower of Dawn.
 LS_TowerGoUp=Vienen nuevos enemigos.
 LS_TowerGuardian=Guardián de la Torre
 LS_TowerBossDesc=¡Buena suerte!
@@ -4678,7 +4678,7 @@ LS_StageDie=Estás muerto.
 LS_StageDieDesc=Puedes resucitar cuando los miembros de tu grupo superen la fase.
 LS_StageLast=¡Comienza la última batalla!
 LS_StageLastDesc=Velocidad de Dios.
-LS_StageLastGameInfo=Es la última fase de la Torre Interminable.¶¡Elimina a Aveeter, el guardián del último piso, y conquista la torre!
+LS_StageLastGameInfo=Es la última fase de Tower of Dawn.¶¡Elimina a Aveeter, el guardián del último piso, y conquista la torre!
 LS_StageComplete=¡Conquistada!
 LS_GameInfoTitle=¡Sube a las alturas de los dioses!
 LS_RewardReceive=Reclamar recompensa
@@ -4689,7 +4689,7 @@ LS_RewardTitle=Información clara
 
 [MU2GFxBloodCastleInfoWidget]
 LS_PointTitle=Puntuación
-LS_MainTitle=¡Elimina a los monstruos del Blood Castle y vuelve a sellar Anilata!
+LS_MainTitle=¡Elimina a los monstruos dBlood Castle y vuelve a sellar Anilata!
 LS_RemainTime=Límite de tiempo
 LS_BreakGateDesc=Destruir las Piedras de Sello aumenta el nivel de los monstruos.
 LS_KillBossDesc=Eliminar a Anilata y a todos sus lacayos.
@@ -4705,10 +4705,10 @@ LS_GameStart_Text[1]=¡Empieza a luchar!
 LS_GameStart_Text[2]=Ábrete paso entre los enemigos y llega a la puerta del castillo.
 LS_GameSuccess_Text[0]=
 LS_GameSuccess_Text[1]=¡Conquistado!
-LS_GameSuccess_Text[2]=Has conquistado el Castillo Sangriento.
+LS_GameSuccess_Text[2]=Has conquistado Blood Castle.
 LS_GameFail_Text[0]=
 LS_GameFail_Text[1]=¡Fallido!
-LS_GameFail_Text[2]=Has fallado en la conquista del Castillo Sangriento.
+LS_GameFail_Text[2]=Has fallado en la conquista dBlood Castle.
 LS_BreakGate_Text[0]=
 LS_BreakGate_Text[1]=Sin sellar
 LS_BreakGate_Text[2]=El sello del ataúd de cristal se ha roto.<br>El ataúd de cristal ahora puede ser destruido.
@@ -5115,7 +5115,7 @@ LS_btnCambiarAventuraVerde=Cambiar aventura
 LS_btnChangeAdventureRedzen=Gasta Redzen para cambiar a otra aventura
 LS_btnChangeAdventureFree=Recibir la siguiente aventura
 LS_AlertEmptyHavePet=No tienes mascotas para invocar.
-LS_AlertEmptyHavePetSub=Las mascotas se pueden obtener de las misiones y del Jardín de Fabrice.
+LS_AlertEmptyHavePetSub=Las mascotas se pueden obtener de las misiones y de Fabrice Garden.
 LS_UpgradePetInfoFormat=Nivel %s_1 +%s_2 %s_3
 LS_UpgradePetCombatPowerFormat=Poder de combate %s_1
 LS_RegionLevelFormat=Etapa %s_1
@@ -7271,7 +7271,7 @@ LS_RightPartMessage=¡Purga los espíritus de los muertos<br>antes de que sea de
 LS_BossKillCountTitle=Matar al jefe
 LS_RemainTimeTitle=Límite de tiempo
 LS_BattleStartMessageTitle=¡Empieza a luchar en el área %s_1!
-LS_BattleStartMessageDesc=Elimina a los fantasmas del Pandemónium que vagan por el Pozo de los Muertos.
+LS_BattleStartMessageDesc=Elimina a los fantasmas del Pandemónium que vagan por Pit of the Dead.
 LS_SuccessMessageTitle=¡Purificado!
 LS_SuccessMessageDesc=¡Excelente!<br>Ahora ya no podrán volver a la Tierra.
 LS_FailedMessageTitle=Purga fallida
@@ -7366,13 +7366,13 @@ LS_DivideCancel=Cancelar
 LS_Period=Duración: Visita nuestra web y discord para ver la duración del evento.
 LS_EventInfo=Derrota a los monstruos Jefes de las Dungeons establecidas y consigue Chakrams Misteriosos.<br>Los Chakrams Misteriosos se pueden intercambiar por suministros útiles a través del Gestor de Eventos de la ciudad.
 LS_DungeonName[0]=
-LS_DungeonName[1]=Jardín de Fabrice
-LS_DungeonName[2]=Mina de Gemas Mágicas de la Guerra
+LS_DungeonName[1]=Fabrice Garden
+LS_DungeonName[2]=Gem Mine de la Guerra
 LS_DungeonName[3]=Blood Castle
-LS_DungeonName[4]=Bóveda secreta de Luery
+LS_DungeonName[4]=Luery's Secret Vault
 LS_DungeonName[5]=El Santuario del Caballero Dragón
 LS_DungeonName[6]=Refugio del Dragón
-LS_DungeonName[7]=El pozo de los muertos
+LS_DungeonName[7]=Pit of the Dead
 LS_Item[0]=Cofre de gemas mágicas
 LS_Item[1]=Fragmento de piedra de evolución
 LS_Item[2]=Poción de EXP del alma
@@ -8001,7 +8001,7 @@ MArea_9=Zen
 MArea_10=Exp artefacto
 MArea_11=Billete de refuerzo
 MArea_12=Oportunidad Larva
-MArea_13=Torre del Amanecer
+MArea_13=Tower of Dawn
 MArea_14=Spacetime Release
 MArea_15=Cubo Talismán
 LS_CloseBtn=Cerrar
@@ -8284,7 +8284,7 @@ LS_OnSale=¡En venta!
 [MU2GFxDawnTowerInfoWidget]
 LS_NextBtnDesc=Pulse el botón para pasar a la siguiente etapa (Espacio)
 LS_Stage=Etapa
-LS_TowerStart=Ahora subiendo la Torre del Amanecer...
+LS_TowerStart=Ahora subiendo la Endless Tower...
 LS_TowerGoUp=Escalando etapas...
 LS_TowerGuardian=El Conquistador de la Torre
 LS_TowerBossDesc=Velocidad de Dios.
@@ -8299,7 +8299,7 @@ LS_StageDie=Estás muerto.
 LS_StageDieDesc=Estás muerto. Por ahora, tendrás que ver a tu enemigo como un espíritu errante.
 LS_StageLast=¡Comienza la última batalla!
 LS_StageLastDesc=Velocidad de Dios.
-LS_StageLastGameInfo=Etapa final de la Torre del Amanecer. ¡Derrota al guardián del último piso y conquista la torre!
+LS_StageLastGameInfo=Etapa final de la Endless Tower. ¡Derrota al guardián del último piso y conquista la torre!
 LS_StageComplete=¡Conquistado!
 LS_GameInfoTitle=¡Trata de subir el mayor número de niveles lo más rápido posible!
 LS_RewardReceive=Reclamar recompensa
@@ -8550,7 +8550,7 @@ LS_WebOfGodTitle=Empezar a luchar
 LS_WebOfGodSubTitle=Los refuerzos empiezan a moverse para detectar sustancias extrañas.<br>¡Deprisa! ¡No queda mucho tiempo!
 
 [MU2GFxNpcShopEventView]
-LS_ToolTipText_9503=<b><font color='#FDC243'>Chakram Misterioso</font></b><br><font color='#FDC243'>(El chakram misterioso se puede conseguir en las siguientes Dungeons)</font></b><br>Jardín de Fabrice- 5 chakrams</b><br>Magic Gem Mine-5 chakrams</b><br>Blood Castle-5 chakrams</b><br>Luery's Secret Vault-5 chakrams</b><br>Sanctum of Dragon Knights-10 chakrams</b><br>Dragon's Haven-10 chakrams</b>
+LS_ToolTipText_9503=<b><font color='#FDC243'>Chakram Misterioso</font></b><br><font color='#FDC243'>(El chakram misterioso se puede conseguir en las siguientes Dungeons)</font></b><br>Fabrice Garden- 5 chakrams</b><br>Magic Gem Mine-5 chakrams</b><br>Blood Castle-5 chakrams</b><br>Luery's Secret Vault-5 chakrams</b><br>Sanctum of Dragon Knights-10 chakrams</b><br>Dragon's Haven-10 chakrams</b>
 
 [MU2GFxFamilyView]
 LS_FamilyVIewTitle=Equipo de Aventuras

@@ -1051,7 +1051,7 @@ Mission_Target1=Elegir un Cofre del Tesoro de Ohrdor
 [Quest_165]
 Name=El Bardo Rana Gorgorgor
 Occur_String1=Disculpa. Pareces un Guerrero de Contrato. ¿Te importaría escucharme? *Croak*
-Occur_String2=¿Qué? Eres una de esas ranas ladronas en el Jardín de Fabrice. ¿Cómo saliste de allí? <br>¡Si intentas robarme, primero te robaré la vida!
+Occur_String2=¿Qué? Eres una de esas ranas ladronas en Fabrice Garden. ¿Cómo saliste de allí? <br>¡Si intentas robarme, primero te robaré la vida!
 Occur_String3=¿De qué hablas? *Croak* Soy Gorgorgor, un bardo honesto del Mundo de las Ranas. <br>Puedo estar huyendo ahora mismo, pero no soy un ladrón. ¡¿Cómo te atreves!? *Croak*
 Occur_String4=No puedes engañarme, vistiendo esa ropa, ladrón bardo.
 Occur_String5=¡Grr! Solo escúchame. *Croak* Soy Gorgorgor, un bardo del Mundo de las Ranas. Estoy huyendo del malvado director Croak. Lo que llevo puesto ahora son las ropas de un asesino que me puso Croak.
@@ -1497,14 +1497,14 @@ Mission_Target1=Rift Crystal
 [Quest_233]
 Name=Punto de Inflexión de la Construcción del Casco
 Occur_String1=Debo reforzar el casco para soportar ese maldito motor. El problema es que es casi imposible encontrar una sustancia que pueda soportar la salida del motor y la Evil Energy al mismo tiempo. En serio, he probado todas las sustancias disponibles en la Tierra.
-Occur_String2=Ahora debo buscar en otros lugares. Lo que necesito en este momento son los equipos y los componentes corporales de los enemigos más formidables en el Lupa's Labyrinth.<br>El hecho de que conserven su forma en un entorno tan distorsionado prueba que son lo que necesito.
+Occur_String2=Ahora debo buscar en otros lugares. Lo que necesito en este momento son los equipos y los componentes corporales de los enemigos más formidables en Lupa's Labyrinth.<br>El hecho de que conserven su forma en un entorno tan distorsionado prueba que son lo que necesito.
 Occur_String3=He oído que puedes ajustar el nivel de dificultad del Lupa's Labyrinth girando el mecanismo de relojería allí. Según mis cálculos, para que el casco soporte la salida del motor, debe estar hecho de materiales de criaturas de al menos nivel 50.<br>No necesito mucho; solo necesito 2. ¿Crees que puedes conseguirlos para mí?
 Occur_String4=No veo por qué no. Traeré cualquier cosa que encuentre útil en el Labyrinth.
 Doing_String=Todo esto es por el motor. Pero bueno, incluso yo sé que mejorar el motor no es fácil...<br>Ah, no le digas a Durov que dije esto. No quiero que se le suba a la cabeza.
 Completable_String1=Vaya, esto es mejor de lo que esperaba. Puedo decir solo con verlo que será el casco perfecto!<br>¡Muy bien, estoy listo para investigar de nuevo!
-Complete_String=Duropan quería las armas o los componentes corporales de los enemigos más formidables en el Lupa's Labyrinth donde el spacetime está distorsionado. Se los traje, y de inmediato comenzó a mejorar el casco del dirigible.
-List_String=Debo conseguir las armas o componentes corporales de los enemigos más formidables en el Lupa's Labyrinth, para que Duropan pueda mejorar el casco del dirigible con ellos.
-Mission_String=Elimina a los Rift Predators en el Lupa's Labyrinth de nivel 50 y recolecta items para Duropan
+Complete_String=Duropan quería las armas o los componentes corporales de los enemigos más formidables en Lupa's Labyrinth donde el spacetime está distorsionado. Se los traje, y de inmediato comenzó a mejorar el casco del dirigible.
+List_String=Debo conseguir las armas o componentes corporales de los enemigos más formidables en Lupa's Labyrinth, para que Duropan pueda mejorar el casco del dirigible con ellos.
+Mission_String=Elimina a los Rift Predators en Lupa's Labyrinth de nivel 50 y recolecta items para Duropan
 Mission_Target1=Material Forjado en el Spacetime
 
 [Quest_234]
@@ -8277,7 +8277,7 @@ Occur_String5=Mi Sociedad está mejor conectada de lo que piensas. ¡Ja ja!<br>M
 Occur_String6=¿Por qué? ¿Quieres cultivarlas?
 Occur_String7=Quiero intentarlo. He oído que la tortuga es linda, y como es grande, tal vez podría montar la mía más tarde.
 Doing_String=Thud-tle suena lindo, pero le daré un nombre diferente.
-Completable_String1=Estas son las semillas de esa tortuga, Thud-tle. Mm, veamos... Me pregunto si Mejorarán bien en el Jardín de Fabrice. Tendría que preguntar a Tall más tarde.
+Completable_String1=Estas son las semillas de esa tortuga, Thud-tle. Mm, veamos... Me pregunto si Mejorarán bien en Fabrice Garden. Tendría que preguntar a Tall más tarde.
 Completable_String2=¿En serio, vas a cultivarlas? Son monstruos.
 Completable_String3=Quizás podría cultivarlas en buenos monstruos. ¿Qué piensas?
 Completable_String4=*Suspiro* Haz lo que quieras.<br>¿Terminaste de traducir el frottage?
@@ -11871,26 +11871,26 @@ Mission_String=Hablar con Grande
 Mission_Target1=Hablar con Grande
 
 [Quest_9001]
-Name=Hacia la Torre Infinita
+Name=Hacia la Endless Tower
 Occur_String1=He estado esperándote. Valiente Guerrero.<br>Recibirás a Rugard con tu cuerpo indomable...
 Occur_String2=Vaya...<br>Lo siento, pero no tengo interés en tu religión.
-Occur_String3=¡Jajaja, no estoy jugando con la religión! Dado que la Torre Infinita fue realmente construida por dioses.
+Occur_String3=¡Jajaja, no estoy jugando con la religión! Dado que la Endless Tower fue realmente construida por dioses.
 Occur_String4=Una torre, eh. Así que no tienen tiempo para ayudar a las personas necesitadas, pero tienen tiempo para construir una torre...
-Occur_String5=La Torre Infinita fue construida incluso antes de que existiera la historia.<br>Y solo unos pocos sacerdotes que recibieron la oráculo van a buscar guerreros hábiles que escalen la torre.<br>Si tienes dudas, puedes llegar a la cima de la Torre Infinita y tener una audiencia con el dios Rugard para resolver tus dudas.
+Occur_String5=La Endless Tower fue construida incluso antes de que existiera la historia.<br>Y solo unos pocos sacerdotes que recibieron la oráculo van a buscar guerreros hábiles que escalen la torre.<br>Si tienes dudas, puedes llegar a la cima de la Endless Tower y tener una audiencia con el dios Rugard para resolver tus dudas.
 Occur_String6=Incluso yo, un extraño que ha perdido su memoria, puedo ver a mucha gente sufriendo.<br>Pero este llamado dios construye una torre ridícula y la única manera de verlo es arrastrándose por la torre?<br>¿Es digno de ser llamado dios?
 Occur_String7=¡Qué impertinente! Hay una razón detrás de todo lo que hace un dios.<br>No somos dignos de determinar sus intenciones.<br>Si realmente piensas así, ¿por qué no vas y tienes una audiencia con él tú mismo?
 Occur_String8=Uf... está bien. Aceptaré ese desafío ridículo.<br>Quiero ver la cara de ese dios tuyo.
 Occur_String9=Encuentra la Room of Duty en Ohrdor.<br>Es un lugar para aquellos que desafían la adversidad para mejorar sus poderes...<br>Habla con la Sacerdotisa Rapiella allí.
 Doing_String=¡Aquellos que alcancen el poder del dios serán recompensados con fuerza!
 Completable_String1=Bienvenido. Extraño guerrero.<br>¿Estás aquí para recibir al dios?
-Complete_String=Entré en la Room of Duty en Ohrdor para conocer a la Sacerdotisa Rapiella con el fin de escalar la Torre Infinita.
-List_String=Tengo que entrar en la Room of Duty en Ohrdor para conocer a la Sacerdotisa Rapiella con el fin de escalar la Torre Infinita.
+Complete_String=Entré en la Room of Duty en Ohrdor para conocer a la Sacerdotisa Rapiella con el fin de escalar la Endless Tower.
+List_String=Tengo que entrar en la Room of Duty en Ohrdor para conocer a la Sacerdotisa Rapiella con el fin de escalar la Endless Tower.
 Mission_String=Hablar con el Sacerdote dentro de la Room of Duty de Ohrdor
 Mission_Target1=Hablar con Rapiella
 
 [Quest_9002]
 Name=Desafiando los Cielos 1
-Occur_String1=Guerrero extraño. ¿Te gustaría escalar la Torre Infinita?<br>Es un lugar lleno de desafíos extremos y logros...<br>Y al final, podrás conocer a los grandes dioses.
+Occur_String1=Guerrero extraño. ¿Te gustaría escalar la Endless Tower?<br>Es un lugar lleno de desafíos extremos y logros...<br>Y al final, podrás conocer a los grandes dioses.
 Occur_String2=¿Así que puedo conocer a tus dioses cuando llegue a la cima de la torre?<br>¿Rugard... Bulcan... esos dioses?
 Occur_String3=Por supuesto. Nosotros, los sacerdotes, estamos transmitiendo la revelación divina de los dioses...<br>Quienes lleguen a la cima de la torre podrán tener una audiencia con los dioses.
 Occur_String4=Una revelación divina, eh... ¿Así que tengo que arriesgar mi vida por eso?<br>Y no me gustan tus dioses...
@@ -11902,38 +11902,38 @@ Occur_String9=Uf... Los dioses nos han dicho que no impidamos a nadie escalar la
 Occur_String10=Por supuesto. Iré a golpearlos.
 Doing_String=La gigantesca torre construida con el poder de los dioses...<br>¿Están realmente los dioses en la cima? ¿Esto conduce a los cielos...?
 Completable_String1=Has vuelto. ¿Cómo fue? ¿Pudiste superar... tus propios miedos dentro de la torre?
-Complete_String=Escalé más allá del Piso 5 para ver cómo es la Torre Infinita.
-List_String=Tengo que escalar más allá del Piso 5 para ver cómo es la Torre Infinita.
-Mission_String=Escalar más allá del Piso 5 de la Torre Infinita
+Complete_String=Escalé más allá del Piso 5 para ver cómo es la Endless Tower.
+List_String=Tengo que escalar más allá del Piso 5 para ver cómo es la Endless Tower.
+Mission_String=Escalar más allá del Piso 5 de la Endless Tower
 Mission_Target1=Alcanzar el Piso 5
 
 [Quest_9003]
-Name=Investigación de la Torre Infinita 1
-Occur_String1=Guerrero. ¿Vas a entrar en la Torre Infinita?<br>¿Puedo hablar un momento contigo?
+Name=Investigación de la Endless Tower 1
+Occur_String1=Guerrero. ¿Vas a entrar en la Endless Tower?<br>¿Puedo hablar un momento contigo?
 Occur_String2=¿Qué pasa?
-Occur_String3=Soy Lammud, un investigador que estudia la Torre Infinita.<br>Los poderosos monstruos dentro...<br>Y la increíble escala de la torre que no se puede explicar con las tecnologías actuales...
-Occur_String4=Estoy tratando de entender esta torre, que solo puede describirse como el Poder de Dios, en términos científicos.<br>Si pudiera descubrir siquiera una fracción de la tecnología utilizada para su construcción, sería un gran logro.<br>Pero esas personas llamadas Sacerdotes de la Torre Infinita no cooperarían porque piensan que estoy siendo sacrílego.
+Occur_String3=Soy Lammud, un investigador que estudia la Endless Tower.<br>Los poderosos monstruos dentro...<br>Y la increíble escala de la torre que no se puede explicar con las tecnologías actuales...
+Occur_String4=Estoy tratando de entender esta torre, que solo puede describirse como el Poder de Dios, en términos científicos.<br>Si pudiera descubrir siquiera una fracción de la tecnología utilizada para su construcción, sería un gran logro.<br>Pero esas personas llamadas Sacerdotes de la Endless Tower no cooperarían porque piensan que estoy siendo sacrílego.
 Occur_String5=Un choque entre religión y ciencia, eh?
-Occur_String6=Realmente podría usar tu ayuda.<br>¿Podrías traer de vuelta los Fragmentos de la Torre encontrados dentro de la Torre Infinita?<br>Podrás obtenerlos después de derrotar a poderosos monstruos.
+Occur_String6=Realmente podría usar tu ayuda.<br>¿Podrías traer de vuelta los Fragmentos de la Torre encontrados dentro de la Endless Tower?<br>Podrás obtenerlos después de derrotar a poderosos monstruos.
 Occur_String7=Está bien. Estaba a punto de entrar de todos modos...<br>No es problema.
 Doing_String=¿Qué habrá esperando en la cima? ¿Y cómo podrían construir una torre tan alta?
 Completable_String1=¡Gracias! Voy a analizar los componentes de estos fragmentos.
-Complete_String=Eliminé monstruos fuertes en la Torre Infinita y recolecté Fragmentos de Torre para Lammud.
-List_String=Tengo que eliminar monstruos fuertes en la Torre Infinita y recolectar Fragmentos de Torre para Lammud.
-Mission_String=Recolectar Fragmentos de Torre de monstruos poderosos dentro de la Torre Infinita
+Complete_String=Eliminé monstruos fuertes en la Endless Tower y recolecté Fragmentos de Torre para Lammud.
+List_String=Tengo que eliminar monstruos fuertes en la Endless Tower y recolectar Fragmentos de Torre para Lammud.
+Mission_String=Recolectar Fragmentos de Torre de monstruos poderosos dentro de la Endless Tower
 Mission_Target1=Fragmentos de Torre
 
 [Quest_9004]
-Name=Investigación de la Torre Infinita 2
+Name=Investigación de la Endless Tower 2
 Occur_String1=Pero, guerrero. ¿Hay realmente monstruos fuertes dentro de las Torres Infinita como dicen?
 Occur_String2=Bueno, no sé exactamente...<br>Pero es bastante difícil luchar contra esos monstruos.<br>A medida que subes, se vuelven más poderosos.
 Occur_String3=Uf... Si tan solo pudiera entrar y hacer algo de investigación...<br>Cómo se activa la torre... y qué pasa cuando escalo la torre...<br>Hay tantas cosas que tengo curiosidad, pero los monstruos no me esperarán mientras investigo.
 Occur_String4=¿Podrías ir y describirme los detalles?<br>Solo tengo datos hasta el Piso 6.<br>Sería genial si pudieras traerme datos del Piso 7 en adelante.
 Doing_String=¿Esta torre... realmente fue construida por los dioses?<br>Pero, ¿no es un poco extraño que los dioses construyeran un edificio tan... mecánico?
-Completable_String1=¡Has vuelto sano y salvo! ¡Te estaba esperando! ¿Cómo fue la Torre Infinita... en los pisos altos?
-Complete_String=Escalé más allá del Piso 7 de la Torre Infinita y le conté a Lammud lo que vi.
-List_String=Tengo que escalar más allá del Piso 7 de la Torre Infinita y contarle a Lammud lo que vi.
-Mission_String=Escalar más allá del Piso 7 de la Torre Infinita
+Completable_String1=¡Has vuelto sano y salvo! ¡Te estaba esperando! ¿Cómo fue la Endless Tower... en los pisos altos?
+Complete_String=Escalé más allá del Piso 7 de la Endless Tower y le conté a Lammud lo que vi.
+List_String=Tengo que escalar más allá del Piso 7 de la Endless Tower y contarle a Lammud lo que vi.
+Mission_String=Escalar más allá del Piso 7 de la Endless Tower
 Mission_Target1=Alcanzar el Piso 7
 
 [Quest_9005]
@@ -11946,9 +11946,9 @@ Occur_String5=Esa es la conclusión a la que he llegado... después de observar 
 Occur_String6=Pero creo que eres diferente a los demás.<br>Quizás podrás conquistar la torre.<br>Te daré una pequeña misión para ayudarte. Estoy deseando verlo.
 Doing_String=La sangre que fluye de la torre tiñe la tierra... Pero eso también es la voluntad de los dioses.
 Completable_String1=Eres asombroso... Sí. ¿Ahora entiendes un poco la torre y a ti mismo?
-Complete_String=Conquisté el Piso 5 de la Torre Infinita en 10 minutos, como sugirió Rapiella.
-List_String=Tengo que conquistar el Piso 5 de la Torre Infinita en 10 minutos, como sugirió Rapiella.
-Mission_String=Conquistar el 5° piso de la Torre Infinita en 10 minutos
+Complete_String=Conquisté el Piso 5 de la Endless Tower en 10 minutos, como sugirió Rapiella.
+List_String=Tengo que conquistar el Piso 5 de la Endless Tower en 10 minutos, como sugirió Rapiella.
+Mission_String=Conquistar el 5° piso de la Endless Tower en 10 minutos
 Mission_Target1=Conquistar el 5° piso en 10 minutos
 
 [Quest_9006]
@@ -11957,26 +11957,26 @@ Occur_String1=La torre es un espejo que te refleja...<br>Puedes ver tus límites
 Occur_String2=Nosotros, como creaciones de los dioses, realizamos nuestra debilidad a través de este espejo... y aprendemos modestia.
 Occur_String3=La torre es solo una herramienta hecha por los dioses. Al final, es solo otro lugar para ser conquistado.<br>No te apresures.
 Occur_String4=Haha... Esa es confianza.<br>Conocer la diferencia entre confianza y orgullo es lo que realmente importa.<br>Parece que estás listo para un nuevo desafío.
-Doing_String=Soy solo un débil sacerdote que no puede escalar la Torre Infinita por sí solo.<br>Pero... conozco la torre mejor que nadie...
+Doing_String=Soy solo un débil sacerdote que no puede escalar la Endless Tower por sí solo.<br>Pero... conozco la torre mejor que nadie...
 Completable_String1=La torre es un lugar misterioso que guarda muchos secretos...<br>Felicidades, has dado un paso hacia la verdad.
-Complete_String=Alcancé el Piso 10 de la Torre Infinita, como sugirió Rapiella.
-List_String=Tengo que alcanzar el Piso 10 de la Torre Infinita, como sugirió Rapiella.
-Mission_String=Alcanzar el Piso 10 de la Torre Infinita o superior
+Complete_String=Alcancé el Piso 10 de la Endless Tower, como sugirió Rapiella.
+List_String=Tengo que alcanzar el Piso 10 de la Endless Tower, como sugirió Rapiella.
+Mission_String=Alcanzar el Piso 10 de la Endless Tower o superior
 Mission_Target1=Alcanzar el Piso 10
 
 [Quest_9007]
-Name=Investigación de la Torre Infinita 3
-Occur_String1=Según mi investigación de lo que me contaste, la Torre Infinita parece un gigante ser viviente.<br>Un ser viviente con una enorme conciencia... En realidad se protege a sí mismo, toma decisiones y actúa con su propia voluntad.
+Name=Investigación de la Endless Tower 3
+Occur_String1=Según mi investigación de lo que me contaste, la Endless Tower parece un gigante ser viviente.<br>Un ser viviente con una enorme conciencia... En realidad se protege a sí mismo, toma decisiones y actúa con su propia voluntad.
 Occur_String2=¿De verdad? Solo parece una gran torre...
 Occur_String3=¡No! No puedes pensar en ello solo como un edificio.<br>Si una torre puede pensar verdaderamente, debe haber algunos principios que la hagan actuar de esa manera.
-Occur_String4=¡Estoy emocionado por descubrir sus grandes secretos!<br>Quiero saber más sobre los monstruos dentro de la Torre Infinita esta vez.
+Occur_String4=¡Estoy emocionado por descubrir sus grandes secretos!<br>Quiero saber más sobre los monstruos dentro de la Endless Tower esta vez.
 Occur_String5=Creo que los monstruos dentro de la torre se mueven según lo que la torre les ordena hacer.<br>Se mueven sistemáticamente... y responden según la fuerza de su enemigo. Si podemos encontrar ese sistema...!
 Occur_String6=¡Por favor, guerrero!<br>¡Necesito tantos especímenes como sea posible!<br>¡Por favor, lucha contra tantos monstruos como puedas!
 Doing_String=¡Debemos recopilar tantos datos como sea posible y encontrar las similitudes!<br>Pero, por supuesto, ten cuidado. No te esfuerces demasiado.
 Completable_String1=Por favor, cuéntame lo que sucedió en la torre.<br>Cada una de tus experiencias es un dato valioso para mí.
-Complete_String=Eliminé muchos monstruos que aparecieron en la Torre Infinita y le conté a Lammud sobre ellos.
-List_String=Tengo que eliminar muchos monstruos que aparecen en la Torre Infinita y contarle a Lammud sobre ellos.
-Mission_String=Matar monstruos en la Torre Infinita
+Complete_String=Eliminé muchos monstruos que aparecieron en la Endless Tower y le conté a Lammud sobre ellos.
+List_String=Tengo que eliminar muchos monstruos que aparecen en la Endless Tower y contarle a Lammud sobre ellos.
+Mission_String=Matar monstruos en la Endless Tower
 Mission_Target1=Matar monstruos
 
 [Quest_9008]
@@ -11987,39 +11987,39 @@ Occur_String3=¿Eh...? ¿Q-qué quieres decir...? No es así.<br>Y debe haber al
 Occur_String4=Y realmente deseo ver qué hay al final de tu desafío, o de la torre misma.<br>Para ti, escalar más allá del piso 15 debería ser un desafío apropiado en este momento.
 Doing_String=Cuanto más entiendes la torre... más la torre te entiende a ti.
 Completable_String1=¿Ese desafío fue demasiado fácil para ti? Has hecho grandes mejoras, extraño guerrero.
-Complete_String=Escalé más allá del Piso 15 de la Torre Infinita, como dijo Rapiella.
-List_String=Tengo que escalar más allá del Piso 15 de la Torre Infinita, como dijo Rapiella.
-Mission_String=Alcanzar el Piso 15 de la Torre Infinita o superior
+Complete_String=Escalé más allá del Piso 15 de la Endless Tower, como dijo Rapiella.
+List_String=Tengo que escalar más allá del Piso 15 de la Endless Tower, como dijo Rapiella.
+Mission_String=Alcanzar el Piso 15 de la Endless Tower o superior
 Mission_Target1=Alcanzar el Piso 15
 
 [Quest_9009]
 Name=Desafiando los Cielos 5
-Occur_String1=Tuve un sueño recientemente... Un gran guerrero escaló hasta la cima de la Torre Infinita,<br>y fue recibido por el gran dios Rugard...<br>Y podía sentir esta extraña energía saliendo del guerrero...
+Occur_String1=Tuve un sueño recientemente... Un gran guerrero escaló hasta la cima de la Endless Tower,<br>y fue recibido por el gran dios Rugard...<br>Y podía sentir esta extraña energía saliendo del guerrero...
 Occur_String2=¿Quizás el guerrero se refiere a ti?
-Occur_String3=No me importa tu interpretación de tus sueños.<br>Y si conquisto la Torre Infinita, no tendré una tarde de té con Rugard.
+Occur_String3=No me importa tu interpretación de tus sueños.<br>Y si conquisto la Endless Tower, no tendré una tarde de té con Rugard.
 Occur_String4=Oh... Nunca sabes qué tipo de resultados te esperan al final.<br>Todo está en manos de los grandes dioses arriba.
 Occur_String5=Pero tu desafío es muy interesante.<br>Aquí está tu prueba final. ¿Aceptarás el desafío?
 Doing_String=Oh, gran Rugard, por favor bendice el futuro de ese extraño guerrero...
 Completable_String1=Solo puedo guiarte hasta aquí.<br>Ahora depende de ti continuar.<br>Espero que conozcas a los brillantes dioses del cielo.
 Complete_String=Superé la prueba final de Rapiella. Dijo que solo podía guiarme hasta aquí y oró para que pudiera escalar más alto.
-List_String=Tengo que superar más de 3 pisos de la Torre Infinita en un intento. Y dos veces en eso. Pero, si quiero golpear a esos dioses, es una prueba que tengo que pasar.
-Mission_String=Superar más de 3 pisos de la Torre Infinita en un intento
+List_String=Tengo que superar más de 3 pisos de la Endless Tower en un intento. Y dos veces en eso. Pero, si quiero golpear a esos dioses, es una prueba que tengo que pasar.
+Mission_String=Superar más de 3 pisos de la Endless Tower en un intento
 Mission_Target1=Superar más de 3 pisos en un intento
 
 [Quest_9010]
-Name=Investigación de la Torre Infinita 4
+Name=Investigación de la Endless Tower 4
 Occur_String1=Cuanto más profundizo en mi investigación... más frustrado me siento...
 Occur_String2=¿Por qué es eso?
 Occur_String3=Sabes... las cosas que no se pueden explicar por nada más que el poder de los dioses...<br>Uf, esta pieza de arquitectura es verdaderamente increíble.
 Occur_String4=Todos los guerreros entrenan al borde de la muerte para obtener el poder de protegerse a sí mismos.<br>Por supuesto, no eres un guerrero, pero creo que tu espíritu es el mismo.<br>¿Puedes realmente decir que arriesgaste tu vida por tu investigación?
 Occur_String5=Tienes razón.<br>Veo tu punto... No estoy arriesgando mi vida ni nada...<br>Estaba demasiado desanimado.<br>¡Gracias! Me recuperaré y descubriré todo sobre la torre.
-Occur_String6=¡Para avanzar en mi investigación, necesito obtener datos más definitivos!<br>¡Los poderosos gobernantes de la Torre Infinita! ¡Necesito las Esencias de monstruos fuertes!
-Doing_String=Hay muchas cosas en el mundo que no se pueden explicar científicamente...<br>La Torre Infinita... el Castillo Sangriento... y el poder de los dioses.
+Occur_String6=¡Para avanzar en mi investigación, necesito obtener datos más definitivos!<br>¡Los poderosos gobernantes de la Endless Tower! ¡Necesito las Esencias de monstruos fuertes!
+Doing_String=Hay muchas cosas en el mundo que no se pueden explicar científicamente...<br>La Endless Tower... Blood Castle... y el poder de los dioses.
 Completable_String1=Si no fuera por ti, habría renunciado a mi investigación.<br>Tendré que investigar toda mi vida solo para indagar en lo que me has contado y traído.
 Completable_String2=Pero no me rendiré hasta descubrir el secreto de la torre.<br>El día que descubra su secreto, ¡iré a buscarte!
-Complete_String=Le di a Lammud las Esencias de Poder. Dijo que sacrificará su vida para descubrir el secreto detrás de la Torre Infinita, y espero que su investigación sea exitosa.
+Complete_String=Le di a Lammud las Esencias de Poder. Dijo que sacrificará su vida para descubrir el secreto detrás de la Endless Tower, y espero que su investigación sea exitosa.
 List_String=Tengo que recoger Esencias de Poder y entregárselas a Lammud.
-Mission_String=Recoger Esencia de Poder de los Monstruos Jefes en la Torre Infinita
+Mission_String=Recoger Esencia de Poder de los Monstruos Jefes en la Endless Tower
 Mission_Target1=Esencia de Poder
 
 [Quest_9051]
@@ -12165,26 +12165,26 @@ Mission_String=Despejar el piso 30 o superior de la Torre del Alba
 Mission_Target1=Despejar el piso 30
 
 [Quest_9100]
-Name=Al Castillo Sangriento
-Occur_String1=¡Te daré la oportunidad de honrar a Rugard y devolverle el favor por las bendiciones que te ha otorgado!<br>Ve al Castillo Sangriento y...
+Name=Al Blood Castle
+Occur_String1=¡Te daré la oportunidad de honrar a Rugard y devolverle el favor por las bendiciones que te ha otorgado!<br>Ve al Blood Castle y...
 Occur_String2=¿Tu dios Rugard?<br>No he recibido ninguna bendición de él.
 Occur_String3=Entonces, ¿qué tal viajar a otro mundo?<br>¿No te gustaría visitar otro mundo?
 Occur_String4=No estoy interesado.
 Occur_String5=....
 Occur_String6=¿Qué sucede?<br>Deja de jugar y dime qué quieres.
-Occur_String7=Uh... Necesito reclutar guerreros para enviar al Castillo Sangriento, pero no tenemos suficientes debido a la invasión de Pandemonium.<br>El sumo sacerdote se molestará...
-Occur_String8=¿Castillo Sangriento?<br>¿Dijiste otro mundo?<br>¿Hay una guerra además de la de Pandemonium?
-Occur_String9=Como simple sacerdote, solo hago lo que me dicen.<br>Se me ordenó enviar un cierto número de guerreros al Castillo Sangriento cada mes...
-Occur_String10=Eso suena muy sospechoso. Iré.<br>Hm, el Castillo Sangriento...
+Occur_String7=Uh... Necesito reclutar guerreros para enviar al Blood Castle, pero no tenemos suficientes debido a la invasión de Pandemonium.<br>El sumo sacerdote se molestará...
+Occur_String8=¿Blood Castle?<br>¿Dijiste otro mundo?<br>¿Hay una guerra además de la de Pandemonium?
+Occur_String9=Como simple sacerdote, solo hago lo que me dicen.<br>Se me ordenó enviar un cierto número de guerreros al Blood Castle cada mes...
+Occur_String10=Eso suena muy sospechoso. Iré.<br>Hm, Blood Castle...
 Doing_String=¡Participa en la cruzada!<br>¡Caballeros! ¡Únanse a la gran cruzada liderada por Rugard!
-Completable_String1=Bienvenido. Guerrero. Gracias por participar en la Expedición al Castillo Sangriento.
-Complete_String=Fui a la Room of Duty en Ohrdor para reunirme con el Sacerdote del Castillo Sangriento y averiguar sobre el Castillo Sangriento.
-List_String=Debo ir a la Room of Duty en Ohrdor para reunirme con el Sacerdote del Castillo Sangriento y averiguar sobre el Castillo Sangriento.
+Completable_String1=Bienvenido. Guerrero. Gracias por participar en la Expedición al Blood Castle.
+Complete_String=Fui a la Room of Duty en Ohrdor para reunirme con el Sacerdote dBlood Castle y averiguar sobre Blood Castle.
+List_String=Debo ir a la Room of Duty en Ohrdor para reunirme con el Sacerdote dBlood Castle y averiguar sobre Blood Castle.
 Mission_String=Hablar con el sacerdote dentro de la Room of Duty de Ohrdor
 Mission_Target1=Hablar con Megar
 
 [Quest_9101]
-Name=Expedición al Castillo Sangriento 1
+Name=Expedición al Blood Castle 1
 Occur_String1=Una cruzada liderada por el gran Rugard... Esta expedición será bendecida por él.
 Occur_String2=¿Una cruzada? ¿Están declarando una guerra contra un enemigo que no es Pandemonium?
 Occur_String3=Anilata se rebeló contra Rugard hace mucho tiempo...<br>Su alma fue profundamente herida, y ha estado dormido hasta hoy.<br>Pero los seguidores de Anilata han conspirado con una fuerza desconocida para revivir su alma una vez más.
@@ -12193,44 +12193,44 @@ Occur_String5=Anilata solía ser un ser casi divino...<br>Perdió la mayor parte
 Occur_String6=¿Qué? Entonces es una guerra entre dioses...<br>¿Y estamos siendo sacrificados en sus juegos de poder?
 Occur_String7=Jaja... Eres un realista.<br>Pero el sacrificio no es obligatorio.<br>No podemos traer a tantos guerreros solo por la fe.
 Occur_String8=Quiero decir que hay algo que puedes obtener independientemente de la fe.<br>Pero no sabemos qué obtendremos...
-Occur_String9=El Castillo Sangriento es el último bastión de los Cruzados. Un enorme castillo sangriento que se convertirá en el último escenario de esta cruzada...<br>Debemos atacar antes de que despierte con todo su poder.<br>Los peones de Anilata tratarán de bloquear tu camino. Te deseo suerte...
+Occur_String9=Blood Castle es el último bastión de los Cruzados. Un enorme Blood Castle que se convertirá en el último escenario de esta cruzada...<br>Debemos atacar antes de que despierte con todo su poder.<br>Los peones de Anilata tratarán de bloquear tu camino. Te deseo suerte...
 Occur_String10=Si no consigo nada útil, será mejor que tengas algo preparado para mí...
 Doing_String=Anilata... ¿Qué está en el centro del movimiento para resucitarlo?
 Completable_String1=Has llegado. Anilata también es un dios creado por la Diosa...<br>No puede ser destruido por completo. Lo máximo que podemos hacer es herir su alma.
 Completable_String2=Hasta que castiguemos a aquellos que están tratando de resucitarlo y debilitemos completamente su alma, esta lucha no terminará.
-Complete_String=Ataqué primero el Castillo Sangriento y frustré a los peones de Anilata.
-List_String=Debo atacar primero el Castillo Sangriento y frustrar a los peones de Anilata.
-Mission_String=Atacar el Castillo Sangriento
-Mission_Target1=Atacar el Castillo Sangriento
+Complete_String=Ataqué primero Blood Castle y frustré a los peones de Anilata.
+List_String=Debo atacar primero Blood Castle y frustrar a los peones de Anilata.
+Mission_String=Atacar Blood Castle
+Mission_Target1=Atacar Blood Castle
 
 [Quest_9102]
 Name=Cruzado 1
-Occur_String1=Es un honor ser parte de la gran guerra rumbo al Castillo Sangriento.
+Occur_String1=Es un honor ser parte de la gran guerra rumbo al Blood Castle.
 Occur_String2=¿Gran guerra...? No estoy seguro de eso. ¿Qué tiene de grandioso matarnos unos a otros?<br>¿Se les permite a los sacerdotes pensar así?
 Occur_String3=Por una mayor paz, por el bien de más vidas, y por el dios en el que creo...<br>Siempre hay que tomar una decisión...<br>Anilata y sus Cruzados son especialmente peligrosos.
 Occur_String4=Después de que la diosa Akneria pereció, los Cruzados que perdieron a su maestra no pudieron aceptar que el mundo ahora fuera gobernado por los dos dioses, Rugard y Bulcan.<br>Se opusieron radicalmente a los nuevos dioses...<br>Y ahora solo son lunáticos que intentan quemar este mundo y crear uno nuevo.
-Occur_String5=Ahora están privados de sus poderes, simplemente permanecen en el Castillo Sangriento.<br>Sí, está ubicado en otro mundo, pero ¿y si regresan? El mundo caerá en el caos.
+Occur_String5=Ahora están privados de sus poderes, simplemente permanecen en Blood Castle.<br>Sí, está ubicado en otro mundo, pero ¿y si regresan? El mundo caerá en el caos.
 Occur_String6=Por todos nosotros que vivimos en estas tierras, y por el futuro de nuestros hijos, esta guerra es necesaria.
-Occur_String7=Te lo ruego. Por favor, préstanos tu fuerza.<br>Si puedes exterminar a los restos de los Cruzados que protegen a Anilata en el Castillo Sangriento, será de gran ayuda para esta expedición.
+Occur_String7=Te lo ruego. Por favor, préstanos tu fuerza.<br>Si puedes exterminar a los restos de los Cruzados que protegen a Anilata en Blood Castle, será de gran ayuda para esta expedición.
 Doing_String=Los Cruzados se han vuelto más fuertes últimamente.<br>Creemos que una fuerza desconocida los está ayudando. La situación es alarmante.
 Completable_String1=¡Gracias! Rugard definitivamente te recordará.
-Complete_String=Derroté a los Cruzados en el Castillo Sangriento para desmoralizar al ejército.
-List_String=Debo derrotar a los Cruzados en el Castillo Sangriento para desmoralizar al ejército.
-Mission_String=Matar a los Cruzados del Castillo Sangriento
+Complete_String=Derroté a los Cruzados en Blood Castle para desmoralizar al ejército.
+List_String=Debo derrotar a los Cruzados en Blood Castle para desmoralizar al ejército.
+Mission_String=Matar a los Cruzados dBlood Castle
 Mission_Target1=Matar a los Cruzados
 
 [Quest_9103]
-Name=Expedición al Castillo Sangriento 2
-Occur_String1=Anilata, que ha sido sellado y debilitado, sigue siendo un oponente fuerte, pero no será fácil pasar por la robusta puerta del Castillo Sangriento y llegar a Anilata...
+Name=Expedición al Blood Castle 2
+Occur_String1=Anilata, que ha sido sellado y debilitado, sigue siendo un oponente fuerte, pero no será fácil pasar por la robusta puerta dBlood Castle y llegar a Anilata...
 Occur_String2=Incontables guerreros han perdido la vida tratando de pasar por la puerta.
 Occur_String3=Especialmente por el Guardián Muspell...<br>Muspell es un poderoso guardián que ha bloqueado a nuestro ejército de expedición múltiples veces.<br>Cada vez tuvimos que darle más tiempo a los Cruzados mientras nos reagrupábamos.
 Occur_String4=Valiente guerrero, necesitamos tu poder. No podemos darle más tiempo a esos Cruzados.<br>Por favor, derrota a Muspell, quien está masacrando a nuestro ejército de expedición.
-Doing_String=Una vez que derrotemos a Muspell, se abrirá la puerta al Castillo Sangriento.
+Doing_String=Una vez que derrotemos a Muspell, se abrirá la puerta al Blood Castle.
 Completable_String1=¡Alabado sea el dios Rugard! ¡Derrotaste al Guardián Muspell!<br>¡Asombroso!
 Completable_String2=¡Ahora el ejército de expedición puede infiltrarse en los terrenos del castillo!
-Complete_String=Derroté al Guardián del Castillo Sangriento, Muspell, para que el ejército de expedición pudiera infiltrarse en el castillo.
-List_String=Debo derrotar al Guardián del Castillo Sangriento, Muspell, para que el ejército de expedición pueda infiltrarse en el castillo.
-Mission_String=Matar al Guardián del Castillo Sangriento
+Complete_String=Derroté al Guardián dBlood Castle, Muspell, para que el ejército de expedición pudiera infiltrarse en el castillo.
+List_String=Debo derrotar al Guardián dBlood Castle, Muspell, para que el ejército de expedición pueda infiltrarse en el castillo.
+Mission_String=Matar al Guardián dBlood Castle
 Mission_Target1=Matar a Muspell
 
 [Quest_9104]
@@ -12238,17 +12238,17 @@ Name=Cruzado 2
 Occur_String1=¡Llegas justo a tiempo! Los restos de los Cruzados han estado más activos y mejor organizados últimamente.<br>Creo que están siendo guiados por una fuerza desconocida.
 Occur_String2=Es extraño que esos soldados restantes que perdieron a su líder sigan realizando acciones tan organizadas.<br>Y es especialmente peculiar que Anilata, después de recibir un golpe mortal de Rugard, esté recuperando sus poderes tan rápido.
 Occur_String3=¡Definitivamente una organización poderosa... o un ser poderoso los está ayudando!
-Occur_String4=Si eso es correcto, entonces estamos en grave peligro.<br>¡Guerrero! Tal vez puedas encontrar una pista sobre este asunto de los Cruzados dentro del Castillo Sangriento.<br>Debería haber oficiales de alto rango allí.
+Occur_String4=Si eso es correcto, entonces estamos en grave peligro.<br>¡Guerrero! Tal vez puedas encontrar una pista sobre este asunto de los Cruzados dentro dBlood Castle.<br>Debería haber oficiales de alto rango allí.
 Occur_String5=Quizás sus planes para resucitar a Anilata...<br>Por favor, trae cualquier tipo de pista que pueda ayudar.<br>Te pagaré lo máximo que pueda por tu ayuda.
 Doing_String=¿Quién? ¿Quién demonios está ayudando a los Cruzados? ¿Es...?<br>No... Eso no es posible. No puede ser.
 Completable_String1=Esto es... ¿un plan de misión?<br>¡Gracias! Lo revisaré detenidamente.
 Complete_String=Robé los planes que tenía un Cruzado de alto rango.
 List_String=Debo encontrar los planes que probablemente tenga un Cruzado de alto rango.
-Mission_String=Obtener una pista de los Cruzados en el Castillo Sangriento
+Mission_String=Obtener una pista de los Cruzados en Blood Castle
 Mission_Target1=Plan Desconocido
 
 [Quest_9105]
-Name=Expedición al Castillo Sangriento 3
+Name=Expedición al Blood Castle 3
 Occur_String1=Desde la puerta del castillo, hasta Anilata...<br>Los Cruzados están arriesgando sus vidas para detener al ejército de la expedición.
 Occur_String2=Mientras tanto, Anilata está recuperando lentamente su fuerza.<br>Tengo miedo... El guardián caído de la Diosa...<br>Un ser casi tan poderoso como el propio Rugard... Si recupera sus poderes...
 Occur_String3=No puedo permitirme perder tiempo luchando con soldados rasos.
@@ -12258,27 +12258,27 @@ Occur_String6=¡Guerrero! ¡Por favor, guía nuestra expedición e ilumina nuest
 Occur_String7=..
 Doing_String=Que las bendiciones de Rugard estén contigo...
 Completable_String1=¡Lo sabía! Eres como la luz de nuestra expedición. ¡Gracias!
-Complete_String=Me encargué de los Cruzados de Élite en el Castillo Sangriento para aumentar la moral de los vanguardistas.
-List_String=Debo encargarme de los Cruzados de Élite en el Castillo Sangriento para aumentar la moral de los vanguardistas.
+Complete_String=Me encargué de los Cruzados de Élite en Blood Castle para aumentar la moral de los vanguardistas.
+List_String=Debo encargarme de los Cruzados de Élite en Blood Castle para aumentar la moral de los vanguardistas.
 Mission_String=Matar Cruzados de Élite para aumentar la moral
 Mission_Target1=Matar Cruzados de Élite o de rango superior
 
 [Quest_9106]
-Name=Expedición al Castillo Sangriento 4
-Occur_String1=Eres una parte invaluable de nuestra expedición al Castillo Sangriento...
+Name=Expedición al Blood Castle 4
+Occur_String1=Eres una parte invaluable de nuestra expedición al Blood Castle...
 Occur_String2=Tus poderes son realmente increíbles.<br>Una fuerza del bien para nosotros, pero una pesadilla para los Cruzados.
 Occur_String3=¡Necesitamos más buenas noticias para elevar nuestra moral!
 Occur_String4=Phew... No puedo creer que esté haciendo esto.
-Occur_String5=Barre el campo de batalla del Castillo Sangriento.<br>¡Debemos aniquilar por completo a los restos de los Cruzados!
+Occur_String5=Barre el campo de batalla dBlood Castle.<br>¡Debemos aniquilar por completo a los restos de los Cruzados!
 Doing_String=Los Cruzados no retroceden, incluso bajo estos feroces ataques.
 Completable_String1=Estoy feliz de que hayas regresado a salvo.
-Complete_String=Eliminé a más Cruzados de Élite en el Castillo Sangriento para disminuir su moral.
-List_String=Debo eliminar a más Cruzados de Élite en el Castillo Sangriento para disminuir su moral.
+Complete_String=Eliminé a más Cruzados de Élite en Blood Castle para disminuir su moral.
+List_String=Debo eliminar a más Cruzados de Élite en Blood Castle para disminuir su moral.
 Mission_String=Matar Cruzados de Élite para disminuir la moral
 Mission_Target1=Matar Cruzados de Élite o de rango superior
 
 [Quest_9107]
-Name=Expedición al Castillo Sangriento 5
+Name=Expedición al Blood Castle 5
 Occur_String1=Anilata es básicamente un dios creado por la Diosa...<br>Nosotros, las creaciones, no podemos matar a un dios.<br>Con suerte, tal vez podamos sellarlo con nuestras vidas.
 Occur_String2=Entonces, ¿cuál es el propósito de esta guerra?<br>Esta guerra estúpida que sigues llamando cruzada.<br>¿No era la muerte de Anilata el objetivo final?
 Occur_String3=Incluso el gran Rugard solo pudo sellar a Anilata.<br>¿Cómo podrían las simples creaciones como nosotros hacer más...?
@@ -12288,26 +12288,26 @@ Occur_String6=Pero recientemente, los Cruzados se han vuelto más violentos, y e
 Occur_String7=¿Quieres decir que somos como polillas volando hacia el fuego?<br>¿Intentando herir el alma de un dios?
 Occur_String8=No lo diría así. Si podemos trabajar juntos para dañar el alma de un dios...<br>¿No es también un gran logro?
 Occur_String9=Se nos acaba el tiempo. Hablaremos más tarde...<br>El campo de batalla te espera.
-Occur_String10=El Castillo Sangriento es ahora tu escenario...<br>Esperaré noticias de tu triunfo.
-Doing_String=Ya eres famoso entre los guerreros que se han unido a la expedición al Castillo Sangriento.
+Occur_String10=Blood Castle es ahora tu escenario...<br>Esperaré noticias de tu triunfo.
+Doing_String=Ya eres famoso entre los guerreros que se han unido a la expedición al Blood Castle.
 Completable_String1=¡Increíble! ¿Tan rápido...?<br>¡Probablemente los Cruzados ni siquiera sabían que estaban muriendo!
-Complete_String=Asalté el Castillo Sangriento, solo para descubrir que no puedo luchar contra Anilata todavía. Pero continuaré esta lucha. Si me rindo ahora, estaré renunciando a mi futuro.
-List_String=Debo asaltar el Castillo Sangriento y evitar la resurrección completa de Anilata.
-Mission_String=Conquistar el Castillo Sangriento en 7 minutos
-Mission_Target1=Conquistar el Castillo Sangriento
+Complete_String=Asalté Blood Castle, solo para descubrir que no puedo luchar contra Anilata todavía. Pero continuaré esta lucha. Si me rindo ahora, estaré renunciando a mi futuro.
+List_String=Debo asaltar Blood Castle y evitar la resurrección completa de Anilata.
+Mission_String=Conquistar Blood Castle en 7 minutos
+Mission_Target1=Conquistar Blood Castle
 
 [Quest_9108]
 Name=Cruzado 3
 Occur_String1=Los planes que nos trajiste contenían estas palabras.<br>Dullahan, procede con el ritual, cooperación y resurrección...
 Occur_String2=Parece que van a realizar un ritual de resurrección. La resurrección de Anilata, por supuesto.<br>Y están pidiendo cooperación para el ritual...
-Occur_String3=Especialmente, esto... Dullahan. ¿No suena como un nombre?<br>Si alguna vez te encuentras con un enemigo llamado Dullahan dentro del Castillo Sangriento, ¡no lo dejes pasar!<br>Pudimos encontrar una pista.
+Occur_String3=Especialmente, esto... Dullahan. ¿No suena como un nombre?<br>Si alguna vez te encuentras con un enemigo llamado Dullahan dentro dBlood Castle, ¡no lo dejes pasar!<br>Pudimos encontrar una pista.
 Occur_String4=Dullahan... De acuerdo. Ese nombre suena algo inquietante. Lo buscaré.
 Occur_String5=Y tener un ritual para revivir a alguien me recuerda a ellos...
 Doing_String=Dullahan... cooperación...<br>Los Cruzados deben haber conspirado con alguna fuerza externa.<br>¿Quién podría estar trabajando con ellos...?
 Completable_String1=¿De verdad te encontraste con Dullahan?<br>¿Y eso...? ¿Órdenes secretas?<br>¡Por favor dámelas! Las revisaré detenidamente.
 Complete_String=Encontré a Dullahan y le arrebaté las órdenes secretas que tenía. Espero que haya algo allí que nos ayude a derrotarlos.
-List_String=Debo encontrar a Dullahan dentro del Castillo Sangriento y encontrar alguna pista.
-Mission_String=Obtener Órdenes Secretas de Dullahan en el Castillo Sangriento
+List_String=Debo encontrar a Dullahan dentro dBlood Castle y encontrar alguna pista.
+Mission_String=Obtener Órdenes Secretas de Dullahan en Blood Castle
 Mission_Target1=Órdenes Secretas
 
 [Quest_9109]
@@ -12316,16 +12316,16 @@ Occur_String1=No... no... Imposible...<br>Un terrible secreto ha sido revelado p
 Occur_String2=Los Cruzados están trabajando con Pandemonium para resucitar a Anilata mediante un ritual.<br>Me preguntaba cómo los Cruzados han crecido en número últimamente...<br>No puedo creer que estén trabajando con Pandemonium...
 Occur_String3=Dullahan es un comandante de alianza desplegado desde Pandemonium.<br>Parece que las fuerzas de Pandemonium son capaces de restaurar rápidamente el alma de Anilata.
 Occur_String4=Ahora que Anilata se ha aliado con Pandemonium, la completa recuperación de Anilata<br>sumirá a este mundo en un estado de caos sin precedentes.
-Occur_String5=Pero me pregunto qué tipo de magia o técnica de Pandemonium está haciendo que Anilata resucite antes...<br>¿Has visto algo extraño dentro del Blood Castle?
+Occur_String5=Pero me pregunto qué tipo de magia o técnica de Pandemonium está haciendo que Anilata resucite antes...<br>¿Has visto algo extraño dentro dBlood Castle?
 Occur_String6=Sí, vi algo fuera de lugar.<br>Un ataúd hecho de cristales.<br>Parece que Anilata estaba dentro de ese ataúd.
-Occur_String7=¡El Ataúd de Cristal! Escuché que a veces salen luces del Blood Castle.<br>Si esas luces provienen del Ataúd de Cristal y están relacionadas con la resurrección de Anilata...
+Occur_String7=¡El Ataúd de Cristal! Escuché que a veces salen luces dBlood Castle.<br>Si esas luces provienen del Ataúd de Cristal y están relacionadas con la resurrección de Anilata...
 Occur_String8=Por favor, encuentra alguna pista en el Ataúd de Cristal.<br>¡Debemos averiguar exactamente qué es el Ataúd de Cristal!
 Doing_String=Gran Rugard... Por favor, bendícenos en nuestra guerra.
 Completable_String1=¿Qué es esto? Esta cosa está emitiendo una energía pandemoníaca espantosa...<br>¿Esto es del Ataúd de Cristal?
 Completable_String2=Lo investigaré. Gracias por tu trabajo, Guerrero.
-Complete_String=Obtuve un Fragmento de Cristal Corrupto del Ataúd de Cristal en el Blood Castle.
-List_String=Debo encontrar pistas sobre la resurrección de Anilata en el Ataúd de Cristal dentro del Blood Castle.
-Mission_String=Obtener el Fragmento de Cristal Infectado del Ataúd de Cristal en el Blood Castle
+Complete_String=Obtuve un Fragmento de Cristal Corrupto del Ataúd de Cristal en Blood Castle.
+List_String=Debo encontrar pistas sobre la resurrección de Anilata en el Ataúd de Cristal dentro dBlood Castle.
+Mission_String=Obtener el Fragmento de Cristal Infectado del Ataúd de Cristal en Blood Castle
 Mission_Target1=Fragmento de Cristal Infectado
 
 [Quest_9110]
@@ -12334,7 +12334,7 @@ Occur_String1=El Fragmento de Cristal Corrupto que trajiste... es algo peor de l
 Occur_String2=Ese cristal absorbe indiscriminadamente toda la energía a su alrededor.<br>Incluso fuerzas vitales y almas.<br>Si uno está expuesto a este cristal de Pandemonium por mucho tiempo, podría debilitarse e incluso morir.
 Occur_String3=El Ataúd de Cristal estaba transfiriendo la energía obtenida de esa manera a Anilata.<br>Anilata... está tratando de resucitar sacrificando a sus propios Cruzados.<br>¡Y eso usando el poder de Pandemonium!
 Occur_String4=Anilata... Escuché que solía ser el defensor de Akneria. Es el tipo de persona que odio.<br>Aquellos que usan a sus seguidores para lo que desean...
-Occur_String5=¡Guerrero! Anilata no debería haberse resucitado completamente aún.<br>¡Esta es nuestra oportunidad de detenerlo!<br>¡Por favor, derrota a Anilata en el Blood Castle!
+Occur_String5=¡Guerrero! Anilata no debería haberse resucitado completamente aún.<br>¡Esta es nuestra oportunidad de detenerlo!<br>¡Por favor, derrota a Anilata en Blood Castle!
 Doing_String=¡Rugard! Por favor, danos el valor para derrotar a Anilata.
 Completable_String1=Eres increíble, Guerrero. ¡Derrotaste a Anilata!<br>¡Eres el discípulo de la esperanza que Rugard nos ha enviado!
 Completable_String2=Pero como meras creaciones, no tenemos forma de eliminar a Anilata.<br>Solo podemos ponerlo en un sueño profundo.<br>Pero si no lo hacemos... Entonces todos estaremos condenados.<br>Esta guerra acaba de comenzar, y continuará.
@@ -12351,16 +12351,16 @@ Occur_String3=¿Estancamiento? ¡Bah! ¡Ningún estancamiento se atrevería a ve
 Occur_String4=Hm... Hablando de eso, te vi entrar al Blood Castle. ¿Qué es ese lugar?
 Occur_String5=Es un lugar extraño ocupado por los llamados Cruzados. Intentaron invadir esta área, así que me encargué de ellos.
 Occur_String6=¿Un lugar extraño? Hm... ¿Entonces está vinculado a otra dimensión o espacio? Bien.
-Occur_String7=Oye, necesito que investigues el Blood Castle. Tráeme cualquier cosa que parezca importante.<br>Oh, no me pongas esa cara de "¿por qué debería hacerlo?" ¡¿Alguna vez te he hecho hacer algo gratis?!
+Occur_String7=Oye, necesito que investigues Blood Castle. Tráeme cualquier cosa que parezca importante.<br>Oh, no me pongas esa cara de "¿por qué debería hacerlo?" ¡¿Alguna vez te he hecho hacer algo gratis?!
 Doing_String=Esto será divertido. Lo siento.
 Completable_String1=¡Veamos qué has encontrado!<br>No necesito esto... Esto no... ¿No te dije que fuera algo importante?<br>Esto tampoco... No... ¿Hm? Oh, puedes tirar eso.<br>Supongo que ese castillo no es tan especial después de todo... ¿Hm?
 Completable_String2=Hm... ¡Mira esto!<br>Un cristal que contiene tanto poder sagrado como pandemoníaco... ¿Cómo es posible?
 Completable_String3=¿Es eso normal?
 Completable_String4=No exactamente. Normalmente, uno prevalece sobre el otro. Eso es lo que sucede cuando hablas de purificación o corrupción.<br>Cuando el poder sagrado prevalece, es purificación. Cuando es al revés, es corrupción.<br>Pero los dos coexisten en este cristal. ¿Cómo es posible?
 Completable_String5=Cuéntame más sobre esos Cruzados. Necesito más detalles que "son los malos".
-Complete_String=Mientras revisaba lo que encontré en el Blood Castle, Mukler quedó profundamente impresionado con un cristal. Dijo que contenía tanto poder sagrado como pandemoníaco, lo cual debería ser imposible. A juzgar por su cara, debió haber encontrado algo muy valioso.
-List_String=Mukler, cuya investigación sobre la Rift había llegado a un callejón sin salida, me pidió que investigara el Blood Castle. Es un estancamiento, eso es seguro. De todos modos, debo escanear el castillo en busca de cualquier cosa que parezca importante.
-Mission_String=Investigar el Blood Castle por petición de Mukler
+Complete_String=Mientras revisaba lo que encontré en Blood Castle, Mukler quedó profundamente impresionado con un cristal. Dijo que contenía tanto poder sagrado como pandemoníaco, lo cual debería ser imposible. A juzgar por su cara, debió haber encontrado algo muy valioso.
+List_String=Mukler, cuya investigación sobre la Rift había llegado a un callejón sin salida, me pidió que investigara Blood Castle. Es un estancamiento, eso es seguro. De todos modos, debo escanear el castillo en busca de cualquier cosa que parezca importante.
+Mission_String=Investigar Blood Castle por petición de Mukler
 Mission_Target1=Investigar Blood Castle
 
 [Quest_9112]
@@ -12379,13 +12379,13 @@ Mission_Target1=Cristal Poderoso
 
 [Quest_9113]
 Name=Cristales Definitivos 1
-Occur_String1=Entonces, ¿estos son los mejores cristales que pudiste encontrar en el Blood Castle? ¿No hay nadie más poderoso, como su jefe?
+Occur_String1=Entonces, ¿estos son los mejores cristales que pudiste encontrar en Blood Castle? ¿No hay nadie más poderoso, como su jefe?
 Occur_String2=Los Cruzados están dirigidos por alguien llamado Anilata. Está acumulando su poder en un ataúd de cristal.<br>¿Necesitas su cristal?
 Occur_String3=¿Es una pregunta trampa? Necesito que me traigas el cristal de Anilata.<br>Un poder tan potente debe tener algunas aplicaciones interesantes.
 Doing_String=¿Qué? ¿No puedes luchar contra Anilata ahora? Oh, eso es decepcionante.
 Completable_String1=¿Es este? Parece prometedor. Bien, bien...<br>¿Hm? ¡Esto es demasiado débil! Esto no es lo que esperaba. ¿Realmente es de Anilata?
 Complete_String=Llevé el cristal de Anilata a Mukler, pero no quedó impresionado. Bueno, yo también sentí que el cristal no era tan potente como esperaba... Pero, ¿cuál fue el problema?
-List_String=Mukler quiere que encuentre el cristal definitivo para su investigación. El cristal de Anilata... Ese debería ser el cristal más poderoso en el Blood Castle.
+List_String=Mukler quiere que encuentre el cristal definitivo para su investigación. El cristal de Anilata... Ese debería ser el cristal más poderoso en Blood Castle.
 Mission_String=Recoge el cristal definitivo para Mukler
 Mission_Target1=Cristal de Anilata
 
@@ -12399,8 +12399,8 @@ Doing_String=Lo haré. ¡No me decepciones!
 Completable_String1=Sí, esto se ve mejor. Estudiar Rifts requiere mucha energía. No es fácil asegurar tanta energía.<br>Si puedo aprovechar el poder del cristal... debería ser divertido.
 Complete_String=Entregué un cristal de Anilata completamente cargado a Mukler.
 List_String=Debo derrotar a Anilata antes de que use el poder del cristal, y luego llevar el cristal de vuelta. Mukler cree que derrotarlo en cuatro minutos debería ser suficiente.
-Mission_String=Despeja el Blood Castle antes de que Anilata use el poder del cristal
-Mission_Target1=Despeja el Blood Castle en menos de 4 minutos.
+Mission_String=Despeja Blood Castle antes de que Anilata use el poder del cristal
+Mission_Target1=Despeja Blood Castle en menos de 4 minutos.
 
 [Quest_9115]
 Name=El Receptáculo para los Cristales
@@ -12418,7 +12418,7 @@ Mission_String=Recoge materiales para fabricar cofres que contengan los cristale
 Mission_Target1=Fragmentos de Cruzado
 
 [Quest_9200]
-Name=Mina de Gemas Mágicas Distorsionada 1
+Name=Gem Mine Distorsionada 1
 Occur_String1=A-aventurero. ¿S-sabes sobre las Gemas Mágicas?
 Occur_String2=¿No es un mineral muy raro?
 Occur_String3=Las Gemas Mágicas son m-muy difíciles de obtener a-ahora.<br>Está casi a-agotado...<br>Sólo en l-lugares... como la Rift...
@@ -12431,12 +12431,12 @@ Occur_String9=S-sólo... entra a esta G-Rift... al lado mío.<br>¡T-ten cuidado
 Doing_String=Uf... Siempre me pongo nervioso cuando hablo con extraños.<br>Probablemente todos piensan que soy estúpido...
 Completable_String1=G-gracias. ¡T-toma tantas Gemas Mágicas como quieras!
 Complete_String=Venti descubrió una Rift llena de Gemas Mágicas, pero también estaba llena de monstruos, así que me pidió que la revisara por él. Cazar monstruos es mi fuerte, y dijo que podía tomar tantas Gemas Mágicas como quisiera. No es un mal trato en absoluto.
-List_String=Debo derrotar monstruos y revisar la Mina de Gemas Mágicas Distorsionada.
+List_String=Debo derrotar monstruos y revisar Gem Mine Distorsionada.
 Mission_String=Revisa la nueva Rift introducida por Venti
-Mission_Target1=Revisa la Mina de Gemas Mágicas Distorsionada
+Mission_Target1=Revisa Gem Mine Distorsionada
 
 [Quest_9201]
-Name=Mina de Gemas Mágicas Distorsionada 2
+Name=Gem Mine Distorsionada 2
 Occur_String1=Ah... ¡Eres el aventurero que me ayudó antes!<br>¡H-hola!
 Occur_String2=Gracias por ayudarme la última vez...<br>pero la G-G-Rift...<br>s-se llenó de nuevo con monstruos después de u-un tiempo...
 Occur_String3=L-lo siento, p-pero ¿podrías d-derrotar m-m-monstruos d-de nuevo?<br>F-fui demasiado tarde la última vez...
@@ -12446,28 +12446,28 @@ Occur_String6=Está bien... Fue demasiado pedir...<br>Está bien, lo haré de nu
 Occur_String7=¡S-sí! ¡G-gracias! ¡A-aventurero!<br>¡P-puedes tomar todas las G-Gemas Mágicas que quieras!
 Doing_String=Hay muchos... m-monstruos dentro de la Rift...<br>Es increíble c-cómo Mukler... puede vagar solo...
 Completable_String1=¡G-gracias, aventurero!<br>¡E-esta vez entraré de inmediato!
-Complete_String=Eliminé los monstruos en la Mina de Gemas Mágicas Distorsionada para que Venti pueda revisarla. Venti dijo que lo sentía por llegar tarde, pero no fue un gran problema para mí.
-List_String=Debo subyugar la Mina de Gemas Mágicas Distorsionada (Normal 2) para que Venti pueda revisar la mina.
-Mission_String=Subyuga la Mina de Gemas Mágicas Distorsionada (Normal 2)
-Mission_Target1=Subyuga la Mina de Gemas Mágicas Distorsionada
+Complete_String=Eliminé los monstruos en Gem Mine Distorsionada para que Venti pueda revisarla. Venti dijo que lo sentía por llegar tarde, pero no fue un gran problema para mí.
+List_String=Debo subyugar Gem Mine Distorsionada (Normal 2) para que Venti pueda revisar la mina.
+Mission_String=Subyuga Gem Mine Distorsionada (Normal 2)
+Mission_Target1=Subyuga Gem Mine Distorsionada
 
 [Quest_9202]
 Name=Una Petición Educada 1
-Occur_String1=Oye, oye. Te vi entrar y salir de la Mina de Gemas Mágicas varias veces.<br>¿Y quién dijo que podías tomar las Gemas Mágicas para ti?<br>¿Realmente crees que ese gordito de Venti descubrió esa Rift?
+Occur_String1=Oye, oye. Te vi entrar y salir de Gem Mine varias veces.<br>¿Y quién dijo que podías tomar las Gemas Mágicas para ti?<br>¿Realmente crees que ese gordito de Venti descubrió esa Rift?
 Occur_String2=¿Estás diciendo que descubriste esa mina?
 Occur_String3=¿Eh? No te dije nada... ¿y ya lo averiguaste?<br>Ah... Sí. ¡Debo ser yo quien descubrió la mina! Porque tengo una gran apariencia a primera vista...<br>Tienes más sentido común de lo que pensaba.
-Occur_String4=De todos modos, yo encontré la Mina de Gemas Mágicas...<br>Y abrí la Rift hacia la Mina...<br>¿No deberías ayudarme a cambio, si tienes algo de conciencia?
+Occur_String4=De todos modos, yo encontré Gem Mine...<br>Y abrí la Rift hacia la Mina...<br>¿No deberías ayudarme a cambio, si tienes algo de conciencia?
 Occur_String5=E-e-espera. ¿Cómo llegaste a esa conclusión?
 Occur_String6=Hay arañas y esqueletos que estorban para minar las Gemas Mágicas.<br>Parece que fueron afectados por las Gemas Mágicas, y parecen difíciles de derrotar...
 Occur_String7=Necesito que derrotes esos monstruos... Pero solo hacer eso sería aburrido, ¿no?<br>Tráeme los cadáveres de esas arañas y esqueletos. Debo averiguar algo.<br>Hm. Decir cadáveres de esqueletos suena raro. Digamos Fragmentos de Esqueleto.
-Occur_String8=De todos modos, tráeme eso, y te permitiré entrar a la Mina de Gemas Mágicas.<br>¿Suena como un buen trato, verdad? Creo que estoy perdiendo en este trato.<br>De todos modos, no tienes que hacerlo si no quieres.
+Occur_String8=De todos modos, tráeme eso, y te permitiré entrar a Gem Mine.<br>¿Suena como un buen trato, verdad? Creo que estoy perdiendo en este trato.<br>De todos modos, no tienes que hacerlo si no quieres.
 Doing_String=No te convertirás en uno de esos esqueletos, ¿verdad?
 Completable_String1=¿Qué te tomó tanto tiempo? ¿Criaste a los monstruos antes de matarlos?<br>Por lo menos saliste con vida.
-Complete_String=Forzado por Mukler, exterminé monstruos en la Mina de Gemas Mágicas Distorsionada y conseguí lo que quería. Entiendo que fue él quien descubrió el lugar y abrió una Rift hacia él, pero aún así, no me gusta la forma en que habla.
-List_String=Debo derrotar a las arañas y esqueletos en la Mina de Gemas Mágicas Distorsionada para Mukler y traer sus cadáveres. No me siento muy bien al respecto.
-Mission_String=Recoge cadáveres de monstruos en la Mina de Gemas Mágicas Distorsionada
-Mission_Target1=Cadáveres de Arañas de la Mina de Gemas Mágicas
-Mission_Target2=Fragmentos de Esqueleto de la Mina de Gemas Mágicas
+Complete_String=Forzado por Mukler, exterminé monstruos en Gem Mine Distorsionada y conseguí lo que quería. Entiendo que fue él quien descubrió el lugar y abrió una Rift hacia él, pero aún así, no me gusta la forma en que habla.
+List_String=Debo derrotar a las arañas y esqueletos en Gem Mine Distorsionada para Mukler y traer sus cadáveres. No me siento muy bien al respecto.
+Mission_String=Recoge cadáveres de monstruos en Gem Mine Distorsionada
+Mission_Target1=Cadáveres de Arañas de Gem Mine
+Mission_Target2=Fragmentos de Esqueleto de Gem Mine
 
 [Quest_9203]
 Name=Una Petición Educada 2
@@ -12476,10 +12476,10 @@ Occur_String2=Aquí, aquí, y allá?<br>Incluso yo puedo decir que es un diseño
 Occur_String3=¿Falso? ¡Oye! ¡"Falso" no está en mi diccionario! ¡No tienes ni idea de lo que estás hablando! ¿Qué?<br>¿No entiendes este diseño dinámico, sistemático y razonable?<br>Uf... Supongo que no es fácil para una persona normal comprender a un genio.
 Occur_String4=Probablemente no lo entenderías, pero... Este es mi último diseño para un controlador de Rifts.<br>¡Se llama Trenta MK-2!
 Occur_String5=¿Controlador de Rifts? ¿Qué harás con eso?
-Occur_String6=¡Lo viste en la Mina de Gemas Mágicas!<br>¡Es una máquina que crea una Rift artificial!
+Occur_String6=¡Lo viste en Gem Mine!<br>¡Es una máquina que crea una Rift artificial!
 Occur_String7=Para crear una Rift, necesitas acumular muchas Distorsiones de Rift y luego... ¡Boom! La haces explotar.<br>El problema es que las Rifts creadas de esa manera son inestables. Estoy tratando de hacerlas estables.
 Occur_String8=Uf... pero sigo atascado en el mismo punto.<br>Creo que necesito más partes.<br>¿Qué puedo usar para las partes del Trenta... Veamos... Eso debería funcionar.
-Occur_String9=Tráeme Fragmentos Esclerotizados de Gemas Mágicas de la Mina de Gemas Mágicas.<br>Probablemente puedas obtenerlos de los Tumores de Gemas Mágicas.<br>Debería poder usarlos como partes del Trenta.
+Occur_String9=Tráeme Fragmentos Esclerotizados de Gemas Mágicas de Gem Mine.<br>Probablemente puedas obtenerlos de los Tumores de Gemas Mágicas.<br>Debería poder usarlos como partes del Trenta.
 Occur_String10=Parece que quieres preguntarme por qué deberías ir. ¿No usaste el Trenta que creé?<br>Piénsalo como el precio por eso. Nada es gratis en este mundo.<br>El Trenta es muy caro, pero te estoy dejando pagarlo con trabajo, así que deberías estar agradecido. ¿No lo crees?
 Doing_String=Oye, yo soy el ocupado aquí... ¿Quién crees que debería ir?<br>¡Muévete, muévete, muévete!
 Completable_String1=A ver... ¿Alrededor de cinco?<br>No estarás tratando de presumir con esto, ¿verdad?
@@ -12503,7 +12503,7 @@ Completable_String1=Oye, Mukler.<br>Venti me pidió que te diera esta Gema Mági
 Completable_String2=¿Eh? ¿Yo? ¿Por qué?<br>¿Esto no significa que si sigo burlándome de él, seguirá consiguiéndome más de estas? Jajaja.
 Complete_String=Le llevé a Mukler la Gema Mágica Alterada, pero fue todo en vano. No parece querer dejar de burlarse de Venti.
 List_String=Debo llevar la Gema Mágica Alterada a Mukler para que deje de burlarse de Venti.
-Mission_String=Recoge la Gema Mágica Alterada del Guardián en la Mina de Gemas Mágicas
+Mission_String=Recoge la Gema Mágica Alterada del Guardián en Gem Mine
 Mission_Target1=Gema Mágica Alterada
 
 [Quest_9205]
@@ -12521,7 +12521,7 @@ Doing_String=¿Qué sigues haciendo aquí? Te dije que mi tiempo es valioso. ¡V
 Completable_String1=Buen trabajo. Ya puedes irte. Te llamaré si te necesito de nuevo.<br>Tengo... muchas cosas en mente ahora...
 Complete_String=Traje varios tipos de Gemas Mágicas Alteradas para Mukler. Pensé que las recibiría diciendo cosas molestas, pero estaba demasiado tranquilo para mi gusto.
 List_String=Traje varios tipos de Gemas Mágicas Alteradas para Mukler.
-Mission_String=Recoge Gemas Mágicas Alteradas de la Mina de Gemas Mágicas
+Mission_String=Recoge Gemas Mágicas Alteradas de Gem Mine
 Mission_Target1=Gemas Mágicas Alteradas
 Mission_Target2=Gema Mágica Alterante
 
@@ -12529,21 +12529,21 @@ Mission_Target2=Gema Mágica Alterante
 Name=Un secreto que debe guardarse
 Occur_String1=¿Por qué te ves tan deprimido?
 Occur_String2=¡Maldita sea!<br>Supongo que eres el único.
-Occur_String3=No me preguntes nada, y no le digas a nadie.<br>Si el Vigilante de la Mina de Gemas Mágicas tiene algo extraño, tráemelo.
+Occur_String3=No me preguntes nada, y no le digas a nadie.<br>Si el Vigilante de Gem Mine tiene algo extraño, tráemelo.
 Occur_String4=...No estás bromeando. Está bien. Te ayudaré.
 Doing_String=Solo espero... que no sea cierto.
 Completable_String1=¿Por qué un Vigilante lleva un collar como este?<br>¿Qué es este collar? Me parece familiar.
 Completable_String2=...Maldita sea. Está bien. Puedes irte. Me encargaré de esto ahora.
 Completable_String3=¿No vas a explicar nada?<br>¿Por qué me dijiste que te lo trajera entonces?
 Completable_String4=¡Te dije que no preguntaras nada, y que no dijeras nada!<br>¡Te dije que te fueras!
-Complete_String=El Vigilante en la Mina de Gemas Mágicas tenía un collar rayado. Le pregunté a Mukler qué era, pero se enfadó y me dijo que me fuera. Me di la vuelta, pero sé que he visto ese collar en algún lugar. Eso no se me quita de la cabeza.
-List_String=Debo derrotar al Vigilante en la Mina de Gemas Mágicas (Normal 2) y encontrar un item que no le pertenece. Algo que un monstruo no debería tener... probablemente algo hecho por humanos.
-Mission_String=Encuentra un item inusual del Vigilante en la Mina de Gemas Mágicas (Normal 3)
+Complete_String=El Vigilante en Gem Mine tenía un collar rayado. Le pregunté a Mukler qué era, pero se enfadó y me dijo que me fuera. Me di la vuelta, pero sé que he visto ese collar en algún lugar. Eso no se me quita de la cabeza.
+List_String=Debo derrotar al Vigilante en Gem Mine (Normal 2) y encontrar un item que no le pertenece. Algo que un monstruo no debería tener... probablemente algo hecho por humanos.
+Mission_String=Encuentra un item inusual del Vigilante en Gem Mine (Normal 3)
 Mission_Target1=Objeto extraño
 
 [Quest_9207]
 Name=Fragmentos Completados
-Occur_String1=M-me sentí mal por pedirte favores una y otra vez, así que fui yo mismo al interior profundo de la M-mina de Gemas Mágicas.<br>P-pero algo extraño sucedió cuando me acerqué a los vigilantes allí.
+Occur_String1=M-me sentí mal por pedirte favores una y otra vez, así que fui yo mismo al interior profundo de la M-Gem Mine.<br>P-pero algo extraño sucedió cuando me acerqué a los vigilantes allí.
 Occur_String2=¡E-el collar que Mukler me dio comenzó a resonar!<br>A-así que huí, pero el c-collar se rayó.
 Occur_String3=(Mirando el collar de Venti)<br>'Espera... ¿este collar...?'
 Occur_String4=¿C-guerrero? ¿Qué pasa?<br>¿Por qué tienes esa cara tan aterradora?
@@ -12558,20 +12558,20 @@ Completable_String2=...¿Qué quieres decir? Novato impertinente.
 Completable_String3=El collar de Venti, lo sabía. Me resultaba familiar. ¿Es el de Venti, verdad?<br>Incluso el rayón es el mismo.<br>¿Por qué el vigilante tiene el mismo collar que Venti?<br>¿Qué me estás ocultando?
 Completable_String4=¡Detente!<br>No preguntes. Suspiro... No le digas esto a nadie.<br>¡Este genio lo resolverá! ¿De acuerdo?<br>¡Yo me encargaré!
 Complete_String=Le pregunté a Mukler la verdad sobre el collar, pero se negó a responder, diciendo que él puede solucionarlo. Tengo un mal presentimiento... pero espero que lo resuelva como dice.
-List_String=Debo derrotar monstruos en la Mina de Gemas Mágicas Distorsionadas (Normal 3) y destruir los Grumos de Gemas Mágicas para la investigación de Venti. Y... necesito ir a ver a Mukler. Mukler definitivamente está ocultando algo.
-Mission_String=Debo derrotar monstruos en la Mina de Gemas Mágicas Distorsionadas (Normal 3) y destruir Grumos de Gemas Mágicas
-Mission_Target1=Limpiar la Mina de Gemas Mágicas
+List_String=Debo derrotar monstruos en Gem Mine Distorsionadas (Normal 3) y destruir los Grumos de Gemas Mágicas para la investigación de Venti. Y... necesito ir a ver a Mukler. Mukler definitivamente está ocultando algo.
+Mission_String=Debo derrotar monstruos en Gem Mine Distorsionadas (Normal 3) y destruir Grumos de Gemas Mágicas
+Mission_Target1=Limpiar Gem Mine
 Mission_Target2=Matar a los Vigilantes de Gemas Mágicas
 
 [Quest_9208]
-Name=Encuentra la Mina de Gemas Mágicas Distorsionadas
-Occur_String1=¡La Sociedad de Investigación del Abismo encontró la Mina de Gemas Mágicas Distorsionadas!<br>¡Necesitamos ayuda de personas hábiles para hacer más investigaciones!
-Occur_String2=Aquellos que estén interesados en la Mina de Gemas Mágicas Distorsionadas, por favor vayan a ver a Venti en la Room of Duty.<br>¡Serán bien recompensados!
-Doing_String=¡Gracias por tu ayuda!<br>Por favor ve a ver a Venti para obtener los detalles sobre la Mina de Gemas Mágicas Distorsionadas.<br>Está en la Room of Duty.
-Completable_String1=¡B-bienvenido! Soy V-venti.<br>¿V-vienes a ayudar con la Mina de Gemas Mágicas Distorsionadas?
-Complete_String=La Sociedad de Investigación del Abismo ha encontrado la Mina de Gemas Mágicas Distorsionadas. Fui a ver a Venti en la Room of Duty para averiguar cómo es el lugar.
-List_String=La Sociedad de Investigación del Abismo ha encontrado la Mina de Gemas Mágicas Distorsionadas. Iré a ver a Venti en la Room of Duty para averiguar cómo es el lugar.
-Mission_String=Debo ir a encontrar a Venti, que está a cargo de la Mina de Gemas Mágicas Distorsionadas
+Name=Encuentra Gem Mine Distorsionadas
+Occur_String1=¡La Sociedad de Investigación del Abismo encontró Gem Mine Distorsionadas!<br>¡Necesitamos ayuda de personas hábiles para hacer más investigaciones!
+Occur_String2=Aquellos que estén interesados en Gem Mine Distorsionadas, por favor vayan a ver a Venti en la Room of Duty.<br>¡Serán bien recompensados!
+Doing_String=¡Gracias por tu ayuda!<br>Por favor ve a ver a Venti para obtener los detalles sobre Gem Mine Distorsionadas.<br>Está en la Room of Duty.
+Completable_String1=¡B-bienvenido! Soy V-venti.<br>¿V-vienes a ayudar con Gem Mine Distorsionadas?
+Complete_String=La Sociedad de Investigación del Abismo ha encontrado Gem Mine Distorsionadas. Fui a ver a Venti en la Room of Duty para averiguar cómo es el lugar.
+List_String=La Sociedad de Investigación del Abismo ha encontrado Gem Mine Distorsionadas. Iré a ver a Venti en la Room of Duty para averiguar cómo es el lugar.
+Mission_String=Debo ir a encontrar a Venti, que está a cargo de Gem Mine Distorsionadas
 Mission_Target1=Hablar con Venti
 
 [Quest_9300]
@@ -12587,9 +12587,9 @@ Occur_String8=¿Qué tipo de bóveda tienes entonces...?<br>De todos modos... ¿
 Occur_String9=¡Esos malditos Goblins! ¡Ingratos bastardos!<br>¡Entra en la Rift junto a mí, verás la bóveda!<br>¡Derrota a todos los Goblins allí! ¡Haz que paguen por lo que han hecho!
 Doing_String=Guh... Si hicieron algo a mis tesoros... ¡Ahhh!! ¡Los mataré a todos!
 Completable_String1=¿A-así que... mi oro... y mis joyas... están a salvo?
-Complete_String=Derroté a los monstruos que se rebelaron dentro de la Bóveda Secreta de Luery. Toda una Rift era la bóveda privada de Luery. Fue impresionante.
-List_String=Debo derrotar a los Goblins que se rebelaron dentro de la Bóveda Secreta de Luery.
-Mission_String=Matar a los Goblins que ocupan la Bóveda Secreta de Luery
+Complete_String=Derroté a los monstruos que se rebelaron dentro de Luery's Secret Vault. Toda una Rift era la bóveda privada de Luery. Fue impresionante.
+List_String=Debo derrotar a los Goblins que se rebelaron dentro de Luery's Secret Vault.
+Mission_String=Matar a los Goblins que ocupan Luery's Secret Vault
 Mission_Target1=Goblin Limpiador
 Mission_Target2=Goblin Guardia
 Mission_Target3=Goblin Defensor
@@ -12607,7 +12607,7 @@ Doing_String=¡Lo sabía! ¡No debería haber confiado en los Goblins solo porqu
 Completable_String1=Gah... ¡Sigo enojado! ¡Tan enojado!! ¡Ahhhh!!
 Complete_String=Destruí todas las Estatuas de Oro de Goblin en la bóveda secreta, pero Luery todavía parece estar enojada.
 List_String=Debo destruir todas las Estatuas de Oro de Goblin en la bóveda secreta.
-Mission_String=Destruye las Estatuas de Oro de Goblin en la Bóveda Secreta de Luery
+Mission_String=Destruye las Estatuas de Oro de Goblin en Luery's Secret Vault
 Mission_Target1=Destruye las Estatuas de Oro de Goblin
 
 [Quest_9302]
@@ -12624,7 +12624,7 @@ Doing_String=Estúpida Luery.<br>Dejar una bóveda a los Goblins es como darle p
 Completable_String1=¡Oh! Bien. ¿Has destruido la estatua de oro de esa vieja bruja?<br>Y... ¡no le digas a Luery que te pedí tal favor! ¡No lo olvides!
 Complete_String=Destruí la Estatua de Oro de Luery dentro de la bóveda secreta. Mukler asumirá la responsabilidad... pero me pregunto si realmente podrá manejarlo.
 List_String=Debo destruir la Estatua de Oro de Luery dentro de la bóveda secreta.
-Mission_String=Destruye la Estatua de Oro de Luery en la Bóveda Secreta de Luery
+Mission_String=Destruye la Estatua de Oro de Luery en Luery's Secret Vault
 Mission_Target1=Destruye la Estatua de Oro de Luery
 
 [Quest_9303]
@@ -12638,9 +12638,9 @@ Occur_String6=Cubierto de oro...<br>Nunca he hecho eso antes...
 Occur_String7=Si lo derrotas, el resto se asustará.<br>Jeje... Esos idiotas.
 Doing_String=¡Luery debería darse cuenta de quién la hizo tan rica en primer lugar!
 Completable_String1=*Risas* Si Luery ve la forma en que Warblin se comporta en su bóveda, podría incluso desmayarse.<br>¡Ahhh!! ¡Ahhh!! Gritando cosas como...<br>'¡Estúpidos Goblins arruinaron mi oro!'... ¡Jaja!
-Complete_String=Derroté a Warblin, quien inició la revuelta dentro de la Bóveda Secreta de Luery. Pero... me pregunto si los Goblins que alguna vez probaron el oro se quedarán tranquilos.
-List_String=Debo derrotar a Warblin que inició la revuelta dentro de la Bóveda Secreta de Luery (Normal 2).
-Mission_String=Derrota a Warblin en la Bóveda Secreta de Luery (Normal 2)
+Complete_String=Derroté a Warblin, quien inició la revuelta dentro de Luery's Secret Vault. Pero... me pregunto si los Goblins que alguna vez probaron el oro se quedarán tranquilos.
+List_String=Debo derrotar a Warblin que inició la revuelta dentro de Luery's Secret Vault (Normal 2).
+Mission_String=Derrota a Warblin en Luery's Secret Vault (Normal 2)
 Mission_Target1=Matar a Warblin
 
 [Quest_9304]
@@ -12650,9 +12650,9 @@ Occur_String2=No lo entiendo.<br>Pensé que los Goblins eran tan tontos que se c
 Occur_String3=Muestra que las cosas pueden empeorar si siguen causando caos. Enséñales a todos esos Goblins.<br>Además, destruye sus estatuas de oro.
 Doing_String=Si quieres algo del oro de Luery, toma un poco.<br>Pero si tomas demasiado, ella podría darse cuenta.<br>Sabes a lo que me refiero, ¿verdad? Toma solo lo necesario.
 Completable_String1=Bien, buen trabajo. Pero...<br>Suspiro... ahora tenemos un problema de verdad.
-Complete_String=Me deshice de los monstruos dentro de la Bóveda Secreta de Luery, pero parece que hay otro problema.
-List_String=Debo eliminar los monstruos dentro de la Bóveda Secreta de Luery (Normal 2) y destruir las estatuas de oro.
-Mission_String=Derrota a los monstruos en la Bóveda Secreta de Luery (Normal 2) y destruye las estatuas de oro
+Complete_String=Me deshice de los monstruos dentro de Luery's Secret Vault, pero parece que hay otro problema.
+List_String=Debo eliminar los monstruos dentro de Luery's Secret Vault (Normal 2) y destruir las estatuas de oro.
+Mission_String=Derrota a los monstruos en Luery's Secret Vault (Normal 2) y destruye las estatuas de oro
 Mission_Target1=Destruye monstruos y estatuas de oro
 
 [Quest_9305]
@@ -12665,8 +12665,8 @@ Doing_String=¡Rápido! ¡Parece que algo realmente podría suceder si los dejam
 Completable_String1=Maté a todos y cada uno de ellos.<br>¿Cómo está Luery?
 Completable_String2=Sin efecto. Cree que perderá todo el oro que ha ahorrado.<br>No habría ahorrado todo eso si no fuera por mí... Pero no podemos ignorarla.
 Complete_String=Eliminé a los monstruos en la bóveda secreta, pero Luery sigue de mal humor.
-List_String=Debo eliminar los monstruos y las estatuas de oro en la Bóveda Secreta de Luery (Normal 3) para calmar a Luery.
-Mission_String=Destruye a los monstruos en la Bóveda Secreta de Luery (Normal 3) y las estatuas de oro
+List_String=Debo eliminar los monstruos y las estatuas de oro en Luery's Secret Vault (Normal 3) para calmar a Luery.
+Mission_String=Destruye a los monstruos en Luery's Secret Vault (Normal 3) y las estatuas de oro
 Mission_Target1=Destruye monstruos y estatuas de oro
 
 [Quest_9306]
@@ -12677,8 +12677,8 @@ Doing_String=Si esto no funciona...
 Completable_String1=¿Y qué quieres...?<br>¡Oh! Estas hermosas joyas... ¿Hm? ¿No son mías?<br>Katherine, Demian... y ¡oh! ¡Elizabeth! ¡También estabas aquí!
 Completable_String2=Oh, vaya, incluso les pusiste nombres.<br>... Aquí tienes, tus hijos están a salvo. Tu bóveda secreta también está a salvo.<br>No perdiste mucho. Así que, despierta.
 Complete_String=Luery volvió en sí una vez que le mostré algunas joyas y oro. No puedo creer que recuerde cada una de sus joyas y hasta les haya puesto nombre.
-List_String=Debo traer las mejores joyas de la Bóveda Secreta de Luery para ayudarla a despertar.
-Mission_String=Obtén joyas de la Bóveda Secreta de Luery
+List_String=Debo traer las mejores joyas de Luery's Secret Vault para ayudarla a despertar.
+Mission_String=Obtén joyas de Luery's Secret Vault
 Mission_Target1=Collar Costoso
 Mission_Target2=Pendientes Llamativos
 Mission_Target3=Anillo Precioso
@@ -12694,10 +12694,10 @@ Occur_String6=Oye... Cálmate. ¿Estás tratando de hacer una escena otra vez?<b
 Occur_String7=¡Ahh!<br>¡Por favor limpia mi bóveda secreta de Goblins!<br>¡Será el glorioso primer paso hacia su extinción!
 Doing_String=Peekaboo. Mis Katherine, Demian, Elizabeth. Han vuelto con mamá. Pronto los dejaré volver con sus amigos.
 Completable_String1=Bien, muy bien. A partir de ahora solo veremos Goblins en los cuentos de hadas.<br>¡Lo haré realidad!<br>¡Y tengo que buscar nuevos guardias para mi bóveda!
-Complete_String=Limpie la Bóveda Secreta de Luery de Goblins. Estará a salvo de monstruos por un tiempo, pero a menos que deje de ser tan codiciosa, volverán. Será mejor que no esté cerca cuando eso suceda.
-List_String=Debo limpiar la Bóveda Secreta de Luery (Normal 4) para que Luery no se vuelva loca otra vez.
-Mission_String=Limpia la Bóveda Secreta de Luery (Normal 4)
-Mission_Target1=Limpia la Bóveda Secreta de Luery
+Complete_String=Limpie Luery's Secret Vault de Goblins. Estará a salvo de monstruos por un tiempo, pero a menos que deje de ser tan codiciosa, volverán. Será mejor que no esté cerca cuando eso suceda.
+List_String=Debo limpiar Luery's Secret Vault (Normal 4) para que Luery no se vuelva loca otra vez.
+Mission_String=Limpia Luery's Secret Vault (Normal 4)
+Mission_Target1=Limpia Luery's Secret Vault
 
 [Quest_9308]
 Name=Petición de Ayuda de Luery
@@ -12715,17 +12715,17 @@ Name=Niño Lacónico 1
 Occur_String1=¿Eres un guerrero?
 Occur_String2=¿Puedes ayudarme?
 Occur_String3=¿De qué se trata?
-Occur_String4=A mi lado. Ve al Jardín de Fabrice.
-Occur_String5=¿Jardín de Fabrice? ¿Qué lugar es ese?<br>¿Y por qué me lo dices de repente?
+Occur_String4=A mi lado. Ve al Fabrice Garden.
+Occur_String5=¿Fabrice Garden? ¿Qué lugar es ese?<br>¿Y por qué me lo dices de repente?
 Occur_String6=Un jardín creado por el Dios de la Artesanía. Ha sido abandonado.<br>Los monstruos en el jardín abandonado. Molestos. Difícil de mantener.
 Occur_String7=¿Un jardín hecho por un dios?
-Occur_String8=Basta de hablar. Será bueno para ti también.<br>El Jardín de Fabrice. Ve allí y compruébalo por ti mismo.
+Occur_String8=Basta de hablar. Será bueno para ti también.<br>Fabrice Garden. Ve allí y compruébalo por ti mismo.
 Doing_String=Deja de hacer preguntas.
 Completable_String1=Ambos conseguimos lo que queríamos.
-Complete_String=Derroté a los monstruos en el Jardín de Fabrice y revisé la nueva Rift.
-List_String=Debo derrotar a los monstruos en el Jardín de Fabrice y revisar la nueva Rift.
+Complete_String=Derroté a los monstruos en Fabrice Garden y revisé la nueva Rift.
+List_String=Debo derrotar a los monstruos en Fabrice Garden y revisar la nueva Rift.
 Mission_String=Revisa la nueva Rift mencionada por Tall
-Mission_Target1=Revisa el Jardín de Fabrice
+Mission_Target1=Revisa Fabrice Garden
 
 [Quest_9401]
 Name=Niño Lacónico 2
@@ -12739,16 +12739,16 @@ Occur_String7=¿Sueles impedir que otros entren allí?
 Occur_String8=Luery... está muy preocupada. Es muy sensible a la gente.<br>Adelante, ya.<br>No tengo más que decir.
 Doing_String=Haces demasiadas preguntas.<br>Frustrante.
 Completable_String1=Hm... Está bien.
-Complete_String=Derroté a los monstruos en el Jardín de Fabrice como pidió Tall. No me gustó su forma de hablar, pero dijo que me dejaría entrar en el jardín. Al menos tiene ética de negocios.
-List_String=Debo derrotar a los monstruos en el Jardín de Fabrice (Normal 2) como pidió Tall.
-Mission_String=Extermina monstruos en el Jardín de Fabrice (Normal 2)
-Mission_Target1=Extermina monstruos en el Jardín de Fabrice
+Complete_String=Derroté a los monstruos en Fabrice Garden como pidió Tall. No me gustó su forma de hablar, pero dijo que me dejaría entrar en el jardín. Al menos tiene ética de negocios.
+List_String=Debo derrotar a los monstruos en Fabrice Garden (Normal 2) como pidió Tall.
+Mission_String=Extermina monstruos en Fabrice Garden (Normal 2)
+Mission_Target1=Extermina monstruos en Fabrice Garden
 
 [Quest_9402]
 Name=Cosas Obtenibles del Jardín
-Occur_String1=Venti... lo encontró en la Mina de Gemas Mágicas. Algo bueno.<br>Se lo dio a Luery. Luery lo elogió.
+Occur_String1=Venti... lo encontró en Gem Mine. Algo bueno.<br>Se lo dio a Luery. Luery lo elogió.
 Occur_String2=Entonces, ¿tú también quieres ser elogiado?
-Occur_String3=...Cállate.<br>Ve al Jardín de Fabrice.
+Occur_String3=...Cállate.<br>Ve al Fabrice Garden.
 Occur_String4=Obtén el rocío de los monstruos. Lleno de magia.<br>A Luery le. Gustará.
 Occur_String5=Cuando pides un favor, dices por favor.
 Occur_String6=...Tú. Hablas demasiado.<br>Obtén el rocío y dáselo a Luery.
@@ -12757,13 +12757,13 @@ Doing_String=Luery. Le gustan las cosas que son buenas para la piel.<br>Rocío M
 Completable_String1=Oh, ¿qué te trae por aquí?<br>¿Hm? Oh, ¿es para mí?<br>Veamos... ¡Esto es! ¡Nunca he visto rocío con magia pura!<br>¿Qué harías si me pongo más bonita que ahora?
 Completable_String2=¿Tall te pidió que me trajeras esto?<br>Oh... ¿Qué le pasa? Normalmente es muy seco.<br>Tendré que darle una palmadita en la cabeza la próxima vez que lo vea. Ho ho ho ho.
 Complete_String=Tal como dijo Tall, Luery estaba muy feliz cuando le di el Rocío Mágico.
-List_String=Debo recolectar Rocío Mágico de los monstruos en el Jardín de Fabrice.
-Mission_String=Recolecta Rocío Mágico de los monstruos en el Jardín de Fabrice.
+List_String=Debo recolectar Rocío Mágico de los monstruos en Fabrice Garden.
+Mission_String=Recolecta Rocío Mágico de los monstruos en Fabrice Garden.
 Mission_Target1=Rocío Mágico
 
 [Quest_9403]
 Name=El Amor de Luery por la Piel
-Occur_String1=Puedo sentirlo en mi piel. Solo necesito un poco.<br>Esto es muy bueno.<br>No sabía que esto podía encontrarse en el Jardín de Fabrice.
+Occur_String1=Puedo sentirlo en mi piel. Solo necesito un poco.<br>Esto es muy bueno.<br>No sabía que esto podía encontrarse en Fabrice Garden.
 Occur_String2=Ya me voy...
 Occur_String3=¡Espera! ¡Un! ¡Minuto!<br>Sería mejor si tuviera un poco más de magia. Le falta solo un poco.
 Occur_String4=Sabes que la piel de una hermosa dama es como un tesoro, ¿verdad?<br>¿No querrías protegerla con toda tu vida?
@@ -12773,14 +12773,14 @@ Occur_String7=Oh. Entonces lo que escuché debe haber sido... ¿tu voz interior?
 Doing_String=Si vendo esto, podría ganar mucho oro...<br>Entonces, necesitaré una fuente estable de suministro...<br>El nombre será importante también. ¿Cómo debería llamarlo? Lágrimas de Diosa.
 Completable_String1=¡Fantástico!<br>Perfecto. Esto es exactamente lo que quería.<br>Muchas gracias.
 Complete_String=Luery pidió rocío con más magia, así que se lo traje. Entiendo que la apariencia es importante, pero su obsesión es incluso más aterradora.
-List_String=Debo ir al Jardín de Fabrice y obtener rocío con más magia para Luery.
-Mission_String=Recolecta rocío con más magia de los monstruos en el Jardín de Fabrice.
+List_String=Debo ir al Fabrice Garden y obtener rocío con más magia para Luery.
+Mission_String=Recolecta rocío con más magia de los monstruos en Fabrice Garden.
 Mission_Target1=Rocío con más magia
 
 [Quest_9404]
 Name=Flores de Regalo
 Occur_String1=Luery me elogió.
-Occur_String2=Necesito flores del Jardín de Fabrice. Luery estará.<br>Feliz.
+Occur_String2=Necesito flores de Fabrice Garden. Luery estará.<br>Feliz.
 Occur_String3=Tráemelas.<br>Se las daré en persona.
 Occur_String4=Parece que piensas en ella todo el tiempo.<br>¿Qué tal si le dices a Luery que te gusta?
 Occur_String5=...Solo necesito flores del jardín.<br>Tu consejo es. Innecesario.<br>Deja de hablar.
@@ -12788,8 +12788,8 @@ Occur_String6=No seas tímido.<br>Espera aquí. Iré a traerte algunas.
 Doing_String=¿Flores del jardín... aún?
 Completable_String1=Bien. Muy bien.<br>Las cortaré y se las daré.<br>Aquí tienes tu recompensa. Ahora vete.
 Complete_String=Traje Flores del Jardín para Tall, y dijo que las cortaría para Luery. Suena grosero, pero actúa como un niño inocente.
-List_String=Debo traer flores del Jardín de Fabrice para Tall.
-Mission_String=Encuentra flores en el Jardín de Fabrice y entrégaselas a Tall.
+List_String=Debo traer flores de Fabrice Garden para Tall.
+Mission_String=Encuentra flores en Fabrice Garden y entrégaselas a Tall.
 Mission_Target1=Flores del Jardín
 
 [Quest_9405]
@@ -12799,13 +12799,13 @@ Occur_String2=Luery. Tomó las flores. Me elogió.
 Occur_String3=Pero Mukler se burló de mí.<br>Se mofó de que le di flores.<br>Dijo que me sonrojé. No me sonrojé.
 Occur_String4=Mukler dijo que quería un regalo.<br>Se burló de mí.<br>No me gusta Mukler.
 Occur_String5=Le daré algo a Mukler.<br>Algo inútil. La cosa más inútil.
-Occur_String6=Tráeme barro del Jardín de Fabrice.<br>Barro de los sapos.<br>La cosa más sucia y más inútil.
+Occur_String6=Tráeme barro de Fabrice Garden.<br>Barro de los sapos.<br>La cosa más sucia y más inútil.
 Occur_String7=¿Qué hice para tener que traerte algo como eso...?<br>...Está bien. Lo traeré, así que anímate.<br>Suspiro...
 Doing_String=Mukler. Malo. Nunca me elogia.<br>Siempre se burla de mí.
 Completable_String1=Le envolveré esto a Mukler.<br>Debe aprender.
-Complete_String=Traje barro del Jardín de Fabrice para que Tall se lo diera a Mukler. Tengo dudas sobre esto, pero sería divertido ver la cara de Mukler.
-List_String=Debo traer barro del Jardín de Fabrice para que Tall se lo dé a Mukler.
-Mission_String=Recolecta Barro Apestoso del Jardín de Fabrice
+Complete_String=Traje barro de Fabrice Garden para que Tall se lo diera a Mukler. Tengo dudas sobre esto, pero sería divertido ver la cara de Mukler.
+List_String=Debo traer barro de Fabrice Garden para que Tall se lo dé a Mukler.
+Mission_String=Recolecta Barro Apestoso de Fabrice Garden
 Mission_Target1=Barro Apestoso
 
 [Quest_9406]
@@ -12820,10 +12820,10 @@ Occur_String7=Manteniendo el jardín.<br>Es difícil gestionar lugares altos.<br
 Doing_String=...Aún así, le daré todo el barro a Mukler.
 Completable_String1=Buen trabajo. Toma lo que obtuviste.
 Completable_String2=Se lo envié a Mukler. El barro.<br>Voy a burlarme de él más tarde.
-Complete_String=Ayudé a Tall a cuidar el Jardín de Fabrice. Tall quería burlarse de Mukler, pero dijo que se sentía mal, así que ayudó con el trabajo. Aún es un chico tímido.
-List_String=Debo cuidar el Jardín de Fabrice (Normal 3) como Tall pidió, y hacerle saber.
-Mission_String=Cuidar el Jardín de Fabrice (Normal 3)
-Mission_Target1=Limpia el Jardín de Fabrice
+Complete_String=Ayudé a Tall a cuidar Fabrice Garden. Tall quería burlarse de Mukler, pero dijo que se sentía mal, así que ayudó con el trabajo. Aún es un chico tímido.
+List_String=Debo cuidar Fabrice Garden (Normal 3) como Tall pidió, y hacerle saber.
+Mission_String=Cuidar Fabrice Garden (Normal 3)
+Mission_Target1=Limpia Fabrice Garden
 
 [Quest_9407]
 Name=Elogio Inesperado
@@ -12838,18 +12838,18 @@ Doing_String=Creo que encontró algo.<br>Algo que yo no vi. Mukler lo vio.
 Completable_String1=Déjalo aquí. Voy a echar un vistazo.<br>Si puedo encontrarlo también, Mukler me elogiará.<br>Encontraré eso y se lo daré a Mukler.
 Completable_String2=Voy a investigarlo.<br>Puedes ir.<br>.. Gracias.
 Complete_String=Mukler estaba muy feliz con el regalo de Tall, y le pidió a Tall que le trajera más. Traje más barro, pero ¿cuál es el uso de ese Barro Apestoso?
-List_String=Debo recolectar más Barro Apestoso del Jardín de Fabrice y entregárselo a Tall.
-Mission_String=Recolectar más Barro Apestoso del Jardín de Fabrice
+List_String=Debo recolectar más Barro Apestoso de Fabrice Garden y entregárselo a Tall.
+Mission_String=Recolectar más Barro Apestoso de Fabrice Garden
 Mission_Target1=Barro Apestoso
 
 [Quest_9408]
-Name=Cuidar el Jardín de Fabrice
-Occur_String1=¡La Sociedad de Investigación del Rift está buscando personas talentosas para ayudar a mantener el Jardín de Fabrice!
+Name=Cuidar Fabrice Garden
+Occur_String1=¡La Sociedad de Investigación del Rift está buscando personas talentosas para ayudar a mantener Fabrice Garden!
 Occur_String2=Ve a encontrar a Tall en la Sala de Deber. Él... podría no contarte los detalles, pero ve a encontrar a Tall.
 Doing_String=Las habilidades son importantes... pero solo ve a ver a Tall si piensas que eres una buena persona y tienes paciencia.<br>Si no lo eres... no me hago responsable de lo que pase.
 Completable_String1=¿Viniste a ayudar?
-Complete_String=Conocí a Tall en la Sala de Deber para ayudar con el Jardín de Fabrice. La forma en que habla... no me da una buena impresión.
-List_String=Debo encontrar a Tall en la Sala de Deber para ayudar con el Jardín de Fabrice. Pero estoy preocupado por lo que me dijo ese miembro de la Sociedad de Investigación del Rift.
+Complete_String=Conocí a Tall en la Sala de Deber para ayudar con Fabrice Garden. La forma en que habla... no me da una buena impresión.
+List_String=Debo encontrar a Tall en la Sala de Deber para ayudar con Fabrice Garden. Pero estoy preocupado por lo que me dijo ese miembro de la Sociedad de Investigación del Rift.
 Mission_String=Debo ir a buscar a Tall como dijo ese miembro.
 Mission_Target1=Hablar con Tall
 
@@ -12858,7 +12858,7 @@ Name=Reloj Gigante
 Occur_String1=¿Es este enorme dispositivo a tu lado... un tipo de Trenta?<br>Se ve muy diferente a lo que he visto hasta ahora.<br>Se ve... como un reloj gigante. Siento que estoy dentro de él.
 Occur_String2=Este es un rift recién descubierto.<br>Es un rift creado por un error en el circuito integrado del Trenta.<br>Nunca he visto un rift tan distorsionado y mezclado.
 Occur_String3=La energía de este rift es tan poderosa que incluso los guerreros más fuertes no pueden quedarse mucho tiempo.<br>Lo extraño es que alguien llamado Lupa dejó un mensaje sobre esto allí.
-Occur_String4=Hemos nombrado a este lugar el Lupa's Labyrinth y lo hemos estado estudiando con mucho cuidado.<br>Se han movilizado muchos aventureros para su estudio. Hasta ahora, este enorme Labyrinth ha revelado más secretos asombrosos de los que podríamos imaginar.
+Occur_String4=Hemos nombrado a este lugar Lupa's Labyrinth y lo hemos estado estudiando con mucho cuidado.<br>Se han movilizado muchos aventureros para su estudio. Hasta ahora, este enorme Labyrinth ha revelado más secretos asombrosos de los que podríamos imaginar.
 Occur_String5=Pero, Guerrero, tus ojos ya están llenos de asombro y curiosidad...<br>Supongo que será difícil rechazar tu ayuda.<br>Está bien. Acepto tu ayuda.
 Occur_String6=¿Qué? No hice ninguna expresión...<br>Mis ojos siempre han sido así...
 Occur_String7=Gracias.<br>Prepararé algunas cosas para ayudarte a explorar el Labyrinth.<br>Por favor, espera. Sacaré el item.
@@ -12882,7 +12882,7 @@ Occur_String7=Pero será útil hasta que te acostumbres a los artefactos y al La
 Occur_String8=Bueno, ¿qué tal si haces un artefacto ahora?<br>Primero, intenta hacerlo tú mismo.<br>Si no estás seguro de cómo hacerlo, házmelo saber. Entonces, te lo diré con más detalle.
 Doing_String=Presiona la tecla [J] para crear un Artefacto, o selecciona la pestaña [Crear] en la ventana de [Artefactos].<br>Luego, selecciona el artefacto que deseas y créalo.<br>Ten en cuenta que necesitas materiales para crear un artefacto.
 Completable_String1=Déjame ver el artefacto que creaste. Hm... Es bueno. Genial.<br>Entonces, te diré cómo hacer Mejorar y equipar artefactos.<br>No es difícil tampoco. Pero requiere tu esfuerzo.
-Completable_String2=Primero, selecciona el artefacto que deseas hacer Mejorar y limpia el Lupa's Labyrinth.<br>El artefacto absorberá la energía del Lupa's Labyrinth y Mejorará.<br>Es similar a equiparlo. Selecciona el artefacto que deseas equipar y su poder te ayudará.
+Completable_String2=Primero, selecciona el artefacto que deseas hacer Mejorar y limpia Lupa's Labyrinth.<br>El artefacto absorberá la energía del Lupa's Labyrinth y Mejorará.<br>Es similar a equiparlo. Selecciona el artefacto que deseas equipar y su poder te ayudará.
 Complete_String=Creé un artefacto y también escuché cómo hacerlo Mejorar y equiparlo. Pero aún no estoy completamente convencido. ¿Realmente me hará más fuerte tan fácilmente?
 List_String=Grande me dijo que creara un artefacto. Intentaré hacerlo yo mismo y le preguntaré de nuevo si no puedo hacerlo por mi cuenta.
 Mission_String=Crear el Artefacto Brote Creciente
@@ -12946,8 +12946,8 @@ Occur_String6=Eso es simple. No necesito traer nada de vuelta.<br>Volveré.
 Doing_String=No estoy dudando de tus habilidades, pero el Labyrinth no es tan fácil.<br>Por favor, ten cuidado.
 Completable_String1=Regresaste. ¿Estás herido en alguna parte?<br>¿Cómo estuvo el Labyrinth a ese nivel? ¿Te sientes mareado, o tienes dolor de cabeza o zumbidos en los oídos... o algo?
 Complete_String=Llevé a cabo la solicitud de Hyre. Escuché que permanecer en el rift demasiado tiempo puede causar mutaciones, pero me siento bien incluso después de varias visitas a ese poderoso Labyrinth. No puedo evitar preguntarme quién soy.
-List_String=Debo limpiar el Lupa's Labyrinth (nivel 5) y contarle a Hyre sobre el Labyrinth y mi estado.
-Mission_String=Limpiar el Lupa's Labyrinth (Nivel 5)
+List_String=Debo limpiar Lupa's Labyrinth (nivel 5) y contarle a Hyre sobre el Labyrinth y mi estado.
+Mission_String=Limpiar Lupa's Labyrinth (Nivel 5)
 Mission_Target1=Lupa's Labyrinth
 
 [Quest_9505]
@@ -12981,9 +12981,9 @@ Doing_String=¿Cómo puedo recogerlos?<br>Jeje. Ese es mi secreto comercial.
 Completable_String1=Gracias, Guerrero. Pude recoger muchos fragmentos.<br>Los usaré bien.
 Completable_String2=Hm... No puedo decirte cómo recojo los fragmentos.<br>Eres muy persistente, Guerrero.
 Complete_String=Limpié el Labyrinth para que Grande pudiera recoger fragmentos. Pero, por más que lo piense, aún no entiendo cómo Grande pudo recoger fragmentos.
-List_String=Grande dijo que si limpio el Lupa's Labyrinth (nivel 10), ella recogerá los fragmentos de artefactos por su cuenta. Recibí uno de ella antes, así que necesito ayudarla.
-Mission_String=Limpiar el Lupa's Labyrinth (Nivel 10)
-Mission_Target1=Limpiar el Lupa's Labyrinth
+List_String=Grande dijo que si limpio Lupa's Labyrinth (nivel 10), ella recogerá los fragmentos de artefactos por su cuenta. Recibí uno de ella antes, así que necesito ayudarla.
+Mission_String=Limpiar Lupa's Labyrinth (Nivel 10)
+Mission_Target1=Limpiar Lupa's Labyrinth
 
 [Quest_9507]
 Name=Como Criar a un Niño
@@ -13021,10 +13021,10 @@ Occur_String5=¿Qué dices? ¿Te gustaría desafiarlo?<br>Será una buena oportu
 Occur_String6=Soy un guerrero... así que no puedo evitar sentirme intrigado al escuchar eso.<br>Acepto el desafío.
 Doing_String=Aun si esto es una apuesta... ¡apuesto por ti!<br>¡Buena suerte!
 Completable_String1=¡Realmente eres increíble!<br>No he visto a alguien como tú durante todo el tiempo que he estado a cargo del Lupa's Labyrinth con la Sociedad de Investigación del Rift.
-Complete_String=Completé la sugerencia de Hyre con éxito. Fue una tarea peligrosa y difícil, pero también fue emocionante dejar mi huella en el Lupa's Labyrinth.
-List_String=Debo completar el Lupa's Labyrinth (nivel 20) y demostrar que soy lo suficientemente fuerte como para alcanzar su final.
-Mission_String=Limpiar el Lupa's Labyrinth (Nivel 20)
-Mission_Target1=Limpiar el Lupa's Labyrinth
+Complete_String=Completé la sugerencia de Hyre con éxito. Fue una tarea peligrosa y difícil, pero también fue emocionante dejar mi huella en Lupa's Labyrinth.
+List_String=Debo completar Lupa's Labyrinth (nivel 20) y demostrar que soy lo suficientemente fuerte como para alcanzar su final.
+Mission_String=Limpiar Lupa's Labyrinth (Nivel 20)
+Mission_Target1=Limpiar Lupa's Labyrinth
 
 [Quest_9510]
 Name=El Límite del Crecimiento del Artefacto
@@ -13064,7 +13064,7 @@ Mission_Target1=Hablar con el Mercader Alquimista
 Name=Hacia el Labyrinth Sin Fin
 Occur_String1=¡Aquellos que quieren poner a prueba su fuerza!<br>¡Aquellos que quieren nuevos poderes!<br>¡Aquellos que aman los desafíos interminables!
 Occur_String2=¡Ve a buscar a Grande de la Sociedad de Investigación del Rift en la Sala de Deberes!<br¡Un Labyrinth interminable y brillantes artefactos te están esperando!
-Doing_String=¿Qué haces aquí? ¡Ve a buscar a Grande en la Sala de Deberes!<br>¡El Lupa's Labyrinth te está esperando!
+Doing_String=¿Qué haces aquí? ¡Ve a buscar a Grande en la Sala de Deberes!<br>¡Lupa's Labyrinth te está esperando!
 Completable_String1=Hola, Guerrero. Bienvenido al Lupa's Labyrinth.
 Complete_String=Conocí a Grande frente al Lupa's Labyrinth. A su lado, vi un rift rodeado de la máquina más compleja que he visto en mi vida. Solo pude quedarme boquiabierto por un momento.
 List_String=El miembro de la Sociedad de Investigación del Rift parece un estafador, pero no tengo nada que perder, así que iré a buscar a Grande en la Sala de Deberes.
@@ -13079,7 +13079,7 @@ Occur_String3=Solo acéptalos. Te serán útiles más adelante. Y no sientas que
 Occur_String4=¿Tienes algo planeado para mí, verdad?
 Occur_String5=¡Ja ja! Por supuesto. Soy el Gran Sabio y gobernante de Mediah. No doy regalos a la gente sin razón.
 Occur_String6=Vaya, gracias por tu honestidad. Al menos ahora me siento mejor al respecto.<br>Está bien, aceptaré tu regalo. ¿Dónde está Grande?
-Occur_String7=Ve a la Sala de Deberes. El Lupa's Labyrinth está a la derecha. La encontrarás allí.
+Occur_String7=Ve a la Sala de Deberes. Lupa's Labyrinth está a la derecha. La encontrarás allí.
 Doing_String=¿No sabes dónde está la Sala de Deberes? Ve al norte desde aquí y la verás pronto.
 Completable_String1=Encantado de conocerte, %s_9_1. Viniste a recoger lo que Kundun me pidió preparar, ¿verdad?<br>Bien, acabo de recogerlo todo. Aquí, por favor, toma esto primero.
 Completable_String2=¿Qué son todas estas cosas?
@@ -13099,7 +13099,7 @@ Occur_String5=Si creaste el artefacto, intenta hacerlo Mejorar. Cuanto más crez
 Occur_String6=Puedes aumentar manualmente su nivel, o puedes usar el reactivo que te di para aumentarlo instantáneamente al nivel 40.
 Doing_String=Para crear un artefacto, presiona X, o selecciona el Menú Principal > Gestión de Artefactos > pestaña de Creación.<br>Entonces podrás seleccionar el artefacto que deseas y crear.
 Completable_String1=Déjame ver el artefacto. Mm... Se ve bien. También está al nivel que quería. ¡Buen trabajo!<br>Entonces, déjame decirte cómo hacer Mejorar y equipar artefactos.<br>No es difícil, pero requiere un poco de trabajo.
-Completable_String2=Selecciona el artefacto que deseas hacer Mejorar y luego limpia el Lupa's Labyrinth junto a mí. El artefacto absorberá la energía dentro del Labyrinth y Mejorará por sí mismo.<br>Puedes equipar un artefacto de la misma manera. Selecciona el artefacto que deseas equipar, y su poder te ayudará.
+Completable_String2=Selecciona el artefacto que deseas hacer Mejorar y luego limpia Lupa's Labyrinth junto a mí. El artefacto absorberá la energía dentro del Labyrinth y Mejorará por sí mismo.<br>Puedes equipar un artefacto de la misma manera. Selecciona el artefacto que deseas equipar, y su poder te ayudará.
 Completable_String3=Crea varios artefactos y úsalos dependiendo de tu rol en la batalla y las fortalezas en las que deseas enfocarte. Por supuesto, también tendrás que hacerlos Mejorar.<br>¡Ahora, que el gran poder del Rift esté contigo!
 Complete_String=Sentí el gran poder del artefacto entrar en mí. Puedo crear nuevos artefactos y hacer Mejorar mis artefactos existentes a través del Lupa's Labyrinth. Debería visitarlo tan a menudo como pueda.
 List_String=Haz Mejorar un artefacto y aumentarlo al nivel 40 usando los materiales y el reactivo de Grande.
@@ -13121,7 +13121,7 @@ Completable_String1=¡Excelente! Nunca dejas de sorprenderme, %s_9_1. Mientras e
 Complete_String=Completé el Nivel 100 del Lupa's Labyrinth y pasé la prueba de Grande. ¿Qué tipo de desafío enorme ha preparado para que haga esto?
 List_String=Completa el Nivel 100 del Lupa's Labyrinth y pasa la prueba de Grande.
 Mission_String=Pasa la prueba de Grande
-Mission_Target1=Completar el Lupa's Labyrinth (Nivel 100)
+Mission_Target1=Completar Lupa's Labyrinth (Nivel 100)
 
 [Quest_9551]
 Name=Un Labyrinth Brand New
@@ -13153,7 +13153,7 @@ Mission_Target1=Hablar con Grande
 
 [Quest_9599]
 Name=Espacio Peculiar
-Completable_String1=Recogí una joya extraña en el Lupa's Labyrinth..<br>Cuando la toqué, me teletransporté a una gigantesca biblioteca.<br>¿Sabes algo sobre este fenómeno o algo así? También parecía un rift.
+Completable_String1=Recogí una joya extraña en Lupa's Labyrinth..<br>Cuando la toqué, me teletransporté a una gigantesca biblioteca.<br>¿Sabes algo sobre este fenómeno o algo así? También parecía un rift.
 Completable_String2=¿Qué? ¿Hay algo así? Nunca había oído hablar de eso...<br¿Tienes esa joya?
 Completable_String3=No. La joya desapareció.
 Completable_String4=Hmm... No estoy seguro. No tenemos pistas.<br>Tendremos que buscar más datos.
@@ -13653,7 +13653,7 @@ Mission_Target1=Esencia No-Muerta
 
 [Quest_9909]
 Name=Regreso muy necesario
-Occur_String1=Así que tu reputación no era exagerada. Eres bueno, explorando el Pozo de los Muertos tan libremente.<br>¿Pero puedes hacer esto?
+Occur_String1=Así que tu reputación no era exagerada. Eres bueno, explorando Pit of the Dead tan libremente.<br>¿Pero puedes hacer esto?
 Occur_String2=(Desplegando una extraña imagen parecida a un mapa)<br>Mira esto. Según mis resultados de investigación... ¿Ves aquí? Nadie, sin importar cuán fuerte sea, puede ir más allá de esto.
 Occur_String3=(Mirando la extraña imagen de Galches)<br>Obtuve las Esencias No Muertas por aquí. Fue difícil, pero no imposible.
 Occur_String4=¿Hablas en serio? Estás mintiendo. ¿Estás seguro?<br>Está bien, entonces, ¿puedes ir aquí? Tómate el tiempo que necesites.<br>Ah, volver muerto no cuenta.
@@ -13664,25 +13664,25 @@ Doing_String=No es demasiado tarde para retractarte de lo que dijiste. Eres impr
 Completable_String1=Oh, dioses, realmente fuiste allí. ¿Eres humano? Por favor, di que no.<br>¿Qué olvidé? ¿Qué hice mal? Maldita sea, tengo que empezar de nuevo desde el principio.
 Completable_String2=Bueno, al menos soy humano.<br>Solo que no recuerdo mi pasado, ni cómo obtuve este poder.<br>Para averiguarlo, me convertí en un guerrero de contrato, y así he llegado hasta aquí.
 Completable_String3=Gah, estaba justo hasta este punto, y de aquí...<br>...<br>¡No tengo nada más para ti! Fuera. Ve.
-Complete_String=Galches no podía creer que exploré el Pozo de los Muertos (Normal 2) Área 2 en solo 4 minutos. Bien, necesitaba algo para vengarme de este bocón.
-List_String=Debo explorar el Pozo de los Muertos (Normal 2) Área 2 en 4 minutos. No puedo esperar a ver la expresión en la cara de Galches cuando regrese.
-Mission_String=Limpiar el Pozo de los Muertos (Normal 2) Área 2 en 4 minutos
-Mission_Target1=Limpiar el Pozo de los Muertos
+Complete_String=Galches no podía creer que exploré Pit of the Dead (Normal 2) Área 2 en solo 4 minutos. Bien, necesitaba algo para vengarme de este bocón.
+List_String=Debo explorar Pit of the Dead (Normal 2) Área 2 en 4 minutos. No puedo esperar a ver la expresión en la cara de Galches cuando regrese.
+Mission_String=Limpiar Pit of the Dead (Normal 2) Área 2 en 4 minutos
+Mission_Target1=Limpiar Pit of the Dead
 
 [Quest_9910]
 Name=Un Ayudante Misterioso
-Occur_String1=Ah, no te sorprendas si te encuentras con un extraño espíritu en el Pozo de los Muertos.<br>Mientras investigábamos ese lugar, un espíritu se acercó a nosotros y se presentó como Greed's.
+Occur_String1=Ah, no te sorprendas si te encuentras con un extraño espíritu en Pit of the Dead.<br>Mientras investigábamos ese lugar, un espíritu se acercó a nosotros y se presentó como Greed's.
 Occur_String2=¿Greed's?<br>(¿Por qué suena este nombre tan familiar?)
 Occur_String3=Dijo que era un Mercader antes de morir y fue arrastrado al Pozo.<br>Pensó que iba a convertirse en un monstruo, pero los demonios y la Dark mission no estaban tan interesados en él.
 Occur_String4=Así es como ha sobrevivido hasta ahora. Mm, esa no es una expresión apropiada.<br>De todos modos, desde entonces lo hemos estado protegiendo de la contaminación por Evil Energy o magia negra. A cambio, nos ha estado dando las cosas raras que ha encontrado.
-Occur_String5=Si lo ves en el Pozo de los Muertos, deberías hablar con él.<br>¿Quién sabe? Podría darte algo valioso.
+Occur_String5=Si lo ves en Pit of the Dead, deberías hablar con él.<br>¿Quién sabe? Podría darte algo valioso.
 Doing_String=¿Has conocido a Greed's?
 Completable_String1=Ah, encantado de conocerte. ¿Eres un nuevo cliente? Soy Greed's.<br>Veamos... ¿Nos hemos conocido antes? ¿Por qué te ves tan familiar para mí?<br>Mm, tal vez nos conocimos cuando estaba vivo.
 Completable_String2=Fui un famoso Mercader en mi tiempo. ¡Pero Dumpain me mató!<br>Bueno, puede que haya sido un poco demasiado generoso con los sobornos, pero eso no es una razón suficiente para matar a alguien, ¿verdad?<br>Aunque sobornar es un delito serio en Ohrdor.
 Completable_String3=Voy a ser el más rico de todos aquí, así puedo tener a Dumpain a sus pies cuando muera.<br>Eso será la venganza definitiva para un Mercader, ¿no?
 Completable_String4=No tengo suficiente para mostrarte en este momento. ¿Volverás más tarde?<br>Te mostraré cosas que no verás en ningún otro lugar.
-Complete_String=Conocí a un espíritu llamado Greed's en el Pozo de los Muertos. Dijo que era un Mercader en Ohrdor, y se veía lo suficientemente familiar. Dijo que me mostraría algo bonito. Tal vez acepte su oferta más tarde.
-List_String=Debo conocer al espíritu llamado Greed's en el Pozo de los Muertos. Su nombre suena familiar... Si tengo suerte, podría conseguir algo valioso de él.
+Complete_String=Conocí a un espíritu llamado Greed's en Pit of the Dead. Dijo que era un Mercader en Ohrdor, y se veía lo suficientemente familiar. Dijo que me mostraría algo bonito. Tal vez acepte su oferta más tarde.
+List_String=Debo conocer al espíritu llamado Greed's en Pit of the Dead. Su nombre suena familiar... Si tengo suerte, podría conseguir algo valioso de él.
 Mission_String=Conocer al espíritu de Greed's
 Mission_Target1=Hablar con el Espíritu de Greed's
 
@@ -13690,12 +13690,12 @@ Mission_Target1=Hablar con el Espíritu de Greed's
 Name=Entregar Hechos
 Occur_String1=
 Doing_String=
-Completable_String1=Finalmente has regresado. Entonces, ¿qué tipo de lugar es este Pozo de los Muertos?
+Completable_String1=Finalmente has regresado. Entonces, ¿qué tipo de lugar es este Pit of the Dead?
 Completable_String2=Es una instalación secreta creada por un demonio relegado en el rincón más alejado del Pandemonio. Está llena de monstruos, pero el Pandemonio parece no estar siquiera consciente de su existencia.<br>Además, está directamente gestionada por la Sociedad de Investigación del Rift y Kundun. No creo que debas preocuparte por ello.
 Completable_String3=Ya veo. Eso es lo suficientemente bueno. No tengo que preocuparme por perder la cabeza ante un monstruo mientras duermo.<br>Me gusta que hagas las cosas rápidamente.<br>Está bien, entonces hasta la próxima vez.
-Completable_String4=Oh, pero aún espero que revises el Pozo de los Muertos a menudo.<br>Cuantos menos monstruos, más seguros estamos.
-Complete_String=Exploré el Pozo de los Muertos a petición de Dumpain Kerka. La solicitud en sí fue bastante sencilla, pero no quiero involucrarme con él si puedo evitarlo.
-List_String=Debo contarle a Dumpain Kerka en Ohrdor lo que he descubierto sobre el Pozo de los Muertos.
+Completable_String4=Oh, pero aún espero que revises Pit of the Dead a menudo.<br>Cuantos menos monstruos, más seguros estamos.
+Complete_String=Exploré Pit of the Dead a petición de Dumpain Kerka. La solicitud en sí fue bastante sencilla, pero no quiero involucrarme con él si puedo evitarlo.
+List_String=Debo contarle a Dumpain Kerka en Ohrdor lo que he descubierto sobre Pit of the Dead.
 Mission_String=Ir a Dumpain en Ohrdor
 Mission_Target1=Hablar con Dumpain
 
@@ -27285,7 +27285,7 @@ Doing_String=Nada en la vida es fácil, ¿verdad?
 Completable_String1=Había enemigos más fuertes, tal como esperábamos. Y las cosas que encontré de ellos son definitivamente diferentes.<br>No hay un medidor de energía, y su energía es tan misteriosa que incluso me tocó, y soy ateo. ¿Es esto a lo que te refieres como poder sagrado?
 Completable_String2=Sí. Por favor, dámelos y espera mientras los examino. Debería poder obtener los resultados de inmediato.
 Complete_String=(Misión Individual de Gabriela) (4/10)<br>Había enemigos más fuertes, tal como esperaba, y su naturaleza me desconcertó por completo. ¿Cómo podrían aparecer de nuevo en este Arca que no tiene nada que ver con ellos? ¿Quién demonios está detrás de este Arca?
-List_String=(Misión Individual de Gabriela) (4/10)<br>Para entender qué está sucediendo dentro del Arca, necesito más muestras. Un poder sagrado no siempre significa que sea bueno. Anilata en el Blood Castle lo demuestra. El conocimiento es poder, y es una verdad universal.
+List_String=(Misión Individual de Gabriela) (4/10)<br>Para entender qué está sucediendo dentro del Arca, necesito más muestras. Un poder sagrado no siempre significa que sea bueno. Anilata en Blood Castle lo demuestra. El conocimiento es poder, y es una verdad universal.
 Mission_String=Encontrar enemigos más formidables para asegurar pruebas más definitivas
 Mission_Target1=Prueba de Poder Sagrado
 
@@ -37379,9 +37379,9 @@ Occur_String2=
 Doing_String=
 Completable_String1=
 Completable_String2=
-Complete_String=Entré en un lugar de otro mundo adyacente a la Tierra, el Blood Castle, y recolecté Karma de todos los seres poderosos que había allí.
-List_String=Debo recolectar el Karma de seres poderosos en el Blood Castle para mi primer renacimiento espiritual.
-Mission_String=Recolecta Karma de seres poderosos en el Blood Castle
+Complete_String=Entré en un lugar de otro mundo adyacente a la Tierra, Blood Castle, y recolecté Karma de todos los seres poderosos que había allí.
+List_String=Debo recolectar el Karma de seres poderosos en Blood Castle para mi primer renacimiento espiritual.
+Mission_String=Recolecta Karma de seres poderosos en Blood Castle
 Mission_Target1=Recolectar el Karma de Anilata
 Mission_Target2=
 
@@ -38896,11 +38896,11 @@ Occur_String3=Trabajo en el personal del próximo gran carnaval en Ohrdor. Me en
 Occur_String4=Pero luego, accidentalmente, perdí sus trajes de baile.
 Occur_String5=Eso suena mal. ¿Cómo sucedió?
 Occur_String6=No sabía que la bolsa de los trajes estaba rota, así que cuando visité algunos calabozos diarios en la Room of Duty... Caray, debería haberla llevado a la sede del carnaval, pero en lugar de eso...<br>En unos días, mis bailarines se presentarán en el escenario.
-Occur_String7=Realmente necesito encontrar esos trajes cuanto antes. %s_9_1, por favor, ayúdame a encontrar esos trajes. Los calabozos diarios que visité son el Jardín de Fabrice, la Mina de Gemas Mágicas y la Bóveda Secreta.
+Occur_String7=Realmente necesito encontrar esos trajes cuanto antes. %s_9_1, por favor, ayúdame a encontrar esos trajes. Los calabozos diarios que visité son Fabrice Garden, Gem Mine y la Bóveda Secreta.
 Doing_String=Por favor, ayúdame para que mis bailarines puedan presentarse en el escenario. Te lo ruego.
 Completable_String1=Sí, estos son los trajes. Eres mucho más amable de lo que pareces.
 Complete_String=Ivete, del personal del carnaval, me pidió encontrar los trajes de baile del carnaval que había perdido mientras hacía un recorrido por algunos calabozos diarios en la Room of Duty. La ayudé a encontrarlos para que sus bailarines pudieran actuar en el escenario.
-List_String=Ivete me pidió encontrar los trajes de baile del carnaval que perdió en uno de los siguientes calabozos en la Room of Duty: el Jardín de Fabrice, la Mina de Gemas Mágicas y la Bóveda Secreta.
+List_String=Ivete me pidió encontrar los trajes de baile del carnaval que perdió en uno de los siguientes calabozos en la Room of Duty: Fabrice Garden, Gem Mine y la Bóveda Secreta.
 Mission_String=Busca Trajes de Carnaval en Calabozos Diarios de la Room of Duty
 Mission_Target1=Traje de Carnaval
 
@@ -39058,40 +39058,40 @@ Occur_String2=Estoy ocupado... ¿de qué se trata?
 Occur_String3=Recientemente, el flujo del tiempo-espacio es muy inestable. Estoy seguro de que eres consciente de ello, siendo un viajero del tiempo-espacio como tú mismo, ¿no?
 Occur_String4=..
 Occur_String5=¡Ja, ja! Tal vez no me molesta porque estoy libre de la distorsión del tiempo-espacio. Pero Arche, que no se ve afectado por la distorsión del tiempo-espacio como yo, debería saber que el flujo del tiempo-espacio es muy inestable.
-Occur_String6=Entonces investigué de dónde comenzó, y resulta ser la Rift del tiempo-espacio en el Fabrice Garden.
-Occur_String7=Pero, ¿no es extraño? El Fabrice Garden, donde el poder de los dioses permanece, debería ser mucho más estable que cualquier otro lugar.
-Occur_String8=Por favor, averigua si hay algún problema en el Fabrice Garden. Es un asunto importante; espero que te ocupes de ello.
+Occur_String6=Entonces investigué de dónde comenzó, y resulta ser la Rift del tiempo-espacio en Fabrice Garden.
+Occur_String7=Pero, ¿no es extraño? Fabrice Garden, donde el poder de los dioses permanece, debería ser mucho más estable que cualquier otro lugar.
+Occur_String8=Por favor, averigua si hay algún problema en Fabrice Garden. Es un asunto importante; espero que te ocupes de ello.
 Doing_String=No hay muchas personas en las que confíe para tal tarea. Así que, por favor, llega al fondo del asunto.
-Completable_String1=¿Has investigado el Fabrice Garden? ¿Hubo algún cambio en el jardín? No me hagas esperar, cuéntamelo.
-Complete_String=(Misión de grupo de Croaker) (1/5)<br>A pedido de Arche, investigué el Fabrice Garden por el reciente flujo inestable sospechoso del tiempo-espacio. El Fabrice Garden estaba en un estado caótico debido a la invasión de Gnolls.
-List_String=(Misión de grupo de Croaker) (1/5)<br=A pedido sospechoso de Arche, debo investigar el Fabrice Garden, la Rift del tiempo-espacio en la sala de tareas de Oldor y entregar los resultados.
-Mission_String=Investiga el Fabrice Garden en la sala de tareas de Oldor
-Mission_Target1=Investiga el Fabrice Garden
+Completable_String1=¿Has investigado Fabrice Garden? ¿Hubo algún cambio en el jardín? No me hagas esperar, cuéntamelo.
+Complete_String=(Misión de grupo de Croaker) (1/5)<br>A pedido de Arche, investigué Fabrice Garden por el reciente flujo inestable sospechoso del tiempo-espacio. Fabrice Garden estaba en un estado caótico debido a la invasión de Gnolls.
+List_String=(Misión de grupo de Croaker) (1/5)<br=A pedido sospechoso de Arche, debo investigar Fabrice Garden, la Rift del tiempo-espacio en la sala de tareas de Oldor y entregar los resultados.
+Mission_String=Investiga Fabrice Garden en la sala de tareas de Oldor
+Mission_Target1=Investiga Fabrice Garden
 
 
 [Quest_202512]
 Name=(T) El invasor inesperado
-Occur_String1=El Fabrice Garden ha sido invadido por los Gnolls de melena dorada. Todas las ranas allí han huido.
-Occur_String2=¿Los Gnolls de melena dorada se apoderaron del Fabrice Garden? ¿Es por eso que el flujo del tiempo-espacio ha estado tan inestable?
-Occur_String3=El Fabrice Garden es un vestigio dejado en la Rift del tiempo-espacio por Fabris, dios de la manufactura. Es un espacio sagrado que los simples Gnolls de melena dorada nunca podrían haber encontrado, mucho menos invadido. Si no fue por pura suerte que lo encontraron mientras buscaban comida...
+Occur_String1=Fabrice Garden ha sido invadido por los Gnolls de melena dorada. Todas las ranas allí han huido.
+Occur_String2=¿Los Gnolls de melena dorada se apoderaron de Fabrice Garden? ¿Es por eso que el flujo del tiempo-espacio ha estado tan inestable?
+Occur_String3=Fabrice Garden es un vestigio dejado en la Rift del tiempo-espacio por Fabris, dios de la manufactura. Es un espacio sagrado que los simples Gnolls de melena dorada nunca podrían haber encontrado, mucho menos invadido. Si no fue por pura suerte que lo encontraron mientras buscaban comida...
 Occur_String4=Si debemos sospechar, alguien debió abrir la Rift del tiempo-espacio a los Gnolls de melena dorada, que conduce al Fabrice Garden. Este es un asunto serio. Es difícil de creer, pero alguien ha interferido con la línea de tiempo de la dimensión.
-Occur_String5=Es una suposición apresurada, pero debemos averiguar si fue así. La forma más rápida sería averiguar si los Gnolls de melena dorada que invadieron el Fabrice Garden son simples Gnolls de Duelden o si cruzaron la dimensión a través de la Rift del tiempo-espacio.
+Occur_String5=Es una suposición apresurada, pero debemos averiguar si fue así. La forma más rápida sería averiguar si los Gnolls de melena dorada que invadieron Fabrice Garden son simples Gnolls de Duelden o si cruzaron la dimensión a través de la Rift del tiempo-espacio.
 Occur_String6=Por favor, dirígete al Fabrice Garden y recolecta las melenas de los Gnolls de melena dorada, y haré el análisis comparativo.
 Doing_String=Parece demasiado pronto... ¿ya ha oscurecido?<br>¿Eh? ¿Sigues aquí? A mi edad, uno tiende a preocuparse bastante. Solo estoy pensando en voz alta, no me hagas caso.
 Completable_String1=¿Lo tienes? Ugh... eso apesta. Aun así, lo investigaré, solo déjalo en la esquina.
 Complete_String=(Misión de grupo de Croaker) (2/5)<br>El sospechoso Arche menciona que hay dudas y ha solicitado recolectar las melenas de Gnolls para investigar este asunto.
-List_String=(Misión de grupo de Croaker) (2/5)<br=A petición del sospechoso Arche, tengo que recolectar las melenas de los Gnolls que invadieron el Fabrice Garden en la sala de tareas.
-Mission_String=Recolecta las melenas de los Gnolls que invaden el Fabrice Garden
+List_String=(Misión de grupo de Croaker) (2/5)<br=A petición del sospechoso Arche, tengo que recolectar las melenas de los Gnolls que invadieron Fabrice Garden en la sala de tareas.
+Mission_String=Recolecta las melenas de los Gnolls que invaden Fabrice Garden
 Mission_Target1=Melena de Gnoll
 
 [Quest_202513]
 Name=(T) Melena de Gnoll de melena dorada
-Occur_String1=Hemos recolectado las melenas de los Gnolls que invadieron el Fabrice Garden. Ahora, por favor dirígete al almacén abandonado de Duelden para recolectar las melenas de los Gnolls de melena dorada.
+Occur_String1=Hemos recolectado las melenas de los Gnolls que invadieron Fabrice Garden. Ahora, por favor dirígete al almacén abandonado de Duelden para recolectar las melenas de los Gnolls de melena dorada.
 Occur_String2=¿Yo otra vez? Esto de los Gnolls de melena dorada nunca termina.
 Occur_String3=Sé que es difícil, pero necesito que lo hagas para llevar a cabo el análisis comparativo. Mientras tanto, trabajaré en las melenas de Gnoll que recolectaste.
-Doing_String=Al observar estas melenas, parece que los Gnolls invadieron el Fabrice Garden hace poco. No está completamente impregnado con el tiempo-espacio allí. Así que no será difícil averiguarlo.
+Doing_String=Al observar estas melenas, parece que los Gnolls invadieron Fabrice Garden hace poco. No está completamente impregnado con el tiempo-espacio allí. Así que no será difícil averiguarlo.
 Completable_String1=Bien hecho. Esto terminará pronto, solo un momento.
-Complete_String=(Misión de grupo de Croaker) (3/5)<br>El sospechoso Arche ahora solicita ayuda para averiguar si los Gnolls de melena dorada son los mismos que invadieron el Fabrice Garden. Así que me dirigí al almacén abandonado de Duelden para recolectar las melenas de los Gnolls de melena dorada.
+Complete_String=(Misión de grupo de Croaker) (3/5)<br>El sospechoso Arche ahora solicita ayuda para averiguar si los Gnolls de melena dorada son los mismos que invadieron Fabrice Garden. Así que me dirigí al almacén abandonado de Duelden para recolectar las melenas de los Gnolls de melena dorada.
 List_String=(Misión de grupo de Croaker) (3/5)<br=El sospechoso Arche te pide recolectar las melenas de los Gnolls de melena dorada del almacén abandonado de Duelden.
 Mission_String=Recolecta las melenas de los Gnolls de melena dorada del almacén abandonado
 Mission_Target1=Melena de Gnoll de melena dorada
@@ -39102,14 +39102,14 @@ Occur_String1=No tomó mucho tiempo porque tenía los registros de investigació
 Occur_String2=Al compararlos, descubrí que la única diferencia era el nivel de contaminación del tiempo-espacio; son la misma especie. No pude encontrar ningún rastro de que hayan viajado a través de dimensiones por la distorsión del tiempo-espacio.
 Occur_String3=No entiendo. ¿Cómo sabes si viajaron a través de dimensiones por la distorsión del tiempo-espacio?
 Occur_String4=Estaba creando algo que se aRift si la energía del tiempo-espacio de la dimensión no coincidía, por si acaso. No está completado aún... estoy un poco desconcertado porque el problema de la línea de tiempo de la dimensión ocurrió demasiado temprano.
-Occur_String5=De todos modos, parece que el reciente flujo inestable de tiempo-espacio no fue un problema del Fabrice Garden. Supongo que fue pura suerte que los Gnolls de melena dorada encontraran el Fabrice Garden mientras buscaban comida.
+Occur_String5=De todos modos, parece que el reciente flujo inestable de tiempo-espacio no fue un problema de Fabrice Garden. Supongo que fue pura suerte que los Gnolls de melena dorada encontraran Fabrice Garden mientras buscaban comida.
 Occur_String6=No... es sospechoso...<br>Según tu investigación, es extraño que los croakers estén asustados y que todas las ranas hayan huido. Los croakers son un tipo muy especial de ranas. Especialmente, su canto tiene un efecto que anima a las ranas.
-Occur_String7=Por favor, encuentra las ranas fugitivas. Tengo que investigar la razón por la cual huyeron del Fabrice Garden y verificar si eso está relacionado con la línea de tiempo de la dimensión.
+Occur_String7=Por favor, encuentra las ranas fugitivas. Tengo que investigar la razón por la cual huyeron de Fabrice Garden y verificar si eso está relacionado con la línea de tiempo de la dimensión.
 Occur_String8=Recientemente, escuché que en las llanuras de Bredrias de Duelden, se pueden escuchar los gritos de ranas en la distorsión del tiempo-espacio, algo que nunca sucedía en la lluvia. Parece que las ranas fugitivas están allí, así que por favor investígalas.
 Doing_String=Por suerte, parece que lloverá, así que por favor apresúrate. Solo sigue sus gritos y encontrarás a las ranas fugitivas en poco tiempo.
-Completable_String1=¿Has hablado con las ranas? ¿Por qué huyeron del Fabrice Garden?
+Completable_String1=¿Has hablado con las ranas? ¿Por qué huyeron de Fabrice Garden?
 Complete_String=(Misión de grupo de Croaker) (4/5)<br>Aunque resultó que los Gnolls eran de la misma especie, fue difícil entender por qué las ranas huyeron del refugio de los croakers. El sospechoso Arche me pidió que encontrara a las ranas fugitivas y descubriera si hubo algún cambio en su situación.
-List_String=(Misión de grupo de Croaker) (4/5)<br=El sospechoso Arche me pidió investigar la razón por la cual las ranas huyeron del Fabrice Garden hacia la distorsión del tiempo-espacio de Duelden.
+List_String=(Misión de grupo de Croaker) (4/5)<br=El sospechoso Arche me pidió investigar la razón por la cual las ranas huyeron de Fabrice Garden hacia la distorsión del tiempo-espacio de Duelden.
 Mission_String=Investiga las ranas que huyeron a la distorsión del tiempo-espacio
 Mission_Target1=Investigación de las ranas
 
@@ -39134,15 +39134,15 @@ Mission_Target1=Cristal de tiempo-espacio
 Name=(T) Investigación de la caja fuerte secreta
 Occur_String1=No pude encontrar nada fuera de lo común en los cristales de tiempo-espacio que obtuviste. Sospecho que alguien ha alterado la línea de tiempo de la dimensión, pero no tengo pruebas.
 Occur_String2=¿Mi intuición está equivocada?
-Occur_String3=No necesariamente. Estimando el período desde que las ranas huyeron del Fabrice Garden hasta ahora, la tasa de contaminación del tiempo-espacio es demasiado alta. Necesitaré investigar más sobre este asunto.
+Occur_String3=No necesariamente. Estimando el período desde que las ranas huyeron de Fabrice Garden hasta ahora, la tasa de contaminación del tiempo-espacio es demasiado alta. Necesitaré investigar más sobre este asunto.
 Occur_String4=Es difícil. La línea de tiempo de la dimensión... y la investigación del flujo inestable de tiempo-espacio desde allí...
 Occur_String5=Todo esto habría sucedido eventualmente. Solo estoy un poco confundido porque ocurrió demasiado temprano.
 Occur_String6=No te preocupes demasiado. Recientemente, el flujo de tiempo-espacio se ha vuelto muy inestable, y sospecho que hay juego sucio en la línea de tiempo de la dimensión al investigar ese flujo. Y por eso estamos buscando pruebas de eso...
-Occur_String7=Ahora, tenemos que investigar la caja fuerte secreta, oculta en la distorsión del tiempo-espacio por Luery. Porque ahí se encontró un flujo de tiempo-espacio similar al del Fabrice Garden. Si seguimos investigando, estamos destinados a encontrar algo.
+Occur_String7=Ahora, tenemos que investigar la caja fuerte secreta, oculta en la distorsión del tiempo-espacio por Luery. Porque ahí se encontró un flujo de tiempo-espacio similar al de Fabrice Garden. Si seguimos investigando, estamos destinados a encontrar algo.
 Doing_String=¡Ah! Habrá un escándalo si Luery descubre que la caja fuerte fue registrada, así que no dejes que nadie se entere de tu viaje.
 Completable_String1=¿Terminaste de investigar la caja fuerte secreta? Déjame saber si encontraste algo extraño.
-Complete_String=(Misión de grupo de Warblin) (1/4)<br=A petición de Arche, investigué la caja fuerte secreta donde se encontró un flujo de tiempo-espacio similar al del Fabrice Garden, pero no encontré nada fuera de lo común.
-List_String=(Misión de grupo de Warblin) (1/4)<br=El sospechoso Arche me pidió investigar la caja fuerte secreta donde el flujo de tiempo-espacio era similar al del Fabrice Garden.
+Complete_String=(Misión de grupo de Warblin) (1/4)<br=A petición de Arche, investigué la caja fuerte secreta donde se encontró un flujo de tiempo-espacio similar al de Fabrice Garden, pero no encontré nada fuera de lo común.
+List_String=(Misión de grupo de Warblin) (1/4)<br=El sospechoso Arche me pidió investigar la caja fuerte secreta donde el flujo de tiempo-espacio era similar al de Fabrice Garden.
 Mission_String=Investiga la caja fuerte secreta en la sala de tareas de Oldor
 Mission_Target1=Investigación de la caja fuerte secreta
 
@@ -39154,7 +39154,7 @@ Occur_String3=Hmm... pensé que podría haber algunos cambios considerando el fl
 Occur_String4=Creo que es hora de compartir todo. En este mundo en el que vivimos, hay muchas dimensiones coexistentes. Cada dimensión cambia sutilmente debido a incidentes triviales o entornos, pero hay hechos comunes que son constantes.
 Occur_String5=Esos hechos están ligados por la línea de tiempo de la dimensión, la cual mantiene nuestro mundo. Los antiguos pioneros cruzaron dimensiones a través de distorsiones del tiempo-espacio y registraron los incidentes ligados a esta línea de tiempo, y esos registros se guardan en la biblioteca oculta en la distorsión del tiempo-espacio.
 Occur_String6=Uno de los registros en la biblioteca es la rebelión de la caja fuerte secreta. Parece ser un incidente trivial, pero esta rebelión de la caja fuerte secreta causó cambios en Luery y llevó a una gran influencia en la Sociedad de Investigación de la Rift en el futuro.
-Occur_String7=Pero según tu informe, el líder de la rebelión ha cambiado a Warblin el caníbal. Creo que alguien está tratando de distorsionar la línea de tiempo de la dimensión causando un pequeño cambio. El Fabrice Garden también parece ser una intervención en la línea de tiempo de la dimensión mediante un método similar...
+Occur_String7=Pero según tu informe, el líder de la rebelión ha cambiado a Warblin el caníbal. Creo que alguien está tratando de distorsionar la línea de tiempo de la dimensión causando un pequeño cambio. Fabrice Garden también parece ser una intervención en la línea de tiempo de la dimensión mediante un método similar...
 Occur_String8=Primero, debemos investigar si la intervención en la línea de tiempo de la dimensión causó el cambio del líder en la rebelión de la caja fuerte secreta. Por favor, verifica qué sucedió encontrando a Warblin, quien estaba vigilando la caja fuerte secreta.
 Occur_String9=Warblin solía ser el líder de un grupo de bandidos goblins que saqueaban en la cuenca de Wais. Puede que haya algunos goblins que todavía estén en contacto con Warblin, así que registra el lugar y encuentra cualquier rastro.
 Doing_String=Busca la distorsión del tiempo-espacio en la cuenca de Wais. Registra el lugar, ya que puede haber algunos goblins que todavía estén en contacto con Warblin.

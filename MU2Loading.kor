@@ -1,15 +1,15 @@
 [Loading]
 Loading_1=Pulsa la <font color='#FFD144'>tecla Alt</font> para interactuar con otros jugadores o controlar la IU.
-Loading_2=Puedes obtener una gran cantidad de Gemas Mágicas de la <font color='#FFD144'>Mina de Gemas Mágicas</font> en la Room of Duty.
-Loading_3=Puedes obtener una gran cantidad de Zen y items de <font color='#FFD144'>La Bóveda Secreta de Luery</font> en la Room of Duty.
-Loading_4=<font color='#FFD144'>El Jardín de Fabrice</font> en la Room of Duty es abundante en materiales de artesanía y pociones raras.
+Loading_2=Puedes obtener una gran cantidad de Gemas Mágicas de la <font color='#FFD144'>Gem Mine</font> en la Room of Duty.
+Loading_3=Puedes obtener una gran cantidad de Zen y items de <font color='#FFD144'>Luery's Secret Vault</font> en la Room of Duty.
+Loading_4=<font color='#FFD144'>Fabrice Garden</font> en la Room of Duty es abundante en materiales de artesanía y pociones raras.
 Loading_5=Puedes entrar en una variedad de Mapas de Misión en la <font color='#FFD144'>Room of Duty</font> en Ohrdor.
 Loading_6=Si superas rápidamente una fase en la <font color='#FFD144'>Endless Tower</font>, puedes saltarte varias fases a la vez.
-Loading_7=Puedes encontrar grandes cantidades de <font color='#FFD144'>Gemas Mágicas</font> en la Rift y en la Mina de Gemas Mágicas Warped.
+Loading_7=Puedes encontrar grandes cantidades de <font color='#FFD144'>Gemas Mágicas</font> en la Rift y en Gem Mine Warped.
 Loading_8=Atacar mientras pulsas la <font color='#FFD144'>tecla Mayús</font> hará que <font color='#FFD144'>mantengas tu posición</font> durante los ataques.
 Loading_9=Las Dungeons <font color='#FFD144'>Épicas</font> son más duras que las de dificultad Mítica. Pruébalas cuando <font color='#FFD144'>seas lo suficientemente fuerte</font>.
 Loading_10=Subir la <font color='#FFD144'>dificultad de la Dungeon</font> aumenta significativamente tus posibilidades de obtener equipo mayor.
-Loading_11=En <font color='#FFD144'>El Blood Castle</font>, puedes conseguir Fragmentos de Alma y Pociones de Alma.
+Loading_11=En <font color='#FFD144'>Blood Castle</font>, puedes conseguir Fragmentos de Alma y Pociones de Alma.
 Loading_12=La <font color='#FFD144'>Endless Tower</font> es un mapa de Misión abundante en materiales de encantamiento/Evolución de Alas. Se desbloquea en el Nivel 65.
 Loading_13=Cuando aprendas <font color='#FFD144'>Habilidades de Experto</font>, ganarás efectos de aumento de estadísticas.
 Loading_14=<font color='#FFD144'>Las Habilidades de Experto</font> se pueden aprender en los Niveles 25, 45 y 65.
@@ -23,7 +23,7 @@ Loading_21=Utiliza el <font color='#FFD144'>Dispositivo Portal del Pueblo</font>
 Loading_22=<font color='#FFD144'>Las Gemas Mágicas</font> se usan para encantar, evolucionar y comprar items especiales.
 Loading_23=El nivel del monstruo en la Rift coincide con el del miembro del grupo con el <font color='#FFD144'>nivel más alto</font>.
 Loading_24=Puedes obtener fácilmente equipo <font color='#FFD144'>que coincida con tu nivel</font> en la Rift.
-Loading_25=Las Dungeons Épicas y el Lupa's Labyrinth tienen un <font color='#FFD144'>límite de uso de «Resucitar Ahora»</font>. Usa las Piedras de Resurrección con cuidado.
+Loading_25=Las Dungeons Épicas y Lupa's Labyrinth tienen un <font color='#FFD144'>límite de uso de «Resucitar Ahora»</font>. Usa las Piedras de Resurrección con cuidado.
 Loading_26=¡Envía la Rift a <font color='#FFD144'>Overdrive (N)</font> y consigue grandes cantidades de Gemas Mágicas!
 Loading_27=La Rift, mientras está en modo <font color='#FFD144'>Overdrive (N)</font>, puede ser introducida un número ilimitado de veces.
 Loading_28=Si tienes suerte, puedes encontrarte con los <font color='#FFD144'>Monstruos de la Suerte Dorada</font> en algún lugar de los campos.
@@ -47,11 +47,11 @@ Loading_45=Puedes moverte a otros continentes a través de una <font color='#FFD
 Loading_46=LAMUS Legend tiene 3 niveles de dificultad: <font color='#FFD144'>Normal, Mítico y Épico</font>.
 Loading_47=¿El juego es demasiado fácil para ti? Prueba a subir la <font color='#FFD144'>dificultad</font> de la Dungeon.
 Loading_48=Cuando alcanzas el Nivel 65, puedes <font color='#FFD144'>crear y cultivar Artefactos</font> que pueden aumentar enormemente tu crecimiento.
-Loading_49=No puedes crear o cultivar <font color='#FFD144'>Artefactos (X)</font> sin explorar <font color='#FFD144'>El Lupa's Labyrinth</font>.
-Loading_50=Antes de entrar en el Lupa's Labyrinth, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
-Loading_51=Las Dungeons Épicas son extremadamente difíciles. Te recomendamos que <font color='#FFD144'>entrenes en las Dungeons Míticas y en el Lupa's Labyrinth antes de aceptar el desafío</font>.
-Loading_52=Antes de entrar en el Lupa's Labyrinth, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
-Loading_53=Antes de entrar en el Lupa's Labyrinth, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
+Loading_49=No puedes crear o cultivar <font color='#FFD144'>Artefactos (X)</font> sin explorar <font color='#FFD144'>Lupa's Labyrinth</font>.
+Loading_50=Antes de entrar en Lupa's Labyrinth, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
+Loading_51=Las Dungeons Épicas son extremadamente difíciles. Te recomendamos que <font color='#FFD144'>entrenes en las Dungeons Míticas y en Lupa's Labyrinth antes de aceptar el desafío</font>.
+Loading_52=Antes de entrar en Lupa's Labyrinth, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
+Loading_53=Antes de entrar en Lupa's Labyrinth, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
 Loading_54=<font color='#FFD144'>Los items establecidos o mejores</font> no pueden ser intercambiados entre usuarios o a través del Corredor de Comercio.
 Loading_55=<font color='#FFD144'>Pasar el ratón + Ctrl</font> sobre el icono del item activa la función <font color='#FFD144'>Vista Previa</font>.
 Loading_56=En la Arena IA, puedes conseguir hasta 30.000 <font color='#FFD144'>Gemas Mágicas</font> al día.
@@ -160,7 +160,7 @@ Loading_153=¿Tus <font color='#FFD144'>Artefactos</font> han sido <font color='
 Loading_154=<font color='#FFD144'>Los Artefactos Recuperados</font> pueden ser <font color='#FFD144'>utilizados tal cual</font> o tener su <font color='#FFD144'>crecimiento transferido</font> a otro Artefacto.
 Loading_155=En la <font color='#FFD144'>Refinería de items</font>, puedes refinar <font color='#FFD144'>items premium</font> para conseguir otros items premium.
 Loading_156=Puedes conseguir varios items a través de las <font color='#FFD144'>Aventuras de Mascotas</font> diarias.
-Loading_157=<font color='#FFD144'>El Lupa's Labyrinth</font> requiere <font color='#FFD144'>Nivel 70</font> y <font color='#FFD144'>Lupa's Labyrinth Nivel 100</font>.
+Loading_157=<font color='#FFD144'>Lupa's Labyrinth</font> requiere <font color='#FFD144'>Nivel 70</font> y <font color='#FFD144'>Lupa's Labyrinth Nivel 100</font>.
 Loading_158=<font color='#FFD144'>Defensa de la Nave</font> requiere <font color='#FFD144'>Nivel 70</font>.
 Loading_159=<font color='#FFD144'>Defensa de la Nave</font> es accesible a través de <font color='#FFD144'>Puerto del Guild en Ohrdor</font>.
 Loading_160=En <font color='#FFD144'>Defensa de la Nave</font>, puedes ganar <font color='#FFD144'>materiales de crecimiento Talismán</font>.
@@ -192,10 +192,10 @@ Loading_185=El poder de una habilidad de Talismán varía, dependiendo del <font
 Loading_186=Los Talismanes de mayor grado añaden <font color='#FFD144'>mayores cantidades de Poder de Combate y Puntos de Colección</font> con cada nuevo nivel.
 Loading_187=Los efectos de la habilidad Talismán <font color='#FFD144'>mejoran continuamente, dependiendo del nivel del Talismán</font>.
 Loading_188=Sólo <font color='#FFD144'>Los personajes de nivel 70 que hayan completado la misión del Talismán</font> pueden utilizar el poder del Talismán.
-Loading_189=Sé el <font color='#FFD144'>último superviviente</font> en el Blood Castle.
+Loading_189=Sé el <font color='#FFD144'>último superviviente</font> en Blood Castle.
 Loading_190=Haz un buen uso de tus habilidades de <font color='#FFD144'>Talismán</font>. Pueden marcar la diferencia en la batalla y ayudarte a <font color='#FFD144'>ganar</font>.
 Loading_191=Busca al <font color='#FFD144'>Duende Brillante</font>. Puedes conseguir de él items Brillantes con varios efectos.
-Loading_192=¡Las <font color='#FFD144'>llamas</font> del Blood Castle infligen grandes cantidades de daño con el tiempo! Aléjate de ellas tan rápido como puedas.
+Loading_192=¡Las <font color='#FFD144'>llamas</font> dBlood Castle infligen grandes cantidades de daño con el tiempo! Aléjate de ellas tan rápido como puedas.
 Loading_193=Puedes beneficiarte del efecto Set si equipas múltiples <font color='#FFD144'>items Set</font>.
 Loading_194=Cada continente tiene una o dos <font color='#FFD144'>Dungeons épicas</font>.
 Loading_195=Puedes usar el botón <font color='#FFD144'>Ordenar Todo</font> en la parte inferior del inventario para organizar rápidamente tus items.
@@ -217,12 +217,12 @@ Loading_210=Completa los Mapas de Misión y las Dungeons con alguien que tenga e
 Loading_211=Cuando alcances el nivel 65, obtendrás automáticamente la <font color='#FFD144'>potencia Brote Creciente</font>. El buff Brote Creciente ofrece muchos beneficios, incluyendo un incremento en la ganancia de EXP de Alma.
 Loading_212=Los Artefactos Despertados obtienen un nuevo efecto cuando alcanzan el <font color='#FFD144'>Nivel 40</font>.
 Loading_213=Los Artefactos Normales obtienen un nuevo efecto cuando alcanzan el <font color='#FFD144'>Nivel 20</font>.
-Loading_214=Puedes usar habilidades de Talismán en la Torre del Amanecer.
-Loading_215=Puedes usar el Conductor Manatech sólo en el periodo entre etapas en la Torre del Amanecer.
-Loading_216=En la Torre del Amanecer, 10 oportunidades para usar el Manatech Driver se reparten equitativamente entre el grupo.
-Loading_217=En la Torre del Amanecer, debes derrotar a todos los monstruos antes de que se agote el tiempo para superar cada fase.
-Loading_218=En la Torre del Amanecer puedes ganar Crestas de Habilidades Legendarias y materiales de Artesanía para Gemas de alto nivel.
-Loading_219=Te dan una puntuación por tus resultados en la Torre del Amanecer. Acumular una determinada puntuación te otorgará una recompensa de acumulación.
+Loading_214=Puedes usar habilidades de Talismán en Tower of Dawn.
+Loading_215=Puedes usar el Conductor Manatech sólo en el periodo entre etapas en Tower of Dawn.
+Loading_216=En Tower of Dawn, 10 oportunidades para usar el Manatech Driver se reparten equitativamente entre el grupo.
+Loading_217=En Tower of Dawn, debes derrotar a todos los monstruos antes de que se agote el tiempo para superar cada fase.
+Loading_218=En Tower of Dawn puedes ganar Crestas de Habilidades Legendarias y materiales de Artesanía para Gemas de alto nivel.
+Loading_219=Te dan una puntuación por tus resultados en Tower of Dawn. Acumular una determinada puntuación te otorgará una recompensa de acumulación.
 Loading_220=Nulifica la sala dentro del Manantial Caliente para ver al legendario Zorro Blanco.
 Loading_221=A veces, un lindo zorro blanco aparece cuando ahuyentas a todos los monstruos. Dale Huevos Termales a este pequeño zorro blanco, y te dará algunas valiosas recompensas.
 Loading_222=Usa la habilidad <font color='#FFD144'>Suelta Tiza</font> dentro del God of Corridor para transformar temporalmente tu cuerpo y conseguir un increíble poder de combate.
@@ -282,7 +282,7 @@ Scenario_42=La Biblioteca de Lupa es una Rift creada en la mente de Lupa.
 Scenario_43=Los Depredadores de la Rift en el laberinto tienen una poderosa energía de la Rift que se condensó con el tiempo.
 Scenario_44=Puedes encontrarte con seres completamente diferentes de distintas dimensiones a través de la Rift.
 Scenario_45=Una exposición prolongada a la Urdimbre de la Rift puede causar mutaciones en tu cuerpo y mente.
-Scenario_46=El Blood Castle es una peligrosa trampa diseñada para eliminar a los caballeros que se oponen al Pandemónium.
+Scenario_46=Blood Castle es una peligrosa trampa diseñada para eliminar a los caballeros que se oponen al Pandemónium.
 Scenario_47=Altar de los Espíritus es un campo de pruebas para encontrar al mejor caballero de todos derrotando elementales.
 Scenario_48=Has sido seleccionado para salvar el mundo viajando a una época en la que Sekneum está dormido.
 Scenario_49=Si despiertas tu potencial a través del entrenamiento, podrás aprender una nueva habilidad.

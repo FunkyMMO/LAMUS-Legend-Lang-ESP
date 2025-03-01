@@ -63,7 +63,7 @@ ExitAltarOfElements_End=Salir del Altar de los Espíritus
 ExitEndlessTower_Die=Salir de Endless Tower
 ExitEndlessTower_Complete=Salir de la Torre Inacabable
 ExitEndlessTower=Salir de Endless Tower
-ExitBloodCastle=Salir del Blood Castle
+ExitBloodCastle=Salir dBlood Castle
 MSS_RegisterRuneSkill=Registrar Cresta
 EnterCountQuest=Entrar
 EvolutionWing=Evolucionar alas
@@ -143,7 +143,7 @@ ReWright=Reescribir
 MailDelAll=Borrar todo
 MailHaveItemNotEmpty=Aceptar todo
 MailHaveItemAndDel=Aceptar todo
-ExitChaosCastle=Salir del Blood Castle
+ExitChaosCastle=Salir dBlood Castle
 ExitWebOfGod=Salir del God of Corridor
 Msg_Field_Boss_Raid=Asalto del Jefe de Campo
 Msg_Enchant_Cancel=Notificación de cancelación de encantamiento
@@ -152,9 +152,9 @@ ExitTutorial=Tutorial
 OpenBraceletWarningMsg=Mensaje de advertencia
 Bracelet_Slot_Open=Ampliar ranuras de pulsera
 PromotionLimit=Comprar Items de edición limitada
-ExitDawnTower_Die=Salir de la Torre del Amanecer
-ExitDawnTower_Complete=Salir de la Torre del Amanecer
-ExitDawnTower=Salir de la Torre del Amanecer
+ExitDawnTower_Die=Salir de Tower of Dawn
+ExitDawnTower_Complete=Salir de Tower of Dawn
+ExitDawnTower=Salir de Tower of Dawn
 ConnectionTimeEvent=Mensaje de guía
 LegendBingoReset=Reiniciar Bloques
 TeacherStudent_TeacherFree=Maestro y discípulo
@@ -251,7 +251,7 @@ ExitAltarOfElements_End=<font color='#FDC243'>¿Salir?</font>
 ExitEndlessTower_Die=<font color='#FDC243'>¿Salir?</font><br><br>Otros jugadores siguen subiendo a la Endless Tower.<br>Si sales de la Endless Tower ahora, no obtendrás recompensas.<br>Si otros jugadores han completado la conquista o si han muerto, podrás obtener recompensas.
 ExitEndlessTower_Complete=<font color='#FDC243'>¿Salir?</font>
 ExitEndlessTower=<font color='#FDC243'>¿Salir?</font><br><br>Aún estás escalando la Endless Tower.<br>Si sales de la Endless Tower ahora, no obtendrás recompensas.
-ExitBloodCastle=¿Salir del Blood Castle?
+ExitBloodCastle=¿Salir dBlood Castle?
 MSS_RegisterRuneSkill=¿Registrar esta cresta? Una vez registrada una cresta, no se puede recuperar.
 EnterCountQuest=No hay suficiente número de entradas. ¿Mover, de todos modos?
 EvolutionWing=La evolución de las alas consume materiales automáticamente. ¿Continuar?
@@ -336,7 +336,7 @@ ReWright=Se borrará el contenido actual.<br>¿Volver a escribir?
 MailDelAll=Existen Zen y Items no reclamados.
 MailHaveItemNotEmpty=Tu bolsa está llena.
 MailHaveItemAndDel=Eliminar todos los mensajes recibidos.
-ExitChaosCastle=¿Salir del Blood Castle?
+ExitChaosCastle=¿Salir dBlood Castle?
 ExitWebOfGod=Si abandonas el God of Corridor ahora, perderás tu recompensa.<br>¿Salir de todas formas?
 Msg_Field_Boss_Raid=¿Invocar a este monstruo?
 Msg_Enchant_Cancel=Información de encantamiento cambiada. Encantamiento cancelado. Vuelve a intentarlo más tarde.
@@ -345,9 +345,9 @@ ExitTutorial=¿Salir del tutorial?
 OpenBraceletWarningMsg=No se puede usar el Item.<br><font color='#999999'>Nota: Este Item no se puede usar cuando la ranura ya está abierta.</font>
 Bracelet_Slot_Open=¿Abrir ranura para pulsera?
 PromotionLimit=¿Compras %s_1?
-ExitDawnTower_Die=<font color='#FDC243'>¿Seguro que quieres salir?</font><br><br>Otros jugadores siguen subiendo a la Torre del Amanecer.<br>Si sales ahora de la Torre del Amanecer, no obtendrás recompensas.<br>Si otros jugadores han completado la conquista o si han muerto, podrás obtener recompensas.
+ExitDawnTower_Die=<font color='#FDC243'>¿Seguro que quieres salir?</font><br><br>Otros jugadores siguen subiendo a Tower of Dawn.<br>Si sales ahora de Tower of Dawn, no obtendrás recompensas.<br>Si otros jugadores han completado la conquista o si han muerto, podrás obtener recompensas.
 ExitDawnTower_Complete=<font color='#FDC243'>¿Salir?</font>
-ExitDawnTower=<font color='#FDC243'>¿Seguro que quieres salir?</font><br><br>Aún estás subiendo a la Torre del Amanecer.<br>Si sales de la Torre del Amanecer ahora, no obtendrás recompensas.
+ExitDawnTower=<font color='#FDC243'>¿Seguro que quieres salir?</font><br><br>Aún estás subiendo a Tower of Dawn.<br>Si sales de Tower of Dawn ahora, no obtendrás recompensas.
 ConnectionTimeEvent=Recoge tu recompensa de recarga de Sello.<br><br><font color='#999999'>De lo contrario, no obtendrás tu recompensa de inicio de sesión.</font>
 LegendBingoReset=<font color='#FDC243'>¿Reiniciar todos los bloques de Bingo?</font><br><br>Esto cambiará todos los bloques.<br><font color='#A4A4A4'>(Tus Puntos de Bingo existentes no se reiniciarán.)</font>
 TeacherStudent_TeacherFree=¿Cancelarás tu conexión con tu maestro actual?
