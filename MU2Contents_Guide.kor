@@ -573,7 +573,7 @@ SubTitle_1023007104=Debes aumentar tu índice de carga lo mejor que puedas en 10
 Contents_1023007106=Lupa's Labyrinth tiene un límite de tiempo de 10 minutos.<br>Trata de aumentar tu tasa de carga al 100% dentro del límite de tiempo cazando tantos monstruos como puedas.<br>Aunque no consigas llegar al 100%, podrás luchar contra el monstruo jefe y conseguir una recompensa. Pero tu recompensa no será tan buena como si alcanzaras el 100%.<br><br><font color='#FE6D03'>Consejo: </font>Haz clic en los cubos para moverte a los bloques siguientes en cualquier momento.<br>Son útiles para evitar a los enemigos difíciles.<br>Pero sigue corriendo en lugar de luchar, y puedes acabar con un bajo índice de carga.
 SubTitle_1023007107=Los niveles de los artefactos deben coincidir con los niveles de dificultad de las Dungeons.
 Contents_1023007109=Los artefactos ganan grandes cantidades de EXP en los niveles del Laberinto cuyo nivel de dificultad sea superior al suyo.<br>Ganan pequeñas cantidades de EXP en los niveles del Laberinto cuyo nivel de dificultad sea inferior al suyo.<br>Los artefactos ganan un 0% de EXP en los niveles del Laberinto que sean al menos 10 niveles inferiores a sus niveles.<br>En resumen, no podrás hacer Mejorar tus artefactos si vas demasiado a lo seguro.
-Title_1023008100=Hoyo de los Muertos
+Title_1023008100=Pit of the Dead
 SubTitle_1023008101=Pit of the Dead es una Dungeon muy dura que supone un reto significativamente mayor que la mayoría de las demás.
 Contents_1023008103=Pit of the Dead consta de 5 fases y 3 áreas, cada una de las cuales requiere un tiempo diferente para ser superada.<br>¡También aparecen varios monstruos jefe!<br><font color='#FE6D03'>Consejo:</font> Se recomiendan grupos de 5 personas. Derrota a un monstruo jefe rápidamente antes de que aparezca otro.
 SubTitle_1023008104=Puedes conseguir Accesorios de Juego.
@@ -585,8 +585,8 @@ SubTitle_1023009101=Un laberinto más oscuro
 Contents_1023009103=El reloj que mantenía el Laberinto se rompió y liberó energía oscura que se ha extendido por todo el Laberinto.<br>Ahora, no solo está demasiado oscuro para ver, sino que los monstruos son más violentos y poderosos que nunca.<br>El Laberinto Despertado de Lupa consta de un total de 50 niveles, y solo pueden acceder a él los Guardianes que sean al menos de nivel 70 y hayan superado los 100 niveles del Lupa's Labyrinth normal.
 SubTitle_1023009104=Cámara Negra en lo Profundo del Laberinto
 Contents_1023009106=Pasar al siguiente bloque sin matar a todos los monstruos llenará el 2º medidor de carga. Una vez lleno, serás transportado a un espacio llamado Cámara Negra.<br>Ten cuidado de no ser arrastrado a la Cámara Negra cuando te aventures en el Laberinto Despertado.<br><br><font color='#FE6D03'>Consejo:</font> ¡No pierdas de vista el 2º medidor de carga!
-SubTitle_1023009107=La guardería de los Artefactos Despertados
-Contents_1023009109=En el Laberinto Despertado, puedes cultivar Artefactos Despertados y encontrar sus materiales de artesanía.<br>Los Artefactos Despertados son más poderosos que los Artefactos normales.<br>¡Crea y aprovéchate de ellos!
+SubTitle_1023009107=La guardería de los Artefactos Awakened
+Contents_1023009109=En el Laberinto Despertado, puedes cultivar Artefactos Awakened y encontrar sus materiales de artesanía.<br>Los Artefactos Awakened son más poderosos que los Artefactos normales.<br>¡Crea y aprovéchate de ellos!
 Title_1024001100=Items de crecimiento poderoso: Artefactos
 SubTitle_1024001101=Los Artefactos te proporcionan una poderosa forma de Mejorar, gracias a sus habilidades únicas.
 Contents_1024001103=Puedes equipar/seleccionar/crear artefactos en la ventana de artefactos (X).<br>Hay diferentes tipos de artefactos con varios efectos.<br>Los artefactos se pueden craftear y hacer Mejorar con EXP de artefacto.<br>Cuando los artefactos crecen, sus efectos mejoran.
@@ -616,11 +616,11 @@ SubTitle_1024005104=¿Utilizar tal cual o transferir el crecimiento?
 Contents_1024005106=1) Usar como está: Cancela el estado de Recuperado de tu Artefacto y continúa usándolo como está.<br>2) Transferir crecimiento: Transfiere el nivel de crecimiento de un Artefacto Recuperado a otro Artefacto y reinicia su nivel de crecimiento.
 Title_1024006100=Awakened Artifacts
 SubTitle_1024006101=Artefactos más poderosos
-Contents_1024006103=Mira estos Artefactos más poderosos.<br>Los Artefactos Despertados pueden ser tremendamente útiles siempre que te cueste explorar el Continente MU.
-SubTitle_1024006104=Esencias de Artefacto Despertadas y Fragmentos Despertados.
-Contents_1024006106=Puedes alquimizar los Artefactos existentes de nivel 100 en Esencias de Artefacto Despertadas.<br>Los Fragmentos Despertados se pueden encontrar en el Laberinto Despertados de Lupa.<br><br><font color='#FE6D03'>Consejo:</font> Aparte de estos dos materiales, también necesitas Fragmentos de Artefacto Rotos.
+Contents_1024006103=Mira estos Artefactos más poderosos.<br>Los Artefactos Awakened pueden ser tremendamente útiles siempre que te cueste explorar el Continente MU.
+SubTitle_1024006104=Esencias de Artefacto Despertadas y Fragmentos Awakened.
+Contents_1024006106=Puedes alquimizar los Artefactos existentes de nivel 100 en Esencias de Artefacto Despertadas.<br>Los Fragmentos Awakened se pueden encontrar en el Laberinto Awakened de Lupa.<br><br><font color='#FE6D03'>Consejo:</font> Aparte de estos dos materiales, también necesitas Fragmentos de Artefacto Rotos.
 SubTitle_1024006107=Efectos de artefacto despertado.
-Contents_1024006109=Los Artefactos Despertados tienen sus efectos originales y nuevos efectos de Crecimiento.<br>Pueden ayudarte a los Guardianes a hacer Mejorar aún más a tus personajes.
+Contents_1024006109=Los Artefactos Awakened tienen sus efectos originales y nuevos efectos de Crecimiento.<br>Pueden ayudarte a los Guardianes a hacer Mejorar aún más a tus personajes.
 Title_1025001100=Características del Chat
 SubTitle_1025001101=Puedes usar la ventana de Chat para comunicarte con otros jugadores.
 Contents_1025001103=Puedes hablar con otros jugadores en diferentes modos de chat.<br>Puedes chatear incluso cuando estás muerto.<br>Pulsa Tab en el panel de Entrada para cambiar tu modo de chat.<br>Cada pestaña de chat contiene mensajes en el modo correspondiente.

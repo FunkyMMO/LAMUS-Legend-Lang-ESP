@@ -105,7 +105,7 @@ Contents_47000=<br>- <font color='#FDD889'>Múltiples Monstruos Jefes</font> apa
 Contents_45000=En el modo cooperativo 3:3, gana el equipo que consiga más puntos de muerte que el otro dentro del límite de tiempo.<br>Los ganadores obtienen <font color='FDD889'>Fichas de luchador</font>, que pueden canjearse por otros recursos del juego a través del Mercader PvP de Ohrdor.
 Contents_47000=<br>- <font color='#FDD889'>Múltiples Monstruos Jefes</font> aparecen en Pit of the Dead!<br>- Supera cada fase rápidamente para tener la oportunidad de conocer al <font color='#FDD889'>Mercader Negro</font>, ¡que vende items raros!
 >>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
-Contents_48000=Has obtenido un <font color='#FDD889'>Artefacto Awakened</font>. Los Artefactos Despertados pueden cultivarse a través del <font color='#FDD889'>Laberinto Despertado</font>.
+Contents_48000=Has obtenido un <font color='#FDD889'>Artefacto Awakened</font>. Los Artefactos Awakened pueden cultivarse a través del <font color='#FDD889'>Laberinto Despertado</font>.
 Contents_49000=Has entrado en la <font color='#FDD889'>Airship Defense</font>.<br>¡Utiliza tus <font color='#FDD889'>habilidades de Talismán</font> y protege la aeronave!
 Contents_53000=Los <font color='#FDD889'>Antiguos Artefactos, Talismanes</font><font color='#FDD889'>, han sido desbloqueados.<br>Pulsa el botón <font color='#FDD889'>Detalles</font> para más detalles.
 Contents_54000=Crea y cultiva <font color='#FDD889'>Talismanes</font> para conseguir Puntos de Libro.<br>Tu Nivel de Libro aumenta a medida que ganas Puntos de Libro, y las estadísticas de tu personaje mejoran significativamente.
@@ -208,9 +208,9 @@ Content_SubTitle_2=¡Aumenta tu poder!
 Content_Text_2=- A nivel 70, se desbloquea el contenido de Talismanes.<br>- ¡Adquiere el poder de la antigua tribu Supana y lucha contra enemigos más fuertes!
 Content_GuideLink_2=1047001
 Content_Image_2=SuperGuía_17
-Content_Title_3=Artefactos despertados
-Content_SubTitle_3=Contenido de artefactos despertados
-Content_Text_3=- A nivel 70, puedes entrar en Lupa's Labyrinth en el modo Despertado.<br>- En el modo Despertado, puedes obtener materiales para fabricar Artefactos Despertados y obtener nuevos efectos.
+Content_Title_3=Artefactos Awakened
+Content_SubTitle_3=Contenido de artefactos Awakened
+Content_Text_3=- A nivel 70, puedes entrar en Lupa's Labyrinth en el modo Despertado.<br>- En el modo Despertado, puedes obtener materiales para fabricar Artefactos Awakened y obtener nuevos efectos.
 Content_GuideLink_3=1024006
 Content_Image_3=SuperGuía_18
 
@@ -228,7 +228,7 @@ Content_GuideLink_2=1048001
 Content_Image_2=SuperGuía_21
 Content_Title_3=El Laberinto Despertado de Lupa
 Content_SubTitle_3=Laberinto más poderoso
-Content_Text_3=- El Laberinto Despertado de Lupa consta de un total de 50 niveles y tiene un nivel de dificultad muy alto.<br>- Es accesible desde la Room of Duty, igual que su versión normal.<br>- ¡Crea y mejora Artefactos Despertados!
+Content_Text_3=- El Laberinto Despertado de Lupa consta de un total de 50 niveles y tiene un nivel de dificultad muy alto.<br>- Es accesible desde la Room of Duty, igual que su versión normal.<br>- ¡Crea y mejora Artefactos Awakened!
 Content_GuideLink_3=1023009
 Content_Image_3=SuperGuía_22
 
@@ -293,9 +293,9 @@ Content_SubTitle_1=El artefacto más fuerte
 Content_Text_1=- Crea Talismanes y hazte más fuerte.<br>- Aumentando tus Niveles de Libro de Talismanes, puedes aumentar tu Poder de Combate y otras estadísticas.<br>- ¡Colecciona y haz Mejorar Talismanes regularmente para tu crecimiento!
 Content_GuideLink_1=1047001
 Content_Image_1=SuperGuía_20
-Content_Title_2=Artefactos despertados
+Content_Title_2=Artefactos Awakened
 Content_SubTitle_2=Desbloquea el verdadero poder de los artefactos
-Content_Text_2=- Los Artefactos despertados heredan los efectos de sus homólogos normales y además obtienen un efecto más poderoso. <br>- ¡Prueba a crear artefactos despertados para liberar aún más poder!
+Content_Text_2=- Los Artefactos Awakened heredan los efectos de sus homólogos normales y además obtienen un efecto más poderoso. <br>- ¡Prueba a crear artefactos Awakened para liberar aún más poder!
 Content_GuideLink_2=1024006
 Content_Image_2=Coach_30
 Content_Title_3=Centro de entrenamiento de Iris

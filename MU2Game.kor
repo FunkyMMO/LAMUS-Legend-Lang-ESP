@@ -2592,7 +2592,7 @@ ConditionIcon_60000=<font color='#fce7b0'>Items Requeridos</font><br><font color
 ConditionIcon_800=<font color='#fce7b0'>Nivel de Alma Requerido</font><br><font color='#ffffff'>Tienes que alcanzar cierto Nivel de Alma para entrar.</font>
 ConditionIcon_900=<font color='#fce7b0'>Requisito de Nivel de Alma</font><br><font color='#ffffff'>Debes estar por debajo del Nivel de Alma especificado para entrar.</font>
 ConditionIcon_59999=<font color='#fce7b0'>Cómo Conseguir</font><br><font color='#FFBB00'>Dracansor: Proof Key</font><br><font color='#fce7b0'>Consumibles</font><br><font color='#ffffff'>Cambiar usando <font color='#FFBB00'>Perseverance Tokens</font>, que se pueden adquirir completando la misión en Realm of Perseverance: Pruebas y recogiendo botín. Dirígete al <font color='#FFBB00'>Mercader de la facción</font> para intercambiar las fichas por la Llave de Prueba.
-ConditionIcon_59998=<font color='#fce7b0'>Items Requeridos</font><br><font color='#ffffff'>Se requieren Fragmentos Despertados para entrar.</font>
+ConditionIcon_59998=<font color='#fce7b0'>Items Requeridos</font><br><font color='#ffffff'>Se requieren Fragmentos Awakened para entrar.</font>
 ConditionIcon_90108=<font color='#fce7b0'>Items Requeridos</font><br><font color='#ffffff'>15 entradas para la fiesta del foso están disponibles.</font>
 LS_PlatinumService=El efecto Servicio Premium ha aumentado su número máximo de entradas en %s_1.
 LS_PCRoomService=El efecto Platino Premium ha aumentado tu número máximo de entradas en %s_1.
@@ -2668,7 +2668,7 @@ RewardIcon_60708=Genera armadura Set. (Niveles 1 - 5: armadura Set, Niveles 6 - 
 RewardIcon_60709=Genera armadura de conjunto. (Niveles 1 - 5: armadura de conjunto, Niveles 6 - 10: armadura de conjunto verdadera)
 RewardIcon_60607=Genera armas y armaduras de opciones fijas Míticas.
 RewardIcon_60711=Genera armadura de conjunto.
-RewardIcon_90006=Genera los materiales de craft de artefactos despertados, Fragmentos Despertados.
+RewardIcon_90006=Genera los materiales de craft de artefactos Awakened, Fragmentos Awakened.
 RewardIcon_90008=Genera medallas de Kundun recibidas a través de la interfaz de misión diaria (Esc). Cámbialas por Items especiales a través de Kyle en Ohrdor.
 RewardIcon_90009=Genera Jewell of Bless
 RewardIcon_90012=Genera Dukan's Proofs y Fighter's Tokens.
@@ -7170,7 +7170,7 @@ LS_Step=Etapa %s_1
 LS_ALTStep1_Title=Transferir nivel de artefacto
 LS_ALTStep1_Contents=Puedes transferir el nivel de un Artefacto a otro Artefacto.<br>Esto requiere 150 Redzen, independientemente del nivel.
 LS_ALTStep1_WarnningTitle=Precaución
-LS_ALTStep1_WarnningContents=Los Artefactos normales sólo pueden transferir su nivel a otros Artefactos normales, y los Artefactos Despertados sólo pueden transferir su nivel a otros Artefactos Despertados.<br>El Artefacto del que se extrae el nivel se reiniciará por completo una vez completada la extracción.<br>Este no es un sistema para combinar o intercambiar niveles de Artefactos.<br>El resultado es irreversible.
+LS_ALTStep1_WarnningContents=Los Artefactos normales sólo pueden transferir su nivel a otros Artefactos normales, y los Artefactos Awakened sólo pueden transferir su nivel a otros Artefactos Awakened.<br>El Artefacto del que se extrae el nivel se reiniciará por completo una vez completada la extracción.<br>Este no es un sistema para combinar o intercambiar niveles de Artefactos.<br>El resultado es irreversible.
 LS_ALTStep1_OKBtnLabel=Bien, ya lo tengo.
 LS_ALTStep2_Title=Seleccionar un Artefacto del que extraer.
 LS_ALTStep2_Contents=El nivel de este Artefacto seleccionado se transferirá a otro Artefacto.<br>Una vez completada la transferencia, el nivel de este Artefacto se restablecerá a 1.

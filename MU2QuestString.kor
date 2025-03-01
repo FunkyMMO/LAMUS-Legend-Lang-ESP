@@ -13140,15 +13140,15 @@ Mission_Target1=Despejar el Labyrinth Despertado de Lupa (Nivel 1)
 
 [Quest_9552]
 Name=Artefactos Despertados
-Occur_String1=Me preguntaste sobre Artefactos más fuertes, ¿verdad? En el Labyrinth Despertado de Lupa, puedes encontrar algo llamado Fragmentos Despertados. Combínalos con las Esencias de Artefacto existentes, y juntos crearán Artefactos Despertados.<br>De hecho, el Labyrinth Despertado de Lupa es el resultado del estudio de Artefactos. En otras palabras, se trata de los Artefactos.
-Occur_String2=Los Artefactos Despertados tienen sus poderes originales, y además.<br>Crearlos requiere Artefactos de Nivel 100, pero eres lo suficientemente fuerte para explorar el Labyrinth Despertado de Lupa. Puedes crear fácilmente artefactos de tan alto nivel.
+Occur_String1=Me preguntaste sobre Artefactos más fuertes, ¿verdad? En el Labyrinth Despertado de Lupa, puedes encontrar algo llamado Fragmentos Awakened. Combínalos con las Esencias de Artefacto existentes, y juntos crearán Artefactos Awakened.<br>De hecho, el Labyrinth Despertado de Lupa es el resultado del estudio de Artefactos. En otras palabras, se trata de los Artefactos.
+Occur_String2=Los Artefactos Awakened tienen sus poderes originales, y además.<br>Crearlos requiere Artefactos de Nivel 100, pero eres lo suficientemente fuerte para explorar el Labyrinth Despertado de Lupa. Puedes crear fácilmente artefactos de tan alto nivel.
 Doing_String=
-Completable_String1=Recoge Fragmentos Despertados en el Labyrinth Despertado de Lupa y crea Artefactos Despertados.<br>Suena bien y todo, pero ¿no podrías haberle dado un nombre mejor a ese lugar, no crees?
+Completable_String1=Recoge Fragmentos Awakened en el Labyrinth Despertado de Lupa y crea Artefactos Awakened.<br>Suena bien y todo, pero ¿no podrías haberle dado un nombre mejor a ese lugar, no crees?
 Completable_String2=Para los investigadores como yo, la eficiencia es uno de los valores más importantes.<br>Los nombres llamativos son buenos, pero a menudo no son muy explicativos. Para enfatizar su superioridad sobre el Labyrinth existente, pensamos que la palabra "Despertado" era la mejor opción.
-Completable_String3=De todos modos, %s_9_1, si quieres volverte más fuerte, usar Artefactos Despertados puede ayudar.<br>Oh, y si creas un Artefacto Awakened, por favor, muéstramelo. Me encantaría verlo. Lo digo en serio.
-Complete_String=Los Artefactos Despertados están hechos de Artefactos normales de Nivel 100 y Fragmentos Despertados. Solo los Artefactos en sí son bastante fuertes. No puedo imaginar cuán fuertes podrían ser sus versiones despertadas.
-List_String=Grande me habló de los Artefactos Despertados. Por cierto, Labyrinth Despertado de Lupa, Fragmentos Despertados y Artefactos Despertados... ¿No podrían darles mejores nombres? Suenan un poco insípidos.
-Mission_String=Aprender sobre los Artefactos Despertados
+Completable_String3=De todos modos, %s_9_1, si quieres volverte más fuerte, usar Artefactos Awakened puede ayudar.<br>Oh, y si creas un Artefacto Awakened, por favor, muéstramelo. Me encantaría verlo. Lo digo en serio.
+Complete_String=Los Artefactos Awakened están hechos de Artefactos normales de Nivel 100 y Fragmentos Awakened. Solo los Artefactos en sí son bastante fuertes. No puedo imaginar cuán fuertes podrían ser sus versiones despertadas.
+List_String=Grande me habló de los Artefactos Awakened. Por cierto, Labyrinth Despertado de Lupa, Fragmentos Awakened y Artefactos Awakened... ¿No podrían darles mejores nombres? Suenan un poco insípidos.
+Mission_String=Aprender sobre los Artefactos Awakened
 Mission_Target1=Hablar con Grande
 
 [Quest_9599]
@@ -15982,7 +15982,7 @@ Mission_Target1=Fusil Kobold
 [Template_31]
 Name=Solicitud de Caza del Traidor Garuda
 Occur_String1=Nosotros, los Garuda, estamos yendo en contra de la voluntad de nuestro dios del pasado. Akneria no nos creó para llevar a cabo este tipo de deber.<br>Nunca debimos volvernos sesgados.
-Occur_String2=Pero... elegimos un lado solo por venganza.<br>Caímos en la oscuridad... No podemos continuar así. Los otros deben ser despertados.<br>%s_1_1 debe ser sometido y enseñado a darse cuenta de su error.
+Occur_String2=Pero... elegimos un lado solo por venganza.<br>Caímos en la oscuridad... No podemos continuar así. Los otros deben ser Awakened.<br>%s_1_1 debe ser sometido y enseñado a darse cuenta de su error.
 Doing_String=Debemos recuperar nuestro honor como Garuda.<br>Someten a %s_1_1 y ayúdenles a entender sus errores.
 Completable_String1=
 Complete_String=Maté a %s_1_4 %s_1_1 según lo solicitado por el Traidor Garuda.
