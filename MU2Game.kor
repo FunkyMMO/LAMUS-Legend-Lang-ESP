@@ -6189,13 +6189,13 @@ LS_UsingItem=Usando Item...
 LS_ControlObject=Item de control...
 
 [MU2GFxOptionChangerView]
-LS_MainTitle=Restablecer opciones de elemento
+LS_MainTitle=Restablecer opciones de item
 LS_MaterialTitle=Materiales requeridos
 LS_StatInfoTitle=Opciones Cambiables
-LS_NormalDesc=Añadir un elemento de Equipo y aleatorizar una de sus opciones.
+LS_NormalDesc=Añadir un item de Equipo y aleatorizar una de sus opciones.
 LS_SelectDesc=Seleccionar una opción.
 LS_OptionChange=Cambiar opción
-LS_ItemChange=Cambiar elemento
+LS_ItemChange=Cambiar item
 LS_Select=Seleccionar
 LS_Change=Cambiar
 LS_OK=OK
