@@ -1319,7 +1319,7 @@ Message_Create=Ha nacido el poder de un alma fuerte.<br>¡Has creado con éxito 
 Message_Levelup=El Talismán brilla débilmente.<br>Su nivel ha aumentado.
 Message_Limitbreak=¡Se ha superado con éxito!<br>Se ha aumentado el nivel máximo del Talismán.
 Message_Deactivated_Title=Este Talismán está sellado.
-Message_Deactivated=Requiere Nivel 70 y las misiones <br><font color='#ffaf21'>Noria - Lunedill - Talismanes Despertados</font><br>.
+Message_Deactivated=Requiere Nivel 70 y las misiones <br><font color='#ffaf21'>Noria - Lunedill - Talismanes Awakened</font><br>
 Message_CoreCollection_Title=Recoger Núcleos de Talismán
 Message_CoreCollection=Los Núcleos de Talismán recolectados pueden usarse para fabricar y atravesar Talismanes.
 Message_CannotUsingSkill=Las habilidades de talismán no se pueden usar en esta zona.

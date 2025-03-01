@@ -998,7 +998,7 @@ LS_ReviveCountEmpty=%s_1 - No se puede resucitar ahora
 
 [SystemNoticeMessage]
 ExitGame=¿Salir?
-PersnalTrade=%s_1 ha enviado una solicitud de intercambio.
+PersnalTrade=%s_1 te envió una solicitud de trade.
 ReviveBy=%s_1 quiere resucitarte.¶Selecciona Resurrect Now para resucitar en tu ubicación actual.¶Resurrect?
 InvitedPartyBy=%s_1 te ha invitado a su Party.¶¿Aceptas?
 SuggestedPartyBy=%s_1 quiere unirse a tu Party.¶¿Aceptas?
@@ -2519,7 +2519,7 @@ LS_EmotionPoint=<font color='#bbbbbb'>Energía de Éter</font><br>Energía inest
 ImputedRedZen=<font color='#fc7711'>Redzen</font><br>Una moneda que se encuentra en el juego.<br>Se puede usar en la Tienda LAMUS igual que el Redzen normal.
 WCoin=<font color='#ffcc99'>WCoin</font><br>Moneda utilizada para comprar varios servicios y productos del juego.
 WCoin2=<font color='#b5cdff'>Daum Cash</font><br>Una moneda usada para comprar varios servicios y productos en el juego.
-Integral=<font color='#fc7711'>Cupón de puntos</font><br>Cuando obtienes Zen rojo por recarga, obtienes el mismo número de puntos de recarga.Puedes comprar Items raros en la Tienda LAMUS.
+Integral=<font color='#fc7711'>Cupón de puntos</font><br>Cuando obtienes Red Zen por recarga, obtienes el mismo número de puntos de recarga.Puedes comprar Items raros en la Tienda LAMUS.
 RegPeriodTooltip=Periodo durante el cual el Item está registrado en el bazar.<br>Estará listado en el bazar durante el periodo seleccionado.
 SellPriceTooltip=Seleccione su moneda de venta.
 RegPriceToolTip=Seleccione Zen, y un <font color='#fce711'>3%</font> de su pago será cargado como tasa de registro.<br>Puede seleccionar Redzen para evitar la tasa de registro.
@@ -3375,12 +3375,12 @@ LS_RewardTitle=Recompensa principal
 LS_SproutBonusRewardTitle=Bonus de brote
 LS_NeedResourceTitle=Coste
 LS_MazeLodTitle=Dificultad del laberinto
-LS_MyArtifactTitle=Artefacto de Mejora
+LS_MyArtifactTitle=Mejora de Artefacto
 LS_MyArtifactNone=Sin artefacto
 LS_ArtifactExpTitle=Tasa de absorción de EXP del artefacto
 LS_AllLevel=Todos
 LS_Stage=Etapa %s_1
-LS_ArtifactExplain=1. Tu artefacto de Mejora absorbe una cantidad diferente de EXP dependiendo de su nivel (basado en <font color='#11f210'>100%</font> EXP de los Depredadores de Rift). <font color='#11f210'>(%s_1)</font><br><br>2. Cuanto mayor sea el <font color='#33CCFF'>nivel de dificultad del Laberinto</font> comparado con tu <font color='#ff9900'>nivel del artefacto de Mejora</font>, más EXP ganará. <br><br>3. Si tu <font color='#85efff'>Tasa de Carga de Energía del Laberinto</font> es menor, el monstruo Jefe suelta una menor cantidad de EXP de Artefacto.
+LS_ArtifactExplain=1. Tu mejora de artefacto absorbe una cantidad diferente de EXP dependiendo de su nivel (basado en <font color='#11f210'>100%</font> EXP de los Depredadores de Rift). <font color='#11f210'>(%s_1)</font><br><br>2. Cuanto mayor sea el <font color='#33CCFF'>nivel de dificultad del Laberinto</font> comparado con tu <font color='#ff9900'>nivel del mejora de artefacto</font>, más EXP ganará. <br><br>3. Si tu <font color='#85efff'>Tasa de Carga de Energía del Laberinto</font> es menor, el monstruo Jefe suelta una menor cantidad de EXP de Artefacto.
 LS_btnEnter=Entrar (Espacio)
 LS_btnCreate=Intro (Barra espaciadora)
 LS_BtnCancel=Cancelar (Esc)
@@ -3389,7 +3389,7 @@ LS_btnFindParty=Buscar party
 LS_ShowArtifactWigetBtnLabel=Gestionar artefactos
 LS_DungeonSelect=Seleccionar tipo de Dungeon
 LS_DifficultSelect=Seleccionar dificultad de la Dungeon
-LS_ArtifactTitle=Artefacto de mejora
+LS_ArtifactTitle=Mejora de Artefacto
 LS_Normal=Normal
 LS_Myth=Mítico
 LS_Epic=Epico
@@ -6121,7 +6121,7 @@ LS_Artifact_Production_Type_1901=Artefacto despertado
 LS_HaveCount=Cantidad poseída:
 LS_CreateLv=Nivel neces. Nivel de creación:
 LS_MaxLevel=Nivel máximo
-LS_GrowTitle=Artefacto de mejora
+LS_GrowTitle=Mejora de Artefacto
 LS_EquipTitle=Artefacto equipado
 LS_Step=Etapa %s_1
 LS_GrowText=Mejorando

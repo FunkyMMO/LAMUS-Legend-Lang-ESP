@@ -13139,7 +13139,7 @@ Mission_String=Despejar el Labyrinth Despertado de Lupa
 Mission_Target1=Despejar el Labyrinth Despertado de Lupa (Nivel 1)
 
 [Quest_9552]
-Name=Artefactos Despertados
+Name=Artefactos Awakened
 Occur_String1=Me preguntaste sobre Artefactos más fuertes, ¿verdad? En el Labyrinth Despertado de Lupa, puedes encontrar algo llamado Fragmentos Awakened. Combínalos con las Esencias de Artefacto existentes, y juntos crearán Artefactos Awakened.<br>De hecho, el Labyrinth Despertado de Lupa es el resultado del estudio de Artefactos. En otras palabras, se trata de los Artefactos.
 Occur_String2=Los Artefactos Awakened tienen sus poderes originales, y además.<br>Crearlos requiere Artefactos de Nivel 100, pero eres lo suficientemente fuerte para explorar el Labyrinth Despertado de Lupa. Puedes crear fácilmente artefactos de tan alto nivel.
 Doing_String=
