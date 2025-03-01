@@ -77,21 +77,21 @@ Contents_15000=Las mascotas proporcionan estadísticas adicionales al personaje 
 Contents_16000=Cuando consigas logros, obtendrás <font color='#FDD889'>Puntos de Logro, items y títulos</font>. Las recompensas de Grado de logros incluyen items raros.
 Contents_17000=<font color='#FDD889'>Las Joyas de Bendición</font> se pueden usar para encantar items. Se pueden encantar armas y armaduras. <br>Se necesita mucho <font color='FF0000'>Zen y Gemas Mágicas</font> para encantar.
 Contents_18000=La Torre Interminable consta de 150 etapas. Supera una fase <font color='#FDD889'>lo suficientemente rápido</font>, y podrás saltarte varias fases.<br>Esta función de salto de fase es útil para saltarse fases difíciles.
-Contents_19000=Si se supera el <font color='#FDD889'>límite de tiempo de 10 minutos</font>, fallas el desafío. <br>Si el tiempo de superación del Castillo de Sangre es <font color='#FDD889'>menor</font>, ¡obtendrás mayores recompensas!
+Contents_19000=Si se supera el <font color='#FDD889'>límite de tiempo de 10 minutos</font>, fallas el desafío. <br>Si el tiempo de superación del Blood Castle es <font color='#FDD889'>menor</font>, ¡obtendrás mayores recompensas!
 Contents_20000=La Room of Duty te lleva a varios <font color='#FDD889'>mapas de misión</font> como la Endless Tower y el Castillo sangriento. Un mapa de misión es un campo de batalla de evento con reglas de juego y recompensas únicas.
 Contents_21000=Derrota a los monstruos para <font color='#FDD889'>llenar el Medidor de Trenta</font> y pasar a la siguiente planta.<br>Puedes obtener <font color='#FDD889'>un gran número de Gemas Mágicas</font> en la Mina de Gemas Mágicas.
 Contents_22000=Derrota monstruos para <font color='#FDD889'>llenar el Medidor de Trenta</font> y pasar a la siguiente planta.<br>Puedes obtener <font color='#FDD889'>una gran cantidad de Zen</font> en la Bóveda Secreta.
 Contents_23000=Caza monstruos y <font color='#FDD889'>llena el medidor de Trenta</font> para pasar a la siguiente planta.<br>Este jardín es <font color='#FDD889'>abundante en materiales de artesanía y pociones raras</font>.
 Contents_25000=Puedes fabricar y equipar artefactos cuando alcances el <font color='#FDD889'>nivel 65</font>. Puedes mejorar los artefactos ganando EXP de artefacto en <font color='#FDD889'>Lupa's Labyrinth</font>.<br>A medida que los artefactos mejoran, sus efectos se potencian.
-Contents_26000=Puedes comprobar y equipar artefactos en Gestionar artefacto (X). Para hacer crecer un artefacto, debes <font color='#FDD889'>seleccionarlo como tu Artefacto de Crecimiento</font>.<br>Los artefactos que no estén seleccionados como Artefacto de Crecimiento no pueden crecer.
+Contents_26000=Puedes comprobar y equipar artefactos en Gestionar artefacto (X). Para hacer Mejorar un artefacto, debes <font color='#FDD889'>seleccionarlo como tu Artefacto de Crecimiento</font>.<br>Los artefactos que no estén seleccionados como Artefacto de Crecimiento no pueden Mejorar.
 Contents_27000=Puedes unirte a una <font color='#FDD889'>Guilda o comprobar la información de la Guilda</font> en la ventana de la Guilda.
 Contents_28000=<font color='#FDD889'>Contribución</font> es el dinero del Guild que se usa para las actividades del Guild. Podrás usarlo en la Tienda de Contribución después de que la Guerra de Facción se implemente en el juego.
 Contents_29000=Puedes participar en una batalla <font color='#FDD889'>1 contra 1 con el personaje IA de otro jugador</font> en la Arena.<br>Ganarás un pequeño número de <font color='#FDD889'>Gemas mágicas</font> tras ganar un combate en la Arena.
 Contents_30000=Caza monstruos dentro del Laberinto, y tu <font color='#FDD889'>Tasa de Carga</font> aumentará.<br>Debes <font color='#FDD889'>alcanzar el 100% de Tasa de Carga dentro del límite de tiempo para obtener la mejor recompensa.</font>Tu recompensa disminuye si no consigues maximizar tu Tasa de Carga.
 Contents_31000=LAMUS cuenta con una variedad de funciones para su conveniencia para la actualización fácil y rápida.<br>Haga clic en <font color='#FDD889'>Detalles</font> para obtener más información.
 Contents_35000=Asegúrate de crear un Artefacto antes de entrar en el Laberinto. Después de crear un artefacto, debe ser seleccionado como Artefacto antes de subir de nivel.<br><font color='FDD889'>¡Un artefacto no ganará EXP de artefacto si no está seleccionado!</font>
-Contents_37000=Las mascotas necesitan <font color='FDD889'>ExP EXP Mascota</font> para crecer. Las mascotas ganan EXP cuando tu personaje lo hace.<br>Puedes <font color='FDD889'>Evolucionar</font> mascotas para aumentar su <font color='FDD889'>Nivel de mascota</font>.
-Contents_38000=Explora la Torre Infinita, y podrás conseguir <font color='FDD889'>Sellos de Poder</font> como recompensa.<br>Los Sellos de Poder se usan para comprar Piedras de Crecimiento/Evolución de Alas, que se usan para hacer crecer las Alas.<br>Ve al Mercader de la Torre Infinita en Ohrdor.
+Contents_37000=Las mascotas necesitan <font color='FDD889'>ExP EXP Mascota</font> para Mejorar. Las mascotas ganan EXP cuando tu personaje lo hace.<br>Puedes <font color='FDD889'>Evolucionar</font> mascotas para aumentar su <font color='FDD889'>Nivel de mascota</font>.
+Contents_38000=Explora la Torre Infinita, y podrás conseguir <font color='FDD889'>Sellos de Poder</font> como recompensa.<br>Los Sellos de Poder se usan para comprar Piedras de Crecimiento/Evolución de Alas, que se usan para hacer Mejorar las Alas.<br>Ve al Mercader de la Torre Infinita en Ohrdor.
 Contents_39000=El objetivo del modo Invasión de Monstruos es proteger las 3 piedras de guardián del mapa y eliminar al monstruo jefe de la invasión.<br>Es importante tener un número adecuado de jugadores protegiendo cada una de las 3 piedras de guardián antes de que todas ellas sean destruidas.
 Contents_40000=El objetivo del modo Invasión de Monstruos es proteger las 3 piedras de guardián del mapa y eliminar al monstruo jefe de la invasión.<br>Es importante tener un número adecuado de jugadores protegiendo cada una de las 3 piedras de guardián antes de que todas ellas sean destruidas.
 Contents_41000=El objetivo del modo Invasión de Monstruos es proteger las 3 piedras de guardián del mapa y eliminar al monstruo jefe de la invasión.<br>Es importante tener un número adecuado de jugadores protegiendo cada una de las 3 piedras de guardián antes de que todas ellas sean destruidas.
@@ -120,9 +120,9 @@ Contents_62000=<font color='#FDD889'>¡Has conseguido un artefacto!</font><br>- 
 Contents_63000=¡Felicidades! <font color='#FDD889'>¡Has alcanzado el nivel 70!</font><br>- Ahora puedes adquirir un <font color='#FDD889'>Talismán.</font><br>- Ahora puedes probar suerte en <font color='#FDD889'>El Laberinto Despertado de Lupa</font>. <br>- Ahora puedes acceder al <font color='#FDD889'>Centro de Entrenamiento de Iris</font>.<br>- Pulsa el botón <font color='#FDD889'>Detalles</font> para obtener más información.
 Contents_64000=<font color='#FDD889'>¡Comienza tu aventura en Noria!</font><br>- ¿Has estado tomando el <font color='#FDD889'>Entrenamiento de Progresión de Linda?</font><br>- ¿Has equipado tus <font color='#FDD889'>Artefactos?</font>? <br>- El nivel de dificultad aumentará en Noria. ¡Asegúrate de estar completamente preparado!
 Contents_65000=<font color='#FDD889'>¡Se ha despertado un nuevo poder!</font><br>- Has adquirido una <font color='#FDD889'>nueva Ranura de Habilidad Experta</font>.<br>- ¡Puedes usar una <font color='#FDD889'>nueva rama del árbol de almas</font>!
-Contents_66000=<font color='#FDD889'>Se ha desbloqueado una nueva zona en Noria.</font><br>- ¡Tu aventura en Noria continúa!<br>- Ahora puedes hacer crecer tu personaje hasta el Nivel 80.
+Contents_66000=<font color='#FDD889'>Se ha desbloqueado una nueva zona en Noria.</font><br>- ¡Tu aventura en Noria continúa!<br>- Ahora puedes hacer Mejorar tu personaje hasta el Nivel 80.
 Contents_67000=Esta es un área <font color='#FDD889'>PvP</font>!<br>- Puedes <font color='#FDD889'>atacar</font> a cualquier personaje excepto a los miembros de tu party. <br>- Puedes encontrar <font color='#FDD889'>los materiales para fabricar armas Únicas</font> a través de las misiones PvP.
-Contents_68000=¡Felicidades! <font color='#FDD889'>¡Has alcanzado el nivel 80!</font><br>- Puedes seguir haciendo crecer a tu personaje a través de los <font color='#FDD889'>Mapas de Misión</font>.<br>- ¡Pon a prueba tu temple en la <font color='#FDD889'>Dungeon Épica y en dificultad Mítica</font>! <br>- Puedes realizar el renacimiento cuando alcances el <font color='#FDD889'>Nivel de alma 300</font>.<br>- Pulsa el botón <font color='#FDD889'>Detalles</font> para obtener más información.
+Contents_68000=¡Felicidades! <font color='#FDD889'>¡Has alcanzado el nivel 80!</font><br>- Puedes seguir haciendo Mejorar a tu personaje a través de los <font color='#FDD889'>Mapas de Misión</font>.<br>- ¡Pon a prueba tu temple en la <font color='#FDD889'>Dungeon Épica y en dificultad Mítica</font>! <br>- Puedes realizar el renacimiento cuando alcances el <font color='#FDD889'>Nivel de alma 300</font>.<br>- Pulsa el botón <font color='#FDD889'>Detalles</font> para obtener más información.
 
 [SuperGuide_31000]
 SuperGuideTitle=¡Información importante para tus aventuras!
@@ -187,12 +187,12 @@ Content_GuideLink_1=1019004
 Content_Image_1=SuperGuía_13
 Content_Title_2=Lupa's Labyrinth
 Content_SubTitle_2=Contenido de Crecimiento de Artefacto
-Content_Text_2=- El Lupa's Labyrinth es un mapa de Misión único cuya dificultad se puede elegir entre 100 niveles diferentes.<br>- Se puede acceder a él a través de la Room of Duty en Ohrdor.<br>- Puedes crear y hacer crecer artefactos a través del Lupa's Labyrinth.
+Content_Text_2=- El Lupa's Labyrinth es un mapa de Misión único cuya dificultad se puede elegir entre 100 niveles diferentes.<br>- Se puede acceder a él a través de la Room of Duty en Ohrdor.<br>- Puedes crear y hacer Mejorar artefactos a través del Lupa's Labyrinth.
 Content_GuideLink_2=1023007
 Content_Image_2=SuperGuía_11
 Content_Title_3=Endless Tower
 Content_SubTitle_3=¡Crece tus alas!
-Content_Text_3=- La Endless Tower consta de 150 plantas y tiene un nivel de dificultad alto.<br>- Explora la Endless Tower y consigue Sellos de poder y Sellos de trascendencia, que se pueden cambiar por items para hacer crecer las alas a través del NPC mercader de la Endless Tower en Ohrdor.
+Content_Text_3=- La Endless Tower consta de 150 plantas y tiene un nivel de dificultad alto.<br>- Explora la Endless Tower y consigue Sellos de poder y Sellos de trascendencia, que se pueden cambiar por items para hacer Mejorar las alas a través del NPC mercader de la Endless Tower en Ohrdor.
 Content_GuideLink_3=1023002
 Content_Image_3=SuperGuía_06
 
@@ -218,7 +218,7 @@ Content_Image_3=SuperGuía_18
 SuperGuideTitle=¡Felicidades por alcanzar el nivel 70!
 Content_Title_1=Talismanes
 Content_SubTitle_1=¡Los artefactos más fuertes!
-Content_Text_1=- Crea Talismanes y hazte más fuerte.<br>- Aumentando los niveles de tu Libro de Talismanes, podrás aumentar tu Poder de Combate y otras estadísticas.<br>- ¡Colecciona y haz crecer Talismanes con regularidad para obtener una gran ventaja!
+Content_Text_1=- Crea Talismanes y hazte más fuerte.<br>- Aumentando los niveles de tu Libro de Talismanes, podrás aumentar tu Poder de Combate y otras estadísticas.<br>- ¡Colecciona y haz Mejorar Talismanes con regularidad para obtener una gran ventaja!
 Content_GuideLink_1=1047001
 Content_Image_1=SuperGuía_20
 Content_Title_2=Defensa de naves aéreas
@@ -228,7 +228,7 @@ Content_GuideLink_2=1048001
 Content_Image_2=SuperGuía_21
 Content_Title_3=El Laberinto Despertado de Lupa
 Content_SubTitle_3=Laberinto más poderoso
-Content_Text_3=- El Laberinto Despertado de Lupa consta de un total de 50 niveles y tiene un nivel de dificultad muy alto.<br>- Es accesible desde la Room of Duty, igual que su versión normal.<br>- ¡Crea y haz crecer Artefactos Despertados!
+Content_Text_3=- El Laberinto Despertado de Lupa consta de un total de 50 niveles y tiene un nivel de dificultad muy alto.<br>- Es accesible desde la Room of Duty, igual que su versión normal.<br>- ¡Crea y haz Mejorar Artefactos Despertados!
 Content_GuideLink_3=1023009
 Content_Image_3=SuperGuía_22
 
@@ -241,7 +241,7 @@ Content_GuideLink_1=1047001
 Content_Image_1=SuperGuía_23
 Content_Title_2=Libro de Talismanes
 Content_SubTitle_2=¡Colecciona talismanes!
-Content_Text_2=- Con el Libro de Talismanes (tecla de acceso rápido: , ), puedes fabricar y hacer crecer Talismanes.<br>- Cuando haces crecer tu Libro, las estadísticas de tu personaje también aumentan.<br>- ¡Completa tu Libro de Talismanes!
+Content_Text_2=- Con el Libro de Talismanes (tecla de acceso rápido: , ), puedes fabricar y hacer Mejorar Talismanes.<br>- Cuando haces Mejorar tu Libro, las estadísticas de tu personaje también aumentan.<br>- ¡Completa tu Libro de Talismanes!
 Content_GuideLink_2=1047004
 Content_Image_2=SuperGuía_24
 Content_Title_3=Habilidades del Talismán
@@ -263,7 +263,7 @@ Content_Text_2=- ¡Has recibido el potenciador Brote Creciente!<br>- Ciertos map
 Content_GuideLink_2=1049002
 Content_Image_2=SuperGuía_27
 Content_Title_3=Entrenamiento progresivo de Linda
-Content_SubTitle_3=Guía fácil y rápida para crecer
+Content_SubTitle_3=Guía fácil y rápida para Mejorar
 Content_Text_3=-Completa misiones sencillas para conocer varias características y ganar generosas recompensas.
 Content_GuideLink_3=1049001
 Content_Image_3=SuperGuía_28
@@ -290,7 +290,7 @@ Content_Image_3=SuperGuía_29
 SuperGuideTitle=¡Felicidades por alcanzar el nivel 70!
 Content_Title_1=Talismanes
 Content_SubTitle_1=El artefacto más fuerte
-Content_Text_1=- Crea Talismanes y hazte más fuerte.<br>- Aumentando tus Niveles de Libro de Talismanes, puedes aumentar tu Poder de Combate y otras estadísticas.<br>- ¡Colecciona y haz crecer Talismanes regularmente para tu crecimiento!
+Content_Text_1=- Crea Talismanes y hazte más fuerte.<br>- Aumentando tus Niveles de Libro de Talismanes, puedes aumentar tu Poder de Combate y otras estadísticas.<br>- ¡Colecciona y haz Mejorar Talismanes regularmente para tu crecimiento!
 Content_GuideLink_1=1047001
 Content_Image_1=SuperGuía_20
 Content_Title_2=Artefactos despertados
@@ -308,7 +308,7 @@ Content_Image_3=SuperGuía_30
 SuperGuideTitle=¡Felicidades por alcanzar el nivel 80!
 Content_Title_1=Room of Duty
 Content_SubTitle_1=Varios mapas de misiones
-Content_Text_1=- La Room of Duty ofrece varios Mapas de Misión como la Torre Interminable y el Lupa's Labyrinth. <br>- Puedes hacer crecer a tu personaje sin fin a través de los Mapas de Misión.
+Content_Text_1=- La Room of Duty ofrece varios Mapas de Misión como la Torre Interminable y el Lupa's Labyrinth. <br>- Puedes hacer Mejorar a tu personaje sin fin a través de los Mapas de Misión.
 Content_GuideLink_1=1023001
 Content_Image_1=SuperGuía_26
 Content_Title_2=Dungeons Épicas y Míticas

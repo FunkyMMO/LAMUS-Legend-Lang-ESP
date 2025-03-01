@@ -2159,8 +2159,8 @@ LS_MS_DelWarning=La Joya extraída se guardará en su inventario.
 LS_MS_OwnWarning=Equipar una gema te vincula al Item.
 
 [MU2GFxEnchantView]
-LS_ProtectedEnchant=Proteger Encantamiento
-LS_AutoEnchant=Encantamiento automático
+LS_ProtectedEnchant=Proteger Item
+LS_AutoEnchant=Automático
 LS_OnSale=¡En venta!
 LS_CancelEnchant=Cancelar encantamiento
 LS_Enchant=Encantar
@@ -2281,7 +2281,7 @@ lstrDeleteChar=Personaje borrado
 LS_NoDateExtension=No se puede ampliar el periodo
 lstrOwnedItemOwnerChar=<font color='#FDC243'>Se vincula al personaje</font>
 lstrOwnedItemOwnerID=<font color='#FDC243'>Enlaza con la cuenta</font>
-lstrOwnedItemTypeEquipChar=<font color='#FDC243'>Se vincula al personaje cuando está equipado</font>
+lstrOwnedItemTypeEquipChar=<font color='#FDC243'>Se vincula al personaje al equipar</font>
 lstrOwnedItemTypeEquipID=<font color='#FDC243'>Se vincula a la cuenta cuando está equipado</font>
 lstrOwnedItemTypeGainChar=<font color='#FDC243'>Se vincula al personaje cuando lo obtiene</font>
 lstrOwnedItemTypeGainID=<font color='#FDC243'>Se vincula a la cuenta cuando se obtiene</font>
@@ -2321,16 +2321,16 @@ LS_SubAbilitySection=Estadísticas secundarias
 LS_OptAbilitySection=%s_1 Calidad de impresión
 LS_RandomOptionAbility=%d estadísticas aleatorias
 LS_UnIdentifyedItemTitle=Item no identificado
-LS_IdentifyedCost=Coste de tasación:
+LS_IdentifyedCost=Coste de identificación:
 LS_AddAbilitySection=Estadísticas adicionales
 LS_MagicStoneLockDesc=Ranura para joya/piedra del alma<br><font color='#FDC243'>* Ir a un Mercader de joyas.</font>
 LS_MagicStoneEmptyDesc=Ranura para joya/piedra del alma
 LS_TStoneEmptyDesc=Ranura Piedra Trascendente
 LS_SetColArmor=Armadura
 LS_SetColAcc=Accesorio
-LS_SetColPoint=Aumento de punto + %d
-LS_SetColCardCap=<br>Especificar información de la tarjeta:
-LS_SetColCardNone=No hay tarjeta equipada.
+LS_SetColPoint= Aumento de puntos + %d
+LS_SetColCardCap=<br>Información de la tarjeta:
+LS_SetColCardNone=No hay tarjeta equipada
 LS_SetColNoneDesc=Posesión(I) - Índice de set<br><br>Puede abrir la ventana de índice de set y equipar la carta de set.<br>Pruebe a usar el potente efecto de set.
 LS_SetColCount=(%d/%d)
 LS_SetColUseDesc=Información del personaje - Puedes cambiar el efecto de set en el índice de set.
@@ -3172,7 +3172,7 @@ LS_Reject=Rechazar
 LS_PartyAccept=Aceptar
 LS_RollingDice_OK=Tira los dados
 LS_RollingDice_Cancel=Ceder
-LS_OwnedItemTypeEquipChar=Se vincula al personaje cuando está equipado
+LS_OwnedItemTypeEquipChar=Se vincula al personaje al equipar
 LS_OwnedItemTypeEquipID=Se vincula a la cuenta cuando se equipa
 LS_OwnedItemTypeGainChar=Se vincula al personaje cuando se obtiene
 LS_OwnedItemTypeGainID=Se vincula a la cuenta cuando se obtiene
@@ -4121,7 +4121,7 @@ LS_CreateDungeonLvLabel=Nivel recomendado
 LS_CreateDungeon=Crear Dungeon
 LS_CreateDungeonEnterCost=Coste de entrada
 LS_BlockMove=Mover bloque
-LS_NewBlockMove=Mover a un nuevo bloque
+LS_NewBlockMove_ing=Mover a un nuevo bloque
 LS_DescAutoMoveAfterDTime=Serás movido automáticamente después de un tiempo determinado.
 LS_Step=Etapa %s_1
 LS_MemberInviteDungeonEnter=%s ha solicitado entrar en la Dungeon.
@@ -5196,7 +5196,7 @@ LS_LueryBoxBtnLabel=Tesoro de Luery's
 LS_SproutBonusLabel=Bonus de brote
 
 [MU2GFxItemDisassemble]
-LS_Title=Desmontar Items
+LS_Title=Reciclar Items
 LS_ItemDisassembleBtn=Reciclar items
 LS_PullBtn=Retirar todo
 LS_EarningGreenZen=Gemas mágicas ganadas
@@ -5784,7 +5784,7 @@ LS_TabFunction=Configuración
 LS_KnightAgeDisable=El Guild está inactivo.
 LS_KnightAgeCostTooltip=Fondos para hacer funcionar tu Guild.<br>Se pueden obtener con Zen, que puedes encontrar de monstruos, o a través de ciertos Items.
 LS_KnightAgeAltarTooltip=Beneficios por expandir el Altar del Guild, aplicados a todos los miembros.<br>Estos beneficios no seran aplicados si tu Guild está inactivo.
-LS_KnightAgeInfoTooltip=<font color='#FDC243'>Nombre del Líder del Guild</font><br>- El nombre del líder de tu Guild.<br><font color='#FDC243'>Poder de Combate Total de los Miembros del Guild</font><br>- Poderes de Combate combinados de todos los miembros del Guild. <br><font color='#FDC243'>Estado del Guild</font><br>- Miembros del Guild en línea: %s_1<br>- Miembros totales del Guild: %s_2<br>- Miembros máximos del Guild: %s_3<br><font color='#FDC243'>Nivel del Guild</font><br>- El nivel de crecimiento de tu Guild.<br>- Puedes hacer crecer tu Guild cazando monstruos y ganando EXP.
+LS_KnightAgeInfoTooltip=<font color='#FDC243'>Nombre del Líder del Guild</font><br>- El nombre del líder de tu Guild.<br><font color='#FDC243'>Poder de Combate Total de los Miembros del Guild</font><br>- Poderes de Combate combinados de todos los miembros del Guild. <br><font color='#FDC243'>Estado del Guild</font><br>- Miembros del Guild en línea: %s_1<br>- Miembros totales del Guild: %s_2<br>- Miembros máximos del Guild: %s_3<br><font color='#FDC243'>Nivel del Guild</font><br>- El nivel de crecimiento de tu Guild.<br>- Puedes hacer Mejorar tu Guild cazando monstruos y ganando EXP.
 LS_KnightAgeIconTooltip=Fondos del Guild usados para el funcionamiento de tu Guild.
 LS_KnightAgeAltaExTooltip=Aumenta el Altar de tu Guild.<br>Sólo los miembros que tienen permisos para el Altar pueden mejorarlo.<br>Puedes usar este menú para conseguir un nuevo Altar o mejorar el existente.
 LS_TrophyTooltip=Fondos del clan utilizados para organizar el Torneo.
@@ -6038,7 +6038,7 @@ LS_Artifact_Type_1901=Artefacto despertado
 LS_Step=Etapa %s_1
 LS_Grow=Mejorar
 LS_Equip=Equipado
-LS_Alchemy=Listo para la alquimia
+LS_Alchemy=Alquimia Disp.
 LS_ReCall=Recuperado
 
 [MU2GFxAlchemyView]
@@ -6065,7 +6065,7 @@ LS_StartBtnLabel=Iniciar alquimia
 LS_CloseBtnLabel=Cerrar
 LS_GrowText=Mejorar
 LS_EquipText=Equipado
-LS_AlchemyText=Listo para la alquimia
+LS_AlchemyText=Alquimia Disp.
 LS_Step=Etapa %s_1
 LS_GotoCashShop=Ir a la tienda LAMUS
 LS_AlchemyDesc=- Selecciona un Artefacto con un cierto nivel de Crecimiento como objetivo de Alquimia.<br>- La Alquimia destruye el Artefacto, pero genera una recompensa de Alquimia.<br>- Tu recompensa varía, dependiendo del nivel de Crecimiento del Artefacto.<br>- Puedes usar Aceleración de Alquimia para acortar el tiempo de Alquimia.
@@ -6126,7 +6126,7 @@ LS_EquipTitle=Artefacto Equipado
 LS_Step=Etapa %s_1
 LS_GrowText=Mejorando
 LS_EquipText=Equipado
-LS_AlchemyText=Listo para la alquimia
+LS_AlchemyText=Alquimia Disp.
 LS_CraftTitle=Artefacto artesanal
 LS_NeedMtl=Materiales necesarios
 LS_CraftBtn=Artefacto
@@ -7856,7 +7856,7 @@ LS_Update_Shop_Desc_Use_Nothing=Actualizar tienda
 LS_Caption=Lanza del destino
 LS_Description=Haga clic en el emblema para usarlo.
 LS_NebulaCaption=Nébula
-LS_NebulaDescription=Consume gemas para completar la Enciclopedia de la Nebulosa.<br>Adquiere habilidades de personaje adicionales a medida que crece la Enciclopedia.<br>Para hacer crecer la Nebulosa, debes obtener gemas de mayor grado mediante la fusión de gemas.
+LS_NebulaDescription=Consume gemas para completar la Enciclopedia de la Nebulosa.<br>Adquiere habilidades de personaje adicionales a medida que crece la Enciclopedia.<br>Para hacer Mejorar la Nebulosa, debes obtener gemas de mayor grado mediante la fusión de gemas.
 LS_FusionCaption=Fusión de gemas
 LS_FusionDescription=Fusiona tres gemas para crear una nueva gema de grado.<br>Las gemas de grado superior proporcionan estadísticas potentes y pueden usarse en la enciclopedia de la nebulosa para completarla.
 
@@ -8242,7 +8242,7 @@ LS_Jian_BtnLable=Cerrar
 LS_Caption=Lanza del Destino
 LS_Description=Puede utilizar el contenido haciendo clic en el emblema.
 LS_NebulaCaption=Nébula
-LS_NebulaDescription=Consume gemas para completar el libro de ilustraciones de Nebula.<br>A medida que crezca el dibujo, ganarás estadísticas de personaje adicionales.<br>Para hacer crecer a Nebula, debes adquirir gemas de mayor grado mediante la fusión de gemas.
+LS_NebulaDescription=Consume gemas para completar el libro de ilustraciones de Nebula.<br>A medida que crezca el dibujo, ganarás estadísticas de personaje adicionales.<br>Para hacer Mejorar a Nebula, debes adquirir gemas de mayor grado mediante la fusión de gemas.
 LS_FusionCaption=Fusión de gemas
 LS_FusionDescription=Fusiona tres gemas para crear una nueva clase de gemas.<br>Las gemas de categoría superior proporcionan estadísticas potentes y pueden usarse en los Libros de Nebula para completar el libro de ilustraciones.
 
@@ -8270,9 +8270,9 @@ LS_AssistRatioFormat=%s_1
 LS_AssistCountFormat=%s_1/%s_2
 
 [MU2GFxMessageBoxProtectionEnchant]
-LS_TitleStr=Encantado protegido
+LS_TitleStr=Encantamiento protegido
 LS_DescriptionStr0=¿Utilizar encantamiento protegido?
-LS_DescriptionStr1=1. El encantamiento protegido protege tu Item contra la destrucción.<br>2. Mientras evita la destrucción del Item, disminuye su nivel de encantamiento en 1.
+LS_DescriptionStr1=El encantamiento protegido protege tu item contra la destrucción<br>Si falla pierdes un nivel de encatamiento
 LS_OKStr=OK (Espacio)
 LS_CancelStr=Cancelar (Esc)
 LS_HaveImputedRedZen=Redzen en posesión

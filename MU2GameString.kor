@@ -1607,7 +1607,7 @@ Msg_Mailbox_ADV_CARD_CONTENT=Te enviamos los Items que perdiste en la Rift.
 Msg_Mailbox_Endless_Tower_SUBJECT=Recompensas de la Endless Tower
 Msg_Mailbox_Endless_Tower_SENDER=Encargado de la room of duty
 Msg_Mailbox_Endless_Tower_CONTENT=Hemos encontrado el Item que dejaste en la Endless Tower. Te lo enviamos.
-Msg_Mailbox_Blood_Castle_SUBJECT=Recompensas del Castillo de Sangre
+Msg_Mailbox_Blood_Castle_SUBJECT=Recompensas del Blood Castle
 Msg_Mailbox_Blood_Castle_SENDER=Encargado de la Sala de Servicio
 Msg_Mailbox_Blood_Castle_CONTENT=Hemos encontrado el Item que dejaste en el Castillo Sangriento. Te lo enviamos.
 Msg_Mailbox_Account_1_SUBJECT=Recompensa por correo de nivel de cuenta
@@ -2116,7 +2116,7 @@ Survey_2=Etapas iniciales
 Survey_3=Encuesta sobre la mina Magic Gem
 Survey_4=Encuesta sobre la mina secreta de Luery
 Survey_5=Encuesta sobre el jardín de Fabrice
-Survey_6=Encuesta Castillo de Sangre
+Survey_6=Encuesta Blood Castle
 Survey_7=Encuesta Endless Tower
 Survey_8=Etapas posteriores Encuesta
 Survey_9=Sanctum de los Caballeros del Dragón Encuesta
@@ -2563,8 +2563,8 @@ Survey_5_Question_1_Choice_2=Satisfactorio
 Survey_5_Question_1_Choice_3=Normal
 Survey_5_Question_1_Choice_5=Insatisfactorio
 Survey_5_Question_1_Choice_4=Muy insatisfactorio
-Survey_6_Information=Hola, este es un mensaje de LAMUS.<br>Esta encuesta está diseñada para registrar su <Font color='#FFCD12'>evaluación del Castillo de Sangre</Font>.
-Survey_6_Subject=<Font color='#BCE55C'>Encuesta sobre el Castillo de Sangre</Font>
+Survey_6_Information=Hola, este es un mensaje de LAMUS.<br>Esta encuesta está diseñada para registrar su <Font color='#FFCD12'>evaluación del Blood Castle</Font>.
+Survey_6_Subject=<Font color='#BCE55C'>Encuesta sobre el Blood Castle</Font>
 Survey_6_Question_1=¿Le ha gustado Blood Castle?
 Survey_6_Question_1_Choice_1=Muy satisfactorio
 Survey_6_Question_1_Choice_2=Satisfactorio
@@ -2942,14 +2942,14 @@ ContentsDesc_3=Esta mina produce Gemas Mágicas, que eran tan comunes como las p
 ContentsDesc_5=Esta bóveda secreta de Luery guarda la fortuna que ha amasado a través de la investigación de Rifts. Actualmente está ocupada por los goblins furiosos que fueron sobreexplotados y maltratados por Luery.<br><br>- Accesible a través de Room of Duty en Ohrdor.<br>- Puedes conseguir grandes cantidades de Zen.
 ContentsDesc_4=Es el castillo de Anilata, la líder de los Cruzados que fueron sellados dentro del Ataúd de Cristal por Rugard. Pandemonium quiere resucitar a Anilata para debilitar el poder de Rugard.<br><br>- Accesible a través de Room of Duty en Ohrdor.<br>- Elimina a Anilata más rápidamente dentro del límite de tiempo para conseguir una mejor recompensa.
 ContentsDesc_6=Rugard y Bulcan construyeron esta alta torre para enfrentar a sus criaturas contra las del otro. En los pisos superiores de la torre aguardan enemigos más formidables.<br><br>- Accesible a través de Room of Duty en Ohrdor.<br>- Si superas una fase lo suficientemente rápido, podrás saltarte varias fases.
-ContentsDesc_7=Es un laberinto gigante creado dentro del reloj de Lupa. Puedes manipular la deformación del espaciotiempo dentro del laberinto y seleccionar su nivel de dificultad entre 100 niveles diferentes.<br><br>- Accesible a través de Room of Duty en Ohrdor.<br>- Abundante en materiales de Artefacto y EXP.<br>- Para hacer crecer tu artefacto rápidamente, alcanza el 100% de Puntos de Muerte de Monstruos dentro del límite de tiempo.
+ContentsDesc_7=Es un laberinto gigante creado dentro del reloj de Lupa. Puedes manipular la deformación del espaciotiempo dentro del laberinto y seleccionar su nivel de dificultad entre 100 niveles diferentes.<br><br>- Accesible a través de Room of Duty en Ohrdor.<br>- Abundante en materiales de Artefacto y EXP.<br>- Para hacer Mejorar tu artefacto rápidamente, alcanza el 100% de Puntos de Muerte de Monstruos dentro del límite de tiempo.
 ContentsDesc_11=Cuando Rift se descontrola, su poderosa energía puede causar una deformación del espacio-tiempo en los campos que hay fuera de ella, creando un pasadizo entre este reino terrenal y el Pandemónium. Depende de los guerreros del Continente MU protegen su mundo contra los formidables enemigos del Pandemónium.<br><br>- Cuando termina el modo Sobrecarga, se produce un evento Asalto de Campo en el continente correspondiente.<br>- Un evento Asalto al Monstruo Jefe o Invasión de Monstruos a gran escala se produce aleatoriamente.<br>- Se necesitan al menos 20 jugadores para superar este evento.
 ContentsDesc_12=Lucha contra la versión IA del personaje de otro jugador uno contra uno. El PvP aquí es menos estresante, ya que no estás luchando contra jugadores reales.<br><br>- Hasta 10 combates por entrada.<br>- Concede Gemas Mágicas como recompensa.
 ContentsDesc_13=Equipos de 3 jugadores pueden luchar entre sí.<br><br>- Gana el equipo que consiga más puntos de muerte antes que el otro dentro del límite de tiempo.<br>- Gana puntos de victoria en el modo cooperativo y asciende en las ligas para conseguir más Fighter's Tokens.<br>- Los Fighter's Tokens se pueden canjear por varias monedas del juego.
 ContentsDesc_14=El Pozo de los Muertos es significativamente más desafiante que las Dungeons épicas más duras. Su nivel de dificultad más alto es más duro que el Lupa's Labyrinth de nivel 100.<br><br>- Consta de 3 fases.<br>- Debes superar cada fase dentro del tiempo límite para pasar a la siguiente.<br>- Cada fase consta de múltiples monstruos Jefe y Élite.<br>- Puedes conseguir Cubos Aveeter/Fantasma, que contienen Accesorios de Set.
 ContentsDesc_15=La Cueva del Demonio de Fuego es donde reside el Monarca Naklokhan, llena de lava hirviendo y llamas abrasadoras. <br>Naklokhan está empeñado en derretir la Cueva del Demonio de Hielo, para vengarse de su archienemiga y dueña de la cueva, Avalanchera. <br>La Cueva del Demonio de Fuego es difícil, recomendada para Guardianes con al menos 180.000 de Poder de Combate.
 ContentsDesc_16=La Cueva del Demonio de Hielo es donde reside la monarca Avalanchera, llena de nieve y hielo. <br>Avalanchera está empeñado en congelar la Cueva del Demonio de Fuego, para vengarse de su archienemigo y dueño de la cueva, Naklokhan. <br>La Cueva del Demonio de Hielo es difícil, recomendada para Guardianes con al menos 180.000 de Poder de Combate.
-ContentsDesc_17=Cuando el reloj de Lupa se rompió, cambió radicalmente el Laberinto. Puedes manipular la energía oscura dentro del Laberinto y abrirte camino a través de numerosas etapas.<br><br>- Accesible a través de Room of Duty en Ohrdor.<br>- Abundante en recompensas por fabricar y hacer crecer tus Artefactos.<br>- Para hacer crecer tu Artefacto rápidamente, llena el medidor al 100% dentro del límite de tiempo matando monstruos. <br>Si dejas que el residuo espiritual dentro de este Laberinto deformado se acumule hasta cierta cantidad, te enfrentarás a un gran desafío.<br><font color='#FDD889'>La dificultad aumenta aún más a partir de la fase 51 del Laberinto Despertado de Lupa, con monstruos de más de nivel 80 que empiezan a aparecer.</font><br><font color='#FDD889'>Los Comerciantes Negros también empiezan a aparecer a partir de la fase 51 y se pueden conseguir cubos especiales como recompensa.</font>
+ContentsDesc_17=Cuando el reloj de Lupa se rompió, cambió radicalmente el Laberinto. Puedes manipular la energía oscura dentro del Laberinto y abrirte camino a través de numerosas etapas.<br><br>- Accesible a través de Room of Duty en Ohrdor.<br>- Abundante en recompensas por fabricar y hacer Mejorar tus Artefactos.<br>- Para hacer Mejorar tu Artefacto rápidamente, llena el medidor al 100% dentro del límite de tiempo matando monstruos. <br>Si dejas que el residuo espiritual dentro de este Laberinto deformado se acumule hasta cierta cantidad, te enfrentarás a un gran desafío.<br><font color='#FDD889'>La dificultad aumenta aún más a partir de la fase 51 del Laberinto Despertado de Lupa, con monstruos de más de nivel 80 que empiezan a aparecer.</font><br><font color='#FDD889'>Los Comerciantes Negros también empiezan a aparecer a partir de la fase 51 y se pueden conseguir cubos especiales como recompensa.</font>
 ContentsDesc_18=Significa la escaramuza del avance del continente devildom, y el avance a devildom puede ser posible algún día si la tecnología de desarrollo del guantelete se actualiza y la ruta es pionera.<br><br>- Se puede entrar por Ohrdor > Guilds Harbor. <br>- Tiene una dificultad alta y se recomienda el cooperativo.<br>- Puedes adquirir recompensas especiales de Kyle completando la misión diaria (ESC).<br><br><font color='#FDD889'>- Los monstruos de Lv. 80 aparecen en la dificultad 2 de la defensa del avión, y la dificultad y la recompensa aumentan aún más.</font>
 ContentsDesc_19=El Área Restringida 6-1 es una formidable Dungeon en la que los Ashase llevaron a cabo un plan secreto. Esta Dungeon es mucho más difícil que las Dungeons Míticas.<br><br>- Las Dungeons Épicas tienen un nivel de dificultad muy alto.<br><font color='#FE6D03'>- Solo los personajes con al menos 280.000 de Poder de Combate pueden entrar en ellas.<br></font>- Te recomendamos que entrenes en las Dungeons Míticas y en el Lupa's Labyrinth hasta que cumplas el requisito de Poder de Combate de las Dungeons Épicas.
 ContentsDesc_20=Rugard y Bulcan pondrán a prueba vuestra fuerza y trabajo en equipo como Guardianes. Superad las distintas pruebas de los dioses, y os haréis más fuertes como Guardianes.<br><br>- El campo de pruebas se crea en algún lugar de Wellspring Haven, Noria.<br>- El Mensajero de los Dioses aparece a intervalos regulares, y a aquellos que lo derroten les esperan recompensas.<br><font color='#FE6D03'>- El Mensajero de los Dioses tiene HP muy altos. Derrotarlo requiere la cooperación de muchos Guardianes.</font>
@@ -3260,7 +3260,7 @@ DailySubMission_2_102_1=Supera el Laberinto del Despertar de Lupa.
 DailySubMission_2_102_2=Completa la planta 50 o superior de la Endless Tower.
 DailySubMission_3_1000_0=Contenido Talismán: Completa 3 fases de Defensa del dirigible
 DailySubMission_3_1000_1=Contenido Talismán: Supera 6 fases de defensa de aeronave.
-DailySubMission_3_1000_2=Consigue el Talismán: Castillo de Sangre
+DailySubMission_3_1000_2=Consigue el Talismán: Blood Castle
 DailySubMission_4_2000_0=Contenido Talismán: Completa 13 fases de Airship Defense
 DailySubMission_4_2000_1=Despejar Sleighbowa, fase mítica 1
 DailySubMission_4_2000_2=Despeja el reino de la perseverancia: Prueba
@@ -3990,7 +3990,7 @@ MemImp_ScenarioContents_12_4=El aura oscura me consume poco a poco, desde todas 
 MemImp_ScenarioContents_13_1=Era el propio miedo ardiente. El ojo gigante en el centro de su cuerpo podía ver todas partes sin un solo punto ciego, gracias a las docenas de otros ojos flotantes que buscaban objetivos a los que prender fuego. Los extraños tentáculos al rojo vivo escupían tanto calor que era imposible acercarse a ellos. No había duda... Corrientes de lava deben estar fluyendo dentro de este monstruo. Lava ardiente y palpitante.
 MemImp_ScenarioContents_13_2=Las alas azules y heladas son el símbolo de la reina. La lanza gigante en su mano derecha cortará sin piedad a sus enemigos. La lámpara en su mano izquierda recoge las almas congeladas. Es un faro que atrae a los muertos. ¿Cuál podría ser la razón para esconder la propia alma dentro del cristal bajo el casquete polar? La belleza no es más que una cáscara. Sería imposible desafiar la fría tiranía de la reina, que desprecia incluso un atisbo de calidez.
 MemImp_ScenarioContents_13_3=¡Jajaja! Esto es encantador. Me da tanto placer ver a esa mujer de cabeza rosada perder la cabeza. Gracias a mi investigación, sabía que esto ocurriría cuando atesorara todo su oro, intentando construir una caja fuerte en la Rift para evadir impuestos. ¿Y sabes qué es lo más loco? ¡Quería dejárselo a los goblins! Es como tener al zorro cuidando el gallinero. Absolutamente fuera de su mente, te digo. Pero me molesta que los duendes estén a punto de empezar a causar estragos...
-MemImp_ScenarioContents_13_4=Es realmente asombroso. La exposición prolongada a la energía de la Rift puede causar mutaciones. Por ejemplo, a uno le puede crecer un cuerno o su piel se puede convertir en un material diferente. A veces, el cuerpo permanece intacto, pero la persona puede perder su mente. Cuanto más pienso en él... No puedo comprender lo que le pasó. ¿Cómo puede alguien volverse así? Es como si un montón de cajas estuvieran unidas al azar. Ni siquiera puedo imaginarme cómo eran algunas de ellas antes de mutar.
+MemImp_ScenarioContents_13_4=Es realmente asombroso. La exposición prolongada a la energía de la Rift puede causar mutaciones. Por ejemplo, a uno le puede Mejorar un cuerno o su piel se puede convertir en un material diferente. A veces, el cuerpo permanece intacto, pero la persona puede perder su mente. Cuanto más pienso en él... No puedo comprender lo que le pasó. ¿Cómo puede alguien volverse así? Es como si un montón de cajas estuvieran unidas al azar. Ni siquiera puedo imaginarme cómo eran algunas de ellas antes de mutar.
 MemImp_ScenarioContents_14_1=Wallkreiger es el descendiente de Kaizel, el Gran Rey Dragón. Su poderoso rugido sacude el mundo.<br>Y, sin embargo, es gentil. Recuerda que todo lo que tenemos procede de su carne y sus huesos.<br>Nadie podrá detener la furia del Rey Dragón, cuya estatura es como las montañas nevadas y cuyo poder es como la avalancha.<br>El Rey Dragón Kaizel y los guerreros de Wallkreiger reinarán para siempre. Para siempre jamás.
 MemImp_ScenarioContents_14_2=De hecho... El Refugio del Dragón era extremadamente aterrador. Me di cuenta en el momento en que entré allí... Yo soy la presa aquí. No me atrevía a dar un paso más. Entonces, conocí a un caballero contratado... Y cuando vi el corazón gigante que llevaba, me recorrió un escalofrío. No podía ni imaginarme lo enorme que sería ese dragón si su corazón fuera ya tan grande. Ahora que lo pienso, hacer caso a mi instinto me salvó la vida entonces.
 MemImp_ScenarioContents_14_3=Descubrimos un órgano desconocido mientras investigábamos los restos y muestras del sujeto de pruebas enfurecido. La energía emitida por ese órgano es muy similar al poder telepático que usamos los Ashas. También descubrimos que la magia biológica del sujeto de pruebas furioso era casi idéntica a nuestro poder mágico único. Esto nos lleva a especular que los Ashas vivos pueden haber servido de base para el sujeto de pruebas furioso... (abreviado)
@@ -4148,7 +4148,7 @@ limit_28_ItemDesc=¡Felicidades por alcanzar el nivel de alma 100!<br>Aquí tien
 limit_28_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_29_Title=Paquete especial de alas 1
 limit_29_ItemTitle=Paquete especial de alas 1
-limit_29_ItemDesc=¿Necesitas hacer crecer tus Alas?<br>¡Tenemos el paquete perfecto para ti!
+limit_29_ItemDesc=¿Necesitas hacer Mejorar tus Alas?<br>¡Tenemos el paquete perfecto para ti!
 limit_29_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_30_Title=Paquete especial para nivel de alma 150
 limit_30_ItemTitle=Paquete especial para nivel de alma 150
@@ -4212,11 +4212,11 @@ limit_44_ItemDesc=¿Necesitas pergaminos de impresión para mejorar tu equipo?<b
 limit_44_ItemDesc2=Los Items de edición limitada no se pueden comprar después de que caduque la oferta.<br>Puedes comprarlo para cada personaje por separado.
 limit_45_Title=Paquete especial reliquia despierta 1
 limit_45_ItemTitle=Paquete especial reliquia despierta 1
-limit_45_ItemDesc=¡Siente el gran y sorprendente poder de la nueva reliquia!<br>Puedes hacer crecer la reliquia despierta del paso 1 sobre el paso 20.
+limit_45_ItemDesc=¡Siente el gran y sorprendente poder de la nueva reliquia!<br>Puedes hacer Mejorar la reliquia despierta del paso 1 sobre el paso 20.
 limit_45_ItemDesc2=No puedes comprar productos de tiempo limitado después del periodo dado.<br>Este producto puede comprarse por personaje.
 limit_46_Title=Paquete especial de reliquia despierta 2
 limit_46_ItemTitle=Paquete especial reliquia despierta 2
-limit_46_ItemDesc=¡Siente el gran y sorprendente poder de la nueva reliquia!<br>Puedes hacer crecer la reliquia despierta del paso 1 sobre el paso 40.
+limit_46_ItemDesc=¡Siente el gran y sorprendente poder de la nueva reliquia!<br>Puedes hacer Mejorar la reliquia despierta del paso 1 sobre el paso 40.
 limit_46_ItemDesc2=No puedes comprar productos de tiempo limitado después del periodo establecido.<br>Este producto se puede comprar por personaje.
 limit_47_Title=Viernes negro
 limit_47_ItemTitle=Viernes negro
