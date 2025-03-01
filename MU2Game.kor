@@ -4222,7 +4222,7 @@ LS_DungeonDesc_9040102=Sólo puedes entrar en esta Dungeon tú solo,<br>no con t
 LS_DungeonDesc_9203001=Lupa's Labyrinth es un Mapa de Misión de alta dificultad, abundante en materiales de craft de Artefactos y diseñado para ayudar a mejorar los Artefactos.
 LS_DungeonDesc_9040364=Descripción del Laberinto de Puzzles
 LS_DungeonDesc_9062408=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
-LS_ArtifactLvDesc[0]=<font color='#FF0000'>¡Selecciona un Artefacto para cultivar!</font><br>Si no hay un Artefacto para cultivar,<br>no puedes ganar EXP de Artefacto.
+LS_ArtifactLvDesc[0]=<font color='#FF0000'>¡Selecciona un Artefacto para mejorar!</font><br>Si no hay un Artefacto para mejorar,<br>no puedes ganar EXP de Artefacto.
 LS_ArtifactLvDesc[1]=La Dificultad es igual al nivel de crecimiento del Artefacto.<br>¡Un verdadero desafío!<br><font color='#FDD889'>Obtendrás el 100% de EXP de Artefacto.</font>
 LS_ArtifactLvDesc[2]=La Dificultad es mayor que el nivel de crecimiento del Artefacto.<br>¡Un verdadero desafío!<br><font color='#FDD889'>Obtendrás EXP de Artefacto adicional.</font>
 LS_ArtifactLvDesc[3]=La Dificultad es menor que el nivel de crecimiento del Artefacto.<br>¡Un desafío débil!<br><font color='#FF0000'>Obtendrás EXP de Artefacto reducida.</font>
