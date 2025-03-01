@@ -1,5 +1,5 @@
 [Title]
-ServerDisconnect=Siempre desconectado
+ServerDisconnect=Has sido Desconectado
 EquipCustomSkill=Equipar cresta
 UnEquipCustomSkill=Quitar cresta
 UnEquipCustomSkillNeedItem=Quitar cresta
@@ -186,21 +186,21 @@ NebulaOpen_Request=Abrir Nebula
 NebulaItemEquip_Request=Insertar Gema Nebula
 
 [Message]
-ServerDisconnect=Conexión con el servidor finalizada.
+ServerDisconnect=Conexión con el servidor finalizada
 EquipCustomSkill=¿Equipar esta cresta?
 UnEquipCustomSkill=Eliminar una cresta¶consume 1 Martillo de Artesano.¶¿Eliminar esta cresta?
-UnEquipCustomSkillNeedItem=Para quitar una cresta,¶necesitas un Martillo de Artesano.¶¶Puedes comprarlo a un Mercader ambulante en cada ciudad.
+UnEquipCustomSkillNeedItem=Para quitar una cresta,¶necesitas un Martillo de Artesano.¶¶Puedes comprarlo a un Mercader ambulante en cada ciudad
 PurchaseExpandSlot=¿Añadir una ranura?
 DeleteInventoryItem=¿Eliminar este Item?
 DeleteInventoryItemHighGrade=Es un Item de grado %s_1.¶¿Eliminar el Item?
 TearDownInventoryItem=%s_1 Item¶¿Reciclar este Item?
 Enchant_Begin=<font size='18'>¿Encantar?</font>
-Enchant_High=<font size='18'>¿Encantar?</font><br><br><font color='#FF0000'>Atención: Su Item será destruido si su encantamiento falla.</font><br><br><font color='#8a8a8a'>* Puede usar Encantamiento Protegido para proteger su Item.</font>
+Enchant_High=<font size='18'>¿Encantar?</font><br><br><font color='#FF0000'>Atención: Su Item será destruido si su encantamiento falla.</font><br><br><font color='#8a8a8a'>* Puede usar Encantamiento Protegido para proteger su Item</font>
 AutoEnchant=<font size='18'>¿Encantar automáticamente?</font><br><br><font color='#8a8a8a'>Tu Item será encantado al nivel máximo en el rango de Encantamiento Seguro.</font>
-EncantamientoProtegido=<font size='18'>¿Usas Encantamiento Protegido?</font><br><br><font color='#8a8a8a'>1. El Encantamiento Protegido protege tu Item. El Encantamiento Protegido protege tu Item contra la destrucción.<br>2. Mientras previene la destrucción del Item, disminuye su nivel de encantamiento en 1.</font>
-Enchant_OwnWarning=Intentar encantar un Item lo vinculará a ti.
+EncantamientoProtegido=<font size='18'>¿Usas Encantamiento Protegido?</font><br><br><font color='#8a8a8a'>1. El Encantamiento Protegido protege tu Item. El Encantamiento Protegido protege tu Item contra la destrucción.<br>2. Mientras previene la destrucción del Item, disminuye su nivel de encantamiento en 1</font>
+Enchant_OwnWarning=Intentar encantar un Item lo vinculará a ti
 EnchantTicket=¿Proceder con el encantamiento?
-KnightEnchantRestore=Confirma si quieres usar el ticket de encantamiento, si la mochila está llena te enviará un email.
+KnightEnchantRestore=Confirma si quieres usar el ticket de encantamiento, si la mochila está llena te enviará un email
 KnightEnchant_Protected=Has usado un ticket de encantamiento, y el ticket de encantamiento será deducido si la mejora falla
 KnightEnchant_UnProtected=No has usado el ticket de encantamiento, los accesorios fallidos serán dañados
 SendMail=¿Enviar el correo?
