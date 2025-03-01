@@ -55,7 +55,7 @@ Service_506=Almacenamiento remoto de cuenta disponible <font color='#37C7DF'>(F4
 Service_507=Desmantelamiento remoto <font color='#37C7DF'>(F5)</font>
 Service_508=Tienda de pociones remota <font color='#37C7DF'>(F6)</font>
 Service_509=Buzón remoto <font color='#37C7DF'>(F7)</font>
-Service_510=Registro adicional de Items de Bazar +10
+Service_510=Slots adicionales en Items de Bazar +10
 Service_511=Tarifa de Bazar (Zen) y (Redzen) cambiada a 6%.
 Service_512=Opción de registro de 72 horas de Bazar
 Service_1002=Pestaña adicional de Inventario +2
@@ -64,14 +64,14 @@ Service_1004=Regalo de Servicio Premium
 Service_1005=Resurrección diaria gratuita +10
 Service_1006=Ranura de mejora para mascotas +2 
 Service_1007=Fichas de Aventura para Mascotas +2
-Service_1009=Ataque contra monstruos +3
-Service_1010=Ganancia de EXP del alma +100
-Service_1011=Item Drop Rate +20
+Service_1009=Daño contra enemigos (PvE) +3%
+Service_1010=Ganancia de EXP de alma +100%
+Service_1011=Item drop rate +20%
 Service_1012=1 Opción extra de Reinicio
 Service_1013=1 Ranura de Alquimia adicional
-Service_1014=Tickets de Entrada a la Arena +2
+Service_1014=Entradas a AI arena +2
 Service_1015=Cuenta de Registro de Items Redzen +5
-Service_1016=Tarifa de Comercio (Zen,Redzen) cambiada a 3%.
+Service_1016=Tarifa de comercio de bazar reducida a 3%.
 
 [PlatinumServiceBenefit]
 Service_1=Gemas Mágicas gratis cada día
