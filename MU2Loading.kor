@@ -52,7 +52,7 @@ Loading_50=Antes de entrar en Lupa's Labyrinth, asegúrate de <font color='#FFD1
 Loading_51=Las Dungeons Épicas son extremadamente difíciles. Te recomendamos que <font color='#FFD144'>entrenes en las Dungeons Míticas y en Lupa's Labyrinth antes de aceptar el desafío</font>.
 Loading_52=Antes de entrar en Lupa's Labyrinth, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
 Loading_53=Antes de entrar en Lupa's Labyrinth, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
-Loading_54=<font color='#FFD144'>Los items establecidos o mejores</font> no pueden ser intercambiados entre usuarios o a través del Corredor de Comercio.
+Loading_54=<font color='#FFD144'>Los items establecidos o mejores</font> no pueden ser intercambiados entre usuarios o a través del Bazar.
 Loading_55=<font color='#FFD144'>Pasar el ratón + Ctrl</font> sobre el icono del item activa la función <font color='#FFD144'>Vista Previa</font>.
 Loading_56=En la Arena IA, puedes conseguir hasta 30.000 <font color='#FFD144'>Gemas Mágicas</font> al día.
 Loading_57=<font color='#FFD144'>Los Sellos de Poder</font> que se encuentran en la Endless Tower pueden usarse para comprar Piedras de Encantamiento/Evolución de Alas.
@@ -67,7 +67,7 @@ Loading_65=Cada <font color='#FFD144'>Cubo</font> puede generar un item hasta 3 
 Loading_66=Utiliza la opción <font color='#FFD144'>Cambiar Habilidad</font> para el crecimiento estratégico de tu personaje.
 Loading_67=Equipa <font color='#FFD144'>Joyas y Piedras del Alma</font> para mejorar las habilidades de tu personaje.
 Loading_68=Puedes recoger materiales <font color='#FFD144'>Joyas y Piedras del Alma</font> de monstruos en Dungeons y otros lugares de caza.
-Loading_69=Los items <font color='#FFD144'>pueden ser vendidos por Redzen</font> a través del Corredor de Comercio en Ohrdor.
+Loading_69=Los items <font color='#FFD144'>pueden ser vendidos por Redzen</font> a través del Bazar en Ohrdor.
 Loading_70=Los artefactos de <font color='#FFD144'>Nivel 20 o superior</font> pueden ser usados para Alquimia. La Alquimia, sin embargo, destruye completamente los Artefactos.
 Loading_71=La Alquimia lleva mucho tiempo, pero puedes <font color='#FFD144'>acortar su duración</font> por un precio.
 Loading_72=Los Artefactos, cuando se Alquimizan, se destruyen y dejan los materiales de artesanía extremadamente raros, <font color='#FFD144'>Piedras de Sabio</font>.
@@ -160,10 +160,10 @@ Loading_158=<font color='#FFD144'>Defensa de la Nave</font> requiere <font color
 Loading_159=<font color='#FFD144'>Defensa de la Nave</font> es accesible a través de <font color='#FFD144'>Puerto del Guild en Ohrdor</font>.
 Loading_160=En <font color='#FFD144'>Defensa de la Nave</font>, puedes ganar <font color='#FFD144'>materiales de crecimiento Talismán</font>.
 Loading_161=<font color='#FFD144'>Alquimiza Artefactos de Nivel 100</font> para conseguir <font color='#FFD144'>Artefactos Awakened</font>.
-Loading_162=Cuando estés en el <font color='#FFD144'>Laberinto Despertado de Lupa</font>, ¡ten cuidado de no ser arrastrado a la <font color='#FFD144'>Cámara Negra</font>!
+Loading_162=Cuando estés en<font color='#FFD144'>Lupa's Awakened Labrynth</font>, ¡ten cuidado de no ser arrastrado a la <font color='#FFD144'>Cámara Negra</font>!
 Loading_163=¡En la <font color='#FFD144'>Endless Tower</font>, consigue <font color='#FFD144'>Sellos de Trascendencia</font> y úsalos para encantar y Evolucionar Alas de Nivel 4!
 Loading_164=La <font color='#FFD144'>Bóveda Secreta Abandonada</font> a veces ofrece enormes cantidades de <font color='#FFD144'>Zen</font>.
-Loading_165=<font color='#FFD144'>Los Fragmentos Awakened</font> se pueden encontrar en <font color='#FFD144'>El Laberinto Despertado de Lupa</font>.
+Loading_165=<font color='#FFD144'>Los Fragmentos Awakened</font> se pueden encontrar en <font color='#FFD144'>Lupa's Awakened Labrynth</font>.
 Loading_166=Los Talismanes pueden ser activados en <font color='#FFD144'>Nivel 70</font> si completas las misiones necesarias.
 Loading_167=<font color='#FFD144'>Los Artefactos Awakened</font> tienen por defecto los efectos de su <font color='#FFD144'>versión básica</font> a nivel 100.
 Loading_168=El <font color='#FFD144'>Libro de Talismán</font> tiene niveles. Sube de nivel tu libro y hazte más fuerte.

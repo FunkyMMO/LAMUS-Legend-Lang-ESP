@@ -1767,12 +1767,12 @@ Msg_Mailbox_ItemTypeChange_ITEM_CONTENT=Le reenviamos los elementos cuyo conteni
 Msg_Mailbox_ItemEnchantFailReward_ITEM_SUBJECT=[Fallo Encantamiento] Acepta este Item
 Msg_Mailbox_ItemEnchantFailReward_ITEM_SENDER=Gestor de Mejoras
 Msg_Mailbox_ItemEnchantFailReward_ITEM_CONTENT=Este Item se envía como compensación por un fallo de mejora.
-Msg_Mailbox_Exchange_ITEM_SUBJECT=[Puesto Comercial] Acepta tus Items
-Msg_Mailbox_Exchange_ITEM_SENDER=Puesto de Comercio
-Msg_Mailbox_Exchange_ITEM_CONTENT=Has comprado estos Items a través del Corredor de Comercio.
+Msg_Mailbox_Exchange_ITEM_SUBJECT=[Bazar] Acepta tus items
+Msg_Mailbox_Exchange_ITEM_SENDER=Gerente del Bazar
+Msg_Mailbox_Exchange_ITEM_CONTENT=Has comprado estos items a través del Bazar.
 Msg_Mailbox_Exchange_CANCEL_SUBJECT=[Puesto Comercial] Venta de Item cancelada
-Msg_Mailbox_Exchange_CANCEL_SENDER=Puesto de Comercio
-Msg_Mailbox_Exchange_CANCEL_CONTENT=Has cancelado la venta de estos Items a través del Corredor de Comercio.
+Msg_Mailbox_Exchange_CANCEL_SENDER=Gerente del Bazar
+Msg_Mailbox_Exchange_CANCEL_CONTENT=Has cancelado la venta de estos items a través del Bazar.
 Msg_Mailbox_ACCOUNT_LEVEL_REWARD_SUBJECT_INDEX01=Recompensa por logro de nivel 65 emitida.
 Msg_Mailbox_ACCOUNT_LEVEL_REWARD_SUBJECT_INDEX02=Recompensa por logro de cuenta nivel 130 emitida.
 Msg_Mailbox_ACCOUNT_LEVEL_REWARD_SUBJECT_INDEX03=Recompensa por logro emitida por cuenta de nivel 195.
@@ -2949,7 +2949,7 @@ ContentsDesc_13=Equipos de 3 jugadores pueden luchar entre sí.<br><br>- Gana el
 ContentsDesc_14=Pit of the Dead es significativamente más desafiante que las Dungeons épicas más duras. Su nivel de dificultad más alto es más duro que Lupa's Labyrinth de nivel 100.<br><br>- Consta de 3 fases.<br>- Debes superar cada fase dentro del tiempo límite para pasar a la siguiente.<br>- Cada fase consta de múltiples monstruos Jefe y Élite.<br>- Puedes conseguir Cubos Aveeter/Fantasma, que contienen Accesorios de Set.
 ContentsDesc_15=La Cueva del Demonio de Fuego es donde reside el Monarca Naklokhan, llena de lava hirviendo y llamas abrasadoras. <br>Naklokhan está empeñado en derretir la Cueva del Demonio de Hielo, para vengarse de su archienemiga y dueña de la cueva, Avalanchera. <br>La Cueva del Demonio de Fuego es difícil, recomendada para Guardianes con al menos 180.000 de Poder de Combate.
 ContentsDesc_16=La Cueva del Demonio de Hielo es donde reside la monarca Avalanchera, llena de nieve y hielo. <br>Avalanchera está empeñado en congelar la Cueva del Demonio de Fuego, para vengarse de su archienemigo y dueño de la cueva, Naklokhan. <br>La Cueva del Demonio de Hielo es difícil, recomendada para Guardianes con al menos 180.000 de Poder de Combate.
-ContentsDesc_17=Cuando el reloj de Lupa se rompió, cambió radicalmente el Laberinto. Puedes manipular la energía oscura dentro del Laberinto y abrirte camino a través de numerosas etapas.<br><br>- Accesible a través de Room of Duty en Ohrdor.<br>- Abundante en recompensas por fabricar y hacer Mejorar tus Artefactos.<br>- Para hacer Mejorar tu Artefacto rápidamente, llena el medidor al 100% dentro del límite de tiempo matando monstruos. <br>Si dejas que el residuo espiritual dentro de este Laberinto deformado se acumule hasta cierta cantidad, te enfrentarás a un gran desafío.<br><font color='#FDD889'>La dificultad aumenta aún más a partir de la fase 51 del Laberinto Despertado de Lupa, con monstruos de más de nivel 80 que empiezan a aparecer.</font><br><font color='#FDD889'>Los Comerciantes Negros también empiezan a aparecer a partir de la fase 51 y se pueden conseguir cubos especiales como recompensa.</font>
+ContentsDesc_17=Cuando el reloj de Lupa se rompió, cambió radicalmente el Laberinto. Puedes manipular la energía oscura dentro del Laberinto y abrirte camino a través de numerosas etapas.<br><br>- Accesible a través de Room of Duty en Ohrdor.<br>- Abundante en recompensas por fabricar y hacer Mejorar tus Artefactos.<br>- Para hacer Mejorar tu Artefacto rápidamente, llena el medidor al 100% dentro del límite de tiempo matando monstruos. <br>Si dejas que el residuo espiritual dentro de este Laberinto deformado se acumule hasta cierta cantidad, te enfrentarás a un gran desafío.<br><font color='#FDD889'>La dificultad aumenta aún más a partir de la fase 51 del Lupa's Awakened Labrynth, con monstruos de más de nivel 80 que empiezan a aparecer.</font><br><font color='#FDD889'>Los Comerciantes Negros también empiezan a aparecer a partir de la fase 51 y se pueden conseguir cubos especiales como recompensa.</font>
 ContentsDesc_18=Significa la escaramuza del avance del continente devildom, y el avance a devildom puede ser posible algún día si la tecnología de desarrollo del guantelete se actualiza y la ruta es pionera.<br><br>- Se puede entrar por Ohrdor > Guilds Harbor. <br>- Tiene una dificultad alta y se recomienda el cooperativo.<br>- Puedes adquirir recompensas especiales de Kyle completando la misión diaria (ESC).<br><br><font color='#FDD889'>- Los monstruos de Lv. 80 aparecen en la dificultad 2 de la defensa del avión, y la dificultad y la recompensa aumentan aún más.</font>
 ContentsDesc_19=El Área Restringida 6-1 es una formidable Dungeon en la que los Ashase llevaron a cabo un plan secreto. Esta Dungeon es mucho más difícil que las Dungeons Míticas.<br><br>- Las Dungeons Épicas tienen un nivel de dificultad muy alto.<br><font color='#FE6D03'>- Solo los personajes con al menos 280.000 de Poder de Combate pueden entrar en ellas.<br></font>- Te recomendamos que entrenes en las Dungeons Míticas y en Lupa's Labyrinth hasta que cumplas el requisito de Poder de Combate de las Dungeons Épicas.
 ContentsDesc_20=Rugard y Bulcan pondrán a prueba vuestra fuerza y trabajo en equipo como Guardianes. Superad las distintas pruebas de los dioses, y os haréis más fuertes como Guardianes.<br><br>- El campo de pruebas se crea en algún lugar de Wellspring Haven, Noria.<br>- El Mensajero de los Dioses aparece a intervalos regulares, y a aquellos que lo derroten les esperan recompensas.<br><font color='#FE6D03'>- El Mensajero de los Dioses tiene HP muy altos. Derrotarlo requiere la cooperación de muchos Guardianes.</font>
@@ -3250,7 +3250,7 @@ DailySubMission_1_6_0=Mítico 1 o superior: Completa el Pozo de las Pesadillas.
 DailySubMission_1_6_1=Deber: Completar Gem Mine.
 DailySubMission_1_6_2=Deber: Completa Fabrice Garden.
 DailySubMission_2_100_0=Despeja el Laberinto de Escamas, Fase Mítica 1
-DailySubMission_2_100_1=Despeja el Laberinto Despertado de Lupa.
+DailySubMission_2_100_1=Despeja Lupa's Awakened Labrynth.
 DailySubMission_2_100_2=Completa la planta 50 o superior de la Endless Tower.
 DailySubMission_2_101_0=Superar Descanso del peregrino, fase mítica 1
 DailySubMission_2_101_1=Supera el Laberinto del Despertar de Lupa.

@@ -98,14 +98,9 @@ Contents_41000=El objetivo del modo Invasión de Monstruos es proteger las 3 pie
 Contents_42000=El objetivo del modo Asalto al jefe de campo es <font color='FDD889'>eliminar al monstruo jefe dentro del tiempo límite</font>. El monstruo Raid Boss huye cuando pierde HP. Puedes detener su huida infligiéndole un gran daño.
 Contents_43000=El objetivo del modo Incursión del Jefe de Campo es <font color='FDD889'>eliminar al monstruo jefe dentro del límite de tiempo</font>. El monstruo Raid Boss huye cuando pierde HP. Puedes detener su huida infligiéndole un gran daño.
 Contents_44000=El objetivo del modo Incursión del Jefe de Campo es <font color='FDD889'>eliminar al monstruo jefe dentro del límite de tiempo</font>. El monstruo Raid Boss huye cuando pierde HP. Puedes detener su huida infligiéndole un gran daño.
-<<<<<<< HEAD
-Contents_45000=En el modo cooperativo 3:3, gana el equipo que consiga más puntos de muerte que el otro dentro del límite de tiempo.<br>Los ganadores obtienen <font color='FDD889'>Fichas de luchador</font>, que pueden canjearse por otros recursos del juego a través del Mercader PvP de Ohrdor.
-Contents_47000=<br>- <font color='#FDD889'>Múltiples Monstruos Jefes</font> aparecen en Pit of the Dead!<br>- Supera cada fase rápidamente para tener la oportunidad de conocer al <font color='#FDD889'>Mercader Negro</font>, ¡que vende objetos raros!
-=======
 Contents_45000=En el modo cooperativo 3:3, gana el equipo que consiga más puntos de muerte que el otro dentro del límite de tiempo.<br>Los ganadores obtienen <font color='FDD889'>Fichas de luchador</font>, que pueden canjearse por otros recursos del juego a través del Mercader PvP de Ohrdor.
 Contents_47000=<br>- <font color='#FDD889'>Múltiples Monstruos Jefes</font> aparecen en Pit of the Dead!<br>- Supera cada fase rápidamente para tener la oportunidad de conocer al <font color='#FDD889'>Mercader Negro</font>, ¡que vende items raros!
->>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
-Contents_48000=Has obtenido un <font color='#FDD889'>Artefacto Awakened</font>. Los Artefactos Awakened pueden cultivarse a través del <font color='#FDD889'>Laberinto Despertado</font>.
+Contents_48000=Has obtenido un <font color='#FDD889'>Artefacto Awakened</font>. Los Artefactos Awakened pueden cultivarse a través del <font color='#FDD889'>Lupa's Awakened Labrynth</font>.
 Contents_49000=Has entrado en la <font color='#FDD889'>Airship Defense</font>.<br>¡Utiliza tus <font color='#FDD889'>habilidades de Talismán</font> y protege la aeronave!
 Contents_53000=Los <font color='#FDD889'>Antiguos Artefactos, Talismanes</font><font color='#FDD889'>, han sido desbloqueados.<br>Pulsa el botón <font color='#FDD889'>Detalles</font> para más detalles.
 Contents_54000=Crea y cultiva <font color='#FDD889'>Talismanes</font> para conseguir Puntos de Libro.<br>Tu Nivel de Libro aumenta a medida que ganas Puntos de Libro, y las estadísticas de tu personaje mejoran significativamente.
@@ -117,7 +112,7 @@ Contents_59000=¡Puedes aprender una <font color='#FDD889'>nueva Habilidad de Ex
 Contents_60000=¡Felicidades! <font color='#FDD889'>¡Has alcanzado el Nivel 65!</font><br>- Has adquirido una <font color='#FDD889'>nueva Ranura de Habilidad Experta</font>. <br>- Has recibido el potenciador <font color='#FDD889'>Brote Creciente</font>. <br>- Puedes aprender fácilmente cómo progresar a través de <font color='#FDD889'>Entrenamiento de Progresión de Linda</font>.<br>- Pulsa el botón <font color='#FDD889'>Detalles</font> para ver más información.
 Contents_61000=<font color='#FDD889'>Ohrdor</font> ofrece todas las comodidades que puedas pedir!<br>- Podrás disfrutar de varios Mapas de Misión en la <font color='#FDD889'>Room of Duty</font>.
 Contents_62000=<font color='#FDD889'>¡Has conseguido un artefacto!</font><br>- <font color='#FDD889'>Los artefactos</font> pueden aumentar significativamente tu progreso. Cada tipo ofrece un efecto diferente.<br>- Pulsa el botón <font color='#FDD889'>Detalles</font> para obtener más información.
-Contents_63000=¡Felicidades! <font color='#FDD889'>¡Has alcanzado el nivel 70!</font><br>- Ahora puedes adquirir un <font color='#FDD889'>Talismán.</font><br>- Ahora puedes probar suerte en <font color='#FDD889'>El Laberinto Despertado de Lupa</font>. <br>- Ahora puedes acceder al <font color='#FDD889'>Centro de Entrenamiento de Iris</font>.<br>- Pulsa el botón <font color='#FDD889'>Detalles</font> para obtener más información.
+Contents_63000=¡Felicidades! <font color='#FDD889'>¡Has alcanzado el nivel 70!</font><br>- Ahora puedes adquirir un <font color='#FDD889'>Talismán.</font><br>- Ahora puedes probar suerte en <font color='#FDD889'>Lupa's Awakened Labrynth</font>. <br>- Ahora puedes acceder al <font color='#FDD889'>Centro de Entrenamiento de Iris</font>.<br>- Pulsa el botón <font color='#FDD889'>Detalles</font> para obtener más información.
 Contents_64000=<font color='#FDD889'>¡Comienza tu aventura en Noria!</font><br>- ¿Has estado tomando el <font color='#FDD889'>Entrenamiento de Progresión de Linda?</font><br>- ¿Has equipado tus <font color='#FDD889'>Artefactos?</font>? <br>- El nivel de dificultad aumentará en Noria. ¡Asegúrate de estar completamente preparado!
 Contents_65000=<font color='#FDD889'>¡Se ha despertado un nuevo poder!</font><br>- Has adquirido una <font color='#FDD889'>nueva Ranura de Habilidad Experta</font>.<br>- ¡Puedes usar una <font color='#FDD889'>nueva rama del árbol de almas</font>!
 Contents_66000=<font color='#FDD889'>Se ha desbloqueado una nueva zona en Noria.</font><br>- ¡Tu aventura en Noria continúa!<br>- Ahora puedes hacer Mejorar tu personaje hasta el Nivel 80.
@@ -151,7 +146,7 @@ Content_GuideLink_1=1003002
 Content_Image_1=SuperGuía_04
 Content_Title_2=Metrópolis Ohrdor
 Content_SubTitle_2=Ohrdor, la ciudad más grande del continente MU, ofrece todas las comodidades posibles.
-Content_Text_2=- Puedes jugar varios mapas de Misión en la Room of Duty en Ohrdor.<br>- Puedes aprender habilidades de Experto, usar el Corredor de Comercio, y conocer al Gerente del Guild.
+Content_Text_2=- Puedes jugar varios mapas de Misión en la Room of Duty en Ohrdor.<br>- Puedes aprender habilidades de Experto, usar el Bazar, y conocer al Gerente del Guild.
 Content_GuideLink_2=1023001
 Content_Image_2=SuperGuía_05
 Content_Title_3=Fabrice Garden
@@ -226,9 +221,9 @@ Content_SubTitle_2=¡Usa las habilidades del talismán!
 Content_Text_2=- Defiende una aeronave contra 20 oleadas de poderosos invasores de Pandemonium.<br>- Accesible desde el Puerto del Guild en Ohrdor.<br>- Usa habilidades de Talismán para triunfar en la batalla.
 Content_GuideLink_2=1048001
 Content_Image_2=SuperGuía_21
-Content_Title_3=El Laberinto Despertado de Lupa
+Content_Title_3=Lupa's Awakened Labrynth
 Content_SubTitle_3=Laberinto más poderoso
-Content_Text_3=- El Laberinto Despertado de Lupa consta de un total de 50 niveles y tiene un nivel de dificultad muy alto.<br>- Es accesible desde la Room of Duty, igual que su versión normal.<br>- ¡Crea y mejora Artefactos Awakened!
+Content_Text_3=- Lupa's Awakened Labrynth consta de un total de 50 niveles y tiene un nivel de dificultad muy alto.<br>- Es accesible desde la Room of Duty, igual que su versión normal.<br>- ¡Crea y mejora Artefactos Awakened!
 Content_GuideLink_3=1023009
 Content_Image_3=SuperGuía_22
 

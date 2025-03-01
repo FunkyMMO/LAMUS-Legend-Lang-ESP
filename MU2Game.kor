@@ -1710,7 +1710,7 @@ mailTile=Titulo:
 tfLimitSendChars=Cuento de caracteres
 mailChargeTitle=Cargo de envío
 readTitle=Leer correo
-senderTitle=Remitente
+senderTitle=Remitente:
 sendMoneyTitle=Importe adjunto
 sendItemTitle=Item adjunto
 btnReply=Responder
@@ -4228,7 +4228,7 @@ LS_ArtifactLvDesc[2]=La Dificultad es mayor que el nivel de crecimiento del Arte
 LS_ArtifactLvDesc[3]=La Dificultad es menor que el nivel de crecimiento del Artefacto.<br>¡Un desafío débil!<br><font color='#FF0000'>Obtendrás EXP de Artefacto reducida.</font>
 LS_AutoPartyMatchingToolTip=Jugadores en la cola de emparejamiento automático.
 LS_LevelStep=Etapa %s_1
-LS_AwakenMazeLodTitle=Dificultad Laberinto Despertado
+LS_AwakenMazeLodTitle=Dificultad Lupa's Awakened Labrynth
 LS_MazeofRupa=Dificultad Normal
 LS_MazeofAwakenRupa=Dificultad Despertado
 LS_Awaken=Despertar
