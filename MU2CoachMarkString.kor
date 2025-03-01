@@ -27,9 +27,9 @@ Title_26000=Artefacto obtenido
 Title_27000=Construcción
 Title_28000=Contribution
 Title_29000=AI Arena
-Title_30000=Laberinto de Lupa
+Title_30000=Lupa's Labyrinth
 Title_31000=¡Comienza tu verdadera aventura!
-Title_35000=Laberinto de Lupa
+Title_35000=Lupa's Labyrinth
 Title_37000=Crecimiento y evolución de mascotas
 Title_38000=Piedra de crecimiento de alas
 Title_39000=Invasión de monstruos
@@ -82,7 +82,7 @@ Contents_20000=La Room of Duty te lleva a varios <font color='#FDD889'>mapas de 
 Contents_21000=Derrota a los monstruos para <font color='#FDD889'>llenar el Medidor de Trenta</font> y pasar a la siguiente planta.<br>Puedes obtener <font color='#FDD889'>un gran número de Gemas Mágicas</font> en la Mina de Gemas Mágicas.
 Contents_22000=Derrota monstruos para <font color='#FDD889'>llenar el Medidor de Trenta</font> y pasar a la siguiente planta.<br>Puedes obtener <font color='#FDD889'>una gran cantidad de Zen</font> en la Bóveda Secreta.
 Contents_23000=Caza monstruos y <font color='#FDD889'>llena el medidor de Trenta</font> para pasar a la siguiente planta.<br>Este jardín es <font color='#FDD889'>abundante en materiales de artesanía y pociones raras</font>.
-Contents_25000=Puedes fabricar y equipar artefactos cuando alcances el <font color='#FDD889'>nivel 65</font>. Puedes mejorar los artefactos ganando EXP de artefacto en <font color='#FDD889'>Laberinto de Lupa</font>.<br>A medida que los artefactos mejoran, sus efectos se potencian.
+Contents_25000=Puedes fabricar y equipar artefactos cuando alcances el <font color='#FDD889'>nivel 65</font>. Puedes mejorar los artefactos ganando EXP de artefacto en <font color='#FDD889'>Lupa's Labyrinth</font>.<br>A medida que los artefactos mejoran, sus efectos se potencian.
 Contents_26000=Puedes comprobar y equipar artefactos en Gestionar artefacto (X). Para hacer crecer un artefacto, debes <font color='#FDD889'>seleccionarlo como tu Artefacto de Crecimiento</font>.<br>Los artefactos que no estén seleccionados como Artefacto de Crecimiento no pueden crecer.
 Contents_27000=Puedes unirte a una <font color='#FDD889'>Guilda o comprobar la información de la Guilda</font> en la ventana de la Guilda.
 Contents_28000=<font color='#FDD889'>Contribución</font> es el dinero del Guild que se usa para las actividades del Guild. Podrás usarlo en la Tienda de Contribución después de que la Guerra de Facción se implemente en el juego.
@@ -185,9 +185,9 @@ Content_SubTitle_1=Un eje del nivel de dificultad más alto
 Content_Text_1=- Acepta el reto del nivel Mítico, uno de los niveles de dificultad más altos del juego.<br>- La última Dungeon de cada continente tiene disponible la dificultad Mítica.<br>- Jugar Dungeons de dificultad Mítica alimenta el crecimiento de tu personaje. Una vez que domines la dificultad Mítica, podrás pasar a las Dungeons Épicas.
 Content_GuideLink_1=1019004
 Content_Image_1=SuperGuía_13
-Content_Title_2=Laberinto de Lupa
+Content_Title_2=Lupa's Labyrinth
 Content_SubTitle_2=Contenido de Crecimiento de Artefacto
-Content_Text_2=- El Laberinto de Lupa es un mapa de Misión único cuya dificultad se puede elegir entre 100 niveles diferentes.<br>- Se puede acceder a él a través de la Room of Duty en Ohrdor.<br>- Puedes crear y hacer crecer artefactos a través del Laberinto de Lupa.
+Content_Text_2=- El Lupa's Labyrinth es un mapa de Misión único cuya dificultad se puede elegir entre 100 niveles diferentes.<br>- Se puede acceder a él a través de la Room of Duty en Ohrdor.<br>- Puedes crear y hacer crecer artefactos a través del Lupa's Labyrinth.
 Content_GuideLink_2=1023007
 Content_Image_2=SuperGuía_11
 Content_Title_3=Endless Tower
@@ -210,7 +210,7 @@ Content_GuideLink_2=1047001
 Content_Image_2=SuperGuía_17
 Content_Title_3=Artefactos despertados
 Content_SubTitle_3=Contenido de artefactos despertados
-Content_Text_3=- A nivel 70, puedes entrar en el Laberinto de Lupa en el modo Despertado.<br>- En el modo Despertado, puedes obtener materiales para fabricar Artefactos Despertados y obtener nuevos efectos.
+Content_Text_3=- A nivel 70, puedes entrar en el Lupa's Labyrinth en el modo Despertado.<br>- En el modo Despertado, puedes obtener materiales para fabricar Artefactos Despertados y obtener nuevos efectos.
 Content_GuideLink_3=1024006
 Content_Image_3=SuperGuía_18
 
@@ -275,9 +275,9 @@ Content_SubTitle_1=Poderosos items de crecimiento
 Content_Text_1=- ¡Has recibido un Artefacto de Kundun!<br>- Hay varios tipos de Artefactos. Cada Artefacto tiene un efecto poderoso.<br>- Abre la ventana de Artefactos (X) para comprobar y elaborar Artefactos.
 Content_GuideLink_1=1024001
 Content_Image_1=SuperGuía_12
-Content_Title_2=Laberinto de Lupa
+Content_Title_2=Lupa's Labyrinth
 Content_SubTitle_2=Contenido de crecimiento de artefactos
-Content_Text_2=- El Laberinto de Lupa es un Mapa de Misión único con hasta 100 niveles de dificultad.<br>- ¡Derrota al Depredador de la Rift del Laberinto y gana EXP de Artefacto! <br>- El Laberinto de Lupa se encuentra en la Room of Duty.
+Content_Text_2=- El Lupa's Labyrinth es un Mapa de Misión único con hasta 100 niveles de dificultad.<br>- ¡Derrota al Depredador de la Rift del Laberinto y gana EXP de Artefacto! <br>- El Lupa's Labyrinth se encuentra en la Room of Duty.
 Content_GuideLink_2=1023007
 Content_Image_2=SuperGuía_11
 Content_Title_3=Alquimia de artefactos
@@ -308,7 +308,7 @@ Content_Image_3=SuperGuía_30
 SuperGuideTitle=¡Felicidades por alcanzar el nivel 80!
 Content_Title_1=Room of Duty
 Content_SubTitle_1=Varios mapas de misiones
-Content_Text_1=- La Room of Duty ofrece varios Mapas de Misión como la Torre Interminable y el Laberinto de Lupa. <br>- Puedes hacer crecer a tu personaje sin fin a través de los Mapas de Misión.
+Content_Text_1=- La Room of Duty ofrece varios Mapas de Misión como la Torre Interminable y el Lupa's Labyrinth. <br>- Puedes hacer crecer a tu personaje sin fin a través de los Mapas de Misión.
 Content_GuideLink_1=1023001
 Content_Image_1=SuperGuía_26
 Content_Title_2=Dungeons Épicas y Míticas

@@ -3633,7 +3633,7 @@ Dungeon_Desc_9062121=Un frondoso bosque que solía ser el campo de entrenamiento
 Dungeon_Title_9062221=Templo de Sapientia
 Dungeon_Desc_9062221=Templo que rinde culto a la Diosa Sapientia, creadora de los elfos y símbolo de la sabiduría.<br>Un gran ejército de Ashas ha invadido el templo, atacando el Árbol del Aliento del Mundo.
 Dungeon_Title_9062321=Ruinas del Pionero
-Dungeon_Desc_9062321=Un antiguo lugar donde está enterrado Pabillune, el líder espiritual de los primeros colonos Ashas de Noria.<br>Los elfos oscuros y sus fuerzas de coalición han invadido el lugar, buscando venganza por el Templo Sapientia.
+Dungeon_Desc_9062321=Un antiguo lugar donde está enterrado Pabillune, el líder espiritual de los primeros colonos Ashas de Noria.<br>Los elfos oscuros y sus fuerzas de coalición han invadido el lugar, buscando venganza por el Sapientia Temple.
 Dungeon_Title_9062421=Laberinto de Escamas
 Dungeon_Desc_9062421=El campamento base de los Naga, la raza autóctona de criaturas demoníacas de la Isla de la Luna Creciente.<br>La zona interior está enmarañada como una tela de araña, muy parecida a un laberinto ineludible.
 Dungeon_Title_9062422=Descanso del Peregrino
@@ -4219,7 +4219,7 @@ LS_DungeonDesc_9920101=El nivel de dificultad de la Endless Tower varía dependi
 LS_DungeonDesc_9920201=El nivel de dificultad del Castillo Sangriento varía en función del <font color='#B4FE42'>número de miembros de tu grupo</font>.
 LS_DungeonDesc_9040101=Solo puedes entrar en esta Dungeon solo,<br>no con tu grupo.
 LS_DungeonDesc_9040102=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
-LS_DungeonDesc_9203001=El Laberinto de Lupa es un Mapa de Misión de alta dificultad, abundante en materiales de craft de Artefactos y diseñado para ayudar a mejorar los Artefactos.
+LS_DungeonDesc_9203001=El Lupa's Labyrinth es un Mapa de Misión de alta dificultad, abundante en materiales de craft de Artefactos y diseñado para ayudar a mejorar los Artefactos.
 LS_DungeonDesc_9040364=Descripción del Laberinto de Puzzles
 LS_DungeonDesc_9062408=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
 LS_ArtifactLvDesc[0]=<font color='#FF0000'>¡Selecciona un Artefacto para cultivar!</font><br>Si no hay un Artefacto para cultivar,<br>no puedes ganar EXP de Artefacto.

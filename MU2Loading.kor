@@ -23,7 +23,7 @@ Loading_21=Utiliza el <font color='#FFD144'>Dispositivo Portal del Pueblo</font>
 Loading_22=<font color='#FFD144'>Las Gemas Mágicas</font> se usan para encantar, evolucionar y comprar items especiales.
 Loading_23=El nivel del monstruo en la Rift coincide con el del miembro del grupo con el <font color='#FFD144'>nivel más alto</font>.
 Loading_24=Puedes obtener fácilmente equipo <font color='#FFD144'>que coincida con tu nivel</font> en la Rift.
-Loading_25=Las Dungeons Épicas y el Laberinto de Lupa tienen un <font color='#FFD144'>límite de uso de «Resucitar Ahora»</font>. Usa las Piedras de Resurrección con cuidado.
+Loading_25=Las Dungeons Épicas y el Lupa's Labyrinth tienen un <font color='#FFD144'>límite de uso de «Resucitar Ahora»</font>. Usa las Piedras de Resurrección con cuidado.
 Loading_26=¡Envía la Rift a <font color='#FFD144'>Overdrive (N)</font> y consigue grandes cantidades de Gemas Mágicas!
 Loading_27=La Rift, mientras está en modo <font color='#FFD144'>Overdrive (N)</font>, puede ser introducida un número ilimitado de veces.
 Loading_28=Si tienes suerte, puedes encontrarte con los <font color='#FFD144'>Monstruos de la Suerte Dorada</font> en algún lugar de los campos.
@@ -47,11 +47,11 @@ Loading_45=Puedes moverte a otros continentes a través de una <font color='#FFD
 Loading_46=LAMUS Legend tiene 3 niveles de dificultad: <font color='#FFD144'>Normal, Mítico y Épico</font>.
 Loading_47=¿El juego es demasiado fácil para ti? Prueba a subir la <font color='#FFD144'>dificultad</font> de la Dungeon.
 Loading_48=Cuando alcanzas el Nivel 65, puedes <font color='#FFD144'>crear y cultivar Artefactos</font> que pueden aumentar enormemente tu crecimiento.
-Loading_49=No puedes crear o cultivar <font color='#FFD144'>Artefactos (X)</font> sin explorar <font color='#FFD144'>El Laberinto de Lupa</font>.
-Loading_50=Antes de entrar en el Laberinto de Lupa, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
-Loading_51=Las Dungeons Épicas son extremadamente difíciles. Te recomendamos que <font color='#FFD144'>entrenes en las Dungeons Míticas y en el Laberinto de Lupa antes de aceptar el desafío</font>.
-Loading_52=Antes de entrar en el Laberinto de Lupa, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
-Loading_53=Antes de entrar en el Laberinto de Lupa, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
+Loading_49=No puedes crear o cultivar <font color='#FFD144'>Artefactos (X)</font> sin explorar <font color='#FFD144'>El Lupa's Labyrinth</font>.
+Loading_50=Antes de entrar en el Lupa's Labyrinth, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
+Loading_51=Las Dungeons Épicas son extremadamente difíciles. Te recomendamos que <font color='#FFD144'>entrenes en las Dungeons Míticas y en el Lupa's Labyrinth antes de aceptar el desafío</font>.
+Loading_52=Antes de entrar en el Lupa's Labyrinth, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
+Loading_53=Antes de entrar en el Lupa's Labyrinth, asegúrate de <font color='#FFD144'>crear un artefacto y establecerlo como tu artefacto de Crecimiento</font>.
 Loading_54=<font color='#FFD144'>Los items establecidos o mejores</font> no pueden ser intercambiados entre usuarios o a través del Corredor de Comercio.
 Loading_55=<font color='#FFD144'>Pasar el ratón + Ctrl</font> sobre el icono del item activa la función <font color='#FFD144'>Vista Previa</font>.
 Loading_56=En la Arena IA, puedes conseguir hasta 30.000 <font color='#FFD144'>Gemas Mágicas</font> al día.
@@ -160,7 +160,7 @@ Loading_153=¿Tus <font color='#FFD144'>Artefactos</font> han sido <font color='
 Loading_154=<font color='#FFD144'>Los Artefactos Recuperados</font> pueden ser <font color='#FFD144'>utilizados tal cual</font> o tener su <font color='#FFD144'>crecimiento transferido</font> a otro Artefacto.
 Loading_155=En la <font color='#FFD144'>Refinería de items</font>, puedes refinar <font color='#FFD144'>items premium</font> para conseguir otros items premium.
 Loading_156=Puedes conseguir varios items a través de las <font color='#FFD144'>Aventuras de Mascotas</font> diarias.
-Loading_157=<font color='#FFD144'>El Laberinto de Lupa</font> requiere <font color='#FFD144'>Nivel 70</font> y <font color='#FFD144'>Laberinto de Lupa Nivel 100</font>.
+Loading_157=<font color='#FFD144'>El Lupa's Labyrinth</font> requiere <font color='#FFD144'>Nivel 70</font> y <font color='#FFD144'>Lupa's Labyrinth Nivel 100</font>.
 Loading_158=<font color='#FFD144'>Defensa de la Nave</font> requiere <font color='#FFD144'>Nivel 70</font>.
 Loading_159=<font color='#FFD144'>Defensa de la Nave</font> es accesible a través de <font color='#FFD144'>Puerto del Guild en Ohrdor</font>.
 Loading_160=En <font color='#FFD144'>Defensa de la Nave</font>, puedes ganar <font color='#FFD144'>materiales de crecimiento Talismán</font>.
