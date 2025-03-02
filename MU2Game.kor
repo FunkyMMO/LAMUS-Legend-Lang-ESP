@@ -2235,8 +2235,8 @@ LS_SaleItem=: Vender Item
 LS_RegisterItem=: Registrar Item
 LS_CancelRegisterItem=: Cancelar registro de Item
 LS_Menu=: Menú
-LS_DivideBuyItem=: Seleccionar cantidad de items de compra
-LS_DivideSellItem=: Seleccionar la cantidad de items de venta
+LS_DivideBuyItem=: Comprar en cantidad
+LS_DivideSellItem=: Vender en cantidad
 LS_GambleItem=: Abrir todos los Items
 LS_CubeMultipleOpen=: Abrir todos los cubos a la vez
 
