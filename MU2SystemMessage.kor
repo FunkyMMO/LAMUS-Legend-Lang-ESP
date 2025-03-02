@@ -1288,14 +1288,14 @@ Msg_Mine_Message_2=La Urdimbre de Rift es fuerte. Serás forzado al frente del p
 Msg_Mine_Message_3=No puedes resistir la fuerza del Rift. Moviéndote hacia la entrada del portal.
 
 [ItemCreate]
-Msg_ItemCreate_GainJob_Err_MaxCnt=No puedes tener 2 o más clases de artesanía.
+Msg_ItemCreate_GainJob_Err_MaxCnt=No puedes tener 2 o más clases de crafteo.
 Msg_ItemCreate_GainFormula_Err_InvalidJob=No se pueden aprender diseños de otras clases.
 Msg_ItemCreate_GainFormula_Err_AlreadyGain=Diseño ya aprendido.
 Msg_ItemCreate_Err_Need_Slot=Tu inventario está lleno. No se puede crear.
 Msg_ItemCreate_GainJob=¿Selecciona %s_1 clase de crafteo?<br>Sólo puede tener 2 clases.
-Msg_ItemCreate_GainJob_Complete=Seleccionada %s_1 clase de artesanía.
+Msg_ItemCreate_GainJob_Complete=Seleccionada %s_1 clase de crafteo.
 Msg_ItemCreate=¿Crear %s_1? <br> %s_2 Zen será consumido.
-Msg_ItemCreate_RemoveJob=Abandonar clase %s_1?<br>Al abandonar la clase de artesanía se perderá toda la EXP, grado y diseños relacionados con la clase.
+Msg_ItemCreate_RemoveJob=Abandonar clase %s_1?<br>Al abandonar la clase de crafteo se perderá toda la EXP, grado y diseños relacionados con la clase.
 Msg_ItemCreate_RemoveJob_Complete=Abandonada %s_1 clase.
 Msg_ItemCreate_RemoveJob_Cancel=Cancelado.
 Msg_ItemCreate_GainFormula=¿Registrar %s_1?
@@ -1306,7 +1306,7 @@ Msg_ItemCreate_Err_Material=No hay suficientes materiales.
 Msg_ItemCreate_Err_Slot=Su inventario está lleno. No se puede crear.
 Msg_ItemCreate_GainFormula_Err_Failed=No se ha podido obtener el diseño.
 Msg_ItemCreate_Err_AlreadyJob=La clase de nave ya se ha obtenido.
-MSg_ItemCreate_Err_Exp=No hay suficiente EXP de artesanía.
+MSg_ItemCreate_Err_Exp=No hay suficiente EXP de crafteo.
 Msg_ItemCreate_Err_Zen=No hay suficiente Zen.
 Msg_ItemCreate_Err_NotFormula=No es un item de diseño artesanal.
 Msg_ItemCreate_Unable=No se puede crear.
