@@ -5999,13 +5999,13 @@ LS_BossComplete=¡Eliminado el Depredador de Rift!¶Reclama tu recompensa.
 LS_SuccessBubbleTalk=¡La batalla contra el jefe comienza ahora!
 LS_FailedBubbleTalk=Hm... No estoy seguro de que seas lo suficientemente fuerte para hacerlo. Bueno, ¡buena suerte!
 LS_BossCompleteBubbleTalk=¡Revisa el suelo en busca de EXP de Artefacto!
-LS_BossBlockBtn=¡Ha aparecido el Depredador de Rift!
+LS_BossBlockBtn=¡Aparecido el Depredador!
 LS_ExitDungeonBtn=Salir de la Dungeon
 
 [MU2GFxMessageBoxMazeBossBlock]
 LS_ChargingRateTitle=Tasa de carga
 LS_MazeDescription1=%s Artefacto EXP se puede ganar
-LS_MazeDescription2=La energía de Rift está completamente cargada. Ahora puedes despertar a un Depredador de Rift¶que yace dormido en las profundidades de la Deformación de Rift.
+LS_MazeDescription2=La energía de Rift está completamente cargada. Ahora puedes despertar a un Depredador de Rift¶que yace dormido en las profundidades
 LS_OK=Entrar (Espacio)
 LS_Cancel=Cancelar (Esc)
 
