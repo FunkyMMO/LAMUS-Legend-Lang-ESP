@@ -2772,7 +2772,7 @@ LS_LegendBingoBlockReward=Selecciona y paga Fichas de Evento para conseguir Item
 LS_LegendBingoRule=<font color ='#FFFF00'>Evento Leyenda del Bingo</font><br><br> <font color='#FE6D03'>- Cómo Jugar</font><br><br>1. Haz clic en el bloque de Items que quieras. Haz clic en el bloque de Items que quieras y paga el número de Monedas de Evento o de Items que requiera.<br><br>2. Consigue todos los Items de Recompensa de Bloque en horizontal, vertical o diagonal para conseguir Puntos de Bingo. <br><br>3. Puedes usar tus Puntos de Bingo para comprar recompensas de Puntos de Bingo. <br><br><font color='#BCF5A9'>Tendrás la oportunidad de restablecer tus bloques de Bingo una vez al día de forma gratuita al iniciar sesión por primera vez. Estas oportunidades se acumulan durante el periodo del evento.</font>
 mcWebOfGodHelp=Calibrador de liberación espacio-temporal.<br>Aumenta cuando entras en el God of Corridor<br>Cuando el medidor está lleno, el tiempo de enfriamiento de la habilidad de transformación del God of Corridor disminuye.
 LS_WebOfGodRankingRewardHelp=Recompensa básica por contribuir a la Liberación del espacio-tiempo.<br>Únete al God of Corridor y llena el medidor de Liberación del espacio-tiempo.
-OptionEffectTransparency=Ajustar la opacidad del efecto de habilidad puede afectar al rendimiento de tu habilidad.
+OptionEffectTransparency=Ajustar la opacidad del efecto puede afectar el rendimiento.
 OptionShowBattle=Ajustar las características del Combate.
 OptionGraphic=Ajustar estas opciones puede afectar a tu rendimiento en el juego.
 OptionAutoGraphicQuality=Ajustar automáticamente la calidad de los gráficos.
