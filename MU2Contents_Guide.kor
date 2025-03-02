@@ -594,7 +594,7 @@ Title_1024002100=Crear un artefacto
 SubTitle_1024002101=Puedes seleccionar y crear artefactos en la página Crear Artefacto en la ventana Artefacto (X).
 Contents_1024002103=Necesitas Fragmentos de Artefacto, Esencia de Artefacto, Gemas Mágicas y Zen para crear un artefacto.<br>Los Fragmentos de Artefacto se pueden obtener del monstruo jefe del Lupa's Labyrinth.
 SubTitle_1024002104=Puedes obtener materiales para fabricar artefactos en Lupa's Labyrinth.
-Contents_1024002106=Los Fragmentos de Artefacto rotos solo se pueden encontrar en el Laberinto.<br><br>También puedes conseguir más a través de las misiones de la Sociedad de Investigación de Rift.
+Contents_1024002106=Los Broken Artifact Fragments solo se pueden encontrar en el Laberinto.<br><br>También puedes conseguir más a través de las misiones de la Sociedad de Investigación de Rift.
 Title_1024003100=Actualización y Equipamiento
 SubTitle_1024003101=Los artefactos funcionan de forma diferente dependiendo de cómo los uses: Crecimiento o Equipamiento.<br>Los Artefactos de Crecimiento ganan EXP mientras que los de Equipamiento añaden efectos.
 Contents_1024003103=Los artefactos no tienen que estar equipados para su crecimiento.<br>Puedes equipar y hacer Mejorar artefactos por separado.<br>Sólo recuerda configurar tus Artefactos de Crecimiento, o no podrás ganar EXP de artefacto.<br><br><font color='#FE6D03'>Consejo:</font> Comprueba la configuración de tus Artefactos de Crecimiento antes de entrar en el Laberinto.
@@ -618,7 +618,7 @@ Title_1024006100=Awakened Artifacts
 SubTitle_1024006101=Artefactos más poderosos
 Contents_1024006103=Mira estos Artefactos más poderosos.<br>Los Artefactos Awakened pueden ser tremendamente útiles siempre que te cueste explorar el Continente MU.
 SubTitle_1024006104=Esencias de Artefacto Despertadas y Fragmentos Awakened.
-Contents_1024006106=Puedes alquimizar los Artefactos existentes de nivel 100 en Esencias de Artefacto Despertadas.<br>Los Fragmentos Awakened se pueden encontrar en el Laberinto Awakened de Lupa.<br><br><font color='#FE6D03'>Consejo:</font> Aparte de estos dos materiales, también necesitas Fragmentos de Artefacto Rotos.
+Contents_1024006106=Puedes alquimizar los Artefactos existentes de nivel 100 en Esencias de Artefacto Despertadas.<br>Los Fragmentos Awakened se pueden encontrar en el Laberinto Awakened de Lupa.<br><br><font color='#FE6D03'>Consejo:</font> Aparte de estos dos materiales, también necesitas Broken Artifact Fragments.
 SubTitle_1024006107=Efectos de Artefacto Awakened.
 Contents_1024006109=Los Artefactos Awakened tienen sus efectos originales y nuevos efectos de Crecimiento.<br>Pueden ayudarte a los Guardianes a hacer Mejorar aún más a tus personajes.
 Title_1025001100=Características del Chat
@@ -734,7 +734,7 @@ SubTitle_1036002107=Nivel de dificultad, límite de tiempo y tasa de carga. Esta
 Contents_1036002109=Despeja el Laberinto en un nivel de dificultad más alto para obtener mejores recompensas.<br>Pero como tu tasa de carga también afecta a tus recompensas,<br>no deberías seleccionar un nivel de dificultad demasiado alto.<br>Selecciona un nivel de dificultad adecuado para tu nivel y despeja la Dungeon tan rápido como puedas.
 Title_1036003100=Lupa's Labyrinth Recompensas clave: Contenido de Artefacto
 SubTitle_1036003101=Lupa's Labyrinth está diseñado para ayudarte a crear y hacer Mejorar artefactos.
-Contents_1036003103=En Lupa's Labyrinth, solo el monstruo jefe final (Depredador de Rift) suelta recompensas.<br>Suelta Fragmentos de Artefacto Rotos, que pueden usarse para crear artefactos.<br>Suelta Brillos de EXP de Artefacto, que pueden usarse para mejorar artefactos.<br>Suelta mayores cantidades de EXP de artefacto en niveles de dificultad más altos.
+Contents_1036003103=En Lupa's Labyrinth, solo el monstruo jefe final (Depredador de Rift) suelta recompensas.<br>Suelta Broken Artifact Fragments, que pueden usarse para crear artefactos.<br>Suelta Brillos de EXP de Artefacto, que pueden usarse para mejorar artefactos.<br>Suelta mayores cantidades de EXP de artefacto en niveles de dificultad más altos.
 SubTitle_1036003104=Los niveles de los artefactos deben coincidir con los niveles de dificultad de las Dungeons.
 Contents_1036003106=Si el nivel de tu Artefacto de Crecimiento es menor que el del Lupa's Labyrinth,<br>gana más EXP de artefacto.<br>Si su nivel es mayor que el del Laberinto,<br>gana menos EXP de artefacto. <br>En otras palabras, no puedes hacer Mejorar tu artefacto si vas demasiado a lo seguro.<br>Los artefactos ganan un 0% de EXP en el Laberinto que esté al menos 10 niveles por debajo de sus niveles.<br>Asegúrate de aumentar el nivel de dificultad de la Dungeon a medida que crece tu artefacto.
 Title_1037001100=Puedes completar varios desafíos y obtener recompensas a través del Sistema de Logros.
