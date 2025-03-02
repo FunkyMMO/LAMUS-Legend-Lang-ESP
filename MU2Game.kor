@@ -56,7 +56,7 @@ LS_SCMC_Reenter=Confirmar código de seguridad.
 LS_SCMC_RearrangementBtn=Reorganizar
 LS_SCMC_EnterTime=Hora de entrada: %s
 LS_SCRegistration_ErrorMsg=Los 2º códigos de seguridad no coinciden.<br>Por favor, inténtelo de nuevo.
-LS_SCCheck_ErrorMsg=El 2º código de seguridad introducido no coincide con nuestro registro.<br>Introdúzcalo incorrectamente 5 veces y esta cuenta se bloqueará. (Intentos acumulados: %d)
+LS_SCCheck_ErrorMsg=El 2º código de seguridad introducido no coincide con nuestro registro.<br>Si lo ingresas incorrectamente 5 veces, la cuenta se bloqueará.(Intentos acumulados: %d)
 LS_SCMC_OtpEnter=Introduzca el código VFun Otp.
 LS_SCOtpCheck_ErrorMsg=El código VFun Otp introducido no coincide con nuestro registro.
 
