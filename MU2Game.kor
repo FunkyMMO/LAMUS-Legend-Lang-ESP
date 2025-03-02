@@ -5219,7 +5219,7 @@ LS_SkillRune_Main=Se ha desbloqueado una nueva Cresta de Habilidad.
 LS_SkillRune_Control=Abrir ventana de registro de cresta
 LS_FindPartyTitle=Anunciar búsqueda de Party
 LS_FindPartyMain=Puede anunciar sus mensajes.
-LS_NotiFindPartyMain=Anunciar un mensaje de búsqueda de partido.<br>(Tiempo restante: %s_1m %s_2s)
+LS_NotiFindPartyMain=Anunciar un mensaje de búsqueda de Party.<br>(Tiempo restante: %s_1m %s_2s)
 LS_NotiFindPartyControl=: Anunciar/Cancelar
 LS_AutoPartyTitle=Búsqueda automática de Parte
 LS_AutoParty_Control=: Abrir ventana
@@ -6569,7 +6569,7 @@ LS_CurrentTime=Hora actual: %s_1
 LS_TournamentSchedule=Programa del torneo
 LS_QualifyNFinalHelp=Ayuda para las preliminares/finales
 LS_TournamentDominionInfo=Información territorial
-LS_RoundSchedule=Programa de partidos
+LS_RoundSchedule=Programa de Partys
 LS_RoundScheduleDesc=- Las unidades de ataque pueden zarpar 5 minutos antes de que empiecen sus partidos.<br>- Estas unidades de ataque son para el Torneo. Sus comandantes deben zarpar antes de que comiencen sus partidos.
 LS_QualifyNFinalHelpDesc=Las preliminares duran hasta 10 minutos, mientras que las finales pueden durar hasta 20 minutos. Para todos los partidos, la capacidad de los jugadores y el área del partido están sujetos a cambios en función del grado del territorio capitalino.
 LS_TotalSchedule=Programa completo
@@ -6831,7 +6831,7 @@ LS_ReadyDepartureCnt=Listo para Salida %s_1/%s_2
 
 [MU2GFxTournamentApply]
 LS_UITitle=Solicitar torneo
-LS_RoundSchedule=Programa de partidos
+LS_RoundSchedule=Programa de Partys
 LS_LastTournamentInfo=Información del torneo anterior
 LS_ApplyDesc=Sólo los Maestros del Guild pueden solicitar torneos.<br>Tienes dos oportunidades para solicitar un torneo, sujeto a las siguientes reglas.<br><br><font color='#ffff00'>0. Requisitos de trofeos por grado de dominio</font><br> - Se requiere que gastes al menos un cierto número de trofeos, dependiendo del grado de tu dominio objetivo.<br> - 1-Estrella: 300 o más<br> - 2-Estrellas: 500 o más<br> - 3-Estrellas: 1.500 o más<br><br><font color='#ffff00'>1. Reglas de la 1ª Solicitud</font><br> - El 1er Periodo de Solicitud va desde el jueves a las 07:00 p.m. hasta el viernes a las 07:00 p.m.<br> - Necesitas gastar Trofeos de Guild para solicitarlo.<br> - Si el número de solicitantes excede el límite prescrito, entonces los solicitantes son seleccionados basándose en el número de trofeos que gastaron.<br> - Si tu solicitud es rechazada, entonces recibirás tus trofeos de vuelta, para que puedas enviar tu 2ª Solicitud. <br><br><br><font color='#ffff00'>2. Reglas de la 2ª solicitud</font><br> - El 2º periodo de solicitud dura 30 minutos después de que finalice el 1er periodo de solicitud.<br> - Solo los clanes que no se clasificaron durante el 1er periodo de solicitud pueden enviar segundas solicitudes.<br> - Si tu segunda solicitud no es aceptada, no podrás participar en el torneo de esa semana.<br> - Tendrás más posibilidades de éxito si vas a por un dominio con menos solicitantes.
 LS_MinApplyTrophy=Oferta mínima de trofeo:
@@ -6888,7 +6888,7 @@ LS_RoundInfo=Información del partido
 LS_SuccessOK=Cerrar
 LS_ResultHelpDesc=La solicitud ha sido aceptada, dando a su Guild el derecho a participar.<br>Por favor, lea atentamente las reglas que se detallan a continuación y prepárese para el partido.<br><br><font color='#ffff00'>1. Confirmación del horario final. Confirmación del calendario final</font><br>- Una vez finalizado el proceso de solicitud, se publican la competición y los calendarios.<br>- El número total de encuentros varía en función del índice final de la competición.<br>- Si no hay más de 2 guilds que hayan solicitado un territorio, puede que no haya preliminares.<br><font color='#ff0000'>- Una vez finalizado el periodo de solicitud, ¡asegúrate de confirmar los encuentros en los que participa tu Guild! </font><br><br><font color='#ffff00'>2. Reglas de los Partidos</font><br>- Según el ritmo de competición, tu Guild tendrá de 1 a 4 partidos en total.<br>- Tus unidades de ataque deben salir a través del PNJ del Muelle 5 minutos antes de cada partido. <br><font color='#ff0000'>- Si no sales dentro del tiempo límite y el partido comienza, serás descalificado.</font><br><br><font color='#ffd144'>Por favor, sigue las reglas del partido y haz todo lo posible para ganar el torneo.<br>Buena suerte.</font>
 LS_RoundScheduleAlertTitle=No se puede comprobar la información del partido.
-LS_RoundScheduleAlertDesc=El calendario de partidos se publicará cuando se hayan aceptado todas las solicitudes.
+LS_RoundScheduleAlertDesc=El calendario de Partys se publicará cuando se hayan aceptado todas las solicitudes.
 LS_TrophyGetBack=Recuperación de trofeos:
 LS_ApplyFailDesc1=Los guilds cuyas solicitudes no fueron aceptadas en la primera ronda pueden volver a solicitarlo en la segunda ronda.
 LS_ApplyFailDesc2=Tanto la 1ª como la 2ª ronda de solicitudes han finalizado.<br>¡Apúntate al nuevo Torneo la semana que viene!
