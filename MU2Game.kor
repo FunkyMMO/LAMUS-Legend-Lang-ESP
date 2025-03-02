@@ -474,7 +474,7 @@ LS_ShowAllList=Ver todos los Items de clase
 LS_ToolTipText_55003=<b><font color='#FDC243'>Prueba de Jonathan</font></b><br>Puede conseguirse completando la Misión diaria de Jonathan.
 LS_ToolTipText_55004=<b><font color='#FDC243'>Medalla de Kundun</font></b><br>Puede conseguirse completando la Misión diaria de Kundun.
 LS_ToolTipText_55015=<b><font color='#FDC243'>Prueba de Fletcher</font></b><br>Puede conseguirse completando la peligrosa Misión diaria de Fletcher.
-LS_ToolTipText_62901=<b><font color='#FDC243'>Sello de poder</font></b><br>Se puede conseguir jugando en la Endless Tower.
+LS_ToolTipText_62901=<b><font color='#FDC243'>Seal of Power</font></b><br>Se puede conseguir jugando en la Endless Tower.
 LS_ToolTipText_55011=<b><font color='#FDC243'>Precioso producto refinado</font></b><br>Puede obtenerse en la Refinería de Items.
 
 [MU2GFxNpcShopKnightsPoint]
@@ -1912,7 +1912,7 @@ EventShop=Tienda de evento
 PuzzleEvent=Evento de puzzle
 ItemRefine=Refinería de Items
 ExtractEmotion=Extraer Éter
-GetEmotionBox=Forja del alma
+GetEmotionBox=Forja del Alma
 FireWorksFestival=Evento del 1er Aniversario (Festival de Fuegos Artificiales)
 LegendMarble=Leyenda de Dados
 FieldBossRaid=Incursiones de jefes de campo
@@ -2753,7 +2753,7 @@ LS_GrowthGuide=<font color='#fce7b0'>Guía de progresión del personaje</font><b
 LS_ComeBackGuide=<font color='#fce7b0'>Guía para usuarios que regresan</font><br>Esta función proporciona orientación a los usuarios que regresan.<br>Una categoría se desbloquea cuando se cumplen ciertos requisitos,<br>y necesitas seguir las misiones de la categoría.<br>Completar todas las misiones de una categoría desbloquea la siguiente categoría.
 RewardChest=Las reglas de los Cofres de Recompensas son las siguientes:<br><br><font color='#fce7b0'>- Jugadas Adicionales<br>Usa recursos en Efectivo.</font><br><br>- Adquisición<br>1. Haz clic en el Cofre. Haz clic en el Cofre, y se mostrará la lista de recompensas disponibles.<br>2. Este Cofre de Recompensas se puede obtener una vez al día, y añade todos los Items de la lista a tu Inventario o Correo al adquirirlos.<br>3. Tu recuento de adquisiciones se reiniciará al día siguiente.<br>4. Cuando obtengas otro Cofre de Recompensas, todo tu registro de jugadas y tu Nivel de Cofre se reiniciarán.<br><br>- Reglas de Subida de Nivel<br>1. Tus EXP de Cofre de Recompensas se acumulan en el Inventario. Tu EXP de Cofre de Recompensa se acumula hasta que recibes un Cofre.<br>2. Cada vez que termines una ronda de Leyenda de Dados, obtendrás EXP de Cofre de Recompensa.<br>3. Gana suficiente EXP, y tu Cofre de Recompensa alcanzará un nuevo nivel.<br>4. Este Cofre tiene un total de 5 niveles.
 MarblePc=Cualquiera puede jugar a legend of dice hasta 5 veces.
-MopUpRewardIcon_62901=Puedes obtener Sello de Poder.
+MopUpRewardIcon_62901=Puedes obtener Seal of Power.
 MopUpRewardIcon_58004=Puedes obtener Items para mejorar Alas.
 MopUpRewardIcon_10010=Puedes obtener Fragmentos de Alma.
 MopUpRewardIcon_810000=Puedes obtener Skill Crest Cubes.
@@ -2972,7 +2972,7 @@ MapIcon_2098=Creación de piedra de intensificación
 MapIcon_2097=Fusión de equipo
 MapIcon_2099=Gestor del Territorio
 MapIcon_2109=Refinería de Items
-MapIcon_2110=Investigador de piedra de sello
+MapIcon_2110=Maestro de Forja
 MapIcon_2115=restauración de talismanes
 MapIcon_2116=Ayudante Leyenda de Dados
 MapIcon_2117=Cambiador de fichas de iris
@@ -7698,7 +7698,7 @@ LS_GetReward=Reclamar recompensa
 LS_AllClear=Limpiado todo
 
 [MU2GFxExtractEmotion]
-LS_TitleStr=Extraer éter
+LS_TitleStr=Extraer Éter
 LS_DescriptionStr=Reciclar materiales y Piezas de Alma para obtener Energía de Éter.
 LS_EmotionPointStr=Energía de éter
 LS_ItemDecompositionStr=Reciclar Item
@@ -7707,7 +7707,7 @@ LS_SuccessExtractEmotion=Energía de éter obtenida.
 LS_CostDescriptionText=¿Reciclar los elementos y <font color = '#ff0000'>obtener</font> la energía de éter a continuación?
 
 [MU2GFxGetEmotionBox]
-LS_TitleStr=Forja del alma
+LS_TitleStr=Forja del Alma
 LS_EmotionPointStr=Energía de Éter
 LS_ResetStr=Reiniciar %d/%d
 LS_Phase=Nivel %d
