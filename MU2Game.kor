@@ -2326,8 +2326,8 @@ LS_AddAbilitySection=Estadísticas adicionales
 LS_MagicStoneLockDesc=Ranura para joya/piedra del alma<br><font color='#FDC243'>* Ir a un Mercader de joyas.</font>
 LS_MagicStoneEmptyDesc=Ranura para joya/piedra del alma
 LS_TStoneEmptyDesc=Ranura Piedra Trascendente
-LS_SetColArmor=Armadura
-LS_SetColAcc=Accesorio
+LS_SetColArmor=Armadura:
+LS_SetColAcc=Accesorio:
 LS_SetColPoint= Aumento de puntos + %d
 LS_SetColCardCap=<br>Carta de Índice:
 LS_SetColCardNone=No hay carta equipada
