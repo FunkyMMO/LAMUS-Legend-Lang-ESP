@@ -9902,41 +9902,41 @@ Mission_Target2=Lanceros de la Alianza de la Nobleza
 Mission_Target3=Verificar Paloma Mensajera
 
 [Quest_5180]
-Name=En Camino a la Cumbre del Hielo Sangriento
+Name=En Camino a la Blood Ice Peak
 Occur_String1=Será mejor que enviemos palomas mensajeras a nuestro país para pedir ayuda.
 Occur_String2=Tu cuerpo de señales ha sido aniquilado.<br>También lo fueron todas sus palomas. Tu campamento está siendo aislado.
 Occur_String3=¡Oh, no! La Alianza de la Nobleza me ha engañado.<br>Adelante, ríete... ¡Ríete de mí!
 Occur_String4=¡Reacciona! Estás al mando de este lugar.<br>¿Cuál es el lugar más oculto por aquí? Un lugar al que nadie va.
-Occur_String5=La Cumbre del Hielo Sangriento. Fue el peor campo de batalla de la Guerra de Tres Años.<br>Esa montaña de sangre congelada está maldita. Ninguna criatura puede vivir allí. ¿Por qué?
+Occur_String5=La Blood Ice Peak. Fue el peor campo de batalla de la Guerra de Tres Años.<br>Esa montaña de sangre congelada está maldita. Ninguna criatura puede vivir allí. ¿Por qué?
 Occur_String6=Tu trabajo estaba hecho cuando despertaste a los revenants y nos mantuviste en Wallkreiger.<br>La Alianza está tratando de matarte ahora.
-Occur_String7=Porque están haciendo algo que nadie más puede saber<br>en un lugar al que nadie se atrevería a ir. Me dirigiré a la Cumbre del Hielo Sangriento.
-Occur_String8=Espera. Hay un campamento de suministros en el camino a la Cumbre del Hielo Sangriento.<br>Si la Alianza de la Nobleza se dirigió allí, habría atacado el campamento.
+Occur_String7=Porque están haciendo algo que nadie más puede saber<br>en un lugar al que nadie se atrevería a ir. Me dirigiré a la Blood Ice Peak.
+Occur_String8=Espera. Hay un campamento de suministros en el camino a la Blood Ice Peak.<br>Si la Alianza de la Nobleza se dirigió allí, habría atacado el campamento.
 Occur_String9=Iré a comprobarlo. Tú sal de aquí tan pronto como puedas.
 Doing_String=............
 Completable_String1=A-ayuda... Somos una unidad de suministros del Ejército Tephakin.<br>¿Eres de la Alianza?
-Complete_String=Me dijeron que no había mejor lugar que la Cumbre del Hielo Sangriento para llevar a cabo planes secretos. Pasé por el campamento de suministros en el camino a la cumbre para revisar a sus miembros.
-List_String=(Misión Principal Litenberg) (59/141)<br>Me dijeron que no había mejor lugar que la Cumbre del Hielo Sangriento para llevar a cabo planes secretos. Hay un campamento de suministros en el camino a la cumbre. Debería pasar por allí y revisar a sus miembros.
+Complete_String=Me dijeron que no había mejor lugar que la Blood Ice Peak para llevar a cabo planes secretos. Pasé por el campamento de suministros en el camino a la cumbre para revisar a sus miembros.
+List_String=(Misión Principal Litenberg) (59/141)<br>Me dijeron que no había mejor lugar que la Blood Ice Peak para llevar a cabo planes secretos. Hay un campamento de suministros en el camino a la cumbre. Debería pasar por allí y revisar a sus miembros.
 Mission_String=Cortar a través de los Soldados de la Alianza de la Nobleza y hablar con Pondue
 Mission_Target1=Unidades de la Alianza de la Nobleza
 
 [Quest_5181]
-Name=Cumbre del Hielo Sangriento
+Name=Blood Ice Peak
 Occur_String1=Tu unidad ha sido aniquilada. ¿Fue la Alianza de la Nobleza?
-Occur_String2=Sí. Un ejército de sus soldados se dirigió a la Cumbre del Hielo Sangriento<br>después de acabar con nosotros.
+Occur_String2=Sí. Un ejército de sus soldados se dirigió a la Blood Ice Peak<br>después de acabar con nosotros.
 Occur_String3=Lo hicieron para deshacerse de los testigos. Es un milagro que sigas con vida.
 Occur_String4=Nos escondimos bajo nuestras tiendas.<br>Fue una cobardía, pero tuvimos que salvarnos para advertir a la Princesa Kali.
 Occur_String5=No veo heridas defensivas en los muertos. Fueron masacrados.
 Occur_String6=Muchos de nosotros nos rendimos. Eran demasiados para resistir.<br>Y su comandante ordenó matar a todos los que se rindieron.
 Occur_String7=¿Cómo era?
 Occur_String8=Iba vestido con una armadura negra.
-Occur_String9=¿Cuánto tiempo ha pasado desde que la Alianza de la Nobleza se dirigió a la Cumbre del Hielo Sangriento?
+Occur_String9=¿Cuánto tiempo ha pasado desde que la Alianza de la Nobleza se dirigió a la Blood Ice Peak?
 Occur_String10=Unos sesenta minutos.
 Doing_String=Mis camaradas murieron a miles de kilómetros de casa en el frío. Descansen en paz, mis amigos...
 Completable_String1=
-Complete_String=El campamento de suministros fue aniquilado por la Alianza de la Nobleza. Los sobrevivientes dijeron que el comandante de la Alianza de la Nobleza con armadura negra se dirigía a la Cumbre del Hielo Sangriento. Me dirigí allí para eliminar al comandante.
-List_String=(Misión Principal Litenberg) (60/141)<br>El campamento de suministros fue aniquilado por la Alianza de la Nobleza. Los sobrevivientes dijeron que el comandante de la Alianza de la Nobleza con armadura negra se dirigía a la Cumbre del Hielo Sangriento. Debo ir a la Cumbre del Hielo Sangriento y eliminar al comandante.
-Mission_String=Matar al Líder de la Alianza de la Nobleza en la Cumbre del Hielo Sangriento
-Mission_Target1=Matar a Marquis Heston
+Complete_String=El campamento de suministros fue aniquilado por la Alianza de la Nobleza. Los sobrevivientes dijeron que el comandante de la Alianza de la Nobleza con armadura negra se dirigía a la Blood Ice Peak. Me dirigí allí para eliminar al comandante.
+List_String=(Misión Principal Litenberg) (60/141)<br>El campamento de suministros fue aniquilado por la Alianza de la Nobleza. Los sobrevivientes dijeron que el comandante de la Alianza de la Nobleza con armadura negra se dirigía a la Blood Ice Peak. Debo ir a la Blood Ice Peak y eliminar al comandante.
+Mission_String=Ve a la Dungeon Blood Ice Peak y derrota al Líder de la Alianza
+Mission_Target1=Matar a Marquis Heston en Blood Ice Peak
 
 [Quest_5183]
 Name=Los Conspiradores
@@ -9944,7 +9944,7 @@ Doing_String=
 Completable_String1=
 Complete_String=Descubrí un lugar sospechoso mientras luchaba contra Heston. Lo investigué en busca de los miembros restantes de la Alianza de la Nobleza.
 List_String=(Misión Principal Litenberg) (61/141)<br>Mientras luchaba contra Heston, descubrí un lugar sospechoso. Debo investigarlo para encontrar a los miembros restantes de la Alianza de la Nobleza.
-Mission_String=Investigar la Zona Más Profunda de la Cumbre del Hielo Sangriento
+Mission_String=Investigar la Zona Más Profunda de la Blood Ice Peak
 Mission_Target1=Llegar al Lugar Sospechoso
 
 [Quest_5182]
@@ -9965,7 +9965,7 @@ Occur_String1=No. Los Devias no robaron la Varita de Pectra.<br>Estaban demasiad
 Occur_String2=¿Qué? ¿Quién despertó a los revenants de Wallkreiger?
 Occur_String3=La Alianza de la Nobleza. Lo hicieron para mantener distraídos a los Devias y que no descubrieran lo que estaban haciendo.
 Occur_String4=¡Esos supremacistas de sangre pura están locos!<br>¿Qué estaban haciendo?
-Occur_String5=Se reunieron con Demonios del Pandemónium en la Cumbre del Hielo Sangriento<br>y les entregaron la Cueva de Cristal sin condiciones.
+Occur_String5=Se reunieron con Demonios del Pandemónium en la Blood Ice Peak<br>y les entregaron la Cueva de Cristal sin condiciones.
 Occur_String6=¿Te refieres a la Cueva de Cristal en la Garganta Minera? No lo entiendo.<br>Esa cueva es la mina de oro de la Alianza de la Nobleza. Produce cristales 100% puros.
 Occur_String7=Ahora que lo pienso, he escuchado que Muren estaba en la Garganta Minera, luchando contra la Alianza de la Nobleza.
 Occur_String8=Tal vez tenga algo que ver con esto. Iré allí a investigar.<br>Solo me quedan tres días hasta que venza el plazo que me dieron los Kanturianos.
