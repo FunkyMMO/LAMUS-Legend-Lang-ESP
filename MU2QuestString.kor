@@ -4935,7 +4935,7 @@ Occur_String4=¿Hay algo que pueda hacer para ayudar?
 Occur_String5=¿Podrías recoger botas de combate de la Alianza Nobiliaria?
 Occur_String6=Por supuesto. También revisaré sus tiendas en busca de comida.
 Doing_String=Para tu información, mi talla de zapato es la 9.
-Completable_String1=Aquí tienes, esos nobles tienen suficiente dinero para derrochar en zapatos. También he traído algo de comida.
+Completable_String1=Aquí tienes, esos nobles tienen suficiente dinero para derrochar en botas. También he traído algo de comida.
 Completable_String2=Muchas gracias. Te debo una vez más.
 Complete_String=El Ejército Real de Lorencia en el Outpost de Devias estaba bajo en suministros y los pocos suministros que le quedaban se les daban a los Caballeros de Devias, lo que dejaba nada para los soldados. Robé suministros del Campamento de la Alianza Nobiliaria para ellos.
 List_String=El Ejército Real de Lorencia en el Outpost de Devias está bajo en suministros, y los pocos suministros que le quedan se dan a los Caballeros de Devias, lo que deja nada para los soldados. Tengo que robar suministros del Campamento de la Alianza Nobiliaria para ellos.
@@ -14815,11 +14815,11 @@ Mission_Target1=Guante de Kobold
 
 [Template_1104]
 Name=Solicitud de Recolección del Contrabandista Kobold
-Occur_String1=Ni siquiera tengo un pequeño atisbo de afecto por mi gente.<br>Mi trabajo es hacer que compren más de mis cosas y acumular el dinero que ni siquiera saben cómo usar...<br>Y para hacer eso, humano, debes derrotar a %s_1_1 y quitarles sus Zapatos de Kobold.
+Occur_String1=Ni siquiera tengo un pequeño atisbo de afecto por mi gente.<br>Mi trabajo es hacer que compren más de mis cosas y acumular el dinero que ni siquiera saben cómo usar...<br>Y para hacer eso, humano, debes derrotar a %s_1_1 y quitarles sus Botas de Kobold.
 Doing_String=¡Apresúrate y quítale las cosas a mi gente para que empiecen a comprar mis productos de contrabando. ¡Humano!
 Completable_String1=
-Complete_String=Completé la solicitud del Contrabandista Kobold para recolectar Zapatos de Kobold.
-List_String=Recolectar %s_1_5 Zapatos de Kobold cazando %s_1_1.
+Complete_String=Completé la solicitud del Contrabandista Kobold para recolectar Botas de Kobold.
+List_String=Recolectar %s_1_5 Botas de Kobold cazando %s_1_1.
 Mission_String=Recolectar Zapato de Kobold
 Mission_Target1=Zapato de Kobold
 

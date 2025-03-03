@@ -125,7 +125,7 @@ SelecetAO=Imprimir Item
 ItemRefine_ReqRefine=Refinar Item
 UnlockCharacterCreationSlot=Desbloquear ranura de personaje
 MoveCharacterCreation=Mover a creación de personaje
-ResetGetEmotionBox=Reorganizar piedras del alma
+ResetGetEmotionBox=Reabrir nuevamente
 ExtractEmotion=Extraer Éter
 BuffEvent=Mensaje de guía
 ArtifactItem=Mensaje de guía
@@ -315,7 +315,7 @@ SelecetAO=No se ha seleccionado ninguna Impronta.<br>¿Mantienes las opciones ex
 ItemRefine_ReqRefine=¿Desea refinar este Item?
 UnlockCharacterCreationSlot=Este ítem se usa automáticamente cuando desbloqueas ranuras de Personaje.<br>¿Realmente quieres usar este ítem?<br><font color='#FF0000'>(Max Opening Slots: %s_1)</font>
 MoveCharacterCreation=Ranuras de Personaje desbloqueadas.<br>¿Quieres moverte a la pantalla de Selección de Personaje?
-ResetGetEmotionBox=¿Quieres reorganizar las piedras del alma?
+ResetGetEmotionBox=¿Quieres reabrir nuevamente los sellos?
 ExtractEmotion=¿Reciclar este Item y <font color='#ff0000'>obtener</font> Energía de Éter?
 BuffEvent=¿Utilizas este buff?<br><br><font color='#999999'>Precaución: Tu actual efecto de buff será cancelado.</font>
 ArtifactItem=No puedes usarlo si no hay artefacto de crecimiento equipada, la artefacto de crecimiento está al máximo nivel,<br>o si la clase del Item y la artefacto son diferentes.<br><br><font color='#999999'>Precaución: Por favor, comprueba la artefacto de crecimiento.</font>
