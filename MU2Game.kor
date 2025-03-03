@@ -455,22 +455,22 @@ PurchaseButtonRebuy=Volver a comprar
 RepairItemBtn=Reparar seleccionado
 RepairItemStopBtn=Detener reparación de items
 RepairAllBtn=Reparar Equipado
-ShowAllList=Ver todos los Items de clase
+ShowAllList=Ver Items de todas las clases
 
 [MU2GFxNpcShopSellAllTab]
 LS_Sell=Vender
 LS_TakeOut=Retirar
 LS_RepairSelected=Reparación individual
 LS_RepairStop=Detener reparación de items
-LS_RepairAll=Reparar equipado
+LS_RepairAll=Reparar todo
 
 [MU2GFxNpcShopNormal]
 LS_Buy=Comprar
 LS_ReBuy=Volver a comprar
-LS_RepairSelected=Reparación seleccionada
+LS_RepairSelected=Reparar
 LS_RepairStop=Detener reparación de items
-LS_RepairAll=Reparar equipado
-LS_ShowAllList=Ver todos los Items de clase
+LS_RepairAll=Reparar todo
+LS_ShowAllList=Ver Items de todas las clases
 LS_ToolTipText_55003=<b><font color='#FDC243'>Prueba de Jonathan</font></b><br>Puede conseguirse completando la Misión diaria de Jonathan.
 LS_ToolTipText_55004=<b><font color='#FDC243'>Medalla de Kundun</font></b><br>Puede conseguirse completando la Misión diaria de Kundun.
 LS_ToolTipText_55015=<b><font color='#FDC243'>Prueba de Fletcher</font></b><br>Puede conseguirse completando la peligrosa Misión diaria de Fletcher.
@@ -486,31 +486,31 @@ LS_CapitalTerritory=Grado de Territorio Capital
 LS_AdjacentTerritory=Nivel de territorio vecino
 LS_CapitalTerritoryGoods=Productos
 LS_AdjacentTerritoryDiscount=En oferta
-LS_RepairSelected=Reparación seleccionada
+LS_RepairSelected=Reparar
 LS_RepairStop=Parar reparación de items
-LS_RepairAll=Reparar equipado
-LS_BuyCount=Compras disponibles
+LS_RepairAll=Reparar todo
+LS_BuyCount=Límite de compra
 LS_NoLimit=Ilimitado
 LS_KnightageUse=<font color='#ff0000'>Ocupar Guild</font>
 LS_KnightageFollowerUse=<font color='#ff0000'>Seguidor</font>
 LS_ToolTipText=<b><font color='#FDC243'>Consejo sobre la Tienda de Contribución</font></b><br>- Puedes comprar con los Puntos de Contribución que has ganado a través de las actividades del Guild y del juego en general.<br>- Cuanto mayor sea el grado de tu territorio, mejores Items encontrarás en la tienda.<br>- Cuanto mayor sea el nivel de tu territorio vecino, mayor será tu tasa de descuento (hasta un 20%).
-LS_LimitedBuy=(El recuento de compras se reinicia en %s_1 d)
+LS_LimitedBuy=(Se reinicia en %s_1 d)
 
 [MU2GFxNpcShopBlackMarket]
 LS_ShopDesc=Comprar productos raros.
 LS_Buy=Comprar
 LS_ReBuy=Comprar de nuevo
-LS_BuyCount=Compras disponibles
+LS_BuyCount=Límite de compra
 LS_NoLimit=Ilimitado
-LS_RepairSelected=Reparación seleccionada
+LS_RepairSelected=Reparar
 LS_RepairStop=Detener reparación de items
-LS_RepairAll=Reparar equipado
+LS_RepairAll=Reparar todo
 
 [MU2GFxNpcShopEvent]
 LS_Buy=Comprar
 LS_ReBuy=Volver a comprar
-LS_LimitedBuy=(El recuento de compras se reinicia en %s_1 d)
-LS_NotInitBuyCount=(El recuento de compras no se reinicia)
+LS_LimitedBuy=(Se reinicia en %s_1 d)
+LS_NotInitBuyCount=(No se reinicia)
 LS_Title_19999=Tienda melódica
 LS_ShopDesc_19999=Las compras diarias se reinician cada día a las 5:00 a.m.
 LS_BuyCount_19999=Compras diarias
@@ -525,7 +525,7 @@ LS_TokenCount_98=Fichas de luchador
 LS_ToolTipText_98=<b><font color='#FDC243'>Prueba de espíritu</font></b><br>Disponible participando en contenidos PVP.
 LS_Title_9503=Tienda del evento
 LS_ShopDesc_9503=Esta tienda sólo abre durante un periodo de evento.
-LS_BuyCount_9503=Compras disponibles
+LS_BuyCount_9503=Límite de compra
 LS_NoLimit_9503=Ilimitado
 LS_TokenCount_9503=Tus fichas
 LS_ToolTipText_9503=<b><font color='#FDC243'>Chakram misterioso</font></b><br><font color='#FDC243'>(Se puede obtener de los monstruos jefe de las siguientes Dungeons.)</font></b><br>Fabrice Garden: 5 Chakrams</b><br>Magic Gem Mine: 5 Chakrams</b><br>Blood Castle: 5 Chakrams</b><br>Luery's Secret Vault: 5 Chakrams</b><br>Sanctum de los Caballeros Dragón: 10 Chakrams</b><br>Castillo del Dragón: 10 Chakrams</b><br>Pit of the Dead: 10 Chakrams
@@ -543,98 +543,98 @@ LS_TokenCount_106010027=Iris Token
 LS_ToolTipText_106010027=<b><font color='#FDC243'>Ticket de Iris</font></b><br>Obtenible a través de las misiones diarias del Campamento de entrenamiento de Iris.
 LS_Title_9518=Tienda de monedas de evento
 LS_ShopDesc_9518=Los Items de compra limitada sólo se pueden comprar una vez.
-LS_BuyCount_9518=Compras disponibles
+LS_BuyCount_9518=Límite de compra
 LS_NoLimit_9518=Ilimitado
 LS_TokenCount_9518=Chakram misterioso
 LS_ToolTipText_9518=<b><font color='#FDC243'>Chakram Misterioso</font></b><br>Obtenible a través de las Alcantarillas de Ohrdor.
 LS_Title_19997=Tienda de monedas del evento
 LS_ShopDesc_19997=Los Items de compra limitada sólo se pueden comprar una vez.
-LS_BuyCount_19997=Compras disponibles
+LS_BuyCount_19997=Límite de compra
 LS_NoLimit_19997=Unlimited
 LS_TokenCount_19997=Chakram misterioso
 LS_ToolTipText_19997=<b><font color='#FDC243'>Chakram Misterioso</font></b><br>Obtenible a través de las Cloacas de Ohrdor.
 LS_Title_19992=Tienda de monedas de evento
 LS_ShopDesc_19992=Los Items de compra limitada sólo se pueden comprar una vez.
-LS_BuyCount_19992=Compras disponibles
+LS_BuyCount_19992=Límite de compra
 LS_NoLimit_19992=Unlimited
 LS_TokenCount_19992=Ticket RPS
 LS_ToolTipText_19992=<b><font color='#FDC243'>Ticket RPS </font></b><br>Obtenible a través de la Dungeon del Refugio del Dragón y la artefacto Antigua.
 LS_Title_19993=Tienda de monedas de evento
 LS_ShopDesc_19993=Los Items de compra limitada sólo se pueden comprar una vez.
-LS_BuyCount_19993=Compras disponibles
+LS_BuyCount_19993=Límite de compra
 LS_NoLimit_19993=Unlimited
 LS_TokenCount_19993=Chakram misterioso
 LS_ToolTipText_19993=<b><font color='#FDC243'>Chakram Misterioso</font></b><br>Obtenible a través de las Cloacas de Ohrdor.
 LS_Title_19989=Tienda de monedas de evento
 LS_ShopDesc_19989=Los Items de compra limitada sólo se pueden comprar una vez.
-LS_BuyCount_19989=Compras disponibles
+LS_BuyCount_19989=Límite de compra
 LS_NoLimit_19989=Unlimited
 LS_TokenCount_19989=Chakram misterioso
 LS_ToolTipText_19989=<b><font color='#FDC243'>Chakram Misterioso</font></b><br>Obtenible a través de las Cloacas de Ohrdor.
 LS_Title_107=Tienda de monedas de evento
 LS_ShopDesc_107=Los Items de compra limitada sólo se pueden comprar una vez.
-LS_BuyCount_107=Compras disponibles
+LS_BuyCount_107=Límite de compra
 LS_NoLimit_107=Ilimitado
 LS_TokenCount_107=Fichas de monedas de leyenda
 LS_ToolTipText_107=<b><font color='#FDC243'>Fichas Moneda de leyenda</font></b><br>está disponible a través del potenciador Bendiciones de Ícaro.
 LS_Title_9508=Tienda Belbee de tipo humano
 LS_ShopDesc_9508=Tu recuento diario de compras se reinicia cada día a las 5:00 a.m.
-LS_BuyCount_9508=Compras disponibles
+LS_BuyCount_9508=Límite de compra
 LS_NoLimit_9508=Ilimitado
 LS_TokenCount_9508=Lágrimas de la Diosa
 LS_ToolTipText_9508=<b><font color='#FDC243'>Lágrimas de la Diosa</font></b><br>Obtenible de los monstruos jefe del continente Noria.
 LS_Title_4304=Mercader de Dracansor
 LS_ShopDesc_4304=Se pueden comprar con Fichas de Perseverancia.
-LS_BuyCount_4304=Compras disponibles
+LS_BuyCount_4304=Límite de compra
 LS_NoLimit_4304=Ilimitado
 LS_TokenCount_4304=Token de Perseverancia
 LS_ToolTipText_4304=<b><font color='#FDC243'>Tickens de perseverancia</font></b><br>Se pueden conseguir completando la misión Dracansor.
 LS_Title_9519=Tienda del Mecánico Joven Chip
 LS_ShopDesc_9519=Tu recuento diario de compras se reinicia cada día a las 5:00 a.m.
-LS_BuyCount_9519=Compras disponibles
+LS_BuyCount_9519=Límite de compra
 LS_NoLimit_9519=Ilimitado
 LS_TokenCount_9519=Válvula perdida de Chip
 LS_ToolTipText_9519=<b><font color='#FDC243'>Válvula perdida de Chip</font></b><br>Obtenible de los monstruos jefe en todos los continentes excepto en Noria.
 LS_Title_9520=Tienda del mecánico Chip el Adulto
 LS_ShopDesc_9520=Tu recuento diario de compras se reinicia cada día a las 5:00 a.m.
-LS_BuyCount_9520=Compras disponibles
+LS_BuyCount_9520=Límite de compra
 LS_NoLimit_9520=Ilimitado
 LS_TokenCount_9520=Llave perdida de Chip
 LS_ToolTipText_9520=<b><font color='#FDC243'>Llave inglesa perdida de Chip</font></b><br>Obtenible de los monstruos jefe del continente Noria.
 LS_Title_95211=Tienda de la chica oscura sospechosa
 LS_ShopDesc_95211=Tu recuento diario de compras se reinicia cada día a las 5:00 a.m.
-LS_BuyCount_95211=Compras disponibles
+LS_BuyCount_95211=Límite de compra
 LS_NoLimit_95211=Unlimited
 LS_TokenCount_95211=Marca de la Espada
 LS_ToolTipText_95211=<b><font color='#FDC243'>Marca de la espada</font></b><br>Obtenible de varios monstruos jefe.
 LS_LimitedBuy_95211=(La cuenta de compras se reinicia en %s_1 d)
 LS_Title_109=Tienda de Chaos Castle
 LS_ShopDesc_109=Tu cuenta de compras diaria se reinicia cada día a las 5:00 a.m.
-LS_BuyCount_109=Compras disponibles
+LS_BuyCount_109=Límite de compra
 LS_NoLimit_109=Ilimitado
 LS_TokenCount_109=Espíritu de Lucha
 LS_ToolTipText_109=<b><font color='#FDC243'>Ticket de Espíritu de Lucha</font></b><br>Se puede conseguir jugando en el Chaos Castle.
-LS_LimitedBuy_109=(El recuento de compras se reinicia en %s_1 d)
+LS_LimitedBuy_109=(Se reinicia en %s_1 d)
 LS_Title_143=Tienda del Paraíso de las ranas
 LS_ShopDesc_143=Esta tienda sólo abre durante un periodo de evento.
-LS_BuyCount_143=Compras disponibles
+LS_BuyCount_143=Límite de compra
 LS_NoLimit_143=Ilimitado
 LS_TokenCount_143=Moneda Froggie
 LS_ToolTipText_143=<b><font color='#FDC243'>Monedas Froggie</font></b><br>Pueden adquirirse jugando en el Paraíso Froggie.
-LS_LimitedBuy_143=(El recuento de compras se reinicia en %s_1 d)
+LS_LimitedBuy_143=(Se reinicia en %s_1 d)
 LS_Title_144=Tienda de Jian Manas
 LS_ShopDesc_144=Su cuenta diaria de compras se reinicia cada día a las 5:00 a.m.
-LS_BuyCount_144=Compras disponibles
+LS_BuyCount_144=Límite de compra
 LS_NoLimit_144=Ilimitado
 LS_TokenCount_144=Token de Jian Manas
 LS_ToolTipText_144=<b><font color='#FDC243'>La Ficha de Jian Manas</font></b><br>Se puede conseguir jugando a la Prueba de Jian Manas.
-LS_LimitedBuy_144=(El recuento de compras se reinicia en %s_1 d)
+LS_LimitedBuy_144=(Se reinicia en %s_1 d)
 LS_Title_19520=Tienda Belbee salvaje
 LS_ShopDesc_19520=Una tienda especial.
 LS_Tab_Buy_19520=Comprar
 LS_Tab_BuyBack_19520=Buyback
 LS_Purchase_19520=Buy
-LS_BuyCount_19520=Compras disponibles
+LS_BuyCount_19520=Límite de compra
 LS_NoLimit_19520=Unlimited
 LS_TokenCount_19520=Lágrimas de la diosa
 LS_ToolTipText_19520=<b>Requiere <font color='#FDC243'>Lágrimas de la Diosa</font>.
@@ -643,7 +643,7 @@ LS_ShopDesc_19521=Una tienda especial.
 LS_Tab_Buy_19521=Comprar
 LS_Tab_BuyBack_19521=Buyback
 LS_Purchase_19521=Buy
-LS_BuyCount_19521=Compras disponibles
+LS_BuyCount_19521=Límite de compra
 LS_NoLimit_19521=Unlimited
 LS_TokenCount_19521=Lágrimas de la diosa
 LS_ToolTipText_19521=<b>Requiere <font color='#FDC243'>Lágrimas de la Diosa</font>.
@@ -652,7 +652,7 @@ LS_ShopDesc_19522=Tu cuenta de compras diarias se reinicia cada día a las 5:00 
 LS_Tab_Buy_19522=Comprar
 LS_Tab_BuyBack_19522=Volver a comprar
 LS_Purchase_19522=Buy
-LS_BuyCount_19522=Compras disponibles
+LS_BuyCount_19522=Límite de compra
 LS_NoLimit_19522=Unlimited
 LS_TokenCount_19522=Pestle
 LS_ToolTipText_19522=¡Recoge <b><font color='#FDC243'>Pestles</font></b> y ayuda a Mongshil!
@@ -661,41 +661,41 @@ LS_ShopDesc_19523=Tu cuenta de compras diarias se reinicia cada día a las 5:00 
 LS_Tab_Buy_19523=Comprar
 LS_Tab_BuyBack_19523=Volver a comprar
 LS_Purchase_19523=Buy
-LS_BuyCount_19523=Compras disponibles
+LS_BuyCount_19523=Límite de compra
 LS_NoLimit_19523=Unlimited
 LS_TokenCount_19523=Piezas espaciales
 LS_ToolTipText_19523=¡Recoge <b><font color='#FDC243'>Piezas de naves espaciales</font></b> y ayuda a Mongshil!
 LS_Title_19525=Tienda de Navidad Rudolph
 LS_ShopDesc_19525=Una tienda especial.
 LS_Purchase_19525=Buy
-LS_BuyCount_19525=Compras disponibles
+LS_BuyCount_19525=Límite de compra
 LS_NoLimit_19525=Unlimited
 LS_TokenCount_19525=Cornamenta de Rodolfo
 LS_ToolTipText_19525=<b>Requiere <font color='#FDC243'>Cornamenta de Rodolfo</font>.
 LS_Title_19537=Tienda de eventos de Luery
 LS_ShopDesc_19537=Esta tienda sólo abre durante un evento.
-LS_BuyCount_19537=Compras disponibles
+LS_BuyCount_19537=Límite de compra
 LS_NoLimit_19537=Unlimited
 LS_TokenCount_19537=Alimentación de Beatriz
 LS_ToolTipText_19537=Cambiar por <b><font color='#FDC243'>Alimento de Beatriz</font></b>
-LS_LimitedBuy_19537=(El recuento de compras se restablece en %s_1 d)
+LS_LimitedBuy_19537=(Se reinicia en %s_1 d)
 LS_Title_9429=Tienda de Lupa
 LS_ShopDesc_9429=Su cuenta de compras diaria se reinicia cada día a las 5:00 a.m.
-LS_BuyCount_9429=Compras disponibles
+LS_BuyCount_9429=Límite de compra
 LS_NoLimit_9429=Ilimitado
 LS_TokenCount_9429=Monedas de Oro de Lupa
 LS_ToolTipText_9429=Se pueden intercambiar con <b><font color='#FDC243'>Monedas de oro de Lupa</font></b> que aparecen en cubos, disponibles a partir de la fase 51 del Laberinto despierto de Lupa.
-LS_LimitedBuy_9429=(El recuento de compras se reinicia en %s_1 d)
+LS_LimitedBuy_9429=(Se reinicia en %s_1 d)
 LS_Title_177=Tienda de Worrywart Rozen
 LS_ShopDesc_177=Esta tienda sólo abre durante un periodo de evento.
-LS_BuyCount_177=Compras disponibles
+LS_BuyCount_177=Límite de compra
 LS_NoLimit_177=Ilimitado
 LS_TokenCount_177=Hueso Carnoso
 LS_ToolTipText_177=Se puede canjear por <b><font color='#FDC243'>Huesos Carnosos</font></b> que se pueden encontrar de varios monstruos Jefes de Dungeon.
-LS_LimitedBuy_177=(El recuento de compras se reinicia en %s_1 d)
+LS_LimitedBuy_177=(Se reinicia en %s_1 d)
 LS_Title_178=Tienda de Coco Inteligente
 LS_ShopDesc_178=Esta tienda oculta sólo abre durante un periodo de evento.
-LS_BuyCount_178=Compras disponibles
+LS_BuyCount_178=Límite de compra
 LS_NoLimit_178=Ilimitado
 LS_TokenCount_178=Hueso carnoso
 LS_ToolTipText_178=Se puede canjear por <b><font color='#FDC243'>Huesos Carnosos</font></b> que se pueden encontrar de varios monstruos Jefes de Dungeon.
@@ -705,91 +705,91 @@ LS_ShopDesc_146=Esta tienda especial sólo abre durante un periodo de evento.
 LS_Tab_Buy_146=Comprar
 LS_Tab_BuyBack_146=Volver a comprar
 LS_Purchase_146=Comprar
-LS_BuyCount_146=Compras disponibles
+LS_BuyCount_146=Límite de compra
 LS_NoLimit_146=Ilimitado
 LS_TokenCount_146=Huevo caliente de primavera
 LS_ToolTipText_146=Requiere <b><font color='#FDC243'>Huevos de la Primavera Caliente</font></b> de los monstruos de la Primavera Caliente.
-LS_LimitedBuy_146=(El recuento de compras se reinicia en %s_1 d)
+LS_LimitedBuy_146=(Se reinicia en %s_1 d)
 LS_Title_147=Tienda del Zorro Blanco Más Lindo
 LS_ShopDesc_147=Esta tienda oculta solo abre durante un periodo de evento.
 LS_Tab_Buy_147=Comprar
 LS_Tab_BuyBack_147=Volver a comprar
 LS_Purchase_147=Comprar
-LS_BuyCount_147=Compras disponibles
+LS_BuyCount_147=Límite de compra
 LS_NoLimit_147=Ilimitado
 LS_TokenCount_147=Huevo caliente de primavera
 LS_ToolTipText_147=Requiere <b><font color='#FDC243'>Huevos de Primavera Caliente</font></b> a los monstruos de la Primavera Caliente.
-LS_LimitedBuy_147=(El recuento de compras se reinicia en %s_1 d)
+LS_LimitedBuy_147=(Se reinicia en %s_1 d)
 LS_Title_149=Tienda de Lupa Awakened
 LS_ShopDesc_149=Esta tienda solo abre durante un periodo de evento.
-LS_BuyCount_149=Compras disponibles
+LS_BuyCount_149=Límite de compra
 LS_NoLimit_149=Ilimitado
 LS_TokenCount_149=Tiza rota
 LS_ToolTipText_149=Requiere <b><font color='#FDC243'>Tizas rotas</font></b> del Escondite de los Libertadores Caídos.
-LS_LimitedBuy_149=(El recuento de compras se reinicia en %s_1 d)
+LS_LimitedBuy_149=(Se reinicia en %s_1 d)
 LS_Title_19541=Tienda de Claudinha, Mercader brasileña de carnaval
 LS_ShopDesc_19541=Esta tienda sólo abre durante el evento.
-LS_BuyCount_19541=Cantidad de compras disponibles
+LS_BuyCount_19541=Cantidad de Límite de compra
 LS_NoLimit_19541=Unlimited
 LS_TokenCount_19541=Moneda conmemorativa del Carnaval de Brasil
 LS_ToolTipText_19541=Puede canjearse por la moneda conmemorativa del Carnaval de Brasil.
-LS_LimitedBuy_19541=(El recuento de compras se restablece en %s_1 d)
+LS_LimitedBuy_19541=(Se reinicia en %s_1 d)
 LS_Title_19635=Tienda del Evento de Tokens de Dukan
 LS_ShopDesc_19635=Esta tienda sólo abre durante los eventos.
-LS_BuyCount_19635=Compras disponibles
+LS_BuyCount_19635=Límite de compra
 LS_NoLimit_19635=Unlimited
 LS_TokenCount_19635=Ficha de Dukan
 LS_ToolTipText_19635=Requiere <b><font color='#FDC243'>Fichas de Dukan</font></b>.
-LS_LimitedBuy_19635=(El recuento de compras se reinicia en %s_1 d)
+LS_LimitedBuy_19635=(Se reinicia en %s_1 d)
 LS_Title_19639=Tienda del Enviado de Ohrdor
 LS_ShopDesc_19639=Esta tienda de eventos abre semanalmente.
-LS_BuyCount_19639=Compras disponibles
+LS_BuyCount_19639=Límite de compra
 LS_NoLimit_19639=Unlimited
 LS_TokenCount_19639=Zen
 LS_ToolTipText_19639=Compra con Zen.
-LS_LimitedBuy_19639=(El recuento de compras se restablece en %s_1 d)
+LS_LimitedBuy_19639=(Se reinicia en %s_1 d)
 LS_Title_19642=Tienda del Enviado de Ohrdor
 LS_ShopDesc_19642=Esta tienda de eventos abre semanalmente.
-LS_BuyCount_19642=Compras disponibles
+LS_BuyCount_19642=Límite de compra
 LS_NoLimit_19642=Unlimited
 LS_TokenCount_19642=Zen
 LS_ToolTipText_19642=Compra con Zen.
-LS_LimitedBuy_19642=(El recuento de compras se restablece en %s_1 d)
+LS_LimitedBuy_19642=(Se reinicia en %s_1 d)
 LS_Title_19645=Tienda del Enviado de Ohrdor
 LS_ShopDesc_19645=Esta tienda de eventos abre semanalmente.
-LS_BuyCount_19645=Compras disponibles
+LS_BuyCount_19645=Límite de compra
 LS_NoLimit_19645=Unlimited
 LS_TokenCount_19645=Zen
 LS_ToolTipText_19645=Compra con Zen.
-LS_LimitedBuy_19645=(El recuento de compras se restablece en %s_1 d)
+LS_LimitedBuy_19645=(Se reinicia en %s_1 d)
 LS_Title_19648=Tienda del Enviado de Ohrdor
 LS_ShopDesc_19648=Esta tienda de eventos abre semanalmente.
-LS_BuyCount_19648=Compras disponibles
+LS_BuyCount_19648=Límite de compra
 LS_NoLimit_19648=Unlimited
 LS_TokenCount_19648=Zen
 LS_ToolTipText_19648=Compra con Zen.
-LS_LimitedBuy_19648=(El recuento de compras se restablece en %s_1 d)
+LS_LimitedBuy_19648=(Se reinicia en %s_1 d)
 LS_Title_19651=Tienda del Enviado de Ohrdor
 LS_ShopDesc_19651=Esta tienda de eventos abre semanalmente.
-LS_BuyCount_19651=Compras disponibles
+LS_BuyCount_19651=Límite de compra
 LS_NoLimit_19651=Unlimited
 LS_TokenCount_19651=Zen
 LS_ToolTipText_19651=Compra con Zen.
-LS_LimitedBuy_19651=(El recuento de compras se restablece en %s_1 d)
+LS_LimitedBuy_19651=(Se reinicia en %s_1 d)
 LS_Title_19654=Tienda del Enviado de Ohrdor
 LS_ShopDesc_19654=Esta tienda de eventos abre semanalmente.
-LS_BuyCount_19654=Compras disponibles
+LS_BuyCount_19654=Límite de compra
 LS_NoLimit_19654=Unlimited
 LS_TokenCount_19654=Zen
 LS_ToolTipText_19654=Compra con Zen.
-LS_LimitedBuy_19654=(El recuento de compras se restablece en %s_1 d)
+LS_LimitedBuy_19654=(Se reinicia en %s_1 d)
 LS_Title_19657=Tienda del Enviado de Ohrdor
 LS_ShopDesc_19657=Esta tienda de eventos abre semanalmente.
-LS_BuyCount_19657=Compras disponibles
+LS_BuyCount_19657=Límite de compra
 LS_NoLimit_19657=Unlimited
 LS_TokenCount_19657=Zen
 LS_ToolTipText_19657=Compra con Zen.
-LS_LimitedBuy_19657=(El recuento de compras se restablece en %s_1 d)
+LS_LimitedBuy_19657=(Se reinicia en %s_1 d)
 LS_Title_110=Tienda
 LS_ShopDesc_110=La hora de reinicio de las compras diarias es 05:00
 LS_BuyCount_110=Límite de compra diario
@@ -889,13 +889,13 @@ LS_ToolTipText_19638=Disponible al canjear <b><font color='#FDC243'>Prueba de Et
 LS_LimitedBuy_19638=(Límite de compra restablecido tras %s_1 días)
 LS_Title_20000588=Halloween store
 LS_ShopDesc_20000588=La hora de inicio de las compras diarias es a las 05:00 todos los días
-LS_BuyCount_20000588=Número de compras disponibles
+LS_BuyCount_20000588=Número de Límite de compra
 LS_NoLimit_20000588=Sin límite
 LS_TokenCount_20000588=Caramelos fantasma de Halloween
 LS_ToolTipText_20000588=<b><font color='#FDC243'>Caramelos de Halloween</font></b><br>Se pueden obtener en la Dungeon de Halloween.
 LS_Title_4510002=Halloween store
 LS_ShopDesc_4510002=Esta tienda está abierta sólo durante el periodo del evento.
-LS_BuyCount_4510002=Número de compras disponibles
+LS_BuyCount_4510002=Número de Límite de compra
 LS_NoLimit_4510002=Sin límite
 LS_TokenCount_4510002=Caramelos fantasma de Halloween
 LS_ToolTipText_4510002=<b><font color='#FDC243'>Caramelos de Halloween</font></b><br>Pueden obtenerse en la Dungeon de Halloween.
@@ -2896,7 +2896,7 @@ MapIcon_2018=Cortador de gemas
 MapIcon_2019=Artesano
 MapIcon_2020=Farmacéutico
 MapIcon_2021=Cocinero
-MapIcon_2022=Cambiador de apariencia
+MapIcon_2022=Estilista
 MapIcon_2023=Guild Maestro Artesano
 MapIcon_2024=Mercader de Encantamientos
 MapIcon_2025=Administrador de la Arena
@@ -3062,7 +3062,7 @@ MapIcon_2144=Tienda de monedas de Carnaval
 MapIcon_3035=God of Corridor
 MapIcon_2151=Mercader
 MapIcon_3036=Paraíso del Caribe
-MapIcon_2158=Regalos diarios de Ohrdor
+MapIcon_2158=LAMUS: Regalos diarios
 MapIcon_2148=Tienda de monedas de plata del 4º Aniversario
 MapIcon_2149=Tienda de monedas de oro del 4º aniversario
 MapIcon_2150=Historiador Carl tienda
@@ -4867,10 +4867,10 @@ LS_SoulLevelStatue=Nivel del alma, rango 1
 LS_EndlessTowerStatue=Endless Tower, rango 1
 LS_ColosseumStatue=Arena rango 1
 LS_RankingStatue_NoRanker=Hola, este es un mensaje de LAMUS. <br>Esta estatua se ha erigido para marcar un nuevo capítulo de nuestra historia.
-LS_RankingStatue_CombatPower=Hola, este es un mensaje de LAMUS. <br>Esta estatua ha sido erigida para marcar un nuevo capítulo en nuestra historia. <br>En <font color='#FFFFFF'>%s_1</font>, <br><font size='20' color='#FCE7B0'>%s_2</font> ha sido clasificado en lo más alto en la categoría de Poder de Combate.<br>¡Por favor, envíanos tus felicitaciones!
-LS_RankingStatue_SoulLevel=Hola, este es un mensaje de LAMUS. <br>Esta estatua ha sido erigida para marcar un nuevo capítulo en nuestra historia. <br>En <font color='#FFFFFF'>%s_1</font>, <br><font size='20' color='#FCE7B0'>%s_2</font> ha sido clasificado en lo más alto de la categoría de Nivel de Alma.<br>¡Por favor, envíanos tus felicitaciones!
-LS_RankingStatue_EndlessTower=Hola, este es un mensaje de LAMUS. <br>Esta estatua ha sido erigida para marcar un nuevo capítulo en nuestra historia. <br>En <font color='#FFFFFF'>%s_1</font>, <br><font size='20' color='#FCE7B0'>%s_2</font> se ha clasificado en lo más alto de la categoría Endless Tower.<br>¡Por favor, envíanos tus felicitaciones!
-LS_RankingStatue_Colosseum=Hola, este es un mensaje de LAMUS. <br>Esta estatua ha sido erigida para marcar un nuevo capítulo en nuestra historia. <br>En <font color='#FFFFFF'>%s_1</font>, <br><font size='20' color='#FCE7B0'>%s_2</font> se ha clasificado en lo más alto de la categoría Arena.<br>¡Por favor, envíanos tus felicitaciones!
+LS_RankingStatue_CombatPower=Hola, este es un mensaje de LAMUS. <br>Esta estatua ha sido erigida para marcar un nuevo capítulo en nuestra historia. <br>En <font color='#FFFFFF'>%s_1</font>, <br><font size='20' color='#FCE7B0'>%s_2</font> ha sido clasificado en lo más alto en la categoría de Poder de Combate.<br>¡Felicitalo para recibir EXP de Alma!
+LS_RankingStatue_SoulLevel=Hola, este es un mensaje de LAMUS. <br>Esta estatua ha sido erigida para marcar un nuevo capítulo en nuestra historia. <br>En <font color='#FFFFFF'>%s_1</font>, <br><font size='20' color='#FCE7B0'>%s_2</font> ha sido clasificado en lo más alto de la categoría de Nivel de Alma.<br>¡Felicitalo para recibir EXP de Alma!
+LS_RankingStatue_EndlessTower=Hola, este es un mensaje de LAMUS. <br>Esta estatua ha sido erigida para marcar un nuevo capítulo en nuestra historia. <br>En <font color='#FFFFFF'>%s_1</font>, <br><font size='20' color='#FCE7B0'>%s_2</font> se ha clasificado en lo más alto de la categoría Endless Tower.<br>¡Felicitalo para recibir EXP de Alma!
+LS_RankingStatue_Colosseum=Hola, este es un mensaje de LAMUS. <br>Esta estatua ha sido erigida para marcar un nuevo capítulo en nuestra historia. <br>En <font color='#FFFFFF'>%s_1</font>, <br><font size='20' color='#FCE7B0'>%s_2</font> se ha clasificado en lo más alto de la categoría Arena.<br>¡Felicitalo para recibir EXP de Alma!
 LS_Date=DD, MM, YY
 LS_ShowCharacterInfo=Información del personaje
 LS_RecordDate=Fecha
@@ -4904,8 +4904,8 @@ LS_CBT1_Ranker_CombatPower_Rank[8]=9
 LS_CBT1_Ranker_CombatPower_Rank[9]=10
 LS_CBT1_Ranker_CombatPower_Name[0]=B4ST4RD
 LS_CBT1_Ranker_CombatPower_Name[1]=WiLLiTo
-LS_CBT1_Ranker_CombatPower_Name[2]=Mitz0ra
-LS_CBT1_Ranker_CombatPower_Name[3]=HATER
+LS_CBT1_Ranker_CombatPower_Name[2]=HATER
+LS_CBT1_Ranker_CombatPower_Name[3]=Mitz0ra
 LS_CBT1_Ranker_CombatPower_Name[4]=LOVER
 LS_CBT1_Ranker_CombatPower_Name[5]=Vazco
 LS_CBT1_Ranker_CombatPower_Name[6]=Sparkfly
