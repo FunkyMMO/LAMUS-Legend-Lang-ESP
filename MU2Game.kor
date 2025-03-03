@@ -992,7 +992,7 @@ LS_ReviveCooltimeEndMessage=Puede resucitar
 LS_AutoReviveRemainText=<font color='#fdc243'>%s_1</font> quedan segundos hasta la auto-resurrección.
 LS_ReviveItemTooltipText=Si no tienes Resurrection Stone of Life de Resurrección, puedes usar Redzen en su lugar para resucitar.
 LS_CantReviveZone=Mapa con Resurrección Restringida
-LS_ReviveCountNoSet=Sin límite de Resurrección
+LS_ReviveCountNoSet=Sin límite de resurrección
 LS_ReviveCountHave=%s_1 - Resurrecciones restantes:
 LS_ReviveCountEmpty=%s_1 - No se puede resucitar ahora
 
