@@ -1870,7 +1870,7 @@ LS_NeedActiveCondition=Nivel insuficiente
 LS_NotFindMsn=No se ha podido identificar el items. Por favor, cambie su opción de filtrado.
 LS_OneCost=Coste de elaboración:
 LS_TotalCost=Coste total de elaboración:
-LS_HaveMoney=Saldo:
+LS_HaveMoney=Balance:
 
 [MU2NPCDialogInfo]
 Deal=Usar Tienda
