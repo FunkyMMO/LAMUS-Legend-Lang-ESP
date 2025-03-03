@@ -5316,12 +5316,12 @@ ReincarnationOrder_2_Tab_0=Protección
 ReincarnationOrder_2_Tab_1=Aniquilación
 
 [MU2GFxMessageBoxItemRegist]
-LS_OKAndOpen=Registrar y Ver
+LS_OKAndOpen=Registrar y ver
 LS_OK=Registrar (Espacio)
 LS_Cancel=Cancelar (Esc)
 LS_ProtectedTicket_OKAndOpen=Encanto seguro
 LS_ProtectedTicket_OK=Encantar regular (Espacio)
-LS_Rune_Title=Registrar Habilidad Cresta
+LS_Rune_Title=Registrar Cresta
 LS_Rune_Description1=¿Registrar el emblema de habilidad a tu lista de emblemas de habilidad?
 LS_Rune_Description2=Las Crestas de Habilidad registradas se pueden ver en la ventana Equipar Cresta de Habilidad.¶Las Crestas de Habilidad registradas no se pueden intercambiar.
 LS_Pet_Title=Registrar mascota
@@ -6257,9 +6257,9 @@ LS_Caption=Almacenamiento
 LS_Description=Los Items en este almacén están disponibles para su uso durante 1 año desde la fecha de compra.<br>Los Items (Items intercambiados y Redzen incluidos), cuando se mueven a su inventario, se consideran usados.
 LS_SelectAll=Seleccionar todo
 LS_MoveAll=Mover todo
-LS_MoveSelect=Mover seleccionado
-LS_TabCashShop=Cofre Efectivo
-LS_TabEvent=Cofre de eventos
+LS_MoveSelect=Mover selección
+LS_TabCashShop=Tienda
+LS_TabEvent=Eventos
 LS_ItemGiftDesc=Es un regalo de %s.
 LS_ItemDateLimit=Utilizable hasta DD, MM, YY
 
