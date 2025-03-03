@@ -73,7 +73,7 @@ Menu_1006001=Funciones básicas
 Menu_1006002=Registrar mascotas
 Menu_1006003=Mascotas invocadas
 Menu_1006004=Mejorar mascotas
-Menu_1006005=Hábitat de la mascota
+Menu_1006005=Hábitat de mascota
 Menu_1006006=Colección y crecimiento de mascotas
 Menu_1006007=Aventura con mascotas
 Menu_1007001=Zen
@@ -333,7 +333,7 @@ SubTitle_1006004101=Las mascotas crecen a medida que acumulan EXP, y obtienen m�
 Contents_1006004103=Las mascotas ganan EXP mientras cazas monstruos.<br>Puedes hacer Mejorar y evolucionar a tus mascotas en la ventana Gestionar mascotas.
 SubTitle_1006004104=Las mascotas, cuando evolucionan, alcanzan un nivel más alto y cambian su apariencia.<br>Cuanto más alto es el nivel de una mascota, más fuerte es.
 Contents_1006004106=Evolucionar mascotas requiere ciertos recursos.
-Title_1006005100=Hábitat de la mascota
+Title_1006005100=Hábitat de mascota
 SubTitle_1006005101=Grupos de mascotas habitan esta zona.
 Contents_1006005103=Recoge todos los tipos de mascotas para obtener estadísticas de bonificación.<br>Conseguirás más de estas bonificaciones a medida que tus mascotas crezcan.<br><br><font color='#FE6D03'>Consejo:</font> Ten cuidado cuando te separes de tus mascotas. Puedes perder estadísticas de bonificación.
 Title_1006006100=Colección y crecimiento de mascotas

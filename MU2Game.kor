@@ -990,7 +990,7 @@ LS_ReviveCooltimeTimeText=%s_1s
 LS_ReviveCooltimeMessage=Resurrección pendiente
 LS_ReviveCooltimeEndMessage=Puede resucitar
 LS_AutoReviveRemainText=<font color='#fdc243'>%s_1</font> quedan segundos hasta la auto-resurrección.
-LS_ReviveItemTooltipText=Si no tienes Piedras de Vida de Resurrección, puedes usar Redzen en su lugar para resucitar.
+LS_ReviveItemTooltipText=Si no tienes Resurrection Stone of Life de Resurrección, puedes usar Redzen en su lugar para resucitar.
 LS_CantReviveZone=Mapa con Resurrección Restringida
 LS_ReviveCountNoSet=Sin límite de Resurrección
 LS_ReviveCountHave=%s_1 - Resurrecciones restantes:
@@ -1933,7 +1933,7 @@ lsMsgOpenCustomSkillName=%s_1 Nueva Habilidad Crest Slot
 lsMsgCollectionSuccess=¡Reunida con éxito!
 lsMsgCollectionFail=Fallo en la recogida.
 lsMsgMissionMatchEnterMessage=Entrarás automáticamente en %s_1  segundos.
-lsMsgMissionMatchCancelBtn=Cancelar petición
+lsMsgMissionMatchCancelBtn=Cancelar
 lsMsgMissionMapSuccess=¡Ganado!
 lsMsgMissionMapFail=Perdido
 lsMsgMissionMapDraw=Empate
@@ -2366,10 +2366,10 @@ LS_PetInfoFormat=Nivel %s_1 +%s_2 %s_3 (%s_4)
 LS_PetLevelFormat=%s_1/%s_2 (%s_3%)
 LS_PetCombatPowerFormat=Poder de Combate
 LS_PetAbilityLabel=Estadísticas básicas
-LS_PetFellowTypeOptionLabel=Efectos de la Mascota
+LS_PetFellowTypeOptionLabel=Efectos de mascota
 LS_CombatPowerBonusTitle=Bono total de combate
 LS_FellowTypeBonusTitle=Bonificación por tipo de Mascota
-LS_PetGrowInfoFormat=Información sobre la mejora de la mascota: %s_1
+LS_PetGrowInfoFormat=Información sobre la mejora de mascota: %s_1
 LS_PetGrowing=Mejorando...
 LS_PetEvolution=Evolucionando...
 LS_PetGrowEnd=Mejorado
@@ -3091,9 +3091,9 @@ strTradeMsg[5]=El otro jugador está registrando Items.
 strTradeMsg[6]=El otro jugador ha terminado de registrar Items.
 strTradeMsg[7]=Comprueba los Items y pulsa Comercio.
 strTradeMsg[8]=El otro jugador ha terminado de registrar Items.
-strBtnState[0]=Registrado
-strBtnState[1]=Cancelar Registro
-strBtnState[2]=Comercio
+strBtnState[0]=Comerciar
+strBtnState[1]=Cancelar
+strBtnState[2]=Aceptar
 
 [MU2GFxEventDialogView]
 TutConversation[0]=Icarus: ¡La barrera de Kethotoom se está debilitando!
@@ -4724,7 +4724,7 @@ LS_MonsterWave_Text[2]=Nuevos enemigos están llegando.
 
 [MU2GFxBloodCastleReward]
 LS_LimitTime=(Límite de tiempo: 10:00)
-LS_GetRewardAndExit=Reclamar y Salir
+LS_GetRewardAndExit=Reclamar y salir
 LS_GetReward=Reclamar recompensa
 LS_ClearTime=Hora de finalización
 LS_TotalScorePoint=Puntos totales
@@ -5086,21 +5086,21 @@ LS_HavePetNumText=Tus mascotas: %s_1
 LS_CombatPowerText=PC
 LS_LevelText=Nivel
 LS_PossessWindowTitle=Colección / Efecto de crecimiento
-LS_SummonPetLabel=Mascota de invocación/acompañante
+LS_SummonPetLabel=Mascota de invocación y acompañantes
 LS_GrowPetLabel=Creciendo
-LS_SummonPetEffect=Efectos de la mascota invocada
+LS_SummonPetEffect=Efectos de mascota invocada
 LS_CombatPowerBonus=Bono total de poder de combate
 LS_FellowTypeBonus=Bonificación por tipo de compañero
 LS_SummonPetText=Invocado
 LS_SummonFellowText=Mascota
 LS_IsEvoultionString=Listo para evolucionar
 LS_IsGrowPetString=Crecimiento
-LS_btnSummonText=Sumar
+LS_btnSummonText=Añadir
 LS_btnDeSpawnText=Quitar
 LS_btnReNameText=Renombrar
 LS_btnSetUpgradeTarget=Añadir mascota
 LS_btnUnetUpgradeTarget=Eliminar una Mascota
-LS_btnSetUpgradeNeedPet=Añadir mascota de material
+LS_btnSetUpgradeNeedPet=Añadir mascota
 LS_btnUnetUpgradeNeedPet=Eliminar mascota material
 LS_AdventureTitle=Aventura con mascota
 LS_AdventurePartyTitle=Formar un grupo de aventura.
@@ -5108,9 +5108,9 @@ LS_HeroPet=Mascota héroe
 LS_btnGoAdventure=Empezar aventura
 LS_btnSetParty=Formar un grupo
 LS_btnUnsetParty=Salir del grupo
-LS_AdventrueStartTitle=Comprueba las Aventuras Disponibles Hoy
-LS_AdventrueStartDesc=Envía a tus mascotas de aventuras.¶Las aventuras se reinician a las 5:00 a.m., y hay nuevos retos disponibles.
-LS_btnAdventrueStart=Ver aventuras disponibles
+LS_AdventrueStartTitle=Comprueba las aventuras disponibles de hoy
+LS_AdventrueStartDesc=Envía a tus mascotas a una aventura.¶Las aventuras se reinician a las 5:00 a.m., y hay nuevos retos disponibles.
+LS_btnAdventrueStart=Descubrir
 LS_btnCambiarAventuraVerde=Cambiar aventura
 LS_btnChangeAdventureRedzen=Gasta Redzen para cambiar a otra aventura
 LS_btnChangeAdventureFree=Recibir la siguiente aventura
@@ -5122,10 +5122,10 @@ LS_RegionLevelFormat=Etapa %s_1
 LS_RegionPetCollectFormat=(%s_1/%s_2)
 LS_RegionPetCollectAlert=Recoger %s_1 tipos para activar
 LS_PetAdventurePercentFormat=Posibilidades de éxito %s_1%%.
-LS_LevelUpTitle=Crecimiento de la mascota
+LS_LevelUpTitle=Crecimiento de mascota
 LS_EvolutionTitle=Evolucionar mascota
 LS_NeedConsumable=Material
-LS_NeedPet=Material Mascota
+LS_NeedPet=Consume mascotas como material de mejora
 LS_NeedItem=Item material
 LS_strTargetResultLabel=Reiniciar
 LS_SetUpgardeStartLabel_LevelUp=Crecimiento
@@ -5140,7 +5140,7 @@ LS_MsgBoxPetChargeLabelText=Coste
 LS_TitleReName=Renombrar mascota
 LS_btnReNameText=Cambiar
 LS_btnMsgBoxPetCancelText=Cancelar
-LS_PetNamingMsg=Los nombres de las mascotas deben tener entre 2 y 16 caracteres.<br>En cuanto a los caracteres especiales, sólo se pueden utilizar guiones bajos (_), a partir del segundo carácter.
+LS_PetNamingMsg=Los nombres tener entre 2 y 16 caracteres.<br>Guiones bajos (_) unicamente a partir del segundo carácter.
 LS_PetNamingAlertMsg=No se pueden utilizar caracteres especiales ni palabras inadecuadas.
 
 [MU2GFxMainMenuDataManager]
@@ -7290,7 +7290,7 @@ RewardDesc_2=<font color='#ffaf04'>Nivel 65 +7 Armadura mítica para tu clase</f
 RewardDesc_3=<font color='#ffe08c'>3 Pergaminos Misteriosos 100% Raros</font>
 RewardDesc_4=<font color='#ffe08c'>3 Pergaminos de Impronta Rojos</font>
 RewardDesc_5=<font color='#ffe08c'>3 Pergaminos de Impronta Azules</font>
-RewardDesc_6=<font color='#ffe08c'>30 Piedras de Vida Resurrección</font>
+RewardDesc_6=<font color='#ffe08c'>30 Resurrection Stone of Life Resurrección</font>
 RewardDesc_7=<font color='#ffffff'>3 Pociones de Crecimiento</font>
 RewardDesc_8=<font color='#ffffff'>300k Cofre de Gemas Mágicas</font>
 RewardDesc_9=<font color='#bbbbbb'>Todo tipo de llaves (excluida la Llave de la Fosa de los Muertos)</font>
@@ -8101,7 +8101,7 @@ LS_ExitBtn=Cerrar (ESC)
 LS_ExitBtn=Cerrar (Esc)
 
 [MU2GFxChaosCastleWidget]
-LS_RewardExit=Reclamar y Salir
+LS_RewardExit=Reclamar y salir
 LS_Rank=Rango
 LS_InGameInfo=¡Sobrevive hasta que nadie<br>quede en pie!
 LS_CurRank=Rango actual
@@ -8541,7 +8541,7 @@ LS_Ok=Ok(Espacio)
 LS_ItemCount=%s_1 / %s_2
 
 [MU2GFxWebOfGodWidget]
-LS_RewardExit=Reclamar y Salir
+LS_RewardExit=Reclamar y salir
 LS_WebOfGodClosed=Los pasillos se han cerrado.
 LS_WebOfGodDesc=Las recompensas se clasifican según tus Kill Points. Cuando se libere el espaciotiempo, se enviará a tu buzón la recompensa correspondiente a tu rango.
 LS_KillPoint=Puntos de vida

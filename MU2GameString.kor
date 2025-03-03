@@ -2024,7 +2024,7 @@ LS_NpcFunction_524288=Buzón de Summon
 NameFrame=%s_1's %s_2
 
 [PetFellowTypeName]
-PetFellowType_0=Material de crecimiento de la mascota
+PetFellowType_0=Material de Crecimiento de mascota
 PetFellowType_1=Normal
 PetFellowType_2=Material
 PetFellowType_3=Soporte
