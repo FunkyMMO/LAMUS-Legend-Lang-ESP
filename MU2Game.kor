@@ -321,7 +321,7 @@ LS_CancleButtonLabel=Cancelar
 [MU2ChatManager]
 ChannelName[0]=Todos
 ChannelName[1]=Chat
-ChannelName[2]=Encontrar Party
+ChannelName[2]=Party
 ChannelName[3]=Comercio
 Party=/party
 Raid=/e incursión
@@ -5999,7 +5999,7 @@ LS_BossComplete=¡Eliminado el Depredador de Rift!¶Reclama tu recompensa.
 LS_SuccessBubbleTalk=¡La batalla contra el jefe comienza ahora!
 LS_FailedBubbleTalk=Hm... No estoy seguro de que seas lo suficientemente fuerte para hacerlo. Bueno, ¡buena suerte!
 LS_BossCompleteBubbleTalk=¡Revisa el suelo en busca de EXP de Artefacto!
-LS_BossBlockBtn=¡Aparecido el Depredador!
+LS_BossBlockBtn=¡Apareció el Depredador!
 LS_ExitDungeonBtn=Salir de la Dungeon
 
 [MU2GFxMessageBoxMazeBossBlock]
@@ -6069,7 +6069,7 @@ LS_AlchemyText=Alquimia
 LS_Step=Etapa %s_1
 LS_GotoCashShop=Ir a la tienda LAMUS
 LS_AlchemyDesc=- Selecciona un Artefacto con un cierto nivel de Crecimiento como objetivo de Alquimia.<br>- La Alquimia destruye el Artefacto, pero genera una recompensa de Alquimia.<br>- Tu recompensa varía, dependiendo del nivel de Crecimiento del Artefacto.<br>- Puedes usar Aceleración de Alquimia para acortar el tiempo de Alquimia.
-LS_ShowRewardBtn=Comprobar Recompensa
+LS_ShowRewardBtn=Recompensas
 LS_ShowRewardMsg=Comprueba tu recompensa.
 LS_AlchemyInfoTitle=Información Alquimia Artefacto
 LS_MaxLevel=Nivel más alto
@@ -7767,7 +7767,7 @@ LS_MissionNameStr=Título de la misión
 LS_MissionRewardStr=Recompensas de la misión
 LS_OnGoingMissionStr=Etapa %d
 LS_TotalMissionCompleteStr=Completar todas las misiones
-LS_MissionItemListTooltip=: Comprobar recompensas de Items
+LS_MissionItemListTooltip=: Recompensas
 
 [MU2GFxGuideMissionMoreInfo]
 LS_GetRewardedStr=Reclamar recompensas
