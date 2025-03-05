@@ -1928,7 +1928,7 @@ EnchantInherit=Heredar encantamiento
 
 [MU2GFxSystemMessageView]
 lsMsgAcquireSkillName=Habilidad %s_1 aprendida.
-lsMsgAcquireSkillGetMessage=Pulsa X para abrir la ventana de Habilidad.
+lsMsgAcquireSkillGetMessage=Pulsa K para abrir la ventana de Habilidad.
 lsMsgOpenCustomSkillName=%s_1 Nueva Habilidad Crest Slot
 lsMsgCollectionSuccess=¡Reunida con éxito!
 lsMsgCollectionFail=Fallo en la recogida.

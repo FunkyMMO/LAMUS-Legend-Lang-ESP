@@ -701,8 +701,8 @@ Doing_String=¡Apúrate! La trampa del enemigo se completará pronto.
 Completable_String1=Nos volvemos a encontrar. ¿Me extrañaste?
 Complete_String=El Ejército de Pandemonium estaba tratando de aislar Karmatan, en lugar de ocuparla, utilizando sus piedras guardianas. El Comandante de la Guardia Enana Duprian dijo que una vez que todas las piedras estuvieran en su lugar, crearían una trampa de espacio oscuro, aislando la Karmatan Mine del resto del mundo. Eso significa que el enemigo no estaba tras las minas de newk como pensábamos. Después de destruir las piedras guardianas, me dirigí a encontrar al Miembro de la Fuerza Especial de Policía Local Royce. Él es el mejor explorador de Dudrin. Debería poder resolver este enigma.
 List_String=(Enova Misión Principal) (38/48)<br>Debo destruir las piedras guardianas para evitar que la Karmatan Mine sea aislada y decirle al Miembro de la Fuerza Especial de Policía Local Royce que el objetivo del Ejército de Pandemonium no es la Karmatan Mine.
-Mission_String=Destruye las Dark Wardstones e informa al Miembro de la Fuerza Especial de Policía Local Royce.
-Mission_Target1=Destruye las Wardstones
+Mission_String=Destruye las Statues e informa al Miembro de la Fuerza Especial de Policía Local Royce.
+Mission_Target1=Destruye las Statues
 Mission_Target2=Elimina a los Bull Horn Majors
 
 [Quest_121]
