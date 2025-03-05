@@ -80,11 +80,11 @@ LS_ServerBlockMessage=El acceso a LAMUS<br>está restringido en su cuenta.
 LS_ConnectFailConfirm=OK
 
 [MU2GFxFrontEnd_View_CharSelect]
-LS_GameMovie[0]=La Caída del Imperio MU
-LS_GameMovie[1]=Última Esperanza
+LS_GameMovie[0]=La caída del Imperio MU
+LS_GameMovie[1]=Última esperanza
 LS_GameMovie[2]=Uno sin recuerdos
-LS_GameMovie[3]=La aparición de la Misión Oscura
-LS_GameMovie[4]=Fin de la Guerra Fría
+LS_GameMovie[3]=La aparición de la misión oscura
+LS_GameMovie[4]=Fin de la guerra fría
 LS_GameMovie[5]=Otro plan más
 LS_GameMovie[6]=El origen del talismán
 LS_PlayerLogOutTime=DD, MM, YY, hh:mm:ss
