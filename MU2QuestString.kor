@@ -212,7 +212,7 @@ Mission_Target2=Eliminar Mutant Spiders
 Mission_Target3=Eliminar Larvas
 
 [Quest_20]
-Name=Generators de Evil Energy de Pandemonium
+Name=Generadores de Evil Energy del Pandemonium
 Occur_String1=¿Me estás preguntando esto en una capacidad oficial?
 Occur_String2=Sí, y tu pago se basará en la tarifa anterior. La Evil Energy está descontrolada en este lugar.
 Occur_String3=Lo sé. Es un pasaje entre Pandemonium y este reino.<br>Me han dicho que Pandemonium ha invadido por primera vez en doscientos años.
@@ -270,7 +270,7 @@ Completable_String1=He encontrado esto en una Larva del segundo grupo. Parecían
 Complete_String=Según la carta de Royce, un grupo de avance de Larvas ya había salido hacia la base minera y un segundo grupo se estaba preparando para seguirlo. Para averiguar qué estaban tramando, ataqué al segundo grupo antes de que saliera del campamento y revisé sus pertenencias.
 List_String=(Enova Misión Principal) (13/48)<br>Según la carta de Royce, un grupo de avance de Larvas ya ha salido hacia la base minera con un segundo grupo preparándose para seguirlo. Voy a atacar al segundo grupo y averiguar qué intentan hacer en la base minera.
 Mission_String=Matar al Violent Larva Captain, revisar sus pertenencias y reportar a Ilina
-Mission_Target1=Pertenencias Personales del Violent Larva Captain
+Mission_Target1=Violent Larva Captain's Personal Belongings
 
 [Quest_24]
 Name=Encontrando Bombas
@@ -299,8 +299,8 @@ Completable_String1=Eres tan bueno como dicen que eres.<br>Aquí está tu pago.
 Complete_String=Exterminé a las Sapi Unus, una de las plantas que han sido mutadas por magia negra, y destruí sus nidos para los Shadow Phantoms. Sé que esas plantas están contaminadas por magia negra y deben ser exterminadas, pero aún así no pude evitar sentirme culpable por dañar plantas indefensas.
 List_String=El Shadow Phantom me pidió que exterminara a las Sapi Unus, una de las plantas que han sido contaminadas por magia negra, y destruyera sus nidos.
 Mission_String=Matar las Plantas Mutadas y hablar con un Shadow Phantom
-Mission_Target1=Flashy Sapi Unus
-Mission_Target2=Destroy the Sapi Nests
+Mission_Target1=Mata Flashy Sapi Unus
+Mission_Target2=Destruye los Sapi Nests
 
 [Quest_28]
 Name=Desarmar las Bombas
@@ -317,7 +317,7 @@ Complete_String=El grupo de avance de los Larvas colocó explosivos en el lado s
 List_String=(Enova Misión Principal) (15/48)<br>Debo desarmar las bombas que el grupo de avance de los Larvas ha colocado en el lado sur de la base de la mina.
 Mission_String=Exterminar Boars a tu alrededor y desarma los explosivos, y luego hablar con Billy
 Mission_Target1=Desarmar las Bombas
-Mission_Target2=Exterminar Boars
+Mission_Target2=Extermina a los Boars
 
 [Quest_32]
 Name=El Verdadero Objetivo del Ejército de Pandemonium
@@ -1014,8 +1014,8 @@ Doing_String=Son los visitantes más no deseados.
 Completable_String1=Te lo agradezco. Gracias a ti, podemos mantener este festival divertido y seguro.<br>Por favor, ven de nuevo si tienes tiempo. Estaré esperando verte.
 Complete_String=Me encargué de los monstruos que intentaban llegar al mundo de la superficie a través de las sewers de Ohrdor.
 List_String=Tengo que encargarme de los monstruos que intentan llegar al mundo de la superficie a través de las sewers de Ohrdor.<br>No puedo dejar que arruinen este gran evento.
-Mission_String=Matar monstruos extraños en las sewers
-Mission_Target1=Matar monstruos en las sewers
+Mission_String=Mata monstruos extraños en las sewers
+Mission_Target1=Mata monstruos en las sewers
 
 [Quest_161]
 Name=Divirtiéndome con Dados
@@ -1052,19 +1052,19 @@ Mission_Target1=Elegir un Cofre del Tesoro de Ohrdor
 Name=El Bardo Rana Gorgorgor
 Occur_String1=Disculpa. Pareces un Guerrero de Contrato. ¿Te importaría escucharme? *Croak*
 Occur_String2=¿Qué? Eres una de esas ranas ladronas en Fabrice Garden. ¿Cómo saliste de allí? <br>¡Si intentas robarme, primero te robaré la vida!
-Occur_String3=¿De qué hablas? *Croak* Soy Gorgorgor, un bardo honesto del Mundo de las Ranas. <br>Puedo estar huyendo ahora mismo, pero no soy un ladrón. ¡¿Cómo te atreves!? *Croak*
+Occur_String3=¿De qué hablas? *Croak* Soy Gorgorgor, un bardo honesto del Frog World. <br>Puedo estar huyendo ahora mismo, pero no soy un ladrón. ¡¿Cómo te atreves!? *Croak*
 Occur_String4=No puedes engañarme, vistiendo esa ropa, ladrón bardo.
-Occur_String5=¡Grr! Solo escúchame. *Croak* Soy Gorgorgor, un bardo del Mundo de las Ranas. Estoy huyendo del malvado director Croak. Lo que llevo puesto ahora son las ropas de un asesino que me puso Croak.
-Occur_String6=Croak no está contento conmigo porque tengo la autoridad para elegir al director del Mundo de las Ranas, y no lo elegí a él.
+Occur_String5=¡Grr! Solo escúchame. *Croak* Soy Gorgorgor, un bardo del Frog World. Estoy huyendo del malvado director Croak. Lo que llevo puesto ahora son las ropas de un asesino que me puso Croak.
+Occur_String6=Croak no está contento conmigo porque tengo la autoridad para elegir al director del Frog World, y no lo elegí a él.
 Occur_String7=Croak también es un talentoso mago negro. Liberó el veneno que su madre hizo secretamente en el arroyo donde vivían mis hermanos y yo. Nos afectó la mente y no pudimos hacer nada mientras Croak y su ejército de Slimes tomaron el control del mundo entero. *Croak*
-Occur_String8=¡Croak debe ser detenido antes de que llene el Mundo de las Ranas con ese terrible ruido que llama música! *Croak!*
+Occur_String8=¡Croak debe ser detenido antes de que llene Frog World con ese terrible ruido que llama música! *Croak!*
 Occur_String9=Bueno, de acuerdo. Pero, ¿qué obtengo a cambio de ayudarte? Como ya sabes, no trabajo gratis.
-Occur_String10=Ayúdame a recuperar el Mundo de las Ranas, y te daré el dinero que llevé conmigo cuando escapé de él. *Croak*
+Occur_String10=Ayúdame a recuperar Frog World, y te daré el dinero que llevé conmigo cuando escapé de él. *Croak*
 Doing_String=¿Podrías ayudarme? *Croak*
 Completable_String1=¿Podrías ayudarme? *Croak*
-Complete_String=Conocí a una rana sospechosa junto a la fuente en la Plaza Ohrdor. Negó furiosamente su relación con las Ranas Bandida a pesar de cómo estaba vestida. Se presentó como Gorgorgor, un bardo del Mundo de las Ranas. Estaba huyendo de un malvado director llamado Croak. Me pidió ayuda para recuperar el Mundo de las Ranas a cambio de algo del dinero que tomó cuando escapó de su mundo.
-List_String=Habla con el Bardo Rana Gorgorgor junto a la Fuente de Ohrdor
-Mission_String=Habla con el Bardo Rana Gorgorgor junto a la Fuente de Ohrdor
+Complete_String=Conocí a una rana sospechosa junto a la fuente en la Plaza Ohrdor. Negó furiosamente su relación con las Ranas Bandida a pesar de cómo estaba vestida. Se presentó como Gorgorgor, un bardo del Frog World. Estaba huyendo de un malvado director llamado Croak. Me pidió ayuda para recuperar Frog World a cambio de algo del dinero que tomó cuando escapó de su mundo.
+List_String=Habla con Frog Bard Gorgorgor junto a la Fuente de Ohrdor
+Mission_String=Habla con Frog Bard Gorgorgor junto a la Fuente de Ohrdor
 Mission_Target1=Hablar con Gorgorgor
 
 [Quest_166]
@@ -1072,30 +1072,30 @@ Name=¡Despierta, Mis Hermanos Ranas!
 Occur_String1=Como te dije, mis hermanos están fuera de sus cabales debido al veneno hecho por la madre de Croak. Están cantando sus terribles canciones con sus terribles voces. *Croak* Quiero que los ayudes a sobrios, pero eso se puede hacer fácilmente. Solo golpéales a cada uno 10 veces. Recobrarán el sentido de inmediato. *Croak*
 Doing_String=Por favor, no golpees a mis hermanos tan fuerte que puedan morir. *Croak*
 Completable_String1=Mis hermanos me dijeron cuán útil fuiste. *Croak* ¡Gracias!
-Complete_String=Entré en el Mundo de las Ranas y golpeé un poco de sentido a algunas ranas. Gorgorgor me agradeció y me dio algo de su dinero.
-List_String=Entra en el Mundo de las Ranas y golpea un poco de sentido a algunas ranas.
-Mission_String=Golpear a las ranas intoxicadas
-Mission_Target1=Golpear a los hermanos ranas
+Complete_String=Entré en Frog World y golpeé un poco de sentido a algunas ranas. Gorgorgor me agradeció y me dio algo de su dinero.
+List_String=Entra en Frog World y golpea un poco de sentido a algunas ranas.
+Mission_String=Golpea a las intoxicated frogs
+Mission_Target1=Golpea a los frog brothers
 
 [Quest_167]
 Name=Los Soldados de Otro Mundo de Croak
 Occur_String1=Croak no podría haber conquistado mi mundo tan rápido si no fuera por las poderosas criaturas que trajo de esa dimensión. *Croak* Usó su malvado magia negra para controlar sus mentes, convirtiéndolos en sus siervos. Por favor, Señor Guerrero, libéralos de las garras de Croak.
 Doing_String=¡Por favor, libera a los poderosos soldados de otro mundo de Croak de sus garras!
 Completable_String1=Puedo decir que ahora están libres de la influencia malvada de Croak. *Croak* ¡Buen trabajo!
-Complete_String=Entré en el Mundo de las Ranas y liberé a los poderosos soldados de Croak de su magia maligna.
-List_String=Entrar en el Mundo de las Ranas y liberar a los poderosos soldados de Croak de su magia maligna.
-Mission_String=Entrar en el Mundo de las Ranas y derrotar a los poderosos soldados encantados de Croak.
-Mission_Target1=Derrotar a los soldados poderosos.
+Complete_String=Entré en Frog World y liberé a los poderosos soldados de Croak de su magia maligna.
+List_String=Entrar en Frog World y liberar a los poderosos soldados de Croak de su magia maligna.
+Mission_String=Entrar en Frog World y derrotar a los poderosos soldados encantados de Croak.
+Mission_Target1=Derrota a los powerful soldiers
 
 [Quest_168]
 Name=¡No Puedes Ser el Director de Este Mundo!
 Occur_String1=Creo que Croak ha hecho esto por el bien de su madre. *Croak* Pero sea cual sea la razón, no podemos dejar que haga lo que quiera. Por favor, pon fin al plan de Croak. Te recompensaré generosamente.
 Doing_String=Para convertirse en el director de mi mundo, uno tiene que perfeccionar sus habilidades durante mucho tiempo. *Croak* Pero Croak no tuvo la paciencia, así que usó su magia malvada para hacer trampa.
 Completable_String1=Hace mucho tiempo, Croak y yo éramos como hermanos. *Croak* <br>No sé cómo sucedió esto. Me entristece...
-Complete_String=Derroté al malvado director Croak y frustré su plan de dominación del Mundo de las Ranas. Cuando entregué la noticia a Gorgorgor, recordó tristemente su relación rota con Croak.
-List_String=Derrotar al malvado director Croak que quiere dominar el Mundo de las Ranas.
-Mission_String=Derrotar al malvado director Croak que quiere dominar el Mundo de las Ranas.
-Mission_Target1=Derrotar al Director Croak.
+Complete_String=Derroté al malvado director Croak y frustré su plan de dominación del Frog World. Cuando entregué la noticia a Gorgorgor, recordó tristemente su relación rota con Croak.
+List_String=Derrotar al malvado conductor Croak que quiere dominar el Frog World.
+Mission_String=Derrotar al malvado conductor Croak que quiere dominar el Frog World.
+Mission_Target1=Derrotar al conductor Croak
 
 [Quest_169]
 Name=Quiero Volver a la Luna.
@@ -1189,10 +1189,10 @@ Doing_String=Se colaron mientras estábamos atracados en ciudades y aldeas.<br>I
 Completable_String1=¿Las atrapaste? ¡Ratas! ¿Atrapaste esas ratas?
 Completable_String2=¡Oh! ¡Eres nuestro héroe! Finalmente, podremos dormir un poco.<br>Por favor, acepta este pequeño símbolo de nuestro agradecimiento. ¡Jajaja!
 Complete_String=Atrapé las ratas para ellos, y me dieron un gato a cambio. No entiendo por qué no usaron al gato para atrapar las ratas. Solo pensarlo me da dolor de cabeza.
-List_String=Atrapa ratas en el dirigible.
-Mission_String=Mata a las Ratas en el Dirigible.
-Mission_Target1=Atrapa la Rata de Ciudad.
-Mission_Target2=Atrapa la Rata de Campo.
+List_String=Atrapa ratas en el airship.
+Mission_String=Mata a las Rats on the Airship.
+Mission_Target1=Atrapa la City Rat.
+Mission_Target2=Atrapa la Country Rat.
 
 [Quest_207]
 Name=El Líder de Ohrdor
@@ -1234,9 +1234,9 @@ Completable_String1=¿Dónde conseguiste esto? No es algo que se pueda encontrar
 Complete_String=Recolecté los productos del Mercader del campo y los entregué al Mercader de Ohrdor. Al ver las reacciones del Mercader de Ohrdor, parece que el Mercader del campo no estaba exagerando.
 List_String=Debo recolectar los productos del Mercader del campo y entregarlos al Mercader de armas.
 Mission_String=Recolecta los productos del Mercader del campo y entrégalos al Mercader de armas.
-Mission_Target1=Recolecta el Item de armas.
-Mission_Target2=Recolecta el Item de armadura.
-Mission_Target3=Entrega los Items recolectados.
+Mission_Target1=Recolecta weapon item
+Mission_Target2=Recolecta armor item
+Mission_Target3=Entrega los items recolectados.
 
 [Quest_210]
 Name=La Metrópolis Comercial Ohrdor
@@ -1283,7 +1283,7 @@ Mission_Target1=Suministros
 
 [Quest_213]
 Name=Asalto de Garuda
-Complete_String=Eliminé a la Garuda Assault Unit.
+Complete_String=Eliminé a la Garuda Assault Unit
 List_String=Debo eliminar a la Garuda Assault Unit.
 Mission_String=Elimina a la Garuda Assault Unit
 Mission_Target1=Garuda Assault Unit
@@ -1293,7 +1293,7 @@ Name=Subjefe de la Garuda Assault Unit
 Complete_String=Eliminé al Subjefe de la Garuda Assault Unit.
 List_String=Debo eliminar al Subjefe de la Garuda Assault Unit.
 Mission_String=Elimina al Subjefe de la Garuda Assault Unit
-Mission_Target1=Subjefe de la Garuda Assault Unit
+Mission_Target1=Garuda Assault Unit Subleader
 
 [Quest_215]
 Name=Líder de la Garuda Assault Unit
@@ -1314,31 +1314,31 @@ Occur_String3=Los Arkeanos son bien conocidos por sus habilidades comerciales, p
 Occur_String4=Muchos comerciantes alrededor del continente se están quejando de esos piratas.<br>Entonces, ¿te interesa? Si te interesa, ve y busca en los dirigibles de Ohrdor.<br>Y si los encuentras, trae las marcas de los Piratas Arke como prueba.
 Occur_String5=Los Piratas Arke, ¿eh? Me pregunto cómo serán...
 Doing_String=La caza de recompensas es una buena manera de ganar dinero...
-Complete_String=Investigué el dirigible comercial en Ohrdor.
-List_String=Debo investigar el dirigible comercial en Ohrdor.
-Mission_String=Investiga el dirigible comercial en Ohrdor
+Complete_String=Investigué el trade airship in Ohrdor
+List_String=Debo investigar el trade airship in Ohrdor
+Mission_String=Investiga el trade airship in Ohrdor
 Mission_Target1=Entra en el trade airship
 
 [Quest_217]
 Name=Aparición de los Piratas Arke
-Complete_String=Eliminé a los Piratas Arke y recogí las Piezas de la Bandera Pirata.
-List_String=Debo eliminar a los Piratas Arke y recoger las Piezas de la Bandera Pirata.
-Mission_String=Elimina a los Piratas Arke y recoge las Piezas de la Bandera Pirata
-Mission_Target1=Pieza de la Bandera Pirata de los Arke
+Complete_String=Eliminé a los Piratas Arke y recogí las Pirate Flag Pieces
+List_String=Debo eliminar a los Piratas Arke y recoger las Pirate Flag Pieces
+Mission_String=Elimina a los Piratas Arke y recoge las Pirate Flag Pieces
+Mission_Target1=Pirate Flag Pieces
 
 [Quest_218]
 Name=Limpieza del Dirigible
 Complete_String=Limpié a los Piratas Arke en el centro del dirigible.
 List_String=Debo limpiar a los Piratas Arke en el centro del dirigible.
-Mission_String=Elimina a los enemigos en el centro del dirigible
-Mission_Target1=Pirata Arke
+Mission_String=Elimina a los enemigos en the center of the airship
+Mission_Target1=Arke Pirate
 
 [Quest_219]
 Name=Capitán de Estado Mayor de los Piratas Arke
 Complete_String=Derroté al Capitán de Estado Mayor de los Piratas Arke.
 List_String=Debo derrotar al Capitán de Estado Mayor de los Piratas Arke.
 Mission_String=Derrota al Capitán de Estado Mayor de los Piratas Arke
-Mission_Target1=Capitán de Estado Mayor
+Mission_Target1=Staff Captain
 
 [Quest_220]
 Name=Capitán de los Piratas Arke
@@ -1346,35 +1346,35 @@ Doing_String=
 Completable_String1=Buen trabajo. Los comerciantes también estarán felices.<br>Aquí tienes tu recompensa. Entonces, ¿qué te parece el negocio de cazarrecompensas?<br>Ganas dinero y haces felices a las personas. Es como matar dos pájaros de un tiro.
 Complete_String=Derroté al Capitán de los Piratas Arke.
 List_String=Debo derrotar al Capitán de los Piratas Arke.
-Mission_String=Elimina al Capitán de los Piratas Arke y habla con Mahorn
+Mission_String=Elimina al Arke Pirate Captain y habla con Mahorn
 Mission_Target1=Capitán
 
 [Quest_221]
-Name=Greed's, el Nuevo Rico de Ohrdor
+Name=Greed's, el nuevo rico de Ohrdor
 Occur_String1=¿Eres un viajero?<br>Tus ojos me dicen que podrías llevarte bien con mi maestro.<br>Si estás interesado, ¿por qué no entras?
 Occur_String2=Mi maestro no confía en cualquiera para asignarle una tarea.<br>Pero podría pensar que eres diferente.
 Doing_String=He visto a muchas personas criticar a mi maestro, llamándolo advenedizo.<br>La mayoría son personas con un sentido de inferioridad.
 Completable_String1=Bienvenido, ¿eres el nuevo recadero?
 Complete_String=Hablé con Greed's en su casa.
 List_String=Debo hablar con Greed's en su casa.
-Mission_String=Habla con Greed's, el Nuevo Rico de Ohrdor
+Mission_String=Habla con Greed's, el nuevo rico de Ohrdor
 Mission_Target1=Habla con Greed's
 
 [Quest_222]
-Name=La Intención del Nuevo Rico Greed's
+Name=La Intención del nuevo rico Greed's
 Occur_String1=Tus ojos son inusuales. Pareces alguien que puede llevar a cabo encargos.
 Occur_String2=¿Qué quieres decir con encargos?
 Occur_String3=No hay necesidad de andarse con rodeos. Tengo prisa, ¿entiendes?<br>¿Puedes entregar estas cajas de frutas a los jefes de distrito de Ohrdor?<br>Pero no debes abrirlas. ¡NUNCA! ¿Entendido?<br>Te recompensaré generosamente.
 Doing_String=No puedo perder ante alguien como Dumpain...
 Completable_String1=Este advenedizo sucio está dando un soborno...<br>Realmente es el más despistado de Ohrdor...
-Complete_String=Entregué los Items que Greed's me pidió que diera al Jefe del Commercial District y al Jefe del Central District de Ohrdor. Parece que el nuevo rico está tramando algo.
-List_String=Debo entregar los Items que Greed's me pidió a los jefes de distrito de Ohrdor.
-Mission_String=Entrega los Items que Greed's pidió a los jefes de distrito de Ohrdor
+Complete_String=Entregué los items que Greed's me pidió que diera al Jefe del Commercial District y al Jefe del Central District de Ohrdor. Parece que el nuevo rico está tramando algo.
+List_String=Debo entregar los items que Greed's me pidió a los jefes de distrito de Ohrdor.
+Mission_String=Entrega los items que Greed's pidió a los jefes de distrito de Ohrdor
 Mission_Target1=Jefe del Commercial District de Ohrdor
 Mission_Target2=Jefe del Central District de Ohrdor
 
 [Quest_223]
-Name=La Reputación del Nuevo Rico Greed's
+Name=La Reputación del nuevo rico Greed's
 Occur_String1=Oye, ¿ese nuevo rico te dijo que hicieras esto? No es noble, y aún así está tan lleno de sí mismo porque hizo algo de dinero. Mira. La caja está llena de dinero.
 Occur_String2=Debe estar tratando de sobornarnos, a los jefes de distrito de Ohrdor, para traicionar a Dumpain, pero ni siquiera debería soñarlo.
 Occur_String3=Nadie puede tramar traición contra Dumpain en Ohrdor.<br>Y ese hombre vulgar perpetró esta farsa...<br>Entrega la caja de frutas a Dumpain. Él podrá usar esto como prueba de traición.
@@ -1382,8 +1382,8 @@ Doing_String=Realmente me molestan aquellos que no conocen su lugar.
 Completable_String1=Extraño Asesino, ¿qué te trae por aquí?
 Complete_String=Entregué el Item que el Jefe del Central District me pidió dar a Dumpain.
 List_String=Debo entregar el Item que el Jefe del Central District me pidió dar a Dumpain.
-Mission_String=Entrega el Item que el Jefe del Central District pidió dar a Dumpain
-Mission_Target1=Entrega la caja de frutas
+Mission_String=Entrega el item que el Jefe del Central District pidió dar a Dumpain
+Mission_Target1=Entrega la fruit box
 
 [Quest_224]
 Name=El Juicio de Dumpain
@@ -1491,7 +1491,7 @@ Doing_String=¿Cuánto tiempo más crees que necesitas para conseguir tres Crist
 Completable_String1=¡Vaya, buen trabajo! Los trajiste tan rápido. Eres tan bueno como dicen. ¡Gracias!<br>Ahora, debería ponerme a trabajar.
 Complete_String=Durov quería Cristales de Rift que se podían encontrar en monstruos de categoría Élite o superior que han vagado por las Rifts durante mucho tiempo. Tan pronto como le di los Cristales de Rift, Durov comenzó a preparar una prueba del Reactor Odyssey.
 List_String=Debo eliminar monstruos de categoría Élite o superior en las Rifts y recolectar Cristales de Rift para Durov, para que pueda realizar una prueba del Reactor Odyssey.
-Mission_String=Recolecta items para Durov de monstruos de categoría Élite o superior en las Rifts
+Mission_String=Recolecta items para Durov de monstruos de categoría Élite o superior en Rifts
 Mission_Target1=Rift Crystal
 
 [Quest_233]
@@ -1624,8 +1624,8 @@ Completable_String1=Un ejército de Demonios y sus secuaces están bloqueando es
 Completable_String2=El hecho de que estén decididos a detener nuestra nave demuestra lo amenazante que es para ellos.<br>Buen trabajo, %s_9_1. Espero que nos ayudes a menudo. Por supuesto, te recompensaremos por tu esfuerzo.
 Complete_String=Detuve a los Demonios y sus secuaces que atacaron el dirigible. Pero vienen una y otra vez, haciendo peligroso continuar con este viaje. Encontrar rutas, o incluso mantenerlas después, será un gran desafío.
 List_String=Detén a los Demonios y sus secuaces que atacan el dirigible y ayuda a encontrar rutas hacia Pandemonium.
-Mission_String=Mata a los Demonios y sus secuaces que atacan el dirigible
-Mission_Target1=Mata Demonios alrededor del dirigible
+Mission_String=Mata a los Demonios y sus secuaces que atacan el airship
+Mission_Target1=Mata Demonios alrededor del airship
 
 [Quest_245]
 Name=Centro de Entrenamiento Secreto de los Sombras Fantasmas
@@ -1720,7 +1720,7 @@ Completable_String1=No está mal. Sigue concentrándote en tu entrenamiento.
 Complete_String=Pelear contra instructores disfrazados de Ashas en el centro de entrenamiento intensivo me dio la experiencia de combate que necesitaba.
 List_String=Lucha contra instructores disfrazados de Ashas en el Intensive Training Center.
 Mission_String=Lucha contra instructores disfrazados de Ashas en el Intensive Training Center.
-Mission_Target1=Derrota a los Soldados Ashas
+Mission_Target1=Derrota a los Ashas Soldiers
 
 [Quest_252]
 Name=(Diaria) Los Peores Demonios
@@ -1798,7 +1798,7 @@ Complete_String=Lionel dijo que el Grupo Ohrdor poseía tantas granjas que tomar
 List_String=Mata a los Flying Bugs que amenazan la granja y conoce al Capitán Hanson del Ejército Tephakin para discutir la evacuación de los empleados del Grupo Ohrdor.
 Mission_String=Mata a los Flying Bugs y encuentra a Hanson
 Mission_Target1=Mata a los Large Flying Bugs
-Mission_Target2=Extermina a los Normal Flying Bugs
+Mission_Target2=Extermina a los normal Flying Bugs
 
 [Quest_313]
 Name=Saqueo de los Kobolds
@@ -1907,8 +1907,8 @@ Completable_String1=Oh, wow, ¡esto es exactamente lo que quería y en la cantid
 Complete_String=Recolecté armas Kobold y se las entregué al investigador de Ohrdor, Harrant.
 List_String=Recolecta armas Kobold y entrégalas al investigador de Ohrdor Harrant.
 Mission_String=Recolecta Armas Kobold y entrégalas a Harrant
-Mission_Target1=Hachas Kobold
-Mission_Target2=Escudos Kobold
+Mission_Target1=Kobold Axes
+Mission_Target2=Kobold Shields
 
 [Quest_320]
 Name=Extracción de Veneno de Granos Contaminados
@@ -1923,7 +1923,7 @@ Doing_String=Te tengo envidia. Puedes regresar a Ohrdor después de esto.
 Completable_String1=Bienvenido de nuevo.
 Complete_String=Usé los extractores de veneno mortal para extraer veneno de las pilas de granos que los Kobolds habían contaminado, y se lo entregué al alcalde de Ohrdor, Dumpain.
 List_String=Debo usar los extractores de veneno mortal para extraer veneno de las pilas de granos que los Kobolds habían contaminado y entregárselo al alcalde de Ohrdor, Dumpain.
-Mission_String=Extrae veneno de los granos y entrégaselo a Dumpain en la Sucursal del Grupo Ohrdor
+Mission_String=Extrae veneno de los granos y entrégaselo a Dumpain en Ohrdor Group Branch
 Mission_Target1=Extraer Veneno Mortal
 
 [Quest_321]
@@ -1942,8 +1942,8 @@ Completable_String1=Aquí, toma esto. He recuperado tu bandera de base.
 Completable_String2=No hay razón para que nadie pierda la cara... ¡Muchas gracias!
 Complete_String=Maté a los comandantes Gnoll y recuperé las banderas de base para ayudar a Joseph a salvar la cara.
 List_String=Recupera las banderas de base robadas de los comandantes Gnoll y devuélvelas a Joseph.
-Mission_String=Obtén las Banderas de los Comandantes Gnoll y entrégaselas a Joseph
-Mission_Target1=Bandera de Base
+Mission_String=Obtén las Banderas de los Gnoll Commanders y entrégaselas a Joseph
+Mission_Target1=Base Flag
 
 [Quest_322]
 Name=Los Planes de Sezak
@@ -1992,8 +1992,8 @@ Doing_String=Sezak confía en los Gnolls porque no tienen miedo<br>y no son en a
 Completable_String1=Bienvenido, Uno sin Recuerdos. He estado esperándote.
 Complete_String=Fui al almacén abandonado y eliminé al Jefe Gnoll Ron, pero el Comandante Sezak no estaba por ninguna parte.
 List_String=(Misión Principal de Duelden) (5/32)<br>Ve al almacén abandonado, elimina al Jefe Gnoll Ron y busca a Sezak.
-Mission_String=Matar al Jefe Gnoll en el Almacén Abandonado y hablar con el Gran Sabio Zakarian
-Mission_Target1=Matar al Jefe Gnoll Ron
+Mission_String=Matar al Jefe Gnoll en Abandoned Warehouse y hablar con el Gran Sabio Zakarian
+Mission_Target1=Matar al Gnoll Chief Ron
 
 [Quest_325]
 Name=Buscando Comida
@@ -2003,7 +2003,7 @@ Doing_String=¡Vamos, Guerrero, salgamos!
 Completable_String1=¡Muchas gracias, Guerrero! ¡Tengo suficiente comida gracias a ti!
 Complete_String=Acompañé al granjero en busca de comida debido al incendio en la granja del Desertor Gnoll.
 List_String=Debo acompañar al granjero en busca de comida debido al incendio en la granja del Desertor Gnoll.
-Mission_String=Acompañar al granjero por el Almacén Abandonado
+Mission_String=Acompañar al granjero por el Abandoned Warehouse
 Mission_Target1=Acompañar al Granjero
 
 [Quest_326]
@@ -2032,8 +2032,8 @@ Completable_String1=Todos los granjeros secuestrados han regresado sanos y salvo
 Complete_String=Eliminé al capitán Gnoll que había secuestrado a los granjeros y rescaté a los granjeros.
 List_String=Elimina al capitán Gnoll que ha secuestrado a los granjeros y rescata a los granjeros.
 Mission_String=Rescatar a los Granjeros Secuestrados y hablar con Paul
-Mission_Target1=Matar al Capitán Gnoll
-Mission_Target2=Rescatar a los Granjeros Capturados
+Mission_Target1=Matar al Gnoll Captain
+Mission_Target2=Rescatar a los Captured Farmers
 
 [Quest_328]
 Name=Ataques Incendiarios de los Desertores Gnoll
@@ -2079,8 +2079,8 @@ Doing_String=Sezak se está mudando a una casa segura porque algunos asesinos lo
 Completable_String1=El enemigo tenía tres comandantes. Todos ellos están muertos ahora.
 Complete_String=Matar a los Capitanes de la Guardia Gnoll, los comandantes de la Legión Gnoll que estaba destruyendo las granjas en las llanuras.
 List_String=(Duelden Main Quest) (6/32)<br>Eliminar a los Capitanes de la Guardia Gnoll, los comandantes de la Legión Gnoll que están destruyendo las granjas en las llanuras.
-Mission_String=Matar a los Comandantes de la Legión Gnoll y hablar con el Gran Sabio Zakarian
-Mission_Target1=Matar a los Capitanes de la Guardia Gnoll
+Mission_String=Matar a Commanders of the Gnoll Legion y habla con el Gran Sabio Zakarian
+Mission_Target1=Matar a los Gnoll Guard Captains
 
 [Quest_331]
 Name=Comandante del Ejército Invasor Sezak
@@ -2132,7 +2132,7 @@ Completable_String1=Soy la única persona en el mundo que tiene suficiente diner
 Completable_String2=¿Quieres saber más? Entonces será mejor que vengas cuando te llame.
 Complete_String=Conocí al Alcalde Ohrdor, Dumpain Kerka, y lo confronté sobre los esquemas de su grupo.
 List_String=Conoce al Alcalde Ohrdor, Dumpain Kerka, y confróntalo sobre los esquemas de su grupo.
-Mission_String=Infórmate sobre el experimento del veneno en la Sucursal del Grupo Ohrdor
+Mission_String=Infórmate sobre el experimento del veneno en la Ohrdor Group Branch
 Mission_Target1=Habla con Dumpain
 
 [Quest_334]
@@ -2143,8 +2143,8 @@ Doing_String=Vamos. No tienes miedo, ¿verdad?
 Completable_String1=Gracias. Podré investigar la cueva.
 Complete_String=Protéger al Científico Curioso mientras investiga la Evil Energy Cave.
 List_String=Debo proteger al científico curioso mientras investiga la Evil Energy Cave.
-Mission_String=Escortar al científico en la Evil Energy Cave
-Mission_Target1=Escortar al Científico
+Mission_String=Escoltar al científico en la Evil Energy Cave
+Mission_Target1=Escoltar al Científico
 
 [Quest_401]
 Name=Una Entrega de Regalo a Lorencia
@@ -2183,7 +2183,7 @@ Completable_String3=¡Vaya! ¿De verdad examinaste cadáveres?<br>(Haciendo muec
 Complete_String=Examiné los cadáveres de los condenados que mató la Dark mission y conocí al Tephakin Army Chief of Staff, Arundinem.
 List_String=Examina los cadáveres de los condenados que mató la Dark mission y habla con el Chief of Staff Arundinem.
 Mission_String=Examina los Cadáveres de los Condenados y habla con Arundinem
-Mission_Target1=Examinar los Cadáveres
+Mission_Target1=Examinar los Corpses
 
 [Quest_404]
 Name=Ayuda a los Muertos a Descansar en Paz
@@ -2356,7 +2356,7 @@ Doing_String=No te culpo. Has salvado a mi gente en Enova.<br>Soy Tephakin y Ena
 Completable_String1=Te he estado esperando. Déjame disculparme en nombre de Kundun.<br>Fue imprudente de su parte presentarte a Zakarian.
 Complete_String=Fui a Icarus en el Cementerio para averiguar por qué los revenantes de los Caballeros Karol gritaban por madres.
 List_String=(Misión Principal de Duelden) (14/32)<br>Ve a Icarus en el Cementerio y descubre por qué los revenantes de los Caballeros Karol están gritando por madres.
-Mission_String=Visita a Icarus y averigua por qué los revenantes están gritando
+Mission_String=Visita a Icarus y averigua por qué los revenants están gritando
 Mission_Target1=Habla con Icarus
 
 [Quest_414]
@@ -2373,7 +2373,7 @@ Doing_String=La Reina Lenavis se negó a abandonar su palacio cuando fue invadid
 Completable_String1=Me encargué del Comandante de Caballeros Manstein. Espero que se haya ido al Cielo.
 Complete_String=Maté al espectro del Comandante de Caballeros Karol Manstein. Descansa en paz, comandante.
 List_String=Mata al espectro del Comandante de Caballeros Karol Manstein.
-Mission_String=Mata al Comandante de los Caballeros Karol y habla con Bogen
+Mission_String=Mata al Karol Knights Commander y habla con Bogen
 Mission_Target1=Mata a Manstein
 
 [Quest_415]
@@ -2451,8 +2451,8 @@ Occur_String7=Mi ama Emil es una buena chica. Solo eligió al chico equivocado.
 Completable_String1=Alguien vio a algunas mujeres miembros de la Dark mission dirigiéndose a este lugar.<br>¿Está todo bien?
 Complete_String=Exterminé zombis que amenazaban a los civiles y fui al Templo Naturam para verificar si las mujeres miembros de la Dark mission realmente estaban allí.
 List_String=Mata a los zombis que amenazan a los civiles y ve al Templo Naturam para verificar si las mujeres miembros de la Dark mission realmente están allí.
-Mission_String=Mata a los zombis y habla con Samuel
-Mission_Target1=Mata a los Zombis de la Tumba
+Mission_String=Mata a los Zombies y habla con Samuel
+Mission_Target1=Mata a los Grave Zombies
 
 [Quest_420]
 Name=Mi Hermana en la Misión
@@ -2467,8 +2467,8 @@ Occur_String8=
 Doing_String=Mi pobre hermana... ¿Cómo te metiste en la Dark mission?
 Complete_String=Me ocupé de las Seguidores Females Oscuras con las que estaba la hermana de Samuel.
 List_String=Me ocupé de las Seguidores Females Oscuras con las que estaba la hermana de Samuel.
-Mission_String=Incapacita a la hermana de Samuel y a las otras Seguidores Females
-Mission_Target1=Mata a las Seguidores Females Oscuras
+Mission_String=Incapacita a la hermana de Samuel y a las otras Female Followers
+Mission_Target1=Mata a las Dark Female Followers
 
 [Quest_421]
 Name=Justicia para las Minorías
@@ -2485,8 +2485,8 @@ Doing_String=Lorencia se está tomando su tiempo para venir en nuestra ayuda.<br
 Completable_String1=Aquí están las cabezas de los guerreros. Ayúdalos a descansar en paz y a ir al Cielo.
 Complete_String=Recogí las cabezas de los justos Caballeros Karol de la tumba de la reina y se las di a Shadow Phantom Jelly.
 List_String=Recoge las cabezas de los justos Caballeros Karol de la tumba de la reina y dáselas a Shadow Phantom Jelly.
-Mission_String=Recoge las cabezas de los Caballeros Karol de la Tumba de la Reina y dáselas a Jelly
-Mission_Target1=Cabezas de los Caballeros Karol
+Mission_String=Recoge las cabezas de los Karol Knights de la Queen's Tomb y dáselas a Jelly
+Mission_Target1=Cabezas de los Karol Knights
 
 [Quest_422]
 Name=Luto por la Reina
@@ -2504,8 +2504,8 @@ Doing_String=El Ducado de Tephakin está fundado por los descendientes del Reino
 Completable_String1=¡La reina resucitó<br>después de que tú visitaste su tumba! ¿Quién demonios eres!?
 Complete_String=Visité la tumba de la Reina Lenavis, quien murió de manera trágica.
 List_String=(Misión Principal de Duelden) (16/32)<br>Voy a visitar la tumba de la Reina Lenavis, quien murió de manera trágica.
-Mission_String=Visita el Monumento de la Reina Lenavis y habla con Lunedill
-Mission_Target1=Visita el Monumento de la Reina
+Mission_String=Visita el Queen Lenavis' Monument y habla con Lunedill
+Mission_Target1=Visita el Queen's Monument
 
 [Quest_423]
 Name=Atiende al Noble Aislado
@@ -2521,10 +2521,10 @@ Doing_String=No todos los miembros de la aristocracia de Lorencia son tan aislad
 Completable_String1=¡Sal de aquí antes de que te mate!
 Complete_String=Exterminé a los Zombis Caníbales para proteger a un noble lorenciano ingenuo que vino a ver la guerra.
 List_String=Mata a los Zombis Caníbales para proteger a un noble lorenciano ingenuo que vino a ver la guerra.
-Mission_String=Mata a los Zombis y habla con Phoebe
-Mission_Target1=Mata a los Zombis Caníbales
-Mission_Target2=Extermina a los Zombis de la Tumba
-Mission_Target3=Extermina a los Zombis Desgarrados
+Mission_String=Mata a los Zombies y habla con Phoebe
+Mission_Target1=Mata Cannibal Zombies
+Mission_Target2=Extermina Grave Zombies
+Mission_Target3=Extermina Torn Zombies
 
 [Quest_424]
 Name=La Historia de las Pobre Hermanas
@@ -2535,8 +2535,8 @@ Completable_String1=¡Gracias! Creo que ahora puedo encontrar el tesoro.<br>Una 
 Complete_String=Escolté y protegí a la hermana de Rolfin mientras buscaba tesoros dentro de la Tumba de la Reina.
 List_String=Tengo que escoltar y proteger a la hermana de Rolfin mientras busca tesoros dentro de la Tumba de la Reina.
 Mission_String=Escolta y protege a la hermana de Rolfin en la Tumba de la Reina
-Mission_Target1=Escoltar a la hermana
-Mission_Target2=Proteger a la hermana
+Mission_Target1=Escolta a la hermana
+Mission_Target2=Protege a la hermana
 
 [Quest_425]
 Name=La Resurrección de los Revenants de los Caballeros Karol
@@ -2554,7 +2554,7 @@ Doing_String=¿Qué demonios le sucedió al Gran Sabio Zakarian?
 Completable_String1=Lunedill me envió.<br>Supongo que soy mejor conocido como el Extraño Carnicero.
 Complete_String=Para averiguar qué está tramando Zakarian aquí en Karolsandria, fui al Campamento de Investigación de la Parca Oscura y conocí a la Líder Euclea.
 List_String=(Misión Principal de Duelden) (12/32)<br>Para averiguar qué está tramando Zakarian aquí en Karolsandria, tengo que ir al Campamento de Investigación de la Parca Oscura y conocer a la Líder Euclea.
-Mission_String=Moverse al Campamento de Investigación de la Parca Oscura
+Mission_String=Moverse al Dark Reaper Investigation Camp
 Mission_Target1=Habla con Euclea
 
 [Quest_426]
@@ -2572,8 +2572,8 @@ Occur_String10=Lo haré. Tú quédate y encárgate de la situación aquí.<br>So
 Doing_String=¿Has cambiado de opinión? ¿Quieres que te acompañe?
 Complete_String=He vencido al espectro de la Reina Lenavis que fue devuelto a este reino por el collar de Cerberus.
 List_String=(Misión Principal de Duelden) (17/32)<br>Vence al Espectro de la Reina Lenavis que ha sido devuelto a este reino por el collar de Cerberus.
-Mission_String=Elimina al Espectro de la Reina Lenavis en la Tumba de la Reina
-Mission_Target1=Matar al Espectro de la Reina Lenavis
+Mission_String=Elimina al Specter of Queen Lenavis en la Queen's Tomb
+Mission_Target1=Matar al Specter of Queen Lenavis
 
 [Quest_427]
 Name=Viaje a Salormis
@@ -2607,8 +2607,8 @@ Completable_String1=¿Eh? ¡Nos encontramos de nuevo! Si pensaste que me iría s
 Completable_String2=Solo toma estos sombreros, mocoso consentido.<br>Si tu padre es tan poderoso, dile que ayude a Duelden.
 Complete_String=Maté a algunas brujas que merodeaban la Ciudad Canal y recolecté sus sombreros.
 List_String=Mata a las brujas que merodean la Ciudad Canal y recolecta sus sombreros.
-Mission_String=Recolecta Sombreros de Bruja y habla con Phoebe
-Mission_Target1=Sombreros de Bruja
+Mission_String=Recolecta Witch Hats y habla con Phoebe
+Mission_Target1=Witch Hats
 
 [Quest_502]
 Name=Luz en la Ciudad Canal
@@ -2626,9 +2626,9 @@ Doing_String=La noticia es que los refuerzos del Reino de Lorencia finalmente es
 Completable_String1=¿Pasaste por la Ciudad Canal? ¿A través de los enemigos que están ahí?<br>Vaya, realmente eres algo, ¿no?
 Complete_String=Infiltré la Ciudad Canal y encendí las luces de la calle.
 List_String=(Misión Principal de Duelden) (20/32)<br>Infiltra la Ciudad Canal y enciende las luces en la ciudad.
-Mission_String=Enciende las Luces de la Calle en la Ciudad Canal y habla con Lunedill.
-Mission_Target1=Luces de la Calle
-Mission_Target2=Caballeros Revenant
+Mission_String=Enciende las Luces de la Calle en Canal City y habla con Lunedill.
+Mission_Target1=Streetlights
+Mission_Target2=Knights Revenant
 
 [Quest_503]
 Name=Reencuentro con Phili
@@ -2643,9 +2643,9 @@ Completable_String1=Phili me ha contado muchas cosas buenas sobre ti. Aquí est�
 Complete_String=Me encontré de nuevo con el Mercader Phili, a quien conocí por primera vez en Weiss Basin. Recogí los artefactos dejados por los saqueadores de tumbas para él.
 List_String=Recoge los artefactos abandonados en la tumba noble y llévalos a Kinun.
 Mission_String=Recoge Artefactos en el campo y llévalos a Kinun en el retinue de Phili.
-Mission_Target1=Artefactos de una Tumba Noble
-Mission_Target2=Elimina Espíritus Vengativos
-Mission_Target3=Elimina Espíritus Vengativos Amenazantes
+Mission_Target1=Artefactos de una Noble's Tomb
+Mission_Target2=Elimina Vengeful Spirits
+Mission_Target3=Elimina Menacing Vengeful Spirits
 
 [Quest_504]
 Name=Víctimas Femeninas del Pandemonio
@@ -2662,8 +2662,8 @@ Doing_String=Podría morir en cualquier momento.<br>Quiero ver a mi hijo antes d
 Completable_String1=¿Eres el hijo de Alexander?<br>Tu padre está luchando en el campo de batalla para protegerte.<br>No te preocupes, y espera a que vuelva a casa.
 Complete_String=Apacigüé a los revenants de las doncellas que fueron asesinadas por el Ejército del Pandemonio durante la Guerra de Tres Años.
 List_String=Apacigua a los revenants de las doncellas que fueron asesinadas por el Ejército del Pandemonio durante la Guerra de Tres Años.
-Mission_String=Mata a los Revenants de Doncellas y habla con Datan
-Mission_Target1=Mata a los Espíritus Vengativos Sacrificados
+Mission_String=Mata a los Maiden Revenants y habla con Datan
+Mission_Target1=Mata a los Sacrificed Vengeful Spirits
 
 [Quest_505]
 Name=Huevo de Dragón
@@ -2677,8 +2677,8 @@ Doing_String=¿Por qué estás dudando? ¿No tienes miedo, verdad?
 Completable_String1=¡Buen trabajo! Aquí está tu recompensa.
 Complete_String=Recolecté y entregué huevos de dragón al Mercader Arkeano, Wesley.
 List_String=Recolecta y entrega Huevos de Dragón al Mercader Arkeano, Wesley.
-Mission_String=Recolecta Huevos de Dragón y entrégaselos a Wesley.
-Mission_Target1=Huevos de Dragón
+Mission_String=Recolecta Dragon Eggs y entrégaselos a Wesley.
+Mission_Target1=Dragon Eggs
 
 [Quest_506]
 Name=Aparición de Dragones
@@ -2693,8 +2693,8 @@ Doing_String=Todos los que pagué para cazarlos fueron asesinados.<br>Espero que
 Completable_String1=Parece que no mostraste piedad a esos dragones.<br>Pude escuchar sus gritos de dolor, incluso desde tan lejos. Aquí está tu pago.
 Complete_String=Maté dragones para el Mercader Arkeano, Srov, y fui pagado.
 List_String=Mata dragones para el Mercader Arkeano, Srov.
-Mission_String=Extermina Dragones e informa a Wesley.
-Mission_Target1=Mata Dragones Budge Infectados
+Mission_String=Extermina Dragons e informa a Wesley.
+Mission_Target1=Mata Infected Budge Dragons
 
 [Quest_508]
 Name=Alas de Bellow para los Heridos
@@ -2710,8 +2710,8 @@ Completable_String2¡Alas de Bellow! Gracias, amable guerrero.<br>Puedo salvar a
 Completable_String3=Es una buena chica. Me ha seguido al fragor de la batalla para salvar vidas.<br>De todos modos, gracias.
 Complete_String=Recolecté alas de Bellow que son efectivas para tratar laceraciones y las entregué al Doctor Kidem, que estaba en el campo de batalla atendiendo a los heridos.
 List_String=Recolecta alas de Bellow que son efectivas para tratar laceraciones y llévalas al Doctor Kidem, que está en el campo de batalla atendiendo a los heridos.
-Mission_String=Recolecta Alas de Bellow y entrégalas a Kidem.
-Mission_Target1=Alas de Bellow
+Mission_String=Recolecta Bellow Wings y entrégalas a Kidem.
+Mission_Target1=Bellow Wings
 
 [Quest_509]
 Name=Detener la Resurrección de los Titanes - 1
@@ -2730,8 +2730,8 @@ Completable_String1=He destruido todos los recolectores de maná.<br>Tienes raz�
 Completable_String2=Buen trabajo. Eso fue tan rápido como de costumbre.<br>Tu único verdadero defecto es que eres un poco crédulo.
 Complete_String=Destruí los recolectores de maná que fueron instalados para resucitar a los Titanes.
 List_String=(Duelden Main Quest) (21/32)<br>Destruir los recolectores de maná que fueron instalados para resucitar a los Titanes.
-Mission_String=Destruir los Recolectores de Maná y hablar con Lunedill.
-Mission_Target1=Destruir los Recolectores de Maná
+Mission_String=Destruir los Mana Collectors y hablar con Lunedill.
+Mission_Target1=Destruir los Mana Collectors
 
 [Quest_510]
 Name=Remedios Carmesí
@@ -2746,8 +2746,8 @@ Doing_String=Estoy preocupada por María. Espero que esté a salvo.
 Completable_String1=Gracias. Ahora puedo salvar a muchos de mis compañeros.<br>Muchas gracias.
 Complete_String=Recolecté pétalos de cordyceps que eran efectivos para tratar heridas supurantes y se los entregué al Ejército Tephakin en el noreste.
 List_String=Recolecta Pétalos de Cordyceps que son efectivos para tratar heridas supurantes y dáselos al Ejército Tephakin.
-Mission_String=Recolecta Pétalos de Cordyceps y entrégaselos al Ejército Tephakin.
-Mission_Target1=Pétalos de Cordyceps
+Mission_String=Recolecta Cordyceps Petals y entrégaselos al Ejército Tephakin.
+Mission_Target1=Cordyceps Petals
 
 [Quest_511]
 Name=Alas de los Titanes
@@ -2764,8 +2764,8 @@ Doing_String=¿Sabías?<br>Eres la única en el continente MU que no me trata co
 Completable_String1=¿Leo? ¿Qué hace un Comandante del Ejército de Lorencia aquí?<br>¿Eras tú quien intentaba resucitar a los Titanes?
 Complete_String=Despejé un camino a través de una multitud de Insectos Voladores y llegué al lugar donde estaban destrozadas las Alas de los Titanes en el suelo.
 List_String=(Duelden Main Quest) (22/32)<br>Despeja un camino a través de una multitud de Insectos Voladores y llega al lugar donde las Alas de los Titanes están destrozadas en el suelo.
-Mission_String=Mata Insectos Voladores en tu camino.
-Mission_Target1=Mata Insectos Voladores Gigantes.
+Mission_String=Mata Flying Bugs en tu camino.
+Mission_Target1=Mata Giant Wing Flying Bugs
 
 [Quest_512]
 Name=Detener la Resurrección de los Titanes - 2
@@ -2783,8 +2783,8 @@ Doing_String=
 Completable_String1=
 Complete_String=Destruí los Fragmentos de Alas de los Titanes para detener su resurrección.
 List_String=(Duelden Main Quest) (23/32)<br>Destruir los Fragmentos de Alas de los Titanes para detener su resurrección.
-Mission_String=Destruir los Fragmentos Dispersos de Alas de los Titanes
-Mission_Target1=Destruir los Fragmentos de Alas
+Mission_String=Destruir los Scattered Titans' Wing Shards
+Mission_Target1=Destruir los Wing Shards
 
 [Quest_527]
 Name=Descubrimiento del Lugar Desconocido
@@ -2801,7 +2801,7 @@ Completable_String1=¿Leo? ¿Qué hace un Comandante del Ejército de Lorencia a
 Complete_String=Investigé el lugar desconocido y hablé con el Comandante del Ejército de Lorencia, Leo.
 List_String=(Duelden Main Quest) (24/32)<br>He descubierto un lugar misterioso. Es mejor que lo investigue.
 Mission_String=Contactar al Conspirador en el Lugar Desconocido
-Mission_Target1=Hablar con un Hombre Misterioso
+Mission_Target1=Habla con Mysterious Man
 
 [Quest_526]
 Name=Sitio de Excavación de Titanes
@@ -2821,8 +2821,8 @@ Completable_String2=La Brigada Algemeph.<br>Una unidad de fuerzas especiales baj
 Complete_String=Destruí los inyectores de maná negro y hablé con el Comandante del Ejército de Lorencia, Leo.
 List_String=(Duelden Main Quest) (25/32)<br>Destruir los inyectores de maná negro y hablar con el Comandante del Ejército de Lorencia, Leo.
 Mission_String=Detener la Resurrección de los Titanes y hablar con el Comandante del Ejército de Lorencia, Leo.
-Mission_Target1=Moverse al Sitio de Excavación de Titanes
-Mission_Target2=Destruir los Inyectores de Maná Negro
+Mission_Target1=Moverse al Titan Excavation Site
+Mission_Target2=Destruir los Black Mana Injectors
 
 [Quest_513]
 Name=La Participación de los Garudas en la Guerra
@@ -2840,7 +2840,7 @@ Doing_String=Eres tan obstinado como recuerdo.<br>Está bien, entonces buena sue
 Completable_String1=Cuánto tiempo sin verte. Eres la persona más inteligente de este lugar, ¿no?
 Complete_String=Para averiguar la intención de los Garudas, un miembro de la Alianza Lineal que se unió al Pandemonio, investigué a los Invasores Garuda y fui a ver a Icarus.
 List_String=(Duelden Main Quest) (26/32)<br>Para averiguar la intención de los Garudas, un miembro de la Alianza Lineal que se ha unido al Pandemonio, investiga a los Invasores Garuda y ve a Icarus.
-Mission_String=Investigar a los Invasores Garuda y ver a Icarus
+Mission_String=Investigar a los Garuda Invaders y ver a Icarus
 Mission_Target1=Documento Confidencial de Garuda
 
 [Quest_514]
@@ -2855,8 +2855,8 @@ Doing_String=¿Sabías que los Titanes son deidades de bajo rango creadas por lo
 Completable_String1=¡Las llamas se han apagado! ¡Muchas gracias!<br>Espero que esto no vuelva a suceder.
 Complete_String=Exterminé a los Elementales de Fuego que estaban incendiando la tierra.
 List_String=Eliminar a los Elementales de Fuego que están incendiando la tierra.
-Mission_String=Incapacitar a los Elementales de Fuego que están incendiando la tierra
-Mission_Target1=Eliminar a los Elementales de Fuego
+Mission_String=Incapacitar a los Fire Elementals que están incendiando la tierra
+Mission_Target1=Eliminar a los Fire Elementals
 
 [Quest_515]
 Name=Artefactos del Reino Karol
@@ -2872,8 +2872,8 @@ Completable_String1=Oh... ¡Mira estos hermosos artefactos del Reino Karol!<br>D
 Complete_String=Recuperé artefactos robados del Reino Karol de los Kobolds y los llevé a Chrino.
 List_String=Recuperar artefactos robados del Reino Karol de los Kobolds y llevarlos a Chrino.
 Mission_String=Recuperar Cofres de Artefactos Robados de los Kobolds y entregarlos a Chrino
-Mission_Target1=Eliminar a los Líderes de los Rastreadores Kobold
-Mission_Target2=Recolectar Cofres de Artefactos Robados
+Mission_Target1=Eliminar a los Kobold Ranger Leaders
+Mission_Target2=Recolectar Stolen Artifact Chests
 
 [//Quest_516]
 Name=Kobolds Torturadores
@@ -2888,8 +2888,8 @@ Doing_String=No sé por qué estos kobolds nos torturan tanto.
 Completable_String1=Gracias. Rezaré a los espíritus del Reino Karol para que te protejan.
 Complete_String=Me deshice de los líderes kobold como advertencia para el resto de los kobolds, para que no se atrevieran a robar los artefactos de nuevo.
 List_String=Deshazte de los líderes kobold como advertencia para el resto de los kobolds, para que no se atrevan a robar los artefactos de nuevo.
-Mission_String=Eliminar a los líderes kobold y hablar con Chrino
-Mission_Target1=Eliminar a los Líderes Rastreadores Kobold
+Mission_String=Eliminar a los Kobold leaders y hablar con Chrino
+Mission_Target1=Eliminar a los Kobold Ranger Leaders
 
 [Quest_517]
 Name=Sobornos a los Locales
@@ -2905,8 +2905,8 @@ Doing_String=El dinero es la raíz de todo mal,<br>pero traicionar a su propia c
 Completable_String1=He cincelado la inscripción. Voy a grabar la mía.<br>"Cualquiera que coopere con el Pandemonio tendrá que lidiar con el Extraño Asesino."<br>Eh. Me gusta eso.
 Complete_String=He cincelado la inscripción en las losas de piedra que Orman había instalado para atraer a los tephakines y grabé la mía.
 List_String=Cincelar la inscripción en las losas de piedra que Orman ha instalado para atraer a los tephakines.
-Mission_String=Eliminar la Inscripción en las Losas de Piedra de Orman
-Mission_Target1=Eliminar la Inscripción en las Losas de Piedra
+Mission_String=Eliminar la Inscripción en las Orman's Stone Slabs
+Mission_Target1=Eliminar la Inscripción en las Stone Slabs
 
 [Quest_518]
 Name=Manejo por el Flanco
@@ -2926,7 +2926,7 @@ Completable_String2=¡Royce! ¡Qué bueno verte de nuevo!<br>Por cierto, ¿qué 
 Complete_String=Los Gnolls están apoyando la retaguardia de los Garudas mientras luchan contra las fuerzas principales del Ejército Tephakin. Ataqué a los Gnolls y ayudé al Ejército Tephakin a obtener la ventaja en la batalla.
 List_String=(Duelden Main Quest) (27/32)<br>Los Gnolls están apoyando la retaguardia de los Garudas mientras luchan contra las fuerzas principales del Ejército Tephakin. Ataqué a los Gnolls y ayudé al Ejército Tephakin a obtener la ventaja en la batalla.
 Mission_String=Atacar a los Gnolls en la retaguardia de la línea de batalla y hablar con el Miembro de Fuerzas Especiales Royce
-Mission_Target1=Matar a los Líderes Gnoll
+Mission_Target1=Matar a los Gnoll Leaders
 
 [Quest_519]
 Name=El Amor de Royce
@@ -2943,10 +2943,10 @@ Completable_String1=He estado esperándote. Has encontrado hígados de Gremlin. 
 Complete_String=Cazé Xicycles de Gremlin y recogí sus hígados para la prometida de Royce, que necesitaba un remedio para su tos, y luego los entregué a los policías de Dudrin desplegados en Duelden.
 List_String=Cazar Xicycles de Gremlin y recoger sus hígados para la prometida de Royce, que necesita un remedio para su tos, y luego entregarlos a la Policía de Dudrin.
 Mission_String=Recoger hígados de Xicycle de Gremlin y entregarlos a un Miembro de la Fuerza Especial de la Policía Local
-Mission_Target1=Hígados de Gremlin
+Mission_Target1=Gremlin Livers
 
 [Quest_520]
-Name=Rumbo al Puesto
+Name=Rumbo al Outpost
 Occur_String1=No podía ignorar lo que está sucediendo en Duelden.<br>Como sabes, soy el mejor explorador del continente.<br>Además, el Capitán Cain lo aprobó.
 Occur_String2=He estado siguiendo las noticias sobre ti. Así que te jugaron una broma Zakarian<br>y despertaste a los revenants de los Caballeros Karol, ¿eh?
 Occur_String3=Bueno, eso es...
@@ -2961,8 +2961,8 @@ Doing_String=Oh, y Linda te envía saludos. Dice que te mantengas a salvo y que 
 Completable_String1=Bienvenido, %s_9_1. He estado esperándote.<br>¡Unidad, atención!
 Complete_String=Abrí un camino a través de los Guardianes Garuda y llegué al puesto del Ejército Tephakin que se construyó para atacar el Templo del Cielo.
 List_String=(Duelden Main Quest) (28/32)<br>Abrir un camino a través de los Guardianes Garuda y llegar al puesto del Ejército Tephakin que se construyó para atacar el Templo del Cielo.
-Mission_String=Matar a los Guardianes Garuda y moverme al Puesto
-Mission_Target1=Matar a los Guardianes Garuda
+Mission_String=Matar a los Guardianes Garuda y moverme al Outpost
+Mission_Target1=Matar a los Garuda Gatekeepers
 
 [Quest_521]
 Name=El Combate en el Cielo
@@ -2977,8 +2977,8 @@ Doing_String=Ellos tienen cabezas de pájaro, pero eso no significa que tengan q
 Completable_String1=Ya no tienes que preocuparte por sus exploradores.
 Complete_String=Matar al Capitán Explorador Garuda que seguía espiando el puesto.
 List_String=Matar al Capitán Explorador Garuda que sigue espiando el puesto.
-Mission_String=Matar al Explorador Garuda y reportar a Claude
-Mission_Target1=Matar al Capitán Explorador Garuda
+Mission_String=Matar al Garuda Scout y reportar a Claude
+Mission_Target1=Matar al Garuda Scout Captain
 
 [Quest_522]
 Name=La Luz de Tephakin
@@ -2994,7 +2994,7 @@ Doing_String=La gente ahora te llama la Luz de Tephakin en lugar del Héroe de E
 Completable_String1=Bienvenido, %s_9_1. Me gustaría mostrarte mi respeto.
 Complete_String=Fui a ver al Comandante del Ejército Tephakin, Solon, para discutir la invasión del Templo del Cielo.
 List_String=(Duelden Main Quest) (29/32)<br>Ir al Comandante del Ejército Tephakin, Solon, para discutir la invasión del Templo del Cielo.
-Mission_String=Ir al Comandante del Ejército Tephakin
+Mission_String=Ir al Tephakin Army Commander
 Mission_Target1=Hablar con Solon
 
 [Quest_523]
@@ -3012,8 +3012,8 @@ Occur_String10=
 Doing_String=No culpo a Lorencia por la elección que hizo.<br>Solo estaba tratando de proteger su interés. Solo espero que mi país se vuelva lo suficientemente fuerte como para mantenerse por sí mismo.
 Complete_String=Recogí los cofres de oro de los Garudas.
 List_String=Recoger Cofres de Oro de los Garudas
-Mission_String=Recoger Cofres de Oro de los Garudas en el Templo del Cielo
-Mission_Target1=Cofres de Oro de Garuda
+Mission_String=Recoger Gold Chests of Garudas en el Sky Temple
+Mission_Target1=Gold Chests of Garuda
 
 [Quest_524]
 Name=Arma de Emboscada
@@ -3024,8 +3024,8 @@ Occur_String4=
 Doing_String=Salormis es el santuario de Tephakin.<br>No dejaremos que los Garudas lo profanen.
 Complete_String=Entré en el Templo del Cielo y destruí los estantes de armas antes de que los Garudas pudieran usarlos para operaciones de emboscada.
 List_String=Entrar en el Templo del Cielo y destruir los estantes de armas antes de que los Garudas los usen para operaciones de emboscada.
-Mission_String=Destruir estantes de armas en el Templo del Cielo
-Mission_Target1=Destruir los Estantes de Armas de Garuda
+Mission_String=Destruir estantes de armas en el Sky Temple
+Mission_Target1=Destruir los Garuda Weapon Racks
 
 
 [Quest_525]
@@ -3040,8 +3040,8 @@ Occur_String7=No eres mejor que los otros nobles que he conocido.<br>Mantente fu
 Doing_String=¿Tienes algo más que decirme? Bueno, tendrás que hacer una cita con mi secretaria primero.
 Complete_String=Recogí las cabezas de los Masacradores de Garuda en el Templo del Cielo.
 List_String=Recoger las cabezas de los Masacradores de Garuda en el Templo del Cielo.
-Mission_String=Recoger las cabezas de Garuda en el Templo del Cielo
-Mission_Target1=Cabezas de Masacradores de Garuda
+Mission_String=Recoger las cabezas de Garuda en el Sky Temple
+Mission_Target1=Garuda Slaughterers' Heads
 
 [Quest_528]
 Name=Desertor del Ejército Tephakin
@@ -3051,8 +3051,8 @@ Doing_String=%s_9_1, ¡vamos!
 Completable_String1=¡Muchas gracias! He llegado sano gracias a ti, %s_9_1!<br>¡Eres realmente la Luz de Tephakin!
 Complete_String=Escorté al desertor del Ejército Tephakin dentro del Templo del Cielo hasta un lugar específico.
 List_String=Debo escoltar al desertor del Ejército Tephakin dentro del Templo del Cielo hasta un lugar específico.
-Mission_String=Protección del Desertor del Ejército Tephakin
-Mission_Target1=Escoltar al soldado Tephakin
+Mission_String=Tephakin Army Straggler Protection
+Mission_Target1=Escoltar a Tephakin soldier
 
 [Quest_601]
 Name=Reuniendo a los Guardias
@@ -3068,11 +3068,11 @@ Completable_String1=Eres más rápido de lo que pensé. No eres solo un guerrero
 Complete_String=El Puesto de Centinela Qwyinan necesitaba más hombres y nos pidió que enviáramos a la Guardia de la Ciudad. Entregué la orden de reclutamiento a la Guardia en nombre del Capitán de la Guardia Qwyinan, Roxa.
 List_String=El Puesto de Centinela Qwyinan necesitaba más hombres y nos pidió que enviáramos a la Guardia de la Ciudad. Entregar la orden de reclutamiento a la Guardia de este lugar.
 Mission_String=Entregar la Orden de Reclutamiento a la Guardia y hablar con el Capitán de la Guardia Roxa
-Mission_Target1=Hablar con el Guardián Buzon
-Mission_Target2=Hablar con el Guardián Neipann
-Mission_Target3=Hablar con el Sargento de Guardia Lamprok
-Mission_Target4=Hablar con el Hechicero Seikernan
-Mission_Target5=Hablar con el Guerrero Errante Londia
+Mission_Target1=Hablar con el Guard Buzon
+Mission_Target2=Hablar con el Guard Neipann
+Mission_Target3=Hablar con el Guard Staff Sergeant Lamprok
+Mission_Target4=Hablar con el Sorcerer Seikernan
+Mission_Target5=Hablar con el Wandering Knight Londia
 
 [Quest_602]
 Name=Defendiendo Qwyinan
@@ -3089,8 +3089,8 @@ Completable_String1=Me deshice de todos los dragones cerca de tu aldea.<br>Pero 
 Completable_String2=Gracias, extraño. Estaremos eternamente agradecidos contigo.
 Complete_String=Maté a los dragones que amenazaban el Puesto de Centinela de Qwyinan y protegí Qwyinan, pero eso es solo una medida temporal. Qwyinan necesita más soldados, o eventualmente caerá.
 List_String=Mata a los dragones que amenazan el Puesto de Centinela de Qwyinan y protege Qwyinan.
-Mission_String=Matar a los Dragones y Hablar con Rommo
-Mission_Target1=Matar a los Dragones Ice Budge
+Mission_String=Mata a los Dragons y Habla con Rommo
+Mission_Target1=Mata a los Ice Budge Dragons
 
 [Quest_603]
 Name=Civiles del Estado Enemigo
@@ -3107,8 +3107,8 @@ Completable_String1=Soy del Puesto de Centinela de Qwyinan. Aquí, te traigo alg
 Completable_String2=Gracias, extraño. Nos quedamos sin comida y no sabíamos qué hacer.<br>No puedo dejar que estas personas mueran, o yo también moriré.
 Complete_String=Entregué suministros a los investigadores del Silver Sparrowhawk que vinieron a las Llanuras del Lago de Hielo para investigar dragones.
 List_String=Entregar suministros a los investigadores del Silver Sparrowhawk que vinieron a las Llanuras del Lago de Hielo para investigar dragones.
-Mission_String=Entregar Suministros al Campamento de Investigación del Silver Sparrowhawk
-Mission_Target1=Hablar con Ancao
+Mission_String=Entregar Suministros al Silver Sparrowhawk Investigation Camp
+Mission_Target1=Habla con Ancao
 
 [Quest_604]
 Name=Estudiando Dragones
@@ -3125,8 +3125,8 @@ Doing_String=No puedo acostumbrarme a este clima frío. Y se está poniendo más
 Completable_String1=Gracias. Serás el primero en saber si descubrimos cómo respiran fuego.
 Complete_String=Eliminé Dragones Swing y recogí sus bolsas de aire, que les ayudan a respirar fuego.
 List_String=Eliminar Dragones Swing y recoger sus bolsas de aire, que les ayudan a respirar fuego.
-Mission_String=Recoger Bolsas de Aire Llamativas de Dragones
-Mission_Target1=Bolsas de Aire Llamativas de Dragón
+Mission_String=Recoger Swing Dragons' Flaming Air Sacs
+Mission_Target1=Swing Dragons' Flaming Air Sacs
 
 [Quest_605]
 Name=Métodos de Calentamiento
@@ -3141,7 +3141,7 @@ Completable_String1=Vaya, no creo que tengamos suficiente espacio para todo esto
 Complete_String=Conseguí un poco de leña y se la di al Asistente de Investigación de los Silver Sparrowhawks, Jerry.
 List_String=Consigue un poco de leña y dásela al Asistente de Investigación de los Silver Sparrowhawks, Jerry.
 Mission_String=Recolectar Leña para Jerry
-Mission_Target1=Árboles Congelados
+Mission_Target1=Frozen Trees
 
 [Quest_606]
 Name=Su Forma de Expresar Miedo
@@ -3155,8 +3155,8 @@ Occur_String7=¡Deja de gritar! ¿Estás tratando de volverme sordo? Vengaré a 
 Doing_String=¡Grr! ¡Gaaah! ¡No puedo creer esto!
 Complete_String=Me deshice de la Dark mission en el camino a Qwyinan y abrí un camino para los Guerreros Dracanos en las Llanuras de Poetta.
 List_String=Deshazte de la Dark mission en el camino a Qwyinan y abre un camino para los Guerreros Dracanos en las Llanuras de Poetta.
-Mission_String=Asegura una ruta de retirada para los Guerreros Dracanos
-Mission_Target1=Derrota a los Seguidores Helados de la Dark mission
+Mission_String=Asegura una ruta de retirada para los Dracans Warriors
+Mission_Target1=Derrota a los Chill Followers of the Dark Mission
 
 [Quest_607]
 Name=El Brasero de Bulcan
@@ -3173,8 +3173,8 @@ Doing_String=El Altar de los Dracanos está a solo siete metros de aquí.<br>Ere
 Completable_String1=Reencendí el Brasero.<br>Ahora, hablemos sobre las estatuas.
 Complete_String=Fui al Altar de los Dracanos y reencendí el Brasero de Bulcan que fue apagado por el Comandante de Caballería Dracan Chaisong.
 List_String=(Misión Principal de Litenberg) (8/141)<br>Ve al Altar de los Dracanos y reenciende el Brasero de Bulcan que fue apagado por el Comandante de Caballería Dracan Chaisong.
-Mission_String=Reencender el Brasero de Bulcan en el Altar de los Dracanos
-Mission_Target1=Encender el Brasero de Bulcan
+Mission_String=Reencender el Bulcan's Brazier en el Dracans Altar
+Mission_Target1=Encender el Bulcan's Brazier
 
 [Quest_608]
 Name=Recolectando Restos
@@ -3191,8 +3191,8 @@ Doing_String=Por favor, al menos déjame recuperar sus escamas.
 Completable_String1=Gracias. Ustedes, tontos, solo sus escamas han regresado a los brazos de Bulcan.<br>¡Ay!
 Complete_String=Eliminé a las Seguidores Heladas y recolecté las escamas de los Sacerdotes Dracanos.
 List_String=Elimina a las Seguidores Heladas y recolecta las Escamas de los Sacerdotes Dracanos.
-Mission_String=Recolectar Escamas de los Sacerdotes Dracanos de las Seguidores Heladas
-Mission_Target1=Escamas de los Sacerdotes Dracanos
+Mission_String=Recolectar Dracans Priest Scales de las Chill Female Followers
+Mission_Target1=Dracans Priest Scales
 
 [Quest_609]
 Name=Base de las Llanuras de Poetta en Peligro
@@ -3206,8 +3206,8 @@ Doing_String=Los Guerreros Dracanos son el ejército regular de Drapia.<br>Aunqu
 Completable_String1=Le hice un daño considerable a la Misión, pero ya ha ocupado toda la zona norte.<br>Este lugar ya no es seguro.
 Complete_String=Golpeé a los Zelotes Helados de la Dark mission que se estaban reorganizando para atacar nuevamente la base de las Llanuras de Poetta, y compré algo de tiempo para que los Guerreros Dracanos se retiraran.
 List_String=Golpea a los Zelotes Helados de la Dark mission que se están reorganizando para atacar nuevamente la base de las Llanuras de Poetta, y compra algo de tiempo para que los Guerreros Dracanos se retiren.
-Mission_String=Mata a los Zelotes Helados y habla con Xelloss
-Mission_Target1=Mata a los Zelotes Helados
+Mission_String=Mata a los Chill Zealots y habla con Xelloss
+Mission_Target1=Mata a los Chill Zealots
 
 [Quest_610]
 Name=Preocupaciones Innecesarias
@@ -3220,7 +3220,7 @@ Doing_String=Quizás deberías establecerte en Drapia, como él lo hizo.
 Completable_String1=¿Eres Roy? El Sacerdote Mannu está preocupado por ti.
 Complete_String=Por petición del Sacerdote Dracano Mannu, fui al campamento de cría de yaks y me aseguré de que el Cuidador Lorenciano Roy estuviera a salvo.
 List_String=Ve al campamento de cría de yaks y asegúrate de que el Cuidador Lorenciano Roy esté a salvo.
-Mission_String=Ve al Campamento de Cría de Yaks
+Mission_String=Ve al Yak Breeding Camp
 Mission_Target1=Habla con Roy
 
 [Quest_611]
@@ -3237,8 +3237,8 @@ Doing_String=Recientemente, el número de Jabalíes de Hielo ha aumentado a un r
 Completable_String1=No he visto un solo Jabalí de Hielo en el campamento hoy.<br>Muchas gracias, Guerrero.
 Complete_String=Por solicitud del Cuidador de Yaks Roy, cazé Jabalíes de Hielo que seguían robando comida para yaks.
 List_String=Caza Jabalíes de Hielo que siguen robando comida para yaks.
-Mission_String=Caza Jabalíes de Hielo y habla con Roy
-Mission_Target1=Mata a los Jabalíes de Hielo
+Mission_String=Caza  Ice Boars y habla con Roy
+Mission_Target1=Mata a los  Ice Boars
 
 [Quest_612]
 Name=Informe de Tareas de Cría
@@ -3255,7 +3255,7 @@ Completable_String1=<br>He traído esto del campamento de cría de yaks en el no
 Completable_String2=Veamos... Um...<br>No veo ningún yak aquí que pueda ser usado en combate.<br>No entiendo por qué el Sacerdote Mannu quiere mantener a un tipo tan inútil vivo.
 Complete_String=Entregué la lista de yaks domesticados del Cuidador de Yaks Roy al Vice-Capitán Kainan del Guerrero Dracano.
 List_String=Entrega la lista de yaks domesticados del Cuidador de Yaks Roy al Vice-Capitán Kainan del Guerrero Dracano.
-Mission_String=Entrega la Lista de Yaks al Vice-Capitán Kainan del Guerrero Dracano
+Mission_String=Entrega la Lista de Yaks a Dracans Knight Vice-Captain Kainan
 Mission_Target1=Habla con Kainan
 
 [Quest_613]
@@ -5864,9 +5864,9 @@ Occur_String2=Si estas sombras son las criaturas del Pandemonio conocidas como l
 Doing_String=Primero fueron las enormes armas Guardianas, y ahora tenemos criaturas del Pandemonio.
 Completable_String1=Entonces, son Monstruos Sombra. ¿Qué están tratando de hacer esos Ashas?
 Complete_String=Los exploradores me informaron que las sombras en lugares especialmente sombríos en las Sombras Verde Oscuro se movían como si estuvieran vivas, atacando a las criaturas cercanas. Verifiqué y descubrí que esas sombras eran criaturas del Pandemonio llamadas Monstruos Sombra. Si se les hubiera dejado, habrían representado una gran amenaza para el Ejército Élfico al entrar en las Sombras Verde Oscuro.
-List_String=Matar Monstruos Sombra en las Sombras Verde Oscuro
-Mission_String=Matar Monstruos Sombra en las Sombras Verde Oscuro
-Mission_Target1=Matar Monstruos Sombra
+List_String=Mata monstruos Sombra en las Sombras Verde Oscuro
+Mission_String=Mata monstruos Sombra en las Sombras Verde Oscuro
+Mission_Target1=Mata monstruos Sombra
 
 [Quest_1437]
 Name=(Diario) Arma Guardiana Definitiva
@@ -8478,7 +8478,7 @@ Completable_String3=¿Hm? ¿Qué es esto... una nueva pista! Oh Dios, ¡tú lo a
 Complete_String=Traje la nueva pista que encontré del monumento a Senozana Edney. Ella estaba emocionada por resolver el acertijo cuando le mostré esta pista que encontré en Sleighbowa. Dijo medio melancólica que estaba siendo travieso y me sentí mal por no habérselo dicho antes.
 List_String=Junto con la escritura y los patrones ocultos, también apareció un monstruo que protegía el acertijo de este lugar. Tendré que encargarme de él para revisar el monumento.
 Mission_String=Derrota al guardián misterioso y revisa el monumento
-Mission_Target1=Matar monstruos élite
+Mission_Target1=Mata monstruos élite
 Mission_Target2=Revisar el monumento
 
 [Quest_1767]
@@ -11187,8 +11187,8 @@ Doing_String=El Rift está conectado a un espacio donde no existe el concepto de
 Completable_String1=¡Ah! ¡Has vuelto! Me alegra que hayas regresado sano y salvo.
 Complete_String=Tal como dijo Venti, el Rift estaba conectado a un espacio donde no existe el concepto de espacio y tiempo. En el Rift, eliminé todos los monstruos que nunca había visto antes.
 List_String=Venti es parte de una organización que investiga los Rifts, y dijo que ha tenido dificultades con su investigación debido a los diversos monstruos que aparecieron en el Rift. Tengo que derrotar a los monstruos en el Rift para ayudar con su investigación.
-Mission_String=Matar monstruos al otro lado del Rift
-Mission_Target1=Matar monstruos
+Mission_String=Mata monstruos al otro lado del Rift
+Mission_Target1=Mata monstruos
 
 [Quest_8003]
 Name=La Prueba de Mukler
@@ -11540,7 +11540,7 @@ Completable_String3=Por favor espera. Revisaré la respuesta de tu cuerpo.<br>..
 Complete_String=Una vez más exploré el Rift para Grande, y no sentí ninguna diferencia con la última vez. No sé cuán reputada es la Sociedad de Investigación del Rift, pero jura que soy un caso raro de estudio.
 List_String=Tengo que luchar contra tantos monstruos como pueda dentro del Rift mientras estoy expuesto a la energía del Rift.
 Mission_String=Luchar contra monstruos dentro del Rift
-Mission_Target1=Matar monstruos en el Rift
+Mission_Target1=Mata monstruos en el Rift
 
 [Quest_8106]
 Name=Distorsión Poderosa
@@ -11976,8 +11976,8 @@ Doing_String=¡Debemos recopilar tantos datos como sea posible y encontrar las s
 Completable_String1=Por favor, cuéntame lo que sucedió en la torre.<br>Cada una de tus experiencias es un dato valioso para mí.
 Complete_String=Eliminé muchos monstruos que aparecieron en la Endless Tower y le conté a Lammud sobre ellos.
 List_String=Tengo que eliminar muchos monstruos que aparecen en la Endless Tower y contarle a Lammud sobre ellos.
-Mission_String=Matar monstruos en la Endless Tower
-Mission_Target1=Matar monstruos
+Mission_String=Mata monstruos en la Endless Tower
+Mission_Target1=Mata monstruos
 
 [Quest_9008]
 Name=Desafiando los Cielos 4
@@ -19588,7 +19588,7 @@ Mission_String=Proteger al NPC de la horda de monstruos que viene
 Mission_Target1=Proteger NPC
 
 [Quest_2021101]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -19599,7 +19599,7 @@ Mission_Target1=Matar Clibeat
 Mission_Target2=
 
 [Quest_2021102]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -19621,7 +19621,7 @@ Mission_Target1=Controlar Cofres Sospechosos
 Mission_Target2=
 
 [Quest_2021104]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -19632,7 +19632,7 @@ Mission_Target1=Matar a Imhotepam
 Mission_Target2=
 
 [Quest_2021105]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -19643,35 +19643,35 @@ Mission_Target1=Matar a Urgan
 Mission_Target2=Matar a Urgon
 
 [Quest_2021106]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar Monstruos
+Mission_String=Mata monstruos
 Mission_Target1=Matar a Marksman Robinpamd
 Mission_Target2=
 
 [Quest_2021301]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar Monstruos
+Mission_String=Mata monstruos
 Mission_Target1=Evil Sapi Unus
 Mission_Target2=
 
 [Quest_2021302]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar Monstruos
+Mission_String=Mata monstruos
 Mission_Target1=Evil Violent Boar
 Mission_Target2=
 
@@ -19697,7 +19697,7 @@ Mission_String=Destruir el Generador de Evil Energy
 Mission_Target1=Destruir el Generador de Evil Energy central
 
 [Quest_2031501]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -19708,7 +19708,7 @@ Mission_Target1=Destructor Gnoll
 Mission_Target2=
 
 [Quest_2031502]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -19719,7 +19719,7 @@ Mission_Target1=Saqueador Gnoll
 Mission_Target2=
 
 [Quest_2031101]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -19730,7 +19730,7 @@ Mission_Target1=Maligno Garon
 Mission_Target2=
 
 [Quest_2031102]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -19741,7 +19741,7 @@ Mission_Target1=Chamán Larva Pimble
 Mission_Target2=
 
 [Quest_2031201]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -19751,7 +19751,7 @@ Mission_String=Matar a todos los Demonios Invocados
 Mission_Target1=Demonios Notas, Demonios de Papel
 
 [Quest_2031202]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -19761,7 +19761,7 @@ Mission_String=Matar al Monstruo Élite
 Mission_Target1=Yorn, Vern
 
 [Quest_2031203]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -19772,7 +19772,7 @@ Mission_Target1=Jorn
 Mission_Target2=
 
 [Quest_2031204]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -21602,7 +21602,7 @@ Occur_String1>He oído que los %s_1_1 han estado atacando pueblos cercanos.<br>N
 Doing_String=Una guerra es un asunto terrible, de hecho.
 Complete_String=Maté a %s_1_1 que estaba atacando pueblos.
 List_String=Tengo que matar a %s_1_1 que está atacando pueblos.
-Mission_String=Matar monstruos que atacan pueblos
+Mission_String=Mata monstruos que atacan pueblos
 Mission_Target1=Matar %s_1_1
 
 [Template_25031]
@@ -21687,7 +21687,7 @@ Occur_String1=He oído que %s_1_1 y %s_2_1 han estado atacando pueblos cercanos.
 Doing_String=Una guerra es un asunto terrible, de verdad.
 Complete_String=Maté a %s_1_1 y %s_2_1 que estaban atacando pueblos.
 List_String=Tengo que matar a %s_1_1 y %s_2_1 que estaban atacando pueblos.
-Mission_String=Matar monstruos que atacan pueblos
+Mission_String=Mata monstruos que atacan pueblos
 Mission_Target1=Matar a %s_1_1
 Mission_Target2=Matar a %s_2_1
 
@@ -21697,7 +21697,7 @@ Occur_String1=¿Sabías que hay recompensas por algunos %s_1_1? También son bas
 Doing_String=%s_1_1 tienen una recompensa por su cabeza.
 Complete_String=Rastreé y maté a %s_1_1.
 List_String=Tengo que rastrear y matar a %s_1_1.
-Mission_String=Rastrear y matar monstruos buscados
+Mission_String=Rastrear y Mata monstruos buscados
 Mission_Target1=Matar a %s_1_1
 
 [Template_26001]
@@ -21753,7 +21753,7 @@ Occur_String1=¿Sabías que hay recompensas por algunos %s_1_1? También son bas
 Doing_String=%s_1_1 tienen una recompensa por su cabeza.
 Complete_String=Rastreé y maté a %s_1_1.
 List_String=Tengo que rastrear y matar a %s_1_1.
-Mission_String=Rastrear y matar monstruos buscados
+Mission_String=Rastrear y Mata monstruos buscados
 Mission_Target1=Matar a %s_1_1
 
 [Template_26007]
@@ -21830,7 +21830,7 @@ Occur_String1=¿Sabías que hay recompensas por algunos %s_1_1 y %s_2_1? Son bas
 Doing_String=%s_1_1 y %s_2_1 tienen recompensas por sus cabezas.
 Complete_String=Rastreé y maté a %s_1_1 y %s_2_1.
 List_String=Tengo que rastrear y matar a %s_1_1 y %s_2_1.
-Mission_String=Rastrear y matar monstruos buscados
+Mission_String=Rastrear y Mata monstruos buscados
 Mission_Target1=Matar a %s_1_1
 Mission_Target2=Matar a %s_2_1
 
@@ -22146,7 +22146,7 @@ Completable_String1=Bueno, creo que puedo manejarlo.
 Complete_String=(Misión de Grupo de la Ciudad de Dudrin) (6/11)<br>Royce, quien estaba explorando el área cerca de una Rift cerca de la Asociación Minera, parece saber dónde está Tobias. Haz lo que Royce pida para obtener información.
 List_String=(Misión de Grupo de la Ciudad de Dudrin) (6/11)<br>Cierra Rift para averiguar dónde está Tobias de Royce.
 Mission_String=Cierra Rift para averiguar el paradero de Tobias de Royce
-Mission_Target1=Matar monstruos en Rift
+Mission_Target1=Mata monstruos en Rift
 
 [Quest_200107]
 Name=(T) Paradero de Tobias
@@ -29814,7 +29814,7 @@ Mission_String=Derrotar al agente de Death Roar, %s_1_1
 Mission_Target1=%s_1_1
 
 [Quest_2031701]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -29824,7 +29824,7 @@ Mission_String=Matar al Mago que defiende la Cámara de la Reina
 Mission_Target1=Matar a Dark Dullahan Mage
 
 [Quest_2031801]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -29834,7 +29834,7 @@ Mission_String=Matar al Guerrero que defiende la Cámara de la Reina
 Mission_Target1=Matar a Black Skeleton Warrior
 
 [Quest_2031802]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -29845,7 +29845,7 @@ Mission_Target1=Matar a Fallen Temple Guardian
 
 
 [Quest_2031301]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -29855,7 +29855,7 @@ Mission_String=Matar al Garuda que protege a Orman
 Mission_Target1=Matar a Tiberious
 
 [Quest_2031302]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -29865,7 +29865,7 @@ Mission_String=Matar a Pedro, el Rey de Garuda
 Mission_Target1=Matar a Pedro
 
 [Quest_2031303]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -29876,7 +29876,7 @@ Mission_Target1=Gigante
 Mission_Target2=
 
 [Quest_2031304]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -29898,7 +29898,7 @@ Mission_Target1=Controlar la Losa de Piedra Sellada
 Mission_Target2=
 
 [Quest_2031401]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -29908,7 +29908,7 @@ Mission_String=Matar al Esbirro de Orman, Elemental Masivo
 Mission_Target1=Matar a Cerdic
 
 [Quest_2031402]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -29919,17 +29919,17 @@ Mission_Target1=Matar a Gerdic
 
 
 [Quest_2042101]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar %s_1_1 disfrazado<br>Consejo: Matar monstruos específicos
+Mission_String=Matar %s_1_1 disfrazado<br>Consejo: Mata monstruos específicos
 Mission_Target1=Matar %s_1_1
 
 [Quest_2042102]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -29939,7 +29939,7 @@ Mission_String=Matar %s_1_1
 Mission_Target1=Matar %s_1_1
 
 [Quest_2042103]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -29949,17 +29949,17 @@ Mission_String=Matar %s_1_1
 Mission_Target1=Matar %s_1_1
 
 [Quest_2042104]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar %s_1_1 disfrazado<br>Consejo: Matar monstruos específicos
+Mission_String=Matar %s_1_1 disfrazado<br>Consejo: Mata monstruos específicos
 Mission_Target1=Matar %s_1_1
 
 [Quest_2042105]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -29969,7 +29969,7 @@ Mission_String=Matar %s_1_1
 Mission_Target1=Matar %s_1_1
 
 [Quest_2042106]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -29979,7 +29979,7 @@ Mission_String=Matar %s_1_1
 Mission_Target1=Matar %s_1_1
 
 [Quest_2042301]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -29989,7 +29989,7 @@ Mission_String=Matar %s_1_1
 Mission_Target1=Matar %s_1_1
 
 [Quest_2042302]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -29999,7 +29999,7 @@ Mission_String=Matar %s_1_1
 Mission_Target1=Matar %s_1_1
 
 [Quest_2042303]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30010,7 +30010,7 @@ Mission_Target1=Matar %s_1_1
 
 
 [Quest_2042304]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30020,7 +30020,7 @@ Mission_String=Matar %s_1_1
 Mission_Target1=Matar %s_1_1
 
 [Quest_2042305]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30030,7 +30030,7 @@ Mission_String=Matar %s_1_1
 Mission_Target1=Matar %s_1_1
 
 [Quest_2042306]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30040,7 +30040,7 @@ Mission_String=Matar %s_1_1
 Mission_Target1=Matar %s_1_1
 
 [Quest_2042307]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30050,7 +30050,7 @@ Mission_String=Matar %s_1_1
 Mission_Target1=Matar %s_1_1
 
 [Quest_2042308]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30060,7 +30060,7 @@ Mission_String=Matar %s_1_1
 Mission_Target1=Matar %s_1_1
 
 [Quest_2051201]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30071,7 +30071,7 @@ Mission_Target1=Matar al Golpeador de Martillo de la Ira
 Mission_Target2=
 
 [Quest_2051202]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30082,7 +30082,7 @@ Mission_Target1=Matar al Zealot de la Desesperación
 Mission_Target2=
 
 [Quest_2051401]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30094,7 +30094,7 @@ Mission_Target2=
 
 
 [Quest_2051402]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30105,7 +30105,7 @@ Mission_Target1=Matar al Capitán Dio
 Mission_Target2=
 
 [Quest_2051601]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30115,7 +30115,7 @@ Mission_String=Matar al Comandante del Ejército Real de Lorencia Esqueletizado
 Mission_Target1=Matar al Comandante del Ejército Real de Lorencia Esqueletizado
 
 [Quest_2051602]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30125,7 +30125,7 @@ Mission_String=Matar a los Revenants de los Caballeros de Wallkreiger
 Mission_Target1=Matar a los Revenants de los Caballeros de Wallkreiger
 
 [Quest_2051801]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30135,7 +30135,7 @@ Mission_String=Matar Monstruo Élite
 Mission_Target1=Matar al Explorador de la Alianza de la Nobleza
 
 [Quest_2051802]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30145,7 +30145,7 @@ Mission_String=Matar Monstruo Élite
 Mission_Target1=Matar a McHan
 
 [Quest_2051901]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30155,7 +30155,7 @@ Mission_String=Matar Monstruo Élite
 Mission_Target1=Matar a Andrew
 
 [Quest_2051902]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30166,7 +30166,7 @@ Mission_Target1=Matar al Explorador de la Alianza de la Nobleza
 
 
 [Quest_2052101]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30177,7 +30177,7 @@ Mission_Target1=Destruir el Cristal
 Mission_Target2=Matar a la Súcubo
 
 [Quest_2052102]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30208,7 +30208,7 @@ Mission_String=Destruir items
 Mission_Target1=Destruir items de Cristal
 
 [Quest_2052105]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30218,7 +30218,7 @@ Mission_String=Matar Monstruo Élite
 Mission_Target1=Matar a la Súcubo
 
 [Quest_2052106]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30228,7 +30228,7 @@ Mission_String=Matar Monstruo Élite
 Mission_Target1=Matar a la Súcubo
 
 [Quest_2052301]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30239,7 +30239,7 @@ Mission_Target1=Matar al Prisionero No. 1264
 
 
 [Quest_2052302]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30249,7 +30249,7 @@ Mission_String=Matar Monstruo Élite
 Mission_Target1=Matar al Comandante Mada
 
 [Quest_2052303]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30259,7 +30259,7 @@ Mission_String=Matar Monstruo Élite
 Mission_Target1=Matar al Jefe Gremlin Gigante
 
 [Quest_2052401]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30269,7 +30269,7 @@ Mission_String=Matar Monstruo Élite
 Mission_Target1=Matar al Jefe Gremlin Gigante
 
 [Quest_2052601]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30279,7 +30279,7 @@ Mission_String=Matar al Gobernante de Área, Gremlin Gigante Pesadilla
 Mission_Target1=Matar al Gremlin Gigante Pesadilla
 
 [Quest_2052602]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30289,7 +30289,7 @@ Mission_String=Matar a la Súcubo Ruptura de Sangre que guarda el camino
 Mission_Target1=Matar a la Súcubo Ruptura de Sangre
 
 [Quest_2052801]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30300,7 +30300,7 @@ Mission_Target1=Matar a la Reina Insecto Volador Caníbal
 
 
 [Quest_2052802]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30310,7 +30310,7 @@ Mission_String=Matar al Maestro Mago Demonio que guarda el camino
 Mission_Target1=Matar al Maestro Mago Demonio
 
 [Quest_2052901]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30320,7 +30320,7 @@ Mission_String=Matar al Comandante de Caballería de Fuerzas Especiales del Pand
 Mission_Target1=Matar al Comandante de Caballería de Fuerzas Especiales del Pandemonio
 
 [Quest_2052902]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30341,7 +30341,7 @@ Mission_Target1=Controlar criaturas pandemoníacas
 Mission_Target2=Controlar criaturas pandemoníacas
 
 [Quest_2052804]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30363,13 +30363,13 @@ Mission_Target1=Controlar criaturas pandemoníacas
 Mission_Target2=Controlar criaturas pandemoníacas
 
 [Quest_2052806]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar Monstruos
+Mission_String=Mata monstruos
 Mission_Target1=Matar al Maestro Mago Demonio
 Mission_Target2=
 
@@ -30386,40 +30386,40 @@ Mission_Target1=Controlar criaturas pandemoníacas
 Mission_Target2=Controlar criaturas pandemoníacas
 
 [Quest_2052904]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar Monstruos
+Mission_String=Mata monstruos
 Mission_Target1=Matar al Comandante de Caballería de Fuerzas Especiales del Pandemonio
 Mission_Target2=
 
 [Quest_2052905]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar Monstruos
+Mission_String=Mata monstruos
 Mission_Target1=Matar a la Súcubo Pesadilla
 Mission_Target2=
 
 [Quest_2052906]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar Monstruos
+Mission_String=Mata monstruos
 Mission_Target1=Matar a la Súcubo Ruptura de Sangre
 Mission_Target2=
 
 [Quest_2033101]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30429,7 +30429,7 @@ Mission_String=Matar Monstruo Élite
 Mission_Target1=Matar al Escorpión de Roca
 
 [Quest_2033102]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30439,7 +30439,7 @@ Mission_String=Matar Monstruo Élite
 Mission_Target1=Matar al Lobo Alucinatorio
 
 [Quest_2033103]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30449,7 +30449,7 @@ Mission_String=Matar Monstruo Élite
 Mission_Target1=Matar a la Tortuga Dragón
 
 [Quest_2033104]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30471,7 +30471,7 @@ Mission_Target2=Matar a los Tarsks
 
 
 [Quest_2033201]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30481,7 +30481,7 @@ Mission_String=Matar al Monstruo Élite
 Mission_Target1=Matar al Wyvern de la Cueva
 
 [Quest_2033202]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30491,7 +30491,7 @@ Mission_String=El camino hacia el jefe se abre cuando se mata al Flicker escondi
 Mission_Target1=Matar al Flicker
 
 [Quest_2053101]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30501,7 +30501,7 @@ Mission_String=Matar al Monstruo Élite
 Mission_Target1=Matar al Dragón Hielo Balanceante
 
 [Quest_2053102]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30511,7 +30511,7 @@ Mission_String=Matar al Monstruo Élite
 Mission_Target1=Matar a los Dracans Fantasma
 
 [Quest_2053103]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30521,7 +30521,7 @@ Mission_String=Matar al Monstruo Élite
 Mission_Target1=Matar al Fanático Sekneum de los Dracans
 
 [Quest_2053104]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30531,7 +30531,7 @@ Mission_String=Matar al Monstruo Élite
 Mission_Target1=Destruir la Estatua de los Dracans
 
 [Quest_2053201]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30541,7 +30541,7 @@ Mission_String=Matar al Monstruo Élite
 Mission_Target1=Matar al Fanático Sekneum de los Dracans
 
 [Quest_2053202]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30551,7 +30551,7 @@ Mission_String=Matar al Monstruo Élite
 Mission_Target1=Dracans Fantasma
 
 [Quest_2053203]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30562,7 +30562,7 @@ Mission_Target1=Matar al Guerrero Esqueleto Grande Congelado
 
 
 [Quest_2053204]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30572,13 +30572,13 @@ Mission_String=Matar al Monstruo Élite
 Mission_Target1=Matar al Guerrero Esqueleto Grande Congelado
 
 [Quest_2065901]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2065902]
@@ -30592,128 +30592,128 @@ Mission_String=Matar al Monstruo Élite
 Mission_Target1=%s_1_1
 
 [Quest_2065903]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2065904]
-Name=Puerta de Entrada: Matar Monstruos
+Name=Puerta de Entrada: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2065905]
-Name=Puerta de Entrada: Matar Monstruos
+Name=Puerta de Entrada: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2065911]
-Name=Puerta de Entrada: Matar Monstruos
+Name=Puerta de Entrada: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2065912]
-Name=Puerta de Entrada: Matar Monstruos
+Name=Puerta de Entrada: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2065913]
-Name=Puerta de Entrada: Matar Monstruos
+Name=Puerta de Entrada: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite escondidos dentro del límite de tiempo
+Mission_String=Mata monstruos élite escondidos dentro del límite de tiempo
 Mission_Target1=%s_1_1
 
 
 [Quest_2065914]
-Name=Puerta de Entrada: Matar Monstruos
+Name=Puerta de Entrada: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2065915]
-Name=Puerta de Entrada: Matar Monstruos
+Name=Puerta de Entrada: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2065916]
-Name=Puerta de Entrada: Matar Monstruos
+Name=Puerta de Entrada: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2065920]
-Name=Puerta de Entrada: Matar Monstruos
+Name=Puerta de Entrada: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos dentro del límite de tiempo
+Mission_String=Mata monstruos dentro del límite de tiempo
 Mission_Target1=%s_1_1
 
 [Quest_2065921]
-Name=Puerta de Entrada: Matar Monstruos
+Name=Puerta de Entrada: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite dentro del límite de tiempo
+Mission_String=Mata monstruos élite dentro del límite de tiempo
 Mission_Target1=%s_1_1
 
 [Quest_2065922]
-Name=Puerta de Entrada: Matar Monstruos
+Name=Puerta de Entrada: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos dentro del límite de tiempo
+Mission_String=Mata monstruos dentro del límite de tiempo
 Mission_Target1=%s_1_1
 
 [Quest_2064001]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30723,7 +30723,7 @@ Mission_String=Eliminar al Guardián de la Puerta
 Mission_Target1=Matar al Guardián de la Puerta Ashas Élite 1
 
 [Quest_2064002]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30733,7 +30733,7 @@ Mission_String=Eliminar al Guardián de la Puerta
 Mission_Target1=Matar al Guardián de la Puerta Ashas Élite 2
 
 [Quest_2064003]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30804,141 +30804,141 @@ Mission_String=Matar al Guardián de la Puerta
 Mission_Target1=Matar al Comandante del Ejército de Ocupación Ashas Nakan
 
 [Quest_2064301]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar Monstruos Élites
+Mission_String=Mata monstruos Élites
 Mission_Target1=Comandante en Jefe Ashas Nakan
 
 
 [Quest_2064302]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar Monstruos Élites
+Mission_String=Mata monstruos Élites
 Mission_Target1=Templario Sapientia
 
 [Quest_2064304]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=Matar 1 de los 2 Monstruos Élites
-Mission_String=Matar Monstruos Élites
+Mission_String=Mata monstruos Élites
 Mission_Target1=Templario Sapientia
 
 [Quest_2064305]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar Monstruos Élites
+Mission_String=Mata monstruos Élites
 Mission_Target1=Templario Sapientia
 
 [Quest_2064601]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar Monstruos Élites
+Mission_String=Mata monstruos Élites
 Mission_Target1=%s_1_1
 
 [Quest_2064602]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar Monstruos Élites
+Mission_String=Mata monstruos Élites
 Mission_Target1=%s_1_1
 
 [Quest_2064603]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar Monstruos Élites
+Mission_String=Mata monstruos Élites
 Mission_Target1=%s_1_1
 
 [Quest_2064604]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élites
+Mission_String=Mata monstruos élites
 Mission_Target1=%s_1_1
 
 
 [Quest_2064605]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élites
+Mission_String=Mata monstruos élites
 Mission_Target1=%s_1_1
 
 [Quest_2064606]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élites
+Mission_String=Mata monstruos élites
 Mission_Target1=%s_1_1
 
 [Quest_2064701]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar Monstruos Élites
+Mission_String=Mata MonstruosÉlites
 Mission_Target1=%s_1_1
 Mission_Target2=%s_2_1
 
 [Quest_2064702]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar Monstruos Élites
+Mission_String=Mata monstruos Élites
 Mission_Target1=%s_1_1
 
 [Quest_2064703]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar Monstruos Élites
+Mission_String=Mata monstruos Élites
 Mission_Target1=%s_1_1
 Mission_Target2=%s_2_1
 
 [Quest_2068301]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30948,7 +30948,7 @@ Mission_String=Detener la Mutación
 Mission_Target1=Matar Lobos Infestados
 
 [Quest_2068302]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30958,7 +30958,7 @@ Mission_String=Detener la Mutación
 Mission_Target1=%s_1_1
 
 [Quest_2068303]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30989,7 +30989,7 @@ Mission_String=Llegar al destino antes de que se acabe el tiempo
 Mission_Target1=Alcanzar la última Puerta
 
 [Quest_2068501]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -30999,13 +30999,13 @@ Mission_String=Detener a los mutantes
 Mission_Target1=Exterminar Brotes Bizarros
 
 [Quest_2068502]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élites
+Mission_String=Mata Monstruosélites
 Mission_Target1=Matar Humanos Mutados
 
 [Quest_2068503]
@@ -31019,28 +31019,28 @@ Mission_String=Entrar a la Sala de Control
 Mission_Target1=Alcanzar el dispositivo de teletransporte
 
 [Quest_2069201]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar Monstruos Élites
+Mission_String=Mata monstruos Élites
 Mission_Target1=Aprendiz - Ashas Nakan de Armadura Pesada
 
 [Quest_2069202]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar Monstruos Élites
+Mission_String=Mata MonstruosÉlites
 Mission_Target1=Matar Aprendiz - Oney Xicycle
 
 
 [Quest_2703101]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31050,7 +31050,7 @@ Mission_String=Romper las defensas de los guardianes que protegen el canal
 Mission_Target1=Matar al Capitán de la Guardia del Canal Chakua
 
 [Quest_2703102]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31060,7 +31060,7 @@ Mission_String=Entrar en el pasaje para adentrarse más en el canal
 Mission_Target1=Matar al Capitán de Búsqueda del Canal Chakua
 
 [Quest_2703201]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31070,7 +31070,7 @@ Mission_String=Derrotar a los guardianes que defienden la aldea
 Mission_Target1=Matar al Capitán de la Guardia Chakua
 
 [Quest_2703202]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31080,7 +31080,7 @@ Mission_String=Batalla contra los guerreros Chakua
 Mission_Target1=Matar al Capitán Guerrero Chakua
 
 [Quest_2703203]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31090,7 +31090,7 @@ Mission_String=Matar a los Buscadores de Ojos de Águila
 Mission_Target1=Matar al Capitán de Búsqueda Chakua
 
 [Quest_2703301]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31101,7 +31101,7 @@ Mission_Target1=Matar al Jefe de los Cuarteles Chakua
 
 
 [Quest_2703302]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31111,7 +31111,7 @@ Mission_String=Destruir el Arsenal, Matar al Comandante
 Mission_Target1=Matar al Guardián del Arsenal Chakua
 
 [Quest_2703401]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31121,7 +31121,7 @@ Mission_String=Romper las Líneas de los Chakua
 Mission_Target1=Matar al Comandante de Batalla Chakua
 
 [Quest_2703402]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31131,7 +31131,7 @@ Mission_String=La Sombra Negra que Interrumpe Nuestro Avance
 Mission_Target1=Matar al Trapper de Sombras Chakua
 
 [Quest_2703403]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31141,7 +31141,7 @@ Mission_String=Eliminar la Fuerza Principal de los Chakua
 Mission_Target1=Matar al Gran General Chakua
 
 [Quest_2705101]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31151,7 +31151,7 @@ Mission_String=Hora de Coleccionar Sus Cabezas
 Mission_Target1=Matar al Coleccionista de Cabezas Ashas Nakan
 
 [Quest_2705201]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31162,7 +31162,7 @@ Mission_Target1=Matar al Guerrero Frígido Ashas Nakan
 
 
 [Quest_2705202]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31172,7 +31172,7 @@ Mission_String=Lluvias de Fuego sobre las Almas Congeladas
 Mission_Target1=Matar al Tirador Congelado Ashas Nakan
 
 [Quest_2705203]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31182,7 +31182,7 @@ Mission_String=Emperatriz o No, Todos Caen
 Mission_Target1=Matar a la Emperatriz Ashas Nakan
 
 [Quest_2705301]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31192,7 +31192,7 @@ Mission_String=La Sombra Más Oscura
 Mission_Target1=Matar a la Sombra Oscura Ashas Nakan
 
 [Quest_2705302]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31202,7 +31202,7 @@ Mission_String=Golpéalo Antes de que Use Magia
 Mission_Target1=Matar al Mago Senior Ashas Nakan
 
 [Quest_2705303]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31212,7 +31212,7 @@ Mission_String=No Subestimes su Entrenamiento
 Mission_Target1=Matar al Comandante de Caballeros Antiguos Ashas Nakan
 
 [Quest_2706101]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31222,7 +31222,7 @@ Mission_String=Eliminar a los Tiradores Kobold Mortales
 Mission_Target1=Matar al Tirador Kobold
 
 [Quest_2706102]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31233,7 +31233,7 @@ Mission_Target1=Matar al Investigador Senior Kobold
 
 
 [Quest_2706201]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31243,7 +31243,7 @@ Mission_String=Matar a los Secuaces de los Demonios
 Mission_Target1=Matar al Zombie de la Cueva Oscura
 
 [Quest_2706202]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31253,7 +31253,7 @@ Mission_String=Más Profundo en la Cueva
 Mission_Target1=Matar al Zombie Asesino de la Cueva
 
 [Quest_2706203]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31263,7 +31263,7 @@ Mission_String=Destruir al Ejército del Pandemonio
 Mission_Target1=Matar al Experto en Combate del Ejército del Pandemonio
 
 [Quest_2706204]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31273,7 +31273,7 @@ Mission_String=Enfrentarse a los Oficiales de Alto Rango del Pandemonio
 Mission_Target1=Matar al Ejecutivo del Ejército del Pandemonio
 
 [Quest_2706205]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31283,7 +31283,7 @@ Mission_String=Matar a los Demonios que Ocupan la Cueva
 Mission_Target1=Matar al Comandante de la Cueva del Ejército del Pandemonio
 
 [Quest_2706501]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31294,7 +31294,7 @@ Mission_Target1=Matar al Encargado de la Unidad del Ejército del Pandemonio
 
 
 [Quest_2706502]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31304,7 +31304,7 @@ Mission_String=Hacia el Corazón del Campamento del Pandemonio
 Mission_Target1=Matar al Capitán de la Guardia del Ejército del Pandemonio
 
 [Quest_2706503]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31314,7 +31314,7 @@ Mission_String=Destruir el Ejército del Pandemonio en el Núcleo
 Mission_Target1=Matar al Encargado de la Base del Ejército del Pandemonio
 
 [Quest_2706601]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31324,7 +31324,7 @@ Mission_String=Matar Demonios de Élite 1
 Mission_Target1=Matar al Capitán del Infierno del Ejército del Pandemonio
 
 [Quest_2706602]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31334,7 +31334,7 @@ Mission_String=Matar Demonios de Élite 2
 Mission_Target1=Matar al Tirador Infernal del Ejército del Pandemonio
 
 [Quest_2706603]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31344,7 +31344,7 @@ Mission_String=Matar al Comandante de la Legión del Pandemonio
 Mission_Target1=Matar al Comandante de la Legión del Pandemonio Valdrei
 
 [Quest_2706701]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31355,7 +31355,7 @@ Mission_Target1=Matar al Comandante Demonio del Ejército del Pandemonio
 
 
 [Quest_2706702]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31365,7 +31365,7 @@ Mission_String=Kainan Estaba Detrás de Todo
 Mission_Target1=Matar a Kainan
 
 [Quest_2706703]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31375,7 +31375,7 @@ Mission_String=Buscar a Kainan
 Mission_Target1=Matar al Comandante Infernal del Ejército del Pandemonio
 
 [Quest_2706704]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31385,7 +31385,7 @@ Mission_String=Fuera del Labyrinth
 Mission_Target1=Matar al Comandante de Combate del Ejército del Pandemonio
 
 [Quest_2706705]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31395,7 +31395,7 @@ Mission_String=Kainan Ataca Nuevamente
 Mission_Target1=Matar a Kainan
 
 [Quest_2706801]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31405,7 +31405,7 @@ Mission_String=Matar a los Demonios de Élite 1
 Mission_Target1=Matar al Bombardero de Fuego del Infierno del Ejército del Pandemonio
 
 [Quest_2706802]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31415,7 +31415,7 @@ Mission_String=Matar a los Demonios de Élite 2
 Mission_Target1=Matar al Capitán del Infierno del Ejército del Pandemonio
 
 [Quest_2706803]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31426,7 +31426,7 @@ Mission_Target1=Matar a Kainan
 
 
 [Quest_2708101]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31436,7 +31436,7 @@ Mission_String=Kainan Acorralado
 Mission_Target1=Derrotar a Kainan
 
 [Quest_2716101]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31446,7 +31446,7 @@ Mission_String=La Flor Más Fría
 Mission_Target1=Matar a la Flor de Invierno
 
 [Quest_2716102]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31456,7 +31456,7 @@ Mission_String=Extinguir el Rayo Helado
 Mission_Target1=Matar al Rayo de Hielo
 
 [Quest_2716103]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31466,7 +31466,7 @@ Mission_String=Detener el Desastre
 Mission_Target1=Matar a la Tormenta de Nieve Desastrosa
 
 [Quest_2716104]
-Name=Matar Monstruos de Élite
+Name=Mata monstruos de Élite
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31476,7 +31476,7 @@ Mission_String=Eliminar la Fuente del Frío
 Mission_Target1=Matar el Corazón Helado
 
 [Quest_2716201]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31486,7 +31486,7 @@ Mission_String=La Tierra Respira
 Mission_Target1=Matar el Aliento de la Tierra
 
 [Quest_2716202]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31497,7 +31497,7 @@ Mission_Target1=Matar la Sangre de la Tierra
 
 
 [Quest_2716203]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31507,7 +31507,7 @@ Mission_String=Aliento Ardiente
 Mission_Target1=Matar el Aliento Ardiente de la Tierra
 
 [Quest_2716204]
-Name=Matar Monstruos de Élite
+Name=Mata Monstruose Élite
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31517,7 +31517,7 @@ Mission_String=Sangre Ardiente
 Mission_Target1=Matar la Sangre Ardiente de la Tierra
 
 [Quest_2716301]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31527,7 +31527,7 @@ Mission_String=¡Asegura la Entrada!
 Mission_Target1=Matar al Intendente Dontemora
 
 [Quest_2716302]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31537,7 +31537,7 @@ Mission_String=¡Cuidado con tu Espalda!
 Mission_Target1=Matar al Instructor Asesino Mors
 
 [Quest_2716303]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31547,7 +31547,7 @@ Mission_String=¡Elimina a los Espías!
 Mission_Target1=Matar al Oficial Comandante de la Unidad Espía Daine
 
 [Quest_2716401]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31557,7 +31557,7 @@ Mission_String=Mata Avispas
 Mission_Target1=Matar a la Reina Avispa Mutante
 
 [Quest_2716402]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31568,7 +31568,7 @@ Mission_Target1=Matar al Thrasher Extraterrestre Obsesivo
 
 
 [Quest_2716403]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31578,7 +31578,7 @@ Mission_String=Plantas del Infierno
 Mission_Target1=Matar Tentáculos del Infierno
 
 [Quest_2716404]
-Name=Matar Monstruos de Élite
+Name=Mata monstruos de Élite
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31588,7 +31588,7 @@ Mission_String=El Mutante Más Poderoso
 Mission_Target1=Matar al Monstruo del Caos
 
 [Quest_2720201]
-Name=Matar Monstruos de Élite
+Name=Mata monstruos de Élite
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31598,7 +31598,7 @@ Mission_String=Conocimiento Antiguo
 Mission_Target1=Matar al Diablo de Papel de Encantamiento
 
 [Quest_2720202]
-Name=Matar Monstruos de Élite
+Name=Mata monstruos de Élite
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31608,7 +31608,7 @@ Mission_String=Conocimiento Antiguo
 Mission_Target1=Matar al Diablo del Libro de Hechizos de Tormenta
 
 [Quest_2720203]
-Name=Matar Monstruos
+Name=Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31618,7 +31618,7 @@ Mission_String=Conocimiento Antiguo
 Mission_Target1=Matar al Guardián de la Sabiduría
 
 [Quest_2720204]
-Name=Matar Monstruos de Élite
+Name=Mata Monstruosde Élite
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31629,7 +31629,7 @@ Mission_Target1=Matar al Elemental de Destrucción de la Gema Plateada
 
 
 [Quest_2720501]
-Name=Matar Monstruos de Élite
+Name=Mata Monstruose Élite
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31639,7 +31639,7 @@ Mission_String=Matar Bandidos
 Mission_Target1=Matar al líder de los Bandidos de la Alianza de la Nobleza
 
 [Quest_2720502]
-Name=Matar Monstruos de Élite
+Name=Mata Monstruosde Élite
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31649,7 +31649,7 @@ Mission_String=Matar Bandidos
 Mission_Target1=Matar al capitán de los Bandidos de la Alianza de la Nobleza
 
 [Quest_2720503]
-Name=Matar Monstruos de Élite
+Name=Mata Monstruosde Élite
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31659,7 +31659,7 @@ Mission_String=Matar Bandidos
 Mission_Target1=Matar al Asesor de Dracans Abandonados
 
 [Quest_2720504]
-Name=Matar Monstruos de Élite
+Name=Mata Monstruose Élite
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31669,7 +31669,7 @@ Mission_String=Matar Bandidos
 Mission_Target1=Matar al Mayor de Dracans Abandonados
 
 [Quest_2720505]
-Name=Matar Monstruos de Élite
+Name=Mata Monstruosde Élite
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31679,7 +31679,7 @@ Mission_String=Matar Bandidos
 Mission_Target1=Matar al Comandante de Ashas Nakan Desterrado
 
 [Quest_2720601]
-Name=Matar Monstruos de Élite
+Name=Mata Monstruosde Élite
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31689,7 +31689,7 @@ Mission_String=Matar Sapis
 Mission_Target1=Matar al Sacerdote Sapi Tres
 
 [Quest_2720602]
-Name=Matar Monstruos de Élite
+Name=Mata Monstruosde Élite
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31700,7 +31700,7 @@ Mission_Target1=Matar al Comandante de Esclavos de Bosque Oscuro
 
 
 [Quest_2720603]
-Name=Matar Monstruos de Élite
+Name=Mata Monstruosde Élite
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31710,7 +31710,7 @@ Mission_String=Matar Arañas
 Mission_Target1=Matar Arañas Élite
 
 [Quest_2720701]
-Name=Matar Monstruos de Élite
+Name=Mata Monstruosde Élite
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31720,7 +31720,7 @@ Mission_String=Matar Kobolds
 Mission_Target1=Matar Soldados Kobold Asaltantes
 
 [Quest_2721501]
-Name=Matar Monstruos de Élite
+Name=Mata monstruos de Élite
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31730,7 +31730,7 @@ Mission_String=Matar Bestias Ranas
 Mission_Target1=Matar a las Bestias Ranas Élite Hambrientas
 
 [Quest_2721601]
-Name=Matar Monstruos de Élite
+Name=Mata Monstruosde Élite
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31740,7 +31740,7 @@ Mission_String=Matar Elementales de Gemas
 Mission_Target1=Matar a los Elementales de Gema Roja Élite de Destrucción
 
 [Quest_2721602]
-Name=Matar Monstruos de Élite
+Name=Mata Monstruosde Élite
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31791,7 +31791,7 @@ Mission_String=Destruir el pilar invencible que protege la puerta
 Mission_Target1=Destruir %s_1_1
 
 [Quest_2430002]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31801,7 +31801,7 @@ Mission_String=Matar a los Demonios de Pandemonium de Alto Rango
 Mission_Target1=Matar %s_1_1
 
 [Quest_2430003]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31812,7 +31812,7 @@ Mission_Target1=Matar %s_1_1
 Mission_Target2=Activar el mecanismo oculto
 
 [Quest_2430004]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31823,7 +31823,7 @@ Mission_Target1=Matar %s_1_1
 Mission_Target2=Activar el mecanismo oculto
 
 [Quest_2430005]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31864,7 +31864,7 @@ Mission_String=Desactivar las trampas de las estatuas de piedra de aliento opera
 Mission_Target1=Operar la palanca oculta
 
 [Quest_2430009]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31874,7 +31874,7 @@ Mission_String=Matar a los Demonios que custodian las Puertas
 Mission_Target1=Matar %s_1_1
 
 [Quest_2430201]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31886,7 +31886,7 @@ Mission_Target2=Destruir %s_1_1
 Mission_Target3=Activar el mecanismo oculto
 
 [Quest_2430202]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31896,7 +31896,7 @@ Mission_String=Matar a los Demonios de Pandemonium de Alto Rango
 Mission_Target1=Matar %s_1_1
 
 [Quest_2430203]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31916,7 +31916,7 @@ Mission_String=Operar la palanca oculta
 Mission_Target1=Operar la palanca oculta
 
 [Quest_2430205]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31926,7 +31926,7 @@ Mission_String=Destruir la estatua de piedra
 Mission_Target1=Destruir %s_1_1
 
 [Quest_2430206]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31936,7 +31936,7 @@ Mission_String=Matar al demonio de alto rango del inframundo
 Mission_Target1=Matar %s_1_1
 
 [Quest_2430207]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31947,7 +31947,7 @@ Mission_Target1=Matar %s_1_1
 
 
 [Quest_2430208]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31957,7 +31957,7 @@ Mission_String=Destruir al demonio que protege la puerta
 Mission_Target1=Matar %s_1_1
 
 [Quest_2430209]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31967,7 +31967,7 @@ Mission_String=Matar al Demonio que Guarda las Puertas
 Mission_Target1=Matar %s_1_1
 
 [Quest_2430401]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31977,7 +31977,7 @@ Mission_String=Matar a los Demonios de Pandemonium de Alto Rango
 Mission_Target1=Matar al Explorador Demonio de Alto Rango Abisal
 
 [Quest_2430402]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31987,7 +31987,7 @@ Mission_String=Matar a los Demonios de Pandemonium de Alto Rango
 Mission_Target1=Matar a los Balrogs Abisales Profundos
 
 [Quest_2430403]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -31997,7 +31997,7 @@ Mission_String=Matar a los Demonios de Pandemonium de Alto Rango
 Mission_Target1=Vigilante Demonio de Alto Rango Abisal
 
 [Quest_2430404]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -32007,7 +32007,7 @@ Mission_String=Matar a los Demonios de Pandemonium de Alto Rango
 Mission_Target1=Matar a los Zombis de Fuego Sufrientes
 
 [Quest_2430405]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -32017,7 +32017,7 @@ Mission_String=Matar a los Demonios de Pandemonium de Alto Rango
 Mission_Target1=Matar a los Balrogs Abisales Profundos
 
 [Quest_2430406]
-Name=Puerta: Matar Monstruos
+Name=Puerta: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -32048,126 +32048,126 @@ Mission_Target1=Matar a los Goblin Santas
 
 
 [Quest_2065301]
-Name=Matar monstruos
+Name=Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2065305]
-Name=Matar monstruos
+Name=Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata Monstruosite
 Mission_Target1=%s_1_1
 
 [Quest_2065306]
-Name=Matar monstruos
+Name=Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata Monstruoslite
 Mission_Target1=%s_1_1
 
 [Quest_2065307]
-Name=Matar monstruos
+Name=Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2065308]
-Name=Matar monstruos
+Name=Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 Mission_Target2=%s_2_1
 Mission_Target3=%s_3_1
 
 [Quest_2065001]
-Name=Matar monstruos
+Name=Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2065002]
-Name=Matar monstruos
+Name=Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 
 [Quest_2065005]
-Name=Matar monstruos
+Name=Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2065006]
-Name=Matar monstruos
+Name=Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2065007]
-Name=Matar monstruos
+Name=Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2620001]
-Name=Matar monstruos dentro del límite de tiempo
+Name=Mata Monstruosdentro del límite de tiempo
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata Monstruosite
 Mission_Target1=Matar Artilleros Goblin
 
 [Quest_2620201]
-Name=Matar monstruos dentro del límite de tiempo
+Name=Mata Monstruosentro del límite de tiempo
 Occur_String1=
 Doing_String=
 Completable_String1=
 Complete_String=
 List_String=
-Mission_String=Matar monstruos élite
+Mission_String=Mata Monstruoslite
 Mission_Target1=Matar Artilleros Goblin
 
 [Quest_2067001]
@@ -38803,7 +38803,7 @@ Mission_String=Extermina al conejo que actúa como dueño de la fuente termal
 Mission_Target1=Conejo Dueño del Ryokan
 
 [Quest_2601201]
-Name=Portal: Matar Monstruos
+Name=Portal: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -38813,7 +38813,7 @@ Mission_String=Mata a los monstruos de élite del Ryokan
 Mission_Target1=Matar Kobolds con Ballestas
 
 [Quest_2601202]
-Name=Portal: Matar Monstruos
+Name=Portal: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -38833,7 +38833,7 @@ Mission_String=Destruye las Estatuas Corruptas
 Mission_Target1=Destruir estatuas
 
 [Quest_2601204]
-Name=Portal: Matar Monstruos
+Name=Portal: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -38919,7 +38919,7 @@ Mission_String=Despeja el Área Restringida 6-1
 Mission_Target1=Despeja el Área Restringida
 
 [Quest_2601501]
-Name=Portal: Matar Monstruos
+Name=Portal: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -38931,7 +38931,7 @@ Mission_Target2=Matar Seguidores Oscuros
 
 
 [Quest_2601502]
-Name=Portal: Matar Monstruos
+Name=Portal: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -38941,7 +38941,7 @@ Mission_String=Mata a los monstruos de élite Zelotes
 Mission_Target1=Matar Zelotes Oscuros
 
 [Quest_2601503]
-Name=Portal: Matar Monstruos
+Name=Portal: Mata monstruos
 Occur_String1=
 Doing_String=
 Completable_String1=
@@ -40194,29 +40194,29 @@ Mission_Target1=Regresa con el oficial ausente
 Mission_Target2=Leer la carta del oficial ausente
 
 [Quest_2410001]
-Name=Puerta de entrada: Matar monstruos
+Name=Puerta de entrada: Mata monstruos
 Mission_String=Mata al minion del demonio en el área limítrofe
 Mission_Target1=Mata al supervisor del minion del demonio
 Mission_Target2=Mata al gerente del área de eliminación
 
 [Quest_2410002]
-Name=Puerta de entrada: Matar monstruos
+Name=Puerta de entrada: Mata monstruos
 Mission_String=Mata al minion del demonio en el área limítrofe
 Mission_Target1=Mata al gerente del área de eliminación
 
 [Quest_2410003]
-Name=Puerta de entrada: Matar monstruos
+Name=Puerta de entrada: Mata monstruos
 Mission_String=Mata al minion del demonio en el área limítrofe
 Mission_Target1=Mata al supervisor del minion del demonio
 
 
 [Quest_2410004]
-Name=Puerta de entrada: Matar monstruos
+Name=Puerta de entrada: Mata monstruos
 Mission_String=Mata al minion del demonio en el área limítrofe
 Mission_Target1=Mata al gerente del área de transporte
 
 [Quest_2410005]
-Name=Puerta de entrada: Matar monstruos
+Name=Puerta de entrada: Mata monstruos
 Mission_String=Mata al minion del demonio en el área limítrofe
 Mission_Target1=Mata al gerente del área de transporte
 
@@ -40239,12 +40239,12 @@ Mission_Target2=Mata la estatua de piedra
 Mission_Target3=Activa el mecanismo oculto
 
 [Quest_2430211]
-Name=Puerta de entrada: Matar monstruos
+Name=Puerta de entrada: Mata monstruos
 Mission_String=Mata a los monstruos élite dentro del límite de tiempo
 Mission_Target1=Mata a %s_1_1
 
 [Quest_2430212]
-Name=Puerta de entrada: Matar monstruos
+Name=Puerta de entrada: Mata monstruos
 Mission_String=Mata a los monstruos poderosos
 Mission_Target1=Mata a %s_1_1
 
@@ -41108,27 +41108,27 @@ Mission_String=Barriendo un grupo de cazadores comprados y posicionados en la zo
 Mission_Target1=Barriendo cazadores comprados
 
 [Quest_2732101]
-Name=Matar monstruos élite
+Name=Mata Monstruose
 Mission_String=Prevenir la contaminación del embalse.
 Mission_Target1=Matar %s_1_1
 
 [Quest_2732102]
-Name=Matar monstruos élite
+Name=Mata Monstruosite
 Mission_String=Rescatar al jefe de gestión.
 Mission_Target1=Matar %s_1_1
 
 [Quest_2732103]
-Name=Matar monstruos élite
+Name=Mata monstruos élite
 Mission_String=Matar a los comandantes de la empresa invasora.
 Mission_Target1=Matar %s_1_1
 
 [Quest_2732201]
-Name=Matar monstruos élite
+Name=Mata monstruos élite
 Mission_String=Rescatar al niño Drakan aislado en el sótano.
 Mission_Target1=Matar %s_1_1
 
 [Quest_2732202]
-Name=Matar monstruos élite
+Name=Mata monstruos élite
 Mission_String=Matar al devorador de cadáveres que bloquea la salida.
 Mission_Target1=Matar %s_1_1
 
@@ -41232,27 +41232,27 @@ Mission_String=Encontrar a Yas en el Castillo de las Flores de Cerezo
 Mission_Target1=Encontrar a Yas
 
 [Quest_2601601]
-Name=Portal: Matar monstruos
+Name=Portal: Mata monstruos
 Mission_String=Matar a monstruos élite
 Mission_Target1=Matar escorpiones de roca.
 
 [Quest_2601602]
-Name=Portal: Matar monstruos
+Name=Portal: Mata monstruos
 Mission_String=Matar a monstruos élite
 Mission_Target1=Matar lobos de alucinación.
 
 [Quest_2601603]
-Name=Portal: Matar monstruos
+Name=Portal: Mata monstruos
 Mission_String=Matar a monstruos élite
 Mission_Target1=Matar tortugas dragón.
 
 [Quest_2601604]
-Name=Portal: Matar monstruos
+Name=Portal: Mata monstruos
 Mission_String=Matar a monstruos élite
 Mission_Target1=Matar Tarsk.
 
 [Quest_2601605]
-Name=Portal: Matar monstruos a tiempo.
+Name=Portal: Mata monstruos a tiempo.
 Mission_String=El camino oculto se abre cuando se mata a tiempo.
 Mission_Target1=Matar a Megmin.
 
@@ -41261,57 +41261,57 @@ Mission_Target1=Matar a Megmin.
 Mission_Target2=Matar a Traskga.
 
 [Quest_2601701]
-Name=Portal: Matar monstruos
+Name=Portal: Mata monstruos
 Mission_String=Matar a monstruos élite
 Mission_Target1=Matar wyverns de cueva.
 
 [Quest_2601702]
-Name=Portal: Matar monstruos
+Name=Portal: Mata monstruos
 Mission_String=Matar al Fricker oculto abre el camino hacia el jefe.
 Mission_Target1=Matar a Fricker.
 
 [Quest_2601901]
-Name=Portal: Matar monstruos
+Name=Portal: Mata monstruos
 Mission_String=Matar a los monstruos que custodian el santuario
 Mission_Target1=Matar a Golem de hielo frenético.
 
 [Quest_2601902]
-Name=Portal: Matar monstruos
+Name=Portal: Mata monstruos
 Mission_String=Matar a los monstruos que custodian el santuario
 Mission_Target1=Matar a Drakans fantasmas.
 
 [Quest_2601903]
-Name=Portal: Matar monstruos
+Name=Portal: Mata monstruos
 Mission_String=Matar a los monstruos que custodian el santuario
 Mission_Target1=Belgatum.
 
 [Quest_2602001]
-Name=Portal: Matar monstruos
+Name=Portal: Mata monstruos
 Mission_String=Matar a los monstruos que custodian el santuario
 Mission_Target1=Matar a fanaticos Drakans de Sekneum.
 
 [Quest_2602002]
-Name=Portal: Matar monstruos
+Name=Portal: Mata monstruos
 Mission_String=Matar a los monstruos que custodian el santuario
 Mission_Target1=Matar a fanaticos Drakans.
 
 [Quest_2602003]
-Name=Portal: Matar monstruos
+Name=Portal: Mata monstruos
 Mission_String=Matar a los monstruos que custodian el santuario
 Mission_Target1=Matar a Drakans fantasmas.
 
 [Quest_2602101]
-Name=Portal: Matar monstruos
+Name=Portal: Mata monstruos
 Mission_String=Matar a los monstruos que custodian el santuario
 Mission_Target1=Matar a guerreros esqueléticos gigantes congelados.
 
 [Quest_2602102]
-Name=Portal: Matar monstruos
+Name=Portal: Mata monstruos
 Mission_String=Matar a los monstruos que custodian el santuario
 Mission_Target1=Matar a fanaticos Drakans de Sekneum.
 
 [Quest_2602103]
-Name=Portal: Matar monstruos
+Name=Portal: Mata monstruos
 Mission_String=Matar a los monstruos que custodian el santuario
 Mission_Target1=Matar a fanaticos Drakans.
 
@@ -41375,33 +41375,33 @@ Mission_Target1=Hablar con Momorin.
 
 
 [Quest_2056501]
-Name=Gateway: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Gateway: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2056502]
-Name=Gateway: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Gateway: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2056503]
-Name=Gateway: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Gateway: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2056504]
-Name=Gateway: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Gateway: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2056505]
-Name=Gateway: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Gateway: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2056506]
-Name=Gateway: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Gateway: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2056511]
@@ -41441,53 +41441,53 @@ Mission_String=Destruir una de las Piedras del Alma de Valtheram
 Mission_Target1=Destruir las Piedras del Alma de Valtheram
 
 [Quest_2056601]
-Name=Matar monstruos élite
-Mission_String=Matar monstruos élite a tiempo
+Name=Mata monstruos élite
+Mission_String=Mata monstruos élite a tiempo
 Mission_Target1=%s_1_1
 
 [Quest_2056602]
-Name=Matar monstruos élite
-Mission_String=Matar monstruos élite
+Name=Mata monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2056603]
-Name=Matar monstruos élite
-Mission_String=Matar monstruos élite a tiempo
+Name=Mata monstruos élite
+Mission_String=Mata monstruos élite a tiempo
 Mission_Target1=%s_1_1
 
 [Quest_2056604]
-Name=Matar monstruos élite
-Mission_String=Matar monstruos élite a tiempo
+Name=Mata monstruos élite
+Mission_String=Mata monstruos élite a tiempo
 Mission_Target1=%s_1_1
 
 [Quest_2056605]
-Name=Matar monstruos élite
-Mission_String=Matar monstruos élite a tiempo
+Name=Mata monstruos élite
+Mission_String=Mata monstruos élite a tiempo
 Mission_Target1=%s_1_1
 
 [Quest_2056606]
-Name=Matar monstruos élite
-Mission_String=Matar monstruos élite
+Name=Mata monstruos élite
+Mission_String=Mata Monstruo sélite
 Mission_Target1=%s_1_1
 
 [Quest_2056607]
-Name=Matar monstruos élite
-Mission_String=Matar monstruos élite
+Name=Mata Monstruosite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2056608]
-Name=Matar monstruos élite
-Mission_String=Matar monstruos élite
+Name=Mata monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2056609]
-Name=Matar monstruos élite
-Mission_String=Matar monstruos élite a tiempo
+Name=Mata monstruos élite
+Mission_String=Mata monstruos élite a tiempo
 Mission_Target1=%s_1_1
 
 [Quest_2056610]
-Name=Matar monstruos élite
-Mission_String=Matar monstruos élite
+Name=Mata monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2056611]
@@ -41507,8 +41507,8 @@ Mission_Target1=Destruir las Piedras del Alma de Valtheram
 
 
 [Quest_2056614]
-Name=Matar monstruos élite
-Mission_String=Matar monstruos élite
+Name=Mata monstruos élite
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2056615]
@@ -41527,48 +41527,48 @@ Mission_String=Destruir una de las Piedras del Alma de Valtheram
 Mission_Target1=Destruir las Piedras del Alma de Valtheram
 
 [Quest_2056201]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2056202]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2056203]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2056204]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2056205]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata Monstruoste
 Mission_Target1=%s_1_1
 
 [Quest_2056206]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata Monstruoslite
 Mission_Target1=%s_1_1
 
 [Quest_2056207]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2056208]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2056209]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2056210]
@@ -41613,13 +41613,13 @@ Mission_Target1=Matar a Sezark.
 
 [Quest_1002201]
 Name=Cuaderno de exploración del continente Mu
-Mission_String=Matar monstruos encontrados en el camino de acceso a Quahanan.
+Mission_String=Mata monstruos encontrados en el camino de acceso a Quahanan.
 List_String=Es una bestia muy feroces, correrá para morder y comer cualquier cosa con carne.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002202]
 Name=Cuaderno de exploración del continente Mu
-Mission_String=Matar monstruos encontrados en el camino de acceso a Quahanan.
+Mission_String=Mata monstruos encontrados en el camino de acceso a Quahanan.
 List_String=Una bestia con una tendencia impetuosa y furiosa. Es una bestia agresiva casi equivalente a monstruos. Se requiere atención.
 Mission_Target1=Matar %s_1_1
 
@@ -41760,25 +41760,25 @@ Mission_Target1=Matar a todos los objetivos élite hostiles en el camino de acce
 
 [Quest_1002225]
 Name=Cuaderno de exploración del continente Mu
-Mission_String=Matar monstruos encontrados en las Cascadas Luiziane.
+Mission_String=Mata monstruos encontrados en las Cascadas Luiziane.
 List_String=Un feroz macho Belbi que aparece en las Cascadas Luiziane. Se cree que ha sido liberado por los Goblins Orik.
 Mission_Target1=Matar a Belbi de pelo largo plano.
 
 [Quest_1002226]
 Name=Cuaderno de exploración del continente Mu
-Mission_String=Matar monstruos encontrados en las Cascadas Luiziane.
+Mission_String=Mata monstruos encontrados en las Cascadas Luiziane.
 List_String=Una feroz hembra Belbi que aparece en las Cascadas Luiziane. Se cree que ha sido liberada por los Goblins Orik.
 Mission_Target1=Matar a Belbi de pelo largo plano.
 
 [Quest_1002227]
 Name=Cuaderno de exploración del continente Mu
-Mission_String=Matar monstruos encontrados en las Cascadas Luiziane.
+Mission_String=Mata monstruos encontrados en las Cascadas Luiziane.
 List_String=Un enorme Bugmon que aparece en las Cascadas Luiziane. Ataca a los oponentes con una piel dura como armadura y cuernos.
 Mission_Target1=Matar a los Bugmons.
 
 [Quest_1002228]
 Name=Cuaderno de exploración del continente Mu
-Mission_String=Matar monstruos encontrados en las Cascadas Luiziane.
+Mission_String=Mata monstruos encontrados en las Cascadas Luiziane.
 List_String=Un enorme insecto volador que aparece en las Cascadas Luiziane. Ya ha formado un grupo y tiene una madre embarazada y sus crías, por lo que es urgente erradicarlo rápidamente.
 Mission_Target1=Matar insectos voladores.
 
@@ -41796,37 +41796,37 @@ Mission_Target1=Matar a los mutantes élite en el laboratorio.
 
 [Quest_1002231]
 Name=Cuaderno de exploración del continente Mu
-Mission_String=Matar monstruos que amenazan las Cascadas Luiziane.
+Mission_String=Mata monstruos que amenazan las Cascadas Luiziane.
 List_String=Goblins Orik que empuñan un arma tipo martillo. El poder de combate individual no es grande, pero los Goblins siempre se agrupan, así que si no te mantienes alerta, te rodearán.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002232]
 Name=Cuaderno de exploración del continente Mu
-Mission_String=Matar monstruos que amenazan las Cascadas Luiziane.
+Mission_String=Mata monstruos que amenazan las Cascadas Luiziane.
 List_String=Un Goblin Orik que dispara con un arco de mala calidad. Tiene una sorprendente habilidad para disparar como Goblin. Sin embargo, no es un francotirador.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002233]
 Name=Cuaderno de exploración del continente Mu
-Mission_String=Matar monstruos que amenazan las Cascadas Luiziane.
+Mission_String=Mata monstruos que amenazan las Cascadas Luiziane.
 List_String=Un mago Goblin que usa escabrosamente magia negra desde atrás. No es fuerte, pero puede ser peligroso ya que puedes mojarte en la llovizna.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002234]
 Name=Cuaderno de exploración del continente Mu
-Mission_String=Matar monstruos que amenazan las Cascadas Luiziane.
+Mission_String=Mata monstruos que amenazan las Cascadas Luiziane.
 List_String=Un Goblin Orik que dispara con un arco mientras monta a Belbi. Es bastante impresionante verlo disparar un arco sobre Belbi sin caerse.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002235]
 Name=Cuaderno de exploración del continente Mu
-Mission_String=Matar monstruos que amenazan las Cascadas Luiziane.
+Mission_String=Mata monstruos que amenazan las Cascadas Luiziane.
 List_String=Un Goblin Orik que presume de un tamaño enorme. Su identidad está dividida entre los académicos en el continente Mu.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002236]
 Name=Cuaderno de exploración del continente Mu
-Mission_String=Matar monstruos que amenazan las Cascadas Luiziane.
+Mission_String=Mata monstruos que amenazan las Cascadas Luiziane.
 List_String=Un Goblin Orik que puede usar magia como si fuera por arte de magia. No es una magia elaborada, es casi solo un golpe de magia, pero el poder es considerable.
 Mission_Target1=Matar %s_1_1
 
@@ -41845,13 +41845,13 @@ Mission_Target1=Matar %s_1_1
 
 [Quest_1002239]
 Name=Cuaderno de exploración del continente Mu
-Mission_String=Matar monstruos encontrados en las Cascadas Luiziane.
+Mission_String=Mata monstruos encontrados en las Cascadas Luiziane.
 List_String=La bestia más salvaje. El pelo espinoso y los dientes afilados me dan un horror que parece congelar mi cuerpo solo con mirarlo.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002240]
 Name=Cuaderno de exploración del continente Mu
-Mission_String=Matar monstruos encontrados en las Cascadas Luiziane.
+Mission_String=Mata monstruos encontrados en las Cascadas Luiziane.
 List_String=Bestia que presenta colmillos largos a través de la mandíbula inferior y cuernos en la cabeza. Se ha descubierto que los colmillos son sorprendentemente poco útiles en la caza. Sin embargo, entre ellos, cuanto más grandes son los colmillos, más atractivos parecen ser.
 Mission_Target1=Matar %s_1_1
 
@@ -41883,7 +41883,7 @@ Mission_Target1=Matar %s_1_1
 Name=Cuaderno de exploración del continente Mu
 Mission_String=Iniciar la prueba de Tolerancia.
 List_String=Debes demostrar que tienes la cualificación para realizar la prueba de Tolerancia.
-Mission_Target1=Matar monstruos y villanos en el campo de pruebas de admisión.
+Mission_Target1=Mata monstruos y villanos en el campo de pruebas de admisión.
 
 [Quest_1002246]
 Name=Cuaderno de exploración del continente Mu
@@ -41978,58 +41978,58 @@ Mission_Target1=Completar el Altar de Roca Cristal, Guarida Volcánica y Cueva d
 
 
 [Quest_2602601]
-Name=Matar monstruos élite
-Mission_String=Matar monstruos élite a tiempo
+Name=Mata monstruos élite
+Mission_String=Mata monstruos élite a tiempo
 Mission_Target1=%s_1_1
 
 [Quest_2602701]
-Name=Matar monstruos élite
-Mission_String=Matar monstruos élite a tiempo
+Name=Mata monstruos élite
+Mission_String=Mata monstruos élite a tiempo
 Mission_Target1=%s_1_1
 
 [Quest_2058201]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2058202]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2058203]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2058204]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2058205]
-Name=Puerta de entrada: Matar monstruos
+Name=Puerta de entrada: Mata monstruos
 Mission_String=Matar al monstruo jefe.
 Mission_Target1=%s_1_1
 
 [Quest_2058211]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata Monstruoslite
 Mission_Target1=%s_1_1
 
 [Quest_2058212]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata Monstruoslite
 Mission_Target1=%s_1_1
 
 [Quest_2058213]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2058214]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2058220]
@@ -42038,68 +42038,68 @@ Mission_String=Alcanzar un lugar específico a tiempo.
 Mission_Target1=Entrada al 2° piso
 
 [Quest_2058301]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2058302]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2058303]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2058304]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2058305]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2058309]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2058311]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2058312]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2058313]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 
 [Quest_2058314]
-Name=Puerta de entrada: Matar monstruos
-Mission_String=Matar monstruos élite
+Name=Puerta de entrada: Mata monstruos
+Mission_String=Mata monstruos élite
 Mission_Target1=%s_1_1
 
 [Quest_2058316]
-Name=Puerta de entrada: Matar monstruos
+Name=Puerta de entrada: Mata monstruos
 Mission_String=Matar a un monstruo élite específico.
 Mission_Target1=Monstruos élite
 
 [Quest_2058317]
-Name=Puerta de entrada: Matar monstruos
+Name=Puerta de entrada: Mata monstruos
 Mission_String=Matar a un monstruo élite específico.
 Mission_Target1=Monstruos élite
 
 [Quest_2058318]
-Name=Puerta de entrada: Matar monstruos
+Name=Puerta de entrada: Mata monstruos
 Mission_String=Matar a un monstruo élite específico.
 Mission_Target1=Monstruos élite
 
