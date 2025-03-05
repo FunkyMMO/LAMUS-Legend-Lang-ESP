@@ -207,7 +207,7 @@ Completable_String1=He estado buscándote. Hay algo que me gustaría que hiciera
 Complete_String=Después de exterminar a los mutantes y Larvas en el bosque, fui a ver al Jefe de Policía Cain, que me había estado buscando.
 List_String=Debería exterminar a los mutantes y Larvas en el bosque, y luego ir a ver al Jefe de Policía Cain.
 Mission_String=Exterminar a los mutantes y Larvas en el bosque, y luego ir a ver al Jefe de Policía Cain
-Mission_Target1=Matar a las Mandrakes
+Mission_Target1=Mata a las Mandrakes
 Mission_Target2=Eliminar Mutant Spiders
 Mission_Target3=Eliminar Larvas
 
@@ -430,7 +430,7 @@ Completable_String1=Soy de la Policía de Dudrin. Vine a apoyarte<br>en nombre d
 Complete_String=Sugerí a Kilry de la Guardia Enana en el Southern Post que nos dirigiéramos al Outpost. Kilry se negó, no queriendo dejar a los mineros que trabajaban cerca de su puesto a merced de las feroces belbees. Estaba siendo irracional, pero no pude convencerlo de abandonar a la gente que debía proteger. Así que, en su lugar, exterminé a las líderes de las belbees por él.
 List_String=(Enova Misión Principal) (23/48)<br>Debo matar a 3 Queen Belbees y dispersar al resto de las Belbees, para proteger a la gente en Weiss Basin.
 Mission_String=Elimina a las líderes de las Belbees y muévete al arsenal de la Guardia Enana.
-Mission_Target1=Matar a las Queen Belbees Prairie
+Mission_Target1=Mata a las Queen Belbees Prairie
 
 [Quest_103]
 Name=Extinguir el Fuego en el Outpost 1
@@ -447,8 +447,8 @@ Completable_String1=
 Complete_String=El Ejército del Pandemonio atacó el Outpost y prendió fuego al arsenal allí. Esperando que no fuera demasiado tarde, corrí a los pozos de la mina y los vacié de agua para apagar el fuego.
 List_String=(Enova Misión Principal) (24/48)<br>El Ejército del Pandemonium ha incendiado el arsenal del Outpost.<br>Debo ir al pozo cerca de la mina, sacar agua y llevarla al Outpost.
 Mission_String=Saca agua de los pozos y regresa al Arsenal.
-Mission_Target1=West Ruins Well
-Mission_Target2=East Ruins Well
+Mission_Target1=Saca agua de West Ruins Well
+Mission_Target2=Saca agua East Ruins Well
 
 [Quest_104]
 Name=Extinguir el Fuego en el Outpost 2
@@ -464,8 +464,8 @@ Doing_String=
 Completable_String1=El fuego está controlado.<br>¿Fueron las Larvas quienes atacaron tu puesto?
 Complete_String=Después de sacar agua del pozo, llegué al Outpost y usé el agua para controlar el fuego. Duprian, el Comandante de la Guardia Enana a cargo del puesto, dijo que el Ejército de Pandemonium se fue después de prender fuego al arsenal del puesto, lo que significa que el enemigo tenía como objetivo el arsenal desde el principio. Su plan funcionó, ya que ahora la Policía de Dudrin y la Guardia Enana no tienen suficientes armas para luchar.
 List_String=(Enova Misión Principal) (25/48)<br>Usa el agua del pozo para extinguir el fuego en el arsenal del Outpost y habla con el Comandante Duprian.
-Mission_String=Extinguir el fuego en el Arsenal y hablar con Duprian.
-Mission_Target1=Extinguir el fuego en el Arsenal.
+Mission_String=Extinguir el fuego del Arsenal y hablar con Duprian.
+Mission_Target1=Extinguir el fuego del Arsenal.
 
 [Quest_105]
 Name=El Objetivo de la Keru Legion
@@ -541,7 +541,7 @@ Complete_String=El Guardia Enano Munsei me dijo que el Western Post se quedó si
 List_String=Debo recolectar Fast-growing Mushrooms, cazar Frog Beast para obtener su carne y entregar todo a los soldados hambrientos en el Western Post.
 Mission_String=Obtener provisiones y entregarlas al Western Post
 Mission_Target1=Carne de Frog Beast
-Mission_Target2=Fast-growing Mushrooms
+Mission_Target2=Cosecha Fast-growing Mushrooms
 
 [Quest_111]
 Name=La Invasión de los Goblins
@@ -558,7 +558,7 @@ Completable_String1=¡Frog Beast, los perros de caza de los Goblins!<br>Bueno, m
 Complete_String=Linda dijo que las Frog Beast que se habían visto comúnmente en el lado norte de Weiss Basin eran el ganado de los Goblins, y que su presencia significaba que los Goblins, los demonios que se asentaron en el continente MU después de la Guerra de los Tres Años, estaban involucrados en la última invasión de Pandemonium. Decapité a algunas Frog Beast y llevé sus cabezas al Western Post para transmitir esta información.
 List_String=(Misión Principal de Enova) (32/48)<br>Debo decapitar a la King Frog Beast y llevar su cabeza al Western Post para transmitir la información de que los Goblins están involucrados en la última invasión de Pandemonium.
 Mission_String=Recoge evidencia de la participación de los Goblins con Pandemonium y habla con Hertz
-Mission_Target1=Cabezas de las King Frog Beast
+Mission_Target1=Cabezas de los King Frog Beast
 
 [Quest_112]
 Name=Quema la base de los Goblins
@@ -590,7 +590,7 @@ Doing_String=Tardaremos un tiempo en reagruparnos y atacar a los Kerus.<br>Ni la
 Completable_String1=¿Estás excavando artefactos en medio de una guerra?<br>¿Estás loco?
 Complete_String=Había muy pocos Goblins en el campamento que asalté. Pensé que habían establecido su base en el lado norte de Weiss Basin para atacar la mina Karmatan, pero los que encontré en el campamento no podrían haberla tomado por sí solos.Me Infiltré su campamento, robé sus planos de batalla y los entregué al arqueólogo Vigmund. Él era el único que podía leer el idioma Goblin y descubrir qué estaban planeando los Goblins.
 List_String=(Misión Principal de Enova) (34/48)<br>Debo infiltrarme en el campamento
-Mission_String=Roba Goblins' Planos de Batalla y llevaselos a Vigmund
+Mission_String=Roba Goblins' battle plans y llevaselos a Vigmund
 Mission_Target1=Planos de Batalla
 
 [Quest_114]
@@ -602,7 +602,7 @@ Doing_String=Sigh, no me gusta estar atrapado entre todos estos soldados.<br>No 
 Completable_String1=¿Accesorios de Goblin? ¡Eww, se ven tan horteras!<br>Nadie usa algo así hoy en día, pero las gemas en sí son hermosas.<br>Cortadas correctamente, valdrán mucho dinero.
 Complete_String=El alquimista Volf me pidió algunos accesorios de Goblin. Su codicia me disgustó, pero no es el primero en aprovecharse de una situación de guerra, y no será el último. Necesitaba dinero para mantener mis armas de todas maneras, así que maté Goblins, tomé sus accesorios y los entregué a la joyera Olivia.
 List_String=Debo incautar accesorios de Trabajadores/Guardias/Arqueros Goblin, y entregarlos a la joyera Olivia.
-Mission_String=Incauta Pendientes de Goblin y entrégalos a Olivia
+Mission_String=Incauta Goblin Earrings y entrégalos a Olivia
 Mission_Target1=Pendientes de Goblin
 
 [Quest_115]
@@ -636,7 +636,7 @@ Completable_String1=Mmm, me alegra que hayas llegado aquí a salvo.
 Complete_String=Ese irritante viejo finalmente tradujo los planos de batalla de los Goblins, y lo que descubrió nos dejó atónitos a ambos. No había muchos Goblins en su campamento porque no vinieron por la Karmatan Mine, vinieron a atentar contra la vida de Duprian. Encontré y maté al Asesino Goblin Rosso, cuyo nombre fue mencionado en sus planos de batalla, pero estos Goblins no eran las fuerzas principales; las fuerzas principales estaban en otro lugar en Weiss Basin. La situación está empeorando.
 List_String=(Enova Misión Principal) (36/48)<br>Debo ir al campamento Goblin y matar al Asesino Goblin Rosso que ha sido enviado para matar al Comandante de la Guardia Enana Duprian.
 Mission_String=Frustra el plan de asesinato a Duprian y reporta a Duprian
-Mission_Target1=Mata al Asesino Goblin Rosso
+Mission_Target1=Mata a Goblin Assassin Rosso
 
 [Quest_117]
 Name=Un Seguidor de Goblins
@@ -2060,8 +2060,8 @@ Doing_String=Cuando esta guerra termine, erigiremos tu estatua en las llanuras.<
 Completable_String1=He matado a las tres reinas. No se atreverán a bajar de nuevo, al menos por un tiempo.
 Complete_String=Como si las cosas no fueran lo suficientemente caóticas, los Belbees estaban bajando a las granjas y matando a la gente, así que eliminé a sus reinas, como hice cuando estaba en Enova.
 List_String=Mata a las Queen Cave Belbees y detén a los Belbees de bajar a las granjas y matar a la gente.
-Mission_String=Matar a las Belbee Queens
-Mission_Target1=Matar a las Queen Cave Belbees
+Mission_String=Mata a las Belbee Queens
+Mission_Target1=Mata a las Queen Cave Belbees
 
 [Quest_330]
 Name=Atacar a la Legión Gnoll
@@ -3581,7 +3581,7 @@ Name=Llegada a Kethotoom
 Completable_String1=Perdón por llegar tarde. Fui emboscado por Demonios del Pandemonio.
 Complete_String=Perdí a todos mis hombres ante el Ejército del Pandemonio en una emboscada y llegué a Kethotoom solo. Aquí, el ejército regular del Imperio MU está luchando por abrirse camino hacia Kethotoom. Me uní al Guerrero Negro Zephiros, que se adentró en el campamento del Pandemonio.
 List_String=Perdí a todos mis hombres ante el Ejército del Pandemonio en una emboscada y llegué a Kethotoom solo. Aquí, el ejército regular del Imperio MU está luchando por abrirse camino hacia Kethotoom. Debo unirme al Guerrero Negro Zephiros, que se adentró en el campamento del Pandemonio.
-Mission_String=Matar soldados del Ejército del Pandemonio en el camino y unirse a los Caballeros Negros
+Mission_String=Mata soldados del Ejército del Pandemonio en el camino y unirse a los Caballeros Negros
 Mission_Target1=Hablar con Zephiros
 
 [Quest_701]
@@ -3593,7 +3593,7 @@ Occur_String4=Voy a ayudarlos. Asegura una ruta de avance mientras tanto.<br>Nos
 Completable_String1=¿Dónde están los Caballeros Negros?
 Complete_String=Los Caballeros Negros están luchando por proteger el puente hacia Kethotoom. Estoy en camino al puente para ayudarlos.
 List_String=Debo abrirme camino a través de los Cuernos de Toro y unirme a Zephiros en el puente hacia Kethotoom.
-Mission_String=Matar a las Legiones de Cuernos de Toro en tu camino y unirte al Guerrero Negro Zephiros
+Mission_String=Mata a las Legiones de Cuernos de Toro en tu camino y unirte al Guerrero Negro Zephiros
 Mission_Target1=Guerreros Cuernos de Toro
 Mission_Target2=Lanzador de Cuernos de Toro
 Mission_Target3=Asaltante Cuernos de Toro
@@ -5272,7 +5272,7 @@ Doing_String=
 Completable_String1=
 Complete_String=Los Gremlins estaban usando a sus bestias de compañía, los Gremligers, en combate, así que me deshice de ellas.
 List_String=Los Gremlins están usando a sus bestias de compañía, los Gremligers, en combate. Debería deshacerme de ellas.
-Mission_String=Matar a las Bestias de Compañía de los Gremlins
+Mission_String=Mata a las Bestias de Compañía de los Gremlins
 Mission_Target1=Matar a los Gremligers
 
 [Quest_1305]
@@ -5961,8 +5961,8 @@ Doing_String=No hace mucho tiempo que los elfos y los Ashas coexistían en paz..
 Completable_String1=Definitivamente estoy escuchando esos terribles sonidos con mucha menos frecuencia. Has dado esperanza a nuestros hermanos y hermanas que permanecen en la cueva.
 Complete_String=Las Sombras Oscuras trajeron águilas para usarlas como exploradoras para buscar a los Ashas escondidos en la cueva. Capturé cada águila que vi y les rompí las alas para que no pudieran volar de nuevo.
 List_String=Matar águilas exploradoras que cazan a los Ashas que se esconden en la cueva
-Mission_String=Matar a las águilas exploradoras de las Sombras Oscuras
-Mission_Target1=Matar a las Águilas de la Sombra Oscura
+Mission_String=Mata a las águilas exploradoras de las Sombras Oscuras
+Mission_Target1=Mata a las Águilas de la Sombra Oscura
 
 [Quest_1446]
 Name=(Diario) Descanso Eterno
@@ -8685,7 +8685,7 @@ Mission_String=Ataca preventivamente la zona donde aparece la Evil Energy y habl
 Mission_Target1=Ingresa al Evil Energy Forest
 Mission_Target2=Seguimiento de la Fuerza que Crea la Evil Energy
 Mission_Target3=Destruye el Generador Central de la Evil Energy
-Mission_Target4=Elimina al Rey Larva
+Mission_Target4=Elimina al Larva King
 Mission_Target5=
 
 [Quest_5018]
@@ -8708,9 +8708,9 @@ Completable_String2=Tienes razón,<br>pero alguien tiene que dar el ejemplo a mi
 Complete_String=Las Larvas del Ejército de Pandemonium se colaron en los túneles de la Karmatan Mine mientras el Comandante de la Guardia Enana, Duprian, y sus soldados estaban concentrados en el exterior de la mina. Bajé por los túneles con Ramotu y los eliminé a todos.
 List_String=Mata a la Legión Larva que se ha infiltrado en los túneles subterráneos de la Karmatan Mine.
 Mission_String=Mata a la Legión Larva que ha invadido la Karmatan Mine
-Mission_Target1=Mata a los Guerreros Larva
-Mission_Target2=Mata a los Guardianes Larva
-Mission_Target3=Mata al Líder del Regimiento Larva
+Mission_Target1=Mata a los Larva Warriors
+Mission_Target2=Mata a los Larva Guards
+Mission_Target3=Mata al Larva Regiment Leader
 
 [Quest_5005]
 Name=Glasha el Dios de la Carnicería
@@ -10647,7 +10647,7 @@ Completable_String1=¡Se expandió tan rápido! ¡Se volvió incontrolable! ¡Es
 Complete_String=La Evil Energy, después de ser inyectada con Pectra, se expandió y expulsó soldados de Pandemonium. Sin embargo, fueron desafortunados, ya que se encontraron con guerreros veteranos como Muren, Chaisong y Kali como su primer enemigo. Fueron totalmente destruidos junto con la Evil Energy antes de poner un pie en este mundo.
 List_String=(Misión Principal Litenberg) (111/141)<br>Tan pronto como inyecté la Evil Energy con Pectra, los soldados de Pandemonium comenzaron a salir en masa de ella. Es mejor que me deshaga de ellos y de la Evil Energy antes de que libere más enemigos.
 Mission_String=Destruir la Evil Energy antes de que libere más enemigos
-Mission_Target1=Matar a las Fuerzas Especiales de Pandemonium
+Mission_Target1=Mata a las Fuerzas Especiales de Pandemonium
 Mission_Target2=Matar al Capitán de las Fuerzas Especiales de Pandemonium
 Mission_Target3=Destruir la Evil Energy
 
@@ -25760,7 +25760,7 @@ Doing_String=Los elfos están haciendo lo que pueden, pero no hay manera de sabe
 Complete_String=(Ashas Nakan Group Quest) (4/8)<br>Destruí a los extremistas de Ashas Nakan que han avanzado en el Norte del Aliento del Árbol del Mundo.
 List_String=(Ashas Nakan Group Quest) (4/8)<br>Destruir a los extremistas de Ashas Nakan que han avanzado en el Norte del Aliento del Árbol del Mundo.
 Mission_String=Derrotar a los Ashas Nakans que se han establecido en el Aliento del Árbol del Mundo - Norte
-Mission_Target1=Matar a las Bestias de Guerra de Ashas Nakans
+Mission_Target1=Mata a las Bestias de Guerra de Ashas Nakans
 Mission_Target2=Matar a los Refuerzos de Ashas Nakan
 
 [Quest_201704]
@@ -31727,7 +31727,7 @@ Completable_String1=
 Complete_String=
 List_String=
 Mission_String=Matar Bestias Ranas
-Mission_Target1=Matar a las Bestias Ranas Élite Hambrientas
+Mission_Target1=Mata a las Bestias Ranas Élite Hambrientas
 
 [Quest_2721601]
 Name=Mata Monstruosde Élite
@@ -34691,7 +34691,7 @@ Doing_String=Espero que los lorensianos no hayan hecho nada al reservorio... est
 Complete_String=(Misión principal del reino de Drapia) (6/76)<br>Afortunadamente, pude detener la atrocidad de la alianza de nobles extendiendo sal en las tierras de los agricultores. Según las palabras del granjero que me informó sobre la atrocidad de la alianza de nobles, hay un reservorio arriba de esta granja, que contiene el agua para su agricultura durante todo el año. Considerando el atroz plan de salar los campos, también deben estar extendiendo su maldad al reservorio. Tengo que apurarme.
 List_String=(Misión principal del reino de Drapia) (6/76)<br>Deshazte de las bolsas de sal colocadas entre las granjas y mata a las tropas de suministro traseras de la alianza de nobles en la zona.
 Mission_String=Recoge las bolsas de sal colocadas entre las granjas y mata a las tropas de suministro traseras de la alianza de nobles en la zona
-Mission_Target1=Matar a las tropas de suministro traseras de la alianza de nobles
+Mission_Target1=Mata a las tropas de suministro traseras de la alianza de nobles
 Mission_Target2=Recoger las bolsas de sal
 
 [Quest_5707]
@@ -34764,7 +34764,7 @@ Completable_String1=¿Q-Quién es? ¿Cómo llegaste aquí? ¿Eres un mercenario 
 Complete_String=(Misión principal del reino de Drapia) (11/76)<br>No pude encontrar ninguna información sobre el príncipe, pero considerando la situación, hay una alta probabilidad de que la alianza de nobles tenga algo que ver con el secuestro del príncipe. Así que decidí unir fuerzas con los guerreros Devias que estaban investigando a la alianza de nobles.<br>Los guerreros Devias me hablaron de las tres misiones de Gaion y me pidieron que eligiera una, pero no será tan difícil ya que las rutas son similares. Primero eliminaré a la alianza de nobles por aquí y luego iré a rescatar a los prisioneros.
 List_String=(Misión principal del reino de Drapia) (11/76)<br>Eliminar las tropas de la alianza de nobles que amenazan el campamento secreto de Devias, y luego encontrar al agente Drakan para rescatar a los prisioneros Drakans.
 Mission_String=Exterminar a las tropas de la alianza de nobles en la zona y encontrar al agente Drakan para rescatar a los prisioneros Drakans.
-Mission_Target1=Matar a las tropas de la alianza de nobles
+Mission_Target1=Mata a las tropas de la alianza de nobles
 Mission_Target2=Encontrar al agente Drakan
 
 [Quest_5712]
@@ -34784,7 +34784,7 @@ Completable_String3=Correcto. Me recordaste, eso es un honor.
 Complete_String=(Misión principal del reino de Drapia) (12/76)<br>Verifiqué la situación al encontrarme con el agente Drakan que mencionaron los Devias, liberé a los prisioneros Drakans y maté a las tropas de la alianza de nobles para ayudar a los prisioneros a escapar. Las cosas están sucediendo todo al mismo tiempo, de manera desorganizada.<br>Después de liberar a los prisioneros, fui a ver a Harry, quien resultó ser el nerd que conocí en las ruinas de Walkreeger.
 List_String=(Misión principal del reino de Drapia) (12/76)<br>Tengo que rescatar a los prisioneros Drakans que están siendo mantenidos al sureste de aquí, en la base de la alianza de nobles.
 Mission_String=Rescatar a los prisioneros Drakans mantenidos por todas partes
-Mission_Target1=Matar a las tropas de la alianza de nobles
+Mission_Target1=Mata a las tropas de la alianza de nobles
 Mission_Target2=Rescatar a los prisioneros Drakans
 
 [Quest_5713]
@@ -34812,7 +34812,7 @@ Occur_String4=Claro. Y también causar estragos. Ya era hora de que les dieran u
 Doing_String=Consigue cualquier cosa y todo. Lo que puedas encontrar.
 Complete_String=(Misión principal del reino Drapia) (14/76)<br>Cuando llegué a la tienda de la sede de la alianza de los nobles, sus tropas llegaron de todas partes como la marea al encontrar a un intruso. Caí ante las interminables olas de soldados, me acerqué a la tienda del comandante paso a paso.
 List_String=(Misión principal del reino Drapia) (14/76)<br>Tengo que matar a los soldados de la alianza de los nobles en la sede de la alianza de los nobles.
-Mission_String=Matar a las tropas de la alianza de los nobles apostadas en la sede de la alianza de los nobles
+Mission_String=Mata a las tropas de la alianza de los nobles apostadas en la sede de la alianza de los nobles
 Mission_Target1=Matar a los soldados enlistados de la alianza de los nobles
 
 [Quest_5715]
@@ -34840,9 +34840,9 @@ Doing_String=Demonios... eso fue realmente inesperado.
 Completable_String1=¡Vaya! ¡Has venido a salvar la aldea! Muchas gracias.
 Complete_String=(Misión principal del reino Drapia) (16/76)<br>Según la carta que obtuve de la sede de la alianza de los nobles, se han unido a los demonios, y un grupo de demonios se dirige al sur de la capital Qahanaan. Corrí hacia allí y derroté a las tropas de la alianza de los nobles y a los demonios.
 List_String=(Misión principal del reino Drapia) (16/76)<br>Tengo que deshacerme de las tropas de la alianza de los nobles y los demonios en mi camino hacia la aldea al sur de la capital Qahanaan.
-Mission_String=Matar a las tropas de la alianza de los nobles y del inframundo en la entrada de la aldea
-Mission_Target1=Matar a las tropas de la alianza de los nobles
-Mission_Target2=Matar a las tropas demoníacas
+Mission_String=Mata a las tropas de la alianza de los nobles y del inframundo en la entrada de la aldea
+Mission_Target1=Mata a las tropas de la alianza de los nobles
+Mission_Target2=Mata a las tropas demoníacas
 
 
 [Quest_5717]
@@ -34868,7 +34868,7 @@ Completable_String2=No te preocupes. No estoy interesado en comer carne Drakan. 
 Complete_String=(Misión principal del reino Drapia) (18/76)<br>Como imaginé, el interior del almacén de comida ya estaba dominado por tropas demoníacas. Fue un milagro que el hijo del granjero sobreviviera en tal situación. Tuviste mucha suerte.
 List_String=(Misión principal del reino Drapia) (18/76)<br>Sigue la mancha de sangre mientras despejo las tropas demoníacas en el almacén de comida.
 Mission_String=Sigue la mancha de sangre por dentro mientras despejo las tropas demoníacas
-Mission_Target1=Matar a las tropas demoníacas
+Mission_Target1=Mata a las tropas demoníacas
 Mission_Target2=Comprobar la mancha de sangre en el suelo
 
 [Quest_5719]
@@ -34879,7 +34879,7 @@ Doing_String=¡Aww... Ayuda!
 Completable_String1=Th... Gracias, guerrero... Pensé que estaba muerto.
 Complete_String=(Misión principal del reino Drapia) (19/76)<br>Despejé las tropas demoníacas que venían de todos lados y rescaté al niño Drakan.
 List_String=(Misión principal del reino Drapia) (19/76)<br>Algunas cosas vienen hacia mí desde todos lados. Maldición. Esto es peligroso. Tengo que salvar a este niño sin importar qué.
-Mission_String=Matar a las tropas demoníacas que vienen de todos lados
+Mission_String=Mata a las tropas demoníacas que vienen de todos lados
 Mission_Target1=Proteger al niño Drakan
 
 [Quest_5720]
@@ -34970,7 +34970,7 @@ Complete_String=(Misión principal del reino Drapia) (26/76)<br>Las tropas de la
 List_String=(Misión principal del reino Drapia) (26/76)<br>Tengo que desactivar las bombas colocadas en las murallas exteriores del castillo, y matar a las tropas de la alianza de nobles y demonios en la zona.
 Mission_String=Desactiva las bombas colocadas en las murallas exteriores del castillo y mata a las fuerzas especiales de la alianza de nobles
 Mission_Target1=Desactivar las bombas
-Mission_Target2=Matar a las fuerzas especiales de la alianza de nobles
+Mission_Target2=Mata a las fuerzas especiales de la alianza de nobles
 
 [Quest_5727]
 Name=Una audiencia con el rey
@@ -41160,7 +41160,7 @@ Doing_String=Por favor, ten cuidado de no ser golpeado por ellas.
 Completable_String1=Buen trabajo. Las avispas restantes serán manejadas por nuestra Unidad de Apoyo.
 Complete_String=A petición de un explorador de los Drakan Night Scout, se eliminaron tanto como fue posible las avispas mutantes que llenaban el interior del laboratorio del Príncipe Ungpam.
 List_String=Matalos avispas mutantes que vagan por el laboratorio
-Mission_String=Matar a las avispas mutantes que vagan por el laboratorio
+Mission_String=Mata a las avispas mutantes que vagan por el laboratorio
 Mission_Target1=Matar avispas mutantes
 
 [Quest_1894]
@@ -41640,13 +41640,13 @@ Mission_Target1=Matar %s_1_1
 Name=Cuaderno de exploración del continente Mu
 Mission_String=Recuperar la Bodega de Granos
 List_String=Las tropas de la alianza de los nobles que se llevaron la Bodega de Granos deben ser ejecutadas.
-Mission_Target1=Matar a las tropas de la alianza de los nobles que ocupan la Bodega de Granos.
+Mission_Target1=Mata a las tropas de la alianza de los nobles que ocupan la Bodega de Granos.
 
 [Quest_1002206]
 Name=Cuaderno de exploración del continente Mu
 Mission_String=Recuperar la Bodega de Granos
 List_String=Las tropas élite de la alianza de los nobles que se llevaron la Bodega de Granos deben ser ejecutadas.
-Mission_Target1=Matar a las tropas élite de la alianza de los nobles que se llevaron la Bodega de Granos.
+Mission_Target1=Mata a las tropas élite de la alianza de los nobles que se llevaron la Bodega de Granos.
 
 [Quest_1002207]
 Name=Cuaderno de exploración del continente Mu
@@ -41664,13 +41664,13 @@ Mission_Target1=Matar %s_1_1
 Name=Cuaderno de exploración del continente Mu
 Mission_String=Recuperar la oficina de gestión del embalse
 List_String=Las tropas de la alianza de los nobles que se llevaron la oficina de gestión del embalse deben ser ejecutadas.
-Mission_Target1=Matar a las tropas de la alianza de los nobles que ocupan la oficina de gestión del embalse.
+Mission_Target1=Mata a las tropas de la alianza de los nobles que ocupan la oficina de gestión del embalse.
 
 [Quest_1002210]
 Name=Cuaderno de exploración del continente Mu
 Mission_String=Recuperar la oficina de gestión del embalse
 List_String=Las tropas élite de la alianza de los nobles que se llevaron la oficina de gestión del embalse deben ser ejecutadas.
-Mission_Target1=Matar a las tropas élite de la alianza de los nobles que ocupan la oficina de gestión del embalse.
+Mission_Target1=Mata a las tropas élite de la alianza de los nobles que ocupan la oficina de gestión del embalse.
 
 [Quest_1002211]
 Name=Cuaderno de exploración del continente Mu
@@ -41725,13 +41725,13 @@ Mission_Target1=Matar %s_1_1
 Name=Cuaderno de exploración del continente Mu
 Mission_String=Recuperar la Bodega de Comida del Pueblo
 List_String=Las tropas del Devildom que se llevaron la Bodega de Comida del Pueblo deben ser ejecutadas.
-Mission_Target1=Matar a las tropas del Devildom en la Bodega de Comida del Pueblo.
+Mission_Target1=Mata a las tropas del Devildom en la Bodega de Comida del Pueblo.
 
 [Quest_1002220]
 Name=Cuaderno de exploración del continente Mu
 Mission_String=Recuperar la Bodega de Comida del Pueblo
 List_String=Las tropas élite del Devildom que se llevaron la Bodega de Comida del Pueblo deben ser ejecutadas.
-Mission_Target1=Matar a las tropas élite del Devildom en la Bodega de Comida del Pueblo.
+Mission_Target1=Mata a las tropas élite del Devildom en la Bodega de Comida del Pueblo.
 
 [Quest_1002221]
 Name=Cuaderno de exploración del continente Mu
