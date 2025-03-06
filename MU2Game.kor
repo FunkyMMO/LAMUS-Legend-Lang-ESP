@@ -1285,7 +1285,7 @@ LS_SpecialSkillString=Habilidad de experto
 LS_DLOneHandWeaponStr=Arma necesaria: cachiporra
 LS_BLOneHandWeaponStr=Arma requerida: espada
 LS_WMOneHandWeaponStr=Arma requerida: espada mágica
-LS_WHOneHandWeaponStr=Arma requerida: pistola de alas
+LS_WHOneHandWeaponStr=Arma requerida: Ballestas
 LS_DLTwoHandWeaponStr=Arma necesaria: cachiporra a dos manos
 LS_BLTwoHandWeaponStr=Arma requerida: gran espada
 LS_WMTwoHandWeaponStr=Arma requerida: bastón
@@ -3348,7 +3348,7 @@ CancelString=Cancelar
 DuelReqGuageTitle=Solicitud de duelo pendiente
 
 [MU2GFxExitTimeOut]
-strTitleExitGame=Salir del Juego
+strTitleExitGame=Salir del juego
 strTitleLogOut=Salir
 strTitleSelServer=Seleccionar Servidor
 strTitleSelChar=Seleccionar personaje
@@ -7701,7 +7701,7 @@ LS_AllClear=Todas completadas
 LS_TitleStr=Extraer Éter
 LS_DescriptionStr=Reciclar materiales y Piezas de Alma para obtener Energía de Éter.
 LS_EmotionPointStr=Energía de éter
-LS_ItemDecompositionStr=Reciclar Item
+LS_ItemDecompositionStr=Reciclar Items
 LS_EjectAllStr=Retirar todo
 LS_SuccessExtractEmotion=Energía de éter obtenida.
 LS_CostDescriptionText=¿Reciclar los elementos y <font color = '#ff0000'>obtener</font> la energía de éter a continuación?

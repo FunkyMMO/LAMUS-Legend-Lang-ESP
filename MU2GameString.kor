@@ -144,7 +144,7 @@ ItemDivision_211=Piedra Estrella
 [WeaponType]
 WeaponType_1=Maza
 WeaponType_2=Bastón
-WeaponType_3=Pistola de ala
+WeaponType_3=Ballesta
 WeaponType_4=Daga
 WeaponType_5=Espada
 WeaponType_6=Maza de dos manos
@@ -2319,7 +2319,7 @@ PSR_4_RewardMsgStopBtnLabel=Salir
 ChaosCastleMainstring_0=Chaos Castle
 ChaosCastleString_0=Lucha contra 49 enemigos en solitario y sobrevive hasta el final.<br>¡Quien sobreviva hasta el final será el ganador!
 ChaosCastleMainstring_1=Cómo entrar
-ChaosCastleString_1=Puedes solicitar Emparejamiento de 14:00 a 15:00 y de 22:00 a 23:00.<br>Solicita entrar, y serás emparejado cada 5 minutos hasta que puedas entrar.
+ChaosCastleString_1=Puedes solicitar emparejamiento las veces que quieras mientras el evento este abierto.<br>Solicita entrar, y serás emparejado cada 5 minutos hasta que puedas entrar.
 ChaosCastleMainstring_2=Reglas de la batalla
 ChaosCastleString_2=El mapa del Chaos Castle se estrecha con el tiempo.<br>Derrota a los enemigos y sobrevive dentro de este campo de batalla en constante cambio hasta el final.
 ChaosCastleMainstring_3=Condiciones para ganar
