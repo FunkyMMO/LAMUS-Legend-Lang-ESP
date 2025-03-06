@@ -1879,7 +1879,7 @@ AreaTownPortal=Gestionar Viaje de Área
 ContinentTownPortal=Viaje Intercontinental
 ItemDisassemble=Desmontar Item
 Enchant=Encantar Item
-ChangeItemOption=Restablecer opciones de Item
+ChangeItemOption=Modificar opciones de Item
 ConsumableManufacture=Fabricar
 EquipmentManufacture=Fabricar
 RuneShop=Usar tienda de habilidades de cresta
@@ -2172,8 +2172,8 @@ LS_ItemEnchantTransfer=Información sobre transferencia de encantamiento de Item
 LS_ConsumeMaterial=Material
 LS_AutoEnchanting=Encantamiento automático
 LS_OK=OK
-LS_EnchantFailTitle=Item de compensación por fallo de encantamiento
-LS_GreenZen=Gema mágica
+LS_EnchantFailTitle=Compensación por fallo
+LS_GreenZen=Gemas mágicas
 LS_Zen=Zen
 LS_CheckBoxUnselect=<font color='#FF0000'>Encantar ticket de protección</font>
 LS_CheckBoxSelect=Ticket de protección utilizado
@@ -2186,8 +2186,8 @@ LS_Insert_TargetItem_Discription1=Compruebe los Items materiales y haga clic en 
 LS_Insert_TargetItem_Discription2=Los materiales y el Zen se consumen independientemente de los resultados.
 LS_Insert_TargetItem_Safety_Discription1=<font color='#36FF00'>Estás en el rango de encantamiento seguro.</font>
 LS_Insert_TargetItem_Safety_Discription2=Los Items no serán destruidos, incluso si su encantamiento falla.
-LS_Insert_TargetItem_Destroy_Discription1=<font color='#FF0000'>Estás en la categoría de encantamiento arriesgado.</font>
-LS_Insert_TargetItem_Destroy_Discription2=Los Items serán destruidos si el encantamiento falla.
+LS_Insert_TargetItem_Destroy_Discription1=<font color='#FF0000'>Si el encantamiento falla perderás el Item.</font>
+LS_Insert_TargetItem_Destroy_Discription2=La protección de ítem evita su pérdida al fallar.
 LS_Complete_Enchant_Discription1=El Item está encantado.
 LS_Complete_Enchant_Discription2=El Item ya no puede ser encantado.
 LS_CombatPower=Poder de Combate
@@ -2285,7 +2285,7 @@ lstrOwnedItemTypeEquipChar=<font color='#FDC243'>Se vincula al personaje al equi
 lstrOwnedItemTypeEquipID=<font color='#FDC243'>Se vincula a la cuenta cuando está equipado</font>
 lstrOwnedItemTypeGainChar=<font color='#FDC243'>Se vincula al personaje cuando lo obtiene</font>
 lstrOwnedItemTypeGainID=<font color='#FDC243'>Se vincula a la cuenta cuando se obtiene</font>
-LS_ResealCount=Cuenta de no vinculaciones disponibles: %d
+LS_ResealCount=Desvinculaciones disponibles: %d
 LS_Day=%s_1d
 LS_Hour=%s_1h
 LS_Minute=%s_1m
@@ -4731,7 +4731,7 @@ LS_TotalScorePoint=Puntos totales
 
 [MU2GFxItemSocket]
 LS_Title=Añadir ranura de equipo
-LS_DescTop=Añadir ranura de joya¶a Items de equipo.
+LS_DescTop=Añadir ranura de joya¶a armas y armaduras.
 LS_DescBottom=Añadir un elemento de equipo para añadir una ranura.
 LS_NeedItem=Requerido
 LS_SuccessDesc0=Añadir una ranura al Item de equipo.
@@ -6189,15 +6189,15 @@ LS_UsingItem=Usando Item...
 LS_ControlObject=Item de control...
 
 [MU2GFxOptionChangerView]
-LS_MainTitle=Restablecer opciones de item
+LS_MainTitle=Modificar opciones de Item
 LS_MaterialTitle=Materiales requeridos
-LS_StatInfoTitle=Opciones Cambiables
+LS_StatInfoTitle=Opciones posibles
 LS_NormalDesc=Añadir un item de Equipo y aleatorizar una de sus opciones.
 LS_SelectDesc=Seleccionar una opción.
-LS_OptionChange=Cambiar opción
-LS_ItemChange=Cambiar item
+LS_OptionChange=Modificar
+LS_ItemChange=Modificar item
 LS_Select=Seleccionar
-LS_Change=Cambiar
+LS_Change=Modificar
 LS_OK=OK
 
 [MU2GFxDailyLoginEvent]
@@ -7159,8 +7159,8 @@ LS_MaxLevel=Nivel Máximo
 [MU2GFxArtifactLevelTransfer]
 LS_ArtifactLevelTransferTitle=Transferir nivel de artefacto
 LS_LvTransferStep[0]=1. Reglas básicas
-LS_LvTransferStep[1]=2. Etapa básica: Seleccionar un artefacto de origen
-LS_LvTransferStep[2]=3. Seleccionar un Artefacto de Destino Seleccionar un artefacto de destino
+LS_LvTransferStep[1]=2. eleccionar artefacto origen
+LS_LvTransferStep[2]=3. Seleccionar artefacto destino
 LS_LvTransferStep[3]=4. Confirmar
 LS_TransferArtifactTitle_Source=Artefacto de origen
 LS_TransferArtifactTitle_Target=Artefacto de destino
@@ -8270,9 +8270,9 @@ LS_AssistRatioFormat=%s_1
 LS_AssistCountFormat=%s_1/%s_2
 
 [MU2GFxMessageBoxProtectionEnchant]
-LS_TitleStr=Encantamiento protegido
-LS_DescriptionStr0=¿Utilizar encantamiento protegido?
-LS_DescriptionStr1=El encantamiento protegido protege tu item contra la destrucción<br>Si falla pierdes un nivel de encatamiento
+LS_TitleStr=Protección de Encantamiento
+LS_DescriptionStr0=¿Utilizar protección de encantamiento?
+LS_DescriptionStr1=La protección de encantamiento evita que tu ítem se destruya.<br>Si falla pierdes un nivel de encantamiento.
 LS_OKStr=OK (Espacio)
 LS_CancelStr=Cancelar (Esc)
 LS_HaveImputedRedZen=Redzen en posesión
