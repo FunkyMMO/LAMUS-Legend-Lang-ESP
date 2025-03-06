@@ -8102,9 +8102,9 @@ LS_ExitBtn=Cerrar (Esc)
 
 [MU2GFxChaosCastleWidget]
 LS_RewardExit=Reclamar y salir
-LS_Rank=Rango
+LS_Rank=Ranking
 LS_InGameInfo=¡Sobrevive hasta que nadie<br>quede en pie!
-LS_CurRank=Rango actual
+LS_CurRank=Ranking actual
 LS_WarningArea=¡Zona envuelta en llamas!
 LS_RemainTime=Tiempo restante
 LS_WaitingUser=Por favor, espere a que entren todos...
