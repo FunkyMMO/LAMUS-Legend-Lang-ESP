@@ -4662,8 +4662,8 @@ Desc2_9088401=Cuidado!! No hay puntos de resurrección en la zona del jefe.
 
 [MU2GFxEndlessTowerInfoWidget]
 LS_NextBtnDesc=Pasar a la siguiente fase (barra espaciadora).
-LS_Stage=Etapa
-LS_TowerStart=Empezar a subir Tower of Dawn.
+LS_Stage=Piso
+LS_TowerStart=Endless Tower
 LS_TowerGoUp=Vienen nuevos enemigos.
 LS_TowerGuardian=Guardián de la Torre
 LS_TowerBossDesc=¡Buena suerte!
@@ -4678,14 +4678,14 @@ LS_StageDie=Estás muerto.
 LS_StageDieDesc=Puedes resucitar cuando los miembros de tu grupo superen la fase.
 LS_StageLast=¡Comienza la última batalla!
 LS_StageLastDesc=Velocidad de Dios.
-LS_StageLastGameInfo=Es la última fase de Tower of Dawn.¶¡Elimina a Aveeter, el guardián del último piso, y conquista la torre!
+LS_StageLastGameInfo=Es la última fase de Endless Tower.¶¡Elimina a Aveeter, el guardián del último piso, y conquista la torre!
 LS_StageComplete=¡Conquistada!
 LS_GameInfoTitle=¡Sube a las alturas de los dioses!
 LS_RewardReceive=Reclamar recompensa
 LS_RewardExit=Reclamar y salir
-LS_StageFloor=Etapa %s_1
-LS_LastStage=Última etapa
-LS_RewardTitle=Información clara
+LS_StageFloor=Piso %s_1
+LS_LastStage=Último piso
+LS_RewardTitle=Información
 
 [MU2GFxBloodCastleInfoWidget]
 LS_PointTitle=Puntuación
