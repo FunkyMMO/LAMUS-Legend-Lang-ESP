@@ -7681,8 +7681,8 @@ LS_StartMessageTitle=¡Inicia la etapa!
 LS_StartMessageDesc=Prepárate para una emboscada.
 
 [MU2GFxAirShipDefenceInfo]
-LS_StageGuide=¡Protege el Reactor Odyssey del ataque de Pandemonium!
-LS_TimeLeftUntilNextWave=Tiempo restante hasta la siguiente oleada
+LS_StageGuide=¡Protege el Reactor del ataque de Pandemonium!
+LS_TimeLeftUntilNextWave=Tiempo hasta la siguiente oleada
 LS_TimeLeftToStart=La batalla comienza en
 LS_ClearWave=Etapa fallida
 LS_Stage=Etapa %s_1
@@ -7691,11 +7691,11 @@ LS_Wave=Etapa
 LS_TimeNoLimit=Sin límite de tiempo
 
 [MU2GFxAirshipDefenceReward]
-LS_ClearInfo=Información de desminado
+LS_ClearInfo=Información de instancia
 LS_Stage=Etapa %s_1
 LS_GetRewardAndExit=Reclamar y salir
 LS_GetReward=Reclamar recompensa
-LS_AllClear=Limpiado todo
+LS_AllClear=Todas completadas
 
 [MU2GFxExtractEmotion]
 LS_TitleStr=Extraer Éter
