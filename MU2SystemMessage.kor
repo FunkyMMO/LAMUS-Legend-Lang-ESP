@@ -198,8 +198,8 @@ Msg_Item_Err_UseTime=El periodo de validez del item ha expirado.
 Msg_UserTrade_Not_owneded=No se pueden mover o intercambiar items.
 Msg_Item_Err_Owndedseal_Grade=El grado del item sellado no coincide.
 Msg_Item_Err_Owndedseal=Este item no puede volver a sellarse.
-Msg_Item_Err_Owndedseal_Durability=Este artículo no puede volver a sellarse debido a su durabilidad.
-Msg_Item_Err_owneded=Este artículo no se puede utilizar porque la información de encuadernación no coincide.
+Msg_Item_Err_Owndedseal_Durability=Este Item no puede volver a sellarse debido a su durabilidad.
+Msg_Item_Err_owneded=Este Item no se puede utilizar porque la información de encuadernación no coincide.
 >>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
 Msg_Cannt_Find_Target=No se puede encontrar el objetivo.
 Msg_Invalied_Distance=Fallo porque el objetivo está demasiado lejos.
@@ -1353,8 +1353,8 @@ Msg_Platinum_LevelUp=Su nivel Platinum ha aumentado.
 Msg_Platinum_Reward=Reclamado el Item.
 Msg_Platinum_PCRoomReward=Reclamado el objeto.
 =======
-Msg_Platinum_Reward=Reclamado el artículo.
-Msg_Platinum_PCRoomReward=Reclamado el item.
+Msg_Platinum_Reward=Items reclamados.
+Msg_Platinum_PCRoomReward=Items reclamados.
 >>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
 
 [MemoryImprintSystemMessage]
