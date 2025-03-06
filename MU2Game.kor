@@ -8691,7 +8691,7 @@ LS_SetCol_ArmPoint=Punto de armadura
 LS_SetCol_AccPoint=Punto de accesorio
 
 [MU2GFxSetCollectionOpen]
-LS_Caption=Desbloquear sello de tarjeta de colección
+LS_Caption=Desbloquear sello de Index
 LS_Description=<font color='#FFD461'>Nivel requerido de apertura: %s_1</font><br>Puedes desbloquear permanentemente la carta de conjunto<br>consumiendo material cuando alcances el nivel requerido de apertura.
 LS_MaterialCap=Material consumible
 LS_Accept=Abrir
