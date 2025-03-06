@@ -6,7 +6,7 @@ OX_O=O
 OX_X=-
 
 [PlatinumService]
-Service_101=Cajas de ingresos diarios
+Service_101=1 LAMUS VIP Chest
 Service_102=Pestaña adicional de Inventario +1
 Service_103=Emoticonos adicionales
 Service_104=Teletransporte remoto <font color='#37C7DF'>(F2)</font>
@@ -18,7 +18,7 @@ Service_109=Buzón remoto <font color='#37C7DF'>(F7)</font>
 Service_110=Registro adicional de items en Comercio +10
 Service_111=Tarifa de Comercio (Zen) y (Redzen) cambiada a 6%.
 Service_112=Registro de 72 horas de Comercio
-Service_201=1 LAMUS VIP Chest
+Service_201=2 LAMUS VIP Chest
 Service_202=2 ranuras de inventario adicionales
 Service_203=Emoticonos adicionales
 Service_204=Teleporte habilitado
@@ -59,7 +59,7 @@ Service_510=Slots adicionales en Items de Bazar +10
 Service_511=Tarifa de Bazar (Zen) y (Redzen) cambiada a 6%.
 Service_512=Opción de registro de 72 horas de Bazar
 Service_1002=Pestaña adicional de Inventario +2
-Service_1003=LAMUS VIP Chest
+Service_1003=2 LAMUS VIP Chest
 Service_1004=Regalo de Servicio Premium
 Service_1005=Resurrección diaria gratuita +10
 Service_1006=Ranura de mejora para mascotas +2 
