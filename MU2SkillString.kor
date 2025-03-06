@@ -1969,7 +1969,7 @@ Skill_901180=Cada 3ra habilidad aumenta el daño contra élites en un 5% durante
 Skill_901181=ataque +20% si solo hay 1 enemigo cerca
 Skill_901182=Guidance of Despair aumenta el daño crítico en un 5% y reduce la defensa del objetivo en un 5% (Máximo de acumulaciones: 5)
 Skill_901190=Vicious Charge Reduce el tiempo de reutilización de Rugard's Protection en 3 segundos
-Skill_901191=aumenta la tasa de bloqueo con escudo en un 20%
+Skill_901191=Aumenta la tasa de bloqueo con escudo en un 20%
 Skill_901192=Rugard's Protection aumenta el aggro en un 200% y el ataque de los aliados cercanos en un 10%, además de la velocidad de ataque en un 15% durante 7 segundos
 Skill_901200=Pain Immunity aumenta el daño crítico en un 50% durante 4 segundos
 Skill_901201=Spin Attack Reduce el aggro en un 100% y aumenta la velocidad de ataque en un 8% durante 4 segundos (Máximo de acumulaciones: 5)
@@ -2009,7 +2009,7 @@ Skill_908005=Ignora Endless Cold
 Skill_901290=Fire Burst - 50% de daño adicional
 Skill_901291=Reducción de 1 segundo en el tiempo de reutilización de Fire Scream al usar Fire Bludgeon
 Skill_901292=100% de daño adicional de Fire Scream
-Skill_901300=aumenta la tasa de bloqueo del escudo en un 35% y el HP máximo en un 5%
+Skill_901300=Aumenta la tasa de bloqueo del escudo en un 35% y el HP máximo en un 5%
 Skill_901301=Holy Light aumenta el ataque y la defensa de los aliados objetivo en un 10% durante 7 segundos
 Skill_901302=Purification aumenta el HP máximo de los aliados objetivo en un 5% y restaura el HP en un 1% del HP máximo cada segundo durante 60 segundos
 Skill_901310=Raging Shout aumenta el ataque en un 50% durante 7 segundos
@@ -2033,7 +2033,7 @@ Skill_901362=75% de probabilidad de reiniciar el tiempo de reutilización al usa
 Skill_901370=Chakram Blade - 100% de daño adicional
 Skill_901371=150% de daño adicional de Lightning Storm
 Skill_901372=Lightning Storm reinicia el tiempo de reutilización de Chakram Blade durante 7 segundos
-Skill_901380=aumenta el ataque del portador y de los aliados dentro de Life Barrier en un 15% durante 5 segundos
+Skill_901380=Aumenta el ataque del portador y de los aliados dentro de Life Barrier en un 15% durante 5 segundos
 Skill_901381=Steps of Light restaura un 15% de MP y HP cada segundo durante 10 segundos
 Skill_901382=Life Barrier restaura un 70% de HP y MP durante 5 segundos para ti y los aliados dentro de ella
 Skill_901390=Aumento del 15% en el daño crítico durante 5 segundos al usar Mana Focus
@@ -3164,7 +3164,7 @@ Skill_9113=Madness Absorption aumenta la recuperación de HP en un 200% durante 
 Skill_9115=Threatening Roar restaura un 3% de tu HP máximo.
 Skill_9116=Los ataques con habilidades de clase aumentan el ataque en un 2% durante 3 segundos. (Hasta un 10%)
 Skill_9117=Piercing Arrow tiene un 30% de probabilidad de aumentar el ataque en un 10% durante 5 segundos.
-Skill_9118=aumenta el ataque en un 15% si hay 3 o más enemigos dentro de 8 m.
+Skill_9118=Aumenta el ataque en un 15% si hay 3 o más enemigos dentro de 8 m.
 Skill_9119=Fire Curtain aumenta el ataque en un 5% durante 3 segundos.
 Skill_9120=Los ataques críticos exitosos aumentan el ataque en un 1% durante 5 segundos (hasta un 10%).
 Skill_9121=Las habilidades principales, si golpean con éxito a su objetivo, aumentan el ataque en un 5% durante 3 segundos. (Hasta un 15%)
@@ -3173,7 +3173,7 @@ Skill_9123=Recuperación de HP +300% cuando el MP está lleno.
 Skill_9124=ataque +0.5% durante 10 segundos en respuesta a cada daño recibido (hasta un 20%).
 Skill_9125=Los ataques exitosos con armas tienen una probabilidad de restaurar un 2% de HP.
 Skill_9126=Las habilidades de clase, si golpean con éxito a su objetivo, aumentan el ataque en un 1% durante 3 segundos. (Hasta un 5%)
-Skill_9127=aumenta el ataque en un 10% cuando tienes el 70% o más de HP restante.
+Skill_9127=Aumenta el ataque en un 10% cuando tienes el 70% o más de HP restante.
 Skill_9128=Velocidad de ataque +5% cuando hay 5 o más monstruos a tu alrededor.
 Skill_9129=Las habilidades expertas aumentan el ataque en un 10% durante 10 segundos.
 Skill_9130=MP +1 cada vez que obtienes Zen.
@@ -3186,7 +3186,7 @@ Skill_9136=Los ataques reducen el ataque del objetivo en un 20% durante 3 segund
 Skill_9137=Las habilidades principales reducen la Defensa del objetivo en un 20% durante 3 segundos.
 Skill_9138=Los ataques reducen la Defensa del objetivo en un 2% durante 3 segundos (hasta un 10%).
 Skill_9139=Defensa +2% durante 5 segundos después de un bloqueo exitoso con escudo (hasta un 20%).
-Skill_9140=aumenta el ataque en un 15% si hay 5 o más enemigos dentro de 10 m.
+Skill_9140=Aumenta el ataque en un 15% si hay 5 o más enemigos dentro de 10 m.
 Skill_152100=Melee
 Skill_152200=Ranged
 Skill_152300=Melee
@@ -3946,9 +3946,9 @@ Skill_311=
 Skill_312=
 Skill_313=
 Skill_314=
-Skill_315=aumenta temporalmente el ataque en un 20%.
-Skill_316=aumenta temporalmente la Defensa en un 20%.
-Skill_317=aumenta temporalmente la velocidad de movimiento en un 20%.
+Skill_315=Aumenta temporalmente el ataque en un 20%.
+Skill_316=Aumenta temporalmente la Defensa en un 20%.
+Skill_317=Aumenta temporalmente la velocidad de movimiento en un 20%.
 Skill_318=Restaura temporalmente HP y MP.
 Skill_319=El acceso al Mapa de Misión está temporalmente restringido.
 Skill_320=
@@ -4171,39 +4171,39 @@ Skill_9049=
 Skill_9050=
 Skill_9051=
 Skill_9052=
-Skill_5000=aumenta el ataque.
+Skill_5000=Aumenta el ataque.
 Skill_5001=Inflige <font color='#FE6D03'>$eff:5001000:a:i$</font><font color='#FE6D04'>%</font> de daño adicional a monstruos élite.
-Skill_5002=aumenta el ataque en <font color='#FE6D03'>$eff:5002000:a:i$</font><font color='#FE6D04'>%</font> cuando tienes <font color='#FE6D03'>90%</font> o más de HP.
+Skill_5002=Aumenta el ataque en <font color='#FE6D03'>$eff:5002000:a:i$</font><font color='#FE6D04'>%</font> cuando tienes <font color='#FE6D03'>90%</font> o más de HP.
 Skill_5003=Atacar a otros jugadores otorga una probabilidad de recuperar hasta <font color='#FE6D03'>$eff:5003000:a:i$</font><font color='#FE6D04'>%</font> del daño infligido como HP.
-Skill_5014=aumenta la Penetración de Defensa.
-Skill_5015=aumenta la Penetración de Defensa en <font color='#FE6D03'>$eff:5011000:a:i$</font><font color='#FE6D04'>%</font> cuando tienes menos del <font color='#FE6D03'>30%</font> de HP.
+Skill_5014=Aumenta la Penetración de Defensa.
+Skill_5015=Aumenta la Penetración de Defensa en <font color='#FE6D03'>$eff:5011000:a:i$</font><font color='#FE6D04'>%</font> cuando tienes menos del <font color='#FE6D03'>30%</font> de HP.
 Skill_5012=Otorga una probabilidad de ignorar completamente la Defensa del monstruo objetivo.
 Skill_5016=Atacar a otros jugadores otorga una probabilidad de infligir adicionalmente <font color='#FE6D03'>$eff:5013000:a:i$</font><font color='#FE6D04'>%</font> del daño infligido.
-Skill_5020=aumenta la Tasa Crítica.
-Skill_5031=aumenta la Tasa Crítica en <font color='#FE6D03'>$eff:5031000:a:i$</font><font color='#FE6D04'>%</font> cuando tienes menos del <font color='#FE6D03'>20%</font> de HP.
+Skill_5020=Aumenta la Tasa Crítica.
+Skill_5031=Aumenta la Tasa Crítica en <font color='#FE6D03'>$eff:5031000:a:i$</font><font color='#FE6D04'>%</font> cuando tienes menos del <font color='#FE6D03'>20%</font> de HP.
 Skill_5022=Los ataques críticos contra otros jugadores tienen una probabilidad de reducir su Defensa en <font color='#FE6D03'>$eff:5022000:a:i$</font><font color='#FE6D04'>%</font>.
-Skill_5030=aumenta el Daño Crítico.
-Skill_5021=aumenta el Daño Crítico en <font color='#FE6D03'>$eff:5021000:a:i$</font><font color='#FE6D04'>%</font> cuando tienes menos del <font color='#FE6D03'>20%</font> de HP.
+Skill_5030=Aumenta el Daño Crítico.
+Skill_5021=Aumenta el Daño Crítico en <font color='#FE6D03'>$eff:5021000:a:i$</font><font color='#FE6D04'>%</font> cuando tienes menos del <font color='#FE6D03'>20%</font> de HP.
 Skill_5032=El daño recibido de otros jugadores tiene una probabilidad de reflejar <font color='#FE6D03'>$eff:5032000:a:i$</font><font color='#FE6D04'>%</font> del daño.
-Skill_5040=aumenta la Defensa.
-Skill_5041=aumenta la Defensa en <font color='#FE6D03'>$eff:5041000:a:i$</font><font color='#FE6D04'>%</font> cada vez que eres atacado. (Hasta <font color='#FE6D03'>3</font> veces)
+Skill_5040=Aumenta la Defensa.
+Skill_5041=Aumenta la Defensa en <font color='#FE6D03'>$eff:5041000:a:i$</font><font color='#FE6D04'>%</font> cada vez que eres atacado. (Hasta <font color='#FE6D03'>3</font> veces)
 Skill_5042=Convierte <font color='#FE6D03'>$eff:5042000:a:i$</font><font color='#FE6D04'>%</font> de Defensa en ataque.
-Skill_5043=aumenta la Defensa en <font color='#FE6D03'>$eff:5043001:a:i$</font><font color='#FE6D04'>%</font> por cada enemigo en tu proximidad. (Hasta <font color='#FE6D03'>10</font> veces)
-Skill_5054=aumenta la Tasa de Evasión.
+Skill_5043=Aumenta la Defensa en <font color='#FE6D03'>$eff:5043001:a:i$</font><font color='#FE6D04'>%</font> por cada enemigo en tu proximidad. (Hasta <font color='#FE6D03'>10</font> veces)
+Skill_5054=Aumenta la Tasa de Evasión.
 Skill_5055=Una evasión exitosa tiene una probabilidad de restaurar <font color='#FE6D03'>$eff:5051000:a:i$</font><font color='#FE6D04'>%</font> del HP Máximo.
-Skill_5056=aumenta la Tasa de Evasión en <font color='#FE6D03'>$eff:5056000:a:i$</font><font color='#FE6D04'>%</font> cuando tienes menos del <font color='#FE6D03'>20%</font> de HP.
+Skill_5056=Aumenta la Tasa de Evasión en <font color='#FE6D03'>$eff:5056000:a:i$</font><font color='#FE6D04'>%</font> cuando tienes menos del <font color='#FE6D03'>20%</font> de HP.
 Skill_5057=Otorga una probabilidad de resucitar automáticamente en <font color='#FE6D03'>2</font> segundos después de la muerte.
-Skill_5060=aumenta el HP Máximo.
+Skill_5060=Aumenta el HP Máximo.
 Skill_5061=Los ataques restauran HP en un <font color='#FE6D03'>$eff:5061000:a:i$</font><font color='#FE6D04'>%</font> del daño infligido.
 Skill_5062=Absorbe <font color='#FE6D03'>30%</font> del daño recibido cuando tienes menos del <font color='#FE6D03'>20%</font> de HP. La absorción de daño dura 5 segundos y cubre hasta un <font color='#FE6D03'>20%</font> del HP Máximo.
 Skill_5122=Reduce la duración de los efectos de Control de Masas.
 Skill_5074=Mejora los efectos de tu Control de Masas en <font color='#FE6D03'>$eff:5074000:a:i$</font><font color='#FE6D04'>%</font>.
 Skill_5075=Los efectos hostiles de Control de Masas tienen una probabilidad de eliminar todos los efectos aplicados sobre ti.
-Skill_5070=aumenta la recuperación de HP por segundo.
+Skill_5070=Aumenta la recuperación de HP por segundo.
 Skill_5101=Mejora los efectos de las pociones en <font color='#FE6D03'>$eff:5101000:a:i$</font><font color='#FE6D04'>%</font>.
 Skill_5072=El daño recibido tiene una probabilidad de aumentar la recuperación de HP por segundo en <font color='#FE6D03'>$eff:5072000:a:i$</font><font color='#FE6D04'>%</font>.
 Skill_5071=El daño recibido tiene una probabilidad de restaurar <font color='#FE6D03'>$eff:5071000:a:i$</font><font color='#FE6D04'>%</font> del HP Máximo.
-Skill_5100=aumenta la recuperación de MP por segundo.
+Skill_5100=Aumenta la recuperación de MP por segundo.
 Skill_5113=Las habilidades de armas restauran <font color='#FE6D03'>$eff:5113000:a:i$</font><font color='#FE6D04'>%</font> más MP.
 Skill_5114=El daño recibido tiene una probabilidad de aumentar la recuperación de MP por segundo en <font color='#FE6D03'>$eff:5114000:a:i$</font><font color='#FE6D04'>%</font>.
 Skill_5112=Todas las habilidades tienen una probabilidad de restaurar completamente el MP.
@@ -4213,160 +4213,160 @@ Skill_5093=Los ataques tienen una pequeña probabilidad de restablecer el tiempo
 Skill_5110=Reduce el costo de MP.
 Skill_5103=El daño recibido tiene una probabilidad de reducir el costo de MP en <font color='#FE6D03'>$eff:5103000:a:i$</font><font color='#FE6D04'>%</font>.
 Skill_5104=Todas las habilidades tienen una probabilidad de anular el costo de MP para <font color='#FE6D03'>1</font> habilidad.
-Skill_5151=aumenta la velocidad de movimiento.
-Skill_5142=aumenta la velocidad de movimiento en <font color='#FE6D03'>$eff:5142000:a:i$</font><font color='#FE6D04'>%</font> fuera de combate.
+Skill_5151=Aumenta la velocidad de movimiento.
+Skill_5142=Aumenta la velocidad de movimiento en <font color='#FE6D03'>$eff:5142000:a:i$</font><font color='#FE6D04'>%</font> fuera de combate.
 Skill_5143=El daño recibido tiene una probabilidad de aumentar la velocidad de movimiento en <font color='#FE6D03'>$eff:5143000:a:i$</font><font color='#FE6D04'>%</font>.
-Skill_5160=aumenta la cantidad de Zen obtenido al cazar.
+Skill_5160=Aumenta la cantidad de Zen obtenido al cazar.
 Skill_5161=Reduce los costos de reparación de items en <font color='#FE6D03'>$eff:5161000:a:i$</font><font color='#FE6D04'>%</font>.
 Skill_5162=El Zen restaura <font color='#FE6D03'>0.5%</font> del HP Máximo cada vez que se obtiene.
-Skill_5170=aumenta la EXP obtenida al cazar.
+Skill_5170=Aumenta la EXP obtenida al cazar.
 Skill_5172=Las misiones completadas otorgan <font color='#FE6D03'>$eff:5172000:a:i$</font><font color='#FE6D04'>%</font> más EXP.
 Skill_5171=Los monstruos derrotados otorgan <font color='#FE6D03'>$eff:5171000:a:i$</font><font color='#FE6D04'>%</font> más EXP de Alma.
-Skill_5180=aumenta la probabilidad de encontrar mejores items al cazar.
-Skill_5181=aumenta la duración de los efectos de Shine y otros beneficios Neutrales en <font color='#FE6D03'>$eff:5181000:a:i$</font><font color='#FE6D04'>%</font>.
+Skill_5180=Aumenta la probabilidad de encontrar mejores items al cazar.
+Skill_5181=Aumenta la duración de los efectos de Shine y otros beneficios Neutrales en <font color='#FE6D03'>$eff:5181000:a:i$</font><font color='#FE6D04'>%</font>.
 Skill_5182=Mejora los efectos de Shine y otros beneficios Neutrales en <font color='#FE6D03'>$eff:5182000:a:i$</font><font color='#FE6D04'>%</font>.
-Skill_6001=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>5%</font>.
-Skill_6002=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>10%</font>.
-Skill_6003=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>15%</font>.
-Skill_6004=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>20%</font>.
-Skill_6005=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>22%</font>.
-Skill_6006=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>24%</font>.
-Skill_6007=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>26%</font>.
-Skill_6008=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>28%</font>.
-Skill_6009=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>30%</font>.
-Skill_6010=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>32%</font>.
-Skill_6011=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>34%</font>.
-Skill_6012=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>36%</font>.
-Skill_6013=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>38%</font>.
-Skill_6014=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>40%</font>.
-Skill_6015=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>42%</font>.
-Skill_6016=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>44%</font>.
-Skill_6017=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>46%</font>.
-Skill_6018=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>48%</font>.
-Skill_6019=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>50%</font>.
-Skill_6020=aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>60%</font>.
-Skill_6101=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>5%</font>.
-Skill_6102=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>10%</font>.
-Skill_6103=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>15%</font>.
-Skill_6104=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>20%</font>.
-Skill_6105=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>25%</font>.
-Skill_6106=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>30%</font>.
-Skill_6107=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>35%</font>.
-Skill_6108=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>40%</font>.
-Skill_6109=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>45%</font>.
-Skill_6110=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>50%</font>.
-Skill_6111=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>55%</font>.
-Skill_6112=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>60%</font>.
-Skill_6113=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>65%</font>.
-Skill_6114=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>70%</font>.
-Skill_6115=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>75%</font>.
-Skill_6116=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>80%</font>.
-Skill_6117=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>85%</font>.
-Skill_6118=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>90%</font>.
-Skill_6119=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>95%</font>.
-Skill_6120=aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>100%</font>.
-Skill_6201=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>10%</font>.
-Skill_6202=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>20%</font>.
-Skill_6203=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>30%</font>.
-Skill_6204=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>40%</font>.
-Skill_6205=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>50%</font>.
-Skill_6206=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>60%</font>.
-Skill_6207=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>70%</font>.
-Skill_6208=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>80%</font>.
-Skill_6209=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>90%</font>.
-Skill_6210=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>100%</font>.
-Skill_6211=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>110%</font>.
-Skill_6212=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>120%</font>.
-Skill_6213=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>130%</font>.
-Skill_6214=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>140%</font>.
-Skill_6215=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>150%</font>.
-Skill_6216=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>160%</font>.
-Skill_6217=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>170%</font>.
-Skill_6218=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>180%</font>.
-Skill_6219=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>190%</font>.
-Skill_6220=aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>200%</font>.
-Skill_6301=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>5%</font>.
-Skill_6302=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>10%</font>.
-Skill_6303=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>15%</font>.
-Skill_6304=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>20%</font>.
-Skill_6305=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>25%</font>.
-Skill_6306=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>30%</font>.
-Skill_6307=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>35%</font>.
-Skill_6308=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>40%</font>.
-Skill_6309=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>45%</font>.
-Skill_6310=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>50%</font>.
-Skill_6311=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>55%</font>.
-Skill_6312=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>60%</font>.
-Skill_6313=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>65%</font>.
-Skill_6314=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>70%</font>.
-Skill_6315=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>75%</font>.
-Skill_6316=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>80%</font>.
-Skill_6317=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>85%</font>.
-Skill_6318=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>90%</font>.
-Skill_6319=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>95%</font>.
-Skill_6320=aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>100%</font>.
-Skill_6401=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>5%</font>.
-Skill_6402=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>10%</font>.
-Skill_6403=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>15%</font>.
-Skill_6404=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>20%</font>.
-Skill_6405=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>22%</font>.
-Skill_6406=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>24%</font>.
-Skill_6407=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>26%</font>.
-Skill_6408=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>28%</font>.
-Skill_6409=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>30%</font>.
-Skill_6410=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>32%</font>.
-Skill_6411=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>34%</font>.
-Skill_6412=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>36%</font>.
-Skill_6413=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>38%</font>.
-Skill_6414=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>40%</font>.
-Skill_6415=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>42%</font>.
-Skill_6416=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>44%</font>.
-Skill_6417=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>46%</font>.
-Skill_6418=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>48%</font>.
-Skill_6419=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>50%</font>.
-Skill_6420=aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>60%</font>.
+Skill_6001=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>5%</font>.
+Skill_6002=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>10%</font>.
+Skill_6003=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>15%</font>.
+Skill_6004=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>20%</font>.
+Skill_6005=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>22%</font>.
+Skill_6006=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>24%</font>.
+Skill_6007=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>26%</font>.
+Skill_6008=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>28%</font>.
+Skill_6009=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>30%</font>.
+Skill_6010=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>32%</font>.
+Skill_6011=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>34%</font>.
+Skill_6012=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>36%</font>.
+Skill_6013=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>38%</font>.
+Skill_6014=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>40%</font>.
+Skill_6015=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>42%</font>.
+Skill_6016=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>44%</font>.
+Skill_6017=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>46%</font>.
+Skill_6018=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>48%</font>.
+Skill_6019=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>50%</font>.
+Skill_6020=Aumenta la EXP de Alma obtenida al cazar en <font color='#FE6D03'>60%</font>.
+Skill_6101=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>5%</font>.
+Skill_6102=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>10%</font>.
+Skill_6103=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>15%</font>.
+Skill_6104=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>20%</font>.
+Skill_6105=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>25%</font>.
+Skill_6106=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>30%</font>.
+Skill_6107=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>35%</font>.
+Skill_6108=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>40%</font>.
+Skill_6109=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>45%</font>.
+Skill_6110=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>50%</font>.
+Skill_6111=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>55%</font>.
+Skill_6112=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>60%</font>.
+Skill_6113=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>65%</font>.
+Skill_6114=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>70%</font>.
+Skill_6115=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>75%</font>.
+Skill_6116=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>80%</font>.
+Skill_6117=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>85%</font>.
+Skill_6118=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>90%</font>.
+Skill_6119=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>95%</font>.
+Skill_6120=Aumenta la EXP de Guild y los Puntos de Contribución obtenidos al cazar en <font color='#FE6D03'>100%</font>.
+Skill_6201=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>10%</font>.
+Skill_6202=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>20%</font>.
+Skill_6203=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>30%</font>.
+Skill_6204=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>40%</font>.
+Skill_6205=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>50%</font>.
+Skill_6206=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>60%</font>.
+Skill_6207=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>70%</font>.
+Skill_6208=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>80%</font>.
+Skill_6209=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>90%</font>.
+Skill_6210=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>100%</font>.
+Skill_6211=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>110%</font>.
+Skill_6212=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>120%</font>.
+Skill_6213=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>130%</font>.
+Skill_6214=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>140%</font>.
+Skill_6215=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>150%</font>.
+Skill_6216=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>160%</font>.
+Skill_6217=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>170%</font>.
+Skill_6218=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>180%</font>.
+Skill_6219=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>190%</font>.
+Skill_6220=Aumenta la EXP de Artefacto Normal obtenida en el Laberinto en <font color='#FE6D03'>200%</font>.
+Skill_6301=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>5%</font>.
+Skill_6302=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>10%</font>.
+Skill_6303=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>15%</font>.
+Skill_6304=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>20%</font>.
+Skill_6305=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>25%</font>.
+Skill_6306=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>30%</font>.
+Skill_6307=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>35%</font>.
+Skill_6308=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>40%</font>.
+Skill_6309=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>45%</font>.
+Skill_6310=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>50%</font>.
+Skill_6311=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>55%</font>.
+Skill_6312=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>60%</font>.
+Skill_6313=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>65%</font>.
+Skill_6314=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>70%</font>.
+Skill_6315=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>75%</font>.
+Skill_6316=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>80%</font>.
+Skill_6317=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>85%</font>.
+Skill_6318=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>90%</font>.
+Skill_6319=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>95%</font>.
+Skill_6320=Aumenta la EXP de Artefacto Awakened obtenida en el Laberinto en <font color='#FE6D03'>100%</font>.
+Skill_6401=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>5%</font>.
+Skill_6402=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>10%</font>.
+Skill_6403=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>15%</font>.
+Skill_6404=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>20%</font>.
+Skill_6405=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>22%</font>.
+Skill_6406=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>24%</font>.
+Skill_6407=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>26%</font>.
+Skill_6408=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>28%</font>.
+Skill_6409=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>30%</font>.
+Skill_6410=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>32%</font>.
+Skill_6411=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>34%</font>.
+Skill_6412=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>36%</font>.
+Skill_6413=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>38%</font>.
+Skill_6414=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>40%</font>.
+Skill_6415=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>42%</font>.
+Skill_6416=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>44%</font>.
+Skill_6417=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>46%</font>.
+Skill_6418=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>48%</font>.
+Skill_6419=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>50%</font>.
+Skill_6420=Aumenta la EXP de Mascota obtenida al cazar en <font color='#FE6D03'>60%</font>.
 Skill_6899=Los Fondos del Guild pueden ser recolectados cuando un miembro obtiene Zen.
 Skill_6900=Establece el número de miembros del Guild en 20.
 Skill_6901=Guild creado, esto te permite equipar una Insignia que representa a tu Guild.
 Skill_6902=Tu Guild es reconocido oficialmente, permitiéndote personalizar el Emblema, la Insignia y el Ícono.
 Skill_6903=Puedes abrir el Almacén del Guild compartido por sus miembros.
 Skill_6904=Establece el número de miembros del Guild en 30.
-Skill_6905=aumenta los Fondos del Guild obtenidos en un 2% cuando un miembro obtiene Zen.
+Skill_6905=Aumenta los Fondos del Guild obtenidos en un 2% cuando un miembro obtiene Zen.
 Skill_6906=Se añadirá 1 Almacén del Guild.
-Skill_6907=aumenta los Fondos del Guild obtenidos en un 2% cuando un miembro obtiene Zen.
+Skill_6907=Aumenta los Fondos del Guild obtenidos en un 2% cuando un miembro obtiene Zen.
 Skill_6908=Establece el número de miembros del Guild en 40.
 Skill_6909=La velocidad de montura de todos los miembros del Guild aumenta en un 5%.
 Skill_6910=Se añadirá 1 Almacén del Guild.
-Skill_6911=aumenta los Fondos del Guild obtenidos en un 2% cuando un miembro obtiene Zen.
+Skill_6911=Aumenta los Fondos del Guild obtenidos en un 2% cuando un miembro obtiene Zen.
 Skill_6912=Establece el número de miembros del Guild en 50.
-Skill_6913=aumenta los Fondos del Guild obtenidos en un 2% cuando un miembro obtiene Zen.
+Skill_6913=Aumenta los Fondos del Guild obtenidos en un 2% cuando un miembro obtiene Zen.
 Skill_6914=La velocidad de montura de todos los miembros del Guild aumenta en un 5% adicional.
-Skill_6915=aumenta los Fondos del Guild obtenidos en un 2% cuando un miembro obtiene Zen.
-Skill_6916=aumenta la EXP de personaje obtenida en un 20%.
-Skill_6917=aumenta tu probabilidad de encontrar mejores items en un 20%.
-Skill_6918=aumenta la cantidad de Zen obtenida en un 20%.
-Skill_6919=aumenta la cantidad de Gemas Mágicas obtenidas en un 20%.
-Skill_6800=aumenta la EXP de Alma obtenida al cazar.
-Skill_6801=aumenta la EXP de Alma obtenida al cazar en un 100% durante 30 minutos.
-Skill_6802=aumenta la EXP de Alma obtenida al cazar en un 100% durante 60 minutos.
-Skill_6803=aumenta la EXP de Alma obtenida al cazar en un 200% durante 30 minutos.
-Skill_6804=aumenta la EXP de Alma obtenida al cazar en un 200% durante 60 minutos.
-Skill_6805=aumenta la EXP de Alma obtenida al cazar en un 300% durante 30 minutos.
-Skill_6806=aumenta la EXP de Alma obtenida al cazar en un 300% durante 60 minutos.
-Skill_6810=aumenta la EXP del Guild y los Puntos de Contribución obtenidos al cazar.
-Skill_6811=aumenta la EXP del Guild y los Puntos de Contribución obtenidos al cazar en un 200% durante 60 minutos.
-Skill_6812=aumenta la EXP del Guild y los Puntos de Contribución obtenidos al cazar en un 200% durante 120 minutos.
-Skill_6813=aumenta la EXP del Guild y los Puntos de Contribución obtenidos al cazar en un 350% durante 60 minutos.
-Skill_6814=aumenta la EXP del Guild y los Puntos de Contribución obtenidos al cazar en un 350% durante 120 minutos.
-Skill_6815=aumenta la EXP del Guild y los Puntos de Contribución obtenidos al cazar en un 500% durante 60 minutos.
-Skill_6816=aumenta la EXP del Guild y los Puntos de Contribución obtenidos al cazar en un 500% durante 120 minutos.
-Skill_6820=aumenta la EXP de Artefactos Despiertos obtenida en el Laberinto.
-Skill_6821=aumenta la EXP de Artefactos Despiertos obtenida en el Laberinto en un 200% durante 30 minutos.
-Skill_6822=aumenta la EXP de Artefactos Despiertos obtenida en el Laberinto en un 200% durante 60 minutos.
-Skill_6823=aumenta la EXP de Artefactos Despiertos obtenida en el Laberinto en un 350% durante 30 minutos.
-Skill_6824=aumenta la EXP de Artefactos Despiertos obtenida en el Laberinto en un 350% durante 60 minutos.
-Skill_6825=aumenta la EXP de Artefactos Despiertos obtenida en el Laberinto en un 500% durante 30 minutos.
-Skill_6826=aumenta la EXP de Artefactos Despiertos obtenida en el Laberinto en un 500% durante 60 minutos.
+Skill_6915=Aumenta los Fondos del Guild obtenidos en un 2% cuando un miembro obtiene Zen.
+Skill_6916=Aumenta la EXP de personaje obtenida en un 20%.
+Skill_6917=Aumenta tu probabilidad de encontrar mejores items en un 20%.
+Skill_6918=Aumenta la cantidad de Zen obtenida en un 20%.
+Skill_6919=Aumenta la cantidad de Gemas Mágicas obtenidas en un 20%.
+Skill_6800=Aumenta la EXP de Alma obtenida al cazar.
+Skill_6801=Aumenta la EXP de Alma obtenida al cazar en un 100% durante 30 minutos.
+Skill_6802=Aumenta la EXP de Alma obtenida al cazar en un 100% durante 60 minutos.
+Skill_6803=Aumenta la EXP de Alma obtenida al cazar en un 200% durante 30 minutos.
+Skill_6804=Aumenta la EXP de Alma obtenida al cazar en un 200% durante 60 minutos.
+Skill_6805=Aumenta la EXP de Alma obtenida al cazar en un 300% durante 30 minutos.
+Skill_6806=Aumenta la EXP de Alma obtenida al cazar en un 300% durante 60 minutos.
+Skill_6810=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos al cazar.
+Skill_6811=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos al cazar en un 200% durante 60 minutos.
+Skill_6812=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos al cazar en un 200% durante 120 minutos.
+Skill_6813=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos al cazar en un 350% durante 60 minutos.
+Skill_6814=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos al cazar en un 350% durante 120 minutos.
+Skill_6815=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos al cazar en un 500% durante 60 minutos.
+Skill_6816=Aumenta la EXP del Guild y los Puntos de Contribución obtenidos al cazar en un 500% durante 120 minutos.
+Skill_6820=Aumenta la EXP de Artefactos Despiertos obtenida en el Laberinto.
+Skill_6821=Aumenta la EXP de Artefactos Despiertos obtenida en el Laberinto en un 200% durante 30 minutos.
+Skill_6822=Aumenta la EXP de Artefactos Despiertos obtenida en el Laberinto en un 200% durante 60 minutos.
+Skill_6823=Aumenta la EXP de Artefactos Despiertos obtenida en el Laberinto en un 350% durante 30 minutos.
+Skill_6824=Aumenta la EXP de Artefactos Despiertos obtenida en el Laberinto en un 350% durante 60 minutos.
+Skill_6825=Aumenta la EXP de Artefactos Despiertos obtenida en el Laberinto en un 500% durante 30 minutos.
+Skill_6826=Aumenta la EXP de Artefactos Despiertos obtenida en el Laberinto en un 500% durante 60 minutos.
 Skill_10001=Blande un arma contra los enemigos. <br><br><font color='#FFF59B'>Tu personaje usará sus puños si no está equipado con un arma.</font>
 Skill_10101=Golpea brutalmente a un objetivo, infligiendo daño equivalente al <font color='#FE6D03'>$eff:10101000:a:i$%</font> del ataque. El tercer golpe desata una ola de furia, infligiendo daño en área equivalente al <font color='#FE6D03'>$eff:10104000:a:i$%</font> del ataque y atrayendo a los enemigos.<br><br><font color='#FFF59B'>(Especialización en Maza)</font><br><font color='#FFF59B'>Los bloqueos exitosos con el escudo generan una onda de choque que inflige daño equivalente al $eff:17701000:a:i$% del ataque.</font>
 Skill_10102=
@@ -4427,15 +4427,15 @@ Skill_15501=Explota tu poder interno y provoca un terremoto, infligiendo <font c
 Skill_15601=Te vuelve invencible y aumenta tu Velocidad de ataque en <font color='#FE6D03'>$eff:15601001:a:i$%</font> y tu ataque en <font color='#FE6D03'>$eff:15601002:a:i$%</font> durante <font color='#FED700'>$eff:15601000:dur:f10$ segundos</font>.
 Skill_15701=Te permite desatar tu ira e infligir <font color='#FE6D03'>900%</font> de daño en área.<br><br><font color='#FFF59B'>Los Cetros y Escudos aumentan la Defensa en un 30% durante 12 segundos.</font><br><font color='#FFF59B'>Los Manguales a dos manos aumentan el ataque en un 30% durante 12 segundos.</font>
 Skill_15801=
-Skill_18001=aumenta la Recuperación de HP en <font color='#FE6D03'>$eff:18401000:a:i$%</font> y el HP Máx. en <font color='#FE6D03'>$eff:18401001:a:i$%</font>.
+Skill_18001=Aumenta la Recuperación de HP en <font color='#FE6D03'>$eff:18401000:a:i$%</font> y el HP Máx. en <font color='#FE6D03'>$eff:18401001:a:i$%</font>.
 Skill_18101=Las habilidades de armas reducen la Defensa de sus objetivos en <font color='#FE6D04'>$eff:18101000:a:i$%</font> durante <font color='#FED700'>$eff:18101000:dur:f10$ segundos</font>. (Máximo de acumulaciones: 5)
-Skill_18201=aumenta la Defensa de los aliados en un radio de <font color='#FED700'>20m</font> en <font color='#FE6D03'>$eff:18201001:a:i$%</font>.
+Skill_18201=Aumenta la Defensa de los aliados en un radio de <font color='#FED700'>20m</font> en <font color='#FE6D03'>$eff:18201001:a:i$%</font>.
 Skill_18301=
-Skill_18401=aumenta la Recuperación de HP en <font color='#FE6D03'>$eff:18401000:a:i$%</font> y el HP Máx. en <font color='#FE6D03'>$eff:18401001:a:i$%</font>.
+Skill_18401=Aumenta la Recuperación de HP en <font color='#FE6D03'>$eff:18401000:a:i$%</font> y el HP Máx. en <font color='#FE6D03'>$eff:18401001:a:i$%</font>.
 Skill_18501=Los ataques tienen una probabilidad del <font color='#FED700'>10%</font> de aumentar el ataque en <font color='#FE6D03'>$eff:18501000:a:i$%</font> durante <font color='#FED700'>$eff:18501000:dur:f10$ segundos</font>.
-Skill_18701=aumenta la Tasa de Bloqueo con Escudo en <font color='#FE6D03'>$eff:18701000:a:i$10%</font>. Los Bloqueos exitosos crean una barrera que absorbe un daño equivalente al <font color='#FE6D03'>$eff:18702000:d:i$%</font> de tu HP Máx.<br>(Tiempo de reutilización del efecto: 10 seg)
+Skill_18701=Aumenta la Tasa de Bloqueo con Escudo en <font color='#FE6D03'>$eff:18701000:a:i$10%</font>. Los Bloqueos exitosos crean una barrera que absorbe un daño equivalente al <font color='#FE6D03'>$eff:18702000:d:i$%</font> de tu HP Máx.<br>(Tiempo de reutilización del efecto: 10 seg)
 Skill_18801=Restaura <font color='#FE6D03'>$eff:18801001:a:i$%</font> de tu HP Máx. cada <font color='#FED700'>$eff:18801000:interval:f10$ segundos</font> durante <font color='#FED700'>$eff:18801000:dur:f10$ segundos</font> cuando tu HP cae por debajo del <font color='#FE6D03'>30%</font>.
-Skill_18901=aumenta la generación de Aggro en <font color='#FE6D03'>$eff:18901000:a:i$%</font>.
+Skill_18901=Aumenta la generación de Aggro en <font color='#FE6D03'>$eff:18901000:a:i$%</font>.
 Skill_20001=Balancea un arma contra los enemigos.<br><br><font color='#FFF59B'>Tu personaje usará sus puños si no tiene un arma equipada.</font>
 Skill_20101=Corta rápidamente a un objetivo, infligiendo daño equivalente al <font color='#FE6D03'>$eff:20101000:a:i$%</font> del ataque. Usar esta habilidad de manera consecutiva inflige daño en área horizontal equivalente al <font color='#FE6D03'>$eff:20102000:a:i$%</font>.<br><br><font color='#FFF59B'>(Especialización en Espadas)<br>Tu arma restaura $eff:27101000:a:f$% del HP Máx. con golpes exitosos.</font>
 Skill_20102=
@@ -4483,11 +4483,11 @@ Skill_25701=Te hace entrar en un estado de frenesí y te envuelve en fuego, aume
 Skill_25801=Balancea la espada alrededor para infligir daño equivalente al <font color='#FE6D03'>$eff:25801001:a:i$%</font> del ataque cada <font color='#FED700'>$eff:25801000:interval:f10$ segundos</font> durante <font color='#FED700'>$eff:25801000:dur:f10$ segundos</font>. Otorga invencibilidad mientras gira. Se genera un ciclón en el punto donde se balancea la espada para infligir daño equivalente al <font color='#FE6D03'>$eff:25801003:a:i$%</font> del ataque cada <font color='#FED700'>$eff:25801002:interval:f10$ segundos</font> durante <font color='#FED700'>$eff:25801002:dur:f10$ segundos</font>.
 Skill_25901=Reduce el tiempo de reutilización de Carga y ataque en Salto en <font color='#FE6D03'>$eff:25901000:a:i$%</font> durante <font color='#FED700'>$eff:25901000:dur:f10$ segundos</font>.
 Skill_28001=
-Skill_28101=aumenta el ataque en <font color='#FE6D03'>$eff:28101000:a:i$%</font> cuando el HP está en <font color='#FE6D03'>50%</font> o menos.
-Skill_28201=aumenta el ataque en <font color='#FE6D03'>$eff:28201000:a:i$%</font> si hay 5 o más enemigos dentro de un radio de <font color='#FED700'>10m</font>.
+Skill_28101=Aumenta el ataque en <font color='#FE6D03'>$eff:28101000:a:i$%</font> cuando el HP está en <font color='#FE6D03'>50%</font> o menos.
+Skill_28201=Aumenta el ataque en <font color='#FE6D03'>$eff:28201000:a:i$%</font> si hay 5 o más enemigos dentro de un radio de <font color='#FED700'>10m</font>.
 Skill_28301=
 Skill_28401=Las habilidades de arma aumentan el ataque en <font color='#FE6D03'>$eff:28401000:a:i$%</font> cada vez que golpean. (Máx. acumulaciones: 10)
-Skill_28501=aumenta la Tasa de Evasión en <font color='#FE6D03'>$eff:28501000:a:i$%</font> y el Máx. HP en <font color='#FE6D03'>$eff:28501001:a:i$%</font>.
+Skill_28501=Aumenta la Tasa de Evasión en <font color='#FE6D03'>$eff:28501000:a:i$%</font> y el Máx. HP en <font color='#FE6D03'>$eff:28501001:a:i$%</font>.
 Skill_28601=Reduce todo el daño en <font color='#FE6D03'>$eff:28601000:a:i$%</font> durante <font color='#FED700'>$eff:28601000:dur:f10$ segundos</font> cuando recibes Daño Crítico.
 Skill_28701=Todos los ataques tienen un <font color='#FE6D03'>100%</font> de probabilidad de infligir Daño Crítico una vez cada <font color='#FED700'>15 segundos</font>.
 Skill_28801=ataque en Salto y Carga aumentan la velocidad de movimiento en <font color='#FE6D03'>$eff:28801000:a:i$%</font> durante <font color='#FED700'>$eff:28801000:dur:f10$ segundos</font>.
@@ -4544,11 +4544,11 @@ Skill_35605=
 Skill_35700=Lanza una ráfaga de energía natural a los enemigos frente a ti, infligiendo daño equivalente al <font color='#FE6D03'>$eff:35700001:a:i$%</font> del ataque. Esta energía explota, infligiendo daño adicional equivalente al <font color='#FE6D03'>$eff:35700003:a:i$%</font> del ataque. Restaura HP equivalente al <font color='#FE6D04'>$eff:35700004:a:i$%</font> del daño infligido.
 Skill_35801=Refuerza tu arma, aumentando su ataque en <font color='#FE6D03'>$eff:35801000:a:i$%</font> y la Recuperación de MP en <font color='#FE6D03'>$eff:35801002:a:i$%</font> durante <font color='#FED700'>$eff:35801000:dur:f10$ segundos</font>.
 Skill_35901=Te permite colocar dos trampas en paralelo y dar un paso atrás. Las trampas generan un campo magnético entre ellas y avanzan, atacando a los objetivos en su camino con un daño equivalente al <font color='#FE6D03'>$eff:35901001:a:i$%</font> del ataque y aturdiéndolos durante <font color='#FED700'>$eff:35901002:dur:f10$ segundos</font> cada <font color='#FED700'>$eff:35901000:interval:f10$ segundos</font>.
-Skill_38001=aumenta la velocidad de movimiento en <font color='#FE6D03'>$eff:38001000:a:i$%</font>.
+Skill_38001=Aumenta la velocidad de movimiento en <font color='#FE6D03'>$eff:38001000:a:i$%</font>.
 Skill_38002=
 Skill_38101=Cuando tu HP está al <font color='#FED700'>90%</font> o más, la energía de la tierra te rodea, aumentando la Penetración de Defensa en <font color='#FE6D03'>5%</font>.
-Skill_38201=aumenta el ataque en <font color='#FE6D03'>$eff:38201000:a:i$%</font>.
-Skill_38301=aumenta tu Tasa de crítico en <font color='#FE6D03'>$eff:38301000:a:i$%</font> cuando el HP de tu objetivo es <font color='#FE6D03'>20%</font> o menos.
+Skill_38201=Aumenta el ataque en <font color='#FE6D03'>$eff:38201000:a:i$%</font>.
+Skill_38301=Aumenta tu Tasa de crítico en <font color='#FE6D03'>$eff:38301000:a:i$%</font> cuando el HP de tu objetivo es <font color='#FE6D03'>20%</font> o menos.
 Skill_38401=Cuando la habilidad se lanza o tiene éxito <font color='#FED700'>10</font> veces, la Recuperación de MP aumenta en <font color='#FE6D03'>$eff:38401000:a:i$%</font> durante <font color='#FED700'>$eff:38401000:dur:f10$ segundos</font>.
 Skill_38501=Las habilidades de arma aumentan la Velocidad de ataque en <font color='#FE6D03'>$eff:38501000:a:i$%</font> al impactar. (Acumulación Máxima: 10)
 Skill_38601=Lanza un escudo cuando no estás en combate para bloquear un ataque enemigo una vez.
@@ -4607,14 +4607,14 @@ Skill_45801=Invoca un torbellino helado frente a ti. Una pared de hielo aparece 
 Skill_45901=Deja caer una espada helada en un punto determinado, infligiendo daño de Frío en el tiempo a los enemigos cercanos con un daño equivalente al <font color='#FE6D03'>$eff:45901001:a:i$%</font> del ataque cada <font color='#FED700'>$eff:45901000:interval:f10$ segundos</font> durante <font color='#FED700'>$eff:45901000:dur:f10$ segundos</font>. Luego, la espada explota, congelando a los enemigos durante <font color='#FED700'>$eff:45901004:dur:f10$ segundos</font> e infligiendo daño equivalente al <font color='#FE6D03'>$eff:45901005:a:i$%</font> del ataque.<br><br><font color='#FFF59B'>50% de Daño adicional a enemigos congelados.</font>
 Skill_48001=
 Skill_48101=Cada <font color='#FED700'>décima</font> habilidad lanzada inflige Daño adicional equivalente al <font color='#FE6D03'>$eff:48101000:a:i$%</font> del ataque.
-Skill_48201=aumenta la Penetración de Defensa en un <font color='#FE6D03'>$eff:48201000:a:i$%</font>.
+Skill_48201=Aumenta la Penetración de Defensa en un <font color='#FE6D03'>$eff:48201000:a:i$%</font>.
 Skill_48301=Reduce el costo de MP de las habilidades en un <font color='#FE6D03'>$eff:48301000:a:i$%</font>.
 Skill_48401=Reduce la Defensa de los enemigos en un <font color='#FE6D03'>$eff:48401001:a:i$%</font> dentro de un rango de <font color='#FED700'>20m</font>.
 Skill_48501=
-Skill_48601=aumenta el HP Máximo en <font color='#FE6D03'>$eff:48601000:a:i$%</font> y la Defensa en <font color='#FE6D03'>$eff:48601001:a:i$%</font>.
+Skill_48601=Aumenta el HP Máximo en <font color='#FE6D03'>$eff:48601000:a:i$%</font> y la Defensa en <font color='#FE6D03'>$eff:48601001:a:i$%</font>.
 Skill_48701=Todas las habilidades aumentan tu ataque en un <font color='#FE6D03'>5%</font> de tu Inteligencia y un <font color='#FE6D03'>3%</font> de tu Destreza.
 Skill_48801=Reduce todos los tiempos de reutilización de habilidades en un <font color='#FE6D03'>$eff:48801000:a:i$%</font>.
-Skill_48901=aumenta el ataque del Arma en un <font color='#FE6D03'>$eff:48901001:a:i$%</font> por cada enemigo dentro de <font color='#FED700'>6m</font>. (Máximo de acumulaciones: 3)
+Skill_48901=Aumenta el ataque del Arma en un <font color='#FE6D03'>$eff:48901001:a:i$%</font> por cada enemigo dentro de <font color='#FED700'>6m</font>. (Máximo de acumulaciones: 3)
 Skill_50001=Blande un arma contra los enemigos. <br><br><font color='#FFF59B'>Tu personaje usará sus puños si no tiene un arma equipada.</font>
 Skill_50101=Lanza un chakram de giro rápido, infligiendo daño equivalente al <font color='#FE6D03'>$eff:50101000:a:i$%</font> del ataque. El chakram inflige <font color='#FE6D03'>$eff:50101000:a:i$%</font> de Daño adicional en su camino de regreso. <br><br><font color='#FFF59B'>(Especialización en Chakram)<br>Reduce la Defensa del objetivo en un 10% durante 5 segundos.</font>
 Skill_50201=Dispara un chakram rebotante que inflige daño equivalente al <font color='#FE6D03'>$eff:50201000:a:i$%</font> del ataque y rebota entre los enemigos cercanos hasta <font color='#FED700'>5 veces</font>, infligiendo más daño. <br><br><font color='#FFF59B'>(Especialización en Chakram)<br>Reduce la Defensa del objetivo en un 10% durante 5 segundos.</font>
@@ -4649,9 +4649,9 @@ Skill_55501=Crea una barrera que recupera el HP tuyo y de tus aliados dentro de 
 Skill_55601=Libera la energía de la esperanza, atacando a los enemigos cercanos con un <font color='#FE6D03'>$eff:55601000:a:i$%</font> del ataque y aturdiéndolos durante <font color='#FED700'>$eff:55601001:dur:f10$ segundos</font>. Los enemigos dañados sufren una reducción del <font color='#FE6D03'>$eff:55601002:a:i$%</font> en su MP.
 Skill_56101=Restaura <font color='#FE6D03'>$eff:56101000:a:i$%</font> del HP Máximo con cada muerte por golpe crítico.
 Skill_56201=Inflige un <font color='#FE6D03'>30%</font> de Daño adicional a enemigos con un <font color='#FE6D03'>30%</font> o menos de HP restante.
-Skill_56301=aumenta la Velocidad de ataque y Movimiento en <font color='#FE6D03'>$eff:56301000:a:i$%</font> mientras tengas un <font color='#FE6D03'>80%</font> o más de HP.
-Skill_56401=aumenta la Recuperación de MP por Segundo en <font color='#FE6D03'>$eff:56401000:a:i$%</font>.
-Skill_56501=aumenta la duración de los beneficios en un <font color='#FE6D03'>$eff:56501000:a:i$%</font> para todas tus habilidades de Barrera.
+Skill_56301=Aumenta la Velocidad de ataque y Movimiento en <font color='#FE6D03'>$eff:56301000:a:i$%</font> mientras tengas un <font color='#FE6D03'>80%</font> o más de HP.
+Skill_56401=Aumenta la Recuperación de MP por Segundo en <font color='#FE6D03'>$eff:56401000:a:i$%</font>.
+Skill_56501=Aumenta la duración de los beneficios en un <font color='#FE6D03'>$eff:56501000:a:i$%</font> para todas tus habilidades de Barrera.
 Skill_56601=Reduce el tiempo de reutilización en <font color='#FED700'>1 segundo</font> para todas tus habilidades de Barrera.
 Skill_60001=Balancea un arma contra los enemigos.<br><br><font color='#FFF59B'>Tu personaje usará sus puños si no está equipado con un arma.</font>
 Skill_60101=Dispara balas de maná condensado hacia adelante para atacar. Estas explotan e infligen daño a los enemigos cercanos equivalente al <font color='#FE6D03'>$eff:60101000:a:i$%</font> del ataque. <br><br><font color='#FFF59B'>(Especialización en Bastón)<br>Las habilidades de Arma/Clase/Experto que golpean con éxito en secuencia dejan Marca Corrosiva - Nivel 1/2/3 en los objetivos.<br>Los objetivos sufren un 7/10/15% de Daño adicional según el nivel de la Marca.</font>
@@ -4682,9 +4682,9 @@ Skill_65501=Consume todas las <font color='#FE6D03'>Esencias</font> en posesión
 Skill_65601=Invoca una Guadaña de la Muerte para restablecer inmediatamente los tiempos de reutilización de todas las habilidades equipadas y otorga <font color='#FED700'>4</font> <font color='#FE6D03'>Esencias</font> cada <font color='#FED700'>$eff:65601000:interval:f10$ segundos</font> durante <font color='#FED700'>$eff:65601000:dur:f10$ segundos</font>.
 Skill_66101=Libera energía letal, reduciendo el ataque y la Defensa de los enemigos dentro de un radio de <font color='#FED700'>20m</font> en <font color='#FE6D03'>$eff:66101001:a:i$%</font>.
 Skill_66201=Si los HP están por debajo del <font color='#FE6D03'>50%</font>, restaura HP en un <font color='#FE6D03'>1%</font> del daño recibido.
-Skill_66301=aumenta la Penetración de Defensa en <font color='#FE6D03'>3%</font>.
+Skill_66301=Aumenta la Penetración de Defensa en <font color='#FE6D03'>3%</font>.
 Skill_66401=Si queda menos del <font color='#FE6D03'>50%</font> de MP, aumenta el ataque en <font color='#FE6D03'>10%</font>.
-Skill_66501=aumenta el ataque en <font color='#FE6D03'>2%</font> durante <font color='#FED700'>10 segundos</font> por cada enemigo derrotado. (Máximo de acumulaciones: 5)
+Skill_66501=Aumenta el ataque en <font color='#FE6D03'>2%</font> durante <font color='#FED700'>10 segundos</font> por cada enemigo derrotado. (Máximo de acumulaciones: 5)
 Skill_66601=Genera <font color='#FED700'>1</font> Esencia cada <font color='#FED700'>30 segundos</font>.
 Skill_830101=
 Skill_830201=
@@ -5716,16 +5716,16 @@ Skill_12001002=Quema temporalmente al objetivo, infligiendo daño continuo.
 Skill_12104000=Reduce la velocidad de movimiento del objetivo.
 Skill_12301001=Reduce la velocidad de movimiento del objetivo.
 Skill_12401001=Provoca y obliga al objetivo a atacarte.
-Skill_12401003=aumenta temporalmente la defensa.
+Skill_12401003=Aumenta temporalmente la defensa.
 Skill_12701001=Congela temporalmente al objetivo. El objetivo no puede realizar ninguna acción y es inmune a los ataques enemigos.
 Skill_14101002=Acelera la velocidad de movimiento del objetivo.
 Skill_14102001=Impide temporalmente que el objetivo use habilidades.
-Skill_14501000=aumenta la defensa.
+Skill_14501000=Aumenta la defensa.
 Skill_14501002=El objetivo es presa del miedo y queda inmovilizado. Este efecto no puede ser cancelado incluso si el objetivo es atacado.
-Skill_15001001=aumenta la defensa.
+Skill_15001001=Aumenta la defensa.
 Skill_15501002=Reduce la velocidad de movimiento del objetivo.
 Skill_18101000=Las habilidades del arma principal reducen la defensa del objetivo.
-Skill_18501000=aumenta el daño máximo.
+Skill_18501000=Aumenta el daño máximo.
 Skill_20301004=El próximo ataque golpea con un 200% de ataque.
 Skill_22101001=Impide temporalmente que el objetivo use habilidades.
 Skill_22201002=Aturde e inmoviliza al objetivo. Este efecto no puede ser cancelado incluso si el objetivo es atacado.
@@ -5738,7 +5738,7 @@ Skill_25001000=Te hace entrar en estado de furia y mejora varias habilidades.
 Skill_25103001=El objetivo es presa del miedo y queda inmovilizado. Este efecto no puede ser cancelado incluso si el objetivo es atacado.
 Skill_25401001=Lanza al objetivo por los aires, inmovilizándolo temporalmente.
 Skill_25501000=Te hace entrar temporalmente en estado de furia y aumenta significativamente la recuperación de HP/MP.
-Skill_28401000=aumenta tu velocidad de ataque cada vez que golpeas un objetivo con una habilidad del arma principal.
+Skill_28401000=Aumenta tu velocidad de ataque cada vez que golpeas un objetivo con una habilidad del arma principal.
 Skill_30101000=Envenena temporalmente al objetivo, infligiendo daño continuo.
 Skill_31201002=Quema temporalmente al objetivo, infligiendo daño continuo.
 Skill_32101001=Reduce la velocidad de movimiento del objetivo.
@@ -5748,13 +5748,13 @@ Skill_32501001=Reduce temporalmente la precisión de las habilidades del arma de
 Skill_32701001=Se ha plantado una bomba. Explodirá cuando el temporizador llegue a cero.
 Skill_32801001=Reduce la velocidad de movimiento del objetivo.
 Skill_32901001=Enfurece al objetivo, aumentando su ataque.
-Skill_33001000=aumenta la velocidad de movimiento del objetivo.
+Skill_33001000=Aumenta la velocidad de movimiento del objetivo.
 Skill_33201000=Te oculta temporalmente.
-Skill_33201001=aumenta el daño infligido a todos los tipos de monstruos.
-Skill_33201002=aumenta la velocidad de ataque del objetivo.
-Skill_33101001=aumenta la velocidad de movimiento del objetivo.
+Skill_33201001=Aumenta el daño infligido a todos los tipos de monstruos.
+Skill_33201002=Aumenta la velocidad de ataque del objetivo.
+Skill_33101001=Aumenta la velocidad de movimiento del objetivo.
 Skill_35001001=Impide temporalmente que el objetivo se mueva.
-Skill_38001000=aumenta la velocidad de movimiento cuando tu HP es <font color='#FE6D03'>70</font>% o más.
+Skill_38001000=Aumenta la velocidad de movimiento cuando tu HP es <font color='#FE6D03'>70</font>% o más.
 Skill_40301001=Reduce la velocidad de movimiento del objetivo.
 Skill_41004001=Impide temporalmente que el objetivo se mueva.
 Skill_42001001=Quema temporalmente al objetivo, infligiendo daño continuo.
@@ -5767,7 +5767,7 @@ Skill_42601003=Envenena temporalmente al objetivo, infligiendo daño continuo.
 Skill_42702001=Impide temporalmente que el objetivo se mueva.
 Skill_42901001=Reduce la velocidad de movimiento del objetivo.
 Skill_43201000=Crea un escudo para absorber el daño entrante.
-Skill_45001000=aumenta el ataque.
+Skill_45001000=Aumenta el ataque.
 Skill_45001004=Ignora una parte de la defensa del objetivo.
 Skill_45101000=Te hace invencible e inmune a todo el daño.
 Skill_45101003=Reduce la velocidad de movimiento del objetivo.
@@ -7707,58 +7707,58 @@ Skill_1980007=
 Skill_1980010=
 Skill_1980020=
 Skill_5300=Reduce la duración de los debuffs de Defensa causados por los ataques de Monstruos de élite.
-Skill_5310=aumenta la ganancia de Agro al atacar.
-Skill_5320=aumenta la resistencia a la Penetración.
-Skill_5330=aumenta el ataque contra Monstruos de élite y Jefes.
-Skill_5340=aumenta el ataque contra monstruos normales.
-Skill_5350=aumenta la Velocidad de ataque.
-Skill_5360=aumenta la Precisión.
-Skill_5370=aumenta la tasa de Crecimiento de mascota.
+Skill_5310=Aumenta la ganancia de Agro al atacar.
+Skill_5320=Aumenta la resistencia a la Penetración.
+Skill_5330=Aumenta el ataque contra Monstruos de élite y Jefes.
+Skill_5340=Aumenta el ataque contra monstruos normales.
+Skill_5350=Aumenta la Velocidad de ataque.
+Skill_5360=Aumenta la Precisión.
+Skill_5370=Aumenta la tasa de Crecimiento de mascota.
 Skill_5380=Reduce los tiempos de recarga de todas las habilidades de Talismán.
-Skill_5390=aumenta las estadísticas de los trajes.
-Skill_5400=aumenta la velocidad de movimiento de tu montura.
+Skill_5390=Aumenta las estadísticas de los trajes.
+Skill_5400=Aumenta la velocidad de movimiento de tu montura.
 Skill_5410=Reduce el daño final recibido.
 Skill_5420=Reduce el daño recibido de Monstruos de élite y Jefes.
-Skill_5430=aumenta la Reducción de Daño contra enemigos humanoides.
-Skill_5440=aumenta el ataque contra objetivos a distancia.
-Skill_5450=aumenta el ataque contra objetivos cuerpo a cuerpo.
-Skill_5460=aumenta la probabilidad de ignorar la Defensa del objetivo.
-Skill_5183=aumenta el efecto de la Resistencia en un 6%.
+Skill_5430=Aumenta la Reducción de Daño contra enemigos humanoides.
+Skill_5440=Aumenta el ataque contra objetivos a distancia.
+Skill_5450=Aumenta el ataque contra objetivos cuerpo a cuerpo.
+Skill_5460=Aumenta la probabilidad de ignorar la Defensa del objetivo.
+Skill_5183=Aumenta el efecto de la Resistencia en un 6%.
 Skill_5184=Posee la oportunidad de eliminar la Corrosión.
-Skill_5185=aumenta la Tasa de Bloqueo de Escudo en un 8%.
-Skill_5186=aumenta la Tasa de Bloqueo de Escudo en un 10%.
-Skill_5187=aumenta la ganancia de Agro al atacar en un 2%.
-Skill_5188=aumenta la Precisión en un 10%.
-Skill_5189=aumenta la Precisión en un 5%.
+Skill_5185=Aumenta la Tasa de Bloqueo de Escudo en un 8%.
+Skill_5186=Aumenta la Tasa de Bloqueo de Escudo en un 10%.
+Skill_5187=Aumenta la ganancia de Agro al atacar en un 2%.
+Skill_5188=Aumenta la Precisión en un 10%.
+Skill_5189=Aumenta la Precisión en un 5%.
 Skill_5190=Posee la oportunidad de aumentar el ataque contra Monstruos de élite y Jefes en un 10% durante 3 segundos.
-Skill_5191=aumenta el ataque contra Monstruos de élite y Jefes en un 30% durante 3 segundos cuando la HP esté por debajo del 30%.
+Skill_5191=Aumenta el ataque contra Monstruos de élite y Jefes en un 30% durante 3 segundos cuando la HP esté por debajo del 30%.
 Skill_5192=Posee la oportunidad de aumentar el ataque contra monstruos normales en un 10% durante 3 segundos.
-Skill_5193=aumenta el ataque contra monstruos normales en un 60% durante 3 segundos cuando la HP esté por debajo del 30%.
-Skill_5194=aumenta la Velocidad de ataque en un 3%.
+Skill_5193=Aumenta el ataque contra monstruos normales en un 60% durante 3 segundos cuando la HP esté por debajo del 30%.
+Skill_5194=Aumenta la Velocidad de ataque en un 3%.
 Skill_5195=Posee la oportunidad de duplicar la Velocidad de ataque durante 3 segundos.
-Skill_5196=aumenta la Precisión en un 2%.
-Skill_5197=aumenta la ganancia de EXP de mascota en un 20%.
+Skill_5196=Aumenta la Precisión en un 2%.
+Skill_5197=Aumenta la ganancia de EXP de mascota en un 20%.
 Skill_5198=Reduce los tiempos de recarga de todas las habilidades de Talismán en un 2%.
-Skill_5199=aumenta las estadísticas de los trajes en un 4%.
+Skill_5199=Aumenta las estadísticas de los trajes en un 4%.
 Skill_5200=Acelera la invocación de la montura en un 30%.
 Skill_5201=Reduce el daño final recibido en un 2%.
 Skill_5202=Posee la oportunidad de reducir el daño final recibido en un 10% durante 3 segundos.
 Skill_5203=Reduce el daño recibido de Monstruos de élite y Jefes en un 2%.
-Skill_5204=aumenta la Precisión en un 5%.
-Skill_5205=aumenta la Reducción de Daño contra enemigos humanoides en un 2%.
-Skill_5206=aumenta la Reducción de Daño contra enemigos humanoides en un 10% durante 5 segundos cuando la HP esté por debajo del 30%.
+Skill_5204=Aumenta la Precisión en un 5%.
+Skill_5205=Aumenta la Reducción de Daño contra enemigos humanoides en un 2%.
+Skill_5206=Aumenta la Reducción de Daño contra enemigos humanoides en un 10% durante 5 segundos cuando la HP esté por debajo del 30%.
 Skill_5207=Restaura el HP de los aliados dentro del rango en un 3% por minuto.
-Skill_5208=aumenta el ataque contra objetivos a distancia en un 3%.
+Skill_5208=Aumenta el ataque contra objetivos a distancia en un 3%.
 Skill_5209=Atacar a objetivos a distancia tiene una oportunidad de restaurar todo el MP.
-Skill_5210=aumenta el ataque contra objetivos cuerpo a cuerpo en un 3%.
+Skill_5210=Aumenta el ataque contra objetivos cuerpo a cuerpo en un 3%.
 Skill_5211=Atacar a objetivos cuerpo a cuerpo tiene una oportunidad de aumentar la Recuperación de MP por segundo en un 200%.
-Skill_5212=aumenta la tasa de Daño Verdadero en un 1.5%.
+Skill_5212=Aumenta la tasa de Daño Verdadero en un 1.5%.
 Skill_5213=Posee la oportunidad de aumentar la tasa de Daño Verdadero en un 2%.
 Skill_5214=Restaura el HP cada vez que matas a un monstruo.
 Skill_92061=Otorga puntos de habilidad de Talismán.
 Skill_92062=Extiende el límite de tiempo en la siguiente etapa.
-Skill_92063=aumenta significativamente el ataque. Este efecto solo se aplica hasta la siguiente etapa.
-Skill_92064=aumenta significativamente la Defensa. Este efecto solo se aplica hasta la siguiente etapa.
+Skill_92063=Aumenta significativamente el ataque. Este efecto solo se aplica hasta la siguiente etapa.
+Skill_92064=Aumenta significativamente la Defensa. Este efecto solo se aplica hasta la siguiente etapa.
 Skill_911200=Corta con una cadena de maza de fuego hacia adelante y causa <font color='#FE6D03'>$eff:12001000:a:i$%</font> de ataque como daño en área. El lugar tocado por la cadena se incendia temporalmente y causa <font color='#FE6D03'>$eff:12001002:a:i$%</font> de ataque como daño por tiempo cada <font color='#FED700'>$eff:12001001:interval:f10$ segundos</font> durante <font color='#FED700'>$eff:12001001:dur:f10$ segundos</font>. Cuando se usa la habilidad, la velocidad de ataque aumenta en <font color='#FE6D03'>$eff:12001003:a:i$%</font> (hasta 3 pilas) durante <font color='#FED700'>$eff:12001003:dur:f10$ segundos</font>.<br><br><font color='#FFF59B'>Cuando se activa la habilidad, causa un daño adicional del 10% por cada enemigo en el rango.<br>(Hasta 200% de daño adicional)
 Skill_911210=Vierte garras de hielo en todas las direcciones y causa <font color='#FE6D03'>$eff:911210001:a:i$%</font> de ataque como daño en área a todos los objetivos cercanos y aumenta la hostilidad en <font color='#FE6D03'>$eff:911210003:a:i$%</font>. Los enemigos que recibieron daño quedan congelados durante <font color='#FED700'>$eff:911210002:dur:f10$ segundos</font> y la velocidad de movimiento disminuye en <font color='#FE6D03'>$eff:911210004:a:i$%</font> durante <font color='#FED700'>$eff:911210004:dur:f10$ segundos</font>.<br><br><font color='#FFF59B'>Cuando se usa un mazo de dos manos, el daño en área aumenta en un <font color='#FE6D03'>200%</font>, pero la hostilidad no aumenta.
 Skill_911220=Desbloquea la furia y causa <font color='#FE6D03'>1820%</font> de daño en área.<br><br><font color='#FFF59B'>Cuando se equipa con cetro y escudo, la Defensa aumenta en un 40% durante 12 segundos.</font><br><font color='#FFF59B'>Cuando se equipa con un mazo de dos manos, el ataque aumenta en un 40% durante 12 segundos.</font>
