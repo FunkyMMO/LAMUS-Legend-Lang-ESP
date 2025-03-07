@@ -2523,8 +2523,8 @@ Integral=<font color='#fc7711'>Cupón de puntos</font><br>Cuando obtienes Red Ze
 RegPeriodTooltip=Periodo durante el cual el Item está registrado en el bazar.<br>Estará listado en el bazar durante el periodo seleccionado.
 SellPriceTooltip=Seleccione su moneda de venta.
 RegPriceToolTip=Seleccione Zen, y un <font color='#fce711'>3%</font> de su pago será cargado como tasa de registro.<br>Puede seleccionar Redzen para evitar la tasa de registro.
-RegCountDesc=Productos vendidos para Redzen.
-RegRedZenToolTip=Productos vendidos para Redzen.
+RegCountDesc=Productos vendidos por Redzen.
+RegRedZenToolTip=Productos vendidos por Redzen.
 KnightsTrophy=<font color='#fbaf5d'>Trofeo del Guild</font><br>Moneda del Guild utilizada para el Torneo.
 LS_SendBtnTip=Enviar
 LS_WishBtnTip=Deseo,Puedes pedir un deseo consumiendo el Item «<font color=“#00ccff”>talismán Dados de la suerte</font>», que puede aumentar la probabilidad de obtener el amuleto correspondiente en un 5% (<font color='#00ff66'>24:00 gratis cada día</font>).
@@ -6313,40 +6313,40 @@ LS_DetailSearch=Filtros
 LS_Class=Clase
 LS_Grade=Grado
 LS_Level=Nivel
-LS_Zen=Dinero
+LS_Zen=Moneda
 LS_ItemName=Nombre
 LS_Search=Buscar
 LS_ReSearchBtn=Buscar
 LS_Category1st=1ª categoría
 LS_Category2nd=Segunda categoría
-LS_Enchant=Encantar
+LS_Enchant=Encantado
 LS_Option=Opciones
-LS_Ability=Valores de opción
+LS_Ability=Opciones
 LS_SellHistory=Historial de ventas completadas
-LS_TotalSell=Cantidad total vendida
+LS_TotalSell=Unidades total vendidas
 LS_BusinessProfits=Importe recibido
 LS_RecvBusinessProfits=Cobrar dinero
 LS_RegCancel=Cancelar registro
-LS_RegItem=Registrar items
+LS_RegItem=Vender
 LS_SellTabName=Nombre
 LS_SellTabPeriod=Período de venta
 LS_SellTabPrice=Precio
 LS_HistoryTabName=Nombre
-LS_HistoryTabCount=Cantidad
+LS_HistoryTabCount=Unidad
 LS_HistoryTabState=Tipo
 LS_HistoryTabTime=Fecha de operación
 LS_HistoryTabPrice=Precio
 LS_TradeSectionDesc=Puede consultar el historial de transacciones de hasta 30 días.
 LS_NoneHistory=No se han encontrado resultados de búsqueda.
-LS_PopUpRegItem=Registrar items
-LS_MYRegItemCount=Mis Items registrados
-LS_MyRegRedZenCount=Cuento de Redzen registrados
+LS_PopUpRegItem=Vender
+LS_MYRegItemCount=Items registrados
+LS_MyRegRedZenCount=Items con Redzen registrados
 LS_RegPeriod=Período de registro
 LS_SelectPrice=Precio
-LS_PriceOfOne=Precio unitario de venta
-LS_TotalPrice=Precio total de venta
-LS_RegPrice=Precio de registro
-LS_RegItemBtn=Registrar items
+LS_PriceOfOne=Precio unitario
+LS_TotalPrice=Precio total
+LS_RegPrice=Precio de venta
+LS_RegItemBtn=Vender
 LS_CompleteTrade=<font color='#c2ff4c'>Vendido</font>
 LS_BuyCompleteTrade=<font color='#c2ff4c'>Comprado</font>
 LS_Expire=Expirado
@@ -6403,9 +6403,9 @@ LS_GradeDD[6]=Antiguo
 LS_GradeDD[7]=Mítico
 LS_GradeDD[8]=Set
 LS_GradeDD[9]=Único
-LS_MarketPrice=Precio de mercado del items
-LS_MaxSellPrice=Precio máximo de venta por unidad
-LS_AveragePriceOfOne=Precio medio de venta por unidad
+LS_MarketPrice=Precio de mercado
+LS_MaxSellPrice=Precio máximo por unidad
+LS_AveragePriceOfOne=Precio medio por unidad
 LS_RecentSellPrice=Último precio de venta
 LS_RecvAllProfit=Obtener todo
 
