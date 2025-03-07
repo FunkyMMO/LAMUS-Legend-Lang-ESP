@@ -257,7 +257,7 @@ EnterCountQuest=No hay suficiente número de entradas. ¿Mover, de todos modos?
 EvolutionWing=La evolución de las alas consume materiales automáticamente. ¿Continuar?
 ResetSoulPassiveSkill=¿Restablecer el Cofre del Alma a su estado original?
 InvalidPosition=Lugar de viaje del mapa no es válido. ¿Mover a una zona segura?
-OpenDungeonEnter=Entrar en el mapa de misión y esperar a otros jugadores aleatorios durante 40 segundos. Puedes continuar con el mapa de misión sin un grupo.
+OpenDungeonEnter=Entrar en el evento y esperar a otros jugadores aleatorios durante 40 segundos. Puedes continuar con el evento sin un grupo.
 OpenExitDungeon=¿Salir de la Dungeon?
 ChangeAppearance=Usa %s_1 como material para cambiar la apariencia de <br>%s_2?<br><br>Aplicable apariencia: %s_3<br><font color='#FF0000'>[El ítem material será destruido.]</font>
 RemoveChangeAppearance=¿Quitar la apariencia aplicada a %s_1<br>y restaurarla a su apariencia original?

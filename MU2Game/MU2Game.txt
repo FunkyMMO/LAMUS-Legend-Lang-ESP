@@ -6,7 +6,7 @@
 
 [MU2GFxAchievementView] Logros
 
-[MU2GfxMissionMap] Mapa de misiones
+[MU2GfxMissionMap] Eventos
 
 [MU2GfxAdvDungeonInfo] Sociedad de investigación de Rift
 
@@ -56,7 +56,7 @@
 
 [LevelGuide] Nombres dungeon Menú
 
-[MissionMap] Mapa de misiones
+[MissionMap] Eventos
 
 [RankSystem] Clasificación
 
