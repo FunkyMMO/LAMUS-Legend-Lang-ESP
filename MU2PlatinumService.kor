@@ -6,7 +6,7 @@ OX_O=O
 OX_X=-
 
 [PlatinumService]
-Service_101=1 LAMUS VIP Chest
+Service_101=1 LAMUS VIP Chest cada 24 horas
 Service_102=Pestaña adicional de Inventario +1
 Service_103=Emoticonos adicionales
 Service_104=Teletransporte remoto <font color='#37C7DF'>(F2)</font>
@@ -18,6 +18,7 @@ Service_109=Buzón remoto <font color='#37C7DF'>(F7)</font>
 Service_110=Slots adicionales de bazar por Zen +10
 Service_111=Tarifas del bazar reducidas un 1%.
 Service_112=Publicar en bazar por 72 horas
+Service_113=Recompensas por tiempo de juego
 Service_201=1 LAMUS VIP Chest cada 24 horas
 Service_202=2 ranuras de inventario adicionales
 Service_203=Emoticonos adicionales
@@ -72,6 +73,7 @@ Service_1013=1 Ranura de Alquimia adicional
 Service_1014=Entradas a AI arena +2
 Service_1015=Slots adicionales de bazar por Redzen +5
 Service_1016=Tarifas del bazar reducidas un 5%.
+Service_1017=Recompensas por tiempo de juego
 
 [PlatinumServiceBenefit]
 Service_1=Gemas Mágicas gratis cada día
