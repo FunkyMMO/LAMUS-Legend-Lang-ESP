@@ -1832,9 +1832,9 @@ LS_btnClose=Cerrar (Espacio)
 LS_btnRandSelect=Al azar<br>(Espacio)
 
 [MU2GfxManufacture]
-LS_TitleString=Fabricación
+LS_TitleString=Artesano
 LS_NecessaryMaterialString=Requerido
-LS_ManufactureCntString=Cantidad de fabricación
+LS_ManufactureCntString=Cantidad de Items a fabricar:
 LS_TotalManufactureViewString=Ver todo
 LS_EnableManufactureViewString=Ver elementos factibles
 LS_ManufactureBtnString=Coste de fabricación
@@ -1868,8 +1868,8 @@ LS_NeedMaterial=Materiales insuficientes
 LS_NeedZen=Monedas insuficientes
 LS_NeedActiveCondition=Nivel insuficiente
 LS_NotFindMsn=No se ha podido identificar el items. Por favor, cambie su opción de filtrado.
-LS_OneCost=Coste de elaboración:
-LS_TotalCost=Coste total de elaboración:
+LS_OneCost=Coste por unidad:
+LS_TotalCost=Coste total:
 LS_HaveMoney=Balance:
 
 [MU2NPCDialogInfo]
@@ -6155,7 +6155,7 @@ LS_BrannewArtifactDesc=Los nuevos artefactos estarán disponibles a través del 
 LS_NoneBrannewArtifactTitle=¡Se puede sentir el poder del nuevo Artefacto!
 LS_NoneBrannewArtifactDesc=El mundo forja héroes.<br>El destino te pondrá en el yunque de las pruebas y te golpeará con el martillo del sufrimiento. Los que no cedan brillarán al calor, volviéndose más fuertes y afilados. Tu determinación decidirá si serás chatarra o una espada legendaria.<br>Resiste. Desafía. Seremos recordados como los que lucharon por la luz eterna.
 LS_ArtifactPeriodInfo=- Duración del evento: 11 de junio - 9 de julio<br>- También puedes fabricar los artefactos en el juego una vez finalizado el evento.
-LS_ToolTipText=Solo podrás adquirir los nuevos artefactos a través del evento y de la Tienda LAMUS durante el periodo de venta limitada.<br>Después de este periodo, los nuevos artefactos estarán disponibles para su elaboración como cualquier otro artefacto del juego.
+LS_ToolTipText=Solo podrás adquirir los nuevos artefactos a través del evento y de la Tienda LAMUS durante el periodo de venta limitada.<br>Después de este periodo, los nuevos artefactos estarán disponibles para su fabricación como cualquier otro artefacto del juego.
 LS_LegendShopBtn=Tienda LAMUS
 
 [MU2GFxMessageBoxArtifactAlchemy]
@@ -8460,7 +8460,7 @@ LS_InitStep3[6]=OK
 LS_InitStep3[7]=Cerrar
 LS_InitStep3_4[0]=Comprobar datos de compensación
 LS_InitStep3_4[1]=En curso
-LS_InitStep3_4[2]=Revisando los detalles de compensación del Ticket de Elaboración de Talismanes...<br>Para asegurar una revisión más fluida, las acciones de tu personaje se han desactivado por el momento.<br>Por favor, no cierres el juego.
+LS_InitStep3_4[2]=Revisando los detalles de compensación del Ticket de fabricación de Talismanes...<br>Para asegurar una revisión más fluida, las acciones de tu personaje se han desactivado por el momento.<br>Por favor, no cierres el juego.
 LS_InitStep4[0]=Etapa 4. Comprobar Detalles de Compensación
 LS_InitStep4[1]=Comprobar Detalles de Compensación
 LS_InitStep4[2]=Comprobar detalles de compensación
@@ -8724,7 +8724,7 @@ LS_TimePM=P.M.
 LS_DateTime=%s_1 mes(es) %s_2 día(s) %s_3 %s_4 hora(s)
 LS_PurchaseTerm=
 LS_CompleteTerm=El limite de compra se reinicia todos los domingos 21:00 hs
-LS_BenefitTerm=Recompensa adicional: %s_1 - %s_2
+LS_BenefitTerm=El limite de compra se reinicia todos los domingos 21:00 hs
 LS_BenefitCap[0]=Item adicional por la primera compra
 LS_BenefitCap[1]=Item adicional por la segunda compra
 LS_BenefitCap[2]=Item adicional por la tercera compra
