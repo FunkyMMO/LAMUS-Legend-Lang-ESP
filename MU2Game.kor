@@ -196,7 +196,7 @@ LS_ToggleHelmetName=Casco
 LS_ToggleCostumeName=Aspecto
 LS_ToggleWingName=Alas
 LS_ToggleWingCostumeName=Atuendo de alas
-LS_SetCollection=Índice del Set
+LS_SetCollection=Índice de Set
 
 [MU2GFxInventoryView_Tooltip]
 _CombatPowerInfo=Indica tu fuerza total basada en tu equipo, habilidades y artefactos.
@@ -2328,7 +2328,7 @@ LS_MagicStoneEmptyDesc=Ranura para joya/piedra del alma
 LS_TStoneEmptyDesc=Ranura Piedra Trascendente
 LS_SetColArmor=Armadura:
 LS_SetColAcc=Accesorio:
-LS_SetColPoint= Aumento de puntos + %d
+LS_SetColPoint= Índice de set +%d
 LS_SetColCardCap=<br>Carta de Índice: 
 LS_SetColCardNone=No hay carta equipada
 LS_SetColNoneDesc=Posesión(I) - Índice de set<br><br>Puede abrir la ventana de índice de set y equipar la carta de set.<br>Pruebe a usar el potente efecto de set.
@@ -5172,7 +5172,7 @@ LS_PromotionInfo=Aviso de evento
 LS_LueryBox=Cofre del Tesoro de la Muerte
 LS_GemPictorialBook=Lanza del destino
 LS_FamilyView=Equipo de aventura
-LS_SetCollection=Índice del Set
+LS_SetCollection=Índice de Set
 LS_TeacherStudent=Maestro y discípulo
 
 [MU2GFxMainMenu]
