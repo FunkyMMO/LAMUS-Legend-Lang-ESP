@@ -3950,7 +3950,7 @@ Skill_315=Aumenta temporalmente el ataque en un 20%.
 Skill_316=Aumenta temporalmente la Defensa en un 20%.
 Skill_317=Aumenta temporalmente la velocidad de movimiento en un 20%.
 Skill_318=Restaura temporalmente HP y MP.
-Skill_319=El acceso al Mapa de Misión está temporalmente restringido.
+Skill_319=El acceso a eventos está temporalmente restringido.
 Skill_320=
 Skill_400=
 Skill_401=
@@ -4531,7 +4531,7 @@ Skill_35001=Invoca un muro circular en un área seleccionada, infligiendo daño 
 Skill_35101=
 Skill_35201=Dispara ráfagas de flechas <font color='#FED700'>5</font> veces durante <font color='#FED700'>$eff:35201000:dur:f10$ segundos</font>, infligiendo daño en área equivalente al <font color='#FE6D03'>$eff:35201001:a:i$%</font> del ataque cada vez. También reduce la velocidad de movimiento en <font color='#FE6D03'>$eff:35201002:a:i$%</font> durante <font color='#FED700'>$eff:35201002:dur:f10$ segundos</font>.
 Skill_35301=
-Skill_35401=Invoca un Árbol del Otro Mundo en una ubicación seleccionada con el mismo Nivel que tú. Este árbol dura <font color='#FED700'>$eff:35601000:dur:f10$ segundos</font>, infligiendo daño continuo equivalente al <font color='#FE6D03'>$eff:35601001:a:i$%</font> del ataque cada <font color='#FED700'>$eff:35601000:interval:f10$ segundos</font> y atrayendo enemigos.
+Skill_35401=Invoca un Árbol del otro mundo en una ubicación seleccionada con el mismo Nivel que tú. Este árbol dura <font color='#FED700'>$eff:35601000:dur:f10$ segundos</font>, infligiendo daño continuo equivalente al <font color='#FE6D03'>$eff:35601001:a:i$%</font> del ataque cada <font color='#FED700'>$eff:35601000:interval:f10$ segundos</font> y atrayendo enemigos.
 Skill_35501=Invoca un rastreador que bombardea un área objetivo en <font color='#FED700'>1 segundo</font>. Numerosas flechas caen sobre el área varias veces, infligiendo daño en área equivalente al <font color='#FE6D03'>$eff:35501000:a:i$%</font> del ataque.
 Skill_35502=
 Skill_35503=

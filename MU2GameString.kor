@@ -2339,7 +2339,7 @@ AltarofElementsString_4=Caja de Gemas Mágicas
 ColosseumMainstring_0=Arena AI
 ColosseumString_0=Lucha contra el personaje IA de otro jugador uno contra uno.<br>Puedes intentar ganar hasta 10 veces seguidas.
 ColosseumMainstring_1=Cómo Entrar
-ColosseumString_1=Accesible a través del menú del Mapa de Misión (B) en el nivel 45.<br>Puedes entrar en la Arena tantas veces como tu cuenta de entradas restantes, y quedarte el tiempo que quieras cada vez que entres.
+ColosseumString_1=Accesible a través del menú de eventos (B) en el nivel 45.<br>Puedes entrar en la Arena tantas veces como tu cuenta de entradas restantes, y quedarte el tiempo que quieras cada vez que entres.
 ColosseumMainstring_2=Reglas de batalla
 ColosseumString_2=Puedes luchar contra uno de los cinco oponentes de tu nivel.<br>Si ganas, puedes intentar otro combate sin consumir cuenta de entrada.
 ColosseumMainstring_3=Condiciones para ganar/perder
@@ -2900,9 +2900,9 @@ Region_591=Capital Qahanaan
 Region_409=Demon conquest area
 
 [LevelGuide]
-GuideDungeonType_0=Dungeon
-GuideDungeonType_1=Evento
-ContentsName_1=Rift
+GuideDungeonType_0=Dungeons
+GuideDungeonType_1=Eventos
+ContentsName_1=Rifts
 ContentsName_8=Dungeons Míticas
 ContentsName_9=Sanctum of Dragon Knights
 ContentsName_10=Dragon's Haven
@@ -2957,7 +2957,7 @@ ContentsDesc_21=50 personajes luchan por convertirse en el único superviviente.
 ContentsDesc_22=La Antigua Arca Kanturiana es un lugar misterioso donde yacen latentes la gloria de una antigua civilización y su tecnología. Es mucho más difícil que la dificultad Mítica.<br><br>- Las Dungeons Épicas tienen un nivel de dificultad muy alto.<br><font color='#FE6D03'>- Solo los personajes con al menos 500.000 de Poder de Combate pueden entrar en ellas.<br></font>- Te recomendamos que entrenes en las Dungeons Míticas y en Lupa's Labyrinth hasta que cumplas el requisito de Poder de Combate de las Dungeons Épicas.
 ContentsDesc_23=La quintaesencia de la ingeniería mágica diseñada por Kundun y Etramu. En los pisos superiores de la torre aguardan enemigos más formidables.<br><br>- Accesible a través de Room of Duty en Ohrdor.<br>- Si superas una fase con la suficiente rapidez, podrás saltarte varias fases.<br>Mientras estás parado tras superar una fase, puedes usar el conductor de ingeniería mágica para experimentar el poder de la ingeniería mágica.
 ContentsDesc_10000=Reino de la Perseverancia: Proof es una cueva oscura donde se encuentra Death Roar, el dragón guardián. <br>Quien demuestre su valía derrotando a Rugido de la Muerte en esta última etapa de Reino de la Perseverancia se hará merecedor de entrar en el Salón de la Sabiduría oculto tras la guarida de Rugido de la Muerte. <br>Reino de la Perseverancia: La prueba es extremadamente difícil.
-ContentsDesc_24=El God of Corridor es un Mapa de Misión en solitario en el que puedes luchar contra oleadas de enemigos durante un tiempo determinado.<br>La batalla termina inmediatamente cuando se acaba el tiempo o si mueres. Usa la habilidad Liberación de Tiza cuando estés en peligro. Te otorgará un poder más allá de tu imaginación.<br><font color='#FE6D03'>- Se requiere el 1er Renacimiento.<br></font>
+ContentsDesc_24=God of Corridor es un evento en solitario en el que puedes luchar contra oleadas de enemigos durante un tiempo determinado.<br>La batalla termina inmediatamente cuando se acaba el tiempo o si mueres. Usa la habilidad Liberación de Tiza cuando estés en peligro. Te otorgará un poder más allá de tu imaginación.<br><font color='#FE6D03'>- Se requiere el 1er Renacimiento.<br></font>
 ContentLevel_1=Nivel requerido
 ContentLevelDesc_1=%s_1
 ContentEnterCnt_1=Entradas diarias (Se renicia 5:00 a.m.)

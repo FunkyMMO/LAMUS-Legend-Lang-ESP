@@ -567,7 +567,7 @@ Title_1023006100=Fabrice's Garden
 SubTitle_1023006101=Fabrice Garden produce Items materiales en grandes cantidades.
 Contents_1023006103=Fabrice Garden es una Rift especial: debes cargar la Energía Trenta para entrar en el mapa de monstruos jefe.<br>Puedes cargar la Energía Trenta eliminando monstruos dentro de la Dungeon.
 Title_1023007100=Lupa's Labyrinth
-SubTitle_1023007101=Lupa's Labyrinth es un Mapa de Misión dedicado a ayudarte a fabricar y mejorar Artefactos.
+SubTitle_1023007101=Lupa's Labyrinth es un evento dedicado a ayudarte a fabricar y mejorar Artefactos.
 Contents_1023007103=Lupa's Labyrinth tiene un total de 100 niveles de dificultad.<br>Consíguelo en un nivel de dificultad más alto para obtener mejores recompensas.
 SubTitle_1023007104=Debes aumentar tu índice de carga lo mejor que puedas en 10 minutos.
 Contents_1023007106=Lupa's Labyrinth tiene un límite de tiempo de 10 minutos.<br>Trata de aumentar tu tasa de carga al 100% dentro del límite de tiempo cazando tantos monstruos como puedas.<br>Aunque no consigas llegar al 100%, podrás luchar contra el monstruo jefe y conseguir una recompensa. Pero tu recompensa no será tan buena como si alcanzaras el 100%.<br><br><font color='#FE6D03'>Consejo: </font>Haz clic en los cubos para moverte a los bloques siguientes en cualquier momento.<br>Son útiles para evitar a los enemigos difíciles.<br>Pero sigue corriendo en lugar de luchar, y puedes acabar con un bajo índice de carga.
@@ -722,8 +722,8 @@ SubTitle_1034002101=Puedes conseguir Fichas de luchador independientemente de lo
 Contents_1034002103=Gana un modo cooperativo y conseguirás puntos de victoria y fichas de luchador.<br>Si pierdes un combate, perderás tus puntos de victoria, pero podrás conseguir fichas de luchador.<br>Aumenta tus puntos de victoria y asciende en las ligas. Los números de Fichas de Luchador que obtienes cuando ganas o pierdes aumentan significativamente.<br>Las Fichas de Luchador se pueden intercambiar por varios otros recursos a través del Mercader PvP en Ohrdor.
 SubTitle_1034002104=El modo cooperativo consta de 6 ligas.
 Contents_1034002105=El Modo Cooperativo consta de las ligas Bronce, Plata, Oro, Esmeralda, Héroe y Leyenda.<br> - Liga Bronce: 0 - 1.000 Puntos de Victoria<br> - Liga de Plata: 1.001 - 2.500 Puntos de Victoria<br> - Liga Oro: 2.501 - 5.000 Puntos de Victoria<br> - Liga Esmeralda: 5.001 - 8.000 puntos de victoria<br> - Liga de héroes: 8.001 - 12.000 puntos de victoria<br> - Liga de leyendas: 12,001+ Puntos de Victoria<br><br><font color='#FE6D03'>Consejo:</font> Asciende de liga para conseguir más Fichas de Luchador por ganar/perder combates.
-Title_1036001100=Mapa de Misión para Crecimiento de Artefacto: Lupa's Labyrinth
-SubTitle_1036001101=Lupa's Labyrinth es un Mapa de Misión dedicado a los artefactos.
+Title_1036001100=Evento para crecimiento de Artefacto: Lupa's Labyrinth
+SubTitle_1036001101=Lupa's Labyrinth es un evento dedicado a los artefactos.
 Contents_1036001103=Lupa's Labyrinth tiene su propio portal en la Room of Duty, Ohrdor.<br>Lupa's Labyrinth tiene un total de 100 niveles de dificultad.<br>Su nivel de dificultad cambia dinámicamente dependiendo del número de jugadores de tu grupo.<br>Llévatelo en un modo de dificultad superior para obtener mejores recompensas.<br>Lupa's Labyrinth está diseñado para ayudar a crear y hacer Mejorar artefactos.
 Title_1036002100=Aumenta tu tasa de carga dentro del límite de tiempo.
 SubTitle_1036002101=Lupa's Labyrinth tiene el límite de tiempo de 10 minutos.

@@ -4219,7 +4219,7 @@ LS_DungeonDesc_9920101=El nivel de dificultad de la Endless Tower varía dependi
 LS_DungeonDesc_9920201=El nivel de dificultad de Blood Castle varía en función del <font color='#B4FE42'>número de miembros de tu grupo</font>.
 LS_DungeonDesc_9040101=Solo puedes entrar en esta Dungeon solo,<br>no con tu grupo.
 LS_DungeonDesc_9040102=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
-LS_DungeonDesc_9203001=Lupa's Labyrinth es un Mapa de Misión de alta dificultad, abundante en materiales de craft de Artefactos y diseñado para ayudar a mejorar los Artefactos.
+LS_DungeonDesc_9203001=Lupa's Labyrinth es un evento de alta dificultad, abundante en materiales de craft de Artefactos y diseñado para ayudar a mejorar los Artefactos.
 LS_DungeonDesc_9040364=Descripción del Laberinto de Puzzles
 LS_DungeonDesc_9062408=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
 LS_ArtifactLvDesc[0]=<font color='#FF0000'>¡Selecciona un Artefacto para mejorar!</font><br>Si no hay un Artefacto para mejorar,<br>no puedes ganar EXP de Artefacto.
@@ -5205,7 +5205,7 @@ LS_EarningGreenZen=Gemas mágicas ganadas
 LS_ReceivedMail_Title=Correo
 LS_ReceivedMail_CorreoRecibido=Tienes correo no leído.<br>Puedes comprobar tu correo en el buzón de la ciudad.
 LS_ItemDurability_Title=Durabilidad del equipo
-LS_Missionmap_Title=Evento
+LS_Missionmap_Title=Eventos
 LS_Missionmap_Requested=%s_1 <font color='#0099FF'>(Aplicado)</font>
 LS_Missionmap_Requestable=%s_1 <font color='#00CC00'>(Aceptando solicitudes)</font>
 LS_Missionmap_Control=: Abrir ventana de evento
@@ -5530,7 +5530,7 @@ LS_MissionmapButton_RequestParty=Ingresar en party
 LS_MissionmapButton_RequestCancel=Cancelar solicitud
 LS_MissionmapButton_EnterLimit=Requiere: 
 LS_MissionmapButton_EnterCost=Coste de ingreso
-LS_MissionTitle=Mapa de Misión
+LS_MissionTitle=Eventos
 LS_MissionAchieve=Logro principal
 LS_MissionReward=Recompensas
 LS_MissionBattle=Mi información de combate
@@ -6797,32 +6797,32 @@ LS_Accept=Reclamar
 [MU2GFxPCCafeReward]
 LS_Caption=Recompensa por inicio de sesión
 LS_ServiceCaption=Beneficios diarios
-LS_RewardCaption=Items gratuitos en función del tiempo en linea
+LS_RewardCaption=Recompensas en función del tiempo conectado
 LS_AcceptButton=Reclamar
 LS_ServiceBasic=Beneficios básicos
 LS_ServicePlus=Beneficios del VIP Platinum
 LS_ServicePlusDesc=Los usuarios con VIP Platinum obtendrán estos beneficios extra.
-LS_ServiceApply=(En uso)
-LS_ServiceBasic1=Rift<br>Entradas disponibles +<font color='#00ff00'>2</font><br>Tower of Dawn<br>Entradas Disponibles +<font color='#00ff00'>1</font>
-LS_ServiceBasic2=Ganancia EXP Alma +<font color='#00ff00'>30%</font><br>Ataque/Defensa +<font color='#00ff00'>5%</font><br>(Se acumula con los efectos del VIP Platinum)
-LS_ServicePlus1=Gema Mágica/Ganancia de Zen +<font color='#00ff00'>10%</font>
-LS_ServicePlus2=Endless Tower, Blood Castle y Rift<br>Entradas disponibles +<font color='#00ff00'>1</font>
+LS_ServiceApply=
+LS_ServiceBasic1=
+LS_ServiceBasic2=
+LS_ServicePlus1=
+LS_ServicePlus2=
 LS_PlatinumCaption=VIP Regular
 LS_PlatinumPlusCaption=VIP Platinum
 LS_RewardActive=<font color='#fdc243'>%s_1</font>
 LS_RewardDeactive=<font color='#885f06'>%s_1</font>
-LS_RewardTimeCaption=Tiempo En Linea
+LS_RewardTimeCaption=Tiempo conectado
 LS_RewardTime=%.2d:%.2d
 LS_Time0=Al iniciar sesión
 LS_TimeM=%s_1m
 LS_TimeH=%s_1h
 LS_AcceptComplete=Reclamado
-LS_LoginReward=Recompensa por inicio de sesión
+LS_LoginReward=Recompensas por tiempo de juego
 LS_LoginRewardDesc=-Suscríbete al VIP regular o Platinum, y podrás obtener una recompensa de Items en función de tu tiempo de juego.<br>- Estas recompensas de tiempo de juego se restablecen diariamente a las 5:00 a.m.
-LS_NetCafeRewardCap=Recompensa por inicio de sesión
-LS_NetCafeRewardDesc=Bienvenido al cibercafé.<br>En los cibercafés, obtienes mejoras adicionales y recompensas de Items.
-LS_NetCafeReward1=Ganancia de EXP del alma +30%.
-LS_NetCafeReward2=Ataque +5%<br>Defensa +5
+LS_NetCafeRewardCap=Recompensas por tiempo de juego
+LS_NetCafeRewardDesc=
+LS_NetCafeReward1=
+LS_NetCafeReward2=
 
 [MU2GFxRaidUnitFrame]
 LS_ReadyDeparture=Listo para partir
@@ -7110,7 +7110,7 @@ LS_AddAOToEquip=Usa Pergaminos de Impronta para añadir estadísticas a tu equip
 LS_GradeAbility=Imprimir añade estadísticas aleatoriamente, dependiendo del grado del equipo.
 LS_SelectAbility=Puedes seleccionar la estadística que quieres Imprimir.
 LS_FixedAbility=Aumenta instantáneamente a %s si se Imprime con éxito.
-LS_MaxAOGrade=Grado Máximo de Impresión: %s
+LS_MaxAOGrade=Grado max. de Impresión: %s
 LS_GradeRiseProbability=Posibilidad de éxito de la impresión: %s
 LS_ApplicableAbility=Cantidad de Improntas: %s
 LS_Num0=%d
@@ -8708,22 +8708,22 @@ LS_Caption=Tienda secreta de Mercler
 LS_Tab[0]=Comprar
 LS_Tab[1]=Recompensa adicional
 LS_PurchaseCap=Especial de semana
-LS_PurchaseMyCostCap=Bienes en mi posesión
-LS_PurchaseWarning=Necesitas Redzen para adquirir de mis bienes.
+LS_PurchaseMyCostCap=Items en mi posesión
+LS_PurchaseWarning=Se requiere Redzen para comprar.
 LS_PurchaseCostCap=Coste:
 LS_PurchaseOK=Comprar
 LS_PurchaseShop=Tienda LAMUS
-LS_CompleteCap=Bienes comprados
+LS_CompleteCap=Items comprados
 LS_CompleteWarning=Compra finalizada.
 LS_CompleteClose=Cerrar
-LS_BenefitDesc=La posibilidad de obtener una recompensa adicional se <br>restablecerá tras un periodo determinado.
-LS_BenefitWarning=La recompensa adicional se entregará al personaje por correo.<br>La recompensa adicional sólo se puede obtener una vez.
+LS_BenefitDesc=Las recompensas adicionales se entregan por única vez.
+LS_BenefitWarning=La recompensa adicional se entregará al personaje por correo.<br>
 LS_BenefitClose=Cerrar
 LS_TimeAM=A.M.
 LS_TimePM=P.M.
-LS_DateTime=%s_1 mes(es) %s_2 día(s) %s_3 %s_4 hora(s))
-LS_PurchaseTerm=Período: %s_1 - %s_2
-LS_CompleteTerm=Próxima compra: a partir de %s_1
+LS_DateTime=%s_1 mes(es) %s_2 día(s) %s_3 %s_4 hora(s)
+LS_PurchaseTerm=
+LS_CompleteTerm=El limite de compra se reinicia todos los domingos 21:00 hs
 LS_BenefitTerm=Recompensa adicional: %s_1 - %s_2
 LS_BenefitCap[0]=Item adicional por la primera compra
 LS_BenefitCap[1]=Item adicional por la segunda compra
@@ -8733,7 +8733,7 @@ LS_MinimapTooltip=<font color='#FDC243'>Tienda secreta de Mercler</font>
 LS_MinimapControl=: Abrir la tienda de Mercler
 
 [MU2GFxMessageBoxMercler]
-LS_MyCoin=Bienes en mi posesión
+LS_MyCoin=Items en posesión
 LS_CoinCap=Coste de compra:
 LS_OK=Confirmar (Espacio)
 LS_Cancel=Cancelar (Esc)

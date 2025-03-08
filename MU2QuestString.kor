@@ -1078,7 +1078,7 @@ Mission_String=Golpea a las intoxicated frogs
 Mission_Target1=Golpea a los frog brothers
 
 [Quest_167]
-Name=Los Soldados de Otro Mundo de Croak
+Name=Los Soldados de otro mundo de Croak
 Occur_String1=Croak no podría haber conquistado mi mundo tan rápido si no fuera por las poderosas criaturas que trajo de esa dimensión. *Croak* Usó su malvado magia negra para controlar sus mentes, convirtiéndolos en sus siervos. Por favor, Señor Guerrero, libéralos de las garras de Croak.
 Doing_String=¡Por favor, libera a los poderosos soldados de otro mundo de Croak de sus garras!
 Completable_String1=Puedo decir que ahora están libres de la influencia malvada de Croak. *Croak* ¡Buen trabajo!
@@ -8619,7 +8619,7 @@ Occur_String1=Estoy seguro de que la Policía Local ha hablado mal de nosotros.<
 Occur_String2=¿Entonces qué más podría ser? ¿Estás diciendo que son esos nobles mordidos por arañas?
 Occur_String3=No he terminado.<br>Se dice que criaturas extrañas están saliendo de esa cueva del sureste.<br>Tengo miedo de que hayan venido de Pandemonium.
 Occur_String4=¿Pandemonium?
-Occur_String5=Es el Otro Mundo creado por el dios de la destrucción, Sekneum.<br>Hace doscientos años, el Ejército de Pandemonium lideró a los Demonios e invadió MU.
+Occur_String5=Es el otro mundo creado por el dios de la destrucción, Sekneum.<br>Hace doscientos años, el Ejército de Pandemonium lideró a los Demonios e invadió MU.
 Occur_String6=Después de la guerra que duró tres años, logramos expulsarlos de donde vinieron,<br>pero a costa de la mitad de la población del continente.
 Occur_String7=Si esas criaturas en la cueva son demonios, entonces Pandemonium ha regresado después de doscientos años.
 Occur_String8=Ahora tengo una verdadera misión para ti.<br>Ve a la cueva e identifica las criaturas que hay allí.
@@ -13494,14 +13494,14 @@ Occur_String3=..<br><br>Está bien, escuchemos.
 Occur_String4=
 Doing_String=
 Completable_String1=Los campos de batalla oficiales para guerreros se conocen como Mapas de Misión.
-Completable_String2=Puedes abrir la ventana del Mapa de Misión a través del menú en la parte superior o presionando la tecla [B].
+Completable_String2=Puedes abrir la ventana de eventos a través del menú en la parte superior o presionando la tecla [B].
 Completable_String3=Los Mapas de Misión disponibles se muestran a la izquierda de la ventana. Haz clic en uno para solicitarlo e ingresar.
 Completable_String4=Dependiendo de los resultados de la batalla, puedes obtener monedas especiales. Tráelas a mí, y las cambiaré por Items valiosos.
 Completable_String5=¿Lo entendiste?<br>Te has demostrado en combate regular, pero ahora es el momento de poner a prueba tus habilidades en un campo de batalla oficial.<br>¡Buena suerte!
 Completable_String6=
-Complete_String=Escuché sobre cómo participar en el Mapa de Misión y sus recompensas especiales del Mercader Trilgard en Ohrdor.
-List_String=Debo escuchar sobre cómo participar en el Mapa de Misión del Mercader PvP Trilgard.
-Mission_String=Debo averiguar sobre el Mapa de Misión del Mercader Trilgard.
+Complete_String=Escuché sobre cómo participar en los eventos y sus recompensas especiales del Mercader Trilgard en Ohrdor.
+List_String=Debo escuchar sobre cómo participar en los eventos del Mercader PvP Trilgard.
+Mission_String=Debo averiguar sobre los eventos del Mercader Trilgard.
 Mission_Target1=Habla con Trilgard
 
 [Quest_9900]
@@ -26090,7 +26090,7 @@ Completable_String1=Pensé que podrías tener dificultades explorando algún lug
 Complete_String=(Misión grupal de Criaturas del Área Restringida) (9/11)<br>Le dije a Foy que escuché a una criatura que posiblemente era Thud-tle aullando en la sala de situación mientras recogía los datos de voz. Foy dijo que, según el diario de investigación, las esporas pueden mantener a sus anfitriones vivos en forma de zombie. Dijo que podría formular una medicina para evitar que las criaturas zombificadas resuciten modificando el ingrediente crudo para la vacuna de esporas. Me pidió que trajera el ingrediente crudo.
 List_String=(Misión grupal de Criaturas del Área Restringida) (9/11)<br>Recoge el ingrediente crudo de la vacuna de esporas del Rift que está conectado a otro mundo.
 Mission_String=Ve al Rift que está conectado a Wellspring Haven
-Mission_Target1=Sangre de Alquamos de Otro Mundo
+Mission_Target1=Sangre de Alquamos de otro mundo
 
 
 [Quest_201910]
