@@ -576,11 +576,11 @@ Ability_riding_speed_rate=Velocidad de montura +%s_1
 Ability_riding_speed=Velocidad de montaje +%s_1
 Ability_small_dmg=Pequeña bonificación de daño +%s_1
 Ability_small_dmg_rate=Pequeño ataque +%s_1
-Ability_midium_dmg=Bono de daño medio +%s_1
+Ability_midium_dmg=Daño medio +%s_1
 Ability_midium_dmg_rate=Ataque medio +%s_1
 Ability_large_dmg=Bonificación de daño grande +%s_1
 Ability_large_dmg_rate=Ataque grande +%s_1
-Ability_xlarge_dmg=Bono de daño extragrande +%s_1
+Ability_xlarge_dmg=Daño extragrande +%s_1
 Ability_xlarge_dmg_rate=Ataque extragrande +%s_1
 Ability_plant_dmg=Bonificación de daño por planta +%s_1
 Ability_plant_dmg_rate=Ataque de planta +%s_1
@@ -588,17 +588,17 @@ Ability_insect_dmg=Bonificación de daño por insecto +%s_1
 Ability_insect_dmg_rate=Ataque de insectos +%s_1
 Ability_beast_dmg=Bestia Bonificación Daño +%s_1
 Ability_beast_dmg_rate=Ataque de bestia +%s_1
-Ability_human_dmg=Bono de daño a humanoide +%s_1
+Ability_human_dmg=Daño a humanoide +%s_1
 Ability_human_dmg_rate=Ataque Humanoide +%s_1
-Ability_undead_dmg=Bono de daño a no muertos +%s_1
+Ability_undead_dmg=Daño a no muertos +%s_1
 Ability_undead_dmg_rate=Ataque no muerto +%s_1
 Ability_devil_dmg=Bonificación de daño por demonio +%s_1
 Ability_devil_dmg_rate=Ataque de demonio +%s_1
-Ability_mutant_dmg=Bono de daño mutante +%s_1
+Ability_mutant_dmg=Daño mutante +%s_1
 Ability_mutant_dmg_rate=Ataque mutante +%s_1
-Ability_magic_dmg=Bono de ataque de tipo mágico +%s_1
+Ability_magic_dmg=Ataque tipo mágico +%s_1
 Ability_magic_dmg_rate=Ataque de tipo mágico +%s_1
-Ability_structure_dmg=Bono de daño a edificios +%s_1
+Ability_structure_dmg=Daño a edificios +%s_1
 Ability_structure_dmg_rate=Ataque de construcción +%s_1
 Ability_monster_def_rate=Reducción de daño de monstruo +%s_1
 Ability_normal_monster_def_rate=Reducción de daño de monstruo normal +%s_1
@@ -710,7 +710,7 @@ AbilityRate_weapon_recovery_mp_rate=Recuperación de MP de las principales habil
 AbilityRate_riding_cast_time_rate=Duración de los montajes -%s_1% %.
 AbilityRate_rec_hp_per_spend_mp=HP +%s_1% de MP usado
 AbilityRate_crt_def_rate=Tasa de defensa crítica +%s_1%.
-AbilityRate_monster_dmg_rate=Bono de daño de monstruo +%s_1%.
+AbilityRate_monster_dmg_rate=Daño de monstruo +%s_1%.
 AbilityRate_normal_monster_dmg_rate=Ataque normal de monstruo +%s_1
 AbilityRate_elite_monster_dmg_rate=Ataque de monstruo elite +%s_1%
 AbilityRate_boss_monter_dmg_rate=Ataque monstruo jefe +%s_1%
@@ -728,7 +728,7 @@ AbilityRate_riding_speed_rate=Velocidad de montura +%s_1%
 AbilityRate_riding_speed=Velocidad de monta +%s_1
 AbilityRate_small_dmg=Pequeña bonificación de daño +%s_1
 AbilityRate_small_dmg_rate=Ataque pequeño +%s_1
-AbilityRate_midium_dmg=Bono de daño medio +%s_1%.
+AbilityRate_midium_dmg=Daño medio +%s_1%.
 AbilityRate_midium_dmg_rate=Ataque medio +%s_1
 AbilityRate_large_dmg=Bonificación de daño grande +%s_1%.
 AbilityRate_large_dmg_rate=Ataque Grande +%s_1
@@ -740,7 +740,7 @@ AbilityRate_insect_dmg=Bonificación por daño de insectos +%s_1%.
 AbilityRate_insect_dmg_rate=Ataque insecto +%s_1
 AbilityRate_beast_dmg=Bestia, bonificación de daño +%s_1%.
 AbilityRate_beast_dmg_rate=Ataque de bestia +%s_1
-AbilityRate_human_dmg=Bono de daño a humanoide +%s_1%.
+AbilityRate_human_dmg=Daño a humanoide +%s_1%.
 AbilityRate_human_dmg_rate=Ataque humanoide +%s_1
 AbilityRate_undead_dmg=Bonificación de daño a no muertos +%s_1%.
 AbilityRate_undead_dmg_rate=Ataque de no muertos +%s_1
@@ -748,9 +748,9 @@ AbilityRate_devil_dmg=Bonificación de daño por demonio +%s_1
 AbilityRate_devil_dmg_rate=Ataque demonio +%s_1
 AbilityRate_mutant_dmg=Bonificación de daño de mutante +%s_1%.
 AbilityRate_mutant_dmg_rate=Ataque mutante +%s_1%
-AbilityRate_magic_dmg=Bono de ataque de tipo mágico +%s_1%
+AbilityRate_magic_dmg=Ataque tipo mágico +%s_1%
 AbilityRate_magic_dmg_rate=Ataque tipo mágico +%s_1%
-AbilityRate_structure_dmg=Bono de daño a edificios +%s_1%.
+AbilityRate_structure_dmg=Daño a edificios +%s_1%.
 AbilityRate_structure_dmg_rate=Ataque de tipo edificio +%s_1
 AbilityRate_monster_def_rate=Reducción de daño de monstruos +%s_1
 AbilityRate_normal_monster_def_rate=Reducción de daño de monstruo normal +%s_1%.
@@ -861,7 +861,7 @@ AbilityMain_weapon_recovery_mp_rate=Recuperación de MP de las habilidades de ar
 AbilityMain_riding_cast_time_rate=Duración de los montajes -%s_1%
 AbilityMain_rec_hp_per_spend_mp=HP +%s_1 por MP usados
 AbilityMain_crt_def_rate=Tasa de defensa crítica: %s_1
-AbilityMain_monster_dmg_rate=Bono de daño de monstruo: %s_1%
+AbilityMain_monster_dmg_rate=Daño a enemigos: %s_1%
 AbilityMain_normal_monster_dmg_rate=Ataque normal del monstruo: %s_1%
 AbilityMain_elite_monster_dmg_rate=Ataque de monstruo de élite: %s_1%
 AbilityMain_boss_monter_dmg_rate=Ataque de monstruo jefe: %s_1%
@@ -879,11 +879,11 @@ AbilityMain_riding_speed_rate=Velocidad de montura: %s_1%
 AbilityMain_riding_speed=Velocidad de montura: %s_1
 AbilityMain_small_dmg=Pequeña bonificación de daño: %s_1
 AbilityMain_small_dmg_rate=Pequeño ataque: %s_1
-AbilityMain_midium_dmg=Bono de daño medio: %s_1
+AbilityMain_midium_dmg=Daño medio: %s_1
 AbilityMain_midium_dmg_rate=Ataque medio: %s_1%
 AbilityMain_large_dmg=Bonificación de daño grande: %s_1
 AbilityMain_large_dmg_rate=Ataque grande: %s_1
-AbilityMain_xlarge_dmg=Bono de daño extragrande: %s_1
+AbilityMain_xlarge_dmg=Daño extragrande: %s_1
 AbilityMain_xlarge_dmg_rate=Ataque extragrande: %s_1%
 AbilityMain_plant_dmg=Bonificación de daño por planta: %s_1
 AbilityMain_plant_dmg_rate=Ataque de planta: %s_1
@@ -891,17 +891,17 @@ AbilityMain_insect_dmg=Bonificación por daño de insectos: %s_1
 AbilityMain_insect_dmg_rate=Ataque de insecto: %s_1%
 AbilityMain_beast_dmg=Beast Daño adicional: %s_1
 AbilityMain_beast_dmg_rate=Ataque de bestia: %s_1%
-AbilityMain_human_dmg=Bono de daño humano: %s_1
+AbilityMain_human_dmg=Daño a humanos: %s_1
 AbilityMain_human_dmg_rate=Ataque humanoide: %s_1%
-AbilityMain_undead_dmg=Bono de daño a no muertos: %s_1
+AbilityMain_undead_dmg=Daño a no muertos: %s_1
 AbilityMain_undead_dmg_rate=Ataque no muerto: %s_1%
 AbilityMain_devil_dmg=Bonificación de daño por demonio: %s_1
 AbilityMain_devil_dmg_rate=Ataque demonio: %s_1%
-AbilityMain_mutant_dmg=Bono de daño mutante: %s_1
+AbilityMain_mutant_dmg=Daño a mutantes: %s_1
 AbilityMain_mutant_dmg_rate=Ataque mutante: %s_1%
-AbilityMain_magic_dmg=Bono de ataque de tipo mágico: %s_1
+AbilityMain_magic_dmg=Ataque tipo mágico: %s_1
 AbilityMain_magic_dmg_rate=Ataque de tipo mágico: %s_1%
-AbilityMain_structure_dmg=Bono de daño a edificios: %s_1
+AbilityMain_structure_dmg=Daño a edificios: %s_1
 AbilityMain_structure_dmg_rate=Ataque de edificios: %s_1%
 AbilityMain_monster_def_rate=Reducción de daño de monstruos: %s_1%
 AbilityMain_normal_monster_def_rate=Reducción de daño de monstruo normal: %s_1%
@@ -949,7 +949,7 @@ AbilityRange_prc_rate=Penetración Defensa +%s_1 - %s_2
 AbilityRange_def=Defensa +%s_1 - %s_2
 AbilityRange_weapon_min_dmg=Mínimo ataque de arma +%s_1 - %s_2
 AbilityRange_weapon_max_dmg=Ataque máximo del arma +%s_1 - %s_2
-AbilityRange_pvp_pwr=Bono de daño PvP +%s_1 - %s_2
+AbilityRange_pvp_pwr=Daño PvP +%s_1 - %s_2
 AbilityRange_pvp_def=Defensa PvP +%s_1 - %s_2
 AbilityRange_def_rate=Reducción de daño total: %s_1 - %s_2
 AbilityRange_cor_pwr_rate=Ataque +%s_1 - %s_2%
@@ -1012,7 +1012,7 @@ AbilityRange_weapon_recovery_mp_rate=Recuperación de MP de las principales habi
 AbilityRange_riding_cast_time_rate=Tiempo de lanzamiento de la habilidad -%s_1 - %s_2%
 AbilityRange_rec_hp_per_spend_mp=HP +%s_1 - %s_2 de MP usados
 AbilityRange_crt_def_rate=Defensa crítica +%s_1 - %s_2
-AbilityRange_monster_dmg_rate=Bono de daño de monstruos +%s_1 - %s_2%
+AbilityRange_monster_dmg_rate=Daño de enemigos +%s_1 - %s_2%
 AbilityRange_normal_monster_dmg_rate=Ataque monstruo normal +%s_1 - %s_2%
 AbilityRange_elite_monster_dmg_rate=Ataque monstruo élite +%s_1 - %s_2%
 AbilityRange_boss_monter_dmg_rate=Ataque de monstruo jefe +%s_1 - %s_2%
@@ -1030,11 +1030,11 @@ AbilityRange_riding_speed_rate=Velocidad de montura +%s_1 - %s_2%
 AbilityRange_riding_speed=Velocidad de montura +%s_1 - %s_2
 AbilityRange_small_dmg=Pequeña bonificación de daño +%s_1 - %s_2
 AbilityRange_small_dmg_rate=Pequeño ataque +%s_1 - %s_2
-AbilityRange_midium_dmg=Bono de daño medio +%s_1 - %s_2
+AbilityRange_midium_dmg=Daño medio +%s_1 - %s_2
 AbilityRange_midium_dmg_rate=Ataque medio +%s_1 - %s_2
 AbilityRange_large_dmg=Bonificación de daño grande +%s_1 - %s_2
 AbilityRange_large_dmg_rate=Ataque Grande +%s_1 - %s_2
-AbilityRange_xlarge_dmg=Bono de daño extragrande +%s_1 - %s_2
+AbilityRange_xlarge_dmg=Daño extragrande +%s_1 - %s_2
 AbilityRange_xlarge_dmg_rate=Ataque extragrande +%s_1 - %s_2%
 AbilityRange_plant_dmg=Bonificación de daño por planta +%s_1 - %s_2
 AbilityRange_plant_dmg_rate=Ataque planta +%s_1 - %s_2
@@ -1042,17 +1042,17 @@ AbilityRange_insect_dmg=Bonificación de daño por insecto +%s_1 - %s_2
 AbilityRange_insect_dmg_rate=Ataque insecto +%s_1 - %s_2%
 AbilityRange_beast_dmg=Beast Daño adicional +%s_1 - %s_2
 AbilityRange_beast_dmg_rate=Ataque Bestia +%s_1 - %s_2%
-AbilityRange_human_dmg=Bono de daño humano +%s_1 - %s_2
+AbilityRange_human_dmg=Daño a humanos +%s_1 - %s_2
 AbilityRange_human_dmg_rate=Ataque Humanoide +%s_1 - %s_2%
-AbilityRange_undead_dmg=Bono de daño a no muertos +%s_1 - %s_2
+AbilityRange_undead_dmg=Daño a no muertos +%s_1 - %s_2
 AbilityRange_undead_dmg_rate=Ataque de muertos vivientes +%s_1 - %s_2
 AbilityRange_devil_dmg=Bonificación de daño por demonio +%s_1 - %s_2
 AbilityRange_devil_dmg_rate=Ataque Demonio +%s_1 - %s_2%
-AbilityRange_mutant_dmg=Bono de daño mutante +%s_1 - %s_2
+AbilityRange_mutant_dmg=Daño a mutantes +%s_1 - %s_2
 AbilityRange_mutant_dmg_rate=Ataque mutante +%s_1 - %s_2%
-AbilityRange_magic_dmg=Bono de ataque de tipo mágico +%s_1 - %s_2
+AbilityRange_magic_dmg=Ataque tipo mágico +%s_1 - %s_2
 AbilityRange_magic_dmg_rate=Ataque de tipo mágico +%s_1 - %s_2%
-AbilityRange_structure_dmg=Bono de daño a edificios +%s_1 - %s_2
+AbilityRange_structure_dmg=Daño a edificios +%s_1 - %s_2
 AbilityRange_structure_dmg_rate=Ataque de tipo edificio +%s_1 - %s_2%
 AbilityRange_monster_def_rate=Reducción de daño de monstruo +%s_1 - %s_2%
 AbilityRange_normal_monster_def_rate=Reducción de daño normal de monstruo +%s_1 - %s_2%
@@ -1251,7 +1251,7 @@ PetAbility_prc_rate=Penetración Defensa <font color='#11f210'>+%s_1</font>
 PetAbility_def=Defensa <font color='#11f210'>+%s_1</font>
 PetAbility_weapon_min_dmg=Mínimo ataque de arma <font color='#11f210'>+%s_1</font>
 PetAbility_weapon_max_dmg=Ataque máximo de arma <font color='#11f210'>+%s_1</font>
-PetAbility_pvp_pwr=Bono de daño PvP <font color='#11f210'>+%s_1</font>
+PetAbility_pvp_pwr=Daño PvP <font color='#11f210'>+%s_1</font>
 PetAbility_pvp_def=Defensa PvP <font color='#11f210'>+%s_1</font>
 PetAbility_def_rate=Reducción de daño total: <font color='#11f210'>%s_1</font>
 PetAbility_cor_pwr_rate=Ataque <font color='#11f210'>+%s_1</font>
@@ -1314,7 +1314,7 @@ PetAbility_weapon_recovery_mp_rate=Recuperación de MP de las principales habili
 PetAbility_riding_cast_time_rate=Duración de la montura <font color='#11f210'>-%s_1</font>
 PetAbility_rec_hp_per_spend_mp=<font color='#11f210'>HP +%s_1</font> de MP usados
 PetAbility_crt_def_rate=Defensa crítica <font color='#11f210'>+%s_1</font>
-PetAbility_monster_dmg_rate=Bono de Daño de Monstruo <font color='#11f210'>+%s_1</font>
+PetAbility_monster_dmg_rate=Daño a monstruos <font color='#11f210'>+%s_1</font>
 PetAbility_normal_monster_dmg_rate=Ataque monstruo normal <font color='#11f210'>+%s_1</font>
 PetAbility_elite_monster_dmg_rate=Ataque de monstruo élite <font color='#11f210'>+%s_1</font>
 PetAbility_boss_monter_dmg_rate=Ataque Monstruo Jefe <font color='#11f210'>+%s_1</font>
@@ -1332,11 +1332,11 @@ PetAbility_riding_speed_rate=Velocidad de montura <font color='#11f210'>+%s_1</f
 PetAbility_riding_speed=Velocidad de montura <font color='#11f210'>+%s_1</font>
 PetAbility_small_dmg=Pequeña bonificación de daño <font color='#11f210'>+%s_1</font>
 PetAbility_small_dmg_rate=Pequeño ataque <font color='#11f210'>+%s_1</font>
-PetAbility_midium_dmg=Bono de daño medio <font color='#11f210'>+%s_1</font>
+PetAbility_midium_dmg=Daño medio <font color='#11f210'>+%s_1</font>
 PetAbility_midium_dmg_rate=Ataque medio <font color='#11f210'>+%s_1</font>
 PetAbility_large_dmg=Bonificación de daño grande <font color='#11f210'>+%s_1</font>
 PetAbility_large_dmg_rate=Ataque grande <font color='#11f210'>+%s_1</font>
-PetAbility_xlarge_dmg=Bono de daño extragrande <font color='#11f210'>+%s_1</font>
+PetAbility_xlarge_dmg=Daño extragrande <font color='#11f210'>+%s_1</font>
 PetAbility_xlarge_dmg_rate=Ataque extragrande <font color='#11f210'>+%s_1</font>
 PetAbility_plant_dmg=Bonificación de daño por planta <font color='#11f210'>+%s_1</font>
 PetAbility_plant_dmg_rate=Ataque Planta <font color='#11f210'>+%s_1</font>
@@ -1346,15 +1346,15 @@ PetAbility_beast_dmg=Bestia Daño Extra <font color='#11f210'>+%s_1</font>
 PetAbility_beast_dmg_rate=Ataque de bestia <font color='#11f210'>+%s_1</font>
 PetAbility_human_dmg=Bono Daño Humanoide <font color='#11f210'>+%s_1</font>
 PetAbility_human_dmg_rate=Ataque Humanoide <font color='#11f210'>+%s_1</font>
-PetAbility_undead_dmg=Bono de daño a no muertos <font color='#11f210'>+%s_1</font>
+PetAbility_undead_dmg=Daño a no muertos <font color='#11f210'>+%s_1</font>
 PetAbility_undead_dmg_rate=Ataque no muerto <font color='#11f210'>+%s_1</font>
 PetAbility_devil_dmg=Bono Daño Demonio <font color='#11f210'>+%s_1</font>
 PetAbility_devil_dmg_rate=Ataque demonio <font color='#11f210'>+%s_1</font>
 PetAbility_mutant_dmg=Bonificación daño mutante <font color='#11f210'>+%s_1</font>
 PetAbility_mutant_dmg_rate=Ataque Mutante <font color='#11f210'>+%s_1</font>
-PetAbility_magic_dmg=Bono de ataque de tipo mágico <font color='#11f210'>+%s_1</font>
+PetAbility_magic_dmg=Ataque tipo mágico <font color='#11f210'>+%s_1</font>
 PetAbility_magic_dmg_rate=Ataque de tipo mágico <font color='#11f210'>+%s_1</font>
-PetAbility_structure_dmg=Bono de Daño de Construcción <font color='#11f210'>+%s_1</font>
+PetAbility_structure_dmg=Daño de Construcción <font color='#11f210'>+%s_1</font>
 PetAbility_structure_dmg_rate=Ataque de construcción <font color='#11f210'>+%s_1</font>
 PetAbility_monster_def_rate=Reducción de daño de monstruos <font color='#11f210'>+%s_1</font>
 PetAbility_normal_monster_def_rate=Reducción daño monstruo normal <font color='#11f210'>+%s_1</font>
@@ -1402,7 +1402,7 @@ PetAbilityRate_prc_rate=Penetración Defensa <font color='#11f210'>+%s_1%</font>
 PetAbilityRate_def=Defensa <font color='#11f210'>+%s_1%</font>
 PetAbilityRate_weapon_min_dmg=Mínimo ataque de arma <font color='#11f210'>+%s_1%</font>
 PetAbilityRate_weapon_max_dmg=Ataque máximo del arma <font color='#11f210'>+%s_1%</font>
-PetAbilityRate_pvp_pwr=Bono de daño PvP <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_pvp_pwr=Daño PvP <font color='#11f210'>+%s_1%</font>
 PetAbilityRate_pvp_def=Defensa PvP <font color='#11f210'>+%s_1%</font>
 PetAbilityRate_def_rate=Reducción de daño total: <font color='#11f210'>%s_1%</font>
 PetAbilityRate_cor_pwr_rate=Ataque <font color='#11f210'>+%s_1%</font>
