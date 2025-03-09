@@ -17,9 +17,9 @@ LS_WaitTime=Tiempo de espera estimado
 LS_WaitTimeData= %s_1 Min 
 LS_WaitCancel=Cancelar espera
 LS_ConnectFailTitle=Fallo de conexión con el servidor
-LS_ConnectFailMessage=El servidor está demasiado ocupado.
-LS_ServerBlockTitle=Restricción de conexión al servidor
-LS_ServerBlockMessage=El servidor se encuentra en mantenimiento.
+LS_ConnectFailMessage=Servidor lleno. Inténtalo más tarde.
+LS_ServerBlockTitle=LAMUS
+LS_ServerBlockMessage=Tu cuenta se encuentra bloqueada.
 LS_ConnectFailConfirm=OK
 LS_OffLine=Mantenimiento
 LS_MBLoginTitle=Mensaje
@@ -75,8 +75,8 @@ LS_CharSelectView=Seleccionar personaje
 LS_CharClassSelectView=Seleccionar Clase
 LS_CharCustomizeView=Personalizar
 LS_EquipSet=Equipo
-LS_ServerBlockTitle=Restricción de conexión al servidor
-LS_ServerBlockMessage=El acceso a LAMUS<br>está restringido en su cuenta.
+LS_ServerBlockTitle=LAMUS
+LS_ServerBlockMessage=Tu cuenta se encuentra bloqueada.
 LS_ConnectFailConfirm=OK
 
 [MU2GFxFrontEnd_View_CharSelect]
