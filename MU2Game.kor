@@ -6939,10 +6939,10 @@ LS_ExplicateDesc=Los seguidores reciben ciertos beneficios del Territorio.<br> -
 
 [MU2GFxDominionBenefit]
 LS_UITitle=Información sobre beneficios territoriales
-LS_CapitalDominionBenefit=Beneficios del capital
-LS_AdjacentLevelBenefit=Beneficios Lv Vecino
-LS_FollowerBenefit=Beneficios del seguidor
-LS_BenefitDivision_1=Territorio%s_1-estrella
+LS_CapitalDominionBenefit=Capital
+LS_AdjacentLevelBenefit=Lv Vecino
+LS_FollowerBenefit=Seguidor
+LS_BenefitDivision_1=%s_1-estrella
 LS_BenefitDivision_2=Nivel %s_1
 LS_BenefitDivision_3=Seguidor
 CategoryDesc_1=Tu territorio capital afecta a todos los beneficios de tu territorio.<br>Tu territorio capital determina los beneficios de tu territorio. Puedes conseguir más territorios, pero eso no duplicará tus beneficios de territorio.<br>Pero puedes conseguir beneficios extra de tus otros territorios dependiendo de tu nivel de territorio vecino.
@@ -6988,42 +6988,42 @@ BenefitName_3_1_1=Crear piedra de intensificación
 BenefitName_3_1_2=Equipo fusible
 BenefitName_3_1_3=Tienda de contribución
 BenefitDesc_1_1_0=Permite intensificar Piedras Trascendentes de Equipo hasta <font color='#ffff00'>12 veces</font>.
-BenefitDesc_1_1_1=Desbloquea <font color='#ffff00'>1</font> ranura para producir Piedras de Intensificación usadas para intensificar Piedras Trascendentes. (Permite producir 1 piedra a la vez).
+BenefitDesc_1_1_1=Libera <font color='#ffff00'>1</font> ranuras para generar Piedras de Intensificación para mejorar Piedras Trascendentes. (Podes hacer 1 piedra a la vez).
 BenefitDesc_1_1_2=La fusión de equipo sólo requiere <font color='#ffff00'>4</font> Items.
 BenefitDesc_1_1_3=Optimiza la Tienda de Contribución para territorios de 1 estrella.
 BenefitDesc_1_1_4=Permite tener hasta <font color='#ffff00'>100</font> seguidores.
 BenefitDesc_1_2_0=Permite intensificar Piedras Trascendentes de Equipo hasta <font color='#ffff00'>12 veces</font>.
-BenefitDesc_1_2_1=Desbloquea <font color='#ffff00'>2</font> ranuras para producir Piedras de Intensificación usadas para intensificar Piedras Trascendentes. (Permite producir 2 piedras a la vez).
+BenefitDesc_1_2_1=Libera <font color='#ffff00'>2</font> ranuras para generar Piedras de Intensificación para mejorar Piedras Trascendentes. (Podes hacer 2 piedras a la vez).
 BenefitDesc_1_2_2=La fusión de equipo sólo requiere <font color='#ffff00'>3</font> Items.
 BenefitDesc_1_2_3=Optimiza la Tienda de Contribución para territorios de 2 estrellas.
 BenefitDesc_1_2_4=Permite tener hasta <font color='#ffff00'>200</font> seguidores.
 BenefitDesc_1_3_0=Puedes amplificar la Piedra Trascendente un máximo de <font color='#ffff00'>12</font> veces, que puedes usar para trascender tu equipo.
-BenefitDesc_1_3_1=Desbloquea <font color='#ffff00'>3</font> ranuras para producir Piedras de Intensificación usadas para intensificar Piedras Trascendentes. (Permite producir 3 piedras a la vez).
+BenefitDesc_1_3_1=Libera <font color='#ffff00'>3</font> ranuras para generar Piedras de Intensificación para mejorar Piedras Trascendentes. (Podes hacer 3 piedras a la vez).
 BenefitDesc_1_3_2=La fusión de equipo sólo requiere <font color='#ffff00'>2</font> Items.
 BenefitDesc_1_3_3=Optimiza la Tienda de Contribución para territorios de 3 estrellas, para que muestre su mejor lista de ventas en todo momento.
 BenefitDesc_1_3_4=Permite tener hasta <font color='#ffff00'>300</font> seguidores.
-BenefitDesc_2_1_0=Desbloquea <font color='#ffff00'>1</font> ranura más para producir Piedras de Intensificación usadas para intensificar Piedras Trascendentes.
+BenefitDesc_2_1_0=Libera <font color='#ffff00'>1</font> ranuras para generar Piedras de Intensificación para mejorar Piedras Trascendentes.
 BenefitDesc_2_1_1=Disminuye el coste de fusión de equipo en un <font color='#ffff00'>10%</font>.
 BenefitDesc_2_1_2=Disminuye los precios de la Tienda de Contribución un <font color='#ffff00'>10%</font>.
 BenefitDesc_2_1_3=Aumenta tu límite máximo de seguidores fijado por tu territorio capital en <font color='#ffff00'>100</font>.
-BenefitDesc_2_2_0=Desbloquea <font color='#ffff00'>2</font> ranuras más para producir Piedras de Intensificación usadas para intensificar Piedras Trascendentes.
+BenefitDesc_2_2_0=Libera <font color='#ffff00'>2</font> ranuras para generar Piedras de Intensificación para mejorar Piedras Trascendentes.
 BenefitDesc_2_2_1=Disminuye el coste de fusión del equipo en un <font color='#ffff00'>12%</font>.
 BenefitDesc_2_2_2=Disminuye los precios de la Tienda de Contribución un <font color='#ffff00'>12%</font>.
 BenefitDesc_2_2_3=Aumenta tu límite máximo de seguidores fijado por tu territorio capital en <font color='#ffff00'>150</font>.
-BenefitDesc_2_3_0=Desbloquea <font color='#ffff00'>3</font> ranuras más para producir Piedras de Intensificación usadas para intensificar Piedras Trascendentes.
+BenefitDesc_2_3_0=Libera <font color='#ffff00'>3</font> ranuras para generar Piedras de Intensificación para mejorar Piedras Trascendentes.
 BenefitDesc_2_3_1=Disminuye el coste de fusión del equipo en un <font color='#ffff00'>14%</font>.
 BenefitDesc_2_3_2=Disminuye los precios de la Tienda de Contribución un <font color='#ffff00'>14%</font>.
 BenefitDesc_2_3_3=Aumenta tu límite máximo de seguidores fijado por tu territorio capital en <font color='#ffff00'>200</font>.
-BenefitDesc_2_4_0=Desbloquea <font color='#ffff00'>4</font> ranuras más para producir Piedras de Intensificación usadas para intensificar Piedras Trascendentes.
+BenefitDesc_2_4_0=Libera <font color='#ffff00'>4</font> ranuras para generar Piedras de Intensificación para mejorar Piedras Trascendentes.
 BenefitDesc_2_4_1=Disminuye el coste de fusión del equipo en un <font color='#ffff00'>17%</font>.
 BenefitDesc_2_4_2=Disminuye los precios de la Tienda de Contribución un <font color='#ffff00'>17%</font>.
 BenefitDesc_2_4_3=Aumenta tu límite máximo de seguidores fijado por tu territorio capital en <font color='#ffff00'>300</font>.
-BenefitDesc_2_5_0=Desbloquea <font color='#ffff00'>5</font> ranuras más para producir Piedras de Intensificación usadas para intensificar Piedras Trascendentes.
+BenefitDesc_2_5_0=Libera <font color='#ffff00'>5</font> ranuras para generar Piedras de Intensificación para mejorar Piedras Trascendentes.
 BenefitDesc_2_5_1=Disminuye el coste de fusión del equipo en un <font color='#ffff00'>20%</font>.
 BenefitDesc_2_5_2=Disminuye los precios de la Tienda de Contribución un <font color='#ffff00'>20%</font>.
 BenefitDesc_2_5_3=Aumenta tu límite máximo de seguidores fijado por tu territorio capital en <font color='#ffff00'>500</font>.
 BenefitDesc_3_1_0=Permite intensificar las Piedras Trascendentes de equipo hasta <font color='#ffff00'>12 veces</font>.
-BenefitDesc_3_1_1=Desbloquea <font color='#ffff00'>1</font> ranura más para producir Piedras de Intensificación usadas para intensificar Piedras Trascendentes.
+BenefitDesc_3_1_1=Libera <font color='#ffff00'>1</font> ranuras para generar Piedras de Intensificación para mejorar Piedras Trascendentes.
 BenefitDesc_3_1_2=Permite fusionar <font color='#ffff00'>4</font> Items en un nuevo Item.
 BenefitDesc_3_1_3=Permite comprar Items de Seguidor en la Tienda de Contribución. Los Items Follower no son de buena calidad.
 
