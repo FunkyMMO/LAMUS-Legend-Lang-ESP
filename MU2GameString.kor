@@ -2131,7 +2131,7 @@ Event_LoginClass_Desc=: Abrir la ventana de comprobación de asistencia a clase
 Event_LImitBanner_Title=<font size='15' color='#FDC243'>Items de edición limitada a la venta</font>
 Event_LImitBanner_Desc=: Abrir el banner de Items de edición limitada
 Event_ConnectTimeEvent_Title=<font size='15' color='#FDC243'>Evento de recompensa por inicio de sesión</font>
-Event_ConnectTimeEvent_Desc=: Evento de recompensa por inicio de sesión
+Event_ConnectTimeEvent_Desc=: Recompensas diarias por tiempo de juego
 Event_LindaShop_Title=<font size='15' color='#FDC243'>Tienda Linda</font>
 Event_LindaShop_Desc=: Linda Shop
 TournamentTooltip_1=<font size='17' color='#FDC243'>1ª Ronda de Solicitudes</font><br><font size='14'>Los líderes de Guild ya pueden solicitar competir por los territorios en el mapa de Guerra de Facciones.</font>

@@ -8347,30 +8347,30 @@ LS_MissionTag_Contents=Detalles de la misión
 LS_MissionTag_Reward=Ganada EXP
 
 [MU2GFxConnectionTimeEvent]
-LS_Title=Evento de conexión
-LS_DescHead=¡Mantente conectado para conseguir recompensas!<br/>
+LS_Title=Recompensas por tiempo jugado
+LS_DescHead=Sigue conectado para desbloquear recompensas especiales<br/>
 LS_EventTime1=Duración del evento
 LS_PlayTime1=Tiempo en línea
 LS_Day=%s_1 Día
 LS_DayRewardListBtn=Recompensas
 LS_DayRewardGetBtn=Reclamar recompensa
-LS_DescMiddle=<font color='#FF0000'>Has cargado todos los sellos. Consigue tu recompensa de recarga de sellos</font>.
-LS_DescMiddle2=<font color='#FDC243'>Recoge todos los sellos para conseguir la recarga de sellos.</font></b><br><font color='#999999'>
+LS_DescMiddle=<font color='#FF0000'>¡Marcas completadas! Tu recompensa especial te espera</font>.
+LS_DescMiddle2=<font color='#FDC243'>Recoge todas las marcas para conseguir recompensas especiales</font></b><br><font color='#999999'>
 LS_Time=%s_1 m
 LS_TimeHour=%s_1 h
-LS_TimeRewardGetBtn=Recoger recompensas
-LS_DescTail=Recoge recompensas según tu tiempo conectado. Al obtener todas, tu sello se recarga y permite una recompensa diaria.<br />Si completas los sellos, puedes optar por la recompensa de recarga, la cual reinicia los sellos tras reclamar todas las recompensas.<br> 
-LS_BoxTooltip=<font color='#FDC243'>Recompensa de recarga de sellos</font></b><br><font color='#999999'>Recoge los 7 sellos para ganar una recompensa.
-LS_PopupTitle=Recompensa por recarga de sellos
+LS_TimeRewardGetBtn=Reclamar
+LS_DescTail=Recoge recompensas según tu tiempo conectado.<br />Completa las marcas para obtener recompensas especiales.<br>  Al reclamar recompensas las marcas se reinician.
+LS_BoxTooltip=<font color='#FDC243'>Recompensa de recarga de marcas</font></b><br><font color='#999999'>Recoge las 7 marcas para ganar una recompensa.
+LS_PopupTitle=Recompensa por reinicio de marcas
 LS_PopupGetDesc=Seleccione una de las recompensas.
-LS_PopupListDesc=Complete los 7 sellos para obtener una recompensa.
-LS_PopupDescTail=Los Items que ya hayas ganado se eliminarán de las recompensas elegibles.<br />Recoger una recompensa reiniciara tu recuento de sellos.
+LS_PopupListDesc=Complete las 7 marcas para obtener una recompensa.
+LS_PopupDescTail=Los Items que ya hayas ganado se eliminarán de las recompensas elegibles.<br />Recoger una recompensa reiniciara tu recuento de marcas.
 LS_PopupGetBtn=Obtener
 LS_PopupCloseBtn=Cerrar
 
 [MU2GFxLuerysTreasureReleaseEvent]
 LS_EventPeriod=Período del evento
-LS_BottomDesc=Puedes ganar monedas de evento al derrotar al jefe final de la Dungeon de evento.<br>También puedes ganar monedas de evento como recompensa de recarga de sellos como parte del evento Recompensa de inicio de sesión.<br><bront color='#FDC243'>Bonificación de net cafe 1: Puedes ganar monedas de evento como parte de la bonificación de net cafe.<br>Bonificación de net cafe 2: Puedes ganar recompensas extra por superar Dungeons de evento de net cafes.</font></b>
+LS_BottomDesc=Puedes ganar monedas de evento al derrotar al jefe final de la Dungeon de evento.<br>También puedes ganar monedas de evento como recompensa de recarga de marcas como parte del evento Recompensa de inicio de sesión.<br><bront color='#FDC243'>Bonificación de net cafe 1: Puedes ganar monedas de evento como parte de la bonificación de net cafe.<br>Bonificación de net cafe 2: Puedes ganar recompensas extra por superar Dungeons de evento de net cafes.</font></b>
 LS_Exit=Cerrar
 LS_DungeonInfoTitle=Dungeon de evento
 LS_Dungeon0=Área Restringida 6-1
