@@ -8717,9 +8717,9 @@ Name=Glasha el Dios de la Carnicería
 Occur_String1=¡Esos... ¡Piedras de Dessellado!<br>Maldita sea, ¡están intentando despertar a Glasha,<br>quien está sellado dentro de la Heath Mine!
 Occur_String2=¿Glasha?
 Occur_String3=Es un guerrero de Pandemonium que eliminó por sí solo a un regimiento de la Coalición durante la Guerra de Tres Años.<br>También era conocido como el dios de la carnicería.
-Occur_String4=¿Cómo terminó en el foso de los muertos?
+Occur_String4=¿Cómo terminó en el Pith of the Dead?
 Occur_String5=No pudo ser asesinado.<br>La Coalición lo atrajo a la mina y luego colapsó la entrada para mantenerlo dentro.<br>Veinte mil soldados de la Coalición fueron muertos o heridos durante esa operación.
-Occur_String6=Por eso han secuestrado a mineros, para sacarlo del foso de los muertos.
+Occur_String6=Por eso han secuestrado a mineros, para sacarlo del Pith of the Dead.
 Occur_String7=Si Glasha se escapa, Dudrin... no, toda Enova... será destruida.
 Occur_String8=Deja de entrar en pánico. Podemos matarlo antes de que lo haga.<br>Déjamelo a mí. Tú concéntrate en cuidar de tus soldados heridos y reagrupar al resto.
 Occur_String9=Podrías realmente morir esta vez.<br>No tienes que hacer esto. ¿Por qué nos estás ayudando?
@@ -13519,28 +13519,28 @@ Mission_String=Ve a ver a Dumpain en Ohrdor
 Mission_Target1=Habla con Dumpain
 
 [Quest_9901]
-Name=Foso de los Muertos
+Name=Pith of the Dead
 Occur_String1¿Un favor? ¿Quién diría que tal palabra existiría en tu vocabulario? Me alegra seguir vivo.
 Occur_String2=Nunca imaginé que sería ridiculizado por alguien en Ohrdor algún día. Es curioso, ¿no?<br>Está bien, suficientes bromas. Vamos al grano.
 Occur_String3=Para decirte la verdad, no estoy muy contento con la Sala de Deber.<br>Es un lugar peligroso, lleno de todo tipo de monstruos, y está conectado a mi ciudad.
 Occur_String4=Eso solo es suficiente para ponerme nervioso, y ahora también está conectado a Pandemonium.
 Occur_String5=¿Pandemonium?
-Occur_String6=Así es. Un lugar llamado el Foso de los Muertos. Y está siendo gestionado por los Silver Sparrowhawks, lo que complica las cosas.
-Occur_String7=Sé que conoces a los Silver Sparrowhawks y a Kundun. Por eso te estoy pidiendo esto.<br>Ve a ver qué tipo de lugar es este Foso de los Muertos. Es simple, ¿no?
+Occur_String6=Así es. Un lugar llamado el Pith of the Dead. Y está siendo gestionado por los Silver Sparrowhawks, lo que complica las cosas.
+Occur_String7=Sé que conoces a los Silver Sparrowhawks y a Kundun. Por eso te estoy pidiendo esto.<br>Ve a ver qué tipo de lugar es este Pith of the Dead. Es simple, ¿no?
 Occur_String8=No me gusta que seas tú quien pregunta, pero me gusta la idea de explorar Pandemonium.
-Occur_String9=Bien. Entonces entra en la Sala de Deber y ve a Silver Sparrowhawk Delude.<br>Quiero saber todo lo que descubras sobre este Foso de los Muertos. Te recompensaré generosamente.
+Occur_String9=Bien. Entonces entra en la Sala de Deber y ve a Silver Sparrowhawk Delude.<br>Quiero saber todo lo que descubras sobre este Pith of the Dead. Te recompensaré generosamente.
 Doing_String=Si ese lugar es peligroso, puedo usarlo como palanca sobre Kundun.<br>Si no lo es, eso es bueno para mi ciudad.<br>Hm, no está mal.
 Completable_String1=Oh, %s_9_1. ¿Cómo supiste sobre este lugar?
 Completable_String2=He oído que conectaste Pandemonium a Ohrdor. ¿Qué estabas pensando?
 Completable_String3=Es obra de Kundun y la Sociedad de Investigación del Rift. Este lugar está en Pandemonium, pero es extraño.
-Complete_String=Fui a Delude, el guardián del Foso de los Muertos, en la Sala de Deber. ¿Quién pensó que sería una gran idea conectar Pandemonium a Ohrdor, la ciudad más concurrida del reino terrenal?
-List_String=Debo ir a Delude, el guardián del Foso de los Muertos, en la Sala de Deber. No me importa hacer esto, excepto que lo hago a pedido de Dumpain.
+Complete_String=Fui a Delude, el guardián del Pith of the Dead, en la Sala de Deber. ¿Quién pensó que sería una gran idea conectar Pandemonium a Ohrdor, la ciudad más concurrida del reino terrenal?
+List_String=Debo ir a Delude, el guardián del Pith of the Dead, en la Sala de Deber. No me importa hacer esto, excepto que lo hago a pedido de Dumpain.
 Mission_String=Ve a ver a Delude en la Sala de Deber
 Mission_Target1=Habla con Delude
 
 [Quest_9902]
 Name=Pandemonium Extraño
-Occur_String1=Este lugar está dividido en múltiples secciones, y aquí y allá, la palabra "El Foso de los Muertos" está escrita en el lenguaje demoníaco.<br>Está repleto de cadáveres y espíritus reanimados por necromancia. ¿No te parece extraño?
+Occur_String1=Este lugar está dividido en múltiples secciones, y aquí y allá, la palabra "El Pith of the Dead" está escrita en el lenguaje demoníaco.<br>Está repleto de cadáveres y espíritus reanimados por necromancia. ¿No te parece extraño?
 Occur_String2=Sí.<br>Esa comandante de legión de los demonios, Sezak, creo que se llamaba, dijo que la necromancia estaba por debajo de ellos.<br>No creo que a los demonios les importe mucho la magia negra de la Dark mission.
 Occur_String3=Tienes razón. Los demonios desprecian la Dark mission.<br>No hay forma de que aprueben su magia negra.
 Occur_String4=Y este supuesto Pandemonium está lleno de su obra.
@@ -13548,17 +13548,17 @@ Occur_String5=Porque es lo opuesto a lo que sabemos sobre Pandemonium, Kundun lo
 Occur_String6=Claro, siempre que el precio sea correcto. Y este lugar también se ve interesante.<br>Por cierto, ¿alguien te dijo que venía? Es casi como si estuvieras esperándome.
 Occur_String7=Kundun lo hizo.<br>Dijo que escucharías sobre esto tarde o temprano, y que si venías, debería pedir ayuda.<br>Dijo que no dirías que no.
 Occur_String8=Maldita sea, me atrapó. Ese viejo zorro.<br>Entonces, ¿qué necesitas?
-Occur_String9=Primero, por favor, extermina a los monstruos en el Área 1 del Foso de los Muertos.<br>Tenemos que asegurar una entrada a ese lugar.
-Doing_String=Ten cuidado. Los monstruos en el Foso de los Muertos poseen tanto la Evil Energy como la magia negra.<br>No sé qué pueden hacer con ellas, ni qué podrías experimentar allí.
+Occur_String9=Primero, por favor, extermina a los monstruos en el Área 1 del Pith of the Dead.<br>Tenemos que asegurar una entrada a ese lugar.
+Doing_String=Ten cuidado. Los monstruos en el Pith of the Dead poseen tanto la Evil Energy como la magia negra.<br>No sé qué pueden hacer con ellas, ni qué podrías experimentar allí.
 Completable_String1=Eres tan bueno como escuché. Buen trabajo. Ahora puedo acelerar mi proceso de investigación.
-Complete_String=Limpié el Área 1 del Foso de los Muertos (Normal) y aseguré una entrada. ¿Cuál es el propósito de este lugar?
-List_String=Debo limpiar el Área 1 del Foso de los Muertos (Normal) y asegurar una entrada. Todo esto es interesante, pero no puedo evitar sentir que estoy siendo utilizado por Dumpain y Kundun.
-Mission_String=Elimina a los monstruos en el Foso de los Muertos (Normal 1)
-Mission_Target1=Limpiar el Área 1 del Foso de los Muertos
+Complete_String=Limpié el Área 1 del Pith of the Dead (Normal) y aseguré una entrada. ¿Cuál es el propósito de este lugar?
+List_String=Debo limpiar el Área 1 del Pith of the Dead (Normal) y asegurar una entrada. Todo esto es interesante, pero no puedo evitar sentir que estoy siendo utilizado por Dumpain y Kundun.
+Mission_String=Elimina a los monstruos en el Pith of the Dead (Normal 1)
+Mission_Target1=Limpiar el Área 1 del Pith of the Dead
 
 [Quest_9903]
 Name=Buscando Pistas
-Occur_String1=Por ahora, creemos que esto es algún tipo de instalación artificial<br>debido a su nombre, Foso de los Muertos, y la existencia de magia negra en el mundo de Pandemonium.
+Occur_String1=Por ahora, creemos que esto es algún tipo de instalación artificial<br>debido a su nombre, Pith of the Dead, y la existencia de magia negra en el mundo de Pandemonium.
 Occur_String2=Pero no hemos podido averiguar su propósito.<br>Sería útil si pudiéramos encontrar el diario del arquitecto o documentos...
 Occur_String3=No encontramos esas cosas en el Área 1, pero tal vez podamos en otros lugares. ¿No lo crees?
 Occur_String4=¿Podrías ir más abajo? Por favor, tráeme cualquier cosa que encuentres.
@@ -13566,28 +13566,28 @@ Doing_String=Por favor, busca pistas mientras bajas. Mantén los ojos bien abier
 Completable_String1=He encontrado esto. Hay números y algunas letras escritas en la parte superior, seguidas de algunos párrafos en la parte inferior. Parece algún tipo de diario,<br>pero no puedo leer el lenguaje demoníaco.
 Completable_String2=Tienes razón. Estos números y letras significan una fecha en el lenguaje demoníaco.<br>Mm... ¿Dimitri? Ese debe ser el nombre del autor de este diario, y creo que es un demonio.<br>Déjame leerlo. Tomará un tiempo porque tengo que traducirlo.
 Complete_String=Encontré el diario de alguien, pero no pude leerlo porque estaba escrito en el lenguaje demoníaco.
-List_String=Debo buscar pistas mientras bajo en el Foso de los Muertos (Normal 1) para Delude.
-Mission_String=Busca pistas mientras bajas en el Foso de los Muertos (Normal 1) para Delude
-Mission_Target1=Recolectar pistas en el Foso de los Muertos
+List_String=Debo buscar pistas mientras bajo en el Pith of the Dead (Normal 1) para Delude.
+Mission_String=Busca pistas mientras bajas en el Pith of the Dead (Normal 1) para Delude
+Mission_Target1=Recolectar pistas en el Pith of the Dead
 
 [Quest_9904]
 Name=Buscando Nuevas Pistas
 Occur_String1=Este demonio llamado Dimitri fue relegado, y se unió a la Dark mission<br>para crear un ejército de los muertos y castigar a quienes le hicieron daño.
-Occur_String2=Esto explica la presencia de magia negra. Este demonio, Dimitri, debió de estar tan desesperado.<br>Este Foso de los Muertos fue creado en la parte más alejada de Pandemonium bajo absoluto secreto. Si todo en este diario es correcto, ningún otro demonio sabe de su existencia.
+Occur_String2=Esto explica la presencia de magia negra. Este demonio, Dimitri, debió de estar tan desesperado.<br>Este Pith of the Dead fue creado en la parte más alejada de Pandemonium bajo absoluto secreto. Si todo en este diario es correcto, ningún otro demonio sabe de su existencia.
 Occur_String3=Y dado que no hay demonios vivos dentro, su rebelión fracasó. ¿Escribió en su diario?<br>¿Por qué fracasó?
 Occur_String4=No, no lo hizo. O estaba demasiado avergonzado por su fracaso,<br>o no pudo escribir sobre ello.
 Occur_String5=Quizás podamos encontrar más pistas además del diario de Dimitri.<br>Por favor, revisa el lugar más cuidadosamente. Tuvimos suerte con su diario. Sus páginas podrían haber estado esparcidas por todas partes.
 Doing_String=%s_9_1, gracias a ti, finalmente puedo resolver el rompecabezas. ¡Estoy tan emocionado!
 Completable_String1=Oh, esto es un montón de papeles. Un lenguaje humano. Está escrito por la Dark mission.
 Completable_String2=Creo que está escrito por un miembro de la Dark mission.<br>Sus páginas estaban esparcidas por todas partes, y no sé si las he colocado en el orden correcto.<br>Contiene muchas palabras que no conozco. Probablemente jerga de magia negra.
-Completable_String3=Entonces, debe contener muchas referencias al Foso de los Muertos y a la Dark mission. Déjame comprobarlo.
+Completable_String3=Entonces, debe contener muchas referencias al Pith of the Dead y a la Dark mission. Déjame comprobarlo.
 Complete_String=Reuní páginas esparcidas de un documento y se las entregué a Delude. Estaba escrito en un lenguaje humano, probablemente por la Dark mission, pero no pude entender la jerga en él. Estoy seguro de que Delude me dirá.
-List_String=Debo buscar pistas en el Foso de los Muertos (Normal 1) para Delude.
-Mission_String=Busca pistas en el Foso de los Muertos (Normal 1)
-Mission_Target1=Recolectar pistas esparcidas en el Foso de los Muertos
+List_String=Debo buscar pistas en el Pith of the Dead (Normal 1) para Delude.
+Mission_String=Busca pistas en el Pith of the Dead (Normal 1)
+Mission_Target1=Recolectar pistas esparcidas en el Pith of the Dead
 
 [Quest_9905]
-Name=Subyuga el Foso de los Muertos
+Name=Subyuga el Pith of the Dead
 Occur_String1=Leí las páginas que trajiste la última vez. Vaya,<br>la primera mitad trata sobre la investigación de la magia negra, y la segunda mitad son mayormente groserías dirigidas a Dimitri.
 Occur_String2=Parece que Dimitri hizo una demanda irrazonable a la Dark mission.<br>Quería alimentar este lugar con más magia negra de la que podía soportar.<br>Al final, los muertos se salieron de control y devoraron todo, incluido el mismo Dimitri.
 Occur_String3=El autor de este diario fue testigo de su muerte.<br>Escribió que podía morir feliz, habiendo visto a Dimitri morir primero.
@@ -13597,24 +13597,24 @@ Occur_String6=Debemos eliminar a los muertos en el Foso lo mejor que podamos.<br
 Occur_String7=Así que estamos limpiando después de los demonios otra vez.
 Doing_String=Sí, porque son muy desordenados.
 Completable_String1=Buen trabajo. Pero ese lugar sigue lleno de no-muertos.<br>¿Terminará alguna vez esta guerra con los demonios?
-Complete_String=Exterminé a todos los no-muertos en las Áreas 1 a 3 en el Foso de los Muertos (Normal 2), pero eso no es suficiente. Debo moverme ahora para prepararme para lo peor.
-List_String=Debo exterminar a todos los no-muertos que vea mientras bajo al Foso de los Muertos (Normal 2) Área 3.
-Mission_String=Limpiar hasta el Foso de los Muertos (Normal 2) Área 3
-Mission_Target1=Subyugar el Foso de los Muertos
+Complete_String=Exterminé a todos los no-muertos en las Áreas 1 a 3 en el Pith of the Dead (Normal 2), pero eso no es suficiente. Debo moverme ahora para prepararme para lo peor.
+List_String=Debo exterminar a todos los no-muertos que vea mientras bajo al Pith of the Dead (Normal 2) Área 3.
+Mission_String=Limpiar hasta el Pith of the Dead (Normal 2) Área 3
+Mission_Target1=Subyugar el Pith of the Dead
 
 [Quest_9906]
 Name=Material del Académico de Pandemonium 1
 Occur_String1=Lugares como este no deberían existir, pero como académico, aprecio poder estudiar Pandemonium y la magia negra en el mismo lugar.
 Occur_String2=Pandemonium desprecia la magia negra, pero eso no significa que no la utilizaría si se presenta la ocasión.<br>Prepararse para tal momento es lo que académicos como yo deben hacer.
-Occur_String3=Por favor, tráeme algunos Fragmentos No-Muertos del Foso de los Muertos para mi investigación.<br>Puedes encontrarlos entre los no-muertos allí.
+Occur_String3=Por favor, tráeme algunos Fragmentos No-Muertos del Pith of the Dead para mi investigación.<br>Puedes encontrarlos entre los no-muertos allí.
 Occur_String4=¿Fragmentos No-Muertos?
 Occur_String5=Son masas de la Evil Energy y la magia negra combinadas en una.<br>Así que los llamé Fragmentos No-Muertos.
 Occur_String6=...Está bien.<br>(Espero que sea mejor estudiando que nombrando cosas.)
 Doing_String=¿Por qué la gente no dice nada sobre mis nombres? ¿Son tan asombrosos?
 Completable_String1=Eres bueno. Espera, ¿eres %s_9_1?<br>¿Lo eres? ¡Vaya, mucho gusto! Soy Galches. ¡Eres famoso en círculos académicos!<br>Dicen que eres un guerrero contratista que puede conseguir cualquier cosa que desee.
 Complete_String=Traje Fragmentos No-Muertos a Galches. Un guerrero contratista que puede conseguir cualquier cosa que desee... ¿Debería estar feliz por esto? Significa que piensan que soy un buen mensajero.
-List_String=Debo recolectar Fragmentos No-Muertos del Foso de los Muertos (Normal 1) para Galches. Fragmentos No-Muertos. Ese nombre es tan poco original que no es ni gracioso.
-Mission_String=Recolectar Fragmentos No-Muertos del Foso de los Muertos (Normal 1)
+List_String=Debo recolectar Fragmentos No-Muertos del Pith of the Dead (Normal 1) para Galches. Fragmentos No-Muertos. Ese nombre es tan poco original que no es ni gracioso.
+Mission_String=Recolectar Fragmentos No-Muertos del Pith of the Dead (Normal 1)
 Mission_Target1=Fragmento No-Muerto
 
 [Quest_9907]
@@ -13622,17 +13622,17 @@ Name=Muestra de Investigación Valiosa
 Occur_String1=Trajiste los Fragmentos No-Muertos tan rápido. Vaya.
 Occur_String2=Me encantaría estudiarte.
 Occur_String3=Dilo de nuevo y te golpearé hasta dejarte inconsciente.
-Occur_String4=No me malinterpretes. El Foso de los Muertos es un caos de Evil Energy y magia negra.<br>Tu capacidad para entrar y salir de un lugar así sin daño merece un estudio serio.
-Occur_String5=¿Crees que puedes adentrarte más en el Foso de los Muertos esta vez?<br>Y veamos... Está bien, regresa en 5 minutos. ¿Puedes hacerlo?
-Doing_String=Explora el Foso de los Muertos (Normal 1) Área 3 en 5 minutos.<br>¡5 minutos, ni un segundo más! O tendré que reconstruir mi teoría.
+Occur_String4=No me malinterpretes. El Pith of the Dead es un caos de Evil Energy y magia negra.<br>Tu capacidad para entrar y salir de un lugar así sin daño merece un estudio serio.
+Occur_String5=¿Crees que puedes adentrarte más en el Pith of the Dead esta vez?<br>Y veamos... Está bien, regresa en 5 minutos. ¿Puedes hacerlo?
+Doing_String=Explora el Pith of the Dead (Normal 1) Área 3 en 5 minutos.<br>¡5 minutos, ni un segundo más! O tendré que reconstruir mi teoría.
 Completable_String1=Vaya, eres tan impresionante como he oído.<br>¡A partir de ahora, te respaldaré! Gracias a ti, estaba a punto de probar mi teoría.
 Completable_String2=¿Qué teoría?
 Completable_String3=Es una teoría que creé para mi tesis sobre los efectos de la Evil Energy y la magia negra en la función muscular y la circulación de maná y dinámicas taumaturgicas irreversibles.<br>En otras palabras...
 Completable_String4=...<br>(No tengo idea de qué está hablando.)
-Complete_String=Exploré el Foso de los Muertos (Normal 1) Área 3 en 5 minutos, y escuché a Galches explicar—más bien divagar—sobre su teoría. Juro que nunca le preguntaré sobre nada de nuevo.
-List_String=Debo explorar el Foso de los Muertos (Normal 1) Área 3 en 5 minutos y luego regresar a Galches.<br>He oído que muchos académicos son excéntricos. Claramente él es uno de ellos.
-Mission_String=Limpiar el Foso de los Muertos (Normal 1) Área 3 en 5 minutos
-Mission_Target1=Limpiar el Foso de los Muertos
+Complete_String=Exploré el Pith of the Dead (Normal 1) Área 3 en 5 minutos, y escuché a Galches explicar—más bien divagar—sobre su teoría. Juro que nunca le preguntaré sobre nada de nuevo.
+List_String=Debo explorar el Pith of the Dead (Normal 1) Área 3 en 5 minutos y luego regresar a Galches.<br>He oído que muchos académicos son excéntricos. Claramente él es uno de ellos.
+Mission_String=Limpiar el Pith of the Dead (Normal 1) Área 3 en 5 minutos
+Mission_Target1=Limpiar el Pith of the Dead
 
 [Quest_9908]
 Name=Material del Académico de Pandemonium 2
@@ -13646,9 +13646,9 @@ Completable_String1=¿Estas son Esencias No-Muertas? Ooo, definitivamente se ven
 Completable_String2=Espera, pareces como si nunca hubieras visto Esencias No-Muertas antes.
 Completable_String3=Mm... En realidad, no. Solo supuse que había algo más poderoso que los Fragmentos No-Muertos.<br>Y tenía suficientes pruebas para respaldarlo.
 Completable_String4=Algunos grandes descubrimientos fueron de hecho accidentes afortunados. En un mundo lleno de incertidumbres, mi trabajo como académico es encontrar certeza, paso a paso. Eso también es lo que es la vida—<br>¿Me estás escuchando? Entonces, estaba diciendo...
-Complete_String=Traje Esencias No-Muertas del Foso de los Muertos (Normal 2), y este académico ni siquiera sabía si realmente existían. Intenté cuestionarlo, pero terminé escuchando su divagación.
-List_String=Debo recolectar Esencias No-Muertas del Foso de los Muertos (Normal 2) para Galches. Este tipo habla mucho, y no de una manera agradable. Solo voy a conseguirle lo que quiere y terminar con esto.
-Mission_String=Recolectar Esencias No-Muertas del Foso de los Muertos (Normal 2)
+Complete_String=Traje Esencias No-Muertas del Pith of the Dead (Normal 2), y este académico ni siquiera sabía si realmente existían. Intenté cuestionarlo, pero terminé escuchando su divagación.
+List_String=Debo recolectar Esencias No-Muertas del Pith of the Dead (Normal 2) para Galches. Este tipo habla mucho, y no de una manera agradable. Solo voy a conseguirle lo que quiere y terminar con esto.
+Mission_String=Recolectar Esencias No-Muertas del Pith of the Dead (Normal 2)
 Mission_Target1=Esencia No-Muerta
 
 [Quest_9909]
@@ -37359,15 +37359,15 @@ Mission_Target2=
 Mission_Target3=
 
 [Quest_500009]
-Name=Karma - Foso de los Muertos
+Name=Karma - Pith of the Dead
 Occur_String1=
 Occur_String2=
 Doing_String=
 Completable_String1=
 Completable_String2=
-Complete_String=Entré en un lugar de otro mundo adyacente a la Tierra, el Foso de los Muertos, y recolecté Karma de todos los seres poderosos que había allí.
-List_String=Debo recolectar el Karma de seres poderosos en el Foso de los Muertos para mi primer renacimiento espiritual.
-Mission_String=Recolecta Karma de seres poderosos en el Foso de los Muertos
+Complete_String=Entré en un lugar de otro mundo adyacente a la Tierra, el Pith of the Dead, y recolecté Karma de todos los seres poderosos que había allí.
+List_String=Debo recolectar el Karma de seres poderosos en el Pith of the Dead para mi primer renacimiento espiritual.
+Mission_String=Recolecta Karma de seres poderosos en el Pith of the Dead
 Mission_Target1=Recolectar Karma de Seres Poderosos
 Mission_Target2=
 

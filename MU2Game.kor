@@ -2404,7 +2404,7 @@ lsBurningStaminaTitle=Aceleración en Rift
 lsBurningStaminaDesc=Tus recompensas mejoran significativamente mientras Rift está en el modo Overdrive.
 lsAwakenTitle=Conductor de Rift
 lsMissionRankPoint=(Puntos de rango +%s_1)
-lsMissionTitle_10=Carga Energía Trenta
+lsMissionTitle_10=Carga la energía de Trenta
 lsMissionTitle_11=Encuentra al Instigador de la Rebelión
 lsShowCurrentMapOnly=Mostrar misiones en este mapa
 
@@ -8162,15 +8162,15 @@ MonsterName_1001=Targash
 MonsterDesc_1001=Targash es el antiguo dragón que perdió el destino de convertirse en un gran ser a manos de los demonios y Garuda, y todo lo que queda en él es resentimiento y odio.
 
 [MU2GFxLuerysTreasureBox]
-LS_LeftTitle=Caja del Tesoro de Luery
+LS_LeftTitle=Tesoro de Luery
 LS_ItemListBtn=Lista de Items principales
 LS_RenewBtn=Actualizar lista (%s)
 LS_RenewBtnFormat=%d/%d
 LS_RenewDesc=El recuento de actualización y la lista de elementos<br />se reinician cada jueves a las 5:00 a.m.
-LS_PickupBtn=Recoger items
-LS_CountLabel=Sorteos restantes:
+LS_PickupBtn=
+LS_CountLabel=Tiradas restantes:
 LS_CountFormat=%d/%d
-LS_ZenLabel=Coste del sorteo:
+LS_ZenLabel=Coste:
 
 [MU2GFxItemListView]
 LS_ItemListTitle=Lista de Items principales
