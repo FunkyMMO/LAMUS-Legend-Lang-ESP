@@ -8359,7 +8359,7 @@ LS_DescMiddle2=<font color='#FDC243'>Recoge todas las marcas para conseguir reco
 LS_Time=%s_1 m
 LS_TimeHour=%s_1 h
 LS_TimeRewardGetBtn=Reclamar
-LS_DescTail=Recoge recompensas según tu tiempo conectado.<br />Completa las marcas para obtener recompensas especiales.<br>Al reclamar recompensas las marcas se reinician.
+LS_DescTail=Completa las marcas para obtener recompensas especiales.<br />Al reclamar recompensas las marcas se reinician.<br>El contador de horas se reinicia a las 5:00 a.m.
 LS_BoxTooltip=<font color='#FDC243'>Recompensa de recarga de marcas</font></b><br><font color='#999999'>Recoge las 7 marcas para ganar una recompensa.
 LS_PopupTitle=Recompensa por reinicio de marcas
 LS_PopupGetDesc=Seleccione una de las recompensas.
