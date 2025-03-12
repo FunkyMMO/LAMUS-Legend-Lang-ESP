@@ -1441,6 +1441,9 @@ ItemCreateSubCategory11401=Limitado
 ItemCreateSubCategory11402=Permanente
 ItemCreateCategory115=Vestido
 ItemCreateSubCategory11501=Disfraz Premium
+ItemCreateCategory116=Tickets
+ItemCreateSubCategory11601=Tickets de Dungeons
+ItemCreateSubCategory11601=Tickets de Eventos
 
 [MU2GFxCharInfoView]
 LS_Title=Información del personaje
@@ -2162,7 +2165,7 @@ LS_MS_OwnWarning=Equipar una gema te vincula al Item.
 LS_ProtectedEnchant=Proteger Item
 LS_AutoEnchant=Automático
 LS_OnSale=¡En venta!
-LS_CancelEnchant=Cancelar encantamiento
+LS_CancelEnchant=Cancelar
 LS_Enchant=Encantar
 LS_KnightEnchant=Encantar
 LS_EnchantTransfer=Transferir el encantamiento
