@@ -407,13 +407,8 @@ SubTitle_1017003101=Crea ranuras para joyas en el equipo.
 Contents_1017003103=Todos los Items de equipo tienen cero ranuras por defecto.<br>Para equiparlos con joyas, debes crear ranuras en ellos a través del Cortador de Gemas en la ciudad.
 Title_1017004100=Mercader de Gemas Mágicas
 SubTitle_1017004101=Las Gemas Mágicas se usan para comprar en la Tienda de Gemas Mágicas y encantar y evolucionar Items.
-<<<<<<< HEAD
 Contents_1017004103=Las Gemas Mágicas son una moneda rara que solo se puede encontrar en las Grietas.<br>Los Comerciantes de Gemas Mágicas venden una variedad de Items especiales que son necesarios para el juego.<br>Encantar y evolucionar Items requiere Gemas Mágicas en grandes cantidades.
 Title_1017005100=Mercader de Pociones
-=======
-Contents_1017004103=Las Gemas Mágicas son una moneda rara que solo se puede encontrar en las Rifts.<br>Los Comerciantes de Gemas Mágicas venden una variedad de Items especiales que son necesarios para el juego.<br>Encantar y evolucionar Items requiere Gemas Mágicas en grandes cantidades.
-Title_1017005100=Potion Merchant
->>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
 SubTitle_1017005101=Vende pociones de HP.
 Contents_1017005103=Los mercaderes de pociones venden diferentes pociones, dependiendo del nivel de dificultad de su zona.<br>Los mercaderes de las zonas más difíciles venden pociones de mayor grado.
 Title_1017006100=Artesano
