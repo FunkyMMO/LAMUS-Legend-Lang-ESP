@@ -1900,7 +1900,7 @@ BATTLE_ADD_EXP_NORMAL=Ganaste %d EXP. (+%d)
 BATTLE_ADD_EXP_SOUL=Ganado %d Soul EXP. (+%d)
 WhisperMsgTo=Susurra a %s_1
 WhisperMsgFrom=Susurra desde %s_1
-NotiFindParty0=Reclutar Miembros del Grupo
+NotiFindParty0=Reclutamiento
 NotiFindParty1=Solicitar Party
 
 [PortalOverlay]

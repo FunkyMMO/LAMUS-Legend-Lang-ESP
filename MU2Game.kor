@@ -56,7 +56,7 @@ LS_SCMC_Reenter=Confirmar código de seguridad.
 LS_SCMC_RearrangementBtn=Reorganizar
 LS_SCMC_EnterTime=Hora de entrada: %s
 LS_SCRegistration_ErrorMsg=Los 2º códigos de seguridad no coinciden.<br>Por favor, inténtelo de nuevo.
-LS_SCCheck_ErrorMsg=El 2º código de seguridad introducido no coincide con nuestro registro.<br>Si lo ingresas incorrectamente 5 veces, la cuenta se bloqueará.(Intentos acumulados: %d)
+LS_SCCheck_ErrorMsg=El 2º código es invalido.<br>A los 5 intentos la cuenta se bloqueará.(Intentos: %d)
 LS_SCMC_OtpEnter=Introduzca el código VFun Otp.
 LS_SCOtpCheck_ErrorMsg=El código VFun Otp introducido no coincide con nuestro registro.
 
@@ -587,7 +587,7 @@ LS_Title_4304=Mercader de Dracansor
 LS_ShopDesc_4304=Se pueden comprar con Fichas de Perseverancia.
 LS_BuyCount_4304=Límite de compra
 LS_NoLimit_4304=Ilimitado
-LS_TokenCount_4304=Token de Perseverancia
+LS_TokenCount_4304=Perseverance Token
 LS_ToolTipText_4304=<b><font color='#FDC243'>Tickens de perseverancia</font></b><br>Se pueden conseguir completando la misión Dracansor.
 LS_Title_9519=Tienda del Mecánico Joven Chip
 LS_ShopDesc_9519=Tu recuento diario de compras se reinicia cada día a las 5:00 a.m.
