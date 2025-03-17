@@ -3423,7 +3423,7 @@ LS_DungeonDiffText_9042101=Cave of the Fire Demon
 LS_DungeonDiffText_9042301=Ice Demon Cave
 LS_DungeonDiffText_9040309=Easter Hunt Cave
 LS_DungeonDiffText_9030223=Halloween ghost mansion
-LS_DungeonDiffText_9040803=Aircraft defense
+LS_DungeonDiffText_9040803=Airship defense
 LS_DungeonDiffText_9040361=Village of the Many-Colored Saints
 LS_DungeonDiffText_9040362=Labyrinth
 LS_DungeonDiffText_9040363=Ohrdor sewerage system
@@ -3537,7 +3537,7 @@ DungeonTag_9062431=Epic Dungeon
 DungeonTag_9057003=Boss Content
 DungeonTag_9920101=Evento
 DungeonTag_9920201=Talisman: Blood Castle
-DungeonTag_9040101=Dungeon para un jugador
+DungeonTag_9040101=Un jugador
 DungeonTag_9040102=Un jugador
 DungeonTag_9203001=Evento
 DungeonTag_9040103=Un jugador
@@ -3562,11 +3562,11 @@ DungeonTag_9042101=Evento
 DungeonTag_9042301=Evento
 DungeonTag_9604001=Rift
 DungeonTag_9686001=Rift
-DungeonTag_9040803=Talisman: Aircraft defense
+DungeonTag_9040803=Talisman: Airship Defense
 DungeonTag_9040361=Event Dungeon
 DungeonTag_9040362=Event Dungeon
 DungeonTag_9040363=Event Dungeon
-DungeonTag_9069101=Campamento de entrenamiento
+DungeonTag_9069101=Campo de entrenamiento
 DungeonTag_9069201=Campo de entrenamiento
 DungeonTag_9620001=Dungeon normal
 DungeonTag_9620201=Rift
@@ -3595,19 +3595,19 @@ Dungeon_Title_9020304=Karmatan Mine
 Dungeon_Desc_9020304=Debo haberme perdido algunas bombas que el Ejército del Pandemónium colocó en el Bosque Amberial.<br>Los enemigos están atravesando los muros exteriores de Karmatan a cientos.
 Dungeon_Title_9020213=Mystery Cave
 Dungeon_Desc_9020213=De esta cueva están saliendo criaturas monstruosas.<br>Debo averiguar de dónde vienen.
-Dungeon_Title_9030221=Sótano del jardín
+Dungeon_Title_9030221=Garden Basement
 Dungeon_Desc_9030221=La Parca Oscura es un viejo árbol gigante con raíces que rodean Karolsandria.<br>Rocía agua bendita sobre la Parca Oscura y el agua correrá por sus raíces, purgando Karolsandria.
 Dungeon_Title_9030223=Halloween ghost mansion
 Dungeon_Desc_9030223=Halloween ha intensificado la Energía Maligna en el aire. En esta mansión oculta, todo tipo de espíritus furiosos están disfrutando de un festival de sangre.
 Dungeon_Title_9050221=Dracans Alta
 Dungeon_Desc_9050221=El brasero sagrado de Bulcan en el Altar de los Dracanos se ha apagado.<br>Para conseguir información sobre la misión, debo volver a encender el brasero y ganarme el favor de los Dracanos.
-Dungeon_Title_9050821=Cueva Pandémica
+Dungeon_Title_9050821=Pandemonic Cave
 Dungeon_Desc_9050821=Una de las dos cuevas que están sufriendo<br>rápidos cambios pandemónicos tiene Lágrimas de Neria selladas en su interior.<br>Debo encontrarla antes de que lo haga el Ejército del Pandemónium.
-Dungeon_Title_9050822=Hoyo de las Pesadillas
+Dungeon_Title_9050822=Pit of Nightmares
 Dungeon_Desc_9050822=Una gigantesca caverna pandemónica que fue el primer lugar en sufrir cambios pandemónicos.<br>La gente ahora lo llama el Pozo de las Pesadillas.
-Dungeon_Title_9050421=Tumba Real de Wallkreiger
+Dungeon_Title_9050421=Wallkreiger Royal Tomb
 Dungeon_Desc_9050421=Un palacio en ruinas del antiguo Reino Wallkreiger, atormentado por los fantasmas de su emperador maldito y sus súbditos.
-Dungeon_Title_9030121=Almacén abandonado
+Dungeon_Title_9030121=Abandoned Warehouse
 Dungeon_Desc_9030121=Un viejo almacén de grano y vino que fue destruido e invadido por monstruos.
 Dungeon_Title_9030122=Cave of Evil Energy
 Dungeon_Desc_9030122=Esta cueva está ocupada por la Misión Oscura y contaminada con la energía maligna que se filtró dentro desde Pandemonium.
@@ -3615,33 +3615,33 @@ Dungeon_Title_9050621=Crystal Cave
 Dungeon_Desc_9050621=Única mina de cristal del continente que produce cristales 100% puros. Es propiedad de la Alianza de la Nobleza, el grupo de Lorencianos que aboga por la supremacía de la sangre pura.
 Dungeon_Title_9030222=Queen's Tomb
 Dungeon_Desc_9030222=Aquí yacen los Caballeros Karol y su reina, a la que han jurado lealtad eterna.
-Dungeon_Title_9050521=Pico de Hielo Sangriento
+Dungeon_Title_9050521=Blood Ice Peak
 Dungeon_Desc_9050521=Una tierra alta donde se libró una sangrienta batalla contra el Ejército del Pandemónium y que aún está manchada con la sangre y la ira de los caídos.
-Dungeon_Title_9050222=Canal Cerrado
+Dungeon_Title_9050222=Closed Waterway
 Dungeon_Desc_9050222=Una enorme vía fluvial que antaño transportaba agua potable por todo el Reino de Drapia. Se cerró después de que la temperatura del aire descendiera, congelando el agua.
 Dungeon_Title_9030321=Sky Temple
 Dungeon_Desc_9030321=La base de los Garudas, un miembro de la Alianza de la Línea, que se ha unido a las filas del Ejército del Pandemónium.
 Dungeon_Title_9020321=Heath Mine
 Dungeon_Desc_9020321=Una mina de newk con Glasha, un guerrero de Pandemonium, sellado en su interior. Este guerrero era conocido como el Dios de la Carnicería durante la Guerra de los Tres Años.
-Dungeon_Title_9050321=Cueva de la Cascada Glaciar
+Dungeon_Title_9050321=Glacier Waterfall Cave
 Dungeon_Desc_9050321=Esta cueva de hielo natural ha sido modificada por los kanturianos para desarrollar su principal fuente de energía.
 Dungeon_Title_9050721=Prison Camp
 Dungeon_Desc_9050721=Este peligroso campamento alberga criaturas pandemónicas que fueron capturadas durante la guerra contra el Ejército Pandemónico.
-Dungeon_Title_9059203=Prueba de admisión
+Dungeon_Title_9059203=Testing ground of admittance
 Dungeon_Desc_9059203=Hace mucho, mucho tiempo, el rey dragón Kaizel preparó un campo de pruebas para seleccionar a los verdaderos héroes dejando aquí una parte de su alma. Al final, qué guerrero demostrará su valor y habilidades en el campo de pruebas de admisión, limpiamente.
 Dungeon_Title_9020221=Evil Energy Forest
 Dungeon_Desc_9020221=El origen de la Energía Maligna que se extiende por el Bosque Amberial.<br>La Energía Maligna ha traído criaturas de Pandemónium y ha vuelto agresivas a las bestias del bosque.
 Dungeon_Title_9062121=Dark Green Shadows
 Dungeon_Desc_9062121=Un frondoso bosque que solía ser el campo de entrenamiento de los elfos. Ahora está ocupado por el ejército invasor de Ashas.<br>¿Qué podría estar tramando Ashas aquí?
-Dungeon_Title_9062221=Templo de Sapientia
+Dungeon_Title_9062221=Sapientia Temple
 Dungeon_Desc_9062221=Templo que rinde culto a la Diosa Sapientia, creadora de los elfos y símbolo de la sabiduría.<br>Un gran ejército de Ashas ha invadido el templo, atacando el Árbol del Aliento del Mundo.
-Dungeon_Title_9062321=Ruinas del Pionero
+Dungeon_Title_9062321=Pioneer's Ruins
 Dungeon_Desc_9062321=Un antiguo lugar donde está enterrado Pabillune, el líder espiritual de los primeros colonos Ashas de Noria.<br>Los elfos oscuros y sus fuerzas de coalición han invadido el lugar, buscando venganza por el Sapientia Temple.
-Dungeon_Title_9062421=Laberinto de Escamas
+Dungeon_Title_9062421=Maze of Scales
 Dungeon_Desc_9062421=El campamento base de los Naga, la raza autóctona de criaturas demoníacas de la Isla de la Luna Creciente.<br>La zona interior está enmarañada como una tela de araña, muy parecida a un laberinto ineludible.
-Dungeon_Title_9062422=Descanso del Peregrino
+Dungeon_Title_9062422=Pilgrim's Rest
 Dungeon_Desc_9062422=Los peregrinos Ashas se asentaron aquí tras vagar por los continentes en el pasado. Ahora sólo quedan sus cadáveres en estas ruinas.<br>Tan pacífico santuario no pudo evitar la ira de las fuerzas invasoras.
-Dungeon_Title_9062521=Cueva Susurrante
+Dungeon_Title_9062521=Whispering Cave
 Dungeon_Desc_9062521=Una misteriosa cueva donde los gobernantes de Ashas se quedaban para entrenar sus mentes.<br>Aquí se pueden encontrar algunos seres espirituales y fuerzas externas que intentan corromperlos.
 Dungeon_Title_9062621=Sleighbowa
 Dungeon_Desc_9062621=La capital de Ashas en Noria y su patria espiritual.<br>El Rey Papa Ashas y sus tropas luchan por su último bastión en el corazón de la ciudad.
@@ -3851,7 +3851,7 @@ Dungeon_Title_9920601=Pit of the Dead
 Dungeon_Desc_9920601=En las profundidades de Pandemonium, los espíritus de los muertos claman por la libertad. Convócalos y apacigüalos antes de que recuperen su poder y decidan invadir MU.
 Dungeon_Title_9602001=Lupa's Ancient Archive
 Dungeon_Desc_9602001=El Archivo Antiguo de Lupa está atrapado en un bucle temporal infinito, y ahora su existencia se ve amenazada por los devastadores efectos de Rift.
-Dungeon_Title_9042101=Cave of the Fire Demon
+Dungeon_Title_9042101=Fire Demon Cave
 Dungeon_Desc_9042101=Otro mundo de misterios que ha sido descubierto por la Sociedad de Investigación de Rift. <br>Se dice que el dueño de este mundo teñido de rojo lleva un Item muy importante.
 Dungeon_Title_9042301=Ice Demon Cave
 Dungeon_Desc_9042301=Otro mundo de misterios que ha sido descubierto por la Sociedad de Investigación de Rift. <br>Se dice que el dueño de este mundo teñido de azul lleva un Item muy importante.
@@ -3863,8 +3863,8 @@ Dungeon_Title_Awaken_9203001=Lupa's Awakened Labyrinth
 Dungeon_Desc_Awaken_9203001=El reloj mejorado de Lupa llevó al descubrimiento de este laberinto.<br>Ni el laberinto del pasado ni uno del presente, este espacio increíblemente extraño no puede encontrarse en ningún otro lugar. ¿Cuál es la verdadera naturaleza de este mundo?<br><font color='#FDD889'>La dificultad aumenta aún más a partir de la fase 51 del Laberinto del Despertar de Lupa, con monstruos de más de nivel 80 que empiezan a aparecer.</font>
 Dungeon_Title_9686001=Intensive Cultivation Room
 Dungeon_Desc_9686001=Después de que un sujeto de pruebas se descontrolara, una entidad desconocida trasladó esta instalación central del Área Restringida a otra dimensión.<br>Contiene pistas sobre la verdad que se esconde tras el accidente ocurrido en el Área Restringida 6-1 y la persona responsable del mismo.
-Dungeon_Title_9040803=Aircraft defense
-Dungeon_Desc_9040803=La aeronave que fue construida para ser pionera en la ruta hacia la devildom está esperando a un valiente guardián.<br>Quizás los guardianes puedan encontrar un gran origen de poder, en el lugar completamente desconocido donde los descubrimientos no se pueden predecir.<br><font color='#FDD889'>Lv. 80 monstruos aparecerán en el nivel de dificultad 2 de la Aircraft defense, y la dificultad y las recompensas aumentarán mucho.</font>
+Dungeon_Title_9040803=Airship Defense
+Dungeon_Desc_9040803=La aeronave que fue construida para ser pionera en la ruta hacia la devildom está esperando a un valiente guardián.<br>Quizás los guardianes puedan encontrar un gran origen de poder, en el lugar completamente desconocido donde los descubrimientos no se pueden predecir.<br><font color='#FDD889'>Lv. 80 monstruos aparecerán en el nivel de dificultad 2 de la Airship defense, y la dificultad y las recompensas aumentarán mucho.</font>
 Dungeon_Title_9040361=Village of the Many-Colored Saints
 Dungeon_Desc_9040361=Una Dungeon que solo se abre durante ciertas fiestas.<br>¡Las Santas se han vuelto locas! Hazles entrar en razón e ilumina los árboles para crear el ambiente navideño.
 Dungeon_Title_9040362=Labyrinth
@@ -3878,9 +3878,9 @@ Dungeon_Desc_9069201=¡Un lugar de aprendizaje para aventureros que quieren quit
 Dungeon_Title_9620001=Goblin Thieves
 Dungeon_Desc_9620001=La tranquila y pacífica aldea rural está siendo atacada por un grupo de ladrones goblin. <br>Consigue varios minerales, Hero Tokens y Polvo de Gemas de los ladrones goblin.
 Dungeon_Title_9620201=Nighttime Raid
-Dungeon_Desc_9620201=CreÃamos que los ladrones goblin huyeron tras perder la batalla. No lo hicieron: han estado esperando a que cayera la noche.¶¡Ten cuidado! Esta vez estÃ¡n preparados para ti.
+Dungeon_Desc_9620201=Creíamos que los ladrones goblin huyeron tras perder la batalla. No lo hicieron: han estado esperando a que cayera la noche.¶¡Ten cuidado! Esta vez estÃ¡n preparados para ti.
 Dungeon_Title_9040364=Maze of Puzzles
-Dungeon_Desc_9040364=El misterioso poder ha desbloqueado el Laberinto de Puzzles.<br>¡Derrota a los extraños seres del interior del laberinto para obtener recompensas en forma de artefactos junto con dulces pasteles de arroz!
+Dungeon_Desc_9040364=El misterioso poder ha desbloqueado el Maze of Puzzle.<br>¡Derrota a los extraños seres del interior del laberinto para obtener recompensas en forma de artefactos junto con dulces pasteles de arroz!
 Dungeon_Title_9062408=Cave Full of Mutants
 Dungeon_Desc_9062408=El misterioso camino interdimensional creado por el mensajero celestial conduce hasta aquí.<br>Se dice que está llena de los seres más corruptos, miserables y pecaminosos del mundo.
 Dungeon_Title_9040365=Froggie Paradise
@@ -3906,7 +3906,7 @@ Dungeon_Desc_9088801=Los guerreros, con el fin de perseguir el arma legendaria d
 LS_DungeonName[0]=Rift
 LS_DungeonName[1]=Guild Rift
 LS_DungeonName[2]=Dungeon Normal
-LS_DungeonName[3]=Dungeon de búsqueda
+LS_DungeonName[3]=Quest Dungeon
 LS_DungeonName[4]=Dungeon épica
 LS_DungeonName[5]=Endless Tower
 LS_DungeonName[6]=Blood Castle
@@ -4109,7 +4109,7 @@ LS_NonePlay=No hay registro de juego.
 LS_DungeonType[0]=Un jugador
 LS_DungeonType[1]=Dungeon normal
 LS_DungeonType[2]=Rift
-LS_DungeonType[3]=Dungeon de cristal
+LS_DungeonType[3]=Porystal
 LS_DungeonType[4]=Dungeon épica
 LS_DungeonType[5]=Eventos
 LS_EnterDesc[0]=
@@ -4122,7 +4122,7 @@ LS_EnterDesc[6]=
 LS_EnterDesc[7]=
 LS_CreateDungeonLvLabel=Nivel recomendado
 LS_CreateDungeon=Crear Dungeon
-LS_CreateDungeonEnterCost=Coste de ingreso
+LS_CreateDungeonEnterCost=Coste de entrada
 LS_BlockMove=Mover bloque
 LS_NewBlockMove_ing=Mover a un nuevo bloque
 LS_DescAutoMoveAfterDTime=Serás movido automáticamente después de un tiempo determinado.
@@ -4130,10 +4130,10 @@ LS_Step=Etapa %s_1
 LS_MemberInviteDungeonEnter=%s ha solicitado entrar en la Dungeon.
 LS_BossDungeon=Instancia de Boss
 LS_CanNotSee=Desconocido
-LS_DungeonDesc_9020304=Sólo puedes entrar en esta Dungeon Quest solo,<br>no con tu grupo.
-LS_DungeonDesc_9020213=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
-LS_DungeonDesc_9030221=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
-LS_DungeonDesc_9050221=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
+LS_DungeonDesc_9020304=Sólo puedes entrar en esta Dungeon solo,<br>no con tu party.
+LS_DungeonDesc_9020213=Sólo puedes entrar en esta Dungeon solo,<br>no con tu party.
+LS_DungeonDesc_9030221=Sólo puedes entrar en esta Dungeon solo,<br>no con tu party.
+LS_DungeonDesc_9050221=Sólo puedes entrar en esta Dungeon solo,<br>no con tu party.
 LS_DungeonDesc_9050821=Las Dungeons normales no usan esta descripción.
 LS_DungeonDesc_9050822=Las Dungeons normales no usan esta descripción.
 LS_DungeonDesc_9050421=Las Dungeons normales no usan esta descripción.
@@ -4144,8 +4144,8 @@ LS_DungeonDesc_9050621=Las Dungeons normales no usan esta descripción.
 LS_DungeonDesc_9030222=Las Dungeons normales no usan esta descripción.
 LS_DungeonDesc_9050521=Las Dungeons normales no usan esta descripción.
 LS_DungeonDesc_9050222=Las Dungeons normales no usan esta descripción.
-LS_DungeonDesc_9030321=Las Dungeons normales no utilizan esta descripción.
-LS_DungeonDesc_9020321=Las Dungeons normales no utilizan esta descripción.
+LS_DungeonDesc_9030321=Las Dungeons normales no usan esta descripción.
+LS_DungeonDesc_9020321=Las Dungeons normales no usan esta descripción.
 LS_DungeonDesc_9050321=Las Dungeons normales no usan esta descripción.
 LS_DungeonDesc_9050721=Las Dungeons normales no usan esta descripción.
 LS_DungeonDesc_9020221=Las Dungeons normales no usan esta descripción.
@@ -4154,55 +4154,55 @@ LS_DungeonDesc_9062221=Las Dungeons normales no usan esta descripción.
 LS_DungeonDesc_9062321=Las Dungeons normales no usan esta descripción.
 LS_DungeonDesc_9062521=Las Dungeons normales no usan esta descripción.
 LS_DungeonDesc_9062621=Las Dungeons normales no usan esta descripción.
-LS_DungeonDesc_9020211=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020212=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020214=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020311=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020312=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020313=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020314=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9020315=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030111=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030112=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030113=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030114=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030211=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030212=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030213=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030214=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030311=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030312=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030313=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9030314=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050211=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050212=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050213=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050214=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050311=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050312=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050313=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050314=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050411=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050412=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050413=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050414=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050511=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050512=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050513=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050514=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050611=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050612=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050613=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050614=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050711=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050712=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050713=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050714=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050811=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050812=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050813=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9050814=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
-LS_DungeonDesc_9062111=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite un número ilimitado de entradas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020211=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020212=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020214=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020311=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020312=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020313=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020314=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9020315=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030111=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030112=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030113=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030114=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030211=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030212=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030213=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030214=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030311=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030312=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030313=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9030314=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050211=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050212=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050213=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050214=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050311=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050312=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050313=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050314=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050411=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050412=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050413=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050414=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050511=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050512=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050513=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050514=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050611=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050612=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050613=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050614=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050711=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050712=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050713=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050714=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050811=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050812=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050813=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9050814=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
+LS_DungeonDesc_9062111=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
 LS_DungeonDesc_9062112=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
 LS_DungeonDesc_9062113=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
 LS_DungeonDesc_9062211=Esta Dungeon es especialmente abundante en Items y Gemas Mágicas.<br><font color='#B4FE42'>Permite entradas ilimitadas mientras se está en modo Overdrive.</font>
@@ -4214,22 +4214,22 @@ LS_DungeonDesc_9062313=Esta Dungeon es especialmente abundante en Items y Gemas 
 LS_DungeonDesc_9920301=Elimina a los monstruos del interior y carga la Energía de Trenta para activar a Trenta.<br>Trenta es un gólem gigante que genera portales de Rift.
 LS_DungeonDesc_9920401=Elimina a los monstruos del interior y carga la energía de Trenta para activar a Trenta.<br>Trenta es un gólem gigante que genera portales de Rift.
 LS_DungeonDesc_9920501=Elimina a los monstruos del interior y carga la energía de Trenta para activar a Trenta.<br>Trenta es un gólem gigante que genera portales de Rift.
-LS_DungeonDesc_9800110=La Biblioteca de Lupa es mucho más difícil que una Rift normal.<br>Se recomienda jugar con un grupo.
-LS_DungeonDesc_9050431=Las Dungeons épicas son mucho más difíciles que otras Dungeons. Se recomienda jugar en grupo.
-LS_DungeonDesc_9030331=Las Dungeons épicas son mucho más difíciles que otras Dungeons. Se recomienda jugar en grupo.
-LS_DungeonDesc_9062631=Las Dungeons épicas son mucho más difíciles que otras Dungeons. Se recomienda explorarlas en grupo.
-LS_DungeonDesc_9920101=El nivel de dificultad de la Endless Tower varía dependiendo del <font color='#B4FE42'>número de miembros de tu grupo</font>.
-LS_DungeonDesc_9920201=El nivel de dificultad de Blood Castle varía en función del <font color='#B4FE42'>número de miembros de tu grupo</font>.
-LS_DungeonDesc_9040101=Solo puedes entrar en esta Dungeon solo,<br>no con tu grupo.
-LS_DungeonDesc_9040102=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
+LS_DungeonDesc_9800110=La Biblioteca de Lupa es mucho más difícil que una Rift normal.<br>Se recomienda jugar en party.
+LS_DungeonDesc_9050431=Las Dungeons épicas son mucho más difíciles que otras Dungeons. Se recomienda jugar en party.
+LS_DungeonDesc_9030331=Las Dungeons épicas son mucho más difíciles que otras Dungeons. Se recomienda jugar en party.
+LS_DungeonDesc_9062631=Las Dungeons épicas son mucho más difíciles que otras Dungeons. Se recomienda jugar en party.
+LS_DungeonDesc_9920101=El nivel de dificultad de Endless Tower varía dependiendo del <font color='#B4FE42'>número de miembros en tu party</font>.
+LS_DungeonDesc_9920201=El nivel de dificultad de Blood Castle varía en función del <font color='#B4FE42'>número de miembros en tu party</font>.
+LS_DungeonDesc_9040101=Solo puedes entrar en esta Dungeon solo,<br>no con tu party.
+LS_DungeonDesc_9040102=Sólo puedes entrar en esta Dungeon solo,<br>no con tu party.
 LS_DungeonDesc_9203001=Lupa's Labyrinth es un evento de alta dificultad, abundante en materiales de craft de Artefactos y diseñado para ayudar a mejorar los Artefactos.
-LS_DungeonDesc_9040364=Descripción del Laberinto de Puzzles
-LS_DungeonDesc_9062408=Sólo puedes entrar en esta Dungeon tú solo,<br>no con tu grupo.
-LS_ArtifactLvDesc[0]=<font color='#FF0000'>¡Selecciona un Artefacto para mejorar!</font><br>Si no hay un Artefacto para mejorar,<br>no puedes ganar EXP de Artefacto.
-LS_ArtifactLvDesc[1]=La Dificultad es igual al nivel de crecimiento del Artefacto.<br>¡Un verdadero desafío!<br><font color='#FDD889'>Obtendrás el 100% de EXP de Artefacto.</font>
-LS_ArtifactLvDesc[2]=La Dificultad es mayor que el nivel de crecimiento del Artefacto.<br>¡Un verdadero desafío!<br><font color='#FDD889'>Obtendrás EXP de Artefacto adicional.</font>
-LS_ArtifactLvDesc[3]=La Dificultad es menor que el nivel de crecimiento del Artefacto.<br>¡Un desafío débil!<br><font color='#FF0000'>Obtendrás EXP de Artefacto reducida.</font>
-LS_AutoPartyMatchingToolTip=Jugadores en la cola de emparejamiento automático.
+LS_DungeonDesc_9040364=Descripción del Maze of Puzzle
+LS_DungeonDesc_9062408=Sólo puedes entrar en esta Dungeon solo,<br>no con tu party.
+LS_ArtifactLvDesc[0]=<font color='#FF0000'>¡Selecciona un Artefacto para mejorar!</font><br>Si no hay un Artefacto para mejorar,<br>no vas a ganar EXP de Artefacto.
+LS_ArtifactLvDesc[1]=La Dificultad es igual al nivel de mejora del Artefacto.<br>¡Un verdadero desafío!<br><font color='#FDD889'>Obtendrás el 100% de EXP de Artefacto.</font>
+LS_ArtifactLvDesc[2]=La Dificultad es mayor que el nivel de mejora del Artefacto.<br>¡Un verdadero desafío!<br><font color='#FDD889'>Obtendrás EXP de Artefacto adicional.</font>
+LS_ArtifactLvDesc[3]=La Dificultad es menor que el nivel de mejora del Artefacto.<br>¡Un desafío débil!<br><font color='#FF0000'>Obtendrás EXP de Artefacto reducida.</font>
+LS_AutoPartyMatchingToolTip=Jugadores en cola para emparejamiento de party automático.
 LS_LevelStep=Etapa %s_1
 LS_AwakenMazeLodTitle=Dificultad Lupa's Awakened Labrynth
 LS_MazeofRupa=Dificultad Normal
@@ -4238,15 +4238,15 @@ LS_Awaken=Despertar
 LS_SkillChange=Cambiar habilidad
 LS_EquipTalismanSkill=Habilidad Talismán equipado
 LS_EnterSoulLevel=%s_1 (%s_2)/%s_3 (%s_4)
-LS_LiberationExplosionTitle=Liberación del tiempo espacial
+LS_LiberationExplosionTitle=Liberación del spacetime
 LS_LiberationExplosionLeftTimeTitle=Tiempo restante
 LS_OnePersonOnlyTitle=Sólo una persona
-LS_OnePersonOnlyWarnning=No se puede entrar en grupo.
+LS_OnePersonOnlyWarnning=No puedes entrar en grupo.
 LS_DungeonDiffText_9040368=La zona prohibida del carnaval
 LS_DungeonDiffText_9601901=La avaricia de Kaizel
 LS_DungeonDiffText_9601601=El deseo de Targash
 LS_DungeonDiffText_9602401=El viejo castillo famoso por sus cerezos en flor
-LS_DungeonDiffText_9059203=Prueba de admisión
+LS_DungeonDiffText_9059203=Testing ground of admittance
 LS_DungeonDiffText_9040372=Templo del resentimiento
 LS_DungeonDiffText_9040902=Vainas blindadas
 LS_DungeonDiffText_9059221=Cave of Bulcan
@@ -4309,7 +4309,7 @@ LS_DungeonLodDescByUiType4_9059231_2=Vida de enemigos <font color='#11F210'> 800
 LS_DungeonLodDescByUiType4_9062631_0=Vida de enemigos <font color='#11F210'> 2000%</font><br>Ataque de enemigos<font color='#11F210'> 1228%</font><br>ganar EXP <font color='#11F210'> 1122%</font>
 LS_DungeonLodDescByUiType4_9062631_1=Vida de enemigos <font color='#11F210'> 4600%</font><br>Ataque de enemigos<font color='#11F210'> 2796%</font><br>ganancia EXP <font color='#11F210'> 2674%</font>
 LS_DungeonLodDescByUiType4_9062631_2=Vida de enemigos <font color='#11F210'> 8000%</font><br>Ataque de enemigos<font color='#11F210'> 4084%</font><br>ganar EXP <font color='#11F210'> 4676%</font>
-LS_DungeonDesc_9059231=La dificultad de la Dungeon épica es muy alta. Party play recomendado.
+LS_DungeonDesc_9059231=La dificultad de la Dungeon épica es muy alta. Se recomienda jugar en party.
 
 [MU2AutoActionPawn]
 TooltipTalk=%s_1
@@ -5279,7 +5279,7 @@ LS_MemoryImprintComplete_TItleStr=Impresión de Memoria Misión Completada
 LS_MemoryImprintComplete_MainStr=Has completado la misión Impresión de memoria.<br>Haz clic para ver las recompensas de estadísticas y la nueva historia.
 LS_MemoryImprintComplete_ControlStr=Abrir Ventana de Misión Impresión de Memoria
 LS_LiberationExplosion_TItleStr=Liberación del espacio-tiempo
-LS_LiberationExplosion_MainStr=Se ha activado el modo Liberación del tiempo espacial.<br>¡Entra ya en el God of Corridor!
+LS_LiberationExplosion_MainStr=Se ha activado el modo Liberación del spacetime.<br>¡Entra ya en el God of Corridor!
 LS_LiberationExplosion_ControlStr=Abrir ventana de liberación del espacio-tiempo
 LS_FamilyView_TitleStr=Notificación del Escuadrón de Aventuras
 LS_FamilyView_ControlStr=Abrir ventana de aventurero
@@ -8039,7 +8039,7 @@ Condition_202=Carga una vez después de 30 minutos de tiempo en línea (net caf�
 Condition_203=Carga una vez después de 60 minutos de tiempo en línea (net cafés)
 Condition_204=Cargado una vez tras 120 minutos de conexión (cibercafés)
 Condition_205=Carga única tras 180 minutos de conexión (cibercafés)
-Condition_206=Cargado una vez al entrar en Aircraft defense (net cafes)
+Condition_206=Cargado una vez al entrar en Airship defense (net cafes)
 Condition_207=Cargado una vez al entrar en la Endless Tower (net cafes)
 RarbaDesc_30102=¡Recompensa Cofre EXP x2!
 RarbaDesc_30103=Te moverás hacia atrás en el siguiente turno.

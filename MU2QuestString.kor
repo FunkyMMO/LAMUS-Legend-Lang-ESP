@@ -1983,15 +1983,15 @@ Occur_String2=¿Realmente no están durmiendo en vestíbulos, verdad?
 Occur_String3=¿No crees que eso es gracioso? Suspiro... Según la mitología Gnoll, el vestíbulo significa la morada de su jefe. Los Gnolls son poligamistas, y su leyenda dice que una concubina Gnoll dio a luz a un hijo en el vestíbulo de una casa que compartía con la esposa porque la esposa no la dejaba entrar.
 Occur_String4=Más tarde, su hijo unificó todas las tribus Gnoll y se convirtió en el primer jefe de su nación.<br>Desde entonces, la morada del jefe Gnoll se llama el vestíbulo.
 Occur_String5=¿Y?
-Occur_String6=El vestíbulo significa donde se queda Ron, el jefe de la Legión Gnoll que invadió Bredrice.<br>Él estableció el cuartel general en el almacén abandonado.
-Occur_String7=¿Lo entiendes ahora? Sezak se ha mudado al almacén abandonado.
+Occur_String6=El vestíbulo significa donde se queda Ron, el jefe de la Legión Gnoll que invadió Bredrice.<br>Él estableció el cuartel general en el Abandoned Warehouse.
+Occur_String7=¿Lo entiendes ahora? Sezak se ha mudado al Abandoned Warehouse.
 Occur_String8=Comandante Sezak, del ejército invasor de Pandemonium en Bredrice.<br>¿Estás seguro de que podemos darle la vuelta a la situación eliminándolo?
 Occur_String9=¿Estás cuestionando al Gran Sabio Zakarian? ¡Qué grosero!<br>Esta es su segunda prueba para ti.
 Occur_String10=¿Por qué dudas? Vamos, ve al hogar del jefe Gnoll y deshazte de Sezak.
 Doing_String=Sezak confía en los Gnolls porque no tienen miedo<br>y no son en absoluto como esos Kobolds egoístas y caprichosos.
 Completable_String1=Bienvenido, Uno sin Recuerdos. He estado esperándote.
-Complete_String=Fui al almacén abandonado y eliminé al Jefe Gnoll Ron, pero el Comandante Sezak no estaba por ninguna parte.
-List_String=(Misión Principal de Duelden) (5/32)<br>Ve al almacén abandonado, elimina al Jefe Gnoll Ron y busca a Sezak.
+Complete_String=Fui al Abandoned Warehouse y eliminé al Jefe Gnoll Ron, pero el Comandante Sezak no estaba por ninguna parte.
+List_String=(Misión Principal de Duelden) (5/32)<br>Ve al Abandoned Warehouse, elimina al Jefe Gnoll Ron y busca a Sezak.
 Mission_String=Matar al Jefe Gnoll en Abandoned Warehouse y hablar con el Gran Sabio Zakarian
 Mission_Target1=Matar al Gnoll Chief Ron
 
@@ -2412,7 +2412,7 @@ Mission_Target1=Pergaminos de Resurrección de la Reina
 [Quest_417]
 Name=Fuente de la Unión
 Occur_String1=La princesa de los elfos está al noreste de aquí, preparándose para la resurrección de la reina.<br>Por favor, entrega esta buena noticia a ella.
-Occur_String2=(¿La princesa de los elfos...? ¿Puede ser la que conocí en el sótano del jardín?)
+Occur_String2=(¿La princesa de los elfos...? ¿Puede ser la que conocí en el Garden Basement?)
 Occur_String3=
 Doing_String=Por favor, entrega esta buena noticia a la princesa de los elfos que se está preparando para la resurrección de la Reina Lenavis.
 Completable_String1=Bienvenido. Mis exploradores me han dicho que detuviste su resurrección.<br>Gracias, extraño.
@@ -3382,7 +3382,7 @@ Occur_String4=¿Quieres que entre en las sewers? Los conseguiré.
 Doing_String=Gracias de antemano.
 Complete_String=Recolecté el fluido corporal de los Bichos de Alcantarilla para evitar que el herido Guerrero Dracano Zallo se desangrara.
 List_String=Recolectar el fluido corporal de los Bichos de Alcantarilla para salvar al herido Guerrero Dracano Zallo de desangrarse.
-Mission_String=Recolectar Fluidos de Bicho de Alcantarilla del Canal Cerrado
+Mission_String=Recolectar Fluidos de Bicho de Alcantarilla del Closed Waterway
 Mission_Target1=Fluido de Bicho de Alcantarilla
 
 [Quest_621]
@@ -3397,9 +3397,9 @@ Occur_String7=¿Adivina qué pasó después? Fue devorado por los Azotadores.<br
 Occur_String8=Cuando la noticia sobre Chaisong abriendo el canal se difundió, sus padres me contactaron sobre su deseo de venganza.
 Occur_String9=¿Qué haces? ¡Muévete! ¿No quieres ganar dinero?
 Doing_String=La vida es como una apuesta.
-Complete_String=Por solicitud del Mercader Phili, exterminé a los Azotadores, unos mutantes que viven en el canal cerrado.
-List_String=Matar Azotadores, unos mutantes que viven en el canal cerrado.
-Mission_String=Exterminar Azotadores en el Canal Cerrado
+Complete_String=Por solicitud del Mercader Phili, exterminé a los Azotadores, unos mutantes que viven en el Closed Waterway.
+List_String=Matar Azotadores, unos mutantes que viven en el Closed Waterway.
+Mission_String=Exterminar Azotadores en el Closed Waterway
 Mission_Target1=Azotadores de Ira
 Mission_Target2=Azotadores Armados de Ira
 Mission_Target3=Azotadores Contundentes de Ira
@@ -3446,7 +3446,7 @@ Mission_Target1=Hablar con Acer
 
 [Quest_650]
 Name=Criminal Buscado del Reino de Mediah
-Occur_String1=Recibí un informe de que Cryton, un criminal buscado, se esconde en el Canal Cerrado.<br>Es el líder de infames bandidos en el Reino de Mediah. Es cruel y feroz.<br>Casi lo atrapamos una vez... pero escapó.
+Occur_String1=Recibí un informe de que Cryton, un criminal buscado, se esconde en el Closed Waterway.<br>Es el líder de infames bandidos en el Reino de Mediah. Es cruel y feroz.<br>Casi lo atrapamos una vez... pero escapó.
 Occur_String2=Por eso estamos en problemas ahora. Tiene un rencor y sigue obstaculizándonos.<br>Probablemente sea su venganza mezquina contra el reino, ya que los Halcones Plateados pertenecen al Reino de Mediah.<br>Pero no podemos actuar nosotros mismos... así que te necesitamos.
 Occur_String3=Por favor, arresta a Cryton.<br>Es tan elusivo que será difícil encontrarlo y atraparlo. Puede ser una lucha prolongada.<br>Y dado que Cryton parece estar escondido con sus subordinados, sería bueno si también puedes atraparlos.
 Doing_String=Por favor, arresta a Cryton.<br>Es tan elusivo que será difícil encontrarlo y atraparlo. Puede ser una lucha prolongada.<br>Y dado que Cryton parece estar escondido con sus subordinados, sería bueno si también puedes atraparlos.
@@ -3459,9 +3459,9 @@ Mission_Target2=Arrestar a Cryton
 
 [Quest_651]
 Name=Forma de Vida Misteriosa
-Occur_String1=[Leyendo la carta]<br>'Agradecemos sinceramente el esfuerzo de George de los Halcones Plateados,<br>quien supuso que la causa de la mutación de Flarin es un suministro estable de energía mágica,<br>y encontró el Flarin Mutado en la Cueva de la Cascada Glaciar de donde sale la energía Pectra.'
+Occur_String1=[Leyendo la carta]<br>'Agradecemos sinceramente el esfuerzo de George de los Halcones Plateados,<br>quien supuso que la causa de la mutación de Flarin es un suministro estable de energía mágica,<br>y encontró el Flarin Mutado en la Glacier Waterfall Cave de donde sale la energía Pectra.'
 Occur_String2=[Leyendo la carta]<br>'El Flarin Mutado es una fuente importante para averiguar cómo la energía mágica influye en las formas de vida,<br>así que te pedimos amablemente que recojas sus cristales lo más intactos posible<br>para continuar con tu investigación.' Archimago del Reino de Mediah Kundun Mephis'
-Occur_String3=¿Así que quieres que vaya a la Cueva de la Cascada Glaciar... y traiga de vuelta el cristal del Flarin Mutado?
+Occur_String3=¿Así que quieres que vaya a la Glacier Waterfall Cave... y traiga de vuelta el cristal del Flarin Mutado?
 Occur_String4=Exactamente. Tengo que prepararme para la investigación, y quiero que lo traigas por mí.<br>Eres muy perspicaz. No importa si llegas tarde, así que tráeme el cristal intacto.
 Doing_String=¿Por qué leí la carta? Quería presumir, y llegaste justo a tiempo. Haha.
 Completable_String1=¡Oh! ¿Es este el cristal del Flarin Mutado? Nunca lo he visto tampoco.<br>El Flarin Mutado en sí es muy raro.
@@ -3473,14 +3473,14 @@ Mission_Target1=Cristal Intacto del Flarin Mutado
 
 [Quest_652]
 Name=Recuperando Bienes Robados
-Occur_String1=Algunos de los items mágicos de los Halcones Plateados desaparecieron, y recibimos un informe de que el Mono de Campo de Nieve los llevó a la Tumba Real de Wallkreiger.
+Occur_String1=Algunos de los items mágicos de los Halcones Plateados desaparecieron, y recibimos un informe de que el Mono de Campo de Nieve los llevó a la Wallkreiger Royal Tomb.
 Occur_String2=El problema es que la seguridad se ha reforzado debido a la resurrección del Emperador Wallkreiger.<br>Pero si me infiltran y me atrapan, definitivamente causará un problema mayor.<br>Lo siento, pero ¿podrías ir tú? Los dracanos confían en ti, así que estoy seguro de que puedes entrar fácilmente.
 Occur_String3=Oh, y esos items no van a explotar ni amplificar nada, así que no te preocupes por eso.<br>Estoy más preocupado por la marca de los Halcones Plateados grabada en esos items.<br>Si alguien más los encuentra, sería una cuestión de perder la cara.<br>Halcones Plateados, robados por monos. ¿Puedes imaginar lo vergonzoso que sería?
-Occur_String4=Perdimos una lámpara flotante, una tetera automática de calefacción y refrigeración, un bolígrafo de tinta mágica, un purificador de agua mágico portátil y una alarma mágica.<br>Buscaré más posibles ubicaciones. Te dejo la Tumba Real de Wallkreiger a ti.
+Occur_String4=Perdimos una lámpara flotante, una tetera automática de calefacción y refrigeración, un bolígrafo de tinta mágica, un purificador de agua mágico portátil y una alarma mágica.<br>Buscaré más posibles ubicaciones. Te dejo la Wallkreiger Royal Tomb a ti.
 Doing_String=No pienses que estas lámparas y teteras no tienen valor. Son items bastante caros.
 Completable_String1=Oh, gracias. Los has conseguido todos. Si no los hubiera encontrado, mi salario del próximo mes se habría reducido en esa cantidad. Eso debió ser horrible.
-Complete_String=Recuperé los items mágicos de los Halcones Plateados del Mono de Campo de Nieve que entró en la Tumba Real de Wallkreiger.
-List_String=Debo recuperar los items mágicos de los Halcones Plateados del Mono de Campo de Nieve que entró en la Tumba Real de Wallkreiger.
+Complete_String=Recuperé los items mágicos de los Halcones Plateados del Mono de Campo de Nieve que entró en la Wallkreiger Royal Tomb.
+List_String=Debo recuperar los items mágicos de los Halcones Plateados del Mono de Campo de Nieve que entró en la Wallkreiger Royal Tomb.
 Mission_String=Recuperar los items mágicos de los Halcones Plateados del Mono de Campo de Nieve
 Mission_Target1=Lámpara Flotante
 Mission_Target2=Tetera Automática de Calefacción y Refrigeración
@@ -3490,7 +3490,7 @@ Mission_Target5=Alarma Mágica
 
 [Quest_653]
 Name=Subyugando Bandidos
-Occur_String1=Los remanentes de la Alianza de la Nobleza en el Pico de Hielo Sangriento están bajando para atacar pueblos. Estoy preocupado por ellos.
+Occur_String1=Los remanentes de la Alianza de la Nobleza en el Blood Ice Peak están bajando para atacar pueblos. Estoy preocupado por ellos.
 Occur_String2=No es raro que los soldados que pierden a su comandante se conviertan en bandidos.<br>Y la Alianza de la Nobleza no era un buen ejército desde el principio.
 Occur_String3=Es mi culpa por no haberme encargado de ellos todos. Resolveré el problema.
 Occur_String4>He oído que eligieron líderes entre ellos que dan órdenes y hacen planes.<br>¡Y son solo bandidos! Creo que esos líderes deben ser eliminados a toda costa.
@@ -4065,11 +4065,11 @@ Occur_String1=%s_9_1. He oído muchas cosas buenas sobre ti.<br>Voy directo al g
 Occur_String2=¿Qué hace un Ashas aquí? ¿No es demasiado peligroso para ti estar aquí?
 Occur_String3=Esto no es nada comparado con los problemas en los que se encuentra mi especie. De todos modos, ¿puedes ayudar? No puedo hablar mucho.
 Occur_String4=Te escucho.
-Occur_String5=Gracias. Tomaré esto como un sí. Desde las Ruinas del Pionero, sigue la costa norte hacia el oeste.<br>Sabes más sobre ello cuando llegues allí.
-Doing_String=No puedo quedarme aquí demasiado tiempo.<br>Desde las Ruinas del Pionero, sigue la costa norte hacia el oeste, hasta que veas una entrada ligeramente cóncava. Ve allí.
+Occur_String5=Gracias. Tomaré esto como un sí. Desde las Pionner's Ruins, sigue la costa norte hacia el oeste.<br>Sabes más sobre ello cuando llegues allí.
+Doing_String=No puedo quedarme aquí demasiado tiempo.<br>Desde las Pionner's Ruins, sigue la costa norte hacia el oeste, hasta que veas una entrada ligeramente cóncava. Ve allí.
 Completable_String1=Oh, ¡ayudarás! Finalmente hay una luz de esperanza.<br>¡Alabado sea Bulcan!
 Complete_String=Donde me dijo el espía, había una instalación Ashas desconocida. ¿Qué tipo de instalación es? ¿Por qué está en una ubicación tan remota?
-List_String=No puedo ignorar a ese espía Ashas, que arriesgó su vida viniendo al territorio enemigo en busca de ayuda. Debo seguir la costa norte hacia el oeste desde las Ruinas del Pionero.
+List_String=No puedo ignorar a ese espía Ashas, que arriesgó su vida viniendo al territorio enemigo en busca de ayuda. Debo seguir la costa norte hacia el oeste desde las Pionner's Ruins.
 Mission_String=Aceptar la solicitud de ayuda del espía Ashas
 Mission_Target1=Ve a la ubicación que te indicó el espía Ashas
 
@@ -4096,19 +4096,11 @@ Mission_Target1=Usa la Vacuna en tu Bolsa
 Name=Reciclar Ítem
 Occur_String1=Bienvenido. Estás cargando muchas cosas contigo.
 Occur_String2=Si tienes ítems no deseados, puedes desmantelarlos en materiales en lugar de llevarlos contigo. Luego, puedes usar los materiales para crear los ítems que deseas.
-<<<<<<< HEAD
-Doing_String=Si deseas desmantelar ítems, selecciona Desmantelar en mi menú.
-Completable_String1=No es difícil, ¿verdad? Puedes obtener una variedad de materiales y Items especiales, dependiendo del ítem que desmanteles. Te di algunos materiales como regalo de agradecimiento.
-Completable_String2=¡Oh! Un artesano de ítems está en la ciudad. Deberías ir a verlo. Puede ayudarte a crear Items de equipamiento.
-Complete_String=Desmantelé equipo. Puedo obtener una variedad de materiales y Items especiales, dependiendo del ítem que desmantelo.
-List_String=Voy a desmantelar equipo. Puedo obtener una variedad de materiales y Items especiales, dependiendo del ítem que desmantelo.
-=======
 Doing_String=Si deseas desmantelar ítems, selecciona Reciclar en mi menú.
 Completable_String1=No es difícil, ¿verdad? Puedes obtener una variedad de materiales y artículos especiales, dependiendo del ítem que desmanteles. Te di algunos materiales como regalo de agradecimiento.
 Completable_String2=¡Oh! Un artesano de ítems está en la ciudad. Deberías ir a verlo. Puede ayudarte a crear artículos de equipamiento.
 Complete_String=Desmantelé equipo. Puedo obtener una variedad de materiales y artículos especiales, dependiendo del ítem que desmantelo.
 List_String=Voy a desmantelar equipo. Puedo obtener una variedad de materiales y artículos especiales, dependiendo del ítem que desmantelo.
->>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
 Mission_String=Solicitar a un Mercader de Armas que desmantele un ítem de equipo
 Mission_Target1=Reciclar un ítem
 Mission_Target2=Investigar el Área Restringida 2
@@ -4728,7 +4720,7 @@ Mission_Target1=Matar a Gutheline
 
 [Quest_918]
 Name=Hermanos del Ejército Real de Lorencia
-Occur_String1=Mi hermano menor, que se alistó conmigo, está estacionado en la Tumba Real de Wallkreiger.<br>Pero he perdido contacto con la unidad de mi hermano porque los revenants en la Tumba Real han sido despertados...<br>Según rumores, los espíritus están corrompiendo las almas de los soldados del Ejército Real de Lorencia.
+Occur_String1=Mi hermano menor, que se alistó conmigo, está estacionado en la Wallkreiger Royal Tomb.<br>Pero he perdido contacto con la unidad de mi hermano porque los revenants en la Tumba Real han sido despertados...<br>Según rumores, los espíritus están corrompiendo las almas de los soldados del Ejército Real de Lorencia.
 Occur_String2=¡Por favor! ¿Puedes ir a la Tumba Real y salvar a mi hermano?<br>Antes de que su alma se corrompa...
 Doing_String=Por favor, encuentra a mi hermano... Lo extraño mucho...
 Completable_String1, ¿El alma de mi hermano ya estaba corrompida? No puede ser...<br>Ah... Mi pobre hermanito... Descansa en paz...
@@ -4847,21 +4839,21 @@ Mission_Target1=Matar al Verdugo de la Alianza Nobiliaria
 Mission_Target2=Recolectar Cuerpos del Patíbulo
 
 [Quest_1009]
-Name=Hacia el Pico de Hielo Sangriento
+Name=Hacia el Blood Ice Peak
 Occur_String1=Ven con nosotros. Podemos volver al campamento y escapar de allí.
-Occur_String2=Debo ir al Pico de Hielo Sangriento.
+Occur_String2=Debo ir al Blood Ice Peak.
 Occur_String3=¿A esa tierra maldita? ¿Por qué?<br>La tierra sangra allí, y nada—ni siquiera las malas hierbas más duras—puede Mejorar en esa tierra maldita.<br>No hay nadie que vaya allí ya.
 Occur_String4=Tengo mis razones.
-Occur_String5=El camino hacia el Pico de Hielo Sangriento está ocupado por la Alianza Nobiliaria.<br>No hay forma de que puedas pasar.
+Occur_String5=El camino hacia el Blood Ice Peak está ocupado por la Alianza Nobiliaria.<br>No hay forma de que puedas pasar.
 Occur_String6=Sí, puedo.<br>Nada puede detenerme, y así seguirá. Buena suerte uniéndote con tus fuerzas principales.
-Doing_String=No sé qué asunto tienes en el Pico de Hielo Sangriento, pero oraré por tu seguridad.
-Complete_String=El camino hacia el Pico de Hielo Sangriento estaba ocupado por un segundo grupo de soldados de la Alianza Nobiliaria. Abrí un camino a través de ellos y llegué al Pico de Hielo Sangriento.
-List_String=El camino hacia el Pico de Hielo Sangriento está ocupado por un segundo grupo de soldados de la Alianza Nobiliaria. Necesito abrirme paso a través de ellos y llegar al Pico de Hielo Sangriento.
-Mission_String=Abre camino a través de las multitudes de enemigos y llega al Pico de Hielo Sangriento
+Doing_String=No sé qué asunto tienes en el Blood Ice Peak, pero oraré por tu seguridad.
+Complete_String=El camino hacia el Blood Ice Peak estaba ocupado por un segundo grupo de soldados de la Alianza Nobiliaria. Abrí un camino a través de ellos y llegué al Blood Ice Peak.
+List_String=El camino hacia el Blood Ice Peak está ocupado por un segundo grupo de soldados de la Alianza Nobiliaria. Necesito abrirme paso a través de ellos y llegar al Blood Ice Peak.
+Mission_String=Abre camino a través de las multitudes de enemigos y llega al Blood Ice Peak
 Mission_Target1=Guerrero Pesado de la Alianza Nobiliaria
 Mission_Target2=Infantería Pesada de la Alianza Nobiliaria
 Mission_Target3=Cargador de la Alianza Nobiliaria
-Mission_Target4=Ir al Pico de Hielo Sangriento
+Mission_Target4=Ir al Blood Ice Peak
 
 [Quest_1010]
 Name=Persecución Sin Aliento
@@ -5688,7 +5680,7 @@ Occur_String4=Parece que estás aquí para apoyarnos, y estoy seguro de que podr
 Occur_String5=Bien, tú concéntrate en bloquear a los Ashas.
 Doing_String=Las tabletas han sido construidas de la misma manera que el Sapientia Temple, y se pueden encontrar alrededor del templo.<br>Mira alrededor del área circundante y deberías poder encontrar los fragmentos de las tabletas que fueron destruidas por los Ashas.
 Completable_String1=Has recuperado muchos fragmentos de tabletas. Deberíamos poder unirlos y restaurar tantas escrituras como sea posible.<br>Creo que fue la bendición de la diosa la que te llevó a nosotros. Gracias.
-Complete_String=Los invasores Ashas en el Susurro del Árbol del Mundo han llegado al templo de Sapientia, la diosa de la sabiduría adorada por los elfos.<br>Todo cerca del templo ha sido devastado, y las tabletas que contienen las escrituras de Sapientia fueron destruidas junto con todo lo demás.<br>Ayudé a los elfos a restaurar sus escrituras recuperando las tabletas rotas mientras los Ashas estaban ocupados luchando contra las fuerzas defensoras.
+Complete_String=Los invasores Ashas en el Susurro del Árbol del Mundo han llegado al Sapientia Temple, la diosa de la sabiduría adorada por los elfos.<br>Todo cerca del templo ha sido devastado, y las tabletas que contienen las escrituras de Sapientia fueron destruidas junto con todo lo demás.<br>Ayudé a los elfos a restaurar sus escrituras recuperando las tabletas rotas mientras los Ashas estaban ocupados luchando contra las fuerzas defensoras.
 List_String=Las sagradas tabletas alrededor del Sapientia Temple en el Susurro del Árbol del Mundo han sido destruidas por los Ashas.<br>Tengo que recoger las tabletas rotas, para que los elfos puedan restaurar las escrituras de Sapientia que están grabadas en ellas.
 Mission_String=Recuperar fragmentos de tabletas y entregarlos a Zettie
 Mission_Target1=Fragmento de tableta
@@ -6295,14 +6287,14 @@ Occur_String4=Creo que esos monstruos con energía oscura provienen probablement
 Occur_String5=...<br>Recobra el sentido y concéntrate en defenderlas.
 Doing_String=Tengo la sensación de que los monstruos con energía oscura son del Pandemonio.<br>No puedo creer que tengamos que enfrentarlos en estas circunstancias...
 Completable_String1=Vi la energía oscura de esos monstruos perecer.<br>No sabía que eras el extraño que nos estaba ayudando.
-Complete_String=Los Ashas en las Ruinas del Pionero, al norte de East Berin, estaban amenazados por enemigos además de los elfos.<br>Entre ellos estaban los monstruos de las profundidades de la tierra, que se creía habían salido del Pandemonio.<br>Eliminé a los monstruos para apoyar a los Ashas. Tenía la sensación de que no eran los últimos provenientes del Pandemonio.
-List_String=Tengo que derrotar a los monstruos pandemoníacos alrededor de las Ruinas del Pionero.
+Complete_String=Los Ashas en las Pionner's Ruins, al norte de East Berin, estaban amenazados por enemigos además de los elfos.<br>Entre ellos estaban los monstruos de las profundidades de la tierra, que se creía habían salido del Pandemonio.<br>Eliminé a los monstruos para apoyar a los Ashas. Tenía la sensación de que no eran los últimos provenientes del Pandemonio.
+List_String=Tengo que derrotar a los monstruos pandemoníacos alrededor de las Pionner's Ruins.
 Mission_String=Derrota a los monstruos del Pandemonio e informa a Uldine
 Mission_Target1=Mata a los Escupidores Oscuros
 
 [Quest_1521]
 Name=Excavación Inacabada
-Occur_String1=Las Ruinas del Pionero no están completamente excavadas todavía.<br>Hay muchos artefactos aún enterrados a su alrededor.
+Occur_String1=Las Pionner's Ruins no están completamente excavadas todavía.<br>Hay muchos artefactos aún enterrados a su alrededor.
 Occur_String2=Nuestro proceso de excavación está estancado debido a los enemigos dentro de las ruinas, así como a los villanos a su alrededor.
 Occur_String3=Desearía poder pedirte ayuda, pero eres un extraño.<br>No sé qué hacer...
 Occur_String4=...
@@ -6322,9 +6314,9 @@ Occur_String3=Son ladrones como ellos los que hacen imposible que restauramos es
 Occur_String4=Son solo bestias.<br>Me desharé de ellos cada vez que los vea.
 Doing_String=Estoy agradecido de que estés expulsando a esos saqueadores de tumbas, pero por favor, no destruyas otros relicarios.
 Completable_String1=Estuve dentro de las ruinas y vi monos muertos por todas partes.<br>Espero que eso les enseñe a los saqueadores de tumbas que no deben meterse con nosotros.
-Complete_String=Los saqueadores de tumbas están robando las Ruinas del Pionero, el antiguo sitio de los Ashas al norte de East Berin.<br>Sus monos salvajes son especialmente problemáticos. Exterminé a todos los monos que vi dentro de las ruinas.
-List_String=Tengo que exterminar a los monos salvajes que están dentro de las Ruinas del Pionero, robando artefactos.
-Mission_String=Elimina a los monos dentro de las Ruinas del Pionero e informa a Uldine
+Complete_String=Los saqueadores de tumbas están robando las Pionner's Ruins, el antiguo sitio de los Ashas al norte de East Berin.<br>Sus monos salvajes son especialmente problemáticos. Exterminé a todos los monos que vi dentro de las ruinas.
+List_String=Tengo que exterminar a los monos salvajes que están dentro de las Pionner's Ruins, robando artefactos.
+Mission_String=Elimina a los monos dentro de las Pionner's Ruins e informa a Uldine
 Mission_Target1=Mata a los Monos Salvajes
 
 [Quest_1523]
@@ -6338,8 +6330,8 @@ Doing_String=Si el Sabio Pabillune realmente ha despertado, entonces los encarga
 Completable_String1=Confirmé la verdad.<br>No puedo creer que el ayudante de Pabillune haya caído ante esos fanáticos...<br>Estamos teniendo un grave problema interno en este momento mientras luchamos en una guerra contra los Elfos.
 Completable_String2=
 Completable_String3=
-Complete_String=Me dijeron que Pabillune, un pionero y antiguo sabio de los Ashas, había despertado en las Ruinas del Pionero, al norte de East Berin.<br>El soldado Ashas Uldine sospechó que alguien cercano a Pabillune había despertado al sabio de su largo sueño de siglos, y fue su ayudante quien coludió con la Dark mission e intentó usar su poder para la resurrección del sabio.<br>Eliminé al ayudante de Pabillune y a los sacerdotes de la Dark mission antes de que lograran su objetivo.
-List_String=Tengo que eliminar al traidor Ashas y sus cómplices antes de que resuciten al antiguo sabio que duerme en las Ruinas del Pionero.
+Complete_String=Me dijeron que Pabillune, un pionero y antiguo sabio de los Ashas, había despertado en las Pionner's Ruins, al norte de East Berin.<br>El soldado Ashas Uldine sospechó que alguien cercano a Pabillune había despertado al sabio de su largo sueño de siglos, y fue su ayudante quien coludió con la Dark mission e intentó usar su poder para la resurrección del sabio.<br>Eliminé al ayudante de Pabillune y a los sacerdotes de la Dark mission antes de que lograran su objetivo.
+List_String=Tengo que eliminar al traidor Ashas y sus cómplices antes de que resuciten al antiguo sabio que duerme en las Pionner's Ruins.
 Mission_String=Elimina al ayudante de Pabillune y su cerebro y reporta a Uldine
 Mission_Target1=Mata a los Fanáticos Oscuros
 Mission_Target2=Mata al Ayudante de Pabillune
@@ -6355,9 +6347,9 @@ Doing_String=Los artefactos dentro de estas ruinas son el legado invaluable de n
 Completable_String1=No entiendo, pero supongo que todos tienen algo que es precioso para ellos...<br>Traje los relicarios que querías.
 Completable_String2=Esto es más de lo que hemos recopilado hasta ahora.<br>Extraño, ¿puedes ser la encarnación del Sabio Antiguo?<br>No, ¿qué estoy pensando?
 Completable_String3=
-Complete_String=Las Ruinas del Pionero, el antiguo sitio de los Ashas al norte de East Berin, estaban repletas de artefactos,<br>y estaban expuestas a daños por escaramuzas a gran escala que tuvieron lugar entre los defensores Ashas y los invasores.<br>Recogí artefactos enterrados dentro de las ruinas y los entregué al encargado para su custodia.
-List_String=Tengo que recolectar artefactos de los Ashas que quedaron por todo el interior de las Ruinas del Pionero y moverlos afuera para su custodia.
-Mission_String=Recolecta artefactos dentro de las Ruinas del Pionero y entrégaselos a Saikam
+Complete_String=Las Pionner's Ruins, el antiguo sitio de los Ashas al norte de East Berin, estaban repletas de artefactos,<br>y estaban expuestas a daños por escaramuzas a gran escala que tuvieron lugar entre los defensores Ashas y los invasores.<br>Recogí artefactos enterrados dentro de las ruinas y los entregué al encargado para su custodia.
+List_String=Tengo que recolectar artefactos de los Ashas que quedaron por todo el interior de las Pionner's Ruins y moverlos afuera para su custodia.
+Mission_String=Recolecta artefactos dentro de las Pionner's Ruins y entrégaselos a Saikam
 Mission_Target1=Recolecta los relicarios de los pioneros
 
 [Quest_1525]
@@ -6371,8 +6363,8 @@ Occur_String6=¿Sabes el camino de salida?<br>Entonces cuento contigo.
 Doing_String=¡Vamos rápido!<br>¿Por qué, no recuerdas el camino de salida?
 Completable_String1=Uf, ahora estoy a salvo.<br>Gracias. Ahora tendré que salir y reunirme con mis colegas.
 Completable_String2=......
-Complete_String=Uno de los excavadores en el antiguo sitio Ashas, las Ruinas del Pionero, se perdió dentro.<br>Para protegerlo de la mortal batalla que estaba ocurriendo dentro de las ruinas, lo guié fuera de las ruinas yo mismo.
-List_String=Tengo que escoltar al miembro del equipo de excavación de artefactos que se perdió dentro de las Ruinas del Pionero hasta la entrada.
+Complete_String=Uno de los excavadores en el antiguo sitio Ashas, las Pionner's Ruins, se perdió dentro.<br>Para protegerlo de la mortal batalla que estaba ocurriendo dentro de las ruinas, lo guié fuera de las ruinas yo mismo.
+List_String=Tengo que escoltar al miembro del equipo de excavación de artefactos que se perdió dentro de las Pionner's Ruins hasta la entrada.
 Mission_String=Escolta al miembro perdido del equipo de excavación hasta la entrada de las ruinas
 Mission_Target1=Escolta al miembro de excavación perdido
 
@@ -6438,8 +6430,8 @@ Occur_String4=Será difícil, pero hay una manera de detenerlos a todos de una v
 Occur_String5=Como sucede con toda organización, están perdidos sin su comandante.
 Doing_String=Entonces, por favor, encárgate del líder Dantarex.
 Completable_String1=Te encargaste del líder de los Dantarexes. Podemos encargarnos del resto de ellos por nuestra cuenta.
-Complete_String=El sacerdote Ashas Tebby quería detener el ejército de Dantarexes que se acercaba para atacar las Ruinas del Pionero.<br>Pero no era algo que él pudiera hacer, así que me pidió que me encargara del líder del Dantarex que se acercaba a las Ruinas en su nombre.<br>Así que lo hice, y dejó a los otros Dantarexes confundidos y desanimados.
-List_String=Derrota al líder cargador Dantarex para detener a los Dantarexes de atacar las Ruinas del Pionero.
+Complete_String=El sacerdote Ashas Tebby quería detener el ejército de Dantarexes que se acercaba para atacar las Pionner's Ruins.<br>Pero no era algo que él pudiera hacer, así que me pidió que me encargara del líder del Dantarex que se acercaba a las Ruinas en su nombre.<br>Así que lo hice, y dejó a los otros Dantarexes confundidos y desanimados.
+List_String=Derrota al líder cargador Dantarex para detener a los Dantarexes de atacar las Pionner's Ruins.
 Mission_String=Derrota al líder cargador Dantarex e informa a Tebby
 Mission_Target1=Líder Cargador Dantarex
 
@@ -7247,8 +7239,8 @@ Doing_String=Por favor, mata a la bestia.<br>¡Haz que sufra como nosotros!
 Completable_String1=Escuché a esa bestia vil soltando su último grito.<br>Ahora finalmente podemos dormir tranquilos por la noche. Gracias.
 Completable_String2=
 Completable_String3=
-Complete_String=El campamento de Descanso del Peregrino en la Isla de la Luna Creciente ha sufrido una gran pérdida por las bestias liberadas por los invasores de la Sombra Oscura.<br>Tuve que encontrar y matar al líder de las bestias que representaba la mayor amenaza.
-List_String=Debo encontrar y matar al líder de las bestias domesticadas por las Sombras Oscuras que cazan a los aldeanos en el campamento de Descanso del Peregrino.
+Complete_String=El campamento de Pilgrim's Rest en la Isla de la Luna Creciente ha sufrido una gran pérdida por las bestias liberadas por los invasores de la Sombra Oscura.<br>Tuve que encontrar y matar al líder de las bestias que representaba la mayor amenaza.
+List_String=Debo encontrar y matar al líder de las bestias domesticadas por las Sombras Oscuras que cazan a los aldeanos en el campamento de Pilgrim's Rest.
 Mission_String=Derrotar al líder de las bestias liberadas por las Sombras Oscuras
 Mission_Target1=Derrotar a Boro el Rey Bestia
 Mission_Target2=
@@ -7371,7 +7363,7 @@ Mission_Target2=
 
 [Quest_1652]
 Name=(Diaria) Trazos Telepáticos Materializados
-Occur_String1=Como ya sabes, los líderes prominentes de los Ashas han entrenado sus mentes en esta Cueva Susurrante.<br>Y los rastros de su entrenamiento permanecen dentro.
+Occur_String1=Como ya sabes, los líderes prominentes de los Ashas han entrenado sus mentes en esta Whispering Cave.<br>Y los rastros de su entrenamiento permanecen dentro.
 Occur_String2=A veces estos rastros aparecen como cuerpos astrales, flotando dentro de la cueva.<br>Son la personificación del arduo entrenamiento que nuestros líderes han pasado allí.
 Occur_String3=Me preocupa que las fuerzas élficas invasoras puedan agitar estos cuerpos astrales, convirtiéndolos en algo negativo.<br>Prefiero destruirlos antes que dejarlos contaminar por el enemigo.
 Doing_String=Por ahora, creo que deberíamos deshacernos de los cuerpos astrales, el residuo espiritual del entrenamiento de nuestros líderes,<br>antes de que sean corrompidos por las fuerzas élficas invasoras.
@@ -7740,7 +7732,7 @@ Name=Cristal de Entrenamiento
 Occur_String1=Encantado de conocerte, Extraño Guerrero.<br>Soy Tunken.
 Occur_String2=Esta área es peligrosa. Hay Sombras Oscuras por todas partes.<br>¿Estás parado frente a la caja por alguna razón?
 Occur_String3=Puede que me vea así, pero una vez desafié la posición de Papa Rey en el pasado.<br>Era amigo de Bellias, el actual Papa Rey, y solíamos ser rivales.
-Occur_String4=Nunca pude superarlo, así que di un paso atrás.<br>Y nuestra última prueba fue el entrenamiento en esta Cueva Susurrante.
+Occur_String4=Nunca pude superarlo, así que di un paso atrás.<br>Y nuestra última prueba fue el entrenamiento en esta Whispering Cave.
 Occur_String5=Después de que Bellias se convirtió en Papa Rey, viví como un cocodrilo durante mucho tiempo, pero de repente recordé esta cueva.<br>Quería ver qué había obtenido Bellias en esta cueva al completar el entrenamiento que no pude terminar.
 Occur_String6=Verte me recuerda a mis días jóvenes cuando estaba lleno de energía.<br>Si vas a entrar en esta cueva, te agradecería si encontraras algún resultado del entrenamiento y lo trajeras de vuelta a mí.
 Occur_String7=
@@ -7752,7 +7744,7 @@ Completable_String1=Encontré esto dentro de la cueva.<br>Podría ser lo que est
 Completable_String2=Oh, estos cristales son las virtudes que un líder Ashas debe tener dentro de sí mismo.<br>Estaba lleno de orgullo en el pasado y no los reconocí... Bellias los aceptó y pudo completar el entrenamiento.
 Completable_String3=Ahora que encontré la razón, no tengo ningún arrepentimiento.<br>Gracias por ayudarme a encontrar la paz interior, Extraño Guerrero.
 Completable_String4=
-Completable_String5=El Cueva Susurrante fue un lugar de entrenamiento para aquellos que buscaban ser el Papa Rey de los Ashas.<br>Un Ashas estaba de pie en la entrada de la cueva, recordando su entrenamiento del pasado.<br>Intentó alcanzar la posición de Papa Rey, pero fracasó, y quería saber el resultado del entrenamiento que no pudo completar.<br>Le mostré los cristales que obtuve al derrotar las ilusiones Ashas dentro de la cueva, y admitió su error.
+Completable_String5=El Whispering Cave fue un lugar de entrenamiento para aquellos que buscaban ser el Papa Rey de los Ashas.<br>Un Ashas estaba de pie en la entrada de la cueva, recordando su entrenamiento del pasado.<br>Intentó alcanzar la posición de Papa Rey, pero fracasó, y quería saber el resultado del entrenamiento que no pudo completar.<br>Le mostré los cristales que obtuve al derrotar las ilusiones Ashas dentro de la cueva, y admitió su error.
 List_String=Tengo que superar la prueba dada por las ilusiones de los antepasados Ashas dentro de Whispering Cave y recolectar los items resultantes.
 Mission_String=Recolecta el resultado del entrenamiento de Whispering Cave
 Mission_Target1=Recolectar Cristal de Diligencia
@@ -8582,7 +8574,7 @@ Mission_Target1=Habla con Fratanne
 [Quest_1773]
 Name=Emboscada de Monstruos 2
 Completable_String1=Entonces, el acertijo apuntaba hacia Pilgrim's Rest.<br>"Una constelación sagrada compuesta por luces que pacíficamente se durmieron tras trazar un rumbo hacia la grandeza."<br>Es el lugar de entierro de los Ashas que trabajaron arduamente para crear un nuevo hogar para sí mismos y sus futuras generaciones en esta nueva dimensión, el continente MU.
-Completable_String2=En aquel entonces, los Ashas se llamaban a sí mismos "peregrinos" ya que se vieron obligados a dejar su hogar. El nombre, Descanso del Peregrino, se acuñó a partir de eso.<br>¿Crees que hay otra pista aquí, o tal vez incluso el relicario que estamos buscando?
+Completable_String2=En aquel entonces, los Ashas se llamaban a sí mismos "peregrinos" ya que se vieron obligados a dejar su hogar. El nombre, Pilgrim's Rest, se acuñó a partir de eso.<br>¿Crees que hay otra pista aquí, o tal vez incluso el relicario que estamos buscando?
 Complete_String=Después de derrotar a los monstruos que acechaban cerca de la ubicación en el acertijo, llamé a Hyre y Senozana Edney. ¿Qué ubicación está indicando este monumento?
 List_String=Debo derrotar a los monstruos que acechan a quienes vienen a resolver el acertijo. Les haré saber que están tratando con la persona equivocada.
 Mission_String=Derrota a los monstruos emboscadores
@@ -8785,7 +8777,7 @@ Occur_String10=Si estás en la Dark mission, el agua no purgará la tierra.<br>A
 Doing_String=La Dark mission no es como el incompetente Sezak.<br>¿Suministrar soldados reanimando los cadáveres de su enemigo? Nunca he oído de una estrategia más brillante que esa.
 Complete_String=La Dark mission ha reanimado cadáveres con magia negra para atacar Karolsandria. Para enviar a los muertos de vuelta a sus tumbas, esparcí agua bendita sobre el árbol purgador, el Dark Reaper.
 List_String=(Misión Principal Duelden) (9/32)<br>La Dark mission ha reanimado cadáveres con magia negra para atacar Karolsandria. Para enviar a los muertos de vuelta a sus tumbas, esparce el agua bendita del Templo Rugard sobre el árbol purgador, el Dark Reaper.
-Mission_String=Rocía agua bendita sobre las raíces del Dark Reaper en el Sótano del Jardín de Karolsandria
+Mission_String=Rocía agua bendita sobre las raíces del Dark Reaper en el Garden Basement de Karolsandria
 Mission_Target1=Esparce Agua Bendita
 
 [Quest_5010]
@@ -9097,17 +9089,17 @@ Name=Persiguiendo a Chaisong 3
 Occur_String1=Soy del Campamento de los Caballeros Dracans. Dime dónde está Chaisong.
 Occur_String2=...!<br>¿Cómo pasaste la base Chakua? ...¿Quién eres tú?
 Occur_String3=Soy un extraño que quiere ayudarte. Chaisong te ha traicionado.
-Occur_String4=Lo sé. Se escapó con la llave del canal cerrado.
-Occur_String5=¿El canal cerrado?
+Occur_String4=Lo sé. Se escapó con la llave del Closed Waterway.
+Occur_String5=¿El Closed Waterway?
 Occur_String6=Es un canal antiguo que ya no está en uso.<br>Por alguna razón, la entrada al canal ha estado prohibida desde tiempos antiguos.
 Occur_String7=Durante generaciones, la llave del canal se le da a un Anciano para su custodia, y el Anciano estaba aquí. Chaisong lo mató y se llevó la llave.
-Occur_String8=(Las Lágrimas de Neria están en el canal cerrado. Por eso robó la llave.)
-Occur_String9=Un grupo de persecución de los Caballeros Dracans ya le está pisando los talones.<br>Podrían haberlo capturado cerca del canal cerrado.
+Occur_String8=(Las Lágrimas de Neria están en el Closed Waterway. Por eso robó la llave.)
+Occur_String9=Un grupo de persecución de los Caballeros Dracans ya le está pisando los talones.<br>Podrían haberlo capturado cerca del Closed Waterway.
 Occur_String10=(Tengo un mal presentimiento sobre esto. Mejor voy a comprobarlo.)
 Doing_String=Chaisong es el mejor guerrero de Drapia. No le sería difícil deshacerse del grupo de persecución, sin importar cuántos miembros tenga.
 Completable_String1=Oye, ¿estás bien?<br>Estás gravemente herido. ¿Quién te hizo esto?
-Complete_String=Chaisong se dirigió al canal cerrado. Me uní a los Caballeros Dracans que lo estaban siguiendo.
-List_String=(Misión Principal Litenberg) (12/141)<br>Chaisong se dirigió al canal cerrado. Necesito unirme a los Caballeros Dracans que lo están siguiendo.
+Complete_String=Chaisong se dirigió al Closed Waterway. Me uní a los Caballeros Dracans que lo estaban siguiendo.
+List_String=(Misión Principal Litenberg) (12/141)<br>Chaisong se dirigió al Closed Waterway. Necesito unirme a los Caballeros Dracans que lo están siguiendo.
 Mission_String=Persigue a Chaisong y habla con Zallo
 Mission_Target1=Seguir la pista de Chaisong
 
@@ -9115,13 +9107,13 @@ Mission_Target1=Seguir la pista de Chaisong
 Name=Guerrero Dracan Herido
 Occur_String1=Soy parte de un grupo de persecución enviado tras el traidor Chaisong.<br>Lo encontramos justo antes de que entrara al canal, pero...
 Occur_String2=Te venció. No puedo creer que le hiciera esto a sus propios hombres.<br>¡Qué cruel!
-Occur_String3=Podría haberme matado, pero no lo hizo.<br>Se veía atormentado antes de desaparecer en el canal cerrado.
+Occur_String3=Podría haberme matado, pero no lo hizo.<br>Se veía atormentado antes de desaparecer en el Closed Waterway.
 Occur_String4=Voy a ir tras él. Deberías regresar y tratar tus heridas.
 Doing_String=Por cierto, extraño, ¿quién eres? ¿Por qué nos ayudas?
 Completable_String1=He oído hablar de ti. ¿Por qué el Extraño Carnicero está tras de mí?<br>Espera, ¿quieres que te llame el Héroe de Enova en su lugar?
-Complete_String=Chaisong derribó al Guerrero Dracan Zallo y entró en el canal cerrado. Lo seguí.
-List_String=(Misión Principal Litenberg) (13/141)<br>Chaisong derribó al Guerrero Dracan Zallo y entró en el canal cerrado. Síguelo.
-Mission_String= Sigue a Chaisong dentro del Canal Cerrado
+Complete_String=Chaisong derribó al Guerrero Dracan Zallo y entró en el Closed Waterway. Lo seguí.
+List_String=(Misión Principal Litenberg) (13/141)<br>Chaisong derribó al Guerrero Dracan Zallo y entró en el Closed Waterway. Síguelo.
+Mission_String= Sigue a Chaisong dentro del Closed Waterway
 Mission_Target1=Habla con Chaisong
 
 [Quest_5117]
@@ -9148,7 +9140,7 @@ Occur_String1=¿Qué está pasando? Pensé que estabas aliado con la Dark missio
 Occur_String2=Lo siento, has seguido hasta aquí. Te has equivocado de árbol, extraño.<br>Voy tras el líder de la Dark mission.
 Occur_String3=Pero apagaste el Brasero de Bulcan, un acto en desafío a tu dios creador.<br>Eso solo te hace parecer un traidor.
 Occur_String4=Ese fuego no era un regalo de Bulcan.<br>Era un sello utilizado para sellar las Lágrimas de Neria.
-Occur_String5=Después de la Guerra de los Dioses, un fragmento de las Lágrimas cayó en este canal cerrado.<br>Nuestros ancestros inmediatamente sellaron el canal para mantener oculta su ubicación
+Occur_String5=Después de la Guerra de los Dioses, un fragmento de las Lágrimas cayó en este Closed Waterway.<br>Nuestros ancestros inmediatamente sellaron el canal para mantener oculta su ubicación
 Occur_String6=y le dijeron a todos los demás que el sello era la bendición de Bulcan.
 Occur_String7=Por eso los dragones aparecieron después de que se apagó el brasero.<br>Has levantado el sello. ¿Por qué?
 Occur_String8=Para atrapar al líder de la Dark mission.<br>Sabía que vendría si revelaba la ubicación de las Lágrimas.
@@ -9408,8 +9400,8 @@ Occur_String9=Iré al reactor de fusión. Detén a los golems durante tres horas
 Occur_String10=Gracias. Toma esto. Inserta esta llave en el panel de control del reactor de fusión para reiniciarlo.<br>Por cierto, mi hija te está buscando. ¿Por qué no hablas con ella antes de irte?
 Doing_String=Tendrás que abrirte paso entre los Dios para llegar al reactor de fusión.
 Completable_String1=Escuché que me estabas buscando...
-Complete_String=Las esferas magnéticas de los golems resultaron ser bombas con las que los golems intentaron volar el lugar. El reactor de fusión de Pectra, el origen de la energía Pectra, está situado en lo profundo de la Cueva de la Cascada Glaciar. Solo Kalak y Marongo tienen acceso a él y es posible que Marongo haya traicionado a su propia especie. Si reinicio el reactor de fusión y lo pongo en funcionamiento, los Dios podrían comenzar a moverse de nuevo. Antes de irme, hablé con Estesia.
-List_String=(Misión Principal Litenberg) (28/141)<br>Habla con Estesia antes de irte hacia el reactor de fusión de Pectra en la Cueva de la Cascada Glaciar.
+Complete_String=Las esferas magnéticas de los golems resultaron ser bombas con las que los golems intentaron volar el lugar. El reactor de fusión de Pectra, el origen de la energía Pectra, está situado en lo profundo de la Glacier Waterfall Cave. Solo Kalak y Marongo tienen acceso a él y es posible que Marongo haya traicionado a su propia especie. Si reinicio el reactor de fusión y lo pongo en funcionamiento, los Dios podrían comenzar a moverse de nuevo. Antes de irme, hablé con Estesia.
+List_String=(Misión Principal Litenberg) (28/141)<br>Habla con Estesia antes de irte hacia el reactor de fusión de Pectra en la Glacier Waterfall Cave.
 Mission_String=Preguntar a la hija del jefe por qué me estaba buscando
 Mission_Target1=Hablar con Estesia
 
@@ -9688,18 +9680,18 @@ Name=Despliegue del Ejército Real de Lorencia en el Oeste
 Occur_String1=Llegué tarde. Todos ellos deben haber sido asesinados o convertidos en revenants ya.<br>He visto eso suceder demasiadas veces en Karolsandria.
 Occur_String2=¡No puedo simplemente ver a unos malditos fantasmas matar a toda una brigada!<br¡Quítate del camino! ¡Nosotros, los Devias, nos encargaremos de ellos!
 Occur_String3=He conocido a muchas personas en Karolsandria que actuaron como tú y terminaron muertas.<br>No tienes suficientes hombres para manejar a los revenants. ¡Sé racional!
-Occur_String4=...<br>Si dejamos que esos revenants salgan de la Tumba Real de Wallkreiger, infectarán todo el continente con su odio en poco tiempo.
+Occur_String4=...<br>Si dejamos que esos revenants salgan de la Wallkreiger Royal Tomb, infectarán todo el continente con su odio en poco tiempo.
 Occur_String5=Y ahora hay una mayor posibilidad de que su emperador esté despierto.<br>Voy a verificar la situación. Deberías reagruparte y enviarme refuerzos.
-Occur_String6=¿Podrías ir primero al Despliegue del Ejército Real de Lorencia en el Oeste? Es un Outpost construido para vigilar la Tumba Real de Wallkreiger.<br>Desde allí será fácil evaluar la situación de los revenants.
+Occur_String6=¿Podrías ir primero al Despliegue del Ejército Real de Lorencia en el Oeste? Es un Outpost construido para vigilar la Wallkreiger Royal Tomb.<br>Desde allí será fácil evaluar la situación de los revenants.
 Occur_String7=El problema son las tropas de la Alianza de la Nobleza que están bloqueando el camino...
 Occur_String8=No te preocupes. Abriré un camino a través de ellos.
 Occur_String9=Gracias. Entonces, traeré de vuelta a los Devias que están en la primera línea,<br>y te enviaré refuerzos.
 Doing_String=[A su ayudante] Envía un mensaje a los Devias en la primera línea de que los quiero de vuelta.
 Completable_String1=*Tos, tos* ¿Quién eres? Viniste aquí después de atravesar a todos esos sinvergüenzas de la Alianza de la Nobleza...
 Completable_String2=Ayudo a Muren. Supongo que soy mejor conocido como el Extraño Asesino.<br>¿Cómo está la situación en la tumba? Asumo que está llena de revenants para este momento.
-Complete_String=Ahora que el emperador de Wallkreiger está despierto, intentará llevar a su ejército de revenants fuera de su tumba e infectar todo el continente con su odio. Para evaluar la situación en la tumba real, fui al Despliegue del Ejército Real de Lorencia en el Oeste, un Outpost construido para vigilar la Tumba Real de Wallkreiger.
-List_String=(Misión Principal Litenberg) (46/141)<br>El Despliegue del Ejército Real de Lorencia en el Oeste es un Outpost construido para vigilar la Tumba Real de Wallkreiger. Debería ir allí y revisar la situación en la tumba antes de que los revenants decidan salir. Sin embargo, tendré que abrirme paso a través de las tropas de la Alianza de la Nobleza para llegar allí.
-Mission_String=Verifica la situación en la Tumba Real de Wallkreiger
+Complete_String=Ahora que el emperador de Wallkreiger está despierto, intentará llevar a su ejército de revenants fuera de su tumba e infectar todo el continente con su odio. Para evaluar la situación en la tumba real, fui al Despliegue del Ejército Real de Lorencia en el Oeste, un Outpost construido para vigilar la Wallkreiger Royal Tomb.
+List_String=(Misión Principal Litenberg) (46/141)<br>El Despliegue del Ejército Real de Lorencia en el Oeste es un Outpost construido para vigilar la Wallkreiger Royal Tomb. Debería ir allí y revisar la situación en la tumba antes de que los revenants decidan salir. Sin embargo, tendré que abrirme paso a través de las tropas de la Alianza de la Nobleza para llegar allí.
+Mission_String=Verifica la situación en la Wallkreiger Royal Tomb
 Mission_Target1=Derrotar a las fuerzas de la Alianza de la Nobleza
 
 [Quest_5160]
@@ -9720,7 +9712,7 @@ Mission_String=Encender el hacedor de hielo y conseguir agua
 Mission_Target1=Encender los Hacedores de Hielo del Lago
 
 [Quest_5161]
-Name=Emperador de la Tumba Real de Wallkreiger
+Name=Emperador de la Wallkreiger Royal Tomb
 Occur_String1=[Bebe el agua.] ¡Ah, eso fue un alivio!
 Occur_String2=Bebes agua como si fueras a beber alcohol.
 Occur_String3=Eres nuestro salvador. Mientras estabas fuera buscando agua, recibí un mensaje de la sede.<br>Es de Sir Muren. Déjame leértelo.
@@ -9736,7 +9728,7 @@ Completable_String1=Te encargaste del emperador tú solo. ¡No llegué tarde, t�
 Completable_String2=Lo sé, y no podría haber entrado en sus cámaras si no fuera por ti. Gracias.
 Complete_String=Mientras estaba fuera buscando agua, Muren me envió un mensaje. Dijo que venía, pero decidí que debería moverme primero. Entré a la tumba real y eliminé al emperador por mí mismo.
 List_String=(Misión Principal Litenberg) (48/141)<br>Mientras estaba fuera buscando agua, Muren me envió un mensaje. Dijo que venía, pero decidí que debería moverme primero. Voy a entrar a la tumba real y eliminar al emperador por mí mismo.
-Mission_String=Matar al emperador resucitado en la Tumba Real de Wallkreiger
+Mission_String=Matar al emperador resucitado en la Wallkreiger Royal Tomb
 Mission_Target1=Matar al Emperador Resucitado de Wallkreiger
 
 [Quest_5162]
@@ -9831,7 +9823,7 @@ Occur_String6=Para vengarnos de lo que ocurrió en Salormis. ¡Sabes por lo que 
 Occur_String7=Lorencia abandonó a Tephakin para ganar la guerra. Mi país no significa nada para ellos.<br>Solo querían proteger Salormis del Pandemonium.
 Occur_String8=Entonces dejaste que los revenants de Wallkreiger eliminaran al Ejército Real de Lorencia estacionado en la tumba.
 Occur_String9=¡No me mires así! ¡No sabes todas las cosas que Lorencia le ha hecho a mi país!
-Occur_String10=¿Sabes cuántos soldados lorencianos murieron en la Tumba Real de Wallkreiger por tu culpa?
+Occur_String10=¿Sabes cuántos soldados lorencianos murieron en la Wallkreiger Royal Tomb por tu culpa?
 Doing_String=
 Completable_String1=¡Seguramente no pueden ser más que los Tephakins que fueron asesinados por el tiránico gobierno de Lorencia!
 Completable_String2=Estás loco. No quiero verte.<br>¡Lárgate antes de que haga algo de lo que me arrepienta!
@@ -10115,7 +10107,7 @@ Occur_String7=Chaisong ha detectado sus movimientos y ha enviado a sus Caballero
 Occur_String8=Esto es todo lo que sé, lo juro. Por favor...<br>No me mates... Por favor...
 Occur_String9=(Los Datans están protegiendo la Cueva de Cristal, lo que significa que su líder, Woongpam, está adentro.)
 Doing_String=Los carruajes que transportan Tarsks se han dirigido a la Cueva de Cristal.<br>Eso es todo lo que sé. Por favor, no me mates...
-Completable_String1=¡Cuánto tiempo, extraño!<br>Todavía te estoy agradecido por lo que hiciste en el canal cerrado.
+Completable_String1=¡Cuánto tiempo, extraño!<br>Todavía te estoy agradecido por lo que hiciste en el Closed Waterway.
 Complete_String=Los Datans que atacaron el Pueblo del Sur en Kanturu Musai habían montado campamento frente a la Cueva de Cristal. Chaisong, al detectar sus movimientos, había desplegado a sus Caballeros Dracans allí. Fui a verlos para evaluar la situación.
 List_String=(Misión Principal Litenberg) (73/141)<br>Los Datans que atacaron el Pueblo del Sur en Kanturu Musai han montado campamento frente a la Cueva de Cristal. Chaisong ha detectado sus movimientos y ha enviado a sus Caballeros Dracans. Debo ir y evaluar la situación.
 Mission_String=Visita al Guerrero Dracan en el Campamento de los Caballeros Dracans
@@ -10747,7 +10739,7 @@ Mission_Target1=Llegar al Frente Central de la Unión
 Name=Lágrimas de Neria Expuestas
 Occur_String1=El Kanturiano dijo que la Energía Pandemoníaca es más densa dentro de la cueva del norte.<br>La del este podría ser una distracción, como lo fue el Campo de Prisión Ostlich.<br>El túnel de Evil Energy debe estar construyéndose dentro de la cueva del norte.
 Occur_String2=...<br>Déjame decirte la verdad: las Lágrimas de Neria están escondidas dentro de la cueva del este.
-Occur_String3=Entonces, las Lágrimas de Neria en el Canal Cerrado no eran las únicas.
+Occur_String3=Entonces, las Lágrimas de Neria en el Closed Waterway no eran las únicas.
 Occur_String4=Esto se suponía que era un secreto...<br>Ahora esos dos lo sabrán.
 Occur_String5=La Energía Pandemoníaca está desgastando el sello alrededor de las Lágrimas de Neria.<br>Será cuestión de tiempo antes de que caiga en manos de Pandemonium.
 Occur_String6=Eso será un hallazgo afortunado para el enemigo.<br>Phew... Recogeré las Lágrimas de Neria. Lleva a tus soldados a la cueva del norte y busca el túnel de Evil Energy. Te seguiré pronto.
@@ -19805,7 +19797,7 @@ Mission_Target1=Matar %s_1_1
 
 [Template_22003]
 Name=Ofertas
-Occur_String1=He estado recolectando plumas de %s_1_1 para dedicarlas al Templo de Sapientia,<br>y es muy difícil conseguir las últimas %s_1_5.
+Occur_String1=He estado recolectando plumas de %s_1_1 para dedicarlas al Sapientia Temple,<br>y es muy difícil conseguir las últimas %s_1_5.
 Occur_String2=Por supuesto, no estoy pidiendo que hagas esto gratis.<br>Por favor, tráeme %s_1_5 plumas de %s_1_1.
 Doing_String=Por favor, reúne las plumas. Hará feliz a la diosa.<br>¿No crees en los dioses? Pero aun así, ayudar a alguien es algo bueno.
 Completable_String1=
@@ -20256,7 +20248,7 @@ Mission_Target1=Orbe Mágico Robado
 
 [Template_22047]
 Name=Sendero del Peregrino
-Occur_String1=Disculpa, Guerrero. ¿Podrías ayudarme?<br>Vine a rezar en el Templo de Sapientia, y ahora no puedo volver a mi hogar en Ethedrean debido a esos %s_1_1.<br>¿Podrías hacer que se vayan? Gracias.
+Occur_String1=Disculpa, Guerrero. ¿Podrías ayudarme?<br>Vine a rezar en el Sapientia Temple, y ahora no puedo volver a mi hogar en Ethedrean debido a esos %s_1_1.<br>¿Podrías hacer que se vayan? Gracias.
 Doing_String=Debo volver a mi hogar en Ethedrean pronto, o mi familia se preocupará.
 Completable_String1=
 Complete_String=Deshice de %s_1_1, para que el peregrino pudiera regresar a su hogar en Ethedrean.
@@ -20266,11 +20258,11 @@ Mission_Target1=Matar a %s_1_1
 
 [Template_22048]
 Name=Sendero de la Sacerdotisa
-Occur_String1=Disculpa, Señor Guerrero. ¿Podrías ayudarme?<br>Voy de regreso al Templo de Sapientia desde Ethedrean, y no puedo avanzar debido a %s_1_1.<br>¿Podrías hacer que se vayan? Gracias.
+Occur_String1=Disculpa, Señor Guerrero. ¿Podrías ayudarme?<br>Voy de regreso al Sapientia Temple desde Ethedrean, y no puedo avanzar debido a %s_1_1.<br>¿Podrías hacer que se vayan? Gracias.
 Doing_String=Debo regresar a mi templo lo antes posible... Oh, Sapientia...
 Completable_String1=
-Complete_String=Deshice de %s_1_1, para que la sacerdotisa pudiera regresar al Templo de Sapientia.
-List_String=Debo deshacerme de %s_1_1, para que la sacerdotisa pueda regresar al Templo de Sapientia.
+Complete_String=Deshice de %s_1_1, para que la sacerdotisa pudiera regresar al Sapientia Temple.
+List_String=Debo deshacerme de %s_1_1, para que la sacerdotisa pueda regresar al Sapientia Temple.
 Mission_String=Limpiar un camino para la sacerdotisa
 Mission_Target1=Matar a %s_1_1
 
@@ -20379,7 +20371,7 @@ Mission_Target1=Esencia de %s_1_1
 
 [Template_23010]
 Name=Perfume Irreemplazable
-Occur_String1=Tengo que ir al Templo de Sapientia, pero los %s_1_1 y %s_1_2 siguen interponiéndose en mi camino.<br>Creo que es por el perfume que llevo. Esperaba que su dulce fragancia atrajera insectos, ¡pero quién sabía que también los atraerían a ellos!
+Occur_String1=Tengo que ir al Sapientia Temple, pero los %s_1_1 y %s_1_2 siguen interponiéndose en mi camino.<br>Creo que es por el perfume que llevo. Esperaba que su dulce fragancia atrajera insectos, ¡pero quién sabía que también los atraerían a ellos!
 Occur_String2=Pero no puedo deshacerme de él. De hecho, es la razón por la que voy al templo.<br>¿Podrías despejarme el camino? Gracias.
 Doing_String=Debo apresurarme al templo. Ya estoy tarde.
 Completable_String1=
@@ -23546,7 +23538,7 @@ Doing_String=Con la varita mágica que te di, puedes rastrear la ubicación de l
 Completable_String1=Me encargué de la bestia mítica.<br>Tengo que agradecerte por esa herramienta mágica que me diste.
 Completable_String2=Bien. Mi trabajo aquí ha terminado.<br>Creo que Joseph querrá escuchar sobre esto. Me despido entonces.
 Completable_String3=
-Complete_String=(Misión individual del Jefe Gnoll Ron) (3/5)<br>El investigador de los Halcones Plateados, Sherdon, dijo que la pluma de la bestia que encontré de la Legión Gnoll pertenecía a una bestia mítica que les otorgaba su poder salvaje.<br>Utilicé la herramienta mágica de Sherdon para localizar su guarida en Rift y la derroté junto con sus guardianes Gnoll.<br>Sin embargo, su poder fue transferido al jefe Gnoll Ron, a quien derroté en el almacén abandonado, devolviéndole la vida, más poderoso que nunca.
+Complete_String=(Misión individual del Jefe Gnoll Ron) (3/5)<br>El investigador de los Halcones Plateados, Sherdon, dijo que la pluma de la bestia que encontré de la Legión Gnoll pertenecía a una bestia mítica que les otorgaba su poder salvaje.<br>Utilicé la herramienta mágica de Sherdon para localizar su guarida en Rift y la derroté junto con sus guardianes Gnoll.<br>Sin embargo, su poder fue transferido al jefe Gnoll Ron, a quien derroté en el Abandoned Warehouse, devolviéndole la vida, más poderoso que nunca.
 List_String=(Misión individual del Jefe Gnoll Ron) (3/5)<br>Encuentra y extermina a la bestia mítica que vive dentro de Rift.
 Mission_String=Derrota a la bestia mítica que vive en Rift
 Mission_Target1=Derrota a los soldados de la Legión Gnoll que protegen a la bestia mítica
@@ -23556,19 +23548,19 @@ Mission_Target3=
 [Quest_200704]
 Name=(T) En el Almacén Donde Respira la Salvajía
 Occur_String1=La Legión Gnoll ha crecido en poder con la fuerza salvaje de la bestia mítica.<br>Para eliminar la fuente de su poder, exterminé a la bestia mítica, pero su poder fue transferido al antiguo jefe de los Gnolls, Ron, devolviéndole la vida.
-Occur_String2=Hemos estado escuchando el aullido de una bestia proveniente del almacén abandonado por un tiempo. Ahora entiendo por qué.<br>No es tu culpa. Solo hiciste lo que te pedí.
+Occur_String2=Hemos estado escuchando el aullido de una bestia proveniente del Abandoned Warehouse por un tiempo. Ahora entiendo por qué.<br>No es tu culpa. Solo hiciste lo que te pedí.
 Occur_String3=Él ha heredado el poder de esa bestia mítica. No hay manera de que tu ejército pueda encargarse de él solo.<br>Yo me ocuparé de esto.
 Occur_String4=Necesito que limpies el almacén de ese monstruo inmundo. No te preocupes por las consecuencias.<br>Tienes todo nuestro apoyo.
 Occur_String5=
 Occur_String6=
 Occur_String7=
-Doing_String=Será mejor que elimines tanta energía de la bestia mítica, que está fortaleciendo a los Gnolls dentro del almacén abandonado, como puedas.<br>De lo contrario, incluso tú tendrás dificultades para luchar contra su líder, Ron.
+Doing_String=Será mejor que elimines tanta energía de la bestia mítica, que está fortaleciendo a los Gnolls dentro del Abandoned Warehouse, como puedas.<br>De lo contrario, incluso tú tendrás dificultades para luchar contra su líder, Ron.
 Completable_String1=
 Completable_String2=
 Completable_String3=
-Complete_String=(Misión individual del Jefe Gnoll Ron) (4/5)<br>Resucitado por el poder de la bestia mítica, el jefe Gnoll Ron volvió a ocupar el almacén abandonado.<br>Entré en el almacén, ahora lleno de la energía de esa bestia, y eliminé a todos los enemigos cuya fuerza había sido potenciada por ella. Ahora estoy a punto de entrar en el escondite del jefe Gnoll.
-List_String=(Misión individual del Jefe Gnoll Ron) (4/5)<br>Elimina la energía de la bestia mítica de la Legión Gnoll y sus bestias dentro del Almacén Abandonado en las Bredrice Plains.
-Mission_String=Elimina a los Gnolls y bestias dentro del Almacén Abandonado y destruye la energía de la bestia mítica
+Complete_String=(Misión individual del Jefe Gnoll Ron) (4/5)<br>Resucitado por el poder de la bestia mítica, el jefe Gnoll Ron volvió a ocupar el Abandoned Warehouse.<br>Entré en el almacén, ahora lleno de la energía de esa bestia, y eliminé a todos los enemigos cuya fuerza había sido potenciada por ella. Ahora estoy a punto de entrar en el escondite del jefe Gnoll.
+List_String=(Misión individual del Jefe Gnoll Ron) (4/5)<br>Elimina la energía de la bestia mítica de la Legión Gnoll y sus bestias dentro del Abandoned Warehouse en las Bredrice Plains.
+Mission_String=Elimina a los Gnolls y bestias dentro del Abandoned Warehouse y destruye la energía de la bestia mítica
 Mission_Target1=Destruye la energía de la bestia mítica
 Mission_Target2=
 Mission_Target3=
@@ -23586,9 +23578,9 @@ Doing_String=
 Completable_String1=El sonido del lamento de la bestia en los estertores de la muerte debió haberse escuchado desde el otro lado del horizonte.<br>Con tenacidad y fuerza increíble, pusiste fin a la Legión Gnoll.
 Completable_String2=Los demonios no se rendirán tan fácilmente.<br>Sin embargo, estoy seguro de que la gente del continente estará a salvo bajo tu protección.
 Completable_String3=Sí, así fue. Nos aseguraremos de que tu ayuda aquí no haya sido en vano. Te agradecemos sinceramente.
-Complete_String=(Misión individual del Jefe Gnoll Ron) (5/5)<br>Derroté al jefe Gnoll Ron, quien había resucitado gracias al poder de la bestia mítica en el Almacén Abandonado, y eliminé la amenaza de la Legión Gnoll que se cernía sobre el continente Duelden.
-List_String=(Misión individual del Jefe Gnoll Ron) (5/5)<br>Mata al jefe Gnoll Ron, quien ha resucitado con el poder de la bestia mítica en el Almacén Abandonado en las Bredrice Plains.
-Mission_String=Mata al jefe Gnoll Ron resucitado en el Almacén Abandonado
+Complete_String=(Misión individual del Jefe Gnoll Ron) (5/5)<br>Derroté al jefe Gnoll Ron, quien había resucitado gracias al poder de la bestia mítica en el Abandoned Warehouse, y eliminé la amenaza de la Legión Gnoll que se cernía sobre el continente Duelden.
+List_String=(Misión individual del Jefe Gnoll Ron) (5/5)<br>Mata al jefe Gnoll Ron, quien ha resucitado con el poder de la bestia mítica en el Abandoned Warehouse en las Bredrice Plains.
+Mission_String=Mata al jefe Gnoll Ron resucitado en el Abandoned Warehouse
 Mission_Target1=Mata al jefe Gnoll Ron
 Mission_Target2=
 Mission_Target3=
@@ -25361,7 +25353,7 @@ Occur_String3=Un oficial de la Dark mission vino a Mediah en busca de asilo.<br>
 Doing_String=Su morada se encuentra al oeste de la zona central en Ohrdor.
 Completable_String1=He oído que un miembro de la Dark mission está buscando asilo.<br>¿No vas a aceptarlo, verdad? ¡Sabes lo malvados que son!
 Completable_String2=...No es solo un miembro. Es uno de sus oficiales. Si coopera con nosotros, podemos asestar un golpe aplastante al enemigo.<br>No podemos decidir solo con nuestros sentimientos en este asunto. Debemos evaluar lo que es mejor para nosotros.
-Completable_String3=Recuerda cómo ayudaste a algunos miembros de la Dark mission en el Pico de Hielo Sangriento. Otro miembro que escuchó la noticia ha decidido desertar.<br>Dijo que se dio cuenta de que podría haber alguien allá afuera que escuchara su historia. ¿Podrías hablar con él?
+Completable_String3=Recuerda cómo ayudaste a algunos miembros de la Dark mission en el Blood Ice Peak. Otro miembro que escuchó la noticia ha decidido desertar.<br>Dijo que se dio cuenta de que podría haber alguien allá afuera que escuchara su historia. ¿Podrías hablar con él?
 Complete_String=(Misión del Grupo de la Dark mission) (1/10)<br>Kundun pensó que sería mejor escuchar lo que el miembro ejecutivo de la Dark mission tiene que decir. Considerando todo, tiene sentido concederle asilo... pero no me gusta esto. No me gusta nada.
 List_String=(Misión del Grupo de la Dark mission) (1/10)<br>Un miembro ejecutivo de la Dark mission está hablando con Kundun sobre desertar al Ducado de Mediah. Debería ir a la casa de Kundun.
 Mission_String=Discutir sobre el oficial de la Dark mission que busca asilo
@@ -25375,7 +25367,7 @@ Occur_String3=Entonces, sabes que no te creo.<br>Aun si eso es cierto, ¿qué hi
 Occur_String4=De todos modos, es la misma historia de siempre. Un hombre perdió a su amante y consiguió un hechizo prohibido. Se acercó a algunas figuras sospechosas y decidió trabajar con ellas para traer de vuelta su amor. Esa es mi historia...<br>Realmente es el mismo cuento cansado. Gracias.
 Occur_String5=Estudié todo tipo de magia negra, pero no pude encontrar una manera de revivirla. Por supuesto, no pude revivirla... ¿Quién puede violar la ley de la naturaleza que hace que todas las cosas marchiten y mueran?<br>Así que, abandoné la investigación, pero entonces descubrí que había ido demasiado lejos. Comencé a ser llamado un oficial o un líder por otros miembros de la Dark mission.
 Completable_String1=Mientras estudiaba magia negra, me di cuenta de que era un campo de estudio significativo que examina la vida y la muerte en el nivel más profundo. Puede ayudar a muchas personas.<br>El veneno puede ser tan beneficioso como la medicina, dependiendo de cómo se use.
-Completable_String2=La Dark mission solo usa veneno para envenenar a otros. Para escapar de mi terrible realidad, busqué ayuda de los Halcones de Plata y Kundun.<br>La amabilidad que me mostraste en el Pico de Hielo Sangriento me dio el valor.
+Completable_String2=La Dark mission solo usa veneno para envenenar a otros. Para escapar de mi terrible realidad, busqué ayuda de los Halcones de Plata y Kundun.<br>La amabilidad que me mostraste en el Blood Ice Peak me dio el valor.
 Complete_String=(Misión del Grupo de la Dark mission) (2/10)<br>Según Kinzen, a través de su extensa investigación de la magia oscura, llegó a la conclusión de que la magia oscura ofrece verdades fundamentales sobre la vida y la muerte, que se pueden utilizar para salvar personas. Luego, decidió dejar la Dark mission y contactó en secreto a los Halcones de Plata. Parece que está diciendo la verdad. Pero no puedo quitarme esta pregunta de la cabeza. ¿Realmente puedo confiar en un exmiembro de la Dark mission?
 List_String=(Misión del Grupo de la Dark mission) (2/10)<br>El hombre llamado Kinzen aprendió magia negra para traer de vuelta a su amante muerta y terminó uniéndose a la Dark mission. Anhelo y rabia cruzaron su rostro mientras hablaba en un tono autocrítico. No parecía que estuviera mintiendo.
 Mission_String=Descubrir por qué Kinzen busca asilo
@@ -25631,7 +25623,7 @@ Mission_Target4=Olla Chakua de Aspecto Extraño
 [Quest_201605]
 Name=(T) Segunda Instalación Antigua Chakua
 Occur_String1=¡Encontré una pista sobre otra estructura antigua Chakua del extraño sartén que trajiste del Rift! Dice,<br>“En el camino hacia el hogar de los dioses, espirales secas fluyen hacia la luna.”<br>El texto se refiere a las “Tierras Sanguinarias.”
-Occur_String2=El Pico de Hielo Sangriento obtuvo su nombre después de la Guerra de Tres Años. Solía ser una montaña sagrada que se pensaba estaba habitada por dioses.<br>Así que, la frase “En el camino hacia el hogar de los dioses” significa las Tierras Sanguinarias. Necesito que investigues el Rift al oeste del área.
+Occur_String2=El Blood Ice Peak obtuvo su nombre después de la Guerra de Tres Años. Solía ser una montaña sagrada que se pensaba estaba habitada por dioses.<br>Así que, la frase “En el camino hacia el hogar de los dioses” significa las Tierras Sanguinarias. Necesito que investigues el Rift al oeste del área.
 Doing_String=No entiendo a estos antiguos Chakuas, sin embargo... ¿Por qué escribirlo en un sartén?<br>¿O tal vez, no es un sartén?
 Completable_String1=Estos artefactos... Fueron utilizados por los campesinos Chakua. No me importaría tener más de estos. Nos dan una visión de su vida diaria.<br>Has logrado recolectar una buena cantidad de Items valiosos una vez más. Tantos artefactos para revisar...
 Completable_String2=Este de aquí... ¡Debe ser la pieza que coincide con la que recolectaste del último canal!<br>Es tan intrincado... Estoy seguro de que este artefacto oculta otro secreto.
@@ -25811,12 +25803,12 @@ Mission_Target1=Hablar con Fratanne
 [Quest_201750]
 Name=(T) Los Tres Tesoros Robados de Pabillune
 Occur_String1=¿Qué pasa? ¿Cuál es la prisa?
-Occur_String2=¡Mil disculpas, Su Gracia! ¡Pero es una emergencia!<br>¡Un grupo de Ashas Nakans entró en las Ruinas del Pionero y se llevó los Tres Tesoros de Pabillune!
+Occur_String2=¡Mil disculpas, Su Gracia! ¡Pero es una emergencia!<br>¡Un grupo de Ashas Nakans entró en las Pionner's Ruins y se llevó los Tres Tesoros de Pabillune!
 Occur_String3=¿Con los Tres Tesoros de Pabillune? ¿Por qué demonios cometerían tal blasfemia?
 Occur_String4=¿Los Tres Tesoros de Pabillune?
 Occur_String5=Son tres reliquias sagradas que Bulcan otorgó a Pabillune cuando se convirtió en el gobernante de Ashas.<br>Tienen un valor insustituible para nosotros, los Ashas.
 Completable_String1=Las tres reliquias son la Espada de Bronce, el Espejo de Bronce y las Campanas de Bronce. La espada le otorgó a Pabillune un poder inmenso, y el espejo desvió cualquier daño que le llegara. Además, cuando Pabillune sonaba las Campanas de Bronce, el mensajero de Bulcan aparecía y le mostraba qué camino tomar.
-Completable_String2=Las tres reliquias fueron destruidas cuando Pabillune falleció, y posteriormente fueron encomendadas a las Ruinas del Pionero.<br>Nunca imaginé que alguien intentaría robárnoslas.
+Completable_String2=Las tres reliquias fueron destruidas cuando Pabillune falleció, y posteriormente fueron encomendadas a las Pionner's Ruins.<br>Nunca imaginé que alguien intentaría robárnoslas.
 Complete_String=(Pabillune Individual Quest) (1/5)<br>Los Tres Tesoros de Pabillune resultaron ser los tres items sagrados que Bulcan le dio personalmente a Pabillune, un antiguo Ashas venerado por su sabiduría. Sin embargo, se pensaba que habían sido hechos pedazos cuando el gran Ashas falleció... ¿Por qué querrían robarlos?
 List_String=(Pabillune Individual Quest) (1/5)<br>Un soldado Ashas irrumpió y reportó que los Tres Tesoros de Pabillune fueron robados por los Ashas Nakans, sorprendiendo a Fratanne. ¿Cuáles son estos Tres Tesoros?
 Mission_String=Preguntar sobre los Tres Tesoros de Pabillune
@@ -26941,13 +26933,13 @@ Mission_Target1=Habla con Lunedill
 [Quest_202302]
 Name=(T) Guardián del Símbolo
 Occur_String1=El Símbolo de la Reina consta de cuatro piezas, y se entregan a los Guardianes del Símbolo en cuatro lugares diferentes del continente de Noria.<br>Supera las pruebas que te dan los Guardianes, y podrás obtener las piezas.
-Occur_String2=Entonces, como Princesa de Tephakin, me gustaría contratarte como mi agente.<br>Por favor, recoge las piezas del Símbolo de la Reina y entrégaselas al Arzobispo del Templo de Sapientia. Él informará sobre su recepción a Su Majestad y creará un Símbolo de Reina para ti. Trae el Símbolo a mí.<br>Esa es mi solicitud esta vez.
+Occur_String2=Entonces, como Princesa de Tephakin, me gustaría contratarte como mi agente.<br>Por favor, recoge las piezas del Símbolo de la Reina y entrégaselas al Arzobispo del Sapientia Temple. Él informará sobre su recepción a Su Majestad y creará un Símbolo de Reina para ti. Trae el Símbolo a mí.<br>Esa es mi solicitud esta vez.
 Occur_String3=Entonces, por eso querías hablar conmigo. De acuerdo, acepto tu solicitud. Pero, ¿estás segura de que puedo recogerlas en tu nombre?
 Occur_String4=Una reina es una gobernante.<br>Las cualidades más importantes de una gobernante son una mente justa y la capacidad de encontrar a las personas adecuadas para trabajar para ella.<br>Es por eso que usar un agente es aceptable. Tener el agente adecuado demuestra la capacidad y la voluntad de la reina.
 Completable_String1=Ya veo. Entonces, ¿qué debo hacer ahora?
 Completable_String2=Primero, encuentra al Guardián en el lado sur del Aliento del Árbol del Mundo. Esta es mi insignia. Muéstrasela, y él te dirá qué hacer.
 Complete_String=(Misión Individual de Lunedill) (2/14)<br>Lunedill me ha pedido que encuentre al Guardián en el lado sur del Aliento del Árbol del Mundo. Debería llevar su insignia al Guardián.
-List_String=(Misión Individual de Lunedill) (2/14)<br>Para crear un Símbolo de Reina, debo superar las pruebas que me den estos sacerdotes llamados Guardianes del Símbolo. Luego, necesito llevar las piezas del Símbolo al arzobispo del Templo de Sapientia. Ahora debería llevar su insignia al Guardián.
+List_String=(Misión Individual de Lunedill) (2/14)<br>Para crear un Símbolo de Reina, debo superar las pruebas que me den estos sacerdotes llamados Guardianes del Símbolo. Luego, necesito llevar las piezas del Símbolo al arzobispo del Sapientia Temple. Ahora debería llevar su insignia al Guardián.
 Mission_String=Pregunta cómo realizar esta solicitud
 Mission_Target1=Habla con Lunedill
 
@@ -27039,7 +27031,7 @@ Occur_String2=Es una lástima que hayan sido dejados atrás en lugar de desapare
 Occur_String3=Y recoge imágenes residuales de dioses olvidados, artefactos de dioses extintos y escrituras de dioses corruptos de ellos como prueba.<br>Serán purgados y tratados en nombre de la gran Diosa Sapientia.
 Doing_String=La Diosa Sapientia cuida de todos los elfos. Ella también vela por su representante, la reina.
 Completable_String1=Felicidades por completar la prueba.<br>Aquí tienes la cuarta pieza del Token de la Reina, una recompensa que tú y la reina en espera han ganado.
-Completable_String2=Si has reunido todas las piezas, por favor ve al Sumo Sacerdote del Templo de Sapientia.<br>Él informará a la diosa sobre el nacimiento de una nueva reina en espera y completará el Token de la Reina para ti.
+Completable_String2=Si has reunido todas las piezas, por favor ve al Sumo Sacerdote del Sapientia Temple.<br>Él informará a la diosa sobre el nacimiento de una nueva reina en espera y completará el Token de la Reina para ti.
 Complete_String=(Lunedill Individual Quest) (9/14)<br>He completado la prueba y recogido la cuarta pieza del Token. ¿Qué se siente al perder al dios que has adorado con todo tu corazón? Debe ser un dolor inconmensurable. Espero que esas criaturas y seguidores puedan descansar en paz ahora.
 List_String=(Lunedill Individual Quest) (9/14)<br>Para obtener el Token de la Reina, debo eliminar a los seguidores y criaturas de dioses olvidados, corruptos y extintos en el Templo de los Dioses Olvidados. Estoy cerca de completar la petición de Lunedill.
 Mission_String=Completa la cuarta prueba para obtener el Token de la Reina
@@ -27054,10 +27046,10 @@ Completable_String1=Bienvenido al templo de la Diosa Sapientia...<br>¿Mm? ¿No 
 Completable_String2=La Princesa Lunedill es sabia y decidida. De alguna manera, sabía que esto sucedería. Pero, considerando su carácter, dudo que esté reuniendo estas piezas para convertirse en reina. Debe quererlas como una especie de ventaja.
 Completable_String3=Eres muy perspicaz.
 Completable_String4=Aprendes un par de cosas a medida que envejeces y subes en la jerarquía.<br>Su Majestad Cara puede ser una buena líder, pero no en la situación actual. De hecho, ella es la causa de esto.<br>Por triste que sea decirlo, creo que debería abdicar por la paz de todos nosotros.
-Complete_String=(Lunedill Individual Quest) (10/14)<br>Llevé las cuatro piezas del Token de la Reina al Sumo Sacerdote del Templo de Sapientia. Con solo ver las piezas, comprendió instantáneamente por qué Lunedill las había reunido. Hay una razón por la cual es el líder de los sacerdotes del templo.
-List_String=(Lunedill Individual Quest) (10/14)<br>Finalmente, he reunido las cuatro piezas del Token de la Reina. Debo llevarlas al Sumo Sacerdote del Templo de Sapientia, en el lado norte del Aliento del Árbol del Mundo.
+Complete_String=(Lunedill Individual Quest) (10/14)<br>Llevé las cuatro piezas del Token de la Reina al Sumo Sacerdote del Sapientia Temple. Con solo ver las piezas, comprendió instantáneamente por qué Lunedill las había reunido. Hay una razón por la cual es el líder de los sacerdotes del templo.
+List_String=(Lunedill Individual Quest) (10/14)<br>Finalmente, he reunido las cuatro piezas del Token de la Reina. Debo llevarlas al Sumo Sacerdote del Sapientia Temple, en el lado norte del Aliento del Árbol del Mundo.
 Mission_String=Completa el Token de la Reina
-Mission_Target1=Habla con el Sumo Sacerdote del Templo de Sapientia
+Mission_Target1=Habla con el Sumo Sacerdote del Sapientia Temple
 
 [Quest_202310]
 Name=(T) Token de la Reina Completado
@@ -33004,20 +32996,20 @@ Mission_Target3=Ir al Búnker Sagrado
 Name=Tumba del Antiguo Sabio Ashas
 Occur_String1=Buen trabajo. Gracias, %s_9_1.
 Occur_String2=¿Has encontrado el paradero de la chica azul?
-Occur_String3=Sí. Ruinas del Pionero. Debe estar dirigiéndose allí.
-Occur_String4=¿Ruinas del Pionero?
+Occur_String3=Sí. Pionner's Ruins. Debe estar dirigiéndose allí.
+Occur_String4=¿Pionner's Ruins?
 Occur_String5=Es la tumba de Pabillune, el Antiguo Sabio Ashas.<br>Si los Elfos tienen el Sapientia Temple, nosotros tenemos la Tumba de Pabillune.
 Occur_String6=¿Y por qué crees que fue allí?
 Occur_String7=La tumba tiene una estatua de Pabillune en el centro, y tiene una piedra azul montada en ella.<br>Justo como la estatua de Sapientia.
 Occur_String8=Las Sombras Oscuras están arrasando la tumba en este momento.<br>Están vengándose por la destrucción del Sapientia Temple.
 Occur_String9=La chica azul planeó todo esto.<br>¡Para hacer que ambos lados comenzaran una guerra y destruyeran sus santuarios mutuamente para robar las piedras azules!
-Occur_String10=Debemos ir a las Ruinas del Pionero de inmediato. Debemos alcanzarla antes de que sea demasiado tarde.
+Occur_String10=Debemos ir a las Pionner's Ruins de inmediato. Debemos alcanzarla antes de que sea demasiado tarde.
 Doing_String=La piedra azul es un trofeo que robamos del Ejército del Pandemonio durante la Guerra de Tres Años...<br>Me pregunto qué tipo de poder tiene que la chica azul lo desea...
 Completable_String1=Vaya... ¿Cómo llegaste aquí?
-Complete_String=Me sorprendió encontrar a Fratanne esperándome en las Ruinas del Pionero. Me fui primero...
-List_String=(Misión Principal de Noria) (38/48)<br>Hay otra piedra azul en las Ruinas del Pionero que la chica quiere. Es mejor que me apresure.
-Mission_String=Entrar en las Ruinas del Pionero
-Mission_Target1=Llegar a las Ruinas del Pionero
+Complete_String=Me sorprendió encontrar a Fratanne esperándome en las Pionner's Ruins. Me fui primero...
+List_String=(Misión Principal de Noria) (38/48)<br>Hay otra piedra azul en las Pionner's Ruins que la chica quiere. Es mejor que me apresure.
+Mission_String=Entrar en las Pionner's Ruins
+Mission_Target1=Llegar a las Pionner's Ruins
 
 [Quest_5445]
 Name=Eliminar a los Ladrones de Tumbas
@@ -33031,7 +33023,7 @@ Occur_String7=Ancestros, por favor, ayúdennos. ¡Hmph!... (cierra los ojos para
 Occur_String8=¿Podrías detenerlos primero? Te guiaré con comunicación telepática.
 Doing_String=No me interrumpas. La comunicación telepática requiere alta concentración.
 Complete_String=Maté a todos los ladrones de tumbas. No puedo creer que estos tipos estén desenterrando tumbas para obtener ganancias mientras hay una guerra en curso. ¡Qué increíble! No es un cumplido.
-List_String=(Misión Principal de Noria) (39/48)<br>Debo encargarme de los ladrones de tumbas que están robando en las Ruinas del Pionero.
+List_String=(Misión Principal de Noria) (39/48)<br>Debo encargarme de los ladrones de tumbas que están robando en las Pionner's Ruins.
 Mission_String=Detener a los ladrones que roban de la tumba
 Mission_Target1=Matar %s_1_1
 Mission_Target2=Destruir herramientas de excavación
@@ -33044,9 +33036,9 @@ Doing_String=
 Completable_String1=
 Completable_String2=
 Complete_String=Encontré un campamento de Sombras Oscuras dentro de las ruinas. No me dejarán pasar sin pelear.
-List_String=(Misión Principal de Noria) (40/48)<br>Debo entrar en las Ruinas del Pionero. Espero llegar antes que la chica de piel azul.
-Mission_String=Buscar en las Ruinas del Pionero donde está la chica de piel azul
-Mission_Target1=Llegar al Campamento de Sombras Oscuras en las Ruinas del Pionero
+List_String=(Misión Principal de Noria) (40/48)<br>Debo entrar en las Pionner's Ruins. Espero llegar antes que la chica de piel azul.
+Mission_String=Buscar en las Pionner's Ruins donde está la chica de piel azul
+Mission_Target1=Llegar al Campamento de Sombras Oscuras en las Pionner's Ruins
 
 [Quest_5447]
 Name=Más Profundo en las Ruinas
@@ -33054,8 +33046,8 @@ Occur_String1=
 Doing_String=
 Completable_String1=Buen trabajo, %s_9_1.
 Complete_String=Me adentré más en las ruinas, derrotando a las Sombras Oscuras en el camino.
-List_String=(Misión Principal de Noria) (41/48)<br>Debo derrotar a las Sombras Oscuras y continuar mi camino en las Ruinas del Pionero, siguiendo las instrucciones de Fratanne.
-Mission_String=Buscar en las Ruinas del Pionero donde está la chica de piel azul
+List_String=(Misión Principal de Noria) (41/48)<br>Debo derrotar a las Sombras Oscuras y continuar mi camino en las Pionner's Ruins, siguiendo las instrucciones de Fratanne.
+Mission_String=Buscar en las Pionner's Ruins donde está la chica de piel azul
 Mission_Target1=Matar a los miembros de la Unidad de Esclavos del Bosque Negro
 Mission_Target2=Matar %s_2_1
 Mission_Target3=Derrotar a las Momias que bloquean la Sala del Sueño Eterno
@@ -33067,7 +33059,7 @@ Doing_String=
 Completable_String1=Buen trabajo. %s_9_1.
 Complete_String=Superé numerosos obstáculos, así como las fuerzas de la Sombra Oscura, y llegué al final de las ruinas. Pero, ¿cómo llegó Fratanne aquí antes que yo?
 List_String=(Misión Principal de Noria) (42/48)<br>El ataque de las Sombras Oscuras ha perturbado a las momias en las ruinas. No quiero hacerlo, pero debo deshacerme de ellas para despejar el camino.
-Mission_String=Buscar en las Ruinas del Pionero donde está la chica de piel azul
+Mission_String=Buscar en las Pionner's Ruins donde está la chica de piel azul
 Mission_Target1=Derrotar a las Momias de Clase Baja
 Mission_Target2=Derrotar a las Momias de Clase Alta
 Mission_Target3=Ir a la Sala del Sueño Eterno
@@ -33085,7 +33077,7 @@ Completable_String1=
 Completable_String2=
 Complete_String=Pabillune se levantó de su sueño eterno. Esto debe ser culpa de la Dark mission. Esos bastardos viciosos. ¿Cómo pueden usar el mismo método una y otra vez...? Los derroté, pero siempre me siento mal después de la pelea.
 List_String=(Misión Principal de Noria) (43/48)<br>Debo entrar en la Sala Memorial, donde está la piedra azul, más allá de la Sala del Sueño Eterno.
-Mission_String=Buscar en las Ruinas del Pionero donde está la chica de piel azul
+Mission_String=Buscar en las Pionner's Ruins donde está la chica de piel azul
 Mission_Target1=Ir a la Sala del Sueño Eterno
 Mission_Target2=Derrotar al Revenant de Pabillune
 
@@ -34568,7 +34560,7 @@ Mission_Target1=Mata a %s_1_1
 
 [Quest_1848]
 Name=Los que Profanan el Templo
-Occur_String1=Hay demasiados que profanan este gran templo de la lucha. Las motas pequeñas son fáciles de eliminar, pero la basura grande es mucho más problemática. ¿Podrías limpiar las más grandes, para que podamos servir a Vulcan con más fe? Espero que entiendas lo que estoy diciendo.
+Occur_String1=Hay demasiados que profanan este gran templo de la lucha. Las motas pequeñas son fáciles de eliminar, pero la basura grande es mucho más problemática. ¿Podrías limpiar las más grandes, para que podamos servir a Bulcan con más fe? Espero que entiendas lo que estoy diciendo.
 Doing_String=Desear este lugar... qué vergüenza para ti.
 Complete_String=He derrotado a los villanos de nivel élite y superior, que estaban profanando los Pasos de la resistencia: prueba.
 List_String=(Esta es una misión diaria de evento y debe cumplirse antes de las 5 AM.)<br>Derrota a los villanos de nivel élite y superior, que estaban profanando los Pasos de la resistencia: prueba.
@@ -34891,7 +34883,7 @@ Occur_String4=Sí, entendido. P-pero... vi un monstruo realmente aterrador yendo
 Occur_String5=No hables más. Me encargaré de eso. Quiero que te escondas aquí, luego, cuando escuches el sonido de mi pelea alejándose, corre hacia afuera. Concéntrate en eso, solo en eso. ¿Entendido?
 Occur_String6=Sí, entendido.
 Doing_String=Por favor, cuídate. Por favor...
-Completable_String1=¡Vaya! ¡Gracias, guerrero! ¡Gracias, Vulcan! ¡Mi hijo ha vuelto sano y salvo! Realmente... ¿cómo podría agradecerte lo suficiente?
+Completable_String1=¡Vaya! ¡Gracias, guerrero! ¡Gracias, Bulcan! ¡Mi hijo ha vuelto sano y salvo! Realmente... ¿cómo podría agradecerte lo suficiente?
 Completable_String2=Tuve suerte. Oye, salvé a otro niño no hace mucho. Ese chico también fue valiente. Los niños Drakan deben ser valientes.
 Completable_String3=Gracias. Se desmayó tan pronto como regresó, debió haber estado muy nervioso. Está descansando adentro ahora. Muchas, muchas gracias.
 Complete_String=(Misión principal del reino Drapia) (20/76)<br>Matar a todas las tropas demoníacas que asaltaron el almacén de comida y rescatar al niño. Un niño tan pequeño sobrevivió. Si eso no es pura suerte.
@@ -35102,7 +35094,7 @@ Mission_Target1=Habla con Karon, jefe de la sucursal del gavilán plateado
 [Quest_5735]
 Name=Santuario de Drakans
 Occur_String1=Bien. El asunto más urgente será la dirección en la que se dirige Quadro, presidente del Senado. Después de rastrear los poderes mágicos que quedaron en el castillo, Quadro se dirigió a las 'Cataratas Luiziane', que se encuentran al norte del castillo.
-Occur_String2=Según las leyendas que se remontan a la antigua época del imperio Walkreeger, hay una enorme cueva detrás de las cataratas Luiziane, y de allí se creó la especie de Drakans por Vulcan, uno de los dioses más grandes del cielo, y el antiguo dragón Kaisel.
+Occur_String2=Según las leyendas que se remontan a la antigua época del imperio Walkreeger, hay una enorme cueva detrás de las cataratas Luiziane, y de allí se creó la especie de Drakans por Bulcan, uno de los dioses más grandes del cielo, y el antiguo dragón Kaisel.
 Occur_String3=Si robó el cristal del caos y huyó por ese camino...
 Occur_String4=Debe haber algo en la cueva de las cataratas Luiziane que solo él conozca, y tal vez pueda controlar el cristal del caos a su voluntad. Si ese es el caso, será una gran amenaza para nosotros.
 Occur_String5=Entonces debemos seguir de inmediato. Cataratas Luiziane, eh. Tenemos que detenerlo antes de que haga algo. Gracias. Avísame si obtienes más información.
@@ -35212,7 +35204,7 @@ Mission_Target2=Matar al sujeto mutante en el laboratorio
 [Quest_5742]
 Name=La decisión
 Occur_String1=Ahora salgamos de aquí. ¿O hay algo más que debas hacer?
-Occur_String2=No puedo irme aún. He jurado que nunca me iré hasta encontrar una manera de restaurar a los Drakans. Mi gente tiene que volver al gran Vulcan.
+Occur_String2=No puedo irme aún. He jurado que nunca me iré hasta encontrar una manera de restaurar a los Drakans. Mi gente tiene que volver al gran Bulcan.
 Occur_String3=Entiendo eso, pero ¿no deberías también pensar en las personas que te están esperando afuera?
 Occur_String4=Lo que dices es cierto... para decir la verdad, si vuelvo a ver a mi familia y amigos... tengo miedo de que podría renunciar a todo.
 Occur_String5=... Está bien. Si eso es lo que has decidido, no es mi lugar decirte lo contrario. Así que te deseo buena suerte. Haré todo lo posible para encargarme de los monstruos restantes. Pero por favor, sal lo antes posible. No sabemos qué tipo de peligros acechan aquí.
@@ -35376,7 +35368,7 @@ Completable_String1=¿Hm? ¿Por qué te escondes?
 Completable_String2=Vi a los saqueadores Drakans yendo en esa dirección, así que me escondí. Esos bárbaros. De todos modos, si viniste de la dirección de la aldea, ¿está bien la aldea?
 Completable_String3=La situación no es buena, pero todos los saqueadores han sido atendidos. Se mantendrán alejados por un tiempo.<br>Así que ahora para preguntas de nuevo. ¿Quién eres y qué haces aquí?
 Completable_String4=Soy Haziel. Y estoy escoltando al sacerdote allá atrás. Se dirige a la capital Quahanan. Dice que tiene algunos mensajes que debe entregar.
-Complete_String=(Misión principal del palacio de Drapia) (52/76)<br>Conocí a un Drakan que se estaba escondiendo de los saqueadores Drakans en el camino hacia el campamento de la montaña de los Drakans. Asegura que está escoltando a un sacerdote de Vulcan a la capital Quahanan. Dirigiéndose a Quahanan en estos tiempos. Podría ser una coincidencia, pero mi intuición lo niega.
+Complete_String=(Misión principal del palacio de Drapia) (52/76)<br>Conocí a un Drakan que se estaba escondiendo de los saqueadores Drakans en el camino hacia el campamento de la montaña de los Drakans. Asegura que está escoltando a un sacerdote de Bulcan a la capital Quahanan. Dirigiéndose a Quahanan en estos tiempos. Podría ser una coincidencia, pero mi intuición lo niega.
 List_String=(Misión principal del palacio de Drapia) (52/76)<br>Me han dicho que el campamento de montaña de los Drakans, donde se reúnen los restos de Ungpam, se puede encontrar siguiendo el camino del sur. Primero, iré a ese lugar, cuidando de los animales montañeses feroces en mi camino.
 Mission_String=Moverse al campamento de montaña de los Drakans, cuidando de los animales montañeses
 Mission_Target1=Derrotar a los animales montañeses feroces
@@ -35386,7 +35378,7 @@ Mission_Target2=Moverse detrás de donde está cubierto por arbustos
 [Quest_5753]
 Name=El sacerdote, camino a la capital
 Occur_String1=¿Vas a la capital? ¿Qué está entregando?
-Occur_String2=Bueno, no lo dijo. Siendo un devoto creyente de Vulcan, no pude interrogar a un sacerdote...
+Occur_String2=Bueno, no lo dijo. Siendo un devoto creyente de Bulcan, no pude interrogar a un sacerdote...
 Occur_String3=Hm... ¿Podría conocer a ese sacerdote?
 Occur_String4=Está allá atrás... pero trata de no ser demasiado impío.
 Doing_String=El sacerdote está allá atrás.
@@ -35399,40 +35391,40 @@ Completable_String5=Eso es...
 Completable_String6=Parece que la persona que estoy buscando tiene algo en común con el mensaje que estás entregando.<br>El presidente Quadro, ¿verdad?
 Completable_String7=... Entonces, %s_9_1 también lo está buscando.
 Completable_String8=Hm, agradecería que me dijeras qué está pasando.
-Complete_String=(Misión principal del reino Drapia) (53/76)<br>Mi intuición era correcta. El sacerdote de Vulcan iba a la capital Quahanan para informar sobre Quadro.
-List_String=(Misión principal del reino Drapia) (53/76)<br>Habla con el sacerdote de Vulcan, que está de pie detrás del hombre.
-Mission_String=Conocer al sacerdote de Vulcan que está siendo escoltado por los Drakans
-Mission_Target1=Hablar con el sacerdote de Vulcan
+Complete_String=(Misión principal del reino Drapia) (53/76)<br>Mi intuición era correcta. El sacerdote de Bulcan iba a la capital Quahanan para informar sobre Quadro.
+List_String=(Misión principal del reino Drapia) (53/76)<br>Habla con el sacerdote de Bulcan, que está de pie detrás del hombre.
+Mission_String=Conocer al sacerdote de Bulcan que está siendo escoltado por los Drakans
+Mission_Target1=Hablar con el sacerdote de Bulcan
 
 [Quest_5754]
 Name=Acciones de Quadro
 Occur_String1=El presidente Quadro vino aquí. Y entró al campamento de montaña de los Drakans en el oeste. Eso puede ser un acontecimiento raro, pero no del todo extraño. Porque, aunque no frecuentemente, Quadro visitaba este lugar, y los Drakans tratan a Quadro como si fuera su padre.
 Occur_String2=Pero... fue diferente esta vez. Después de que el presidente Quadro dejó el campamento de montaña, los Drakans de repente empezaron a preparar sus armas. Como si... se estuvieran preparando para la guerra. Nuestro clérigo se sintió bastante inquieto por todo esto, y me dijo que informara esto a la capital urgentemente.<br>Y... ¿puedes decirme qué está pasando?
 Occur_String3=No debes hablar de esto con nadie. Quadro asesinó al rey Kazelhike y huyó. Con esta cosa llamada cristal del caos. Para ahora, Chaisong estará controlando la capital Quahanan. La situación está casi en su peor momento, con el ataque de la alianza de los Nobles también.
-Occur_String4=Oh, no... Dios. Gran Vulcan. ¿Por qué nos pones a nosotros, los Drakans, por tal prueba... El rey... Ese Quadro.
+Occur_String4=Oh, no... Dios. Gran Bulcan. ¿Por qué nos pones a nosotros, los Drakans, por tal prueba... El rey... Ese Quadro.
 Occur_String5=¿Sabes por qué Quadro vino aquí? Escuché que la cueva sagrada de los Drakans está cerca.
-Occur_String6=Bueno, yo... Mi servicio a Vulcan no ha sido largo, así que no sé los detalles. Nuestro clérigo está en el sitio del altar de roca cristalina, al oeste de aquí, y será mejor consultarlo.
+Occur_String6=Bueno, yo... Mi servicio a Bulcan no ha sido largo, así que no sé los detalles. Nuestro clérigo está en el sitio del altar de roca cristalina, al oeste de aquí, y será mejor consultarlo.
 Occur_String7=Y, por cierto, hay muchos Drakans armados allí. Tuvimos dificultades para pasar sin ser vistos. Me temo que no serán amistosos. Por favor, ten cuidado.
 Occur_String8=No te preocupes por mí, preocúpate por ustedes mismos. Descansen un poco, luego tengan un viaje seguro a la capital. Cuando lleguen a la capital...<br>Sí, menciona mi nombre, y di que te he enviado. Y díselo directamente a Chaisong.
-Occur_String9=Sí, entiendo. Fue una bendición de Vulcan haberte encontrado aquí. Gracias.
+Occur_String9=Sí, entiendo. Fue una bendición de Bulcan haberte encontrado aquí. Gracias.
 Doing_String=Mi... ¿Qué será de nuestro Drapia?
 Completable_String1=Bienvenido. Es muy raro que un extraño venga aquí, ¿cuál es tu negocio?
-Completable_String2=Conocí a un sacerdote de Vulcan que se dirigía a la capital, en mi búsqueda de Quadro. Me dijo que tú lo has enviado. Hablé con él y llegué aquí.
+Completable_String2=Conocí a un sacerdote de Bulcan que se dirigía a la capital, en mi búsqueda de Quadro. Me dijo que tú lo has enviado. Hablé con él y llegué aquí.
 Completable_String3=... Ya veo. Debe estar pasando algo, si dices que estás persiguiendo a Quadro.<br>¿Puedo saber qué es?
 Complete_String=(Misión principal del reino Drapia) (54/76)<br>Conocí al clérigo que el sacerdote mencionó. Parecía que tenía problemas para creer mi relato, y respondió. Probablemente nadie podría aceptar el hecho de inmediato después de escuchar la terrible historia del rey siendo asesinado por el presidente del Senado.
-List_String=(Misión principal del reino Drapia) (54/76)<br>Para averiguar qué está haciendo Quadro aquí, debo visitar al clérigo de Vulcan. Si los Drakans intentan detenerme... solo hay una forma de lidiar con ello.
-Mission_String=Reunirse con el clérigo de Vulcan en el sitio del altar de roca cristalina
+List_String=(Misión principal del reino Drapia) (54/76)<br>Para averiguar qué está haciendo Quadro aquí, debo visitar al clérigo de Bulcan. Si los Drakans intentan detenerme... solo hay una forma de lidiar con ello.
+Mission_String=Reunirse con el clérigo de Bulcan en el sitio del altar de roca cristalina
 Mission_Target1=Derrotar a los Drakans en la entrada del campamento de montaña
 Mission_Target2=Encontrar el sitio del altar de roca cristalina
 
 
 [Quest_5755]
 Name=Líder de los Drakans
-Occur_String1=E-estó no tiene ningún sentido. ¿Por qué haría algo tan atroz?<br>Oh Vulcan, ¿es realmente nuestro destino tal desastre? Esto es demasiado difícil...
-Occur_String2=En la situación actual, parece que se dirigió a la cueva de Vulcan en las cascadas de Luiziane, ¿así que hay algo que tenga que ver con el cristal del caos en ese lugar?
+Occur_String1=E-estó no tiene ningún sentido. ¿Por qué haría algo tan atroz?<br>Oh Bulcan, ¿es realmente nuestro destino tal desastre? Esto es demasiado difícil...
+Occur_String2=En la situación actual, parece que se dirigió a la cueva de Bulcan en las cascadas de Luiziane, ¿así que hay algo que tenga que ver con el cristal del caos en ese lugar?
 Occur_String3=Ese es el lugar más sagrado, el lugar de nacimiento de nosotros los Drakans, y no hay forma de que tenga algo que ver con esa cosa terrible llamada el fragmento de Sekneum. Nada de eso. Te lo garantizo.
 Occur_String4=Maldita sea... Entonces, ¿por qué demonios está Quadro allí? Estoy seguro de que llevó el cristal del caos con él porque podría usarlo allí...
-Occur_String5=Hay una joya sagrada llamada 'el noble corazón del rey dragón' en la cueva de Vulcan. Según las leyendas Drakans, cuando Vulcan creó nueva vida, el rey dragón Kaizel vino y presentó su propia esencia endurecida. Ese es 'el noble corazón del rey dragón'. Vulcan se sintió conmovido por ello y nos creó con la esencia de Kaizel.
+Occur_String5=Hay una joya sagrada llamada 'el noble corazón del rey dragón' en la cueva de Bulcan. Según las leyendas Drakans, cuando Bulcan creó nueva vida, el rey dragón Kaizel vino y presentó su propia esencia endurecida. Ese es 'el noble corazón del rey dragón'. Bulcan se sintió conmovido por ello y nos creó con la esencia de Kaizel.
 Occur_String6=Si es así... He oído que hay un campamento de montaña de Drakans trabajando por órdenes de Quadro cerca de este lugar. ¿Dónde está? ¿Y sabes quién es su líder?
 Occur_String7=No está lejos de aquí. Solo un poco hacia el oeste. Y su líder es un Drakan llamado 'Belma'.
 Occur_String8=Ya veo. Puede que sepa algo, así que voy a visitarlo.
@@ -35444,20 +35436,20 @@ Completable_String2=Ese fue el modificador más original que vino con mi nombre.
 Completable_String3=¡Mentiras, no más mentiras! ¡Él no se convirtió en un monstruo! ¡¿Cómo puedo confiar en tus palabras?! ¡Ungpam y nosotros los Drakans perdimos todo y fuimos expulsados hasta aquí por tu culpa!
 Completable_String4=Actualmente, cómo terminó Ungpam no es importante en absoluto. De todos modos, supongo que no sabes lo que pasó, ya que solo te preocupa Ungpam.<br>¿No había tomado Quadro algunas tropas Drakans hace un tiempo? ¿Sabes por qué las tomó?
 Completable_String5=No lo sé. ¡Porque estoy seguro de que no haría nada sin causa!
-Completable_String6=Escucha con atención. Quadro asesinó al rey Kaizelhike y huyó. A este mismo lugar, la cueva de Vulcan.
+Completable_String6=Escucha con atención. Quadro asesinó al rey Kaizelhike y huyó. A este mismo lugar, la cueva de Bulcan.
 Completable_String7=¿Qué, no... Quadro?
 Completable_String8=Si Kazelhike era un mal rey, esa podría haber sido su excusa. Pero no es el caso, ¿verdad? Además, Quadro se unió a la alianza de los Nobles para devastar territorios en Drapia; la aproximación de Quahanan ya está cubierta con la sangre y la carne de los tuyos. ¿No has caído tan bajo como para racionalizar todo esto como un 'sacrificio por el bien mayor', verdad?
 Completable_String9=¿Es esta la fabulosa 'gran nación'? ¿Una nación que sumerge a todos en el caos y mata a quienes se oponen? Eso realmente debería funcionar bien. Debe ser un espectáculo precioso. Por favor, házmelo saber cuando tal nación esté completa. Estaré mirando desde la distancia con una bebida en la mano. ¿No dicen que la mejor diversión es ver una pelea o un fuego? Estoy seguro de que podré ver eso en el país que construyas.
 Completable_String10=.....
 Complete_String=(misión principal del reino Drapia) (55/76)<br>Como pensé, este líder de los Drakans no tenía idea de lo que Quadro estaba tramando. Estaban tan ciegamente absorbidos en su fe hacia Quadro, que estaba en los mismos círculos de pensamientos pero también en una posición más alta y los salvó del exilio, que no se dieron cuenta de que estaban hundiéndose.
-List_String=(misión principal del reino Drapia) (55/76)<br>El clérigo de Vulcan tampoco sabía la razón por la cual Quadro fue a la cueva de Vulcan. Con un rayo de esperanza, voy a encontrar al líder de los Drakans y cuestionarlo. Por supuesto, él no me lo dirá tan fácilmente... Lo que me deja sin elección.
+List_String=(misión principal del reino Drapia) (55/76)<br>El clérigo de Bulcan tampoco sabía la razón por la cual Quadro fue a la cueva de Bulcan. Con un rayo de esperanza, voy a encontrar al líder de los Drakans y cuestionarlo. Por supuesto, él no me lo dirá tan fácilmente... Lo que me deja sin elección.
 Mission_String=Habla con el líder en el cuartel general del campamento de montaña de los Drakans
 Mission_Target1=Recoge las tropas en el campamento de montaña de los Drakans
 
 [Quest_5756]
 Name=El hermano oculto
-Occur_String1=Lo diré una vez más. Quadro huyó a la cueva de Vulcan. ¿Cuál fue la razón de eso?
-Occur_String2=... No lo sé. En verdad, no sabía que había ido a la cueva de Vulcan hasta que lo dijiste. Nos ordenó detener a cualquiera que viniera aquí con nuestras vidas. Que si esto tenía éxito, el mundo que soñamos se abrirá.<br>Dudar de sus palabras... Recibimos tanto, tanto de él.
+Occur_String1=Lo diré una vez más. Quadro huyó a la cueva de Bulcan. ¿Cuál fue la razón de eso?
+Occur_String2=... No lo sé. En verdad, no sabía que había ido a la cueva de Bulcan hasta que lo dijiste. Nos ordenó detener a cualquiera que viniera aquí con nuestras vidas. Que si esto tenía éxito, el mundo que soñamos se abrirá.<br>Dudar de sus palabras... Recibimos tanto, tanto de él.
 Occur_String3=Es casi como un lavado de cerebro. Quadro... Es increíblemente meticuloso.<br>*Suspiro*, de todos modos, así que tú tampoco sabes. Todo bien...
 Occur_String4=... Espera.
 Occur_String5=¿Había algo más?
@@ -35474,7 +35466,7 @@ Completable_String4=Todos nosotros los Drakans le debemos mucho a Quadro. Tambi�
 Completable_String5=Lo más honorable sería enfrentarse a lo que está mal, pero en tu situación creo que se necesita mucho coraje para no participar en la injusticia. Desde mi punto de vista, eres el mejor entre los Drakans.
 Completable_String6=¿Sabes qué está tramando Quadro? Por favor, dímelo si lo sabes.
 Completable_String7=Quadro estaba planeando dos cosas. Una fue el asesinato del rey. Eso fue un éxito. Y...
-Complete_String=(misión principal del reino Drapia) (56/76)<br>Eliminé a los seguidores fanáticos de los Drakans y conocí al hermano del líder. Él sabía que Quadro iba a asesinar al rey. Entonces, ¿no sería natural que supiera lo que estaba planeando en la cueva de Vulcan?
+Complete_String=(misión principal del reino Drapia) (56/76)<br>Eliminé a los seguidores fanáticos de los Drakans y conocí al hermano del líder. Él sabía que Quadro iba a asesinar al rey. Entonces, ¿no sería natural que supiera lo que estaba planeando en la cueva de Bulcan?
 List_String=(misión principal del reino Drapia) (56/76)<br>Tengo que escapar del campamento de montaña de los Drakans, encargarme de aquellos que intentan matar al hermano del líder y encontrarlo.
 Mission_String=Kill the fanatic Drakans followers, and meet the leader's brother
 Mission_Target1=Kill the fanatic Drakans followers
@@ -35486,25 +35478,25 @@ Occur_String2=... Ja, qué cara. Todos los demás Drakans eran tan ridículos co
 Occur_String3=Lo cual era... el cristal del caos.
 Occur_String4=Cristal del caos, ¿así se llama? El nombre encaja perfectamente. De todos modos, todos sentimos el poder de ese cristal y creímos que Quadro se convertiría en un gran ser como dijo.<br>Solo huí porque tenía más miedo de lo que vendría después.
 Occur_String5=Eso es absurdo. Realmente no esperaba esto. ¿Renacer como un nuevo y gran ser? ¿Qué significa eso...?
-Occur_String6=No sé si puedes detenerlo o no, pero si estás dispuesto a intentarlo, sería mejor que te juntaras con el sacerdote y el clérigo de Vulcan en la entrada de la cueva. Ellos son quienes manejan la cueva de Vulcan, así que podrían saber más sobre eso.
+Occur_String6=No sé si puedes detenerlo o no, pero si estás dispuesto a intentarlo, sería mejor que te juntaras con el sacerdote y el clérigo de Bulcan en la entrada de la cueva. Ellos son quienes manejan la cueva de Bulcan, así que podrían saber más sobre eso.
 Occur_String7=Ya veo. Haré eso. Gracias por la información.<br>Ah, también tengo una cosa más que decir. Tu hermano quiere que te vayas. Sal de Littenberg. Dijo que todavía puedes sobrevivir si te vas ahora.
 Occur_String8=¿Qué? Entonces, ¿qué pasará con mi hermano?
 Occur_String9=Él dijo que se hará responsable de sus propios deberes.
 Occur_String10=Maldita sea... Ni siquiera se va conmigo. Eso debería hacer mi camino más cómodo. Puf..<br>De todos modos, gracias a ti también. Es casi como si también hubieras salvado mi vida. Te deseo lo mejor.
 Doing_String=Te he contado todo lo que sé. Ahora depende de ti.
-Complete_String=(Misión principal del reino de Drapia) (57/76)<br>La cueva de Vulcan estaba rodeada de dragones y Drakans que estaban absortos en una aura maligna. Me atacaron, arrojando una fuerza asesina indiscriminada. No será un camino fácil.
-List_String=(Misión principal del reino de Drapia) (57/76)<br>Un plan inimaginable salió de la boca del hermano del líder. Quadro dijo que se convertirá en un nuevo y gran ser, y todas las especies se inclinarán ante él. ¿Qué era todo eso...? Era demasiado irrealista que mi mente no podía seguirle el ritmo. De todos modos, no estaba lejos de la cueva de Vulcan. El hermano del líder dijo que la cueva de Vulcan no estaba abierta a todos, y debería pedir ayuda a los clérigos en la entrada del lugar.
+Complete_String=(Misión principal del reino de Drapia) (57/76)<br>La cueva de Bulcan estaba rodeada de dragones y Drakans que estaban absortos en una aura maligna. Me atacaron, arrojando una fuerza asesina indiscriminada. No será un camino fácil.
+List_String=(Misión principal del reino de Drapia) (57/76)<br>Un plan inimaginable salió de la boca del hermano del líder. Quadro dijo que se convertirá en un nuevo y gran ser, y todas las especies se inclinarán ante él. ¿Qué era todo eso...? Era demasiado irrealista que mi mente no podía seguirle el ritmo. De todos modos, no estaba lejos de la cueva de Bulcan. El hermano del líder dijo que la cueva de Bulcan no estaba abierta a todos, y debería pedir ayuda a los clérigos en la entrada del lugar.
 Mission_String=Dirígete a donde está Quadro
-Mission_Target1=Dirígete a la cueva de Vulcan
+Mission_Target1=Dirígete a la cueva de Bulcan
 
 [Quest_5758]
 Name=Los manipulados por la mente maligna
-Completable_String1=Gracias, guerrero, estábamos en pánico ya que los Drakans y dragones nos atacaron de repente. Fue afortunado que este lugar tuviera el poder de Vulcan.<br>Esto ocurrió después de que el presidente Quadro pasara por aquí. Bueno, pensé que podía sentir un aura aterradora y temible.
+Completable_String1=Gracias, guerrero, estábamos en pánico ya que los Drakans y dragones nos atacaron de repente. Fue afortunado que este lugar tuviera el poder de Bulcan.<br>Esto ocurrió después de que el presidente Quadro pasara por aquí. Bueno, pensé que podía sentir un aura aterradora y temible.
 Completable_String2=Dicen que el presidente Quadro asesinó al rey y huyó. Escuchamos la noticia después de que se fue. Si lo hubiéramos sabido, arriesgaríamos nuestras vidas para capturarlo aquí...
 Completable_String3='La noticia ya se está esparciendo. Por otro lado, considerando el alcance del incidente, tal vez sea demasiado lento.'<br>También habrías muerto si hiciste eso. Tómalo como suerte.
-Completable_String4=He venido aquí tras Quadro. ¿Entró en la cueva de Vulcan, detrás de allí?
-Complete_String=(Misión principal del reino de Drapia) (58/76)<br>Suprimí a los Drakans y dragones contaminados con el espíritu maligno de Quadro cerca de la cueva de Vulcan, y conocí a los clérigos que estaban a cargo de la cueva de Vulcan. Supongo que no pudieron evitar que los rumores se extendieran más, ya que la noticia del asesinato del rey a Quadro llegó aquí. Solo puedo esperar que Chaisong y otros Drakans mantengan seguro a Quahanan.
-List_String=(Misión principal del reino de Drapia) (58/76)<br>Al acercarme a la cueva de Vulcan, los Drakans y dragones controlados por la mente maligna de Quadro se opusieron a mí. Puede dejar problemas en el futuro dejarlos estar.
+Completable_String4=He venido aquí tras Quadro. ¿Entró en la cueva de Bulcan, detrás de allí?
+Complete_String=(Misión principal del reino de Drapia) (58/76)<br>Suprimí a los Drakans y dragones contaminados con el espíritu maligno de Quadro cerca de la cueva de Bulcan, y conocí a los clérigos que estaban a cargo de la cueva de Bulcan. Supongo que no pudieron evitar que los rumores se extendieran más, ya que la noticia del asesinato del rey a Quadro llegó aquí. Solo puedo esperar que Chaisong y otros Drakans mantengan seguro a Quahanan.
+List_String=(Misión principal del reino de Drapia) (58/76)<br>Al acercarme a la cueva de Bulcan, los Drakans y dragones controlados por la mente maligna de Quadro se opusieron a mí. Puede dejar problemas en el futuro dejarlos estar.
 Mission_String=Derrota a los Drakans y dragones controlados por el espíritu maligno de Quadro
 Mission_Target1=Mata a los Drakans malignos
 Mission_Target2=Mata a los dragones malignos
@@ -35513,51 +35505,51 @@ Mission_Target2=Mata a los dragones malignos
 Name=La calificación para entrar
 Occur_String1=Sin embargo, no puedes entrar en la cueva. No estás calificado.
 Occur_String2=¿De verdad, calificación en esta situación?
-Occur_String3=Calma. Esta no es nuestra decisión. Fue decidida por Vulcan y Kaizel. No tenemos voz en lo que han decidido los dioses.<br>No podemos entrar tampoco, y todo lo que podemos hacer es orar aquí o cuidar de los alrededores.
+Occur_String3=Calma. Esta no es nuestra decisión. Fue decidida por Bulcan y Kaizel. No tenemos voz en lo que han decidido los dioses.<br>No podemos entrar tampoco, y todo lo que podemos hacer es orar aquí o cuidar de los alrededores.
 Occur_String4=Si alguien intentara entrar sin la calificación necesaria, él o ella serían eliminados por la ira de Dios. Oh, así que no intentes eso. Una vez vi a un ladrón intentar entrar y desaparecer miserablemente con mis propios ojos.
 Occur_String5=No hay otra manera entonces. Entonces, ¿cuál es la calificación, y cómo puedo obtenerla?
-Occur_String6=No estoy seguro, pero Chaisong puede saber. Los guerreros Drakans son los guerreros reales, pero también la espada leal de Vulcan. Estoy seguro de que Chaisong, el líder, sabría muchas cosas. Pero...
+Occur_String6=No estoy seguro, pero Chaisong puede saber. Los guerreros Drakans son los guerreros reales, pero también la espada leal de Bulcan. Estoy seguro de que Chaisong, el líder, sabría muchas cosas. Pero...
 Occur_String7=Solo entre nosotros, Chaisong está actualmente encarcelado. Lo mantuvieron por el príncipe desaparecido. Para que Chaisong esté encarcelado en tiempos tan turbulentos...
 Occur_String8=Sabías sobre el asesinato del rey, pero eres más lento con otras noticias. Para ahora, Chaisong estaría libre y a cargo de defender Quahanan. De todos modos, debo visitar a Chaisong entonces. Gracias.
 Doing_String=No habrá nada que temer si Chaisong está defendiendo Quahanan.
 Completable_String1=Oh, %s_9_1! Hermanos! Una gran carga se ha levantado, gracias a ti. Los senadores, que siempre están peleando entre ellos, se han unido en la crisis actual. Esto debería haber sucedido mucho antes... Pero ahora que el rey ha fallecido...<br>El guerrero se queda solo sin su señor. Es vergonzoso.
 Completable_String2=Solo concéntrate en lo que tenemos que hacer ahora. Si caes ahora, todo caerá. Piensa en mantener a Drapia como un pago por no poder proteger a tu señor.
-Completable_String3=Tienes toda la razón, hermano. Debo superar esta crisis, para poder decirle algo al rey al lado de Vulcan.<br>De todos modos... parece que tú también tienes problemas. ¿Qué es?
-Completable_String4=¿Quadro entró en la cueva de Vulcan? Intenté seguirlo, pero dicen que necesitas algún tipo de calificación para entrar, ¿sabes algo sobre eso?
-Completable_String5=¿Quadro en la cueva de Vulcan...? Oh no...
-Complete_String=(Misión principal del reino de Drapia) (59/76)<br>Conocí a Chaisong en el palacio y le pregunté sobre la calificación necesaria para entrar en la cueva de Vulcan. Habría ayudado si adquirirla fuera fácil, pero podía ver que no era así por su rostro oscurecido.
-List_String=(Misión principal del reino de Drapia) (59/76)<br>Tengo que encontrar a Chaisong en el palacio para averiguar cómo entrar en la cueva de Vulcan.
-Mission_String=Regresa al palacio y pregunta a Chaisong sobre la calificación de la cueva de Vulcan
+Completable_String3=Tienes toda la razón, hermano. Debo superar esta crisis, para poder decirle algo al rey al lado de Bulcan.<br>De todos modos... parece que tú también tienes problemas. ¿Qué es?
+Completable_String4=¿Quadro entró en la cueva de Bulcan? Intenté seguirlo, pero dicen que necesitas algún tipo de calificación para entrar, ¿sabes algo sobre eso?
+Completable_String5=¿Quadro en la cueva de Bulcan...? Oh no...
+Complete_String=(Misión principal del reino de Drapia) (59/76)<br>Conocí a Chaisong en el palacio y le pregunté sobre la calificación necesaria para entrar en la cueva de Bulcan. Habría ayudado si adquirirla fuera fácil, pero podía ver que no era así por su rostro oscurecido.
+List_String=(Misión principal del reino de Drapia) (59/76)<br>Tengo que encontrar a Chaisong en el palacio para averiguar cómo entrar en la cueva de Bulcan.
+Mission_String=Regresa al palacio y pregunta a Chaisong sobre la calificación de la cueva de Bulcan
 Mission_Target1=Habla con Chaisong
 
 
 [Quest_5760]
 Name=Descendiente del rey dragón
-Occur_String1=Se dice que solo los descendientes de sangre del rey dragón Kaizel pueden entrar en la cueva de Vulcan.
-Occur_String2=Quadro es uno de los descendientes del rey dragón Kaizel. También es uno de los mejores magos entre nosotros, los Drakans. Por eso está calificado para entrar en la cueva de Vulcan.
+Occur_String1=Se dice que solo los descendientes de sangre del rey dragón Kaizel pueden entrar en la cueva de Bulcan.
+Occur_String2=Quadro es uno de los descendientes del rey dragón Kaizel. También es uno de los mejores magos entre nosotros, los Drakans. Por eso está calificado para entrar en la cueva de Bulcan.
 Occur_String3=¿Entonces no puedo entrar de ninguna manera? No puedo convertirme en uno de la sangre de Kaizel ahora.
-Occur_String4=Por supuesto, pero eso no significa que no haya otras maneras.<br>Hay un lugar llamado 'campo de prueba de admisión' en las cascadas de Luiziane. Fue construido por Kaizel, y él colocó una parte de su alma en la parte más profunda allí.
+Occur_String4=Por supuesto, pero eso no significa que no haya otras maneras.<br>Hay un lugar llamado 'campo de Testing ground of admittance' en las cascadas de Luiziane. Fue construido por Kaizel, y él colocó una parte de su alma en la parte más profunda allí.
 Occur_String5=%s_9_1, llega a ese lugar y demuéstrale tu fuerza y voluntad directamente. Entonces Kaizel te reconocerá.
 Occur_String6=¿Qué tiene eso que ver con la sangre?
-Occur_String7='Cualquiera que demuestre su valía en el campo de prueba de admisión será mi hijo', así dijo Kaizel. Según sus palabras, calificarás para entrar en la cueva de Vulcan.
+Occur_String7='Cualquiera que demuestre su valía en el campo de Testing ground of admittance será mi hijo', así dijo Kaizel. Según sus palabras, calificarás para entrar en la cueva de Bulcan.
 Occur_String8=Vaya... estoy a punto de tener otro padre.
-Doing_String=Eso me recuerda... posiblemente sea la primera vez que un forastero entre en el campo de prueba de admisión.
+Doing_String=Eso me recuerda... posiblemente sea la primera vez que un forastero entre en el campo de Testing ground of admittance.
 Completable_String1=Siento el aura de nosotros, los Drakans, de ti, ¡solo que mucho más pura! Digo que ahora eres como uno de nosotros.
 Completable_String2=Yo mismo tengo esa calificación... pero tengo que mantener la capital y liderar el acercamiento para recuperar Quahanan. Lamento ponerte una carga tan pesada.
 Completable_String3=No necesitas sentirte mal. Lo importante es que es tiempo de que todos hagan lo que puedan.
-Complete_String=(Misión principal del reino de Drapia) (60/76)<br>Senti algún tipo de poder especial permeando en mí, cuando completé el campo de prueba de admisión. Pero no sentí repulsión, ni nada malo. ¿Fue este el reconocimiento del rey dragón?<br>Ahora, he ganado la calificación para entrar en la cueva de Vulcan.
-List_String=(Misión principal del reino de Drapia) (60/76)<br>Kaizel una vez dijo que si alguien podía conquistar el lugar llamado 'campo de prueba de admisión', esa persona sería aprobada como su hijo. Parece que solo los descendientes de Kaizel pueden entrar en la cueva de Vulcan, tendré que probar mi poder y voluntad en el campo de prueba de admisión.
-Mission_String=Demuestra tu poder y voluntad en el campo de prueba de admisión
-Mission_Target1=Completa el campo de prueba de admisión
+Complete_String=(Misión principal del reino de Drapia) (60/76)<br>Senti algún tipo de poder especial permeando en mí, cuando completé el campo de Testing ground of admittance. Pero no sentí repulsión, ni nada malo. ¿Fue este el reconocimiento del rey dragón?<br>Ahora, he ganado la calificación para entrar en la cueva de Bulcan.
+List_String=(Misión principal del reino de Drapia) (60/76)<br>Kaizel una vez dijo que si alguien podía conquistar el lugar llamado 'campo de Testing ground of admittance', esa persona sería aprobada como su hijo. Parece que solo los descendientes de Kaizel pueden entrar en la cueva de Bulcan, tendré que probar mi poder y voluntad en el campo de Testing ground of admittance.
+Mission_String=Demuestra tu poder y voluntad en el campo de Testing ground of admittance
+Mission_Target1=Completa el campo de Testing ground of admittance
 
 [Quest_5761]
 Name=El mayor guerrero de la época
-Occur_String1=La segunda calificación para entrar en la cueva de Vulcan debe ser 'el mayor guerrero de la época'. Esto es mucho más directo.
+Occur_String1=La segunda calificación para entrar en la cueva de Bulcan debe ser 'el mayor guerrero de la época'. Esto es mucho más directo.
 Occur_String2=Ya veo. De hecho, se siente mejor. Continuaría de manera constante y segura si la situación fuera diferente, pero no tengo elección. Ha pasado un tiempo desde que me esforcé tanto.
 Doing_String=¿Quién podría enfrentarse a alguien tan fuerte como tú...? Aun así, la imprudencia es el enemigo de todos los guerreros, no lo olvides.
-Completable_String1=Siento un poder incomparable de los hermanos. ¡Sin duda, él es el mayor guerrero de la época! ¡Ahora Vulcan te aceptará con gusto!
-Complete_String=(Misión principal del reino de Drapia) (61/76)<br>Me he convertido en el mayor guerrero de la época. Ahora tengo todas las calificaciones para entrar en la cueva de Vulcan.
-List_String=(Misión principal del reino de Drapia) (61/76)<br>La segunda calificación necesaria para entrar en la cueva de Vulcan es convertirse en el mayor guerrero de la época.
+Completable_String1=Siento un poder incomparable de los hermanos. ¡Sin duda, él es el mayor guerrero de la época! ¡Ahora Bulcan te aceptará con gusto!
+Complete_String=(Misión principal del reino de Drapia) (61/76)<br>Me he convertido en el mayor guerrero de la época. Ahora tengo todas las calificaciones para entrar en la cueva de Bulcan.
+List_String=(Misión principal del reino de Drapia) (61/76)<br>La segunda calificación necesaria para entrar en la cueva de Bulcan es convertirse en el mayor guerrero de la época.
 Mission_String=Conviértete en el mayor guerrero de la época
 Mission_Target1=Llega al nivel 85
 
@@ -35597,13 +35589,13 @@ Mission_Target1=Habla con Karon
 
 [Quest_5764]
 Name=Una nueva crisis
-Occur_String1=¡Hermanos! Han ganado la calificación, pero siento que deberían esperar para ir a la cueva de Vulcan.
+Occur_String1=¡Hermanos! Han ganado la calificación, pero siento que deberían esperar para ir a la cueva de Bulcan.
 Occur_String2=¿Hay algo más importante que detener a Quadro? Cuando no sabemos cuánto nos lleva, ¿cuánto poder ha absorbido?
 Occur_String3=Sí. Si no detenemos esto, la capital caerá en llamas.
 Occur_String4=... ¿Qué demonios está pasando?
 Occur_String5=Epiaros, el dragón guardián que ha estado dormido en el altar de roca cristalina, ha despertado. Pero algo ha salido mal, ya que se ha vuelto loco y está amenazando el área del altar de roca cristalina y las cascadas de Luiziane.
-Completable_String1=El altar de roca cristalina es uno de los santuarios de los Drakans en las cascadas de Luiziane. Hace mucho tiempo, hasta el imperio Walkreeger, se registró como el lugar donde Vulcan dio oráculos. Pero las palabras de Vulcan se detuvieron cuando cayó el imperio.
-Completable_String2=Epiaros se ofreció como dragón guardián con solo una cosa en mente, proteger el altar. Rechazó a todos los intrusos con malas intenciones, y gracias a él, pudimos resguardar el único lugar donde podemos escuchar las palabras de Vulcan.
+Completable_String1=El altar de roca cristalina es uno de los santuarios de los Drakans en las cascadas de Luiziane. Hace mucho tiempo, hasta el imperio Walkreeger, se registró como el lugar donde Bulcan dio oráculos. Pero las palabras de Bulcan se detuvieron cuando cayó el imperio.
+Completable_String2=Epiaros se ofreció como dragón guardián con solo una cosa en mente, proteger el altar. Rechazó a todos los intrusos con malas intenciones, y gracias a él, pudimos resguardar el único lugar donde podemos escuchar las palabras de Bulcan.
 Completable_String3=Ahora ese dragón guardián está destrozando lo que se supone que debe proteger, y es solo cuestión de tiempo antes de que el reino de Drapia caiga en desgracia.<br>Y el villano es...
 Completable_String4=Quadro. Debe ser él. No puedo perdonarlo. ¡Tal hombre solía ser el presidente!
 Complete_String=(Misión principal del reino de Drapia) (64/76)<br>Chaisong parecía bastante fatigado al hablar de Epiaros, no como el nombre del líder de los guerreros Drakan. Era solo natural, ya que el príncipe ha desaparecido y el rey fue asesinado por el presidente. Además, la alianza de los nobles está amenazando la capital, y un extraño dragón llamado Epiaros estaba causando problemas por detrás.<br>Fue solo con su voluntad de acero que Chaisong pudo aguantar, y Drapia podría haber caído ya si no fuera por él.
@@ -35620,8 +35612,8 @@ Occur_String4=Hermanos. ¿Podrías detener a Epiaros? Me da vergüenza decir que
 Occur_String5=El presidente del Senado asesinó al rey y el príncipe está desaparecido. Además, la alianza de los nobles está atacando. Es un milagro que estés aguantando.<br>Detendré a ese dragón guardián, mientras tú haces todo lo posible para mantener las cosas en orden como antes.
 Occur_String6=¡Entiendo, hermanos! ¡Es bueno tenerte a nuestro lado! ¡Muchas gracias!
 Doing_String=Quadro... ¿Cómo pudo usar el cristal del caos lo suficiente como para volver loco a Epiaros...?
-Complete_String=(Misión principal del reino de Drapia) (65/76)<br>Con la calificación para entrar en la cueva de Vulcan, Quadro volvió loco al dragón guardián de Vulcan, Epiaros, con el cristal del caos para detenerme en mi camino. Epiaros, que solía cuidar con calma el altar de Vulcan, perdió su sentido por el poder del dios demoníaco Sekneum, su fuerza opuesta, y se ha vuelto loco y un gran peligro para el reino. Para detener tal arrebato de Epiaros, Chaisong me pidió que fuera al altar de roca cristalina.
-List_String=(Misión principal del reino de Drapia) (65/76)<br>Por pedido de Chaisong, tendré que entrar en el altar de roca cristalina y calmar al dragón guardián de Vulcan, Epiaros.
+Complete_String=(Misión principal del reino de Drapia) (65/76)<br>Con la calificación para entrar en la cueva de Bulcan, Quadro volvió loco al dragón guardián de Bulcan, Epiaros, con el cristal del caos para detenerme en mi camino. Epiaros, que solía cuidar con calma el altar de Bulcan, perdió su sentido por el poder del dios demoníaco Sekneum, su fuerza opuesta, y se ha vuelto loco y un gran peligro para el reino. Para detener tal arrebato de Epiaros, Chaisong me pidió que fuera al altar de roca cristalina.
+List_String=(Misión principal del reino de Drapia) (65/76)<br>Por pedido de Chaisong, tendré que entrar en el altar de roca cristalina y calmar al dragón guardián de Bulcan, Epiaros.
 Mission_String=Entra en el altar de roca cristalina pasando los espíritus guardianes
 Mission_Target1=Entra en el altar de roca cristalina
 
@@ -35638,14 +35630,14 @@ Mission_Target2=Matar gólems guardianes
 Name=Epiaros, dragón guardián del altar
 Completable_String1=Lo siento, tuviste que verme así. No sabía que el descendiente del rey dragón Kaizel sería un renegado. Ese terrible cristal del caos me ha ensuciado.<br>Gracias, extraño. ¿Cuál es tu nombre?
 Completable_String2=Soy %s_9_1. No hay necesidad de darme las gracias. Ahora te ves como tú mismo. Estuvo realmente cerca. Eso fue afortunado.
-Completable_String3=Pero... El poder del dios demoníaco todavía me pesa. Cualquier momento puedo volver a caer....<br>Gracias por darme tiempo para hacer los preparativos finales. Ahora puedo regresar junto a Vulcan.
+Completable_String3=Pero... El poder del dios demoníaco todavía me pesa. Cualquier momento puedo volver a caer....<br>Gracias por darme tiempo para hacer los preparativos finales. Ahora puedo regresar junto a Bulcan.
 Completable_String4=¿Final? Suenas como un dragón moribundo.
 Completable_String5=El poder del dios demoníaco está grabado demasiado profundo en mi mente y me está atormentando. No puedo contener más el latido de la rabia y el deseo que hay dentro de mí. No sé cuánto tiempo más podré continuar este diálogo...
 Completable_String6=... Trata de aguantar. Conozco a alguien que tiene mucha experiencia en estos asuntos. Él encontrará una manera.
 Completable_String7=Un ser tan pequeño como tú...<br>No. Fui desconsiderado. Te creeré, quien me salvó. Te... confiaré.
 Complete_String=(Misión principal del reino de Drapia) (67/76)<br>Entré en el altar de roca cristalina, rompí a través de la piedra guardiana y los espíritus guardianes que protegen el altar, y enfrenté a Epiaros. Finalmente suprimí a Epiaros después de una feroz batalla, pero su mente ya estaba profundamente grabada con el aura mágica de Sekneum.
 List_String=(Misión principal del reino de Drapia) (67/76)<br>Tengo que romper a través de los espíritus guardianes que ocupan el valle de roca cristalina y entrar en el altar de roca cristalina.
-Mission_String=Suprimir al dragón guardián de Vulcan, Epiaros
+Mission_String=Suprimir al dragón guardián de Bulcan, Epiaros
 Mission_Target1=Suprimir a Epiaros
 
 [Quest_5768]
@@ -35703,30 +35695,30 @@ Mission_String=Matar al dragón de llamas Valtheram
 Mission_Target1=Matar a Valtheram
 
 [Quest_5772]
-Name=Hacia la cueva de Vulcan
-Occur_String1=¿Entonces ahora hacia la cueva de Vulcan? Nos tomó demasiado tiempo. ¿Qué tipo de planes estará tramando Quadro...?
-Occur_String2=Originalmente, Quadro debió haber planeado absorber el cristal del caos con el poder del noble corazón del rey dragón directamente en la cueva de Vulcan. Pero cuando %s_9_1 rastreó a Quadro inesperadamente rápido, debió haber extendido sus manos malignas hacia Epiaros, lo cual no era parte del plan.
+Name=Hacia la cueva de Bulcan
+Occur_String1=¿Entonces ahora hacia la cueva de Bulcan? Nos tomó demasiado tiempo. ¿Qué tipo de planes estará tramando Quadro...?
+Occur_String2=Originalmente, Quadro debió haber planeado absorber el cristal del caos con el poder del noble corazón del rey dragón directamente en la cueva de Bulcan. Pero cuando %s_9_1 rastreó a Quadro inesperadamente rápido, debió haber extendido sus manos malignas hacia Epiaros, lo cual no era parte del plan.
 Occur_String3=Esto es evidencia de que Quadro siente pánico. Tal vez no pudo absorber suficiente energía como hemos estado preocupándonos.
 Occur_String4=Entonces, debemos terminarlo ahora. O nos convertiremos en los que sean terminados.
 Doing_String=Espero que nuestras preocupaciones no se materialicen.
-Complete_String=(Misión principal del reino de Drapia) (72/76)<br>Pise en la cueva de Vulcan. Siento una energía extraña que no podría mejorar. Pero aún estaba tranquilo. Eso debe significar que todavía tenemos una oportunidad.
-List_String=(Misión principal del reino de Drapia) (72/76)<br>Tengo que avanzar hacia la cueva de Vulcan para detener a Quadro de absorber el poder del noble corazón del rey dragón y el cristal del caos.
-Mission_String=Dirígete a la cueva de Vulcan
-Mission_Target1=Entrar en la cueva de Vulcan
+Complete_String=(Misión principal del reino de Drapia) (72/76)<br>Pise en la cueva de Bulcan. Siento una energía extraña que no podría mejorar. Pero aún estaba tranquilo. Eso debe significar que todavía tenemos una oportunidad.
+List_String=(Misión principal del reino de Drapia) (72/76)<br>Tengo que avanzar hacia la cueva de Bulcan para detener a Quadro de absorber el poder del noble corazón del rey dragón y el cristal del caos.
+Mission_String=Dirígete a la cueva de Bulcan
+Mission_Target1=Entrar en la cueva de Bulcan
 
 [Quest_5773]
 Name=Enemigos en aumento
-Complete_String=(Misión principal del reino de Drapia) (73/76)<br>La cueva de Vulcan ya estaba llena de innumerables Drakans y dragones. Continué buscando a Quadro, matando a los enemigos que se multiplicaban.
-List_String=(Misión principal del reino de Drapia) (73/76)<br>La cueva de Vulcan estaba llena de fanáticos Drakans seguidores de Quadro y dragones salvajes. ¿Cómo pudieron entrar a este lugar? Quadro debió haber hecho algo.
-Mission_String=Matar a los monstruos que ocupan la cueva de Vulcan
+Complete_String=(Misión principal del reino de Drapia) (73/76)<br>La cueva de Bulcan ya estaba llena de innumerables Drakans y dragones. Continué buscando a Quadro, matando a los enemigos que se multiplicaban.
+List_String=(Misión principal del reino de Drapia) (73/76)<br>La cueva de Bulcan estaba llena de fanáticos Drakans seguidores de Quadro y dragones salvajes. ¿Cómo pudieron entrar a este lugar? Quadro debió haber hecho algo.
+Mission_String=Matar a los monstruos que ocupan la cueva de Bulcan
 Mission_Target1=Matar a los dragones
 Mission_Target2=Matar a los Drakans
 Mission_Target3=Matar a su líder
 
 [Quest_5774]
 Name=Quadro. El devorador del caos
-Complete_String=(Misión principal del reino de Drapia) (74/76)<br>Derroté a Quadro que estaba absorbiendo el cristal del caos usando el noble corazón del rey dragón en lo profundo de la cueva de Vulcan. Quadro cayó en vano, diciendo que el mundo estaba a su alcance.
-List_String=(Misión principal del reino de Drapia) (74/76)<br>Tengo que derrotar a Quadro que está absorbiendo el poder del cristal del caos usando el noble corazón del rey dragón Kaizel que contiene la esencia del rey dragón Kaizel en la cueva de Vulcan.
+Complete_String=(Misión principal del reino de Drapia) (74/76)<br>Derroté a Quadro que estaba absorbiendo el cristal del caos usando el noble corazón del rey dragón en lo profundo de la cueva de Bulcan. Quadro cayó en vano, diciendo que el mundo estaba a su alcance.
+List_String=(Misión principal del reino de Drapia) (74/76)<br>Tengo que derrotar a Quadro que está absorbiendo el poder del cristal del caos usando el noble corazón del rey dragón Kaizel que contiene la esencia del rey dragón Kaizel en la cueva de Bulcan.
 Mission_String=Derrotar al devorador del caos
 Mission_Target1=Matar a Quadro
 
@@ -35990,7 +35982,7 @@ Mission_Target5=
 [Quest_5480]
 Name=El Origen de los Cristales Azules 1
 Occur_String1=He estado bastante ocupado, pero no he olvidado a esa misteriosa chica.<br>¿Has aprendido algo sobre ella?
-Occur_String2=Desafortunadamente, no.<br>La chica de piel azul despertó después de que la dejé inconsciente en las Ruinas del Pionero. Sin embargo, por alguna razón, no ha recuperado la conciencia completa.
+Occur_String2=Desafortunadamente, no.<br>La chica de piel azul despertó después de que la dejé inconsciente en las Pionner's Ruins. Sin embargo, por alguna razón, no ha recuperado la conciencia completa.
 Occur_String3=....
 Occur_String4=¿Por qué no investigamos los Cristales Azules que la chica había robado?<br>Necesitamos saber por qué arriesgó hacer enemigos de los elfos y los Ashas para hacerse con los cristales.
 Occur_String5=Recientemente se reabrió una biblioteca en la ciudad. Contiene todos nuestros registros históricos y culturales.<br>Había estado cerrada por orden de la Reina, pero muchos elfos locales suplicaron por su reapertura.
@@ -37961,7 +37953,7 @@ Mission_Target1=Explora el Sapientia Temple
 
 [Quest_1001903]
 Name=Cuaderno de Expedición del Nuevo Continente
-Mission_Target1=Explora las Ruinas del Pionero
+Mission_Target1=Explora las Pionner's Ruins
 
 [Quest_1001904]
 Name=Cuaderno de Expedición del Nuevo Continente
@@ -39086,14 +39078,14 @@ Mission_Target1=Melena de Gnoll
 
 [Quest_202513]
 Name=(T) Melena de Gnoll de melena dorada
-Occur_String1=Hemos recolectado las melenas de los Gnolls que invadieron Fabrice Garden. Ahora, por favor dirígete al almacén abandonado de Duelden para recolectar las melenas de los Gnolls de melena dorada.
+Occur_String1=Hemos recolectado las melenas de los Gnolls que invadieron Fabrice Garden. Ahora, por favor dirígete al Abandoned Warehouse de Duelden para recolectar las melenas de los Gnolls de melena dorada.
 Occur_String2=¿Yo otra vez? Esto de los Gnolls de melena dorada nunca termina.
 Occur_String3=Sé que es difícil, pero necesito que lo hagas para llevar a cabo el análisis comparativo. Mientras tanto, trabajaré en las melenas de Gnoll que recolectaste.
 Doing_String=Al observar estas melenas, parece que los Gnolls invadieron Fabrice Garden hace poco. No está completamente impregnado con el tiempo-espacio allí. Así que no será difícil averiguarlo.
 Completable_String1=Bien hecho. Esto terminará pronto, solo un momento.
-Complete_String=(Misión de grupo de Croaker) (3/5)<br>El sospechoso Arche ahora solicita ayuda para averiguar si los Gnolls de melena dorada son los mismos que invadieron Fabrice Garden. Así que me dirigí al almacén abandonado de Duelden para recolectar las melenas de los Gnolls de melena dorada.
-List_String=(Misión de grupo de Croaker) (3/5)<br=El sospechoso Arche te pide recolectar las melenas de los Gnolls de melena dorada del almacén abandonado de Duelden.
-Mission_String=Recolecta las melenas de los Gnolls de melena dorada del almacén abandonado
+Complete_String=(Misión de grupo de Croaker) (3/5)<br>El sospechoso Arche ahora solicita ayuda para averiguar si los Gnolls de melena dorada son los mismos que invadieron Fabrice Garden. Así que me dirigí al Abandoned Warehouse de Duelden para recolectar las melenas de los Gnolls de melena dorada.
+List_String=(Misión de grupo de Croaker) (3/5)<br=El sospechoso Arche te pide recolectar las melenas de los Gnolls de melena dorada del Abandoned Warehouse de Duelden.
+Mission_String=Recolecta las melenas de los Gnolls de melena dorada del Abandoned Warehouse
 Mission_Target1=Melena de Gnoll de melena dorada
 
 [Quest_202514]
@@ -39781,54 +39773,54 @@ Mission_Target1=Habla con Ashrahf
 
 [Quest_202604]
 Name=(T) El agua sagrada de los Drakan
-Occur_String1=%s_9_1, ¿has oído hablar del agua sagrada llamada 'sangre sagrada de Vulcan'? Es una agua sagrada invaluable de mi especie, que ha sido transmitida por generaciones. Solo un guerrero que sea puro y valiente de corazón tiene el derecho de adquirirla.
+Occur_String1=%s_9_1, ¿has oído hablar del agua sagrada llamada 'sangre sagrada de Bulcan'? Es una agua sagrada invaluable de mi especie, que ha sido transmitida por generaciones. Solo un guerrero que sea puro y valiente de corazón tiene el derecho de adquirirla.
 Occur_String2=Lo sé. La obtuve antes cuando estaba ayudando a los Axasianos. ¿La necesitas?
-Occur_String3=¿El agua sagrada, para los Axasianos? Hm... Bueno, Vulcan realmente aceptó a los Axasianos después de todo...<br>De todos modos, escuché que ese lugar solo estaba permitido para los Drakan... %s_9_1 debe ser realmente genial.
-Occur_String4=Si tuviéramos la 'sangre sagrada de Vulcan', creo que podríamos sanar a los que regresan a los Drakan más rápido. También puede ser útil en emergencias.
-Occur_String5=Está bien. Haré una visita al sacerdote de Vulcan en Ohrdor.
+Occur_String3=¿El agua sagrada, para los Axasianos? Hm... Bueno, Bulcan realmente aceptó a los Axasianos después de todo...<br>De todos modos, escuché que ese lugar solo estaba permitido para los Drakan... %s_9_1 debe ser realmente genial.
+Occur_String4=Si tuviéramos la 'sangre sagrada de Bulcan', creo que podríamos sanar a los que regresan a los Drakan más rápido. También puede ser útil en emergencias.
+Occur_String5=Está bien. Haré una visita al sacerdote de Bulcan en Ohrdor.
 Doing_String=Has sido de gran ayuda.
-Completable_String1=Ahh, si no fuera por %s_9_1, ¡el gran guerrero! Finalmente has decidido convertirte en Vulcan el valiente.<br>Entonces solo pon tu nombre aquí...
+Completable_String1=Ahh, si no fuera por %s_9_1, ¡el gran guerrero! Finalmente has decidido convertirte en Bulcan el valiente.<br>Entonces solo pon tu nombre aquí...
 Completable_String2=Lo siento, pero eso es lo más alejado de mi mente.
-Completable_String3=Hmmm. Es una pena. Entonces, ¿por qué visitas a Vulcan?
-Complete_String=(Misión del grupo de los Drakan) (4/6)<br>El sacerdote de Vulcan en Ohrdor no ha cambiado ni un poco. La repentina inducción... No es que sea un mal tipo, solo es difícil para un cara a cara.
-List_String=(Misión del grupo de los Drakan) (4/6)<br>A la solicitud de 'sangre sagrada de Vulcan' de Ashrahf, decido visitar al sacerdote de Vulcan en Ohrdor. Hm... Todo está bien, excepto por el nombre del agua sagrada que suena un poco siniestro y no puedo acostumbrarme a ese sacerdote de Vulcan.
-Mission_String=Encuentra al sacerdote de Vulcan en Ohrdor
-Mission_Target1=Habla con el sacerdote de Vulcan
+Completable_String3=Hmmm. Es una pena. Entonces, ¿por qué visitas a Bulcan?
+Complete_String=(Misión del grupo de los Drakan) (4/6)<br>El sacerdote de Bulcan en Ohrdor no ha cambiado ni un poco. La repentina inducción... No es que sea un mal tipo, solo es difícil para un cara a cara.
+List_String=(Misión del grupo de los Drakan) (4/6)<br>A la solicitud de 'sangre sagrada de Bulcan' de Ashrahf, decido visitar al sacerdote de Bulcan en Ohrdor. Hm... Todo está bien, excepto por el nombre del agua sagrada que suena un poco siniestro y no puedo acostumbrarme a ese sacerdote de Bulcan.
+Mission_String=Encuentra al sacerdote de Bulcan en Ohrdor
+Mission_Target1=Habla con el sacerdote de Bulcan
 
 
 [Quest_202605]
-Name=(T) Las tres cuevas de Vulcan
-Occur_String1=¡Genial! Todos los que luchan contra lo incorrecto y hacen un esfuerzo por restaurar el orden son guerreros. Por lo tanto, ¡estoy seguro de que ese erudito es un guerrero él mismo! ¡Es un completo sinsentido que un sacerdote de Vulcan traicione a un guerrero!
+Name=(T) Las tres cuevas de Bulcan
+Occur_String1=¡Genial! Todos los que luchan contra lo incorrecto y hacen un esfuerzo por restaurar el orden son guerreros. Por lo tanto, ¡estoy seguro de que ese erudito es un guerrero él mismo! ¡Es un completo sinsentido que un sacerdote de Bulcan traicione a un guerrero!
 Occur_String2=En ese caso...
-Occur_String3=¡Ay! Como te dije antes, 'la sangre sagrada de Vulcan' no es el tipo de cosa que solo puedes hacer y guardar. ¡Solo puedes adquirirla demostrando tu valía ante Vulcan!
+Occur_String3=¡Ay! Como te dije antes, 'la sangre sagrada de Bulcan' no es el tipo de cosa que solo puedes hacer y guardar. ¡Solo puedes adquirirla demostrando tu valía ante Bulcan!
 Occur_String4=Así que una vez más...
 Occur_String5=¡Pero! Afortunadamente, aún tenemos algunos materiales restantes, recolectados por otro guerrero.
 Occur_String6='Eh, aquí vamos de nuevo...'
 Occur_String7=¡Sin embargo! No es suficiente para hacer el agua sagrada. Tendrás que recolectar un poco más.<br>La ubicación es la misma que antes. Solo te lo diré una vez más, en caso de que lo hayas olvidado.
-Occur_String8=Recoge la 'esencia ardiente de Vulcan' de 'la cueva ardiente de Vulcan' en la cuenca de Wais del continente Enova;<br>'esencia de frialdad de Vulcan' de 'la cueva helada de Vulcan' en Carolsandria del continente Duelden,<br>y 'esencia de dureza de Vulcan' de 'la cueva rocosa de Vulcan' en las tierras altas de sangre del continente Littenberg.
+Occur_String8=Recoge la 'esencia ardiente de Bulcan' de 'la cueva ardiente de Bulcan' en la cuenca de Wais del continente Enova;<br>'esencia de frialdad de Bulcan' de 'la cueva helada de Bulcan' en Carolsandria del continente Duelden,<br>y 'esencia de dureza de Bulcan' de 'la cueva rocosa de Bulcan' en las tierras altas de sangre del continente Littenberg.
 Doing_String=Deberías poder recolectarlas en poco tiempo.
-Completable_String1=¡Tal como pensé, obtuviste la esencia de Vulcan tan rápido! Eres un gran guerrero. Por favor, espera un poco. Las haré ahora mismo.
-Completable_String2=Ejem... ¡Oh gran Vulcan! Tu...
+Completable_String1=¡Tal como pensé, obtuviste la esencia de Bulcan tan rápido! Eres un gran guerrero. Por favor, espera un poco. Las haré ahora mismo.
+Completable_String2=Ejem... ¡Oh gran Bulcan! Tu...
 Complete_String=(Misión del grupo de los Drakan) (5/6)<br>Al pasar todos los materiales para hacer la sangre sagrada, el sacerdote levantó su voz y comenzó a recitar el hechizo de bendición.
-List_String=(Misión del grupo de los Drakan) (5/6)<br>Tengo que recolectar los materiales necesarios para la sangre sagrada de Vulcan de cada una de las tres cuevas. Veamos. He estado en...<br>'esencia ardiente de Vulcan' de 'la cueva ardiente de Vulcan' en la cuenca de Wais del continente Enova;<br>'esencia de frialdad de Vulcan' de 'la cueva helada de Vulcan' en Carolsandria del continente Duelden,<br>y 'esencia de dureza de Vulcan' de 'la cueva rocosa de Vulcan' en las tierras altas de sangre del continente Littenberg,<br>creo. Al menos no tengo que recolectar tanto como la última vez.
-Mission_String=Recolecta los materiales para la sangre sagrada de Vulcan
-Mission_Target1=La esencia ardiente de Vulcan
-Mission_Target2=La esencia de frialdad de Vulcan
-Mission_Target3=La esencia de dureza de Vulcan
+List_String=(Misión del grupo de los Drakan) (5/6)<br>Tengo que recolectar los materiales necesarios para la sangre sagrada de Bulcan de cada una de las tres cuevas. Veamos. He estado en...<br>'esencia ardiente de Bulcan' de 'la cueva ardiente de Bulcan' en la cuenca de Wais del continente Enova;<br>'esencia de frialdad de Bulcan' de 'la cueva helada de Bulcan' en Carolsandria del continente Duelden,<br>y 'esencia de dureza de Bulcan' de 'la cueva rocosa de Bulcan' en las tierras altas de sangre del continente Littenberg,<br>creo. Al menos no tengo que recolectar tanto como la última vez.
+Mission_String=Recolecta los materiales para la sangre sagrada de Bulcan
+Mission_Target1=La esencia ardiente de Bulcan
+Mission_Target2=La esencia de frialdad de Bulcan
+Mission_Target3=La esencia de dureza de Bulcan
 
 [Quest_202606]
 Name=(T) Dedos cruzados
-Occur_String1=Uf... La 'sangre sagrada de Vulcan' está completa. Espero que esta agua sagrada sea útil.<br>Apresúrate ahora.
+Occur_String1=Uf... La 'sangre sagrada de Bulcan' está completa. Espero que esta agua sagrada sea útil.<br>Apresúrate ahora.
 Occur_String2=Esta es el agua sagrada de tu creador. Estoy seguro de que esto será de gran ayuda.
 Doing_String=¡Ve! ¡No hagas esperar al erudito!
-Completable_String1=¡Estás aquí, %s_9_1! ¿Es esa la 'sangre sagrada de Vulcan'? Es brillante. Pertenece a Vulcan, el creador de nosotros los Drakan, pero esta es la primera vez que la veo porque es realmente preciosa.
+Completable_String1=¡Estás aquí, %s_9_1! ¿Es esa la 'sangre sagrada de Bulcan'? Es brillante. Pertenece a Bulcan, el creador de nosotros los Drakan, pero esta es la primera vez que la veo porque es realmente preciosa.
 Completable_String2=Has sido de gran ayuda. Ahora solo tenemos que traer de vuelta a los Drakan con lo que %s_9_1 nos ha traído. Ese es mi trabajo.
 Completable_String3=He recibido mucha ayuda de muchas personas hasta ahora. Mi esposa también votó por mí. Soy... un mal esposo. Más razón para terminarlo.
 Completable_String4=Es una gran carga. No cualquiera podría manejarla. Contáctame en cualquier momento si necesitas mi ayuda. También te apoyaré.
 Completable_String5=Gracias. Deseo bendiciones en el camino de %s_9_1 también.
-Complete_String=(Misión del grupo de los Drakan) (6/6)<br>Me expresó mucha gratitud al entregarle la 'sangre sagrada de Vulcan'. Si ayudé un poco en sus grandes pasos, debería ser yo quien esté agradecido. Deseo que sus esfuerzos den frutos.
-List_String=(Misión del grupo de los Drakan) (6/6)<br>Adquirí la 'sangre sagrada de Vulcan' completada. Debo apresurarme y llevar esto a %s_1_1.
-Mission_String=Entrega la sangre sagrada de Vulcan
+Complete_String=(Misión del grupo de los Drakan) (6/6)<br>Me expresó mucha gratitud al entregarle la 'sangre sagrada de Bulcan'. Si ayudé un poco en sus grandes pasos, debería ser yo quien esté agradecido. Deseo que sus esfuerzos den frutos.
+List_String=(Misión del grupo de los Drakan) (6/6)<br>Adquirí la 'sangre sagrada de Bulcan' completada. Debo apresurarme y llevar esto a %s_1_1.
+Mission_String=Entrega la sangre sagrada de Bulcan
 Mission_Target1=Habla con %s_1_1
 
 [Quest_202651]
@@ -39905,7 +39897,7 @@ Occur_String1=¿Dónde está el vórtice espacio-temporal más cercano al pueblo
 Occur_String2=Solo un segundo. No este... no aquel...<br>Ah, lo tengo. En el barranco de minería. Calculando la distancia desde el vórtice espacio-temporal hasta el pueblo Qainaan, tomará solo un par de días incluso si se trata de un gran ejército.
 Occur_String3=Está bien. Buscaré el lugar.<br>Sigue obteniendo cualquier otra información que puedas reunir.
 Doing_String=Te avisaré inmediatamente si tengo alguna.
-Completable_String1=Como pensé, los rangers estaban allí. Y envié a todos a Vulcan. Vulcan decidirá si los perdona o no.<br>¿Has encontrado algo más sobre los Drakan?
+Completable_String1=Como pensé, los rangers estaban allí. Y envié a todos a Bulcan. Bulcan decidirá si los perdona o no.<br>¿Has encontrado algo más sobre los Drakan?
 Completable_String2=No en este momento. Creo que este era el último plan de Quadro. Al menos, eso es todo lo que puedo decir con la información que tengo. Creo que es seguro decir que ahora estamos en la fase descendente.
 Completable_String3=De todos modos, ¿has sido general en algún lugar, %s_9_1? Lo que dijiste antes, o tu análisis no es lo que un guerrero ordinario puede manejar.<br>Aparte de tu fuerza y habilidades, me pregunto de dónde proviene tal conocimiento.
 Completable_String4=Me gustaría saber exactamente eso. ¿Qué tipo de persona era antes...? Estoy bastante seguro de que no era un espía del reino demoníaco. Simplemente no puedo recordar nada. Solo en fragmentos...<br>Bueno, en este punto, no creo que haga ninguna diferencia.
@@ -40554,9 +40546,9 @@ Mission_Target1=Rescata a los residentes Drakan
 
 [Quest_1883]
 Name=La blasfemia
-Occur_String1=Me da vergüenza decirte esto, pero hay malvados hechiceros de maldiciones por todo este campamento de montaña que nos mutan a Drakans. Han traicionado nuestra religión y nuestra raza que adora el poder puro. Por favor, castígales severamente en nombre de Vulcan...
-Doing_String=Creo que fue la intervención divina de Vulcan que vinieras aquí también.
-Complete_String=El sumo sacerdote que estaba en el 'santuario' ubicado en lo profundo del campamento de montaña Drakan habló sobre los malvados hechiceros de maldición esparcidos por el campamento de montaña y me pidió que los castigara en nombre del dios Vulcan por las malvadas cosas que han hecho a su raza. En el camino hacia su HQ, maté a todos los que encontré.
+Occur_String1=Me da vergüenza decirte esto, pero hay malvados hechiceros de maldiciones por todo este campamento de montaña que nos mutan a Drakans. Han traicionado nuestra religión y nuestra raza que adora el poder puro. Por favor, castígales severamente en nombre de Bulcan...
+Doing_String=Creo que fue la intervención divina de Bulcan que vinieras aquí también.
+Complete_String=El sumo sacerdote que estaba en el 'santuario' ubicado en lo profundo del campamento de montaña Drakan habló sobre los malvados hechiceros de maldición esparcidos por el campamento de montaña y me pidió que los castigara en nombre del dios Bulcan por las malvadas cosas que han hecho a su raza. En el camino hacia su HQ, maté a todos los que encontré.
 List_String=Mata a todos los malvados hechiceros de maldición en el camino a la HQ de Drakan
 Mission_String=Mata a todos los malvados hechiceros de maldición en el camino a la HQ de Drakan
 Mission_Target1=Mata a los hechiceros de maldición Drakan
@@ -40838,11 +40830,11 @@ Mission_Target2=Heltiger
 
 [Quest_1910]
 Name=Un luchador violento
-Occur_String1=¡Señor! Estoy preocupado por una cosa. Los Drakans que viven en este campamento montañés se están volviendo más violentos día a día. Particularmente problemáticos son los luchadores. Siempre son muy agresivos, así que solían bajar a la aldea a buscar pelea. El problema puede ser mayor si lo dejamos como está. Señor Guerrero, por favor, dales un buen castigo. Castígalos para que renazcan a través de las enseñanzas de Vulcan.
+Occur_String1=¡Señor! Estoy preocupado por una cosa. Los Drakans que viven en este campamento montañés se están volviendo más violentos día a día. Particularmente problemáticos son los luchadores. Siempre son muy agresivos, así que solían bajar a la aldea a buscar pelea. El problema puede ser mayor si lo dejamos como está. Señor Guerrero, por favor, dales un buen castigo. Castígalos para que renazcan a través de las enseñanzas de Bulcan.
 Doing_String=Los Drakans del campamento montañés no eran tan salvajes desde el principio. Estoy más preocupado por el futuro.
 Completable_String1=Finalización inmediata
-Complete_String=Un Discípulo de Vulcan, Hamad, me pide que le dé lecciones a los luchadores que bajan a la aldea entre los Drakans del campamento montañés. Les quité las luces a los luchadores Drakans del campamento montañés para detenerlos de hacer tales actos nuevamente.
-List_String=Un Discípulo de Vulcan, Hamad, me pidió que le diera lecciones a los luchadores Drakans en el campamento montañés, que bajan a la aldea y causan problemas.
+Complete_String=Un Discípulo de Bulcan, Hamad, me pide que le dé lecciones a los luchadores que bajan a la aldea entre los Drakans del campamento montañés. Les quité las luces a los luchadores Drakans del campamento montañés para detenerlos de hacer tales actos nuevamente.
+List_String=Un Discípulo de Bulcan, Hamad, me pidió que le diera lecciones a los luchadores Drakans en el campamento montañés, que bajan a la aldea y causan problemas.
 Mission_String=Apagar las luces de los luchadores Drakans del campamento montañés
 Mission_Target1=Luchadores Drakans del campamento montañés
 
@@ -40858,11 +40850,11 @@ Mission_Target1=Guerreros de la Gran Espada Drakan
 
 [Quest_1912]
 Name=Drakans Irreversibles
-Occur_String1=¡Señor! No pude protegerte. Debí haberlos iluminado con las palabras de Vulcan, pero no pude. En particular, no había forma de ayudar a los Drakans que emiten luz azul. En poco tiempo perderán la razón, se morderán entre ellos y se dirigirán a la ruina. Dales descanso para que puedan regresar al abrazo de Vulcan antes de cometer tal pecado.
-Doing_String=Ocurrió porque no pude transmitir las palabras de Vulcan adecuadamente. Estoy realmente molesto.
-Completable_String1=Por favor, descansa en el abrazo de Vulcan ahora.
-Complete_String=Un Discípulo de Vulcan, Larica, me pide que dé descanso a los Drakans que están en pensamientos malvados tanto que ya no pueden ser iluminados. Presenté rápidamente el descanso antes de que enloquecieran.
-List_String=Un Discípulo de Vulcan, Larica, me pidió que diera descanso a los Drakans que están en pensamientos malvados tanto que ya no pueden ser iluminados.
+Occur_String1=¡Señor! No pude protegerte. Debí haberlos iluminado con las palabras de Bulcan, pero no pude. En particular, no había forma de ayudar a los Drakans que emiten luz azul. En poco tiempo perderán la razón, se morderán entre ellos y se dirigirán a la ruina. Dales descanso para que puedan regresar al abrazo de Bulcan antes de cometer tal pecado.
+Doing_String=Ocurrió porque no pude transmitir las palabras de Bulcan adecuadamente. Estoy realmente molesto.
+Completable_String1=Por favor, descansa en el abrazo de Bulcan ahora.
+Complete_String=Un Discípulo de Bulcan, Larica, me pide que dé descanso a los Drakans que están en pensamientos malvados tanto que ya no pueden ser iluminados. Presenté rápidamente el descanso antes de que enloquecieran.
+List_String=Un Discípulo de Bulcan, Larica, me pidió que diera descanso a los Drakans que están en pensamientos malvados tanto que ya no pueden ser iluminados.
 Mission_String=Matar a los Drakans que están en pensamientos malvados
 Mission_Target1=Drakans en pensamientos malvados
 
@@ -41034,7 +41026,7 @@ Mission_Target1=Comandante de la unidad de artillería
 [Template_28029]
 Name=Fuerzas de Control Cruel para prisioneros de guerra
 Occur_String1=Su crueldad es difícil de ver. Están asaltando y torturando a los prisioneros de guerra todos los días, en lugar de darles un trato humano. Ojalá Chaisong hubiera estado con nosotros... Es tan lamentable para nosotros.
-Doing_String=Vulcan nunca cerrará los ojos ante su brutalidad.
+Doing_String=Bulcan nunca cerrará los ojos ante su brutalidad.
 Complete_String=Las fuerzas de la alianza de nobles para prisioneros de guerra que abusaron de los prisioneros de guerra de Drakans fueron eliminadas.
 List_String=Despejemos las fuerzas de la alianza de nobles para prisioneros de guerra que abusaron de los prisioneros de guerra de Drakans.
 Mission_String=Despejando las fuerzas de la alianza de nobles para prisioneros de guerra que abusaron de los prisioneros de guerra de Drakans.
@@ -41043,7 +41035,7 @@ Mission_Target1=Despejando las fuerzas de prisioneros de guerra
 [Template_28030]
 Name=Comandante diabólico
 Occur_String1=Las personas más crueles de la unidad para controlar prisioneros de guerra son los comandantes de decenas. Solo unas pocas de nuestras personas en sus manos han regresado con vida. Torturan a nuestro pueblo capturado como prisioneros de guerra por diversión, y la tragedia es indescriptible.
-Doing_String=Creo que Vulcan también está vigilando la justicia del Sir Guerrero.
+Doing_String=Creo que Bulcan también está vigilando la justicia del Sir Guerrero.
 Complete_String=Todos los comandantes de la unidad para controlar prisioneros de guerra que tratan brutalmente a los prisioneros de guerra de Drakans fueron asesinados.
 List_String=Matemos a los comandantes de la unidad para controlar prisioneros de guerra que tratan brutalmente a los prisioneros de guerra de Drakans.
 Mission_String=Matar a los comandantes que tratan brutalmente a los prisioneros de guerra
@@ -41069,7 +41061,7 @@ Mission_Target1=Matar a los líderes de pelotón
 
 [Template_28033]
 Name=Terrible pesadilla que invadió una aldea pacífica
-Occur_String1=Siento que todavía estoy soñando. Incluso si cierro los ojos ahora, siento que los últimos días pacíficos continuarán. Esto es... una pesadilla. Pero es una pesadilla de la que no puedo despertar. ¡Oh! Que el Dios Vulcan me despierte de esta terrible pesadilla.
+Occur_String1=Siento que todavía estoy soñando. Incluso si cierro los ojos ahora, siento que los últimos días pacíficos continuarán. Esto es... una pesadilla. Pero es una pesadilla de la que no puedo despertar. ¡Oh! Que el Dios Bulcan me despierte de esta terrible pesadilla.
 Occur_String2=La fuente de esta pesadilla es... Sí. Magos con túnicas negras. Son aquellos vestidos en la oscuridad. La pesadilla que se apoderó de esta aldea comenzó con un solo gesto de sus manos. Ahh... Desastre negro. Quizás son encarnaciones del Diablo.
 Doing_String=Mientras los magos negros no desaparezcan de aquí, las terribles pesadillas continuarán.
 Complete_String=Maté a todos los conjuradores demoníacos que hicieron del pueblo pacífico un infierno.
@@ -41175,44 +41167,44 @@ Mission_Target1=Matar a los sujetos de investigación Drakan mejorados
 
 [Quest_1918]
 Name=Ladrones de tumbas problemáticos
-Occur_String1=Como sabe el Guerrero, el campo de prueba de admisión es un lugar para probar su calificación para la cueva de Vulcan. Es un lugar muy importante para los discípulos de Vulcan. Sin embargo, recientemente, el creciente número de ladrones de tumbas Orik Goblins es un problema aquí. Descubrí que los gigantes Orik Goblin ladrones de tumbas, el jefe de ellos, llevaron a cabo un reclutamiento obligatorio de los Orik Goblins.
-Occur_String2=También es un problema que los ladrones de tumbas Orik Goblins causen problemas en el campo de prueba de admisión, pero esta forma inhumana es inaceptable para mí, un discípulo de Vulcan. Así que, Guerrero, por favor, mata a los gigantes Orik Goblin ladrones de tumbas que utilizan la fuerza de manera inhumana para realizar un reclutamiento obligatorio.
+Occur_String1=Como sabe el Guerrero, el campo de Testing ground of admittance es un lugar para probar su calificación para la cueva de Bulcan. Es un lugar muy importante para los discípulos de Bulcan. Sin embargo, recientemente, el creciente número de ladrones de tumbas Orik Goblins es un problema aquí. Descubrí que los gigantes Orik Goblin ladrones de tumbas, el jefe de ellos, llevaron a cabo un reclutamiento obligatorio de los Orik Goblins.
+Occur_String2=También es un problema que los ladrones de tumbas Orik Goblins causen problemas en el campo de Testing ground of admittance, pero esta forma inhumana es inaceptable para mí, un discípulo de Bulcan. Así que, Guerrero, por favor, mata a los gigantes Orik Goblin ladrones de tumbas que utilizan la fuerza de manera inhumana para realizar un reclutamiento obligatorio.
 Doing_String=Los gigantes Orik Goblin ladrones de tumbas están profundos en la cueva. Por favor, apúrate.
-Completable_String1=Mataste a los gigantes Orik Goblin ladrones de tumbas. Gracias al Guerrero, el campo de prueba de admisión parece no ser un problema por el momento.
-Complete_String=A petición de Lavaro, un discípulo de Vulcan, para detener a los problemáticos ladrones de tumbas Orik Goblins dentro del campo de prueba de admisión, se eliminaron los gigantes Orik Goblin ladrones de tumbas que llevaban a cabo un reclutamiento obligatorio de ellos.
-List_String=Lavaro, un discípulo de Vulcan, solicitó matar al Capitán Goblin que causa un problema al llevar a cabo un reclutamiento obligatorio de los gigantes Orik Goblin ladrones de tumbas en el campo de prueba de admisión.
+Completable_String1=Mataste a los gigantes Orik Goblin ladrones de tumbas. Gracias al Guerrero, el campo de Testing ground of admittance parece no ser un problema por el momento.
+Complete_String=A petición de Lavaro, un discípulo de Bulcan, para detener a los problemáticos ladrones de tumbas Orik Goblins dentro del campo de Testing ground of admittance, se eliminaron los gigantes Orik Goblin ladrones de tumbas que llevaban a cabo un reclutamiento obligatorio de ellos.
+List_String=Lavaro, un discípulo de Bulcan, solicitó matar al Capitán Goblin que causa un problema al llevar a cabo un reclutamiento obligatorio de los gigantes Orik Goblin ladrones de tumbas en el campo de Testing ground of admittance.
 Mission_String=Matar a los gigantes Orik Goblin ladrones de tumbas
 Mission_Target1=Matar a los gigantes Orik Goblin ladrones de tumbas.
 
 [Quest_1919]
-Name=Relíquias de Vulcan
-Occur_String1=¡Guerrero! El campo de prueba de admisión está actualmente confundido por los ladrones de tumbas Orik Goblins que han invadido la cueva. En particular, los restos de Vulcan están siendo seriamente dañados por las reliquias robadas imprudentemente. La única forma de devolver el campo de prueba de admisión a su estado anterior es prevenir que los restos sean dañados y recuperar las reliquias robadas. Así que, Guerrero, por favor, recupera las reliquias de Vulcan robadas por los ladrones de tumbas Orik Goblins. Te lo suplico.
-Doing_String=Tocando los restos de Vulcan... Los ladrones de tumbas Orik Goblins son verdaderamente seres incivilizados.
-Completable_String1=Recuperaste las reliquias de Vulcan. ¡Gracias a Dios!
-Complete_String=Lavaro, un discípulo de Vulcan, me pidió que recuperara las reliquias de Vulcan robadas por los ladrones de tumbas Orik Goblins para recuperar los restos de Vulcan. Recuperé las reliquias de Vulcan para devolver el campo de prueba de admisión a su apariencia anterior.
-List_String=En el campo de prueba de admisión, Lavaro, un discípulo de Vulcan, me pidió que recuperara las reliquias de Vulcan robadas por los ladrones de tumbas Orik Goblins para recuperar los restos de Vulcan.
-Mission_String=Recogiendo las reliquias de Vulcan
-Mission_Target1=Recoger las reliquias de Vulcan.
+Name=Relíquias de Bulcan
+Occur_String1=¡Guerrero! El campo de Testing ground of admittance está actualmente confundido por los ladrones de tumbas Orik Goblins que han invadido la cueva. En particular, los restos de Bulcan están siendo seriamente dañados por las reliquias robadas imprudentemente. La única forma de devolver el campo de Testing ground of admittance a su estado anterior es prevenir que los restos sean dañados y recuperar las reliquias robadas. Así que, Guerrero, por favor, recupera las reliquias de Bulcan robadas por los ladrones de tumbas Orik Goblins. Te lo suplico.
+Doing_String=Tocando los restos de Bulcan... Los ladrones de tumbas Orik Goblins son verdaderamente seres incivilizados.
+Completable_String1=Recuperaste las reliquias de Bulcan. ¡Gracias a Dios!
+Complete_String=Lavaro, un discípulo de Bulcan, me pidió que recuperara las reliquias de Bulcan robadas por los ladrones de tumbas Orik Goblins para recuperar los restos de Bulcan. Recuperé las reliquias de Bulcan para devolver el campo de Testing ground of admittance a su apariencia anterior.
+List_String=En el campo de Testing ground of admittance, Lavaro, un discípulo de Bulcan, me pidió que recuperara las reliquias de Bulcan robadas por los ladrones de tumbas Orik Goblins para recuperar los restos de Bulcan.
+Mission_String=Recogiendo las reliquias de Bulcan
+Mission_Target1=Recoger las reliquias de Bulcan.
 
 [Quest_1920]
 Name=Semillas de la fuente de problemas
-Occur_String1=El fuego está en la grasa. La inteligencia recién informada nos dice que un grupo de Drakans se ha disfrazado de ladrones de tumbas e intrudido sigilosamente en el campo de prueba de admisión. Al igual que el Guerrero, parecen ser los asesinos ordenados por Quadro para evitar que alguien califique para acceder a la Cueva de Vulcan. Permitir que los Drakans estén dentro del campo de prueba de admisión de esta manera puede convertirse en una fuente de problemas. Así que, Guerrero, por favor, mátalos.
+Occur_String1=El fuego está en la grasa. La inteligencia recién informada nos dice que un grupo de Drakans se ha disfrazado de ladrones de tumbas e intrudido sigilosamente en el campo de Testing ground of admittance. Al igual que el Guerrero, parecen ser los asesinos ordenados por Quadro para evitar que alguien califique para acceder a la Cueva de Bulcan. Permitir que los Drakans estén dentro del campo de Testing ground of admittance de esta manera puede convertirse en una fuente de problemas. Así que, Guerrero, por favor, mátalos.
 Doing_String=Este es un grupo de Drakans cuidadosamente seleccionados por Quadro. Por favor, ten cuidado.
 Completable_String1=Gracias por todo. Creo que me preocupé inútilmente sin pensar en las habilidades del Guerrero.
-Complete_String=Lavaro, un discípulo de Vulcan, obtuvo información sobre un grupo de Drakans que intrudió dentro del campo de prueba de admisión disfrazándose de ladrones de tumbas y pidió que se les restringiera. Maté apresuradamente a aquellos que podrían ser una gran fuente de problemas.
-List_String=Lavaro, un discípulo de Vulcan, pidió matar a un grupo de Drakans que intrudió dentro del campo de prueba de admisión.
+Complete_String=Lavaro, un discípulo de Bulcan, obtuvo información sobre un grupo de Drakans que intrudió dentro del campo de Testing ground of admittance disfrazándose de ladrones de tumbas y pidió que se les restringiera. Maté apresuradamente a aquellos que podrían ser una gran fuente de problemas.
+List_String=Lavaro, un discípulo de Bulcan, pidió matar a un grupo de Drakans que intrudió dentro del campo de Testing ground of admittance.
 Mission_String=Matar a un grupo de Drakans
 Mission_Target1=Matar a los Drakans
 
 
 [Quest_1921]
 Name=Un ser reconocido
-Occur_String1=Desde tiempos antiguos, cosas sagradas llamadas el Brasero de Vulcan han sido transmitidas a los discípulos de Vulcan. Calentar a cualquier persona con el fuego de este brasero tenía el efecto de hacer que la persona se sintiera tranquila y cálida, como si estuviera en el abrazo de Vulcan. Si hay un problema, para encender un fuego en este brasero, se requiere un cristal que se puede obtener del alma de un dragón antiguo.
+Occur_String1=Desde tiempos antiguos, cosas sagradas llamadas el Brasero de Bulcan han sido transmitidas a los discípulos de Bulcan. Calentar a cualquier persona con el fuego de este brasero tenía el efecto de hacer que la persona se sintiera tranquila y cálida, como si estuviera en el abrazo de Bulcan. Si hay un problema, para encender un fuego en este brasero, se requiere un cristal que se puede obtener del alma de un dragón antiguo.
 Occur_String2=Sí... Guerrero, tienes razón. El alma de un dragón antiguo es el ser que preside la prueba de Tolerancia en la morada de las almas. Es un alma que discípulos como yo no podemos tocar. Así que, te lo ruego. Dado que el Guerrero ya ha pasado la prueba de Tolerancia, ¿por qué no recoger el cristal del alma de los dragones antiguos?
-Doing_String=Por favor, te lo ruego. También quiero sentir el abrazo de Vulcan.
-Completable_String1=Oh... Este es el cristal de almas. Parece que ya se siente el abrazo de Vulcan.
-Complete_String=Lavaro, un discípulo de Vulcan, pidió que se obtuviera el cristal de almas de dragones antiguos para encender un fuego en este brasero. Para obtener este cristal, la prueba de Tolerancia deberá realizarse nuevamente, pero no pude desviar la mirada de los ojos sinceros del discípulo.
-List_String=En el campo de prueba de admisión, Lavaro, un discípulo de Vulcan, pidió que se recogiera el cristal de almas que se puede obtener de dragones antiguos.
+Doing_String=Por favor, te lo ruego. También quiero sentir el abrazo de Bulcan.
+Completable_String1=Oh... Este es el cristal de almas. Parece que ya se siente el abrazo de Bulcan.
+Complete_String=Lavaro, un discípulo de Bulcan, pidió que se obtuviera el cristal de almas de dragones antiguos para encender un fuego en este brasero. Para obtener este cristal, la prueba de Tolerancia deberá realizarse nuevamente, pero no pude desviar la mirada de los ojos sinceros del discípulo.
+List_String=En el campo de Testing ground of admittance, Lavaro, un discípulo de Bulcan, pidió que se recogiera el cristal de almas que se puede obtener de dragones antiguos.
 Mission_String=Recogiendo el cristal de almas
 Mission_Target1=Recoger el cristal de almas
 
@@ -41942,39 +41934,39 @@ Mission_Target1=Matar %s_1_1.
 
 [Quest_1002255]
 Name=Cuaderno de exploración del continente Mu
-Mission_String=Dominar la Cueva de Vulcan 1.
-List_String=Todos los monstruos y villanos que perturben el primer piso de la Cueva de Vulcan serán ejecutados.
-Mission_Target1=Matar a los monstruos y villanos en el primer piso de la Cueva de Vulcan.
+Mission_String=Dominar la Cueva de Bulcan 1.
+List_String=Todos los monstruos y villanos que perturben el primer piso de la Cueva de Bulcan serán ejecutados.
+Mission_Target1=Matar a los monstruos y villanos en el primer piso de la Cueva de Bulcan.
 
 [Quest_1002256]
 Name=Cuaderno de exploración del continente Mu
-Mission_String=Dominar la Cueva de Vulcan 2.
-List_String=Todos los monstruos y villanos que perturben el segundo piso de la Cueva de Vulcan serán ejecutados.
-Mission_Target1=Matar a los monstruos y villanos en el segundo piso de la Cueva de Vulcan.
+Mission_String=Dominar la Cueva de Bulcan 2.
+List_String=Todos los monstruos y villanos que perturben el segundo piso de la Cueva de Bulcan serán ejecutados.
+Mission_Target1=Matar a los monstruos y villanos en el segundo piso de la Cueva de Bulcan.
 
 [Quest_1002257]
 Name=Cuaderno de exploración del continente Mu
-Mission_String=Hacia lo más profundo de la Cueva de Vulcan.
+Mission_String=Hacia lo más profundo de la Cueva de Bulcan.
 List_String=Enfrentar al principal instigador que sumió a Drapia en el caos.
-Mission_Target1=Entrar en la sala del jefe de la Cueva de Vulcan.
+Mission_Target1=Entrar en la sala del jefe de la Cueva de Bulcan.
 
 [Quest_1002258]
 Name=Cuaderno de exploración del continente Mu
-Mission_String=Purificar la Cueva de Vulcan.
-List_String=Purificar la Cueva de Vulcan para detener el caos masivo en Drapia y Rittenberg.
+Mission_String=Purificar la Cueva de Bulcan.
+List_String=Purificar la Cueva de Bulcan para detener el caos masivo en Drapia y Rittenberg.
 Mission_Target1=Matar %s_1_1.
 
 [Quest_1002259]
 Name=Cuaderno de exploración del continente Mu
 Mission_String=Conquistar la Mazmorras de Drakansor.
 List_String=Todos los monstruos y villanos en la recién descubierta Mazmorras de Drakansor serán ejecutados para traer paz a Drapia.
-Mission_Target1=Matar a los monstruos y villanos en el Altar de Roca Cristal, Guarida Volcánica y Cueva de Vulcan.
+Mission_Target1=Matar a los monstruos y villanos en el Altar de Roca Cristal, Guarida Volcánica y Cueva de Bulcan.
 
 [Quest_1002260]
 Name=Cuaderno de exploración del continente Mu
 Mission_String=Gobernar la Mazmorras de Drakansor.
 List_String=Completa todas las recién descubiertas mazmorras de Drakansor y conviértete en un héroe que se destacará en la historia de Drapia.
-Mission_Target1=Completar el Altar de Roca Cristal, Guarida Volcánica y Cueva de Vulcan.
+Mission_Target1=Completar el Altar de Roca Cristal, Guarida Volcánica y Cueva de Bulcan.
 
 
 [Quest_2602601]
