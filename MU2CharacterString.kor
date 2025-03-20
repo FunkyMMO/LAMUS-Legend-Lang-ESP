@@ -66,25 +66,25 @@ Desc=Una forma única de subir de nivel centrándose en los ataques cuerpo a cue
 Title=Estrategia
 RecommendWeapon=Arco Largo
 RecommendAbility=Ataque
-Desc=Un Whisperer es una clase optimizada para forzar batallas que se ajusten a sus preferencias. Son poderosos repartidores de daño a distancia capaces de controlar el equilibrio de una batalla.
+Desc=La Whisperer es una clase optimizada para forzar batallas que se ajusten a sus preferencias. Son poderosos repartidores de daño a distancia capaces de controlar el equilibrio de una batalla.
 
 [CharacterGuide_Whisperer_1]
 Title=Disparo Salvaje
-RecommendWeapon=Pistola
+RecommendWeapon=Ballestas
 RecommendAbility=Ataque
-Desc=Una Ballestas es un arma de alcance medio con menos alcance que un arco. Puedes convertirte en un puro repartidor de daño, disparando poderosas flechas a varios enemigos a media distancia.
+Desc=Las Ballestas son armas de alcance medio con menos alcance que un arco. Puedes convertirte en un puro repartidor de daño, disparando poderosas flechas a varios enemigos a media distancia.
 
 [CharacterGuide_Emphasizer_0]
 Title=Rampage
 RecommendWeapon=Chakram
 RecommendAbility=Ataque
-Desc=Los Chakrams son armas de medio alcance efectivas para enfrentarse a varios enemigos. Ayudan a sus usuarios a debilitar la Defensa de los enemigos y destruirlos desde una distancia segura.
+Desc=El Chakram es un arma de medio alcance efectiva para enfrentarse a varios enemigos. Ayudan a sus usuarios a debilitar la Defensa de los enemigos y destruirlos desde una distancia segura.
 
 [CharacterGuide_Emphasizer_1]
 Title=Control
 RecommendWeapon=Cadena de Espadas
 RecommendAbility=Salud
-Desc=Las Cuchillas de Cadena están optimizadas para fortalecer a sus usuarios y a los aliados que los rodean. Debilitan a los enemigos cercanos mientras fortalecen a los aliados cercanos, potenciando el trabajo en equipo.
+Desc=Las Cadenas de espadas están optimizadas para fortalecer a sus usuarios y a los aliados que los rodean. Debilitan a los enemigos cercanos mientras fortalecen a los aliados cercanos, potenciando el trabajo en equipo.
 
 [CharacterGuide_Blackphantom_0]
 Title=Explosión
