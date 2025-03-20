@@ -232,7 +232,7 @@ Level_4200=Armored sheath
 Level_4201=Pandemonium Boss Raid - Boss Room
 Level_4300=The boiling abyss of corruption
 Level_4301=Chamber of Corruption
-Level_4302=The coagulated abyss of blood
+Level_4302=The Coagulated Abyss of Blood
 Level_4303=Chamber of Pain
 Level_4304=Manatech Abyss - Floor 3
 Level_4305=Chamber of Blood
@@ -985,8 +985,8 @@ ZoneGroup_562=Crystal Rock Altar
 ZoneGroup_565=Volcanic lair
 ZoneGroup_6026=Temple of resentment
 ZoneGroup_586=Testing ground of admittance
-ZoneGroup_4300=The boiling abyss of corruption
-ZoneGroup_4302=The coagulated abyss of blood
+ZoneGroup_4300=The Boiling Abyss of Corruption
+ZoneGroup_4302=The Coagulated Abyss of Blood
 
 [CharPosition]
 CharPosition_20181=Village Square
@@ -1553,8 +1553,8 @@ Dungeon_6027=Temple of resentment
 Dungeon_6028=Temple of resentment
 Dungeon_586=Testing ground of admittance
 Dungeon_588=Sanctuary of proof
-Dungeon_4300=The boiling abyss of corruption
-Dungeon_4301=The boiling abyss of corruption
-Dungeon_4302=The coagulated abyss of blood
-Dungeon_4303=The coagulated abyss of blood
+Dungeon_4300=The Boiling Abyss of Corruption
+Dungeon_4301=The Boiling Abyss of Corruption
+Dungeon_4302=The Coagulated Abyss of Blood
+Dungeon_4303=The Coagulated Abyss of Blood
 
