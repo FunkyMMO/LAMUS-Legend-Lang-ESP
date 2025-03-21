@@ -5768,9 +5768,9 @@ LS_RegistCost=Cuota de registro del Guild
 LS_NameOverlap=Comprobar
 LS_Regist=Crear Guild
 LS_EnableName=El nombre del Guild está disponible para su uso.
-LS_DefaultInput=2 - 16 caracteres. No se permiten caracteres especiales.
+LS_DefaultInput=2 - 12 caracteres. No se permiten caracteres especiales.
 LS_KnightOpenErrMsg=Sólo los personajes que no están en guilds pueden crear un Guild.
-LS_KnightOpenDefaultMsg=Introduzca el nombre del Guild a registrar. (2-16 caracteres. No se permiten caracteres especiales).
+LS_KnightOpenDefaultMsg=Introduzca el nombre del Guild a registrar. (2-12 caracteres. No se permiten caracteres especiales).
 LS_KnightRegistCostMsg=No hay suficiente Zen para registrar el Guild
 LS_KnightRegistOverlap=Este nombre de Guild ya está registrado.
 
