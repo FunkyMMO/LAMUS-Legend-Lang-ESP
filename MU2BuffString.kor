@@ -121,6 +121,7 @@ Buff_2238000=Sweet and Sweet
 Buff_2253000=Chewy Taffy
 Buff_2254000=Sweet Treat
 Buff_2255000=Apolong
+Buff_8505000=Recuperación de MP
 Buff_8601000=Durability Repair Stone
 Buff_8602000=Universal Durability Repair Stone
 Buff_8901000=Mount Effect
@@ -2363,6 +2364,7 @@ Buff_2238000=El dulce sabor de la manzana permanece en tu boca. Proporciona pode
 Buff_2253000=Aumenta el Ataque en 500 y la Velocidad de Movimiento en un 7% durante 10 minutos.¶Este efecto persiste hasta la muerte.
 Buff_2254000=Aumenta el Ataque de Demonio en 1.500 y reduce el Daño de Demonio en un 15% durante 10 minutos.
 Buff_2255000=Aumenta el Ataque Humano un 30% y reduce el Daño Humano un 30% durante 5 minutos.
+Buff_8505000=Aumenta la recuperación de MP.
 Buff_8601000=Restaura la durabilidad del item seleccionado.
 Buff_8602000=Restaura la durabilidad de todos los items equipados.
 Buff_8901000=Aumenta la Velocidad de Movimiento en <font color='#B4FE42'>50%</font> al montar.
