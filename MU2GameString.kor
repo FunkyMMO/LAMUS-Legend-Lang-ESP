@@ -2396,7 +2396,7 @@ rank_bulcan=Puntos
 rank_netherworld=Etapa completada
 RANK_CHAOS_CASTLE=Victorias
 Tower_Floor=Piso %s_1
-Maze_Difficult=Nivel de Despertar %s_1
+Maze_Difficult=Nivel %s_1
 netherworld_stage=Nivel %s_1
 
 [ShineBubbleString]
