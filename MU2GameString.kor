@@ -596,8 +596,8 @@ Ability_devil_dmg=Bono de daño a demonios +%s_1
 Ability_devil_dmg_rate=Ataque a demonios +%s_1
 Ability_mutant_dmg=Bono de daño a mutantes +%s_1
 Ability_mutant_dmg_rate=Ataque a mutantes +%s_1
-Ability_magic_dmg=Bono de ataque mágico +%s_1
-Ability_magic_dmg_rate=Ataque mágico +%s_1
+Ability_magic_dmg=Bono de ataque a tipo mágicos +%s_1
+Ability_magic_dmg_rate=Ataque a tipo mágicos +%s_1
 Ability_structure_dmg=Bono de daño a estructuras +%s_1
 Ability_structure_dmg_rate=Ataque a estructuras +%s_1
 Ability_monster_def_rate=Reducción de daño de monstruos +%s_1
@@ -748,8 +748,8 @@ AbilityRate_devil_dmg=Bonificación de daño a demonios +%s_1
 AbilityRate_devil_dmg_rate=Ataque de demonio +%s_1
 AbilityRate_mutant_dmg=Bonificación de daño a mutantes +%s_1%
 AbilityRate_mutant_dmg_rate=Ataque mutante +%s_1%
-AbilityRate_magic_dmg=Bonificación de daño mágico +%s_1%
-AbilityRate_magic_dmg_rate=Ataque mágico +%s_1%
+AbilityRate_magic_dmg=Bonificación de daño a tipo mágico +%s_1%
+AbilityRate_magic_dmg_rate=Ataque a tipo mágico +%s_1%
 AbilityRate_structure_dmg=Bonificación de daño a edificios +%s_1%
 AbilityRate_structure_dmg_rate=Ataque a edificios +%s_1
 AbilityRate_monster_def_rate=Reducción de daño de monstruos +%s_1
@@ -899,8 +899,8 @@ AbilityMain_devil_dmg=Bonificación de daño por demonio: %s_1
 AbilityMain_devil_dmg_rate=Ataque demoníaco: %s_1%
 AbilityMain_mutant_dmg=Daño a mutantes: %s_1
 AbilityMain_mutant_dmg_rate=Ataque mutante: %s_1%
-AbilityMain_magic_dmg=Ataque de tipo mágico: %s_1
-AbilityMain_magic_dmg_rate=Ataque de tipo mágico: %s_1%
+AbilityMain_magic_dmg=Ataque a tipo mágico: %s_1
+AbilityMain_magic_dmg_rate=Ataque a tipo mágico: %s_1%
 AbilityMain_structure_dmg=Daño a edificios: %s_1
 AbilityMain_structure_dmg_rate=Ataque a edificios: %s_1%
 AbilityMain_monster_def_rate=Reducción de daño de monstruos: %s_1%
@@ -1051,7 +1051,7 @@ AbilityRange_devil_dmg_rate=Ataque demonio: +%s_1 - %s_2%
 AbilityRange_mutant_dmg=Daño a mutantes: +%s_1 - %s_2
 AbilityRange_mutant_dmg_rate=Ataque mutante: +%s_1 - %s_2%
 AbilityRange_magic_dmg=Ataque tipo mágico: +%s_1 - %s_2
-AbilityRange_magic_dmg_rate=Ataque de tipo mágico: +%s_1 - %s_2%
+AbilityRange_magic_dmg_rate=Ataque a tipo mágico: +%s_1 - %s_2%
 AbilityRange_structure_dmg=Daño a edificios: +%s_1 - %s_2
 AbilityRange_structure_dmg_rate=Ataque a edificios: +%s_1 - %s_2%
 AbilityRange_monster_def_rate=Reducción de daño de monstruo: +%s_1 - %s_2%
@@ -1201,8 +1201,8 @@ AbilityMod_devil_dmg=Aumento del daño adicional contra demonios: %s_1
 AbilityMod_devil_dmg_rate=Aumento del ataque contra demonios: %s_1
 AbilityMod_mutant_dmg=Aumento del daño adicional contra mutantes: %s_1
 AbilityMod_mutant_dmg_rate=Aumento del ataque contra mutantes: %s_1
-AbilityMod_magic_dmg=Aumento del daño adicional de tipo mágico: %s_1
-AbilityMod_magic_dmg_rate=Aumento del ataque de tipo mágico: %s_1
+AbilityMod_magic_dmg=Aumento del daño adicional a tipo mágico: %s_1
+AbilityMod_magic_dmg_rate=Aumento del ataque a tipo mágico: %s_1
 AbilityMod_structure_dmg=Aumento del daño adicional contra estructuras: %s_1
 AbilityMod_structure_dmg_rate=Aumento del ataque contra estructuras: %s_1
 AbilityMod_monster_def_rate=Reducción del daño recibido de monstruos: %s_1
@@ -1352,8 +1352,8 @@ PetAbility_devil_dmg=Bonificación de daño contra demonios <font color='#11f210
 PetAbility_devil_dmg_rate=Tasa de ataque contra demonios <font color='#11f210'>+%s_1</font>
 PetAbility_mutant_dmg=Bonificación de daño contra mutantes <font color='#11f210'>+%s_1</font>
 PetAbility_mutant_dmg_rate=Tasa de ataque contra mutantes <font color='#11f210'>+%s_1</font>
-PetAbility_magic_dmg=Bonificación de daño mágico <font color='#11f210'>+%s_1</font>
-PetAbility_magic_dmg_rate=Tasa de ataque mágico <font color='#11f210'>+%s_1</font>
+PetAbility_magic_dmg=Bonificación de daño a tipo mágico <font color='#11f210'>+%s_1</font>
+PetAbility_magic_dmg_rate=Tasa de ataque a tipo mágico <font color='#11f210'>+%s_1</font>
 PetAbility_structure_dmg=Bonificación de daño contra estructuras <font color='#11f210'>+%s_1</font>
 PetAbility_structure_dmg_rate=Tasa de ataque contra estructuras <font color='#11f210'>+%s_1</font>
 PetAbility_monster_def_rate=Reducción de daño recibido de monstruos <font color='#11f210'>+%s_1</font>
@@ -1503,8 +1503,8 @@ PetAbilityRate_devil_dmg=Bonificación de daño a demonios <font color='#11f210'
 PetAbilityRate_devil_dmg_rate=Ataque a demonios <font color='#11f210'>+%s_1%</font>
 PetAbilityRate_mutant_dmg=Daño a mutantes <font color='#11f210'>+%s_1%</font>
 PetAbilityRate_mutant_dmg_rate=Ataque a mutantes <font color='#11f210'>+%s_1%</font>
-PetAbilityRate_magic_dmg=Ataque mágico <font color='#11f210'>+%s_1%</font>
-PetAbilityRate_magic_dmg_rate=Ataque de tipo mágico <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_magic_dmg=Ataque a tipo mágico <font color='#11f210'>+%s_1%</font>
+PetAbilityRate_magic_dmg_rate=Ataque a tipo mágico <font color='#11f210'>+%s_1%</font>
 PetAbilityRate_structure_dmg=Daño a edificios <font color='#11f210'>+%s_1%</font>
 PetAbilityRate_structure_dmg_rate=Ataque a edificios <font color='#11f210'>+%s_1%</font>
 PetAbilityRate_monster_def_rate=Reducción de daño de monstruos <font color='#11f210'>+%s_1%</font>
@@ -2484,7 +2484,7 @@ NpcBubbleString_4087=Ignición Mutante/Crea zonas en llamas.
 NpcBubbleString_4088=Aura de Pantano Mutante/Crea zonas de ralentización.
 NpcBubbleString_4089=Maldición debilitadora mutante/Disminuye las estadísticas de los personajes circundantes.
 NpcBubbleString_4090=Supresión/Alenta la recuperación de MP de los personajes circundantes.
-NpcBubbleString_4091=Sore Perdedor/Causa una gran explosión al morir.
+NpcBubbleString_4091=Mal Perdedor/Causa una gran explosión al morir.
 NpcBubbleString_4092=Veneno/Crea un área de Veneno al morir.
 NpcBubbleString_4093=Valla/Crea vallas a su alrededor.
 NpcBubbleString_4094=Hervidero/Aumenta el Ataque si HP baja demasiado.
@@ -2812,8 +2812,8 @@ Ability_devil_dmg=Bonificación de daño por demonio
 Ability_devil_dmg_rate=Ataque de demonio
 Ability_mutant_dmg=Bonificación de daño mutante
 Ability_mutant_dmg_rate=Ataque mutante
-Ability_magic_dmg=Ataque tipo mágico
-Ability_magic_dmg_rate=Ataque de tipo mágico
+Ability_magic_dmg=Ataque a tipo mágico
+Ability_magic_dmg_rate=Ataque a tipo mágico
 Ability_structure_dmg=Daño a edificios
 Ability_structure_dmg_rate=Ataque de construcción
 Ability_monster_def_rate=Reducción de daño de monstruos
