@@ -2587,7 +2587,7 @@ LS_UnUseTItleButton=Desequipar título
 LS_ShowTItleListWidget=Mostrar lista de títulos
 LodIcon_1=<font color='#fce7b0'>Nivel de creación de la Dungeon</font><br><font color='#ffffff'>Se crea al mismo nivel que el personaje de mayor nivel de tu grupo.</font>
 LodIcon_2=<font color='#fce7b0'>Nivel de Creación de la Dungeon</font><br><font color='#ffffff'>Se crea a un nivel preestablecido.</font>
-LodIcon_300=<font color='#fce7b0'>Dificultad Incrementada para Partidas</font><br><font color='#ffffff'>Su nivel de dificultad cambia dependiendo del número de jugadores en tu partida.</font>
+LodIcon_300=<font color='#fce7b0'>Dificultad Incrementada para Grupos</font><br><font color='#ffffff'>Su nivel de dificultad cambia dependiendo del número de jugadores en tu grupo.</font>
 LodIcon_301=<font color='#fce7b0'>Dificultad Fija para Partidos</font><br><font color='#ffffff'>Su nivel de dificultad permanece igual sin importar el número de jugadores en tu grupo.</font>
 LodIcon_310=<font color='#fce7b0'>Contenido de Unidad de Ataque</font><br><font color='#ffffff'>Este contenido requiere que varios jugadores formen juntos una unidad de ataque.</font>
 LodIcon_400=<font color='#fce7b0'>Nivel de dificultad muy alto</font><br><font color='#ffffff'>¿Tienes suficientes pociones y piedras de resurrección? Se recomiendan grupos de 5.</font>
@@ -2842,7 +2842,7 @@ LS_RequestPartyString=Solicitud de Party
 LS_DemandPvPString=Solicitud de duelo
 LS_PartySettingString=Configuración de la Party
 LS_PartyInfoString=Información de la Party
-LS_LeavePartyString=Abandonar partida
+LS_LeavePartyString=Abandonar grupo
 LS_CharacterInfoString=Información del personaje
 LS_SendWhisperString=Susurro
 LS_FollowString=Seguir
