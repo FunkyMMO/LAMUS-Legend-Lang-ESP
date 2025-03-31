@@ -2588,7 +2588,7 @@ LS_ShowTItleListWidget=Mostrar lista de títulos
 LodIcon_1=<font color='#fce7b0'>Nivel de creación de la Dungeon</font><br><font color='#ffffff'>Se crea al mismo nivel que el personaje de mayor nivel de tu grupo.</font>
 LodIcon_2=<font color='#fce7b0'>Nivel de Creación de la Dungeon</font><br><font color='#ffffff'>Se crea a un nivel preestablecido.</font>
 LodIcon_300=<font color='#fce7b0'>Dificultad Incrementada para Partidas</font><br><font color='#ffffff'>Su nivel de dificultad cambia dependiendo del número de jugadores en tu partida.</font>
-LodIcon_301=<font color='#fce7b0'>Dificultad Fija para Partidos</font><br><font color='#ffffff'>Su nivel de dificultad permanece igual sin importar el número de jugadores en tu grupo.</font>
+LodIcon_301=<font color='#fce7b0'>Dificultad Fija para Grupos</font><br><font color='#ffffff'>Su nivel de dificultad permanece igual sin importar el número de jugadores en tu grupo.</font>
 LodIcon_310=<font color='#fce7b0'>Contenido de Unidad de Ataque</font><br><font color='#ffffff'>Este contenido requiere que varios jugadores formen juntos una unidad de ataque.</font>
 LodIcon_400=<font color='#fce7b0'>Nivel de dificultad muy alto</font><br><font color='#ffffff'>¿Tienes suficientes pociones y piedras de resurrección? Se recomiendan grupos de 5.</font>
 ConditionIcon_100=<font color='#fce7b0'>Nivel Requerido</font><br><font color='#ffffff'>Sólo los personajes que cumplan el nivel mínimo de personaje de la Dungeon podrán entrar en ella.</font>
@@ -2875,8 +2875,8 @@ LS_PingUnBlock=Permitir Ping
 
 [MapIconName]
 MapIcon_1001=Tu personaje
-MapIcon_1002=Miembro del partido
-MapIcon_1003=Miembro del partido (muerto)
+MapIcon_1002=Miembro del Grupo
+MapIcon_1003=Miembro del grupo (muerto)
 MapIcon_1004=Personaje hostil
 MapIcon_1006=Leyenda (Honor)
 MapIcon_1007=Guardián (Honor)
@@ -4282,7 +4282,7 @@ Dungeon_Desc_9059231=El altar donde Vulcano, creador de Drakans, solía entregar
 Dungeon_Title_9040368=The carnival prohibited area
 Dungeon_Desc_9040368=Un área prohibida de otro espacio-tiempo, que fue abierta por el carnaval nómada en el festival del 4º Aniversario<br><br><font color='#FF0000'>¡Precaución! Esta Dungeon es un poco fácil.</font>
 Dungeon_Title_9601901=Kaizel's greed
-Dungeon_Desc_9601901=El vasto y antiguo santuario donde el antiguo dragón Kaizel, origen de los Drakans, una vez adorado por el imperio Walkreeger como el 'rey dragón', pero que se ha sometido a la fuerza de la oscuridad y corrompido ahora, es ahora morada...<br><font color='#FDD889'>¡Precaución! Esta Dungeon tiene una dificultad muy alta, que es igual o más difícil que la antigua Kantur arca dificultad 3.<br>Toma el reto con cautela con los miembros del partido fuerte!</font>
+Dungeon_Desc_9601901=El vasto y antiguo santuario donde el antiguo dragón Kaizel, origen de los Drakans, una vez adorado por el imperio Walkreeger como el 'rey dragón', pero que se ha sometido a la fuerza de la oscuridad y corrompido ahora, es ahora morada...<br><font color='#FDD889'>¡Precaución! Esta Dungeon tiene una dificultad muy alta, que es igual o más difícil que la antigua Kantur arca dificultad 3.<br>Toma el reto con cautela con los miembros del grupo!</font>
 Dungeon_Title_9601601=Targash's desire
 Dungeon_Desc_9601601=Targash es el antiguo dragón que perdió el destino de convertirse en un gran ser a manos de los demonios y Garuda, y lo único que queda en él es resentimiento y odio.<br>Una terrible guarida de dragones locos que antagonizan con todo lo que está intacto.
 Dungeon_Title_9602401=The old castle famous for its cherry blossoms
@@ -4831,7 +4831,7 @@ LS_Sort=Tipo
 LS_RankNRecord=Rango y registro
 LS_Reward=Recompensa
 LS_Receive=Recibir todo
-LS_PartyMember=Miembros del partido participantes
+LS_PartyMember=Miembros del grupo participantes
 LS_CharView=: Ver Personaje
 LS_CombatPowerData=Poder de combate
 LS_RankData=Datos de rango
@@ -5466,7 +5466,7 @@ LS_ReqParty=Solicitud de Party
 LS_InfoWinTitle=Unirse
 LS_RecruitLabel=Mensaje de reclutamiento
 LS_RecruitClassLabel=Clase de contratación
-LS_RecruitMemberLabel=Miembros del partido
+LS_RecruitMemberLabel=Miembros del grupo
 LS_RecruitMemberName=Nombre del personaje
 LS_ErrorEmptyList=No se encuentran mensajes relacionados con este destino.
 LS_ErrorSortCondition=No hay mensajes que cumplan las condiciones de búsqueda.
@@ -6299,7 +6299,7 @@ LS_ProbabilityRate=Tasa: %s_1
 LS_ProbabilityRateFormat=%.2f
 
 [MU2GFxPartyAdmissionWaiting]
-LS_PartyWaitTitle=Esperando a otro(s) miembro(s) del partido.
+LS_PartyWaitTitle=Esperando a otro(s) miembro(s) del grupo.
 LS_PartyWaitDesc=Tras el límite de tiempo, la partida empezará independientemente de otro(s) miembro(s).
 LS_TimeLimit=Límite de tiempo
 
@@ -6477,7 +6477,7 @@ LS_BtnNext=Siguiente
 LS_BtnComplete=Completado
 LS_BtnKnightAge=Miembros del Guild
 LS_BtnUnion=Miembros de la alianza
-LS_TournamentDesc=Las unidades de ataque del torneo sólo pueden crearse mientras se organizan los partidos.
+LS_TournamentDesc=Las unidades de ataque del torneo sólo pueden crearse mientras se organizan los grupos.
 LS_TournamentSchedule=Programa del torneo
 LS_NoDominionTitle=No hay territorio disponible para seleccionar.
 LS_NoDominionDesc=<font color='#FF0000'>¡Las unidades de ataque de torneo sólo pueden ser creadas por un Guild aceptado en un torneo!</font><br><br> - Los torneos se celebran cada semana. La 1ª Solicitud se abre el jueves a las 07:00 p.m.<br> - Los guilds que no se clasificaron durante el 1er Periodo de Solicitud tienen 30 minutos para enviar otra solicitud.<br> - Solo un Guild aceptado en un torneo para un dominio puede formar una Unidad de Ataque.<br> - La solicitud para el torneo de esta semana se ha cerrado. Por favor, ¡vuelve para el torneo de la semana que viene!
