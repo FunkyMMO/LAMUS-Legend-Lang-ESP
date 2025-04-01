@@ -38,7 +38,7 @@ Title_41000=Invasión de monstruos
 Title_42000=Invasión de jefe de campo
 Title_43000=Invasión de jefe de campo
 Title_44000=Campo jefe Raid
-Title_45000=Modo cooperativo 3:3
+Title_45000=Modo PvP Competitivo
 Title_47000=Pith of the Dead
 Title_48000=Artefacto Awakened
 Title_49000=Airship Defense
@@ -98,7 +98,7 @@ Contents_41000=El objetivo del modo Invasión de Monstruos es proteger las 3 pie
 Contents_42000=El objetivo del modo Asalto al jefe de campo es <font color='FDD889'>eliminar al monstruo jefe dentro del tiempo límite</font>. El monstruo Raid Boss huye cuando pierde HP. Puedes detener su huida infligiéndole un gran daño.
 Contents_43000=El objetivo del modo Incursión del Jefe de Campo es <font color='FDD889'>eliminar al monstruo jefe dentro del límite de tiempo</font>. El monstruo Raid Boss huye cuando pierde HP. Puedes detener su huida infligiéndole un gran daño.
 Contents_44000=El objetivo del modo Incursión del Jefe de Campo es <font color='FDD889'>eliminar al monstruo jefe dentro del límite de tiempo</font>. El monstruo Raid Boss huye cuando pierde HP. Puedes detener su huida infligiéndole un gran daño.
-Contents_45000=En el modo cooperativo 3:3, gana el equipo que consiga más puntos de muerte que el otro dentro del límite de tiempo.<br>Los ganadores obtienen <font color='FDD889'>Fichas de luchador</font>, que pueden canjearse por otros recursos del juego a través del Mercader PvP de Ohrdor.
+Contents_45000=En el modo PvP Competitivo, gana el equipo que consiga más puntos de muerte que el otro dentro del límite de tiempo.<br>Los ganadores obtienen <font color='FDD889'>Fichas de luchador</font>, que pueden canjearse por otros recursos del juego a través del Mercader PvP de Ohrdor.
 Contents_47000=<br>- <font color='#FDD889'>Múltiples Monstruos Jefes</font> aparecen en Pit of the Dead!<br>- Supera cada fase rápidamente para tener la oportunidad de conocer al <font color='#FDD889'>Mercader Negro</font>, ¡que vende items raros!
 Contents_48000=Has obtenido un <font color='#FDD889'>Artefacto Awakened</font>. Los Artefactos Awakened pueden mejorarse a través del <font color='#FDD889'>Lupa's Awakened Labrynth</font>.
 Contents_49000=Has entrado en la <font color='#FDD889'>Airship Defense</font>.<br>¡Utiliza tus <font color='#FDD889'>habilidades de Talismán</font> y protege la aeronave!
