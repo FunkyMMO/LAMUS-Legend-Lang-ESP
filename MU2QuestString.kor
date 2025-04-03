@@ -2416,7 +2416,7 @@ Occur_String2=(¿La princesa de los elfos...? ¿Puede ser la que conocí en el G
 Occur_String3=
 Doing_String=Por favor, entrega esta buena noticia a la princesa de los elfos que se está preparando para la resurrección de la Reina Lenavis.
 Completable_String1=Bienvenido. Mis exploradores me han dicho que detuviste su resurrección.<br>Gracias, extraño.
-Complete_String=Informé a la Princesa Lunedill, que estaba en la tumba de la Reina Lenavis al noroeste, que sometí a los espectros de los Caballeros Karol y detuve la resurrección de la reina.
+Complete_String=Informé a la Princesa Lunedill, que estaba en la Queen's Tomb Lenavis al noroeste, que sometí a los espectros de los Caballeros Karol y detuve la resurrección de la reina.
 List_String=Informa a la Princesa Noria Lunedill al noroeste que sometiste a los espectros de los Caballeros Karol y detuviste la resurrección de la reina.
 Mission_String=Informa a Lunedill que detuviste la resurrección de la reina
 Mission_Target1=Habla con Lunedill
@@ -2474,7 +2474,7 @@ Mission_Target1=Mata a las Dark Female Followers
 Name=Justicia para las Minorías
 Occur_String1=¿Sabías? No todos los revenantes de los Caballeros Karol están en una arremetida asesina.<br>Algunos de ellos han estado deteniendo a los otros de matar después de su resurrección.<br>Supongo que entienden que la venganza solo perpetúa este ciclo interminable de retribución.
 Occur_String2=Te ayudarán a detener a su reina.<br>Ella intentará matar a todos los seres vivos en este lugar.
-Occur_String3=¿Podrías traerme las cabezas de los Caballeros Karol?<br>Sus cuerpos están enterrados en sus tumbas, pero sus cabezas están selladas dentro de la tumba de la reina.
+Occur_String3=¿Podrías traerme las cabezas de los Caballeros Karol?<br>Sus cuerpos están enterrados en sus tumbas, pero sus cabezas están selladas dentro de la Queen's Tomb.
 Occur_String4=Estos guerreros están esforzándose por hacer justicia, incluso después de la muerte.<br>Quiero enterrar sus cabezas con sus cuerpos, para que puedan ir al Cielo.
 Occur_String5=
 Occur_String6=
@@ -2483,8 +2483,8 @@ Occur_String8=
 Occur_String9=
 Doing_String=Lorencia se está tomando su tiempo para venir en nuestra ayuda.<br>Los Caballeros Devias serían de gran ayuda para nosotros ahora...
 Completable_String1=Aquí están las cabezas de los guerreros. Ayúdalos a descansar en paz y a ir al Cielo.
-Complete_String=Recogí las cabezas de los justos Caballeros Karol de la tumba de la reina y se las di a Shadow Phantom Jelly.
-List_String=Recoge las cabezas de los justos Caballeros Karol de la tumba de la reina y dáselas a Shadow Phantom Jelly.
+Complete_String=Recogí las cabezas de los justos Caballeros Karol de la Queen's Tomb y se las di a Shadow Phantom Jelly.
+List_String=Recoge las cabezas de los justos Caballeros Karol de la Queen's Tomb y dáselas a Shadow Phantom Jelly.
 Mission_String=Recoge las cabezas de los Karol Knights de la Queen's Tomb y dáselas a Jelly
 Mission_Target1=Cabezas de los Karol Knights
 
@@ -2502,8 +2502,8 @@ Occur_String9=Es una tragedia.<br>Lo único que hizo la Coalición por Karol des
 Occur_String10=...<br>¿Dónde está? Quiero ir allí y presentar mis respetos.
 Doing_String=El Ducado de Tephakin está fundado por los descendientes del Reino Karol.<br>Reconstruyeron su nación sobre las cenizas de la antigua,<br>a pesar de que ahora es una colonia de Lorencia.
 Completable_String1=¡La reina resucitó<br>después de que tú visitaste su tumba! ¿Quién demonios eres!?
-Complete_String=Visité la tumba de la Reina Lenavis, quien murió de manera trágica.
-List_String=(Misión Principal de Duelden) (16/32)<br>Voy a visitar la tumba de la Reina Lenavis, quien murió de manera trágica.
+Complete_String=Visité la Queen's Tomb Lenavis, quien murió de manera trágica.
+List_String=(Misión Principal de Duelden) (16/32)<br>Voy a visitar la Queen's Tomb Lenavis, quien murió de manera trágica.
 Mission_String=Visita el Queen Lenavis' Monument y habla con Lunedill
 Mission_Target1=Visita el Queen's Monument
 
@@ -2528,13 +2528,13 @@ Mission_Target3=Extermina Torn Zombies
 
 [Quest_424]
 Name=La Historia de las Pobre Hermanas
-Occur_String1=Mi hermana menor entró en la Tumba de la Reina...<br>Dijo algo sobre encontrar un tesoro para ayudar a la familia...<br>Pero ese lugar está lleno de espíritus vengativos...
-Occur_String2=Guerrero, ¿podrías entrar en la Tumba de la Reina y proteger a mi hermana?<br>Por favor, ayúdanos...
+Occur_String1=Mi hermana menor entró en la Queen's Tomb...<br>Dijo algo sobre encontrar un tesoro para ayudar a la familia...<br>Pero ese lugar está lleno de espíritus vengativos...
+Occur_String2=Guerrero, ¿podrías entrar en la Queen's Tomb y proteger a mi hermana?<br>Por favor, ayúdanos...
 Doing_String,=¿Encontraste a mi hermana?
 Completable_String1=¡Gracias! Creo que ahora puedo encontrar el tesoro.<br>Una vez que me haga rico con el tesoro, ¡me aseguraré de devolverte el favor!
-Complete_String=Escolté y protegí a la hermana de Rolfin mientras buscaba tesoros dentro de la Tumba de la Reina.
-List_String=Tengo que escoltar y proteger a la hermana de Rolfin mientras busca tesoros dentro de la Tumba de la Reina.
-Mission_String=Escolta y protege a la hermana de Rolfin en la Tumba de la Reina
+Complete_String=Escolté y protegí a la hermana de Rolfin mientras buscaba tesoros dentro de la Queen's Tomb.
+List_String=Tengo que escoltar y proteger a la hermana de Rolfin mientras busca tesoros dentro de la Queen's Tomb.
+Mission_String=Escolta y protege a la hermana de Rolfin en la Queen's Tomb
 Mission_Target1=Escolta a la hermana
 Mission_Target2=Protege a la hermana
 
@@ -2736,7 +2736,7 @@ Mission_Target1=Destruir los Mana Collectors
 [Quest_510]
 Name=Remedios Carmesí
 Occur_String1=¿Hay algo más que pueda hacer para ayudar?
-Occur_String2=Bueno, se agradecería si pudieras conseguir algunos pétalos de cordyceps y entregárselos al Ejército del Ducado en el noreste.<br>Son efectivos para tratar heridas supurantes,<br>y solo crecen en medio de los campos de batalla.
+Occur_String2=Bueno, se agradecería si pudieras conseguir algunos pétalos de cordyceps y entregárselos al Ejército del Ducado en el noreste.<br>Son efectivos para tratar heridas supurantes,<br>y solo crecen en medio de los fields de batalla.
 Occur_String3=No sé si los dioses han creado las plantas para burlarse de nuestra naturaleza belicosa o porque tienen compasión por nosotros.
 Occur_String4=
 Occur_String5=
@@ -3549,15 +3549,15 @@ Mission_Target2=Obtener Grumos de Espíritu
 
 [Quest_657]
 Name=Equipamiento del Pandemonium
-Occur_String1=Solo he oído hablar del Pozo de las Pesadillas, pero aún no he estado allí. ¿Son diferentes los monstruos del Pandemonium que están allí?
+Occur_String1=Solo he oído hablar del Pit of Nightmares, pero aún no he estado allí. ¿Son diferentes los monstruos del Pandemonium que están allí?
 Occur_String2=Lo que hay allí es un ejército. No un grupo de desharrapados como las Larvas, sino un grupo de soldados y guerreros bien entrenados.<br>Además del entrenamiento, también están armados con armas y armaduras de aspecto similar.
 Occur_String3=Así que su equipamiento está estandarizado...<br>Eso significa que tienen un sistema para producir en masa buenas piezas de equipamiento.<br>Esto podría ser un gran problema.
 Occur_String4=¿Puedes conseguirme algunas piezas de equipamiento del Pandemonium? Piezas intactas, si es posible.<br>No piezas rotas, sino realmente utilizables. No sabemos lo que podrían tener, incluso si es solo un pequeño símbolo.
 Doing_String=Está bien si toma un tiempo. Lo que importa aquí es la condición del equipamiento, no el tiempo.
 Completable_String1=Esto... se ve bastante bien. Y mira estos símbolos aquí.<br>Estos no son solo decoraciones. Fueron dibujados para contener maná.
 Completable_String2=A pesar de que estos son los Items del enemigo, ciertamente muestran algunas técnicas avanzadas que son mejores que las nuestras.<br>Si las investigamos, podríamos ser capaces de producir buenos resultados.
-Complete_String=Robé equipamiento del Ejército del Pandemonium en el Pozo de las Pesadillas para ayudar a George con su investigación sobre equipamiento.
-List_String=Debo robar equipamiento del Ejército del Pandemonium en el Pozo de las Pesadillas para ayudar a George con su investigación sobre equipamiento.
+Complete_String=Robé equipamiento del Ejército del Pandemonium en el Pit of Nightmares para ayudar a George con su investigación sobre equipamiento.
+List_String=Debo robar equipamiento del Ejército del Pandemonium en el Pit of Nightmares para ayudar a George con su investigación sobre equipamiento.
 Mission_String=Robar equipamiento del Ejército del Pandemonium
 Mission_Target1=Equipamiento Intacto del Guerrero del Pandemonium
 Mission_Target2=Equipamiento Intacto del Mago Demoníaco
@@ -3974,7 +3974,7 @@ Name=Cueva Desconocida 1
 Occur_String1=Estás en el Ejército Tephakin. Pero, ¿por qué pareces restos?<br>¿Qué te pasó?
 Occur_String2=Nos enviaron aquí para reunir los restos del Ejército del Pandemonium en la parte inferior del Templo del Cielo.<br>Estábamos a punto de comenzar nuestra operación cuando un montón de dragones salió de la vieja cueva en el norte y nos atacó.
 Occur_String3=Eres la élite del Ejército Tephakin. Esos dragones deben haber sido realmente fuertes.
-Occur_String4=No eran comparables a los que aparecieron en los campos.<br>Especialmente el que tenía dos cabezasâ€”mató a la mayoría de nosotros.<br>Todos habríamos muerto si no hubiera regresado a la cueva.
+Occur_String4=No eran comparables a los que aparecieron en los fields.<br>Especialmente el que tenía dos cabezasâ€”mató a la mayoría de nosotros.<br>Todos habríamos muerto si no hubiera regresado a la cueva.
 Occur_String5=Vengaré a tus soldados. Tú encárgate de los soldados restantes.
 Occur_String6=¿Estás loco?<br>¡Un guerrero como tú no tiene oportunidad contra ellos!<br>Muchos soldados ya han perdido la vida. No puedo dejar que alguien muera en vano. Valora tu vida.
 Occur_String7=Sé lo que te preocupa. Pero, ¿no quieres vengar a tus subordinados? Confía en mí esta vez.
@@ -4147,11 +4147,11 @@ Name=Laboratorio Desconocido
 Occur_String1=
 Doing_String=
 Completable_String1=¿Hay un laboratorio de pruebas intensivas dentro del área restringida? Vi un lugar lleno de enormes tanques de cultivo.
-Completable_String2=¿Eh? Eso suena como la sala de cultivo intensivo. ¿Cómo entraste allí? No pudimos encontrarlo, por mucho que lo intentamos. La sala entera desapareció como por arte de magia.
-Completable_String3=Te creo. No lo habría encontrado si no hubiera usado el Porystal. ¿Has oído hablar de él? Es una gema que te permite viajar a través del spacetime para llegar a un lugar determinado.<br>¿Sabes por qué está aquí? ¿O por qué está conectado a esa sala de cultivo intensivo?
+Completable_String2=¿Eh? Eso suena como la Intensive Cultivation Room. ¿Cómo entraste allí? No pudimos encontrarlo, por mucho que lo intentamos. La sala entera desapareció como por arte de magia.
+Completable_String3=Te creo. No lo habría encontrado si no hubiera usado el Porystal. ¿Has oído hablar de él? Es una gema que te permite viajar a través del spacetime para llegar a un lugar determinado.<br>¿Sabes por qué está aquí? ¿O por qué está conectado a esa Intensive Cultivation Room?
 Completable_String4=¿El Porystal? ¡Oh! Un Mercader de alquimia que conocí en Ohrdor me habló de él una vez.<br>Pero no sé por qué está conectado a esa sala.
-Completable_String5=Rift... el Porystal... la sala de cultivo intensivo... ¡Oh, no!<br>¡Ese mestizo, Varex!
-Complete_String=Alguien ha enviado la sala de cultivo intensivo dentro del área restringida al otro lado de Rift. ¿Quién hizo esto? ¿Y por qué? ¿Y quién es este mestizo del que habla Cellan?
+Completable_String5=Rift... el Porystal... la Intensive Cultivation Room... ¡Oh, no!<br>¡Ese mestizo, Varex!
+Complete_String=Alguien ha enviado la Intensive Cultivation Room dentro del área restringida al otro lado de Rift. ¿Quién hizo esto? ¿Y por qué? ¿Y quién es este mestizo del que habla Cellan?
 List_String=Vi lo que parecía ser un laboratorio de pruebas de Ashases, lleno de equipos de cultivo. Cellan podría conocer este lugar.
 Mission_String=Preguntar a Cellan sobre el laboratorio de pruebas de Ashas
 Mission_Target1=Hablar con Cellan
@@ -4163,12 +4163,12 @@ Occur_String2=Era el director de esta instalación. Medio-Ashas, medio-Kanturian
 Occur_String3=¿Qué defectos? Me parece que es increíble en todos los aspectos.
 Occur_String4=No es de sangre pura. Puede que sea un experto en telepatía, pero es incapaz de usarla.<br>Nosotros, los Ashases, usamos la telepatía para comunicarnos entre nosotros. No es una exageración decir que la telepatía nos define,<br>y aquellos que no la tienen no son verdaderos Ashases.
 Occur_String5=Reconozco su habilidad y esfuerzo, pero eso es todo. Baraex no era un verdadero Ashas.<br>De todos modos, no me sorprendería si él hizo esto para vengarse de nosotros. Tiene el conocimiento y el poder para hacerlo.
-Occur_String6=...<br>(Creo que sé cómo llegaron las cosas a ser así. Pero debe ser detenido. Es mejor que encuentre a Baraex en la sala de cultivo intensivo.)
+Occur_String6=...<br>(Creo que sé cómo llegaron las cosas a ser así. Pero debe ser detenido. Es mejor que encuentre a Baraex en la Intensive Cultivation Room.)
 Doing_String=¡No puedo creer que ese mestizo hiciera esto!
 Completable_String1=
-Complete_String=Regresé a la sala de cultivo intensivo y busqué a Baraex. Espero poder convencerlo de que detenga su venganza.
-List_String=Tengo que volver a la sala de cultivo intensivo y buscar a Baraex. Creo que es responsable de lo que ocurrió en el área restringida, pero en última instancia, son otros Ashases quienes lo llevaron al límite.
-Mission_String=Encuentra a Baraex en la sala de cultivo intensivo
+Complete_String=Regresé a la Intensive Cultivation Room y busqué a Baraex. Espero poder convencerlo de que detenga su venganza.
+List_String=Tengo que volver a la Intensive Cultivation Room y buscar a Baraex. Creo que es responsable de lo que ocurrió en el área restringida, pero en última instancia, son otros Ashases quienes lo llevaron al límite.
+Mission_String=Encuentra a Baraex en la Intensive Cultivation Room
 Mission_Target1=Encontrar a Baraex
 
 [Quest_751]
@@ -4356,8 +4356,8 @@ Occur_String6=Los animales deben estar fríos sin ellos, pero no puedo salir ya 
 Occur_String7=No digas que vas a salir de nuevo. Encenderé los braseros.
 Doing_String=Por favor, enciende los braseros rápido, o muchos animales salvajes se congelarán hasta morir.
 Completable_String1=
-Complete_String=Los braseros que Estesia instaló en los campos para los animales salvajes se habían apagado. Sin su calor, esos animales podrían congelarse hasta morir. Volví a encender los braseros.
-List_String=Enciende los braseros que Estesia instaló en los campos para ayudar a los animales salvajes a mantenerse calientes.
+Complete_String=Los braseros que Estesia instaló en los fields para los animales salvajes se habían apagado. Sin su calor, esos animales podrían congelarse hasta morir. Volví a encender los braseros.
+List_String=Enciende los braseros que Estesia instaló en los fields para ayudar a los animales salvajes a mantenerse calientes.
 Mission_String=Encender los Braseros de Estesia para los animales salvajes
 Mission_Target1=Encender braseros
 
@@ -5000,16 +5000,16 @@ Mission_Target1=Eliminar a los Combatientes de Melee Bull Horn y Desgarradores
 [Quest_1109]
 Name=Sujetos de Prueba Fallidos
 Doing_String=
-Complete_String=La Cueva de Cristal está invadida por las víctimas del experimento de Pandemonium. Las maté y las liberé de su sufrimiento.
-List_String=La Cueva de Cristal está invadida por las víctimas del experimento de Pandemonium. Mátalas y libéralas de su sufrimiento.
+Complete_String=La Crystal Cave está invadida por las víctimas del experimento de Pandemonium. Las maté y las liberé de su sufrimiento.
+List_String=La Crystal Cave está invadida por las víctimas del experimento de Pandemonium. Mátalas y libéralas de su sufrimiento.
 Mission_String=Matar a los Zombis Sujetos de Prueba Fallidos
 Mission_Target1=Matar a Zombis Chillones
 
 [Quest_1110]
 Name=Persiguiendo Succubi
 Doing_String=
-Complete_String=Algunos demonios llamados Succubi están bloqueando la entrada al laboratorio dentro de la Cueva de Cristal. Los eliminé rápidamente y entré al laboratorio.
-List_String=Algunos demonios llamados Succubi están bloqueando la entrada al laboratorio dentro de la Cueva de Cristal. Debería eliminarlos rápidamente.
+Complete_String=Algunos demonios llamados Succubi están bloqueando la entrada al laboratorio dentro de la Crystal Cave. Los eliminé rápidamente y entré al laboratorio.
+List_String=Algunos demonios llamados Succubi están bloqueando la entrada al laboratorio dentro de la Crystal Cave. Debería eliminarlos rápidamente.
 Mission_String=Matar a los Succubi y despejar el camino hacia el laboratorio
 Mission_Target1=Matar a Succubi
 
@@ -5049,25 +5049,25 @@ Mission_Target1=Carne de Águila de Tormenta
 
 [Quest_1114]
 Name=Análisis de Cristales
-Occur_String1=Por cierto, ¿podrías hacerme un favor si vas a la Cueva de Cristal?
+Occur_String1=Por cierto, ¿podrías hacerme un favor si vas a la Crystal Cave?
 Occur_String2=¿Qué es?
 Occur_String3=Sabes que los cristales que crecen en ese lugar tienen un 100% de pureza, ¿verdad? <br>Quiero saber qué los hace tan puros.
 Occur_String4=Solo recolecta unos pocos. Quiero echarles un vistazo.
 Doing_String=Deja de hablarme. Vas a exponerme al enemigo.
-Complete_String=La Cueva de Cristal produce cristales de 100% de pureza, y los Dracanses querían saber qué los hace tan puros. Recolecté algunos cristales de la cueva para ayudarles.
-List_String=La Cueva de Cristal produce cristales de 100% de pureza, y los Dracanses quieren saber qué los hace tan puros. Debo recolectar algunos cristales de la cueva para ayudarles.
-Mission_String=Recolectar Cristales de la Cueva de Cristal
+Complete_String=La Crystal Cave produce cristales de 100% de pureza, y los Dracanses querían saber qué los hace tan puros. Recolecté algunos cristales de la cueva para ayudarles.
+List_String=La Crystal Cave produce cristales de 100% de pureza, y los Dracanses quieren saber qué los hace tan puros. Debo recolectar algunos cristales de la cueva para ayudarles.
+Mission_String=Recolectar Cristales de la Crystal Cave
 Mission_Target1=Cristales de Alta Pureza
 
 [Quest_1115]
 Name=El Deseo del Coleccionista de Cristales
-Occur_String1=¿Has oído? Dicen que hay cristales con 100% de pureza dentro de esta Cueva de Cristal.<br>Es una noticia increíble para un coleccionista de cristales como yo.
+Occur_String1=¿Has oído? Dicen que hay cristales con 100% de pureza dentro de esta Crystal Cave.<br>Es una noticia increíble para un coleccionista de cristales como yo.
 Occur_String2=Si un guerrero como tú pudiera escoltarme a la cueva, realmente me sentiría seguro.<br>¿Quieres ganar algo de dinero?
 Doing_String=Solo pensar en poner mis manos en ese cristal de 100% de pureza me hace latir el corazón...
 Completable_String1=Ah... Un cristal con un brillo tan asombroso... Ahora puedo morir sin arrepentimientos... Gracias...
-Complete_String=Escolté al Coleccionista de Cristales a la Cueva de Cristal y lo protegí mientras recolectaba los cristales.
-List_String=Debo escoltar al Coleccionista de Cristales a la Cueva de Cristal y protegerlo mientras recolecta los cristales.
-Mission_String=Escoltar al Coleccionista de Cristales en la Cueva de Cristal
+Complete_String=Escolté al Coleccionista de Cristales a la Crystal Cave y lo protegí mientras recolectaba los cristales.
+List_String=Debo escoltar al Coleccionista de Cristales a la Crystal Cave y protegerlo mientras recolecta los cristales.
+Mission_String=Escoltar al Coleccionista de Cristales en la Crystal Cave
 Mission_Target1=Escoltar al Coleccionista de Cristales
 
 [Quest_1201]
@@ -5212,13 +5212,13 @@ Mission_Target1=Carne de Bestia Rana
 
 [Quest_1213]
 Name=Recolectando Restos de Colegas
-Occur_String1=Lo siento, pero ¿puedo pedirte otro favor?<br>Quiero recoger los restos de mis colegas dentro del campo de prisioneros. ¡La culpa de haber abandonado a mis colegas y sobrevivir solo me hará sufrir por toda la eternidad!
+Occur_String1=Lo siento, pero ¿puedo pedirte otro favor?<br>Quiero recoger los restos de mis colegas dentro del Prison Camp. ¡La culpa de haber abandonado a mis colegas y sobrevivir solo me hará sufrir por toda la eternidad!
 Occur_String2=¿Me ayudarás mientras recojo los restos de mis colegas?<br>Te lo ruego.
 Doing_String=¿Alguna vez has perdido a un amigo cercano?<br>No hay nada más desgarrador que eso...
 Completable_String1=¡Muchas gracias! ¡Ahora puedo recoger los restos de mis colegas!<br>Eres un guerrero con gran espíritu.
-Complete_String=Escolté a Haron mientras recogía los restos de sus colegas en el Campo de Prisioneros.
-List_String=Debo escoltar a Haron mientras recoge los restos de sus colegas en el Campo de Prisioneros.
-Mission_String=Escoltar a Haron hasta los restos en el Campo de Prisioneros
+Complete_String=Escolté a Haron mientras recogía los restos de sus colegas en el Prison Camp.
+List_String=Debo escoltar a Haron mientras recoge los restos de sus colegas en el Prison Camp.
+Mission_String=Escoltar a Haron hasta los restos en el Prison Camp
 Mission_Target1=Escoltar hasta el punto intermedio
 Mission_Target2=Escoltar hasta el final
 
@@ -8397,14 +8397,14 @@ Occur_String6=Debe ser aquí, en el Área Restringida. Hm, ahora que lo pienso, 
 Occur_String7=Creo que tienes razón. Déjame verificar.
 Doing_String=Espero que tu investigación sea exitosa. Si sigues las huellas de mis ancestros y encuentras algún tipo de artefacto, también será muy útil para nosotros, los Ashases.
 Completable_String1=¿Encontraste algo en el Área Restringida?
-Completable_String2=No. Fue una pérdida de tiempo. Incluso busqué en la Sala de Cultivo Intensivo, pero no había pistas.<br>Cuanto más lo pienso, más seguro estoy de que este es el lugar.
+Completable_String2=No. Fue una pérdida de tiempo. Incluso busqué en la Intensive Cultivation Room, pero no había pistas.<br>Cuanto más lo pienso, más seguro estoy de que este es el lugar.
 Completable_String3=Entonces... quizás lo que mis ancestros dejaron atrás se perdió durante la construcción de esta instalación. Como dijiste, esos monumentos no se revelan a cualquiera.<br>Oh dioses, ¿qué hicimos...?
 Completable_String4=Mis ancestros derramaron sangre, sudor y lágrimas para convertir esta tierra en un nuevo hogar para su gente. Y nosotros, sus descendientes, destruimos lo que dejaron para nosotros en lugar de honrarlo.<br>Me siento tan avergonzado que apenas puedo mirarte a los ojos.
-Complete_String=Busqué en el Área Restringida e incluso en la Sala de Cultivo Intensivo, pero no encontré ningún antiguo monumento Ashas ni otras pistas. Celrun pensó que podría haber sido destruido o perdido durante la construcción de esta instalación. Me decepcioné, pero no tanto como Celrun, quien estaba devastado por la posibilidad de que su gente hubiera destruido el legado de sus ancestros.
+Complete_String=Busqué en el Área Restringida e incluso en la Intensive Cultivation Room, pero no encontré ningún antiguo monumento Ashas ni otras pistas. Celrun pensó que podría haber sido destruido o perdido durante la construcción de esta instalación. Me decepcioné, pero no tanto como Celrun, quien estaba devastado por la posibilidad de que su gente hubiera destruido el legado de sus ancestros.
 List_String=Después de escuchar a Celrun, estaba convencido de que el acertijo en el monumento nos estaba señalando hacia este lugar, el Área Restringida en el Refugio de Manantiales. Debería poder encontrar la siguiente pista o la artefacto real aquí.
 Mission_String=Encontrar la ubicación en el acertijo
 Mission_Target1=Investigar el Área Restringida 6-1
-Mission_Target2=Investigar la Sala de Cultivo Intensivo
+Mission_Target2=Investigar la Intensive Cultivation Room
 
 [Quest_1762]
 Name=Regresar con las manos vacías
@@ -8415,7 +8415,7 @@ Doing_String=...<br>(Le daré algo de espacio. Está atormentado por la culpa.)
 Completable_String1=He encontrado un lugar que podría ser el del acertijo, pero no había nueva pista o monumento allí.
 Completable_String2=¿Hablas en serio? ¿Dónde está?
 Completable_String3=Área Restringida 6-1 al final del Refugio de Manantiales.
-Completable_String4=Refugio de Manantiales... Entiendo. Es uno de los mayores campos de batalla entre los Ashases y los elfos. Puedo ver que coincide con el acertijo. Pero dices que no encontraste nada allí, ¿verdad?
+Completable_String4=Refugio de Manantiales... Entiendo. Es uno de los mayores fields de batalla entre los Ashases y los elfos. Puedo ver que coincide con el acertijo. Pero dices que no encontraste nada allí, ¿verdad?
 Completable_String5=Un investigador me dijo que el Área Restringida se construyó sobre una antigua instalación Ashas. Pensó que el monumento podría haber sido destruido o perdido durante su construcción.<br>¿Encontraste más pistas o interpretaciones del acertijo? ¿Y dónde está Senozana Edney?
 Completable_String6=Oh... Consulté varios libros de referencia, pero no encontré nada. Y ella está en Ethedrean. Dado que no me ha contactado, debe ser que no ha encontrado nada tampoco. Vaya... me siento agotado. No es la primera vez que mi investigación no lleva a nada. No puedo evitar sentirme decepcionado cada vez que sucede.
 Completable_String7=Pero debe haber más pistas... o algo... en algún lugar. Este monumento puede haber sido destruido o perdido por accidente, pero todo lo demás estaba en buen estado.<br>Es demasiado pronto para rendirse. No estoy listo para renunciar todavía.
@@ -9374,7 +9374,7 @@ Occur_String5=Las malas noticias.
 Occur_String6=Los golems que solíamos controlar con los Dios se están acercando a nosotros<br>y no tenemos suficientes soldados para detenerlos.
 Occur_String7=(Los golems también están tratando de recuperar su tierra. Los Kanturianos se lo merecían.)<br><br>¿Cuáles son las buenas noticias?
 Occur_String8=Hemos descubierto por qué los Dios dejaron de funcionar.<br>Recientemente, han aparecido esferas misteriosas por toda esta área.<br>Nuestros investigadores han descubierto que son altamente magnéticas.
-Occur_String9=Los campos magnéticos interfieren con la recepción de los Dios.<br>Los golems deben haber instalado las esferas para sacar a los Dios de su camino.
+Occur_String9=Los fields magnéticos interfieren con la recepción de los Dios.<br>Los golems deben haber instalado las esferas para sacar a los Dios de su camino.
 Occur_String10=Intentaré deshacerme de esas esferas.<br>Salva a los heridos en la Ciudad del Sur tan pronto como se reactiven los Dios.
 Doing_String=Estesia piensa que nuestra forma opresiva con las otras razas ha causado todo esto, pero yo no estoy de acuerdo.
 Completable_String1=He desactivado todas las esferas magnéticas de los golems.
@@ -9945,9 +9945,9 @@ Occur_String1=
 Doing_String=
 Completable_String1=Bienvenido, forastero. Te estaba esperando.<br>¿Encontraste la Varita de Pectra? ¿No tenía razón?
 Completable_String2=¿Estaban los Devias involucrados, verdad? ¡Están intentando sembrar discordia entre los Kanturianos y nosotros!
-Complete_String=La Alianza de la Nobleza estaba coludiendo con el Pandemónium. Se mencionó la Cueva de Cristal, así que le pregunté a Chaisong al respecto.
-List_String=(Misión Principal Litenberg) (62/141)<br>La Alianza de la Nobleza estaba coludiendo con el Pandemónium. Se mencionó la Cueva de Cristal. Debería preguntar a Chaisong al respecto.
-Mission_String=Preguntar a Chaisong en el Pueblo Qwyinan sobre la Cueva de Cristal
+Complete_String=La Alianza de la Nobleza estaba coludiendo con el Pandemónium. Se mencionó la Crystal Cave, así que le pregunté a Chaisong al respecto.
+List_String=(Misión Principal Litenberg) (62/141)<br>La Alianza de la Nobleza estaba coludiendo con el Pandemónium. Se mencionó la Crystal Cave. Debería preguntar a Chaisong al respecto.
+Mission_String=Preguntar a Chaisong en el Pueblo Qwyinan sobre la Crystal Cave
 Mission_Target1=Matar a los Soldados que Interfieren
 Mission_Target2=Hablar con el Comandante Guerrero Dracan, Chaisong
 
@@ -9957,27 +9957,27 @@ Occur_String1=No. Los Devias no robaron la Varita de Pectra.<br>Estaban demasiad
 Occur_String2=¿Qué? ¿Quién despertó a los revenants de Wallkreiger?
 Occur_String3=La Alianza de la Nobleza. Lo hicieron para mantener distraídos a los Devias y que no descubrieran lo que estaban haciendo.
 Occur_String4=¡Esos supremacistas de sangre pura están locos!<br>¿Qué estaban haciendo?
-Occur_String5=Se reunieron con Demonios del Pandemónium en la Blood Ice Peak<br>y les entregaron la Cueva de Cristal sin condiciones.
-Occur_String6=¿Te refieres a la Cueva de Cristal en la Garganta Minera? No lo entiendo.<br>Esa cueva es la mina de oro de la Alianza de la Nobleza. Produce cristales 100% puros.
+Occur_String5=Se reunieron con Demonios del Pandemónium en la Blood Ice Peak<br>y les entregaron la Crystal Cave sin condiciones.
+Occur_String6=¿Te refieres a la Crystal Cave en la Garganta Minera? No lo entiendo.<br>Esa cueva es la mina de oro de la Alianza de la Nobleza. Produce cristales 100% puros.
 Occur_String7=Ahora que lo pienso, he escuchado que Muren estaba en la Garganta Minera, luchando contra la Alianza de la Nobleza.
 Occur_String8=Tal vez tenga algo que ver con esto. Iré allí a investigar.<br>Solo me quedan tres días hasta que venza el plazo que me dieron los Kanturianos.
 Occur_String9=Y aún no sé dónde está la Varita de Pectra.
 Occur_String10=Buena suerte, forastero. Ten cuidado con los escorpiones en el valle.<br>Su veneno es letal.
 Doing_String=Guerrero forastero, el futuro de Drapia está en tus manos.
 Completable_String1=Bienvenido, %s_9_1. Me alegra verte de nuevo.
-Complete_String=Preguntándome por qué la Alianza de la Nobleza entregó la Cueva de Cristal al Pandemónium, decidí ir a la Garganta Minera e investigar la cueva. Chaisong dijo que Muren ya estaba en la Garganta Minera, luchando contra la Alianza de la Nobleza. El camino al Outpost estaba lleno de Escorpiones de Cola de Hielo venenosos, pero seguí la advertencia de Chaisong y me deshice de las criaturas venenosas con facilidad.
-List_String=(Misión Principal Litenberg) (63/141)<br>La Cueva de Cristal, la mina de oro de la Alianza de la Nobleza, está en la Garganta Minera. Escuché que Muren ha avanzado hacia la garganta, así que lo buscaré mientras lucho contra los Escorpiones de Cola de Hielo.
+Complete_String=Preguntándome por qué la Alianza de la Nobleza entregó la Crystal Cave al Pandemónium, decidí ir a la Garganta Minera e investigar la cueva. Chaisong dijo que Muren ya estaba en la Garganta Minera, luchando contra la Alianza de la Nobleza. El camino al Outpost estaba lleno de Escorpiones de Cola de Hielo venenosos, pero seguí la advertencia de Chaisong y me deshice de las criaturas venenosas con facilidad.
+List_String=(Misión Principal Litenberg) (63/141)<br>La Crystal Cave, la mina de oro de la Alianza de la Nobleza, está en la Garganta Minera. Escuché que Muren ha avanzado hacia la garganta, así que lo buscaré mientras lucho contra los Escorpiones de Cola de Hielo.
 Mission_String=Matar a los Escorpiones que amenazan el Outpost y hablar con Muren
 Mission_Target1=Llegar a la Garganta Minera
 Mission_Target2=Matar a los Escorpiones de Cola de Hielo
 
 [Quest_5204]
 Name=Su Agenda Oculta
-Occur_String1=La Alianza de la Nobleza ha entregado la Cueva de Cristal al Pandemónium, sin condiciones.
-Occur_String2=¿La Cueva de Cristal? No lo entiendo.<br>Es la principal fuente de ingresos de la Alianza. Es la única mina en todo el continente de MU que produce cristales 100% puros.
+Occur_String1=La Alianza de la Nobleza ha entregado la Crystal Cave al Pandemónium, sin condiciones.
+Occur_String2=¿La Crystal Cave? No lo entiendo.<br>Es la principal fuente de ingresos de la Alianza. Es la única mina en todo el continente de MU que produce cristales 100% puros.
 Occur_String3=Cualquier cosa que busquen del Pandemónium debe valer la pérdida.
-Occur_String4=Vine aquí porque también pensé que la Alianza de la Nobleza estaba actuando de manera sospechosa.<br>Sus miembros suelen quedarse dentro de la Cueva de Cristal, pero últimamente han salido y han llegado hasta el extremo sur de la garganta.
-Occur_String5=¿Has visto al hombre que entregó la Cueva de Cristal al Pandemónium?
+Occur_String4=Vine aquí porque también pensé que la Alianza de la Nobleza estaba actuando de manera sospechosa.<br>Sus miembros suelen quedarse dentro de la Crystal Cave, pero últimamente han salido y han llegado hasta el extremo sur de la garganta.
+Occur_String5=¿Has visto al hombre que entregó la Crystal Cave al Pandemónium?
 Occur_String6=No estoy seguro, pero tenía un bigote gris y vestía ropas llamativas, como la mayoría de los nobles que he visto.
 Occur_String7=Eso suena como Adrian.
 Occur_String8=
@@ -9985,9 +9985,9 @@ Occur_String9=
 Occur_String10=
 Doing_String=
 Completable_String1=......!
-Complete_String=Los miembros de la Alianza de la Nobleza, que normalmente se quedan dentro de la Cueva de Cristal, salieron de la cueva y llegaron hasta el extremo sur de la garganta. Muren vino aquí cuando notó los movimientos sospechosos de la Alianza. De repente, sentí una energía asesina proveniente de detrás. Un grupo de asesinos había aparecido.
-List_String=(Misión Principal Litenberg) (64/141)<br>Los miembros de la Alianza de la Nobleza, que normalmente se quedan dentro de la Cueva de Cristal, salieron de la cueva y llegaron hasta el extremo sur de la garganta. Muren vino aquí cuando notó los movimientos sospechosos de la Alianza. De repente, sentí una energía asesina proveniente de detrás.
-Mission_String=Informar que la Alianza de la Nobleza ha entregado la Cueva de Cristal al Pandemónium
+Complete_String=Los miembros de la Alianza de la Nobleza, que normalmente se quedan dentro de la Crystal Cave, salieron de la cueva y llegaron hasta el extremo sur de la garganta. Muren vino aquí cuando notó los movimientos sospechosos de la Alianza. De repente, sentí una energía asesina proveniente de detrás. Un grupo de asesinos había aparecido.
+List_String=(Misión Principal Litenberg) (64/141)<br>Los miembros de la Alianza de la Nobleza, que normalmente se quedan dentro de la Crystal Cave, salieron de la cueva y llegaron hasta el extremo sur de la garganta. Muren vino aquí cuando notó los movimientos sospechosos de la Alianza. De repente, sentí una energía asesina proveniente de detrás.
+Mission_String=Informar que la Alianza de la Nobleza ha entregado la Crystal Cave al Pandemónium
 Mission_Target1=Hablar con Muren
 
 [Quest_5205]
@@ -10015,15 +10015,15 @@ Name=Crece la Sospecha
 Occur_String1=Era Adrian, tal como esperaba. Sabía que íbamos tras él, así que envió asesinos.
 Occur_String2=¿Adrian?
 Occur_String3=El líder de la Alianza de la Nobleza y un ferviente defensor de la supremacía de sangre pura.<br>Insiste en que los plebeyos sean esclavizados y que la nobleza gobierne el mundo.
-Occur_String4=¿Por qué regalaría la Cueva de Cristal al Pandemónium sin condiciones?
+Occur_String4=¿Por qué regalaría la Crystal Cave al Pandemónium sin condiciones?
 Occur_String5=Espera. Los cristales puros intensifican la energía de Pectra.<br>...!<br>¡Los demonios del Pandemónium deben tener la Varita de Pectra!
 Occur_String6=¡Entonces fue el Pandemónium quien contrató a Woongpam para robar la Varita de Pectra!
 Occur_String7=¿Qué pretende hacer intensificando la energía de Pectra?
-Occur_String8=Es mejor que revisemos el campamento de la Alianza primero.<br>Debe haber algo que explique por qué renunciaron a la Cueva de Cristal.
+Occur_String8=Es mejor que revisemos el campamento de la Alianza primero.<br>Debe haber algo que explique por qué renunciaron a la Crystal Cave.
 Occur_String9=
 Occur_String10=
 Doing_String=La energía de Pectra ya es poderosa, y al intensificarse con cristales, su poder será más peligroso de lo que podemos imaginar.
-Complete_String=Descubrí que la Varita de Pectra estaba en manos de los demonios del Pandemónium, pero no sabía qué querían hacer con la energía de Pectra intensificada, ni lo que la Alianza de la Nobleza ganaría al entregar la Cueva de Cristal. Decidí registrar el campamento de la Alianza en busca de pistas.
+Complete_String=Descubrí que la Varita de Pectra estaba en manos de los demonios del Pandemónium, pero no sabía qué querían hacer con la energía de Pectra intensificada, ni lo que la Alianza de la Nobleza ganaría al entregar la Crystal Cave. Decidí registrar el campamento de la Alianza en busca de pistas.
 List_String=(Misión Principal Litenberg) (66/141)<br>Descubrí que la Varita de Pectra estaba en manos de los demonios del Pandemónium, pero no sé qué quieren hacer con la energía de Pectra intensificada. Es mejor que registre el campamento de la Alianza de la Nobleza en busca de pistas.
 Mission_String=Registrar el Campamento de la Alianza de la Nobleza en busca de Pistas sobre los Planes del Pandemónium
 Mission_Target1=Llegar al Campamento de la Alianza de la Nobleza
@@ -10099,47 +10099,47 @@ Mission_Target2=Matar a los Cargadores de la Alianza de la Nobleza
 Name=Información Inesperada
 Occur_String1=Solo quería proteger mi asociación... Por favor, no me mates...
 Occur_String2=¿Sabes cuántos caballos he tenido que matar<br>por tu culpa? Te lo pregunto por última vez. Dime todo lo que sepas.
-Occur_String3=L-los carruajes están yendo a la Cueva de Cristal.<br>N-no sé por qué la Alianza de la Nobleza está llevando los Tarsks allí...
+Occur_String3=L-los carruajes están yendo a la Crystal Cave.<br>N-no sé por qué la Alianza de la Nobleza está llevando los Tarsks allí...
 Occur_String4=Pfff... No tengo tiempo para esto...
-Occur_String5=¡L-los Datans han montado campamento frente a la Cueva de Cristal!<br>Ya sabes, los Dracans que adoran la energía Pectra.
+Occur_String5=¡L-los Datans han montado campamento frente a la Crystal Cave!<br>Ya sabes, los Dracans que adoran la energía Pectra.
 Occur_String6=(Atacaron el Pueblo del Sur en Kanturu Musai.)<br>[Pueblo del Sur: Un pueblo ubicado en el lado sur del territorio de Kanturu, Kanturu Musai]
 Occur_String7=Chaisong ha detectado sus movimientos y ha enviado a sus Caballeros Dracans aquí.<br>Su campamento está al norte de aquí.
 Occur_String8=Esto es todo lo que sé, lo juro. Por favor...<br>No me mates... Por favor...
-Occur_String9=(Los Datans están protegiendo la Cueva de Cristal, lo que significa que su líder, Woongpam, está adentro.)
-Doing_String=Los carruajes que transportan Tarsks se han dirigido a la Cueva de Cristal.<br>Eso es todo lo que sé. Por favor, no me mates...
+Occur_String9=(Los Datans están protegiendo la Crystal Cave, lo que significa que su líder, Woongpam, está adentro.)
+Doing_String=Los carruajes que transportan Tarsks se han dirigido a la Crystal Cave.<br>Eso es todo lo que sé. Por favor, no me mates...
 Completable_String1=¡Cuánto tiempo, extraño!<br>Todavía te estoy agradecido por lo que hiciste en el Closed Waterway.
-Complete_String=Los Datans que atacaron el Pueblo del Sur en Kanturu Musai habían montado campamento frente a la Cueva de Cristal. Chaisong, al detectar sus movimientos, había desplegado a sus Caballeros Dracans allí. Fui a verlos para evaluar la situación.
-List_String=(Misión Principal Litenberg) (73/141)<br>Los Datans que atacaron el Pueblo del Sur en Kanturu Musai han montado campamento frente a la Cueva de Cristal. Chaisong ha detectado sus movimientos y ha enviado a sus Caballeros Dracans. Debo ir y evaluar la situación.
+Complete_String=Los Datans que atacaron el Pueblo del Sur en Kanturu Musai habían montado campamento frente a la Crystal Cave. Chaisong, al detectar sus movimientos, había desplegado a sus Caballeros Dracans allí. Fui a verlos para evaluar la situación.
+List_String=(Misión Principal Litenberg) (73/141)<br>Los Datans que atacaron el Pueblo del Sur en Kanturu Musai han montado campamento frente a la Crystal Cave. Chaisong ha detectado sus movimientos y ha enviado a sus Caballeros Dracans. Debo ir y evaluar la situación.
 Mission_String=Visita al Guerrero Dracan en el Campamento de los Caballeros Dracans
 Mission_Target1=Habla con Zallo
 
 [Quest_5199]
 Name=Prueba de su Colusión
 Occur_String1=Me alegra que te hayas recuperado de tu herida. He oído que has venido aquí para mantener a raya a los Datans.
-Occur_String2=Sí. Vinimos cuando escuchamos que estaban protegiendo la Cueva de Cristal, que fue tomada por Pandemonium. Por supuesto, bajo las órdenes de Chaisong.
+Occur_String2=Sí. Vinimos cuando escuchamos que estaban protegiendo la Crystal Cave, que fue tomada por Pandemonium. Por supuesto, bajo las órdenes de Chaisong.
 Occur_String3=Woongpam, el líder de los Datans, ha robado la Vara de Pectra de Kanturu.<br>Y esos cristales intensifican la energía Pectra.
-Occur_String4=Woongpam tiene que estar dentro de la Cueva de Cristal. Robó la vara para Pandemonium.
+Occur_String4=Woongpam tiene que estar dentro de la Crystal Cave. Robó la vara para Pandemonium.
 Occur_String5=No... Incluso los Datans no trabajarían junto a Pandemonium.
 Occur_String6=Puedo demostrártelo.
 Doing_String=Chaisong te está agradecido, extraño.
 Completable_String1=Todas estas armas están hechas por Pandemonium. Los Datans están coludidos con ellos.
-Complete_String=A pesar de que los Datans estaban protegiendo la entrada a la Cueva de Cristal, el Guerrero Dracan Zallo se mostró reacio a creer que estaban aliados con Pandemonium. Revisé los estantes de armas de los Datans y encontré armas de Pandemonium. Zallo ya no pudo negar su colusión con los Pandemoniums.
-List_String=(Misión Principal Litenberg) (74/141)<br>A pesar de que los Datans estaban protegiendo la entrada de la Cueva de Cristal, el Guerrero Dracan Zallo se mostró reacio a creer que estaban aliados con Pandemonium. Debo obtener pruebas.
+Complete_String=A pesar de que los Datans estaban protegiendo la entrada a la Crystal Cave, el Guerrero Dracan Zallo se mostró reacio a creer que estaban aliados con Pandemonium. Revisé los estantes de armas de los Datans y encontré armas de Pandemonium. Zallo ya no pudo negar su colusión con los Pandemoniums.
+List_String=(Misión Principal Litenberg) (74/141)<br>A pesar de que los Datans estaban protegiendo la entrada de la Crystal Cave, el Guerrero Dracan Zallo se mostró reacio a creer que estaban aliados con Pandemonium. Debo obtener pruebas.
 Mission_String=Encuentra pruebas de la colusión de los Datans con Pandemonium
 Mission_Target1=Investiga los Estantes de Armas de los Datans
 
 [Quest_5200]
 Name=Agente Encubierto
 Occur_String1=Esos degenerados están coludidos con Pandemonium.<br>Me avergüenza que sean de mi raza, extraño.
-Occur_String2=Algo sospechoso está ocurriendo dentro de la Cueva de Cristal. La Vara de Pectra. Woongpam.<br>Y numerosos sujetos de prueba que han sido llevados a la cueva. Debo detenerlos.
+Occur_String2=Algo sospechoso está ocurriendo dentro de la Crystal Cave. La Vara de Pectra. Woongpam.<br>Y numerosos sujetos de prueba que han sido llevados a la cueva. Debo detenerlos.
 Occur_String3=Tenemos un agente encubierto en el campamento de los Datans.<br>Contacta con él primero. Puede que tenga información útil para ti.
 Occur_String4=Bien. ¿Podrías escribirle a Muren en el Outpost de Devias sobre lo que ha sucedido?<br>Él querrá saberlo.
 Occur_String5=Entendido. Enviaré palomas mensajeras tan pronto como pueda.<br>Buena suerte.
 Occur_String6=
 Doing_String=Por favor, ten cuidado, extraño.
 Completable_String1=¡Renacuajos!
-Complete_String=Iba a entrar a la Cueva de Cristal de inmediato, pero Zallo dijo que primero debía reunirme con un agente encubierto en el campamento de los Datans. Lo encontré y reuní información.
-List_String=(Misión Principal Litenberg) (75/141)<br>Iba a entrar a la Cueva de Cristal de inmediato, pero Zallo dijo que primero debía reunirme con un agente encubierto en el campamento de los Datans. Debo encontrarlo y recopilar información.
+Complete_String=Iba a entrar a la Crystal Cave de inmediato, pero Zallo dijo que primero debía reunirme con un agente encubierto en el campamento de los Datans. Lo encontré y reuní información.
+List_String=(Misión Principal Litenberg) (75/141)<br>Iba a entrar a la Crystal Cave de inmediato, pero Zallo dijo que primero debía reunirme con un agente encubierto en el campamento de los Datans. Debo encontrarlo y recopilar información.
 Mission_String=Matar a los Datans y encontrar al Guerrero Dracan Disfrazado Patin
 Mission_Target1=Matar a los Datans
 
@@ -10147,7 +10147,7 @@ Mission_Target1=Matar a los Datans
 Name=Los Planes de Pandemonium
 Occur_String1=Patas traseras. Tu contraseña es una basura.
 Occur_String2=Hm, sabes la contraseña. ¿Te envió Zallo?
-Occur_String3=Sí. Necesito información sobre la Cueva de Cristal. ¿Qué está pasando allí?
+Occur_String3=Sí. Necesito información sobre la Crystal Cave. ¿Qué está pasando allí?
 Occur_String4=No sé mucho. Los Datans la están custodiando desde fuera y no tienen permitido entrar.<br>Hasta donde sé,
 Occur_String5=un suministro interminable de unas bestias llamadas Tarsks fue enviado a la cueva.
 Occur_String6=Ya lo sabía.
@@ -10157,14 +10157,14 @@ Doing_String=¿De verdad crees que nuestra contraseña es una basura?
 Completable_String1=
 Complete_String=Zallo descubrió que un suministro interminable de Tarsks fue enviado a la cueva. Las profundidades de la cueva estaban custodiadas por Boobalus, el comandante de la 17.ª Brigada de Pandemonium. Me ocupé de él y entendí mejor la situación.
 List_String=(Misión Principal Litenberg) (76/141)<br>Dijo que un suministro interminable de Tarsks fue enviado a la cueva. Las profundidades de la cueva están custodiadas por Boobalus, el comandante de la 17.ª Brigada de Pandemonium. Debo ocuparme de él y comprender mejor la situación.
-Mission_String=Elimina al Comandante de la 17.ª Brigada de Pandemonium dentro de la Cueva de Cristal
+Mission_String=Elimina al Comandante de la 17.ª Brigada de Pandemonium dentro de la Crystal Cave
 Mission_Target1=Mata a Boobalus
 
 [Quest_5202]
-Name=Propósito de la Cueva de Cristal
+Name=Propósito de la Crystal Cave
 Occur_String1=No estoy siendo modesto. No esperaba que vinieras cuando te envié palomas mensajeras.<br>Solo tú podrías venir tan rápido.
 Occur_String2=Aparte de ti, claro. Entonces, ¿qué estaba pasando ahí dentro?<br>Déjame adivinar. ¿Intensificaron la energía Pectra con cristales?
-Occur_String3=No, es completamente lo contrario.<br>Necesitaban la Cueva de Cristal porque los cristales bloquean perfectamente la energía Pectra.
+Occur_String3=No, es completamente lo contrario.<br>Necesitaban la Crystal Cave porque los cristales bloquean perfectamente la energía Pectra.
 Occur_String4=Nunca hubiéramos sabido esto si no hubiéramos atrapado a Adrian entregando la cueva a Pandemonium.
 Occur_String5=Estaban inyectando Pectra en criaturas vivas como experimento.<br>La cueva era su laboratorio secreto.
 Occur_String6=Ya veo. ¿Funcionó su experimento?
@@ -10174,8 +10174,8 @@ Occur_String9=Esto no es algo que nosotros los Deviases podamos detener por nues
 Occur_String10=Déjame hablar con él. Tú eres de la Coalición. Las cosas serán más fáciles si hablo con él en lugar de ti.<br>Será mejor que me apresure. Estoy un día más cerca de la fecha límite que me dieron los Kanturianos.
 Doing_String=Informaré esto a mis superiores en Lorencia,<br>pero dudo que lo tomen en serio.
 Completable_String1=¿Dónde está Chaisong? ¿Tú...?
-Complete_String=La Cueva de Cristal se usó como laboratorio secreto para inyectar energía Pectra en criaturas vivas. Los Devias necesitan ayuda de la Alianza para eliminar al Ejército de Pandemonium antes de que se mejore con la energía Pectra. Fui a la residencia de Chaisong para hablar con él y en su lugar conocí a su hija adoptiva, Kelbra.
-List_String=(Misión Principal Litenberg) (79/141)<br>La Cueva de Cristal se usó como laboratorio secreto para inyectar energía Pectra en criaturas vivas. Los Deviases necesitan ayuda de la Alianza para eliminar al Ejército de Pandemonium antes de que se refuerce con la energía Pectra. Debo ir a la residencia de Chaisong y hablar con él.
+Complete_String=La Crystal Cave se usó como laboratorio secreto para inyectar energía Pectra en criaturas vivas. Los Devias necesitan ayuda de la Alianza para eliminar al Ejército de Pandemonium antes de que se mejore con la energía Pectra. Fui a la residencia de Chaisong para hablar con él y en su lugar conocí a su hija adoptiva, Kelbra.
+List_String=(Misión Principal Litenberg) (79/141)<br>La Crystal Cave se usó como laboratorio secreto para inyectar energía Pectra en criaturas vivas. Los Deviases necesitan ayuda de la Alianza para eliminar al Ejército de Pandemonium antes de que se refuerce con la energía Pectra. Debo ir a la residencia de Chaisong y hablar con él.
 Mission_String=Entrega la oferta de alianza de Muren a Chaisong en el Pueblo de Qwyinan
 Mission_Target1=Habla con Chaisong
 
@@ -10192,7 +10192,7 @@ Mission_Target1=Entra en el Espacio de Apariencia Sospechosa
 Name=Tarsk Mutado
 Doing_String=
 Completable_String1=Llegué tarde de nuevo. Lo siento.
-Complete_String=Los Tarsks fueron forzados a mutar con la energía Pectra. Woongpam dejó el lugar tan pronto como la inyección de energía Pectra fue exitosa. Maté a los Tarsks mutados y Muren llegó a la Cueva de Cristal. Hablé con él sobre las criaturas mutadas por Pectra.
+Complete_String=Los Tarsks fueron forzados a mutar con la energía Pectra. Woongpam dejó el lugar tan pronto como la inyección de energía Pectra fue exitosa. Maté a los Tarsks mutados y Muren llegó a la Crystal Cave. Hablé con él sobre las criaturas mutadas por Pectra.
 List_String=(Misión Principal Litenberg) (78/141)<br>Los Tarsks fueron forzados a mutar con la energía Pectra. Woongpam dejó el lugar tan pronto como la inyección de energía Pectra fue exitosa. Será mejor que me ocupe de los Tarsks mutados primero.
 Mission_String=Mata a la Criatura Mutada por Pectra
 Mission_Target1=Mata a Tarsk Mutado
@@ -10346,7 +10346,7 @@ Mission_Target1=Mata Keru Spearmen, Keru Veterans y Keru Sorcerers
 
 [Quest_5222]
 Name=Es Hora de Unir Fuerzas
-Occur_String1=Leí la carta de Muren sobre la Cueva de Cristal.<br>Los demonios del Pandemonium inyectaron criaturas vivas con Pectra como parte de un experimento.
+Occur_String1=Leí la carta de Muren sobre la Crystal Cave.<br>Los demonios del Pandemonium inyectaron criaturas vivas con Pectra como parte de un experimento.
 Occur_String2=Entonces sabes que Woongpam llevó a cabo el experimento.
 Occur_String3=Lo sé. El líder de los Datans, Woongpam.<br>Es el único, aparte de los Kanturianos, que entiende el principio de la energía Pectra.
 Occur_String4=Ha dedicado su vida a estudiar Pectra.<br>El Pandemonium debe haberle prometido el trono de Drapia a cambio de su conocimiento sobre Pectra.
@@ -10460,7 +10460,7 @@ Occur_String2=¡Este es un momento histórico! ¡La Heraus Coalition y la Alianz
 Occur_String3=Es demasiado pronto para celebrar. El Campamento de Prisión ha sido capturado por el Ejército del Pandemonium.
 Occur_String4=!!!!!!!!!!<br>¡Esos bastardos del Pandemonium! ¿También intentan mutar a los prisioneros?
 Occur_String5=Aún tenemos tiempo para detenerlos.<br>Para mutar a más de 10,000 prisioneros, deben necesitar un amplificador de Pectra gigante.<br>Probablemente se esté construyendo dentro del campamento de prisión en este momento.
-Occur_String6=Supongo que tomará demasiado tiempo mutarlos uno por uno, como hicieron en la Cueva de Cristal.
+Occur_String6=Supongo que tomará demasiado tiempo mutarlos uno por uno, como hicieron en la Crystal Cave.
 Occur_String7=Sería mejor destruir el amplificador antes de que Woongpam lo complete.<br>Yo iré primero al campamento. Cuando los Dracans lleguen, únete a mí en el campamento.
 Occur_String8=No puedes ir allí solo.<br>El camino está bloqueado por la Brigada de Esqueletos del Pandemonium.<br>Espera con nosotros a Chaisong.
 Occur_String9=Tenemos algo de tiempo, pero no lo suficiente como para esperar por él. Intentaré llegar allí primero. Ven tan pronto como puedas.
@@ -11405,7 +11405,7 @@ Mission_String=Recolecta Fragmentos del Rift de Ultra Densidad de Monstruos Jefe
 Mission_Target1=Fragmento del Rift de Ultra Densidad
 
 [Quest_8015]
-Name=La Biblioteca de Lupa
+Name=La Lupa's Library
 Occur_String1=Oye, oye. ¿Alguna vez has visto una biblioteca gigantesca dentro del Rift?
 Occur_String2=¿Una biblioteca? He estado en una antes.<br>Bueno, supongo que podría haber más de una. Después de todo, el Rift puede conectarte a un espacio aleatorio.
 Occur_String3=Uff... eres un idiota.<br>El Rift Interdimensional no es completamente aleatorio.<br>¿Crees que puedes viajar miles de años como quieras?<br>Es agradable ser estúpido, ¿eh? ¡No hay nada malo con las enseñanzas de los ancestros!
@@ -11420,9 +11420,9 @@ Doing_String=Esa deformación... podía sentir algo muy doloroso de ella.<br>Y a
 Completable_String1, ¿La gigantesca biblioteca realmente existe?<br>¿Y había un monstruo horrible allí?
 Completable_String2=¡Dame más detalles!<br>¿Ese monstruo... no puede ser...<br>¡Apúrate y cuéntame!
 Complete_String=
-List_String=La Biblioteca de Lupa es un Rift especial al que solo se puede entrar usando Porystales que se obtienen dentro del Rift con baja probabilidad.<br>Si un miembro del grupo usa un Porystal, todos los miembros del grupo pueden entrar.
+List_String=La Lupa's Library es un Rift especial al que solo se puede entrar usando Porystales que se obtienen dentro del Rift con baja probabilidad.<br>Si un miembro del grupo usa un Porystal, todos los miembros del grupo pueden entrar.
 Mission_String=Conquista el Rift Misterioso
-Mission_Target1=Conquista la Biblioteca de Lupa
+Mission_Target1=Conquista la Lupa's Library
 
 [Quest_8100]
 Name=Objeto Perdido
@@ -11668,29 +11668,29 @@ Occur_String1=Los miembros de mi sociedad han viajado a través del tiempo y el 
 Occur_String2=¿La Danza de Hielo y Lava?
 Occur_String3=Es una novela sobre una guerra eterna entre la Reina del Alma Helada, Avalanchera, y un monstruo con lava corriendo por sus venas, Naklokhan. Me gustó.<br>Pensé que era solo una novela ordinaria, así que la guardé después de leerla una vez.<br>No podría haber estado más equivocado.
 Occur_String4=¡Entonces un día, de repente, se abrieron dos Rifts alrededor del libro! Solo eso ya es sorprendente, pero para colmo, estaban conectados al<br>mundo del libro. ¿Puedes creerlo? ¡Han conectado un mundo ficticio a la realidad!
-Occur_String5=Uno de los Rifts está conectado a la Cueva del Demonio de Hielo, donde reside Avalanchera; y el otro, a la Cueva del Demonio de Fuego de Naklokhan.<br>Vaya, nunca he visto nada igual. Todos sueñan con explorar el mundo de un libro una o dos veces, ¿verdad? ¡Ese sueño se ha hecho realidad!
+Occur_String5=Uno de los Rifts está conectado a la Ice Demon Cave, donde reside Avalanchera; y el otro, a la Fire Demon Cave de Naklokhan.<br>Vaya, nunca he visto nada igual. Todos sueñan con explorar el mundo de un libro una o dos veces, ¿verdad? ¡Ese sueño se ha hecho realidad!
 Occur_String6=Oye, cálmate. Eso suena realmente asombroso,<br>pero, ¿y si es peligroso?
-Occur_String7=Oh, Dios mío. Lo siento. Me emocioné de nuevo.<br>*Ejem* Ve al estudio de arriba, y verás los Rifts a la Cueva del Demonio de Hielo y la Cueva del Demonio de Fuego. ¿Por qué no hablas primero con quienes protegen las Cuevas?
+Occur_String7=Oh, Dios mío. Lo siento. Me emocioné de nuevo.<br>*Ejem* Ve al estudio de arriba, y verás los Rifts a la Ice Demon Cave y la Fire Demon Cave. ¿Por qué no hablas primero con quienes protegen las Cuevas?
 Doing_String=Me encantan las novelas y las historias.<br>Mm, tal vez debería dejar un par de libros en el Rift, como Pierre Pan o Princesa Encantadora. ¿Quién sabe?<br>Piensas que estoy siendo tonto, pero me encantaría conocer a esos personajes.
-Completable_String1, ¿Los has conocido? Son los agentes de Avalanchera y Naklokhan. Necesitan ayuda para deshacerse el uno del otro.<br>Lo que quiero que hagas es ayudarlos, para que puedas explorar la Cueva del Demonio de Hielo y la Cueva del Demonio de Fuego.
+Completable_String1, ¿Los has conocido? Son los agentes de Avalanchera y Naklokhan. Necesitan ayuda para deshacerse el uno del otro.<br>Lo que quiero que hagas es ayudarlos, para que puedas explorar la Ice Demon Cave y la Fire Demon Cave.
 Completable_String2=Y toma esto. Necesitas estas Piedras de Sabio para entrar a los lugares. Sin ellas... no pasará nada.<br>Lo siento, solo puedo darte una.
 Completable_String3=He oído que se encuentran en artefactos alquimizados. Mi sociedad está tratando de averiguar por qué no pasa nada sin las Piedras de Sabio, y por qué estas piedras solo se encuentran en artefactos alquimizados.<br>Pero es difícil: el Mercader de alquimia no habla.
 Completable_String4=Ese viejo apenas habla. De acuerdo, iré.<br>Por cierto, ¿sabes que no son humanos? Creo que son elementales de algún tipo.
 Completable_String5=¿No lo son? Después de todo, salieron de los Rifts, de un mundo ficticio.<br>No es sorprendente que sean diferentes de nosotros. Investigaré sobre ellos. Gracias.
 Complete_String=Tengo que explorar el mundo dentro de un libro llamado la Danza de Hielo y Lava mientras ayudo a los agentes de los personajes del libro, Avalanchera y Naklokhan. El mundo de un libro. ¡No puedo esperar a verlo!
-List_String=Tengo que conocer a los guardianes de la Cueva del Demonio de Hielo y la Cueva del Demonio de Fuego. ¿Quiénes son? ¿Qué quieren?
-Mission_String=Hablar con los guardianes de la Cueva del Demonio de Hielo y la Cueva del Demonio de Fuego
+List_String=Tengo que conocer a los guardianes de la Ice Demon Cave y la Fire Demon Cave. ¿Quiénes son? ¿Qué quieren?
+Mission_String=Hablar con los guardianes de la Ice Demon Cave y la Fire Demon Cave
 Mission_Target1=Hablar con el Secuaz del Demonio de Hielo
 Mission_Target2=Hablar con el Secuaz del Demonio de Fuego
 
 [Quest_8202]
-Name=La Cueva del Demonio de Hielo y la Cueva del Demonio de Fuego
+Name=La Ice Demon Cave y la Fire Demon Cave
 Occur_String1=
 Doing_String=
 Completable_String1=
-Complete_String=Estoy mirando los Rifts conectados a la Cueva del Demonio de Hielo y la Cueva del Demonio de Fuego. ¿Cuál debo visitar primero?
-List_String=Tengo que ir a los Rifts conectados a la Cueva del Demonio de Hielo y la Cueva del Demonio de Fuego.
-Mission_String=Ve a los Rifts conectados a la Cueva del Demonio de Hielo y la Cueva del Demonio de Fuego
+Complete_String=Estoy mirando los Rifts conectados a la Ice Demon Cave y la Fire Demon Cave. ¿Cuál debo visitar primero?
+List_String=Tengo que ir a los Rifts conectados a la Ice Demon Cave y la Fire Demon Cave.
+Mission_String=Ve a los Rifts conectados a la Ice Demon Cave y la Fire Demon Cave
 Mission_Target1=Ve al Rift
 
 [Quest_8203]
@@ -11705,7 +11705,7 @@ Occur_String7=¿Qué tienen que ver los Caballeros con los cristales?
 Occur_String8=Los Caballeros Helados son la personificación de la energía fría que exhala su alma.<br>Cuanto más daño inflijas a los Caballeros, más energía fría tendrán que generar sus cristales del alma. Eventualmente, los cristales no tendrán más energía para proteger su alma.
 Doing_String=Por cierto, parece que acabas de comenzar a servir a Naklokhan. Eres tan ignorante como un bebé.
 Completable_String1=Buen trabajo derrotando a tantos Caballeros Helados.<br>Ahora sus cristales tendrán que usar la energía que han reservado para proteger el alma de la reina para restaurar a los Caballeros.
-Complete_String=La Cueva del Demonio de Hielo no está tan fría como antes. Deshacerse de los Caballeros Helados realmente debe afectar el poder del alma de la Reina Avalanchera. Ahora, ¿puedo tocar sus cristales del alma?
+Complete_String=La Ice Demon Cave no está tan fría como antes. Deshacerse de los Caballeros Helados realmente debe afectar el poder del alma de la Reina Avalanchera. Ahora, ¿puedo tocar sus cristales del alma?
 List_String=Tengo que eliminar a los Caballeros Helados creados por el poder del alma de la Reina Avalanchera, para debilitar sus cristales del alma.
 Mission_String=Derrotar Caballeros Helados
 Mission_Target1=Eliminar Espadachines Helados
@@ -11715,7 +11715,7 @@ Mission_Target3=Derrotar Congeladores Helados
 [Quest_8204]
 Name=Cristales de Alma Debilitada
 Occur_String1=¡Aww! Sus cristales de alma están emanando energía fría. ¿Puedes sentir este terrible frío?<br>La energía fría de la Reina Avalanchera extinguirá nuestro fuego. ¡Debemos deshacernos de ella antes de que lo haga!
-Occur_String2=Encuentra cristales de alma en la Cueva del Demonio de Hielo y trae su alma congelada a mí. Asegúrate de tener todos sus fragmentos de alma.<br>Si dejas uno atrás, ella seguirá viva, aunque débil.
+Occur_String2=Encuentra cristales de alma en la Ice Demon Cave y trae su alma congelada a mí. Asegúrate de tener todos sus fragmentos de alma.<br>Si dejas uno atrás, ella seguirá viva, aunque débil.
 Occur_String3=He visto bastantes cristales de alma aquí y allá. ¿Cada uno de ellos contiene un fragmento de su alma?
 Occur_String4=La Reina Avalanchera creó muchos cristales, algunos de ellos contienen su alma, otros solo energía fría. ¡Para engañarnos!<br>No sabremos cuál contiene qué, hasta que los toquemos. Su energía congelante disfraza lo que contienen.
 Occur_String5=Además, sus fragmentos de alma se mueven constantemente de un cristal a otro, lo que hace aún más difícil atraparlos.<br>¡Pero nuestra misión es clara: ver a Naklokhan arder lentamente y dedicarnos a él!
@@ -11723,7 +11723,7 @@ Occur_String6=...<br>(Él dice que tengo que tocar cada uno de los cristales. ¡
 Doing_String=No te preocupes. Naklokhan no olvidará tu dedicación a él.
 Completable_String1=¡Th-esto es el alma de la reina! ¡No puedo tocarla, está tan fría!<br>¡Dios mío, esta energía fría nos habría hecho volar en icónicas si no la atrapas!
 Complete_String=No sé cuántas veces entré y salí de la cueva de Avalanchera, pero al final recolecté todos sus fragmentos de alma. Cuando esto termine, voy a ir a un lugar cálido y tomar una taza de vino caliente.
-List_String=Tengo que recolectar los fragmentos del alma congelada de la Reina Avalanchera de los cristales de alma en la Cueva del Demonio de Hielo.
+List_String=Tengo que recolectar los fragmentos del alma congelada de la Reina Avalanchera de los cristales de alma en la Ice Demon Cave.
 Mission_String=Recolectar las almas congeladas de la Reina Avalanchera
 Mission_Target1=Alma Congelada de la Reina
 
@@ -11766,7 +11766,7 @@ Occur_String2=No es por eso—<br>(Mm, tal vez no debería decir que no.)<br>As�
 Occur_String3=Ho ho. Eres divertido. A la Reina Avalanchera le encantaría escuchar eso.<br>Para matar a Naklokhan, tienes que destruir su corazón de lava, la esencia de su fuego. Pero esta esencia, a menos que esté cerca de otra esencia de propiedades similares, no se revela.
 Occur_String4=¿Cómo puedo conseguir esta esencia?
 Occur_String5=Primero necesitas Griales Sagrados de Fuego para contener su esencia. Esos bajos fanáticos que adoran a Naklokhan los llevan, pero nunca los muestran, excepto cuando hacen Zombis Ardientes.
-Occur_String6=Deshazte de esos zombis que asedian la Cueva del Demonio de Fuego, y los fanáticos tendrán que producir sus Griales Sagrados de Fuego para hacer más zombis. Ahí es cuando atacas.
+Occur_String6=Deshazte de esos zombis que asedian la Fire Demon Cave, y los fanáticos tendrán que producir sus Griales Sagrados de Fuego para hacer más zombis. Ahí es cuando atacas.
 Occur_String7=Entonces sería mejor deshacerme de los Zombis Ardientes primero.
 Doing_String=Serán un poco calientes al tacto. Pero no te preocupes.<br>La energía fría de la Reina Avalanchera estará contigo.
 Completable_String1=Buen trabajo. Ahora es tiempo de recolectar Griales Sagrados de Fuego de los fanáticos de Naklokhan.
@@ -11791,8 +11791,8 @@ Mission_Target1=Grial Sagrado de Fuego
 
 [Quest_8209]
 Name=Varias Esencias de Fuego
-Occur_String1=La Cueva del Demonio de Fuego está infestada de monstruos horrendos que respiran fuego.<br>No hay dos que se parezcan, y cada uno lleva una esencia de fuego única.
-Occur_String2=Quiero que recojas esencias de fuego de estos monstruos en la Cueva del Demonio de Fuego.<br>Un solo tipo de esencia no es suficiente para hacer resonar el terrible corazón de lava de Naklokhan. Necesitamos todos los tipos disponibles.
+Occur_String1=La Fire Demon Cave está infestada de monstruos horrendos que respiran fuego.<br>No hay dos que se parezcan, y cada uno lleva una esencia de fuego única.
+Occur_String2=Quiero que recojas esencias de fuego de estos monstruos en la Fire Demon Cave.<br>Un solo tipo de esencia no es suficiente para hacer resonar el terrible corazón de lava de Naklokhan. Necesitamos todos los tipos disponibles.
 Occur_String3=Podemos combinar todas las esencias de fuego que obtengamos en una gran bola de fuego. En el momento en que resuene con el corazón de lava de Naklokhan, él estará muerto.<br>¡Estamos tan cerca del momento que hemos estado esperando!
 Doing_String=¿Tienes todas las esencias de fuego ya? No hay necesidad de apresurarse. La Reina Avalanchera ganará, pase lo que pase. Solo quiero que su victoria llegue un poco antes.
 Completable_String1=Ahora todo está listo.<br>Ah, solo pensar en la vida drenando de sus ojos arrogantes<br>mientras su energía fría toma el control me hace sentir eufórico.
@@ -12118,7 +12118,7 @@ Occur_String1=Hablé con Kundun y Duropan, y piensan que la Torre del Alba está
 Occur_String2=%s_9_1, te has vuelto más fuerte de lo que jamás imaginé. ¿Qué te ha pasado?
 Occur_String3=He adquirido un nuevo poder. Un poder de un gran alma.<br>De todos modos, ¿he terminado aquí?
 Occur_String4=Ah, no, todavía no. Me sorprendió tanto tu fuerza que casi olvidé mi deber.<br>Ahora es el momento de que alcances el piso veinte.
-Occur_String5=Los pisos veinte y superiores están diseñados para parecer campos de batalla que podrías experimentar en una guerra contra Pandemonium. %s_9_1, por favor escala hasta el piso veinte y lucha contra el enemigo.
+Occur_String5=Los pisos veinte y superiores están diseñados para parecer fields de batalla que podrías experimentar en una guerra contra Pandemonium. %s_9_1, por favor escala hasta el piso veinte y lucha contra el enemigo.
 Doing_String=%s_9_1, no puedo esperar a ver si llegas al piso veinte.
 Completable_String1=Bienvenido de vuelta. Hm, hm... Pareces destrozado.
 Complete_String=Escalé al menos 20 pisos de la Torre del Alba a pedido de Kyle.
@@ -13485,7 +13485,7 @@ Occur_String2=Te presento un campo de batalla exclusivo para verdaderas batallas
 Occur_String3=..<br><br>Está bien, escuchemos.
 Occur_String4=
 Doing_String=
-Completable_String1=Los campos de batalla oficiales para guerreros se conocen como Mapas de Misión.
+Completable_String1=Los fields de batalla oficiales para guerreros se conocen como Mapas de Misión.
 Completable_String2=Puedes abrir la ventana de eventos a través del menú en la parte superior o presionando la tecla [B].
 Completable_String3=Los Mapas de Misión disponibles se muestran a la izquierda de la ventana. Haz clic en uno para solicitarlo e ingresar.
 Completable_String4=Dependiendo de los resultados de la batalla, puedes obtener monedas especiales. Tráelas a mí, y las cambiaré por Items valiosos.
@@ -23031,9 +23031,9 @@ Occur_String6=Fue una tarea difícil, pero me alegra que haya valido la pena. Ag
 Occur_String7=¡Sí, gracias por tu esfuerzo! ¡Aseguraré que tu nombre sea mencionado en mi próximo tratado! ¡Hasta que nos volvamos a ver!
 Doing_String=Aunque dudo que tengas tiempo para leerlo. En caso de que lo hagas, visita la Sociedad de Arqueología de Lorencia.
 Completable_String1=Un guerrero contratista, en un lugar lleno de no muertos... Debes tener habilidades, o no habrías sobrevivido al viaje.
-Complete_String=(Misión de Grupo del Ducado de Tephakin) (9/12)<br>Kamok reunió las piezas que recogí para él y encontró una pista sobre el paradero del Luzdeluz. Tumba de la Reina Lenavis. Que se encuentre la espada en la tumba de Lenavis, la reina que se opuso a las fuerzas del Pandemonium hasta el final.
-List_String=(Misión de Grupo del Ducado de Tephakin) (9/12)<br>Tengo que encontrar el Luzdeluz en la tumba de la Reina Lenavis y llevar la espada a la Ciudad Canal.
-Mission_String=Recupera el Luzdeluz de la Tumba de la Reina y habla con el Oficial Matthias en el Puesto de Avance
+Complete_String=(Misión de Grupo del Ducado de Tephakin) (9/12)<br>Kamok reunió las piezas que recogí para él y encontró una pista sobre el paradero del Luzdeluz. Queen's Tomb Lenavis. Que se encuentre la espada en la tumba de Lenavis, la reina que se opuso a las fuerzas del Pandemonium hasta el final.
+List_String=(Misión de Grupo del Ducado de Tephakin) (9/12)<br>Tengo que encontrar el Luzdeluz en la Queen's Tomb Lenavis y llevar la espada a la Ciudad Canal.
+Mission_String=Recupera el Luzdeluz de la Queen's Tomb y habla con el Oficial Matthias en el Puesto de Avance
 Mission_Target1=Recupera el Luzdeluz
 Mission_Target2=Habla con el Oficial Matthias
 Mission_Target3=Habla con el Oficial Matthias
@@ -23131,12 +23131,12 @@ Occur_String3=Oficial de Suministros Pondue... Sabía que era él. Siempre me pr
 Occur_String4=¿No podría ser una operación de contrainteligencia? Podrías terminar arrestando a un hombre inocente.
 Occur_String5=Esa es ciertamente una posibilidad, pero... ¿Podrías buscar algunas pistas sobre la colusión de Pondue con la Alianza?
 Occur_String6=¿Qué? ¿Quieres que lo atrape en acción? ¿Mientras se reúne con sus amigos de la Alianza?
-Occur_String7=Para serte sincero... Sí, exactamente. Pondue está apostado cerca del Pico del Hielo Sangriento, donde la Alianza de la Nobleza ha establecido un campamento. Si esperas allí, definitivamente lo atraparás con las manos en la masa.
+Occur_String7=Para serte sincero... Sí, exactamente. Pondue está apostado cerca del Blood Ice Peak, donde la Alianza de la Nobleza ha establecido un campamento. Si esperas allí, definitivamente lo atraparás con las manos en la masa.
 Occur_String8=Siento que tu lista de favores está creciendo. <br>Bueno, tu compensación mejor vale todo mi esfuerzo.
 Doing_String=No te preocupes por eso. Por supuesto, guerrero.
 Completable_String1=Gracias por tus esfuerzos. Ahora podemos deshacernos de los coludidos entre nosotros.
-Complete_String=(Misión Individual de Kali) (3/8)<br>En el Pico del Hielo Sangriento, atrapé al Intendente Pondue teniendo una reunión secreta con la Alianza de la Nobleza. Si se le hubiera permitido continuar, habría causado un gran daño al ejército del ducado.
-List_String=(Misión Individual de Kali) (3/8)<br>Atrapa a los coludidos con las manos en la masa en el Pico del Hielo Sangriento.
+Complete_String=(Misión Individual de Kali) (3/8)<br>En el Blood Ice Peak, atrapé al Intendente Pondue teniendo una reunión secreta con la Alianza de la Nobleza. Si se le hubiera permitido continuar, habría causado un gran daño al ejército del ducado.
+List_String=(Misión Individual de Kali) (3/8)<br>Atrapa a los coludidos con las manos en la masa en el Blood Ice Peak.
 Mission_String=Atrapa a los coludidos en el acto.
 Mission_Target1=Mata al Comandante Python
 Mission_Target2=Habla con Martin
@@ -23149,12 +23149,12 @@ Occur_String3=Hay otra cosa. Orman está reuniendo a las tribus Garuda para que 
 Occur_String4=Es una espina en nuestro costado de muchas maneras. Puedo matarlo de nuevo, pero seguramente volverá a la vida antes de mucho. Matarlo no sería la solución definitiva.
 Occur_String5=Pero entonces... El Lightbringer podría darnos la solución que necesitamos. La luz de la espada puede destruir la fuente de la oscuridad. Si aceptas esta tarea, te dejaré llevar la espada para esta misión.
 Occur_String6=Empuñar un arma legendaria en batalla es el sueño de todo guerrero. <br>Entiendo. Acepto esta misión.
-Occur_String7=Entonces, ve a hablar con el Comandante Solon en el Puesto del Templo Celestial. Él te dirá lo que hay que hacer.
+Occur_String7=Entonces, ve a hablar con el Comandante Solon en el Puesto del Sky Temple. Él te dirá lo que hay que hacer.
 Doing_String=Espero que podamos acabar con nuestro conflicto con los Garudas de una vez por todas.
 Completable_String1=Es bueno verte de nuevo.
-Complete_String=(Misión Individual de Kali) (4/8)<br>Kali me dijo que Orman había resucitado. Según ella, Orman estaba reuniendo a los miembros restantes de la tribu Garuda. Me ofreció llevar el Lightbringer solo para esta misión. Me explicó que la espada es capaz de destruir la oscuridad en su fuente, y que necesitaría el poder de la espada para silenciar a Orman, quien es un demonio de alto rango. Ahora, tengo que aventurarme en el Templo Celestial y enfrentar a Orman.
-List_String=(Misión Individual de Kali) (4/8)<br>Habla con el Comandante Solon en el Puesto del Templo Celestial.
-Mission_String=Viaja al Puesto del Templo Celestial.
+Complete_String=(Misión Individual de Kali) (4/8)<br>Kali me dijo que Orman había resucitado. Según ella, Orman estaba reuniendo a los miembros restantes de la tribu Garuda. Me ofreció llevar el Lightbringer solo para esta misión. Me explicó que la espada es capaz de destruir la oscuridad en su fuente, y que necesitaría el poder de la espada para silenciar a Orman, quien es un demonio de alto rango. Ahora, tengo que aventurarme en el Sky Temple y enfrentar a Orman.
+List_String=(Misión Individual de Kali) (4/8)<br>Habla con el Comandante Solon en el Puesto del Sky Temple.
+Mission_String=Viaja al Puesto del Sky Temple.
 Mission_Target1=Habla con el Comandante Solon
 
 [Quest_200525]
@@ -23164,14 +23164,14 @@ Occur_String2=Sí y no. Orman se alió con los Garudas. Sin embargo, fue su nuev
 Occur_String3=¿Un nuevo rey? ¿Ya eligieron un nuevo rey para suceder a Pedro tras su muerte?
 Occur_String4=Sí, así es. Después de perder a su líder, los Garudas se dispersaron en todas direcciones. No representaban una amenaza seria hasta hace poco. Ahora, la situación es totalmente diferente.
 Occur_String5=Bajo su nuevo liderazgo, incontables Garudas están llegando para intentar tomar el puesto. No sé cuánto tiempo más podremos resistir sin refuerzos.
-Occur_String6=Entonces, los Garudas deben tener sus fuerzas acampadas en algún lugar... ¿Podrían estar en el Templo Celestial?
-Occur_String7=No. El Templo Celestial es su lugar sagrado, pero no es lo suficientemente grande como para alojarlos a todos.
+Occur_String6=Entonces, los Garudas deben tener sus fuerzas acampadas en algún lugar... ¿Podrían estar en el Sky Temple?
+Occur_String7=No. El Sky Temple es su lugar sagrado, pero no es lo suficientemente grande como para alojarlos a todos.
 Occur_String8=Según tus exploradores, los Garudas se están reuniendo bajo su nuevo rey, Pyro, en Rift que se abrió bajo el puesto aquí.
 Occur_String9=Ahora entiendo lo que sucedió. Entonces, ¿estás diciendo que nuestra prioridad debería ser los Garudas acampados dentro de Rift aquí?
-Occur_String10=Sí. Además, el Templo Celestial está fuera de los límites, porque pusieron una barrera mágica en la entrada. Pyro se ha aliado con Orman, y estoy seguro de que el nuevo rey tiene algún artefacto que le permite atravesar la barrera.
+Occur_String10=Sí. Además, el Sky Temple está fuera de los límites, porque pusieron una barrera mágica en la entrada. Pyro se ha aliado con Orman, y estoy seguro de que el nuevo rey tiene algún artefacto que le permite atravesar la barrera.
 Doing_String=Sin embargo, apenas tenemos suficientes hombres para defender esta posición. Lamento no poder ayudarte más que eso.
 Completable_String1=¿De verdad mataste a todos esos soldados Garuda tú solo?
-Complete_String=(Misión Individual de Kali) (5/8)<br>Cuando pregunté por los soldados Garuda que rodeaban el Puesto del Templo Celestial, el Comandante Solon me dijo que no fue Orman quien reunió a los soldados. Fue Pyro, el nuevo rey de la tribu Garuda. Según el comandante, Pyro ha estado reorganizando a las tropas Garuda cerca de una Rift que apareció recientemente en la zona. Cree que debemos centrarnos en derrotar a la tribu Garuda reunificada, en lugar de tratar con el demonio resucitado.
+Complete_String=(Misión Individual de Kali) (5/8)<br>Cuando pregunté por los soldados Garuda que rodeaban el Puesto del Sky Temple, el Comandante Solon me dijo que no fue Orman quien reunió a los soldados. Fue Pyro, el nuevo rey de la tribu Garuda. Según el comandante, Pyro ha estado reorganizando a las tropas Garuda cerca de una Rift que apareció recientemente en la zona. Cree que debemos centrarnos en derrotar a la tribu Garuda reunificada, en lugar de tratar con el demonio resucitado.
 List_String=(Misión Individual de Kali) (5/8)<br>Entra en Rift que se abrió cerca del puesto y elimina a la Legión Garuda.
 Mission_String=Entra en Rift que se abrió cerca del puesto nuevamente.
 Mission_Target1=Pieza del Emblema del Rey Garuda
@@ -23180,7 +23180,7 @@ Mission_Target1=Pieza del Emblema del Rey Garuda
 Name=(T) Rey Garuda, Pyro
 Occur_String1=Tenías razón. El lugar estaba lleno de ellos, como si fueran hormigas. Me deshice de una buena cantidad, así que no causarán problemas por un tiempo.
 Occur_String2=Aprecio tu ayuda. ¿Y viste a su rey, Pyro, entre ellos? Si Pyro sigue por ahí, pronto se reagruparán y reanudarán su ataque.
-Occur_String3=No lo vi en Rift. Pero... encontré la siguiente mejor cosa. Encontré esto mientras luchaba contra ellos. ¿Puede ser este el artefacto que usa para entrar en el Templo Celestial?
+Occur_String3=No lo vi en Rift. Pero... encontré la siguiente mejor cosa. Encontré esto mientras luchaba contra ellos. ¿Puede ser este el artefacto que usa para entrar en el Sky Temple?
 Occur_String4=Hm... No parece pertenecer a los demonios... Mira estos patrones de alas aleteando... Creo que es uno de los emblemas que llevan los Garudas.
 Occur_String5=Entonces... Será mejor que regrese a Rift con esto. Con un poco de suerte, tal vez pueda encontrar a su rey, Pyro.
 Occur_String6=Que la fortuna te sonría.
@@ -23200,8 +23200,8 @@ Occur_String4=Que la luz del Lightbringer te acompañe. Y que la paz llegue a es
 Doing_String=Orman ha vuelto a la vida, pero debe necesitar más tiempo para recuperarse completamente.
 Completable_String1=En nombre de todos nuestros hombres en esta base, yo, el Comandante Solon, te extiendo nuestra sincera gratitud. El Comandante Kali estará inmensamente complacido de escuchar la noticia.
 Complete_String=(Misión Individual de Kali) (7/8)<br>Pude silenciar a Orman, el comandante de las fuerzas invasoras, con el poder del Lightbringer. Sin embargo, destruir la esencia del demonio de alto rango debió haber afectado a la espada, porque se rompió en varios fragmentos. Aunque derroté a Orman como quería Kali, mi corazón se sentía pesado. Tendría que dar la noticia de que el tesoro nacional de su ducado se había dañado una vez más.
-List_String=(Misión Individual de Kali) (7/8)<br>Ve al Templo Celestial y elimina al Comandante del Ejército Invasor, Orman.
-Mission_String=Regresa al Templo Celestial.
+List_String=(Misión Individual de Kali) (7/8)<br>Ve al Sky Temple y elimina al Comandante del Ejército Invasor, Orman.
+Mission_String=Regresa al Sky Temple.
 Mission_Target1=Mata a Orman
 Mission_Target2=Habla con el Comandante Solon
 
@@ -23609,7 +23609,7 @@ Mission_Target3=
 [Quest_200802]
 Name=(T) El Secreto de Orman
 Occur_String1=Sabía que vendrías, %s_9_1.<br>He oído que estás en Duelden.
-Occur_String2=No es nada serio, pero he estado realizando una investigación que es muy importante para mí personalmente, y necesito tu ayuda para ello.<br>Es sobre el comandante del Ejército de Invasión Demoníaca que derrotaste en el Templo Celestial al norte de aquí.
+Occur_String2=No es nada serio, pero he estado realizando una investigación que es muy importante para mí personalmente, y necesito tu ayuda para ello.<br>Es sobre el comandante del Ejército de Invasión Demoníaca que derrotaste en el Sky Temple al norte de aquí.
 Occur_String3=¿Comandante de los invasores del Pandemonium...? ¿Te refieres a Orman?
 Occur_String4=Sí. Estaba recolectando información sobre ese demonio y me di cuenta de que Orman es visiblemente diferente de los otros demonios. Se ve y se siente diferente.<br>Me dio curiosidad sobre de dónde vino realmente.
 Occur_String5=Quiero aprender sobre los antecedentes de Orman y de dónde vino, simplemente para satisfacer mi curiosidad intelectual.<br>Lo terminaste; así que serías el asistente perfecto para este proyecto.
@@ -24005,18 +24005,18 @@ Mission_Target1=Habla con Chaisong
 
 
 [Quest_200909]
-Name=(T) La Caída de la Cueva de Cristales
+Name=(T) La Caída de la Crystal Cavees
 Occur_String1=La situación es peor de lo que pensaba. Encontré pruebas de que los Datans han tomado la energía Pectra de Kanturu. Uno de ellos debe haber heredado el legado de Woongpam. Los Datans han estado usando la energía robada para convertir a sus seguidores Dracans en Datans.
 Occur_String2=El sucesor de Woongpam... Espero poder ver quién es ese miserable... Entonces, ¿qué planean hacer los Kanturianos al respecto?
 Occur_String3=Conociendo a Kalak, habría intentado comenzar una guerra con otros países si tú o yo le hubiéramos dado la noticia. Le pedí a Estesia, su hija, que le dijera lo que sucedió y lo convenciera de unirse a Drapia.
 Occur_String4=Entonces, tenemos que esperar y ver si ella tuvo éxito. Aprecio tus esfuerzos, amigo mío. <br>Y una cosa más. Me temo que tengo malas noticias para ti.
 Occur_String5=¿Cuáles son? Aunque no me sorprende. Últimamente no ha habido más que malas noticias.
-Occur_String6=Los Datans han ocupado la Cueva de Cristales una vez más. Sabes cómo va a ir esto. Sea lo que sea que decidan los Kanturianos, tenemos que detener la invasión de los Datans de inmediato.
-Occur_String7=Maldita sea... Eso sí que son malas noticias. Iré directamente a la Cueva de Cristales.
+Occur_String6=Los Datans han ocupado la Crystal Cavees una vez más. Sabes cómo va a ir esto. Sea lo que sea que decidan los Kanturianos, tenemos que detener la invasión de los Datans de inmediato.
+Occur_String7=Maldita sea... Eso sí que son malas noticias. Iré directamente a la Crystal Cavees.
 Occur_String8=Informaré a mis hermanos en el campamento del Garganta de Minería que esperen tu llegada. Reuniré las fuerzas y me dirigiré al Garganta de Minería yo mismo. Te deseo lo mejor allá afuera, amigo mío.
 Doing_String=Tendré que esperar aquí el mensaje del Jefe Kanturiano. Lamentablemente, no seré de mucha ayuda esta vez tampoco. Lo siento, amigo.
 Completable_String1=Escuché que venías. ¡Me complace verte de nuevo, valiente amigo!
-Complete_String=(Grupo de Misiones de Caballeros Dracans) (9/11)<br>Chaisong me dijo que los Datans han ocupado la Cueva de Cristales. Parece que han reanudado su último experimento en la cueva.
+Complete_String=(Grupo de Misiones de Caballeros Dracans) (9/11)<br>Chaisong me dijo que los Datans han ocupado la Crystal Cavees. Parece que han reanudado su último experimento en la cueva.
 List_String=(Grupo de Misiones de Caballeros Dracans) (9/11)<br>Habla con el Guerrero Zallo en el Campamento de Caballeros Dracans y discute el próximo curso de acción.
 Mission_String=Habla con el Guerrero Zallo en el Campamento de Caballeros Dracans para discutir el próximo curso de acción.
 Mission_Target1=Diálogo con el Guerrero Dracan Zallo
@@ -24024,16 +24024,16 @@ Mission_Target1=Diálogo con el Guerrero Dracan Zallo
 [Quest_200910]
 Name=(T) El Agente Secreto
 Occur_String1=¡Qué bueno verte también! ¿Te importa decirme qué está pasando aquí?
-Occur_String2=Los Datans han ocupado la Cueva de Cristales. Para más detalles, tienes que ver a uno de nuestros agentes disfrazado como un Datans.
+Occur_String2=Los Datans han ocupado la Crystal Cavees. Para más detalles, tienes que ver a uno de nuestros agentes disfrazado como un Datans.
 Occur_String3=¿Es ese el agente que conocí la otra vez?
 Occur_String4=Sí, es correcto.
 Occur_String5=¿Esos Datans están ciegos o qué? ¿Cómo es que su cobertura no ha sido descubierta todavía?
 Occur_String6=¡Es MUY bueno en eso! ¡Por eso! ¡Apresúrate, extraño!
 Doing_String=El comandante Chaisong tiene una gran fe en ti. ¡No lo decepciones, amigo mío!
 Completable_String1=¡Renacuajo!
-Complete_String=(Grupo de Misiones de Caballeros Dracans) (10/11)<br>El Guerrero Dracan Zallo me dijo que tengo que encontrar al Guerrero Dracan disfrazado de Datans para más información. Tengo que eliminar a los Datans que guardan la entrada de la Cueva de Cristales y contactar al Guerrero Dracan disfrazado.
+Complete_String=(Grupo de Misiones de Caballeros Dracans) (10/11)<br>El Guerrero Dracan Zallo me dijo que tengo que encontrar al Guerrero Dracan disfrazado de Datans para más información. Tengo que eliminar a los Datans que guardan la entrada de la Crystal Cavees y contactar al Guerrero Dracan disfrazado.
 List_String=(Grupo de Misiones de Caballeros Dracans) (10/11)<br>Elimina a los Datans y contacta al Guerrero Dracan disfrazado.
-Mission_String=Elimina a los Datans que guardan la entrada de la Cueva de Cristales y contacta al Guerrero Dracan disfrazado.
+Mission_String=Elimina a los Datans que guardan la entrada de la Crystal Cavees y contacta al Guerrero Dracan disfrazado.
 Mission_Target1=Elimina a los Datans
 
 [Quest_200911]
@@ -24050,25 +24050,25 @@ Occur_String9=Vi a un Dracan disfrazado de Datans entrar en la cueva. Lo vi a tr
 Occur_String10=Bueno, bueno, podrías estar realmente cerca de algo esta vez. Entonces, ¿viste bien al traidor?
 Doing_String=¡Tienes que asegurarte de que el comandante Chaisong sepa de mi logro, extraño!
 Completable_String1=Parece que tuviste un día agradable.
-Complete_String=(Grupo de Misiones de Caballeros Dracans) (11/11)<br>Patin, el Guerrero Dracan disfrazado de Datans, me habló de un posible traidor entre los Dracans. Si pudiera, eliminaría a todos los Datans en la Cueva de Cristales, pero primero tengo que averiguar sobre este traidor.
+Complete_String=(Grupo de Misiones de Caballeros Dracans) (11/11)<br>Patin, el Guerrero Dracan disfrazado de Datans, me habló de un posible traidor entre los Dracans. Si pudiera, eliminaría a todos los Datans en la Crystal Cavees, pero primero tengo que averiguar sobre este traidor.
 List_String=(Grupo de Misiones de Caballeros Dracans) (11/11)<br>Entrega la información de Patin a Chaisong en el Pueblo Qwyinan.
 Mission_String=Cuéntale a Chaisong en el Pueblo Qwyinan sobre la información del Guerrero Dracan disfrazado Patin.
 Mission_Target1=Habla con Chaisong
 
 
 [Quest_200921]
-Name=(T) Hacia la Cueva de Cristales
+Name=(T) Hacia la Crystal Cavees
 Occur_String1=No, aún no. <br>De todos modos, tu espía me contó una historia interesante. Sabes, el que está disfrazado de Datan.
 Occur_String2=¿Te refieres a Pakin? ¿Qué te dijo?
-Occur_String3=Dijo que hay un traidor entre los Dracans. Lo vio entrar en la Cueva de Cristales con los Datans.
+Occur_String3=Dijo que hay un traidor entre los Dracans. Lo vio entrar en la Crystal Cavees con los Datans.
 Occur_String4=¿El sucesor de Woongpam es uno de nosotros, los Dracans? <br¿El espía vio la cara del traidor?
 Occur_String5=No... Al parecer, se disfrazó.
-Occur_String6=Hm... Entonces, está claro lo que debemos hacer a continuación, amigo mío. Trabajaré con mis hermanos para encontrar al traidor entre nosotros. Y necesito que tú, amigo mío, te encargues de los Datans en la Cueva de Cristales.
+Occur_String6=Hm... Entonces, está claro lo que debemos hacer a continuación, amigo mío. Trabajaré con mis hermanos para encontrar al traidor entre nosotros. Y necesito que tú, amigo mío, te encargues de los Datans en la Crystal Cavees.
 Doing_String=Me pregunto qué experimentos están llevando a cabo en la cueva... Me estremezco solo de pensarlo.
 Completable_String1=Es un astuto, este traidor. <br>He estado tratando de encontrarlo, pero está cubriendo sus pistas bastante bien.
-Complete_String=(Misión Individual de Chaisong) (1/6)<br>La Cueva de Cristales ya había sido ocupada por Dracans mutados, es decir, Datanses. Entré en el laboratorio después de matar a Resurrected Boobalus; el heredero de Woongpam ya había abandonado el lugar.
-List_String=(Misión Individual de Chaisong) (1/6)<br>Investiga el interior de la Cueva de Cristales.
-Mission_String=Entra en la Cueva de Cristales para investigar
+Complete_String=(Misión Individual de Chaisong) (1/6)<br>La Crystal Cavees ya había sido ocupada por Dracans mutados, es decir, Datanses. Entré en el laboratorio después de matar a Resurrected Boobalus; el heredero de Woongpam ya había abandonado el lugar.
+List_String=(Misión Individual de Chaisong) (1/6)<br>Investiga el interior de la Crystal Cavees.
+Mission_String=Entra en la Crystal Cavees para investigar
 Mission_Target1=Derrota a Resurrected Boobalus
 Mission_Target2=Habla con Chaisong
 
@@ -24596,7 +24596,7 @@ Name=(T) Influencia del Efecto Negativo
 Occur_String1=Chaisong me pidió que investigara esta energía negativa que se ha esparcido por este continente desde que se destruyó el Túnel de Evil Energy.<br>Dijo que tú podrías decirme cómo detectarla.
 Occur_String2=Energía negativa... No ha llegado todavía a estas llanuras. Sin embargo, como alguien bendecido con el poder de Bulcan, he sentido que se está esparciendo por el continente.
 Occur_String3=Si deseas detectarla tú mismo, explora áreas sospechosas llevando la Piel de Bulcanus.
-Occur_String4=En mi opinión, los lugares que están más afectados por la energía negativa son...<br>las Ruinas de Wallkreiger, las Tierras Sanguinas, la Cueva de Cristal y el Campo de Prisión.
+Occur_String4=En mi opinión, los lugares que están más afectados por la energía negativa son...<br>las Ruinas de Wallkreiger, las Tierras Sanguinas, la Crystal Cave y el Campo de Prisión.
 Occur_String5=Todos no están lejos del Refugio de Guerra, donde se encontró el Túnel de Evil Energy. Es mejor que los investigue uno por uno.
 Occur_String6=
 Doing_String=Con esa Piel de Bulcanus que te di, deberías poder detectar la influencia de la energía negativa que se está esparciendo por el continente.
@@ -27126,7 +27126,7 @@ Completable_String4=Debería informarte de la honorable recompensa que recibirá
 Completable_String5=¿Talismánes que llevan los poderes de dragones grandes y poderosos así?<br>Maldita sea, no quiero parecer materialista, pero eso es realmente tentador.
 Completable_String6=No es materialista querer una recompensa de los dioses. Te han permitido tomar esta prueba y obtener la recompensa si la pasas.<br>Es natural que lo quieras.
 Complete_String=(Misión individual Kaizel/Targash) (1/6)<br>Mi prueba de los cielos es someter al corrupto Rey Dragón Kaizel y a Targash, el Dragón Espectral Incompleto. Y si la paso, recibiré Talismánes que llevan sus poderes. Sabiendo lo poderosos que son los Talismánes, definitivamente estoy interesado en este desafío. Además, no estoy haciendo nada malo. Está bien, esta vez seguiré la música de los dioses.
-List_String=(Misión individual Kaizel/Targash) (1/6)<br>En las Ruinas de Wallkreiger en el continente de Litenberg, conocí a un ángel frente al Santuario de los Caballeros Dragón. El ángel dijo que los dioses me han estado observando y decidieron que estaba calificado para tomar su prueba. Hasta ahora, los dioses no han hecho nada para hacerme gustar de ellos, pero no quiero decir que no a esto. No puedo dejar que piensen que tengo demasiado miedo para aceptar su desafío.
+List_String=(Misión individual Kaizel/Targash) (1/6)<br>En las Ruinas de Wallkreiger en el continente de Litenberg, conocí a un ángel frente al Sanctum of Dragon Knights. El ángel dijo que los dioses me han estado observando y decidieron que estaba calificado para tomar su prueba. Hasta ahora, los dioses no han hecho nada para hacerme gustar de ellos, pero no quiero decir que no a esto. No puedo dejar que piensen que tengo demasiado miedo para aceptar su desafío.
 Mission_String=Hablar sobre la prueba de los dioses
 Mission_Target1=Hablar con el Ángel
 
@@ -27136,12 +27136,12 @@ Occur_String1=La lava no puede ser contenida en un tazón de hielo. Para convert
 Occur_String2=Antes de la sumisión de los dos dragones malvados, quiero que traigas los recipientes para su poder.<br>Detrás de Rift, como lo llamas, diferentes fuerzas de diferentes puntos en el spacetime se entremezclan y chocan entre sí, rompiéndose en pedazos. Y quiero que traigas las piezas, los Fragmentos Espacio-Temporales.
 Occur_String3=Pero hay muchas Rifts. ¿Dónde exactamente puedo conseguirlos?
 Occur_String4=Las fuerzas al otro lado de Rift luchan entre sí por sobrevivir. Los Fragmentos Espacio-Temporales son el subproducto de su lucha. Puedes encontrarlos en cualquier lugar, siempre que sea al otro lado de Rift.
-Occur_String5=Los Fragmentos Espacio-Temporales, sin embargo, son atraídos por el poder de la entidad más fuerte en un lugar; para obtenerlos, primero debes deshacerte de la entidad. Estoy seguro de que no será difícil para ti: ya has sobrevivido a muchos campos de batalla al otro lado de Rift.
+Occur_String5=Los Fragmentos Espacio-Temporales, sin embargo, son atraídos por el poder de la entidad más fuerte en un lugar; para obtenerlos, primero debes deshacerte de la entidad. Estoy seguro de que no será difícil para ti: ya has sobrevivido a muchos fields de batalla al otro lado de Rift.
 Doing_String=Todos quieren poder, pero no muchos están dispuestos a pagar el precio.
 Completable_String1=Los has traído todos. Entonces es hora de que sometas a los dragones malvados y obtengas tu recompensa.<br>¿Estás listo?
 Completable_String2=Tan listo como alguna vez estaré.
 Complete_String=(Misión individual Kaizel/Targash) (2/6)<br>Los recipientes están listos. Ahora es tiempo de conseguir los ingredientes para agregar a los recipientes: los dos dragones malvados.
-List_String=(Misión individual Kaizel/Targash) (2/6)<br>Para recolectar los poderes de los dos dragones y convertirlos en Talismánes, primero tengo que encontrar los ingredientes para hacer los recipientes que contendrán sus poderes. Se llaman Fragmentos Espacio-Temporales y se encuentran al otro lado de Rift, y a veces son dejados caer por los gobernantes de los campos de batalla allí. Eso significa que estaré entrando y saliendo de Rift por un tiempo.
+List_String=(Misión individual Kaizel/Targash) (2/6)<br>Para recolectar los poderes de los dos dragones y convertirlos en Talismánes, primero tengo que encontrar los ingredientes para hacer los recipientes que contendrán sus poderes. Se llaman Fragmentos Espacio-Temporales y se encuentran al otro lado de Rift, y a veces son dejados caer por los gobernantes de los fields de batalla allí. Eso significa que estaré entrando y saliendo de Rift por un tiempo.
 Mission_String=Encontrar recipientes en Rift para contener los poderes de los dos dragones
 Mission_Target1=Recolectar Fragmentos Espacio-Temporales
 
@@ -32379,7 +32379,7 @@ Occur_String4=Sí. Son una unidad especial llamada Sombras Oscuras. <br>Estos d�
 Occur_String5=Ahora su ejército personal es más grande que las fuerzas regulares de Noria. <br>Cuando expresé mi preocupación como princesa, me confinó aquí.
 Occur_String6=Y estalló la guerra total, pero solo nombra a la unidad de élite... Algo es extraño. <br>Tendré que ir al campo de batalla yo misma. ¿Dónde invadieron los Ashas?
 Occur_String7=Ve al Aliento del Árbol del Mundo. Iris está luchando duro en el campo de batalla en mi lugar. Gracias por ayudarme una vez más.
-Occur_String8=Te has vuelto mucho más tranquila que cuando nos conocimos en la Tumba de la Reina. No estés tan triste. No te queda bien. <br>Déjame resolver esto. Solo espera aquí.
+Occur_String8=Te has vuelto mucho más tranquila que cuando nos conocimos en la Queen's Tomb. No estés tan triste. No te queda bien. <br>Déjame resolver esto. Solo espera aquí.
 Doing_String=..............
 Completable_String1=
 Completable_String2=
@@ -34675,12 +34675,12 @@ Occur_String1=De todos modos, me iré, ustedes pueden encargarse del resto por s
 Occur_String2=Entendido. Oh, y señor guerrero, ¡lo siento mucho, pero podrías hacerme un favor más en tu camino?
 Occur_String3=... ¿Qué es?
 Occur_String4=Tal vez sea inevitable que Lorensia saquee nuestras cosechas, ¡pero realmente no puedo soportar ver cómo dañan nuestra tierra, nuestra única forma de vida!
-Occur_String5=Es como si tuvieran un rencor hacia la tierra; están poniendo enormes cantidades de bolsas de sal en nuestras tierras. Si toda esa sal se esparce por los campos... ¡la tierra quedará dañada más allá de la reparación para cultivar cualquier cosa nuevamente!
+Occur_String5=Es como si tuvieran un rencor hacia la tierra; están poniendo enormes cantidades de bolsas de sal en nuestras tierras. Si toda esa sal se esparce por los fields... ¡la tierra quedará dañada más allá de la reparación para cultivar cualquier cosa nuevamente!
 Occur_String6=Bueno, eso está en mi camino. Está bien. Me ocuparé de ello.
 Occur_String7=¡Gracias, señor guerrero! Además, si te diriges a Qahanaan, te estaría muy agradecido si pudieras revisar la situación en el reservorio justo ahí arriba.
 Occur_String8=... Maldición. Está bien.
 Doing_String=Espero que los lorensianos no hayan hecho nada al reservorio... estoy preocupado...
-Complete_String=(Misión principal del reino de Drapia) (6/76)<br>Afortunadamente, pude detener la atrocidad de la alianza de nobles extendiendo sal en las tierras de los agricultores. Según las palabras del granjero que me informó sobre la atrocidad de la alianza de nobles, hay un reservorio arriba de esta granja, que contiene el agua para su agricultura durante todo el año. Considerando el atroz plan de salar los campos, también deben estar extendiendo su maldad al reservorio. Tengo que apurarme.
+Complete_String=(Misión principal del reino de Drapia) (6/76)<br>Afortunadamente, pude detener la atrocidad de la alianza de nobles extendiendo sal en las tierras de los agricultores. Según las palabras del granjero que me informó sobre la atrocidad de la alianza de nobles, hay un reservorio arriba de esta granja, que contiene el agua para su agricultura durante todo el año. Considerando el atroz plan de salar los fields, también deben estar extendiendo su maldad al reservorio. Tengo que apurarme.
 List_String=(Misión principal del reino de Drapia) (6/76)<br>Deshazte de las bolsas de sal colocadas entre las granjas y mata a las tropas de suministro traseras de la alianza de nobles en la zona.
 Mission_String=Recoge las bolsas de sal colocadas entre las granjas y mata a las tropas de suministro traseras de la alianza de nobles en la zona
 Mission_Target1=Mata a las tropas de suministro traseras de la alianza de nobles
@@ -38945,17 +38945,17 @@ Mission_Target1=Matar Seguidores Oscuros
 [Quest_2601505]
 Name=Solicitud del Mercader Desalentado
 Occur_String1=*Suspiro* Creo que no estoy hecho para ser Mercader. Tal vez llevar un negocio no sea mi verdadero llamado. Solía soñar con vivir en una gran mansión como Dumpain, pero mírame ahora. Estoy al borde de la bancarrota.
-Occur_String2=No debí haber sido tan codicioso. Quería hacerme rico de un golpe, así que me aventuré al Labyrinth Despertado de alguien y al Área Restringida 6 algo. Y, especialmente en esa Sala de Cultivo Intensivo, perdí todo lo que tenía.
-Occur_String3=(Hm, debe estar hablando del Labyrinth Despertado de Lupa, el Área Restringida 6-1 y la Sala de Cultivo Intensivo.)
+Occur_String2=No debí haber sido tan codicioso. Quería hacerme rico de un golpe, así que me aventuré al Labyrinth Despertado de alguien y al Área Restringida 6 algo. Y, especialmente en esa Intensive Cultivation Room, perdí todo lo que tenía.
+Occur_String3=(Hm, debe estar hablando del Labyrinth Despertado de Lupa, el Área Restringida 6-1 y la Intensive Cultivation Room.)
 Occur_String4=No he ganado nada vendiendo cosas. Ya no quiero hacerlo más. Solo quiero volver a casa y llevar una vida honesta, pero estoy demasiado enfadado para irme con las manos vacías.<br>Así que estaba pensando... ¿Podrías hacerme un favor, guerrero?
 Occur_String5=Te agradecería si pudieras ir donde perdí todo y acabar con los malos que están ahí. Pareces bastante fuerte. ¿Puedes con esto, verdad?<br>No tienes que ir a todos los lugares. Solo encárgate de uno de ellos.
 Occur_String6=Si encuentras mis cosas... puedes quedártelas. Ya no las necesito. Y si haces esto, también te daré todo lo que tengo conmigo. Mejor me lavo las manos de todo esto antes de irme.<br>Entonces, gracias por hacer esto, guerrero.
-Doing_String=Los lugares a los que fui se llamaban... algo así como el Labyrinth Despertado de alguien... Área Restringida 6 algo... y Sala de Cultivo Intensivo.<br>Lo siento, no recuerdo sus nombres, y no quiero hacerlo.
+Doing_String=Los lugares a los que fui se llamaban... algo así como el Labyrinth Despertado de alguien... Área Restringida 6 algo... y Intensive Cultivation Room.<br>Lo siento, no recuerdo sus nombres, y no quiero hacerlo.
 Completable_String1=Muchas gracias, guerrero. Por favor, acepta este símbolo de mi gratitud. Insisto. Si puedes darle buen uso, seré feliz.
 Complete_String=Vengué al Mercader desalentado encargándome de los maleantes que lo robaron.
-List_String=(Esta es una misión diaria de Evento que debe completarse antes de las 5:00 a.m.)<br>Debo vengar al Mercader desalentado encargándome de los maleantes que lo robaron. Creo que están en el Labyrinth Despertado de Lupa, el Área Restringida 6-1 y la Sala de Cultivo Intensivo.<br>Me da lástima, pero, con su suerte, me sorprende que siga con vida.
+List_String=(Esta es una misión diaria de Evento que debe completarse antes de las 5:00 a.m.)<br>Debo vengar al Mercader desalentado encargándome de los maleantes que lo robaron. Creo que están en el Labyrinth Despertado de Lupa, el Área Restringida 6-1 y la Intensive Cultivation Room.<br>Me da lástima, pero, con su suerte, me sorprende que siga con vida.
 Mission_String=Vengar al Mercader desalentado enfrentando a los monstruos que lo robaron
-Mission_Target1=Someter el Labyrinth Despertado de Lupa, el Área Restringida 6-1 y la Sala de Cultivo Intensivo
+Mission_Target1=Someter el Labyrinth Despertado de Lupa, el Área Restringida 6-1 y la Intensive Cultivation Room
 
 [Quest_2601401]
 Name=Tragedia en el Paraíso
@@ -40241,7 +40241,7 @@ Mission_String=Mata a los monstruos poderosos
 Mission_Target1=Mata a %s_1_1
 
 [Quest_1850]
-Name=Cadáveres esparcidos por los campos
+Name=Cadáveres esparcidos por los fields
 Complete_String=Había cadáveres esparcidos por todas partes en el camino de montaña que conducía al palacio Drapia desde la estación de comerciantes Drakan donde acababa de visitar, presumiblemente Drakans asesinados por los soldados de la alianza de los Nobles. Podía hacer una estimación aproximada del tamaño de las tropas de la alianza de los Nobles que se dirigían al palacio Drapia por las heridas y huellas alrededor de sus cadáveres.
 List_String=Investiga los cadáveres de los comerciantes Drakan esparcidos por el camino de montaña
 Mission_String=Investiga los cadáveres de los comerciantes Drakan esparcidos por el camino de montaña
@@ -40250,17 +40250,17 @@ Mission_Target1=Investiga los cadáveres de los comerciantes Drakan
 [Quest_1851]
 Name=Semilla para nuevos cultivos
 Occur_String1=Oh... ¿Cómo podríamos seguir cultivando? No solo se llevaron todas nuestras cosechas, también se llevaron la semilla para nuestra próxima cosecha. Por favor, recupera las semillas que se llevaron...
-Doing_String=Creo que puedo vislumbrar los sacos de semillas en los campos de allí. Guerrero, por favor, ten piedad de nosotros y consigue esos sacos de semillas...
+Doing_String=Creo que puedo vislumbrar los sacos de semillas en los fields de allí. Guerrero, por favor, ten piedad de nosotros y consigue esos sacos de semillas...
 Completable_String1=¡Gracias, guerrero! ¡Muchas gracias! Tu misericordia nos ha salvado a todos.
-Complete_String=El residente que conocí en la pequeña aldea Drakan me pidió que recuperara los sacos de semillas que se llevaron de la alianza de los Nobles. Encontré los sacos de semillas esparcidos por los campos frente a la casa y se los devolví al residente.
-List_String=Recoge los sacos de semillas colocados alrededor de los campos
-Mission_String=Recoge los sacos de semillas colocados alrededor de los campos
+Complete_String=El residente que conocí en la pequeña aldea Drakan me pidió que recuperara los sacos de semillas que se llevaron de la alianza de los Nobles. Encontré los sacos de semillas esparcidos por los fields frente a la casa y se los devolví al residente.
+List_String=Recoge los sacos de semillas colocados alrededor de los fields
+Mission_String=Recoge los sacos de semillas colocados alrededor de los fields
 Mission_Target1=Recoge los sacos de semillas
 
 
 [Quest_1852]
 Name=El grupo que saquea y quema habitualmente
-Occur_String1=¡Esos miserables! No sé si los has visto, pero hay unos tipos especialmente grandes y aterradores alrededor de mis campos. Los otros soldados también son un problema, pero esos nos están acosando de una manera horrible. Ah... ¡Deseo nada más que la muerte para todos ellos!
+Occur_String1=¡Esos miserables! No sé si los has visto, pero hay unos tipos especialmente grandes y aterradores alrededor de mis fields. Los otros soldados también son un problema, pero esos nos están acosando de una manera horrible. Ah... ¡Deseo nada más que la muerte para todos ellos!
 Doing_String=Oh... El guerrero sirva de ayuda... Finalmente veo un destello de esperanza...
 Completable_String1=¡Me siento tan aliviado al verte matarlos sin piedad!
 Complete_String=Al matar a los soldados de la alianza de los Nobles que saqueaban y quemaban y entregar la noticia al residente, el residente Drakan se mostró encantado.
@@ -40270,7 +40270,7 @@ Mission_Target1=Mata a los centuriones de la alianza de los Nobles
 
 [Quest_1853]
 Name=Un arma de honor
-Occur_String1=Escucha, guerrero, ¿puedes recoger las armas de los cuerpos de nuestros camaradas esparcidos por los campos? Nosotros, los Drakan, consideramos nuestras armas como parte de nuestros cuerpos, así que recogerlas se considera igual a recoger sus cadáveres.
+Occur_String1=Escucha, guerrero, ¿puedes recoger las armas de los cuerpos de nuestros camaradas esparcidos por los fields? Nosotros, los Drakan, consideramos nuestras armas como parte de nuestros cuerpos, así que recogerlas se considera igual a recoger sus cadáveres.
 Doing_String=No parece difícil para un guerrero como tú... Te lo ruego.
 Completable_String1=Ahora al menos puedo rendir homenaje a nuestros guerreros que murieron en la tristeza.
 Complete_String=El soldado Drakan que se escondía junto a la oficina de gestión del embalse me pidió que recogiera las armas de otros guerreros Drakan que murieron en la tristeza. Cuando entregué las armas recolectadas de los cuerpos de los guerreros Drakan al soldado Drakan escondido, expresó su gratitud por poder rendir homenaje a sus camaradas fallecidos.
@@ -42277,7 +42277,7 @@ Mission_Target1=Hablar con %s_1_1
 
 [Quest_100013]
 Name=Metales de vital importancia en el inframundo
-Occur_String1=El metal del inframundo que rodea el exterior de Kylops Rojo y Kylops Azul es un metal con alta afinidad con el poder mágico, por lo que puede usarse en varios campos. Por supuesto, para armaduras y espadas, así como pequeñas piezas para barcos voladores. <br>Si recoges los metales del inframundo y los traes, te recompensaremos generosamente.
+Occur_String1=El metal del inframundo que rodea el exterior de Kylops Rojo y Kylops Azul es un metal con alta afinidad con el poder mágico, por lo que puede usarse en varios fields. Por supuesto, para armaduras y espadas, así como pequeñas piezas para barcos voladores. <br>Si recoges los metales del inframundo y los traes, te recompensaremos generosamente.
 Doing_String=Por favor, trae los metales del inframundo.
 Completable_String1=Buen trabajo, Señor %s_9_1. Este metal será muy útil aquí y allá.
 Complete_String=Recogí y traje los metales del inframundo solicitados por un Mercader del Grupo Comercial Ohrdor de Kylops.
@@ -42395,11 +42395,11 @@ Mission_Target2=Tratar con la fuente de las fluctuaciones de energía
 Completable_String1=
 
 [Quest_870001]
-Name=(Diaria) Investigar el Santuario de los Caballeros Dragón en la Mazmorra
-Occur_String1=%s_9_1, ¿quieres ayudarnos en el Santuario de los Caballeros Dragón en la mazmorra?
+Name=(Diaria) Investigar el Sanctum of Dragon Knights en la Mazmorra
+Occur_String1=%s_9_1, ¿quieres ayudarnos en el Sanctum of Dragon Knights en la mazmorra?
 Doing_String=¿Se ha completado la investigación?
-Mission_String=Ayuda en la investigación del Santuario de los Caballeros Dragón en la Mazmorra.
-Mission_Target1=Investigar el Santuario de los Caballeros Dragón en la Mazmorra.
+Mission_String=Ayuda en la investigación del Sanctum of Dragon Knights en la Mazmorra.
+Mission_Target1=Investigar el Sanctum of Dragon Knights en la Mazmorra.
 Completable_String1=Gracias por ayudarnos en nuestra investigación.
 
 

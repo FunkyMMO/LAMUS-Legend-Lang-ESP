@@ -136,15 +136,9 @@ Msg_UserTrade_Not_Alive=No puedes comerciar si estás muerto.
 Msg_UserTrade_Success_Trading=Comercio completado.
 Msg_UserTrade_Slot_Full=No se pueden añadir más items.
 Msg_UserTrade_Err_User_State=El objetivo no puede comerciar en este momento.
-<<<<<<< HEAD
-Msg_UserTrade_Invaild_Update=No se pueden añadir más Items después del registro.
-Msg_UserTrade_Invalid_UseItem=No se pueden usar objetos durante el comercio.
-Msg_UserTrade_Invalid_Combat=No se pueden intercambiar objetos durante la batalla.
-=======
 Msg_UserTrade_Invaild_Update=No se pueden añadir más artículos después del registro.
 Msg_UserTrade_Invalid_UseItem=No se pueden usar items durante el comercio.
 Msg_UserTrade_Invalid_Combat=No se pueden intercambiar items durante la batalla.
->>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
 Msg_UserTrade_Invalid_Enemy=No se puede comerciar con un objetivo hostil.
 Msg_UserTrade_Invalid_Area=No se puede comerciar en esta zona.
 Msg_Community_Invalid_Alias_length=El nombre del personaje es incorrecto.
@@ -186,21 +180,12 @@ Msg_Quest_Cannot_Get_Mission_Without_Stamina_Point=No tienes suficiente energía
 Msg_Stamina_Daily_Recovery=Restauración de energía.
 Msg_Stamina_Empty=Resistencia agotada. Se aplica «Reducción de Recompensa por Monstruo».
 Msg_Stamina_Full_Of_Point=Resistencia llena. No se puede usar esta poción.
-<<<<<<< HEAD
-Msg_Item_Err_UseTime=El periodo de validez del objeto ha expirado.
-Msg_UserTrade_Not_owneded=No se pueden mover o intercambiar objetos.
-Msg_Item_Err_Owndedseal_Grade=El grado del objeto sellado no coincide.
-Msg_Item_Err_Owndedseal=Este objeto no puede volver a sellarse.
-Msg_Item_Err_Owndedseal_Durability=Este Item no puede volver a sellarse debido a su durabilidad.
-Msg_Item_Err_owneded=Este Item no se puede utilizar porque la información de encuadernación no coincide.
-=======
 Msg_Item_Err_UseTime=El periodo de validez del item ha expirado.
 Msg_UserTrade_Not_owneded=No se pueden mover o intercambiar items.
 Msg_Item_Err_Owndedseal_Grade=El grado del item sellado no coincide.
 Msg_Item_Err_Owndedseal=Este item no puede volver a sellarse.
 Msg_Item_Err_Owndedseal_Durability=Este Item no puede volver a sellarse debido a su durabilidad.
 Msg_Item_Err_owneded=Este Item no se puede utilizar porque la información de encuadernación no coincide.
->>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
 Msg_Cannt_Find_Target=No se puede encontrar el objetivo.
 Msg_Invalied_Distance=Fallo porque el objetivo está demasiado lejos.
 Msg_UserTrade_Trading=Comercio en curso.
@@ -689,13 +674,8 @@ Msg_Ranking_Bless_Err_Soul_Over=Alcanzado el máximo nivel de alma. Esta caracte
 Msg_CharSlot_Open_Success=Ranuras de personaje extendidas.
 Msg_CharSlot_Open_fail1=No hay suficientes Redzen para extender las ranuras de Personaje.
 Msg_CharSlot_Open_fail2=No hay ranuras de Personaje disponibles para ampliar.
-<<<<<<< HEAD
-Msg_LimitedExtension_Success=Extendido el periodo del objeto.
-Msg_LimitedExtension_Err_YearOver=No se pueden ampliar los periodos de los Items más allá de un año.
-=======
 Msg_LimitedExtension_Success=Extendido el periodo del item.
 Msg_LimitedExtension_Err_YearOver=No se pueden ampliar los periodos de los artículos más allá de un año.
->>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
 Msg_Additionaloption_Scroll_Err_MaxGrade=Este Desplazamiento de Pie de Imprenta no se puede utilizar para el grado de Pie de Imprenta actual.
 Msg_Field_Content_ReEnter=Ya has obtenido tu recompensa, y no puedes volver a entrar en el campo.
 Msg_Ranking_Bless_Err_Non=No hay objetivo al que felicitar.
@@ -860,13 +840,8 @@ Msg_t_stoneEnhance_result_0=Resultados de Intensificación de Piedra Trascendent
 Msg_t_stoneEnhance_result_1=%s_1 ha alcanzado el nivel de Intensificación %s_2.
 Msg_t_stoneEnhance_SuccessResult=%s_1 se ha intensificado y ha pasado a %s_2 %s_3 (+%s_4%).
 Msg_t_stoneReset_result=El nivel de Intensificación de %s_1 ha bajado a 0.
-<<<<<<< HEAD
-Msg_t_stoneReset_fail_limit=No se puede usar en objetos a los que les queda un recuento de reinicio cero.
-Msg_knightage_withdraw_failJoin_user=No puedes unirte a otro Guild hasta %s_1.
-=======
 Msg_t_stoneReset_fail_limit=No se puede usar en items a los que les queda un recuento de reinicio cero.
 Msg_knightage_withdraw_failJoin_user=No puedes unirte a otro guild hasta %s_1.
->>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
 Msg_knightage_withdraw_failJoin_group=Debido a que un gran número de miembros se han unido/abandonado tu clan, no puedes reclutar nuevos miembros durante un tiempo. (Cancelado a las 5 a.m.)
 Msg_Quest_Error_OccurCP=Esta búsqueda requiere %s_1 o más Poder de Combate.
 Msg_Err_In_Game_Event=No hay ningún evento en progreso.
@@ -874,15 +849,9 @@ Msg_Use_Item_Have_Limit=Cuenta de entradas recuperada.(Cuenta restante hoy:%s_1/
 Msg_Darkmaketer_Err_buyLimit=Este producto está agotado.
 Msg_Cannot_Get_Item_0=No puede conseguir más de este Item por hoy.
 Msg_Item_Get_Notice=%s_1 ha obtenido %s_2. ¡Enhorabuena!
-<<<<<<< HEAD
-Msg_CubeOpen_Err_ItemCount=Este objeto sólo puede abrirse cuando hay %s_1 o más huecos disponibles en el inventario.
-Msg_BoxOpen_Err_NormalBag=No hay espacio suficiente para el inventario de objetos comunes. Necesitas %s_1 o más espacio vacío para abrir.
-Msg_BoxOpen_Err_CashBag=No hay espacio suficiente en el inventario para Items de dinero. Necesita %s_1 o más espacio vacío para abrir.
-=======
 Msg_CubeOpen_Err_ItemCount=Este item sólo puede abrirse cuando hay %s_1 o más huecos disponibles en el inventario.
 Msg_BoxOpen_Err_NormalBag=No hay espacio suficiente para el inventario de items comunes. Necesitas %s_1 o más espacio vacío para abrir.
 Msg_BoxOpen_Err_CashBag=No hay espacio suficiente en el inventario para artículos de dinero. Necesita %s_1 o más espacio vacío para abrir.
->>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
 Msg_BoxOpen_Err_Type=La opción Abrir Todas las Cajas sólo está disponible para las cajas compradas en la tienda. Esta función estará disponible para todas las cajas en el futuro.
 Msg_EventShop_Err_buyLimit=Este producto está agotado.
 Msg_BoxMultiOpen_fail=Tu inventario está lleno. Ha abierto %s_1 caja(s).
@@ -1286,6 +1255,7 @@ Msg_Close_ChaosCastle=El evento Chaos Castle ha terminado.
 Msg_Mine_Message_1=¡Duende Gema Mágica derrotado! El portal a Rift oculta se ha abierto.
 Msg_Mine_Message_2=La Urdimbre de Rift es fuerte. Serás forzado al frente del portal en 30 segundos.
 Msg_Mine_Message_3=No puedes resistir la fuerza del Rift. Moviéndote hacia la entrada del portal.
+Msg_Mine_Message_4=
 
 [ItemCreate]
 Msg_ItemCreate_GainJob_Err_MaxCnt=No puedes tener 2 o más clases de crafteo.
@@ -1349,13 +1319,8 @@ Msg_Platinum_ServiceExtended=Tu periodo de Servicio Regular ha sido extendido.
 Msg_Platinum_PlusServiceApplied=Servicio Premium aplicado.
 Msg_Platinum_PlusServiceExtended=Tu periodo de Servicio Platinum ha sido extendido.
 Msg_Platinum_LevelUp=Su nivel Platinum ha aumentado.
-<<<<<<< HEAD
-Msg_Platinum_Reward=Reclamado el Item.
-Msg_Platinum_PCRoomReward=Reclamado el objeto.
-=======
 Msg_Platinum_Reward=Items reclamados.
 Msg_Platinum_PCRoomReward=Items reclamados.
->>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
 
 [MemoryImprintSystemMessage]
 Msg_Memory_Imprint_Category_Complete_Main=Categoría de Impresión de Memoria completada.

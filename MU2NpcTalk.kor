@@ -7220,7 +7220,7 @@ Mission1_2=¡Muren saltará de alegría cuando se entere de que se aprobó la op
 
 [Quest_5225]
 StartQuest1=Tomará demasiado tiempo para que los dos ejércitos se unan.
-StartQuest2=Tengo que infiltrarme en el campo de prisioneros antes de que se complete el amplificador.
+StartQuest2=Tengo que infiltrarme en el Prison Camp antes de que se complete el amplificador.
 
 [Quest_5226]
 StartQuest1=Más guardianes han escapado.
@@ -7246,7 +7246,7 @@ StartQuest1=Tengo que encontrar un amplificador de Pectra para mutar a los prisi
 
 [Quest_5240]
 StartQuest1=¡Maldita sea, no robaron solo una varita, robaron dos!
-StartQuest2=¡El Campo de Prisioneros era solo una distracción!
+StartQuest2=¡El Prison Camp era solo una distracción!
 Mission1_1=Ah, esto debe ser el Refugio de Guerra.
 
 [Quest_5241]
@@ -8038,7 +8038,7 @@ StartQuest1=La segunda hija del Gran Duque Aeon. Así que Kali tiene una competi
 StartQuest1=El cuerpo principal de Lightbringer... Espero que Iope sepa algo sobre ello.
 
 [Quest_200509]
-StartQuest1=La tumba de la Reina Lenavis...
+StartQuest1=La Queen's Tomb Lenavis...
 StartQuest2=Que la espada sea encontrada en la tumba de Lenavis, la reina que resistió las fuerzas de Pandemonium hasta el último momento.
 
 [Quest_200523]
