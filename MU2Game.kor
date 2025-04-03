@@ -2369,7 +2369,7 @@ LS_Preview_Item=Vista previa del Item
 LS_DragCamRotate=+ Arrastrar: Rotar cámara
 
 [MU2GFxTooltip_Pet]
-LS_PetInfoFormat=Nivel %s_1 +%s_2 %s_3 (%s_4)
+LS_PetInfoFormat=Tier %s_1 +%s_2 %s_3 (%s_4)
 LS_PetLevelFormat=%s_1/%s_2 (%s_3%)
 LS_PetCombatPowerFormat=Poder de Combate
 LS_PetAbilityLabel=Estadísticas básicas
@@ -5091,7 +5091,7 @@ LS_SortDropDown[1]=Por Poder
 LS_RegionFilterNone=Ver todos
 LS_HavePetNumText=Tus mascotas: %s_1
 LS_CombatPowerText=PC
-LS_LevelText=Nivel
+LS_LevelText=Tier
 LS_PossessWindowTitle=Colección / Efecto de crecimiento
 LS_SummonPetLabel=Mascota y acompañantes
 LS_GrowPetLabel=Creciendo
@@ -5123,7 +5123,7 @@ LS_btnChangeAdventureRedzen=Gasta Redzen para cambiar a otra aventura
 LS_btnChangeAdventureFree=Recibir la siguiente aventura
 LS_AlertEmptyHavePet=No tienes mascotas para invocar.
 LS_AlertEmptyHavePetSub=Las mascotas se pueden obtener de las misiones y de Fabrice Garden.
-LS_UpgradePetInfoFormat=Nivel %s_1 +%s_2 %s_3
+LS_UpgradePetInfoFormat=Tier %s_1 +%s_2 %s_3
 LS_UpgradePetCombatPowerFormat=Poder de combate %s_1
 LS_RegionLevelFormat=Etapa %s_1
 LS_RegionPetCollectFormat=(%s_1/%s_2)
