@@ -958,7 +958,7 @@ LS_LimitedBuy_19990=(Límite de compra restablecido tras %s_1 días)
 
 [MU2GFxPartyView]
 LS_DeathString=Muerte
-LS_LogOutString=Salir
+LS_LogOutString=Desconectado
 LS_CombatPower=PC
 LS_CharLevel=Nivel
 LS_SoulLevel=Nivel de alma
@@ -2875,8 +2875,8 @@ LS_PingUnBlock=Permitir Ping
 
 [MapIconName]
 MapIcon_1001=Tu personaje
-MapIcon_1002=Miembro del partido
-MapIcon_1003=Miembro del partido (muerto)
+MapIcon_1002=Miembro del party
+MapIcon_1003=Miembro del party (muerto)
 MapIcon_1004=Personaje hostil
 MapIcon_1006=Leyenda (Honor)
 MapIcon_1007=Guardián (Honor)
@@ -4282,7 +4282,7 @@ Dungeon_Desc_9059231=El altar donde Vulcano, creador de Drakans, solía entregar
 Dungeon_Title_9040368=The carnival prohibited area
 Dungeon_Desc_9040368=Un área prohibida de otro espacio-tiempo, que fue abierta por el carnaval nómada en el festival del 4º Aniversario<br><br><font color='#FF0000'>¡Precaución! Esta Dungeon es un poco fácil.</font>
 Dungeon_Title_9601901=Kaizel's greed
-Dungeon_Desc_9601901=El vasto y antiguo santuario donde el antiguo dragón Kaizel, origen de los Drakans, una vez adorado por el imperio Walkreeger como el 'rey dragón', pero que se ha sometido a la fuerza de la oscuridad y corrompido ahora, es ahora morada...<br><font color='#FDD889'>¡Precaución! Esta Dungeon tiene una dificultad muy alta, que es igual o más difícil que la antigua Kantur arca dificultad 3.<br>Toma el reto con cautela con los miembros del partido fuerte!</font>
+Dungeon_Desc_9601901=El vasto y antiguo santuario donde el antiguo dragón Kaizel, origen de los Drakans, una vez adorado por el imperio Walkreeger como el 'rey dragón', pero que se ha sometido a la fuerza de la oscuridad y corrompido ahora, es ahora morada...<br><font color='#FDD889'>¡Precaución! Esta Dungeon tiene una dificultad muy alta, que es igual o más difícil que la antigua Kantur arca dificultad 3.<br>Toma el reto con cautela con los miembros del party fuerte!</font>
 Dungeon_Title_9601601=Targash's desire
 Dungeon_Desc_9601601=Targash es el antiguo dragón que perdió el destino de convertirse en un gran ser a manos de los demonios y Garuda, y lo único que queda en él es resentimiento y odio.<br>Una terrible guarida de dragones locos que antagonizan con todo lo que está intacto.
 Dungeon_Title_9602401=The old castle famous for its cherry blossoms
@@ -4831,7 +4831,7 @@ LS_Sort=Tipo
 LS_RankNRecord=Rango y registro
 LS_Reward=Recompensa
 LS_Receive=Recibir todo
-LS_PartyMember=Miembros del partido participantes
+LS_PartyMember=Miembros del party participantes
 LS_CharView=: Ver Personaje
 LS_CombatPowerData=Poder de combate
 LS_RankData=Datos de rango
@@ -5466,7 +5466,7 @@ LS_ReqParty=Solicitud de Party
 LS_InfoWinTitle=Unirse
 LS_RecruitLabel=Mensaje de reclutamiento
 LS_RecruitClassLabel=Clase de contratación
-LS_RecruitMemberLabel=Miembros del partido
+LS_RecruitMemberLabel=Miembros del party
 LS_RecruitMemberName=Nombre del personaje
 LS_ErrorEmptyList=No se encuentran mensajes relacionados con este destino.
 LS_ErrorSortCondition=No hay mensajes que cumplan las condiciones de búsqueda.
@@ -5740,7 +5740,7 @@ LS_BattleLose=Derrota
 LS_CharName=Nombre del personaje
 LS_Class=Clase
 LS_BattlePoint=Puntos ganados
-LS_RewardItem=Recompensa<br>Item
+LS_RewardItem=Recompensa <br>Item
 LS_BattleExit=Salir
 LS_BattleExitDesc=Saldrás automáticamente de la arena después de 30 segundos.
 LS_LeagueLevelUpMsgDesc=Ganarás más recompensas a medida que tu nivel aumente.
@@ -6299,7 +6299,7 @@ LS_ProbabilityRate=Tasa: %s_1
 LS_ProbabilityRateFormat=%.2f
 
 [MU2GFxPartyAdmissionWaiting]
-LS_PartyWaitTitle=Esperando a otro(s) miembro(s) del partido.
+LS_PartyWaitTitle=Esperando a otro(s) miembro(s) del party.
 LS_PartyWaitDesc=Tras el límite de tiempo, la partida empezará independientemente de otro(s) miembro(s).
 LS_TimeLimit=Límite de tiempo
 
@@ -6578,7 +6578,7 @@ LS_QualifyNFinalHelp=Ayuda para las preliminares/finales
 LS_TournamentDominionInfo=Información territorial
 LS_RoundSchedule=Programa de Partys
 LS_RoundScheduleDesc=- Las unidades de ataque pueden zarpar 5 minutos antes de que empiecen sus partidos.<br>- Estas unidades de ataque son para el Torneo. Sus comandantes deben zarpar antes de que comiencen sus partidos.
-LS_QualifyNFinalHelpDesc=Las preliminares duran hasta 10 minutos, mientras que las finales pueden durar hasta 20 minutos. Para todos los partidos, la capacidad de los jugadores y el área del partido están sujetos a cambios en función del grado del territorio capitalino.
+LS_QualifyNFinalHelpDesc=Las preliminares duran hasta 10 minutos, mientras que las finales pueden durar hasta 20 minutos. Para todos los partidos, la capacidad de los jugadores y el área del party están sujetos a cambios en función del grado del territorio capitalino.
 LS_TotalSchedule=Programa completo
 LS_CharName=Nombre del personaje
 LS_CombatPower=Poder de Combate
@@ -6647,7 +6647,7 @@ LS_PriceDesc[3]=Puedes usar Redzen para abrir una vez más.
 LS_PriceDesc[4]=Puedes usar Contribución para abrir una vez más.
 LS_CubeTitle=Abrir cubo
 LS_CubeMsg=Item obtenido
-LS_OpenNextCube=Abrir de nuevo
+LS_OpenNextCube=Abrir otra vez
 LS_CubeClose=Cerrar (Esc)
 
 [MU2GfxGambleItemList_CashShop]
@@ -8134,7 +8134,7 @@ LS_Fail=Has perdido.
 LS_Title=Abrir Cubo
 LS_CubeOpenNum=Cubos Abiertos
 LS_CubeOpenCount=Cuento de cubos abiertos
-LS_CubeOpen=Abrir cubo (Barra espaciadora)
+LS_CubeOpen=Abrir (Barra espaciadora)
 LS_Cancel=Cancelar (Esc)
 LS_MaxCount=Máximo
 LS_Once=x1
