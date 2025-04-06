@@ -6647,7 +6647,7 @@ LS_PriceDesc[3]=Puedes usar Redzen para abrir una vez más.
 LS_PriceDesc[4]=Puedes usar Contribución para abrir una vez más.
 LS_CubeTitle=Abrir cubo
 LS_CubeMsg=Item obtenido
-LS_OpenNextCube=Abrir de nuevo
+LS_OpenNextCube=Abrir otra vez
 LS_CubeClose=Cerrar (Esc)
 
 [MU2GfxGambleItemList_CashShop]
@@ -8134,7 +8134,7 @@ LS_Fail=Has perdido.
 LS_Title=Abrir Cubo
 LS_CubeOpenNum=Cubos Abiertos
 LS_CubeOpenCount=Cuento de cubos abiertos
-LS_CubeOpen=Abrir cubo (Barra espaciadora)
+LS_CubeOpen=Abrir (Barra espaciadora)
 LS_Cancel=Cancelar (Esc)
 LS_MaxCount=Máximo
 LS_Once=x1
