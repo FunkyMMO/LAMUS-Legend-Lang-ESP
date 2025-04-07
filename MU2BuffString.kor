@@ -268,7 +268,8 @@ Buff_315000=Enhanced Attack
 Buff_316000=Enhanced Defense
 Buff_317000=Enhanced Movement Speed
 Buff_318000=Recovery
-Buff_319000=Deserter's Brand
+Buff_319000=Desertor
+Buff_319000=Desertor (AFK)
 Buff_403000=Bloody Arena of Souls Deserter
 Buff_350000=Water Elemental Energy
 Buff_351000=Lightning Elemental Energy
@@ -2512,6 +2513,7 @@ Buff_316000=Aumenta temporalmente la Defensa en un 10%.
 Buff_317000=Aumenta temporalmente la Velocidad de Movimiento un 10%.
 Buff_318000=Temporalmente restaura HP y MP.
 Buff_319000=Desactiva temporalmente el emparejamiento de mapas de misiones PvP.
+Buff_319001=Desactiva temporalmente el emparejamiento de mapas de misiones PvP.
 Buff_403000=Temporalmente te impide entrar en la Arena Sangrienta de las Almas.
 Buff_350000=La energía del Elemental Agua aumenta los HP máximos en <font color='#FE6D03'>50%</font> y la Reducción de Coste de MP en <font color='#FE6D03'>30%</font>.
 Buff_351000=La energía del Elemental Rayo aumenta el Daño Crítico en <font color='#FE6D03'>50%</font> y la Penetración de Defensa en <font color='#FE6D03'>30%</font>.
