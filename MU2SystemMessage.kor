@@ -301,6 +301,7 @@ Msg_Skill_Ordeal_Wave_Boss1=Ha aparecido un monstruo Jefe.
 Msg_Skill_Ordeal_Wave_Boss2=La Estatua del Caballero Dorado ha empezado a moverse.
 Msg_Missionmap_Cooltime=El tiempo de reutilización expira en %s_1 segundos.
 Msg_Missionmap_Cooltime_Penalty=Prohibido el ingreso durante %s_1 segundos
+Msg_Missionmap_Cooltime_Penalty_Advice=Recibirás un debuff de AFK en 10 segundos, muevete!
 Msg_Missionmap_DEATHMATCH_20_READY=¡La batalla en la Arena Sangrienta de las Almas comienza pronto!
 Msg_Missionmap_DEATHMATCH_20_START=¡La batalla en la Arena Sangrienta de las Almas ha comenzado!
 Msg_Missionmap_DEATHMATCH_20_END=La batalla en la Arena Sangrienta de las Almas ha terminado.
