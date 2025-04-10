@@ -136,15 +136,9 @@ Msg_UserTrade_Not_Alive=No puedes comerciar si estás muerto.
 Msg_UserTrade_Success_Trading=Comercio completado.
 Msg_UserTrade_Slot_Full=No se pueden añadir más items.
 Msg_UserTrade_Err_User_State=El objetivo no puede comerciar en este momento.
-<<<<<<< HEAD
-Msg_UserTrade_Invaild_Update=No se pueden añadir más Items después del registro.
-Msg_UserTrade_Invalid_UseItem=No se pueden usar objetos durante el comercio.
-Msg_UserTrade_Invalid_Combat=No se pueden intercambiar objetos durante la batalla.
-=======
 Msg_UserTrade_Invaild_Update=No se pueden añadir más artículos después del registro.
 Msg_UserTrade_Invalid_UseItem=No se pueden usar items durante el comercio.
 Msg_UserTrade_Invalid_Combat=No se pueden intercambiar items durante la batalla.
->>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
 Msg_UserTrade_Invalid_Enemy=No se puede comerciar con un objetivo hostil.
 Msg_UserTrade_Invalid_Area=No se puede comerciar en esta zona.
 Msg_Community_Invalid_Alias_length=El nombre del personaje es incorrecto.
@@ -186,21 +180,12 @@ Msg_Quest_Cannot_Get_Mission_Without_Stamina_Point=No tienes suficiente energía
 Msg_Stamina_Daily_Recovery=Restauración de energía.
 Msg_Stamina_Empty=Resistencia agotada. Se aplica «Reducción de Recompensa por Monstruo».
 Msg_Stamina_Full_Of_Point=Resistencia llena. No se puede usar esta poción.
-<<<<<<< HEAD
-Msg_Item_Err_UseTime=El periodo de validez del objeto ha expirado.
-Msg_UserTrade_Not_owneded=No se pueden mover o intercambiar objetos.
-Msg_Item_Err_Owndedseal_Grade=El grado del objeto sellado no coincide.
-Msg_Item_Err_Owndedseal=Este objeto no puede volver a sellarse.
-Msg_Item_Err_Owndedseal_Durability=Este Item no puede volver a sellarse debido a su durabilidad.
-Msg_Item_Err_owneded=Este Item no se puede utilizar porque la información de encuadernación no coincide.
-=======
 Msg_Item_Err_UseTime=El periodo de validez del item ha expirado.
 Msg_UserTrade_Not_owneded=No se pueden mover o intercambiar items.
 Msg_Item_Err_Owndedseal_Grade=El grado del item sellado no coincide.
 Msg_Item_Err_Owndedseal=Este item no puede volver a sellarse.
 Msg_Item_Err_Owndedseal_Durability=Este Item no puede volver a sellarse debido a su durabilidad.
 Msg_Item_Err_owneded=Este Item no se puede utilizar porque la información de encuadernación no coincide.
->>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
 Msg_Cannt_Find_Target=No se puede encontrar el objetivo.
 Msg_Invalied_Distance=Fallo porque el objetivo está demasiado lejos.
 Msg_UserTrade_Trading=Comercio en curso.
@@ -315,7 +300,8 @@ Msg_Skill_Ordeal_Wave_Start=Han empezado a aparecer monstruos.
 Msg_Skill_Ordeal_Wave_Boss1=Ha aparecido un monstruo Jefe.
 Msg_Skill_Ordeal_Wave_Boss2=La Estatua del Caballero Dorado ha empezado a moverse.
 Msg_Missionmap_Cooltime=El tiempo de reutilización expira en %s_1 segundos.
-Msg_Missionmap_Cooltime_Penalty=La penalización de restricción de entrada por deserción expira en %s_1 segundos.
+Msg_Missionmap_Cooltime_Penalty=Prohibido el ingreso durante %s_1 segundos
+Msg_Missionmap_Cooltime_Penalty_Advice=Recibirás un debuff de AFK en 10 segundos, muevete!
 Msg_Missionmap_DEATHMATCH_20_READY=¡La batalla en la Arena Sangrienta de las Almas comienza pronto!
 Msg_Missionmap_DEATHMATCH_20_START=¡La batalla en la Arena Sangrienta de las Almas ha comenzado!
 Msg_Missionmap_DEATHMATCH_20_END=La batalla en la Arena Sangrienta de las Almas ha terminado.
@@ -463,23 +449,23 @@ Msg_Quest_Error_OccurLevel2=Las misiones están disponibles para nivel %s_1 o su
 Msg_FindParty_Err_Write_MinLevel=No se cumple el requisito de nivel. No se puede publicar.
 Msg_FindParty_Err_Recruit_Job=Debes seleccionar al menos 1 condición de clase para reclutar.
 Msg_FindParty_Filter_NoResult=No hay puestos que cumplan las condiciones de búsqueda.
-Msg_FindParty_Err_Apply_InParty=Actualmente en un partido. No se puede solicitar.
+Msg_FindParty_Err_Apply_InParty=Actualmente en una party. No se puede solicitar.
 Msg_FindParty_Err_Write_NotMaster=Sólo un líder de Party puede publicar un mensaje de reclutamiento de Party.
-Msg_FindParty_Err_Apply_Class=No cumples las condiciones de reclutamiento del partido.
-Msg_FindParty_Apply=Solicitas unirte al partido de %s_1.
-Msg_FindParty_Apply_Sucsss=Se ha unido al partido.
+Msg_FindParty_Err_Apply_Class=No cumples las condiciones de reclutamiento del party.
+Msg_FindParty_Apply=Solicitas unirte al party de %s_1.
+Msg_FindParty_Apply_Sucsss=Se ha unido a la party.
 Msg_FindParty_Apply_Fail=Su solicitud para unirse a la party no ha sido aceptada.
 Msg_FindParty_Err_OverWrite=No se pueden enviar simultáneamente mensajes de reclutamiento y de solicitud.
 Msg_FindParty_Err_MinString=Debes introducir al menos %s_1 caracteres.
 Msg_FindParty_Err_TabooString_Search=La palabra clave introducida contiene palabras inapropiadas.
 Msg_FindParty_Err_TabooString_Write=El mensaje introducido contiene palabras inapropiadas.
 Msg_FindParty_Err_InDungeon=No se puede publicar un mensaje de reclutamiento o solicitud de party en una Dungeon.
-Msg_FindParty_DelMsg_NotMaster=Has perdido tu autoridad como líder del partido. Todos los mensajes borrados.
+Msg_FindParty_DelMsg_NotMaster=Has perdido tu autoridad como líder del party. Todos los mensajes borrados.
 Msg_FindParty_DelMsg_EnterDungeon=Has entrado en una Dungeon. Todos los mensajes han sido borrados.
 Msg_FindParty_DelMsg_JoinParty1=Te has unido a una party. Todos los mensajes de reclutamiento han sido borrados.
 Msg_FindParty_DelMsg_JoinParty2=Te has unido a una party. Todos los mensajes de solicitud de Party borrados.
 Msg_FindParty_Suggest=Invitación a party enviada a %s_1.
-Msg_FindParty_Err_Suggest_NotMaster=Sólo el líder del partido puede enviar invitaciones.
+Msg_FindParty_Err_Suggest_NotMaster=Sólo el líder del party puede enviar invitaciones.
 Msg_FindParty_Err_NotExistMsg=El mensaje ha sido borrado.
 Msg_FindParty_Err_Write_InParty=Actualmente en una party. Salga del grupo antes de utilizarlo.
 Msg_FindParty_Apply_Write=Se ha enviado un mensaje de solicitud de grupo.
@@ -689,13 +675,8 @@ Msg_Ranking_Bless_Err_Soul_Over=Alcanzado el máximo nivel de alma. Esta caracte
 Msg_CharSlot_Open_Success=Ranuras de personaje extendidas.
 Msg_CharSlot_Open_fail1=No hay suficientes Redzen para extender las ranuras de Personaje.
 Msg_CharSlot_Open_fail2=No hay ranuras de Personaje disponibles para ampliar.
-<<<<<<< HEAD
-Msg_LimitedExtension_Success=Extendido el periodo del objeto.
-Msg_LimitedExtension_Err_YearOver=No se pueden ampliar los periodos de los Items más allá de un año.
-=======
 Msg_LimitedExtension_Success=Extendido el periodo del item.
 Msg_LimitedExtension_Err_YearOver=No se pueden ampliar los periodos de los artículos más allá de un año.
->>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
 Msg_Additionaloption_Scroll_Err_MaxGrade=Este Desplazamiento de Pie de Imprenta no se puede utilizar para el grado de Pie de Imprenta actual.
 Msg_Field_Content_ReEnter=Ya has obtenido tu recompensa, y no puedes volver a entrar en el campo.
 Msg_Ranking_Bless_Err_Non=No hay objetivo al que felicitar.
@@ -728,7 +709,7 @@ Msg_Glory_Get=Obtuviste %s_1 Puntos de Honor.
 Msg_Achievement_Get=Obtuviste %s_1 Puntos de Logro.
 Msg_Party_Expel_Result_Success=%s_1 ha sido expulsado del grupo.
 Msg_Party_Expel_Result_Fail=%s_1 no ha sido expulsado de la partida.
-Msg_Party_Expel_NotExist=%s_1 ya está fuera del partido.
+Msg_Party_Expel_NotExist=%s_1 ya está fuera del party.
 Msg_Party_Expel_Result_Fail_ForState=%s_1 ha vuelto al modo Activo y no puede ser expulsado.
 Msg_CharDead_Result=Tu personaje ha muerto.
 Msg_EnemyKill=Enemigo muerto.
@@ -860,13 +841,8 @@ Msg_t_stoneEnhance_result_0=Resultados de Intensificación de Piedra Trascendent
 Msg_t_stoneEnhance_result_1=%s_1 ha alcanzado el nivel de Intensificación %s_2.
 Msg_t_stoneEnhance_SuccessResult=%s_1 se ha intensificado y ha pasado a %s_2 %s_3 (+%s_4%).
 Msg_t_stoneReset_result=El nivel de Intensificación de %s_1 ha bajado a 0.
-<<<<<<< HEAD
-Msg_t_stoneReset_fail_limit=No se puede usar en objetos a los que les queda un recuento de reinicio cero.
-Msg_knightage_withdraw_failJoin_user=No puedes unirte a otro Guild hasta %s_1.
-=======
 Msg_t_stoneReset_fail_limit=No se puede usar en items a los que les queda un recuento de reinicio cero.
 Msg_knightage_withdraw_failJoin_user=No puedes unirte a otro guild hasta %s_1.
->>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
 Msg_knightage_withdraw_failJoin_group=Debido a que un gran número de miembros se han unido/abandonado tu clan, no puedes reclutar nuevos miembros durante un tiempo. (Cancelado a las 5 a.m.)
 Msg_Quest_Error_OccurCP=Esta búsqueda requiere %s_1 o más Poder de Combate.
 Msg_Err_In_Game_Event=No hay ningún evento en progreso.
@@ -874,15 +850,9 @@ Msg_Use_Item_Have_Limit=Cuenta de entradas recuperada.(Cuenta restante hoy:%s_1/
 Msg_Darkmaketer_Err_buyLimit=Este producto está agotado.
 Msg_Cannot_Get_Item_0=No puede conseguir más de este Item por hoy.
 Msg_Item_Get_Notice=%s_1 ha obtenido %s_2. ¡Enhorabuena!
-<<<<<<< HEAD
-Msg_CubeOpen_Err_ItemCount=Este objeto sólo puede abrirse cuando hay %s_1 o más huecos disponibles en el inventario.
-Msg_BoxOpen_Err_NormalBag=No hay espacio suficiente para el inventario de objetos comunes. Necesitas %s_1 o más espacio vacío para abrir.
-Msg_BoxOpen_Err_CashBag=No hay espacio suficiente en el inventario para Items de dinero. Necesita %s_1 o más espacio vacío para abrir.
-=======
 Msg_CubeOpen_Err_ItemCount=Este item sólo puede abrirse cuando hay %s_1 o más huecos disponibles en el inventario.
 Msg_BoxOpen_Err_NormalBag=No hay espacio suficiente para el inventario de items comunes. Necesitas %s_1 o más espacio vacío para abrir.
 Msg_BoxOpen_Err_CashBag=No hay espacio suficiente en el inventario para artículos de dinero. Necesita %s_1 o más espacio vacío para abrir.
->>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
 Msg_BoxOpen_Err_Type=La opción Abrir Todas las Cajas sólo está disponible para las cajas compradas en la tienda. Esta función estará disponible para todas las cajas en el futuro.
 Msg_EventShop_Err_buyLimit=Este producto está agotado.
 Msg_BoxMultiOpen_fail=Tu inventario está lleno. Ha abierto %s_1 caja(s).
@@ -1110,7 +1080,7 @@ Msg_Party_Err_Empty_Reason=No se puede prohibir.
 Msg_Party_Err_Other_Suggest_Ban=No se puede banear por alguna razón.
 Msg_Party_Err_Limit_Suggest_Ban=No hay suficientes miembros en el grupo.
 Msg_Party_Err_Other_Request=El objetivo está demasiado ocupado para responder.
-Msg_Party_Err_Not_Exist_Leader=No hay líder del partido.
+Msg_Party_Err_Not_Exist_Leader=No hay líder del party.
 Msg_Party_Err_Not_Exist_Request=La solicitud ha sido cancelada.
 Msg_Party_Err_AllReady_Request=Alguien ha solicitado una party.
 Msg_Party_Err_AllReady_Suggest=Alguien ya ha solicitado una party.
@@ -1121,7 +1091,7 @@ Msg_Party_Err_Its_Me=No puedes enviarte una petición de party a ti mismo.
 Msg_Party_Err_Its_Party=Ya estás en una party.
 Msg_Party_Created=La party ha sido creada.
 Msg_Party_Broken=La party se ha disuelto.
-Msg_Party_Empty_Ad=Introduzca una frase publicitaria del partido.
+Msg_Party_Empty_Ad=Introduzca una frase publicitaria del party.
 Msg_Party_Refuse=Se ha cancelado la solicitud de party.
 Msg_Party_Reufsed=Se ha cancelado la solicitud de Party.
 Msg_Party_Chat_Err_NotParty=Actualmente no está en una party.
@@ -1132,7 +1102,7 @@ Msg_Party_Err_DisableInvite=Sólo el líder de la Party puede enviar invitacione
 Msg_Party_Err_DisableJoin=No se puede realizar una solicitud de Party.
 Msg_Party_Invaite=Solicitud de Party enviada a %s_1.
 Msg_Party_Join=%s_1 se ha unido a la Party.
-Msg_Party_Outed=%s_1 abandonó el partido.
+Msg_Party_Outed=%s_1 abandonó el party.
 Msg_Party_NewLeader=%s_1 se ha convertido en el nuevo líder parcial.
 Msg_Party_Dice_Result=%s_1 (Tirada: %s_2) ha obtenido %s_3. (Tu tirada: %s_4)
 Msg_Party_Dice_Give=%s_1 (Tirada: %s_2) obtenido %s_3. (Objeto cedido)
@@ -1265,9 +1235,9 @@ Msg_Field_Content_Raid_Tip6=Consejo: Después de que el monstruo Boss huya, comp
 Msg_Field_Content_Monster_Spawn1=¡Ha aparecido Gigas del Infierno cerca de la Piedra del Guardián 1!
 Msg_Field_Content_Monster_Spawn2=¡Hell Gigas ha aparecido cerca de Wardstone 2!
 Msg_Field_Content_Monster_Spawn3=¡Gigas infernal ha aparecido cerca de Wardstone 3!
-Msg_Ready_Bulcan_Colosseum=3:3 El evento de PvP cooperativo comienza en 5 minutos. Consulta la interfaz (B).
-Msg_Open_Bulcan_Colosseum=3:3 El evento de PvP cooperativo ha comenzado. Comprueba la interfaz (B).
-Msg_Close_Bulcan_Colosseum=3:3 El evento de PvP cooperativo ha terminado. Se reiniciará en 1 hora.
+Msg_Ready_Bulcan_Colosseum=PvP Competitivo comienza en 5 minutos. Consulta la interfaz (B).
+Msg_Open_Bulcan_Colosseum=PvP Competitivo ha comenzado. Comprueba la interfaz (B).
+Msg_Close_Bulcan_Colosseum=PvP Competitivo ha terminado. Se reiniciará en 1 hora.
 Msg_PVP_CP_Restriction=El evento de evento se cancela si tu poder de combate cambia. Por favor, vuelve a solicitarlo.
 Msg_PVP_Match_Start=PvP Matchmaking: Buscando oponentes adecuados...
 Msg_PVP_Match_Cancle=Matchmaking PvP cancelado.
@@ -1286,6 +1256,7 @@ Msg_Close_ChaosCastle=El evento Chaos Castle ha terminado.
 Msg_Mine_Message_1=¡Duende Gema Mágica derrotado! El portal a Rift oculta se ha abierto.
 Msg_Mine_Message_2=La Urdimbre de Rift es fuerte. Serás forzado al frente del portal en 30 segundos.
 Msg_Mine_Message_3=No puedes resistir la fuerza del Rift. Moviéndote hacia la entrada del portal.
+Msg_Mine_Message_4=
 
 [ItemCreate]
 Msg_ItemCreate_GainJob_Err_MaxCnt=No puedes tener 2 o más clases de crafteo.
@@ -1336,7 +1307,7 @@ Msg_Pet_Add_Message_Main=Obtenido %s_1.
 Msg_Pet_Add_Message_Sub=Hotkey para comprobar mascota registrada: %s_1
 Msg_Pet_LevelUp_Success=%s_1 ha subido de nivel.
 Msg_pet_slot_add_Success=Ampliación de ranura de mascota con éxito.
-Msg_pet_upgrade=%s_1 mascota subida de nivel con éxito.
+Msg_pet_upgrade=%s_1 mascota subida de tier con éxito.
 Msg_PetPoint=Obtenido %s_1 puntos de mejora de mascota.
 Msg_pet_delete_Fail=No se puede usar el menú para mascotas invocadas o camaradas.
 Msg_Pet_Add_Message=Obtenido %s_1.
@@ -1349,13 +1320,8 @@ Msg_Platinum_ServiceExtended=Tu periodo de Servicio Regular ha sido extendido.
 Msg_Platinum_PlusServiceApplied=Servicio Premium aplicado.
 Msg_Platinum_PlusServiceExtended=Tu periodo de Servicio Platinum ha sido extendido.
 Msg_Platinum_LevelUp=Su nivel Platinum ha aumentado.
-<<<<<<< HEAD
-Msg_Platinum_Reward=Reclamado el Item.
-Msg_Platinum_PCRoomReward=Reclamado el objeto.
-=======
 Msg_Platinum_Reward=Items reclamados.
 Msg_Platinum_PCRoomReward=Items reclamados.
->>>>>>> 82668db216bbc5eb845c7b0abc070802cfd99085
 
 [MemoryImprintSystemMessage]
 Msg_Memory_Imprint_Category_Complete_Main=Categoría de Impresión de Memoria completada.

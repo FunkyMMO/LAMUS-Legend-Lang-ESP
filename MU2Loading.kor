@@ -26,8 +26,8 @@ Loading_24=Puedes obtener fácilmente equipo <font color='#FFD144'>que coincida 
 Loading_25=Las Dungeons Épicas y Lupa's Labyrinth tienen un <font color='#FFD144'>límite de uso de «Resucitar Ahora»</font>. Usa las Piedras de Resurrección con cuidado
 Loading_26=¡Envía Rift a <font color='#FFD144'>Overdrive (N)</font> y consigue grandes cantidades de Gemas Mágicas!
 Loading_27=Rift, mientras está en modo <font color='#FFD144'>Overdrive (N)</font>, puede ser introducida un número ilimitado de veces
-Loading_28=Si tienes suerte, puedes encontrarte con los <font color='#FFD144'>Monstruos de la Suerte Dorada</font> en algún lugar de los campos
-Loading_29=Los Goblins de Rift dejan caer <font color='#FFD144'>Porystales conectados a la Biblioteca de Lupa</font>
+Loading_28=Si tienes suerte, puedes encontrarte con los <font color='#FFD144'>Monstruos de la Suerte Dorada</font> en algún lugar de los fields
+Loading_29=Los Goblins de Rift dejan caer <font color='#FFD144'>Porystales conectados a la Lupa's Library</font>
 Loading_30=¡No olvides usar <font color='#FFD144'>Portales de Viaje</font> y tu <font color='#FFD144'>montura</font> para viajar rápidamente por el continente!
 Loading_31=Puedes resucitar inmediatamente en tu localización usando la <font color='#FFD144'>Piedra de Resurrección de la Vida</font>
 Loading_32=Puedes vender items a una tienda haciendo <font color='#FFD144'>clic derecho</font> sobre ellos
@@ -95,10 +95,10 @@ Loading_93=Los efectos de las habilidades del Talismán <font color='#FFD144'>me
 Loading_94=A Nivel 65, pulsa Esc y comprueba la <font color='#FFD144'>Información de la Misión Diaria</font>
 Loading_95=Pulsa Esc y consulta la <font color='#FFD144'>Guía de Crecimiento</font>. Ofrece información general sobre los contenidos del juego
 Loading_96=Las Misiones Diarias te dan <font color='#FFD144'>Recompensas de la Misión Diaria</font>
-Loading_97=Todos los monstruos Jefes en <font color='#FFD144'>Biblioteca de Lupa</font> siempre sueltan Joyas de Bendición
+Loading_97=Todos los monstruos Jefes en <font color='#FFD144'>Lupa's Library</font> siempre sueltan Joyas de Bendición
 Loading_98=Ve al <font color='#FFD144'>Mercader de Misiones Diarias en Ohrdor</font> para usar la Tienda de Misiones Diarias
 Loading_99=<font color='#FFD144'>Las Recompensas de la Misión Diaria</font> pueden ser usadas para comprar una variedad de items
-Loading_100=Los Goblins de Rift dejan caer <font color='#FFD144'>Porystales conectados a la Biblioteca de Lupa</font>
+Loading_100=Los Goblins de Rift dejan caer <font color='#FFD144'>Porystales conectados a la Lupa's Library</font>
 Loading_101=Usa <font color='#FFD144'>Restablecer Opciones</font> para cambiar las opciones de los items
 Loading_102=Puedes conseguir <font color='#FFD144'>Fragmentos de Piedra Trascendente</font> reciclando equipo, los Fragmentos se usan para fabricar <font color='#FFD144'>Piedras Trascendentes</font>
 Loading_103=<font color='#FFD144'>Las Piedras Trascendentes</font> pueden ser <font color='#FFD144'>encantadas</font> con <font color='#FFD144'>Piedras de Intensificación</font>. Las Piedras Trascendentes encantadas añaden <font color='#FFD144'>efectos de Trascendencia</font> al equipo
@@ -273,7 +273,7 @@ Scenario_38=Los Garudas perdieron sus tierras tras una serie de derrotas continu
 Scenario_39=Ciudad Tempano es un importante centro que conecta el Continente Duelden con otros continentes
 Scenario_40=Rift es el paso a otras dimensiones inexploradas
 Scenario_41=Lupa, de la Sociedad de Investigación de Rift Arke, puede romper dimensiones artificialmente para crear Rifts
-Scenario_42=La Biblioteca de Lupa es una Rift creada en la mente de Lupa
+Scenario_42=La Lupa's Library es una Rift creada en la mente de Lupa
 Scenario_43=Los Depredadores de Rift en el laberinto tienen una poderosa energía de Rift que se condensó con el tiempo
 Scenario_44=Puedes encontrarte con seres completamente diferentes de distintas dimensiones a través de Rift
 Scenario_45=Una exposición prolongada a la Urdimbre de Rift puede causar mutaciones en tu cuerpo y mente
@@ -335,12 +335,12 @@ Scenario_100=Dudrin es un dominio donde Humanos y Enanos viven en armonía
 Scenario_101=La Misión Oscura es un culto que venera la magia negra
 Scenario_102=Titan posee el poder capaz de destruir un solo continente
 Scenario_103=La magia negra es la magia de las tinieblas que resucita a los muertos
-Scenario104=Hace 200 años, Sekneum, el gobernante de Pandemonium, dirigió su ejército de Demonios para invadir el Continente MU
+Scenario_104=Hace 200 años, Sekneum, el gobernante de Pandemonium, dirigió su ejército de Demonios para invadir el Continente MU
 Scenario_105=La «Atribución de la Destrucción» expulsada por Akneria desarrolló una autoconciencia y se autodenominó Sekneum
 Scenario_106=La Aldea de Qwyinan es una ciudad situada en las afueras del Reino de Drapia
 Scenario_107=Reino Wallkreiger es un antiguo reino Dracano que colapsó durante la Guerra de los Tres Años
 Scenario_108=Sanguine Highlands fue el campo de batalla más feroz durante la Guerra de los Tres Años, donde la sangre de los soldados empapó la tierra
-Scenario_109=La Cueva de Cristal es la única mina que produce cristales con un 100% de pureza
+Scenario_109=La Crystal Cave es la única mina que produce cristales con un 100% de pureza
 Scenario_110=Los Gavilanes Plateados son el grupo de investigación de ruinas del Reino de Mediah
 Scenario_111=El Campo de Prisión es donde los prisioneros del ejército de Pandemónium fueron mantenidos cautivos durante la Guerra de los Tres Años
 Scenario_112=Linda es la nieta de Cerberus, héroe de la Guerra de los Tres Años
