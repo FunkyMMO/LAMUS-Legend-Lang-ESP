@@ -35892,21 +35892,21 @@ Doing_String=¡Por favor, ten cuidado en tu misión! Intenta no lastimarte.
 Complete_String=He encontrado la primera Joya Sagrada en el Rift en Weiss Basin en el Continente Enova. Ahora estoy buscando en los Rifts de otros continentes la segunda Joya Sagrada.
 List_String=Recoge Gemas Sagradas en los Rifts a través del Continente MU, y visita a Kundun en Ohrdor.
 Mission_String=Encuentra la primera Joya Sagrada en el Rift en Weiss Basin en el Continente Enova.
-Mission_Target1=Obtener la Joya de la Vida
+Mission_Target1=Obtener Jewel of Life
 
 [Quest_200004]
 Name=Joya de Protección
 Complete_String=He encontrado la segunda Joya Sagrada en el Rift en Karolsandria en el Continente Duelden. Ahora estoy buscando en los Rifts de otros continentes la tercera Joya Sagrada.
 List_String=Encuentra las Joyas Sagradas en los Rifts en todo el Continente MU, y luego ve a Kundun en Ohrdor.
 Mission_String=Encuentra la segunda Joya Sagrada en el Rift en Karolsandria en el Continente Duelden.
-Mission_Target1=Obtener la Joya de Protección
+Mission_Target1=Obtener Jewel of Protection
 
 [Quest_200005]
 Name=Joya de Armonía
 Complete_String=He encontrado la tercera Joya Sagrada en el Rift en el Refugio de Guerra en el Continente Litenberg. Ahora estoy buscando en los Rifts de otros continentes la cuarta Joya Sagrada.
 List_String=Encuentra las Joyas Sagradas en los Rifts en todo el Continente MU, y luego ve a Kundun en Ohrdor.
 Mission_String=Encuentra la tercera Joya Sagrada en el Rift en el Refugio de Guerra en el Continente Litenberg.
-Mission_Target1=Obtener la Joya de Armonía
+Mission_Target1=Obtener Jewel of Harmony
 
 [Quest_200006]
 Name=Joya de Creación
@@ -35914,7 +35914,7 @@ Completable_String1=Ha pasado un tiempo. Esa niña a la que enviaste me contó l
 Complete_String=He encontrado la cuarta Joya Sagrada en el Rift en el Aliento del Árbol del Mundo en el Continente Noria. Ahora debo volver al archimago Kundun en Ohrdor y pedirle que rompa el sello sobre mi collar.
 List_String=Encuentra las Joyas Sagradas en los Rifts en todo el Continente MU, y luego ve a Kundun en Ohrdor.
 Mission_String=Encuentra la cuarta Joya Sagrada en el Rift en el Aliento del Árbol del Mundo en el Continente Noria.
-Mission_Target1=Obtener la Joya de Creación
+Mission_Target1=Obtener Jewel of Creation
 Mission_Target2=Hablar con Kundun en Ohrdor
 
 
