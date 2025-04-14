@@ -81,8 +81,8 @@ Artifact_2301_40=Efecto del paso 40@Cuando se use la habilidad 5 veces, causa un
 Artifact_2401_40=Efecto del paso 40@Cuando se use la habilidad 5 veces, causa una explosión de energía espacio-temporal que causa 2000% de daño de ataque.<br>(Recarga 5 segundos)
 Artifact_2300_Desc=La corrupción no es un concepto simple de 'volverse malo.' Significa 'perder la esencia.' Si un demonio hiciera una buena acción desde el corazón, ¿podemos seguir llamándolo demonio?<br><font color='#FDC243'><br>
 Artifact_2400_Desc=Un viajero... Eso podría sonar bien. La verdad tiene un rostro horrendo<br> - Un investigador de espacio-tiempo que pasó<br><br>
-Artifact_2301_Desc=Al final, no pude agarrar ni un solo puñado de esperanza. La oscuridad me ha devorado, pero ya no tengo fuerzas para resistir, ni pude encontrar una razón para hacerlo. Por el contrario... Si aceptas todo esto...<br> - Víctima del espacio-tiempo<br><br><font color='#FDC243'>Todos los efectos de los 100 pasos de la artefacto se aplican a la artefacto Awakened.</font><br><br>
-Artifact_2401_Desc=Tus valores, todos tus logros, posiblemente incluso tú mismo podrías ser borrado. ¿Aún deseas la verdad?<br>- El llamado liberador encontrado en la distorsión del espacio-tiempo<br><br><font color='#FDC243'>Todos los efectos de los 100 pasos de la artefacto se aplican a la artefacto Awakened.</font><br><br>
+Artifact_2301_Desc=Al final, no pude agarrar ni un solo puñado de esperanza. La oscuridad me ha devorado, pero ya no tengo fuerzas para resistir, ni pude encontrar una razón para hacerlo. Por el contrario... Si aceptas todo esto...<br> - Víctima del espacio-tiempo<br><br><font color='#FDC243'>Todos los efectos de los 100 niveles del artefacto se aplican al Artefacto Awakened. </font><br><br>
+Artifact_2401_Desc=Tus valores, todos tus logros, posiblemente incluso tú mismo podrías ser borrado. ¿Aún deseas la verdad?<br>- El llamado liberador encontrado en la distorsión del espacio-tiempo<br><br><font color='#FDC243'>Todos los efectos de los 100 niveles del artefacto se aplican al Artefacto Awakened. </font><br><br>
 
 [FormulaValue]
 Cal_Type_1=2,50

@@ -1743,7 +1743,7 @@ LS_Dungeon_MissionMap=Eventos
 LS_Dungeon_General=Dungeon normal
 LS_Dungeon_Epic=Dungeon épica
 LS_Dungeon_Adv=Rift
-LS_AltarOfElements_Title=Altar Of Elements
+LS_AltarOfElements_Title=Altar of Elements
 LS_AltarOfElements_Desc0=Consigue 3.000 puntos dentro del tiempo límite.
 LS_AltarOfElements_Desc1=Recompensas por ganar: Items y puntos de honor.
 LS_AltarOfElements_Desc2=Los altares con antiguos espíritus sellados en su interior pueden encontrarse por todo el continente de MU. Estas zonas están siempre abarrotadas de aquellos que codician los inmensos poderes mágicos de los espíritus.
@@ -1941,19 +1941,19 @@ lsMsgCollectionSuccess=¡Reunida con éxito!
 lsMsgCollectionFail=Fallo en la recogida.
 lsMsgMissionMatchEnterMessage=Entrarás automáticamente en %s_1  segundos.
 lsMsgMissionMatchCancelBtn=Cancelar
-lsMsgMissionMapSuccess=¡Ganado!
-lsMsgMissionMapFail=Perdido
+lsMsgMissionMapSuccess=¡Victoria!
+lsMsgMissionMapFail=Derrota
 lsMsgMissionMapDraw=Empate
 lsMsgMissionMapReady=La batalla comienza en %s_1  segundos.
 lsMsgMissionMapStartMain=Conquista los altares y repele a los enemigos.
 lsMsgMissionMapStartSub=¡La batalla ha comenzado!
-lsMsgMissionMapBoss=Esencia Manchada
-lsMsgMissionMapSpawnBossReady=La energía de la Esencia Manchada se está reuniendo en el centro del altar.
-lsMsgMissionMapSpawnBoss=La Esencia Manchada ha aparecido en el centro del altar.
-lsMsgMissionMapTeamA=Equipo A
-lsMsgMissionMapTeamB=Equipo B
+lsMsgMissionMapBoss=Espiritu corrompido
+lsMsgMissionMapSpawnBossReady=La energía del espiritu corrompido se está reuniendo en el centro del altar.
+lsMsgMissionMapSpawnBoss=El espiritu corrompido ha aparecido en el centro del altar.
+lsMsgMissionMapTeamA=Azul
+lsMsgMissionMapTeamB=Rojo
 lsMsgMissionMapKillBoss=Muerto
-lsMsgMissionMapOccupation=Conquistar
+lsMsgMissionMapOccupation=Conquistó
 lsMsgChaosCatle_Win=¡Has sobrevivido al Chaos Castle!
 lsMsgChaosCatle_Lose=Has muerto.
 lsMsgChaosCatle_Rank=Rango
@@ -2062,24 +2062,24 @@ AreaLevelString=Nivel de área recomendado
 LS_Channel=Canal
 
 [MU2GFxMissionMapScoreWidget]
-LS_AltarFire=Altar de fuego
-LS_AltarWater=Altar de agua
-LS_AltarEarth=Altar de tierra
-LS_AltarWind=Altar viento
+LS_AltarFire=Fuego
+LS_AltarWater=Agua
+LS_AltarEarth=Tierra
+LS_AltarWind=Viento
 LS_OccupationNone=Neutral
-LS_OccupationATeam=Ocupado por el equipo A
-LS_OccupationBTeam=Ocupado por el equipo B
+LS_OccupationATeam=Azul
+LS_OccupationBTeam=Rojo
 LS_OccupationFight=Indeciso
 LS_RemainTime=Tiempo restante
 LS_RemainPlayer=Jugadores restantes
-LS_ATeamName=Equipo A
-LS_BTeamName=Equipo B
+LS_ATeamName=Azul
+LS_BTeamName=Rojo
 
 [MU2GFxMissionMapScoreBoard]
 LS_ScoreTitle=Puntuación
 LS_ResultTitle=Resultados
-LS_ATeamName=Equipo A
-LS_BTeamName=Equipo B
+LS_ATeamName=Azul
+LS_BTeamName=Rojo
 LS_TeamMemberNum=%s_1
 LS_RemainedTime=(Tiempo restante: mm m ss s)
 LS_MatchMap=Eventos
@@ -2089,14 +2089,14 @@ LS_EndTime=Hora de finalización
 LS_EndTimeFormat=DD, MM, YY
 LS_RewardItem=Item de recompensa
 LS_QuickButton=Salir del evento
-LS_KillPoint=Puntos de vida
-LS_AssistPoint=Puntos de ayuda
-LS_OccupationPoint=Puntos de conquista
-LS_ScorePoint=Puntuación MVP
-LS_CharName=Nombre del personaje
+LS_KillPoint=Asesinatos
+LS_AssistPoint=Asistencias
+LS_OccupationPoint=Conquista
+LS_ScorePoint=MVP
+LS_CharName=Nombre
 LS_ClassName=Clase
 LS_GoalScore=Puntos de objetivo
-LS_MissionMapName=Altar de los Espíritus
+LS_MissionMapName=Altar of Elements
 LS_Goal=Conquista
 LS_SuccessMessage=¡Ganado!
 LS_FailMessage=Perdido
@@ -6889,7 +6889,7 @@ Probabilidad de encantamiento de piedra inteligente[4]=x 3
 [MU2GFxTournamentApplyResult]
 LS_UITitle=¡Admitido al torneo!
 LS_UITleFail=¡Solicitud fallida!
-LS_UIHelpTooltip=<font color='#ffff00'>Preliminares: Campo de batalla celeste</font><br>Elimina a los enemigos o destruye los cristales que aparecen aquí y allá en el mapa para conseguir los puntos de objetivo El combate termina en 10 minutos.<br><br><font color='#ffff00'>Finales: Altar de los Espíritus</font><br>Elimina a los enemigos u ocupa el altar para conseguir los puntos de objetivo.El combate termina en 20 minutos. Este campo de batalla requiere un juego más estratégico que el mapa Preliminar.
+LS_UIHelpTooltip=<font color='#ffff00'>Preliminares: Campo de batalla celeste</font><br>Elimina a los enemigos o destruye los cristales que aparecen aquí y allá en el mapa para conseguir los puntos de objetivo El combate termina en 10 minutos.<br><br><font color='#ffff00'>Finales: Altar of Elements</font><br>Elimina a los enemigos u ocupa el altar para conseguir los puntos de objetivo.El combate termina en 20 minutos. Este campo de batalla requiere un juego más estratégico que el mapa Preliminar.
 LS_RoundSchedule=Programa del partido
 LS_RoundInfo=Información del partido
 LS_SuccessOK=Cerrar
@@ -7746,9 +7746,9 @@ LS_Immediately=Al conectarse
 LS_ThirtyMinutes=30 m
 LS_OneHour=1 h
 LS_ExitBtn=Cerrar (Esc)
-LS_BronzeBuffToolTipText=<font color='#FDC243'>Salud de Djukan</font></b><br><font color='#999999'>botón activado al conectarse al juego¶presiona el botón para adquirir el efecto de buff. </font>¶La EXP de artefacto Awakened aumenta en <font color='#1CFD2D'>200%</font> dentro del laberinto<br>La EXP de alma aumenta en <font color='#1CFD2D'>100%</font> <br>La velocidad de movimiento aumenta en <font color='#1CFD2D'>5%</font> <br><font color='#999999'>el efecto dura 20 minutos.</font>
+LS_BronzeBuffToolTipText=<font color='#FDC243'>Salud de Djukan</font></b><br><font color='#999999'>botón activado al conectarse al juego¶presiona el botón para adquirir el efecto de buff. </font>¶La EXP de artefacto Awakened aumenta en <font color='#1CFD2D'>200%</font> dentro del laberinto<br>La EXP de alma aumenta en <font color='#1CFD2D'>100%</font> <br>La velocidad de movimiento aumenta en <font color='#1CFD2D'>5%</font> <br><font color='#999999'>El efecto dura 20 minutos.</font>
 LS_SilverBuffToolTipText=<font color='#FDC243'>Apoyo de Jonathan</font></b><br><font color='#999999'>botón activado 30 minutos después de conectarte al juego¶presiona el botón para adquirir el efecto de mejora. </font>¶La EXP de artefacto Awakened aumenta un <font color='#1CFD2D'>350%</font> dentro del laberinto<br>La EXP de alma aumenta un <font color='#1CFD2D'>150%</font> <br>La velocidad de movimiento aumenta un <font color='#1CFD2D'>10%</font> <br><font color='#999999'>efecto dura 20 minutos.</font>
-LS_GoldBuffToolTipText=<font color='#FDC243'>Gracia de Kundun</font></b><br><font color='#999999'>botón activado 1 hora después de conectarse al juego¶presiona el botón para adquirir el efecto de mejora. </font>¶La EXP de artefacto Awakened aumenta en <font color='#1CFD2D'>500%</font> <br>La EXP de alma aumenta en <font color='#1CFD2D'>200%</font> <br>La velocidad de movimiento aumenta en <font color='#1CFD2D'>15%</font> <br><font color='#999999'>el efecto dura 20 minutos.</font>
+LS_GoldBuffToolTipText=<font color='#FDC243'>Gracia de Kundun</font></b><br><font color='#999999'>botón activado 1 hora después de conectarse al juego¶presiona el botón para adquirir el efecto de mejora. </font>¶La EXP de artefacto Awakened aumenta en <font color='#1CFD2D'>500%</font> <br>La EXP de alma aumenta en <font color='#1CFD2D'>200%</font> <br>La velocidad de movimiento aumenta en <font color='#1CFD2D'>15%</font> <br><font color='#999999'>El efecto dura 20 minutos.</font>
 LS_RewardBuff[0]=Animo de Dukan
 LS_RecompensaBuff[1]=Apoyo de Jonathan
 LS_RecompensaBuff[2]=Bendición de Kundun
@@ -8551,7 +8551,7 @@ LS_ItemCount=%s_1 / %s_2
 LS_RewardExit=Reclamar y salir
 LS_WebOfGodClosed=Los pasillos se han cerrado.
 LS_WebOfGodDesc=Las recompensas se clasifican según tus Kill Points. Cuando se libere el espaciotiempo, se enviará a tu buzón la recompensa correspondiente a tu rango.
-LS_KillPoint=Puntos de vida
+LS_KillPoint=Asesinatos
 LS_LimitTime=Límite de tiempo
 LS_WebOfGodTitle=Empezar a luchar
 LS_WebOfGodSubTitle=Los refuerzos empiezan a moverse para detectar sustancias extrañas.<br>¡Deprisa! ¡No queda mucho tiempo!
