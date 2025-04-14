@@ -5340,7 +5340,7 @@ LS_ProtectedTicket_Description=Para usar Billetes de Salvaguardia, haga clic en 
 [MU2GFxDamageReportView]
 LS_DamageReportString=Informe de DPS
 LS_DetailInfoString=Detalles
-LS_NotifyMessage=Resultados de batalla.
+LS_NotifyMessage=Resultados de batalla
 LS_OpenDialogCheckBoxString=Ver informe de DPS al salir de Dungeons
 
 [MU2GFxDamageReport_DamageReport]
