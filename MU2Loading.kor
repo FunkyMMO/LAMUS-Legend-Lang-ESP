@@ -24,15 +24,15 @@ Loading_22=<font color='#FFD144'>Las Gemas Mágicas</font> se usan para encantar
 Loading_23=El nivel del monstruo en Rift coincide con el del miembro del grupo con el <font color='#FFD144'>nivel más alto</font>
 Loading_24=Puedes obtener fácilmente equipo <font color='#FFD144'>que coincida con tu nivel</font> en Rift
 Loading_25=Las Dungeons Épicas y Lupa's Labyrinth tienen un <font color='#FFD144'>límite de uso de «Resucitar Ahora»</font>. Usa las Piedras de Resurrección con cuidado
-Loading_26=¡Envía Rift a <font color='#FFD144'>Overdrive (N)</font> y consigue grandes cantidades de Gemas Mágicas!
-Loading_27=Rift, mientras está en modo <font color='#FFD144'>Overdrive (N)</font>, puede ser introducida un número ilimitado de veces
+Loading_26=¡Envía Rift a <font color='#FFD144'>Sobrecarga (N)</font> y consigue grandes cantidades de Gemas Mágicas!
+Loading_27=Rift, mientras está en modo <font color='#FFD144'>Sobrecarga (N)</font>, puede ser introducida un número ilimitado de veces
 Loading_28=Si tienes suerte, puedes encontrarte con los <font color='#FFD144'>Monstruos de la Suerte Dorada</font> en algún lugar de los fields
 Loading_29=Los Goblins de Rift dejan caer <font color='#FFD144'>Porystales conectados a la Lupa's Library</font>
 Loading_30=¡No olvides usar <font color='#FFD144'>Portales de Viaje</font> y tu <font color='#FFD144'>montura</font> para viajar rápidamente por el continente!
 Loading_31=Puedes resucitar inmediatamente en tu localización usando la <font color='#FFD144'>Piedra de Resurrección de la Vida</font>
 Loading_32=Puedes vender items a una tienda haciendo <font color='#FFD144'>clic derecho</font> sobre ellos
 Loading_33=Puedes obtener materiales de crafteo <font color='#FFD144'>reciclando</font> equipo innecesario
-Loading_34=Puedes <font color='#FFD144'>dismantelar items</font> a través de comerciantes de armas o armaduras
+Loading_34=Puedes <font color='#FFD144'>desmantelar items</font> a través de comerciantes de armas o armaduras
 Loading_35=Atacar mientras pulsas la <font color='#FFD144'>tecla Mayús</font> hará que <font color='#FFD144'>mantengas tu posición</font> durante los ataques
 Loading_36=Atacar mientras pulsas la <font color='#FFD144'>tecla Mayús</font> hará que <font color='#FFD144'>mantengas tu posición</font> durante los ataques
 Loading_37=Puedes hablar con los NPCs usando la <font color='#FFD144'>Tecla Universal (Espacio)</font>
@@ -56,11 +56,11 @@ Loading_54=<font color='#FFD144'>Los items establecidos o mejores</font> no pued
 Loading_55=<font color='#FFD144'>Pasar el ratón + Ctrl</font> sobre el icono del item activa la función <font color='#FFD144'>Vista Previa</font>
 Loading_56=En la Arena IA, puedes conseguir hasta 30.000 <font color='#FFD144'>Gemas Mágicas</font> al día
 Loading_57=<font color='#FFD144'>Los Sellos de Poder</font> que se encuentran en la Endless Tower pueden usarse para comprar Piedras de Encantamiento/Evolución de Alas
-Loading_58=Los niveles de monstruos y dificultad aumentan <font color='#FFD144'>grandiosamente</font> en <font color='#FFD144'>Modo Mítico</font>
+Loading_58=Los niveles de monstruos y dificultad aumentan <font color='#FFD144'>considerablemente</font> en <font color='#FFD144'>Modo Mítico</font>
 Loading_59=Puedes abrir muchos cubos a la vez a través de la función <font color='#FFD144'>Abrir Todos los Cubos</font>
-Loading_60=Utiliza <font color='#FFD144'>Buscar Partida (P)</font> y <font color='#FFD144'>Acertar Partida Automáticamente</font> para encontrar una partida fácilmente
+Loading_60=Utiliza <font color='#FFD144'>Buscar Partida (P)</font> y <font color='#FFD144'>Aceptar Partida Automáticamente</font> para encontrar una partida fácilmente
 Loading_61=Cuando <font color='#FFD144'>subas</font> las alas a nivel 10, podrás <font color='#FFD144'>evolucionarlas</font>
-Loading_62=Hay <font color='#FFD144'>Mascotas invocadas</font> y <font color='#FFD144'>Mascotas camaradas</font>. Es bueno hacer Mejorar ambos tipos de mascotas
+Loading_62=Hay <font color='#FFD144'>Mascotas invocadas</font> y <font color='#FFD144'>Mascotas camaradas</font>. Es bueno mejorar ambos tipos de mascotas
 Loading_63=Cuantas más mascotas tengas, más beneficios tendrás (<font color='#FFD144'>Efectos de las mascotas camaradas, bonus de Poder de Combate, etc.</font>)
 Loading_64=Si estás en un lugar inaccesible, puedes usar <font color='#FFD144'>Escape de Emergencia</font> para moverte a la entrada del mapa
 Loading_65=Cada <font color='#FFD144'>Cubo</font> puede generar un item hasta 3 veces. ¿Y adivina qué? ¡La primera vez es gratis!
@@ -314,7 +314,7 @@ Scenario_79=El Reino de Lorencia es el reino más poderoso del Continente MU
 Scenario_80=Ashas es un país religioso gobernado por el Rey Papa
 Scenario_81=Las fuerzas regulares de Drapia se llaman Guerreros Dracanos, y los caballeros se llaman Caballeros Dracanos
 Scenario_82=Los Fantasmas de la Sombra son los caballeros reales del Reino de Noria
-Scenario_83=El ejército regular del Reino de Lorencia se llama Ejército Real de Lorencia, y los caballeros se llaman Caballeros Devias
+Scenario_83=El ejército regular del Reino de Lorencia se llama Ejército Real de Lorencia, y los caballeros se llaman Caballeros de Devias
 Scenario_84=Muren es el capitán de los Caballeros Devias, los Caballeros Reales del Reino de Lorencia
 Scenario_85=Kali es la sucesora del Ducado de Tephakin
 Scenario_86=Iris es el líder de Shadow Phantom, los caballeros reales del Reino de Noria
