@@ -521,8 +521,8 @@ LS_Title_98=Tienda
 LS_ShopDesc_98=Las compras diarias se reinician cada día a las 5:00 a.m.
 LS_BuyCount_98=Compras diarias
 LS_NoLimit_98=Sin límite
-LS_TokenCount_98=Fichas de luchador
-LS_ToolTipText_98=<b><font color='#FDC243'>Prueba de espíritu</font></b><br>Disponible participando en contenidos PVP.
+LS_TokenCount_98=Fighter's Token
+LS_ToolTipText_98=<b><font color='#FDC243'>Fighter's Token</font></b><br>
 LS_Title_9503=Tienda del evento
 LS_ShopDesc_9503=Esta tienda sólo abre durante un periodo de evento.
 LS_BuyCount_9503=Límite de compra
@@ -612,8 +612,8 @@ LS_Title_109=Tienda de Chaos Castle
 LS_ShopDesc_109=Tu cuenta de compras diaria se reinicia cada día a las 5:00 a.m.
 LS_BuyCount_109=Límite de compra
 LS_NoLimit_109=Ilimitado
-LS_TokenCount_109=Espíritu de Lucha
-LS_ToolTipText_109=<b><font color='#FDC243'>Ticket de Espíritu de Lucha</font></b><br>Se puede conseguir jugando en el Chaos Castle.
+LS_TokenCount_109=Chaos Castle Token
+LS_ToolTipText_109=<b><font color='#FDC243'>Chaos Castle Token</font></b><br>Se puede conseguir jugando en el Chaos Castle.
 LS_LimitedBuy_109=(Se reinicia en %s_1 d)
 LS_Title_143=Tienda del Paraíso de las ranas
 LS_ShopDesc_143=Esta tienda sólo abre durante un periodo de evento.
@@ -794,8 +794,8 @@ LS_Title_110=Tienda
 LS_ShopDesc_110=La hora de reinicio de las compras diarias es 05:00
 LS_BuyCount_110=Límite de compra diario
 LS_NoLimit_110=Sin límites
-LS_TokenCount_110=Proof of war god
-LS_ToolTipText_110=<b><font color='#FDC243'>Proof of war god</font></b><br>Disponible al participar en la batalla cooperativa.
+LS_TokenCount_110=Proof of War God
+LS_ToolTipText_110=<b><font color='#FDC243'>Proof of War God</font></b><br>Disponible al participar en la batalla cooperativa.
 LS_Title_106=Tienda de misión diaria
 LS_ShopDesc_106=Tienda de misión diaria.
 LS_BuyCount_106=Límite de compra
@@ -2087,7 +2087,7 @@ LS_MatchType=Tipo de evento
 LS_PlayedTime=Tiempo de juego
 LS_EndTime=Hora de finalización
 LS_EndTimeFormat=DD, MM, YY
-LS_RewardItem=Item de recompensa
+LS_RewardItem=Reward
 LS_QuickButton=Salir del evento
 LS_KillPoint=Asesinatos
 LS_AssistPoint=Asistencias
