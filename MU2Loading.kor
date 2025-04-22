@@ -226,10 +226,10 @@ Loading_224=Cuando Liberación del Espaciotiempo esté activada, todos los perso
 Loading_225=¡Por favor, ahuyenta a los monstruos del famoso lugar de los cerezos en flor, para que la gente de Ohrdor pueda disfrutar del Festival de los Cerezos en Flor!
 Loading_226=¡Cuando termines de ahuyentar a los monstruos, asegúrate de recoger los regalos de agradecimiento de varias personas!
 Loading_227=Entre los visitantes del famoso lugar de los cerezos en flor hay un espadachín que vino buscando a su amigo. Habla con este espadachín para conseguir la siguiente pista del evento
-Loading_228=<font color='#FFD144'>La defensa del avión</font> solo puede ser desafiada por guardianes de <font color='#FFD144'>Lv. 80</font> y superiores
-Loading_229=<font color='#FFD144'>La Airship Defense</font> puede ser desafiada en <font color='#FFD144'>Ohrdor - puerto de los caballeros</font>
-Loading_230=<font color='#FFD144'>La defensa de aeronave dificultad 2</font> puede hacerte ganar <font color='#FFD144'>más piedras mágicas y materiales de crecimiento de talismanes</font>
-Loading_231=En <font color='#FFD144'>defensa aérea</font>, por baja probabilidad, puedes adquirir un item <font color='#FFD144'>vista de gerente</font>
+Loading_228=<font color='#FFD144'>Airship Defense</font> solo puede ser desafiada por guardianes de <font color='#FFD144'>Lv. 80</font> y superiores
+Loading_229=<font color='#FFD144'>Airship Defense</font> puede ser desafiada en <font color='#FFD144'>Ohrdor - puerto de los caballeros</font>
+Loading_230=<font color='#FFD144'>Airship Defense dificultad 2</font> puede hacerte ganar <font color='#FFD144'>más piedras mágicas y materiales de crecimiento de talismanes</font>
+Loading_231=En <font color='#FFD144'>Airship Defense</font>, por baja probabilidad, puedes adquirir un item <font color='#FFD144'>vista de gerente</font>
 
 [Scenario]
 Scenario_1=Pandemonium es el mundo al que el dios demonio Sekneum fue exiliado por el Creador Akneria
