@@ -2387,7 +2387,7 @@ rank_accountlevel=Nivel de cuenta
 RANK_ZEN=Zen
 rank_greenzen=Gema mágica
 rank_cleartime=Tiempo
-rank_missionmap=Victoria
+rank_missionmap=Puntuación
 rank_bloodcastle=Tiempo
 rank_wp=Puntos
 RANK_MAZE=Etapa completada
@@ -2398,6 +2398,7 @@ RANK_CHAOS_CASTLE=Victorias
 Tower_Floor=Piso %s_1
 Maze_Difficult=Nivel %s_1
 netherworld_stage=Nivel %s_1
+rank_airshipdefence=Puntuación
 
 [ShineBubbleString]
 ShieBubbleString_15=Sanctasanctórum de destrucción/Ataques +100%.
