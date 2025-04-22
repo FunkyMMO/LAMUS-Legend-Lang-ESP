@@ -683,8 +683,8 @@ LS_Title_9429=Tienda de Lupa
 LS_ShopDesc_9429=Su cuenta de compras diaria se reinicia cada día a las 5:00 a.m.
 LS_BuyCount_9429=Límite de compra
 LS_NoLimit_9429=Ilimitado
-LS_TokenCount_9429=Monedas de Oro de Lupa
-LS_ToolTipText_9429=Se pueden intercambiar con <b><font color='#FDC243'>Monedas de oro de Lupa</font></b> que aparecen en cubos, disponibles a partir de la fase 51 del Laberinto despierto de Lupa.
+LS_TokenCount_9429=Lupa's Golden Coins
+LS_ToolTipText_9429=Se pueden intercambiar con <b><font color='#FDC243'>Lupa's Golden Coins</font></b> que aparecen en cubos, disponibles a partir de la fase 51 del Laberinto despierto de Lupa.
 LS_LimitedBuy_9429=(Se reinicia en %s_1 d)
 LS_Title_177=Tienda de Worrywart Rozen
 LS_ShopDesc_177=Esta tienda sólo abre durante un periodo de evento.
