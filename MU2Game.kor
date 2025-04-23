@@ -1953,7 +1953,7 @@ lsMsgMissionMapSpawnBoss=El espiritu corrompido ha aparecido en el centro del al
 lsMsgMissionMapTeamA=Azul
 lsMsgMissionMapTeamB=Rojo
 lsMsgMissionMapKillBoss=Muerto
-lsMsgMissionMapOccupation=Conquistó
+lsMsgMissionMapOccupation=capturó un altar
 lsMsgChaosCatle_Win=¡Has sobrevivido al Chaos Castle!
 lsMsgChaosCatle_Lose=Has muerto.
 lsMsgChaosCatle_Rank=Rango
@@ -6503,14 +6503,14 @@ LS_OccupyKnightAge=Guild al que pertenece: %s_1
 LS_MyOccupy=Ocupado
 LS_CompetitionRate=Tasa de competición: %s_1:1
 LS_TournamentMemberCnt=Concursantes en el torneo: %s_1:%s_1
-LS_TotalSchedule=Programa completo
+LS_TotalSchedule=Programación
 LS_RaidEstablish=Se pueden crear unidades de ataque durante este periodo.
 LS_NoneRaidEstablish=No se pueden crear unidades de ataque en este momento.
 LS_TournamentTurnInfo=Ronda del Torneo %s_1
 LS_TournamentDownTitle=¡Ups! Lo sentimos,
 LS_TournamentDownDesc=El Torneo ha sido abortado debido a un fallo del sistema.<br>Por favor, comprueba los Anuncios en nuestra página web oficial para información sobre posibles compensaciones.
 LS_TournamentWaitingTitle=Te espera una gran gloria.
-LS_TournamentWaitingDesc=¡Consulta el calendario de la primera guerra de facciones!<br>La historia de LAMUS comienza con vosotros, los jugadores.
+LS_TournamentWaitingDesc=¡Consulta el calendario de la primera guerra de facciones!<br>
 
 [MU2GFxFieldContents]
 Field_Content_Wait_Time=Tiempo de espera
@@ -6579,7 +6579,7 @@ LS_TournamentDominionInfo=Información territorial
 LS_RoundSchedule=Programa de Partys
 LS_RoundScheduleDesc=- Las unidades de ataque pueden zarpar 5 minutos antes de que empiecen sus partidos.<br>- Estas unidades de ataque son para el Torneo. Sus comandantes deben zarpar antes de que comiencen sus partidos.
 LS_QualifyNFinalHelpDesc=Las preliminares duran hasta 10 minutos, mientras que las finales pueden durar hasta 20 minutos. Para todos los partidos, la capacidad de los jugadores y el área del party están sujetos a cambios en función del grado del territorio capitalino.
-LS_TotalSchedule=Programa completo
+LS_TotalSchedule=Programación
 LS_CharName=Nombre del personaje
 LS_CombatPower=Poder de Combate
 LS_RaidOrganizeInfo=Información de la formación de la unidad de ataque
@@ -6612,7 +6612,7 @@ LS_CurrentTime=Hora actual: %s_1
 LS_DepartureReady=Miembros listos para partir (%s_1/%s_2)
 LS_Help=Ayuda
 LS_Departure=Salir
-LS_TotalSchedule=Programa completo
+LS_TotalSchedule=Programación
 LS_PermissionTitle=Esta unidad de ataque no puede zarpar en este momento.
 LS_PermissionDesc=Ha perdido un combate. Ya no puede zarpar.<br>Inténtelo de nuevo en el próximo Torneo.
 LS_EnableDepartureTile=¡Acepta el desafío de la guerra de facciones!
@@ -6628,16 +6628,16 @@ LS_InvalidRaidDesc=Todas las unidades de ataque deben partir para su combate den
 LS_TournamentDownTitle=¡Ups! Lo sentimos,
 LS_TournamentDownDesc=El Torneo ha sido abortado debido a un fallo del sistema.<br>Por favor, comprueba los Anuncios en nuestra web oficial para obtener información sobre posibles compensaciones.
 LS_TournamentWatingTitle=El Torneo comenzará en breve.
-LS_TournamentWatingDesc=¡Consulta el calendario de la primera guerra de facciones!<br>La historia de LAMUS comienza con vosotros, los jugadores.
+LS_TournamentWatingDesc=¡Consulta el calendario de la primera guerra de facciones!<br>
 
 [MU2GFxTournamentTotalSchedule]
-LS_UITitle=Programa completo
+LS_UITitle=Programación
 LS_UIOk=OK
 LS_UINextTournament=Próximo Torneo
 LS_TournamentDownTitle=Lo sentimos mucho.
 LS_TournamentDownDesc=El Torneo ha sido abortado debido a un apagón del sistema.<br>Por favor, consulte el menú de Anuncios en nuestra web oficial para obtener información sobre posibles compensaciones.
 LS_TournamentWatingTitle=El Torneo comenzará en breve.
-LS_TournamentWatingDesc=¡Consulta el calendario de la primera guerra de facciones!<br>La historia de LAMUS comienza con vosotros, los jugadores.
+LS_TournamentWatingDesc=¡Consulta el calendario de la primera guerra de facciones!<br>
 
 [MU2GFxCubeItemView]
 LS_PriceDesc[0]=No se puede abrir.
@@ -6680,9 +6680,9 @@ LS_RewardDesc=Dona Fichas de Trofeo para aumentar los Trofeos de Guild de tu Gui
 LS_DoationMaxCnt=Tu cuenta de donaciones no se reiniciará incluso si dejas tu clan.
 
 [MU2GFxTournamentMap]
-LS_TournamentMapTitle=Mapa de Guerra de Facción
-LS_LeftPanelTitle=Información del Guild
-LS_RightPanelTitle=Información Guerra de Facción
+LS_TournamentMapTitle=Mapa de guerras de facción
+LS_LeftPanelTitle=Información de Guild
+LS_RightPanelTitle=Información de Guerra
 LS_NoKnightageTitle=No estás en un Guild
 LS_NoKnightageDes=Debes pertenecer a un Guild para participar
 LS_KnightageMasterTitle=Líder de Guild:
@@ -6691,11 +6691,11 @@ LS_ApplyDominionTitle=Territorio objetivo del torneo
 LS_ApplyTrophyCountTitle=Oferta de trofeo:
 LS_NoApplyAlertTitle=No hay información de solicitud disponible
 LS_NoApplyAlertDesc=Los líderes de cada Guild pueden solicitar competir por el territorio que deseen
-LS_ApplyResultLabel=Comprobar resultados de solicitud de torneo.
+LS_ApplyResultLabel=Comprobar solicitud de torneo
 LS_HaveKnightageTitle=Ocupar Guild
 LS_TournamentProgressTitle=Progreso:
 LS_MyDominionTitle=Ocupando territorio
-LS_DominionHaveKnightTitle=Guild ocupante del territorio
+LS_DominionHaveKnightTitle=Guild ocupante
 LS_DominionHaveKnightageRankingTitle=Máximo de seguidores
 LS_FollowKnightageLabel=Seguir a compañeros
 LS_NoFellowKnightageAlertTitle=No hay Guild disponible para reclutar seguidores
@@ -6711,7 +6711,7 @@ LS_ShowDetailScheduleLabel=Programa detallado
 LS_TournamentDownMsgTitle=El torneo ha sido cancelado.
 LS_TournamentDownMsgDesc=El torneo se ha cancelado debido a un error.<br>Por favor, consulte los anuncios en nuestro sitio web oficial para una posible compensación.
 LS_TournamentWaitingMsgTitle=El Torneo comenzará en breve.
-LS_TournamentWaitingMsgDesc=¡Consulta el calendario de la primera guerra de facciones!<br>La historia de LAMUS comienza con vosotros, los jugadores.
+LS_TournamentWaitingMsgDesc=¡Consulta el calendario de la primera guerra de facciones!<br>
 LS_ShowDmoinionGradeBonus=Beneficios
 LS_DominionGradeFilterLabel[0]=1 estrella
 LS_DominionGradeFilterLabel[1]=2 estrellas
@@ -6719,9 +6719,9 @@ LS_DominionGradeFilterLabel[2]=3 estrellas
 LS_SearchInputDefaultText=Introduzca una palabra clave
 LS_SearchHelpText=- Puedes buscar nombres de Guild/líder de Guild/territorio<br>- Una palabra clave debe contener al menos 2 letras
 LS_BtnOpenTournamentRankingLabel=Ranking del Torneo
-LS_DominionsStatusTitle=<font color='#00ff00'>- Estado de Ocupación del Territorio</font>
+LS_DominionsStatusTitle=<font color='#00ff00'>- Estado de ocupación de territorios</font>
 LS_DominionsStatusDesc=Ocupando %s_2 de %s_1 territorios (%s_3%)
-LS_JoinKnightageStatusTitle=<font color='#00ff00'>- Estado de participación en el Guild</font>
+LS_JoinKnightageStatusTitle=<font color='#00ff00'>- Estado de participación de guilds</font>
 LS_JoinKnightageStatusDesc=Total %s_1 guilds participantes
 LS_DominionPopupButton[0]=Información del torneo
 LS_DominionPopupButton[1]=Entrar en territorio
@@ -6833,8 +6833,8 @@ LS_NetCafeReward2=
 
 [MU2GFxRaidUnitFrame]
 LS_ReadyDeparture=Listo para partir
-LS_ReadyDepartureCancel=Cancelar listo
-LS_ReadyDepartureCnt=Listo para Salida %s_1/%s_2
+LS_ReadyDepartureCancel=No estoy listo
+LS_ReadyDepartureCnt=Jugadores preparados %s_1/%s_2
 
 [MU2GFxTournamentApply]
 LS_UITitle=Solicitar torneo
@@ -6864,7 +6864,7 @@ LS_TournamentMemberCnt=Concursantes en el torneo: %s_1:%s_1
 LS_TournamentDownTitle=Lo sentimos mucho.
 LS_TournamentDownDesc=El Torneo ha sido abortado debido a una caída del sistema.<br>Por favor, consulta el menú de Anuncios en nuestra web oficial para obtener información sobre posibles compensaciones.
 LS_TournamentWatingTitle=El Torneo comenzará en breve.
-LS_TournamentWatingDesc=¡Consulta el calendario de la primera guerra de facciones!<br>La historia de LAMUS comienza con vosotros, los jugadores.
+LS_TournamentWatingDesc=¡Consulta el calendario de la primera guerra de facciones!<br>
 
 [MU2GFxWeaponFusion]
 LS_WeaponFusion=Equipo fusible
@@ -6891,7 +6891,7 @@ LS_UITitle=¡Admitido al torneo!
 LS_UITleFail=¡Solicitud fallida!
 LS_UIHelpTooltip=<font color='#ffff00'>Preliminares: Campo de batalla celeste</font><br>Elimina a los enemigos o destruye los cristales que aparecen aquí y allá en el mapa para conseguir los puntos de objetivo El combate termina en 10 minutos.<br><br><font color='#ffff00'>Finales: Altar of Elements</font><br>Elimina a los enemigos u ocupa el altar para conseguir los puntos de objetivo.El combate termina en 20 minutos. Este campo de batalla requiere un juego más estratégico que el mapa Preliminar.
 LS_RoundSchedule=Programa del partido
-LS_RoundInfo=Información del partido
+LS_RoundInfo=Información
 LS_SuccessOK=Cerrar
 LS_ResultHelpDesc=La solicitud ha sido aceptada, dando a su Guild el derecho a participar.<br>Por favor, lea atentamente las reglas que se detallan a continuación y prepárese para el partido.<br><br><font color='#ffff00'>1. Confirmación del horario final. Confirmación del calendario final</font><br>- Una vez finalizado el proceso de solicitud, se publican la competición y los calendarios.<br>- El número total de encuentros varía en función del índice final de la competición.<br>- Si no hay más de 2 guilds que hayan solicitado un territorio, puede que no haya preliminares.<br><font color='#ff0000'>- Una vez finalizado el periodo de solicitud, ¡asegúrate de confirmar los encuentros en los que participa tu Guild! </font><br><br><font color='#ffff00'>2. Reglas de los Partidos</font><br>- Según el ritmo de competición, tu Guild tendrá de 1 a 4 partidos en total.<br>- Tus unidades de ataque deben salir a través del PNJ del Muelle 5 minutos antes de cada partido. <br><font color='#ff0000'>- Si no sales dentro del tiempo límite y el partido comienza, serás descalificado.</font><br><br><font color='#ffd144'>Por favor, sigue las reglas del partido y haz todo lo posible para ganar el torneo.<br>Buena suerte.</font>
 LS_RoundScheduleAlertTitle=No se puede comprobar la información del partido.
