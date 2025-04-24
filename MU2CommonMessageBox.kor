@@ -58,8 +58,8 @@ DeadMsg_Revive_PlatinumFree=Servicio Platinum de Resurrección
 DeadMsg_Party_Member_Revive_Item=Resucitar ahora
 DeadMsg_Party_Member_Revive_Redzen=Resucitar ahora
 ItemDisassemble=Desmontar Item
-ExitAltarOfElements=Salir del Altar of Elements
-ExitAltarOfElements_End=Salir del Altar of Elements
+ExitAltarOfElements=Salir del Altar of Spirits
+ExitAltarOfElements_End=Salir del Altar of Spirits
 ExitEndlessTower_Die=Salir de Endless Tower
 ExitEndlessTower_Complete=Salir de la Torre Inacabable
 ExitEndlessTower=Salir de Endless Tower
@@ -246,7 +246,7 @@ DeadMsg_Revive_PlatinumFree=¿Quieres gastar un Servicio Premium de Resurrecció
 DeadMsg_Party_Member_Revive_Item=¿Usar un Item y resucitar %s_1 ahora?
 DeadMsg_Party_Member_Revive_Redzen=¿Usas Redzen y resucitas %s_1 ahora?
 ItemDisassemble=¿Desmontar Item(s)?
-ExitAltarOfElements=<font color='#FDC243'>¿Salir?</font><br><br>El Altar of Elements no ha terminado.<br>Si sales ahora, no podrás entrar en el Altar of Elements durante algún tiempo.
+ExitAltarOfElements=<font color='#FDC243'>¿Salir?</font><br><br>El Altar of Spirits no ha terminado.<br>Si sales ahora, no podrás entrar en el Altar of Spirits durante algún tiempo.
 ExitAltarOfElements_End=<font color='#FDC243'>¿Salir?</font>
 ExitEndlessTower_Die=<font color='#FDC243'>¿Salir?</font><br><br>Otros jugadores siguen subiendo a la Endless Tower.<br>Si sales de la Endless Tower ahora, no obtendrás recompensas.<br>Si otros jugadores han completado la conquista o si han muerto, podrás obtener recompensas.
 ExitEndlessTower_Complete=<font color='#FDC243'>¿Salir?</font>

@@ -1743,7 +1743,7 @@ LS_Dungeon_MissionMap=Eventos
 LS_Dungeon_General=Dungeon normal
 LS_Dungeon_Epic=Dungeon épica
 LS_Dungeon_Adv=Rift
-LS_AltarOfElements_Title=Altar of Elements
+LS_AltarOfElements_Title=Altar of Spirits
 LS_AltarOfElements_Desc0=Consigue 3.000 puntos dentro del tiempo límite.
 LS_AltarOfElements_Desc1=Recompensas por ganar: Items y puntos de honor.
 LS_AltarOfElements_Desc2=Los altares con antiguos espíritus sellados en su interior pueden encontrarse por todo el continente de MU. Estas zonas están siempre abarrotadas de aquellos que codician los inmensos poderes mágicos de los espíritus.
@@ -2096,7 +2096,7 @@ LS_ScorePoint=MVP
 LS_CharName=Nombre
 LS_ClassName=Clase
 LS_GoalScore=Puntos de objetivo
-LS_MissionMapName=Altar of Elements
+LS_MissionMapName=Altar of Spirits
 LS_Goal=Conquista
 LS_SuccessMessage=¡Ganado!
 LS_FailMessage=Perdido
@@ -5374,7 +5374,7 @@ Sub_Category[0]=Especial
 Sub_Category[1]=Evento
 Sub_Category[2]=Historia
 Sub_Category[3]=Dungeon
-Sub_Category[4]=Altar of Elements
+Sub_Category[4]=Altar of Spirits
 Sub_Category[5]=Chaos Castle
 Sub_Category[6]=Blood Castle
 Sub_Category[7]=Endless Tower
@@ -6889,7 +6889,7 @@ Probabilidad de encantamiento de piedra inteligente[4]=x 3
 [MU2GFxTournamentApplyResult]
 LS_UITitle=¡Admitido al torneo!
 LS_UITleFail=¡Solicitud fallida!
-LS_UIHelpTooltip=<font color='#ffff00'>Preliminares: Campo de batalla celeste</font><br>Elimina a los enemigos o destruye los cristales que aparecen aquí y allá en el mapa para conseguir los puntos de objetivo El combate termina en 10 minutos.<br><br><font color='#ffff00'>Finales: Altar of Elements</font><br>Elimina a los enemigos u ocupa el altar para conseguir los puntos de objetivo.El combate termina en 20 minutos. Este campo de batalla requiere un juego más estratégico que el mapa Preliminar.
+LS_UIHelpTooltip=<font color='#ffff00'>Preliminares: Campo de batalla celeste</font><br>Elimina a los enemigos o destruye los cristales que aparecen aquí y allá en el mapa para conseguir los puntos de objetivo El combate termina en 10 minutos.<br><br><font color='#ffff00'>Finales: Altar of Spirits</font><br>Elimina a los enemigos u ocupa el altar para conseguir los puntos de objetivo.El combate termina en 20 minutos. Este campo de batalla requiere un juego más estratégico que el mapa Preliminar.
 LS_RoundSchedule=Programa del partido
 LS_RoundInfo=Información
 LS_SuccessOK=Cerrar

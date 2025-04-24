@@ -1592,9 +1592,9 @@ Dur_1=FFBB00
 Dur_0=FF0000
 
 [Mail]
-Msg_Mailbox_10VS10_ITEM_SUBJECT=Hemos encontrado el Item que dejaste en el Altar of Elements. Te lo enviamos.
-Msg_Mailbox_10VS10_ITEM_SENDER=Encargado del Altar of Elements
-Msg_Mailbox_10VS10_ITEM_CONTENT=Recompensa del Altar of Elements
+Msg_Mailbox_10VS10_ITEM_SUBJECT=Hemos encontrado el Item que dejaste en el Altar of Spirits. Te lo enviamos.
+Msg_Mailbox_10VS10_ITEM_SENDER=Encargado del Altar of Spirits
+Msg_Mailbox_10VS10_ITEM_CONTENT=Recompensa del Altar of Spirits
 Msg_Mailbox_20VS20_ITEM_SUBJECT=Hemos encontrado el Item que dejaste en la Arena Sangrienta de las Almas. Te lo enviamos.
 Msg_Mailbox_20VS20_ITEM_SENDER=Encargado de la Arena Sangrienta de las Almas
 Msg_Mailbox_20VS20_ITEM_CONTENT=Recompensa Arena Sangrienta de Almas
@@ -1656,8 +1656,8 @@ Msg_Mailbox_AchievementIndex23_ITEM_SUBJECT=Esta es la recompensa por conseguir 
 Msg_Mailbox_AchievementIndex24_ITEM_SUBJECT=Esta es la recompensa por el logro Maestro de Dungeons. Te la enviamos.
 Msg_Mailbox_AchievementIndex25_ITEM_SUBJECT=Esta es la recompensa por el logro Cazador de Dragones. Te la enviamos.
 Msg_Mailbox_AchievementIndex26_ITEM_SUBJECT=Esta es la recompensa por ganar 1 Batalla en Altar de Espíritus. Te la enviamos.
-Msg_Mailbox_AchievementIndex27_ITEM_SUBJECT=Esta es la recompensa por ganar 10 batallas en Altar of Elements. Te la enviamos.
-Msg_Mailbox_AchievementIndex28_ITEM_SUBJECT=Esta es la recompensa de logro por matar 10 veces consecutivas a jugadores enemigos en Altar of Elements. Te la enviamos.
+Msg_Mailbox_AchievementIndex27_ITEM_SUBJECT=Esta es la recompensa por ganar 10 batallas en Altar of Spirits. Te la enviamos.
+Msg_Mailbox_AchievementIndex28_ITEM_SUBJECT=Esta es la recompensa de logro por matar 10 veces consecutivas a jugadores enemigos en Altar of Spirits. Te la enviamos.
 Msg_Mailbox_AchievementIndex29_ITEM_SUBJECT=Esta es la recompensa por ser el último jugador superviviente en Blood Castle. Te la estamos enviando.
 Msg_Mailbox_AchievementIndex30_ITEM_SUBJECT=Esta es la recompensa por superar Blood Castle 10 veces. Te la enviamos.
 Msg_Mailbox_AchievementIndex31_ITEM_SUBJECT=Esta es la recompensa por superar la Planta 50 de la Endless Tower. Te la enviamos.
@@ -2123,7 +2123,7 @@ Survey_9=Sanctum de los Caballeros del Dragón Encuesta
 Survey_10=Castillo del Dragón Encuesta
 Survey_11=Lupa's Labyrinth Encuesta
 Survey_12=Encuesta Arena
-Survey_13=Encuesta Altar of Elements
+Survey_13=Encuesta Altar of Spirits
 Event_Login_Title=<font size='15' color='#FDC243'>Evento de Comprobación de Inicio de Sesión</font>
 Event_Login_Desc=: Abrir ventana de comprobación de inicio de sesión
 Event_LoginClass_Title=<font size='15' color='#FDC243'>Evento Black Phantom</font>
@@ -2326,7 +2326,7 @@ ChaosCastleMainstring_3=Condiciones para ganar
 ChaosCastleString_3=El que sobreviva hasta el final será el ganador.
 ChaosCastleMainstring_4=Obtener recompensa
 ChaosCastleString_4=Tu rango se basa en la duración de tu supervivencia.<br>Cuanto más alto sea tu rango, mejor será tu recompensa.
-AltarofElementsMainstring_0=Altar of Elements
+AltarofElementsMainstring_0=Altar of Spirits
 AltarofElementsString_0=Los jugadores pueden luchar en equipos de hasta 5.<br>El trabajo en equipo es vital en este modo de batalla PvP.
 AltarofElementsMainstring_1=Reglas de entrada
 AltarofElementsString_1=Puedes entrar en los primeros 25 minutos de cada hora.<br>Tu equipo se selecciona en función de tu MMR.
@@ -2629,9 +2629,9 @@ Survey_12_Question_1_Choice_2=Satisfactorio
 Survey_12_Question_1_Choice_3=Normal
 Survey_12_Cuestion_1_Choice_4=Insatisfactorio
 Survey_12_Question_1_Choice_5=Muy insatisfactorio
-Survey_13_Information=Hola, este es un mensaje de LAMUS.<br>Esta encuesta está diseñada para registrar su <Font color='#FFCD12'>evaluación del Altar of Elements</Font>.
-Survey_13_Subject=<Font color='#BCE55C'>Encuesta sobre el Altar of Elements</Font>
-Survey_13_Question_1=¿Le ha gustado Altar of Elements?
+Survey_13_Information=Hola, este es un mensaje de LAMUS.<br>Esta encuesta está diseñada para registrar su <Font color='#FFCD12'>evaluación del Altar of Spirits</Font>.
+Survey_13_Subject=<Font color='#BCE55C'>Encuesta sobre el Altar of Spirits</Font>
+Survey_13_Question_1=¿Le ha gustado Altar of Spirits?
 Survey_13_Question_1_Choice_1=Muy satisfactorio
 Survey_13_Question_1_Choice_2=Satisfactorio
 Survey_13_Question_1_Choice_3=Normal
