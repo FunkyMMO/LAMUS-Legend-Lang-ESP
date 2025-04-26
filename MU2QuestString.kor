@@ -579,7 +579,7 @@ Mission_Target1=Quema los Barracones Goblins
 Mission_Target2=Mata a los Goblin Workers
 Mission_Target3=Mata a los Goblin Guards
 
-[Quest_112]
+[Quest_113]
 Name=Goblin Battle Plans
 Occur_String1=Pero eran muy pocos.<br>No hay suficientes aquí como para llamarlo una invasión...
 Occur_String2=Tienen que estar aquí para la Karmatan Mine, ya que es la productora más grande de newk en este lugar,<br>pero sí, tienes razón: son muy pocos.
