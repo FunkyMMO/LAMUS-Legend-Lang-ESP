@@ -1087,6 +1087,7 @@ Msg_Party_Err_AllReady_Suggest=Alguien ya ha solicitado una party.
 Msg_Party_Err_AllReady_Party=Ya hay una party.
 Msg_Party_Err_Is_Not_Party=No hay party.
 Msg_Party_Err_Request_Party_Full=Máximo de miembros del party alcanzado. No se pueden realizar más peticiones de party.
+Msg_Party_Err_Request_Party_LevelDiff=Máximo de miembros del party alcanzado. No se pueden realizar más peticiones de party.
 Msg_Party_Err_Its_Me=No puedes enviarte una petición de party a ti mismo.
 Msg_Party_Err_Its_Party=Ya estás en una party.
 Msg_Party_Created=La party ha sido creada.
