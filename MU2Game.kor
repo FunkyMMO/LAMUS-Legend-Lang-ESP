@@ -3864,7 +3864,7 @@ Dungeon_Desc_9040309=En la Dungeon de la Caza de Pascua, abierta para la época 
 Dungeon_Title_9604001=Abandoned Secret Vault
 Dungeon_Desc_9604001=Luery's Secret Vault, que solía estar llena de brillantes e inestimables tesoros, está ahora abandonada. Sus tesoros han desaparecido, y este edificio se está convirtiendo en una escena sombría y lúgubre.<br>Sin embargo, se rumorea que algunos afortunados descubrieron aquí dentro cajas fuertes ocultas llenas de Zen.
 Dungeon_Title_Awaken_9203001=Lupa's Awakened Labyrinth
-Dungeon_Desc_Awaken_9203001=El reloj mejorado de Lupa llevó al descubrimiento de este laberinto.<br>Ni el laberinto del pasado ni uno del presente, este espacio increíblemente extraño no puede encontrarse en ningún otro lugar. ¿Cuál es la verdadera naturaleza de este mundo?<br><font color='#FDD889'>La dificultad aumenta aún más a partir de la fase 51 del Laberinto del Despertar de Lupa, con monstruos de más de nivel 80 que empiezan a aparecer.</font>
+Dungeon_Desc_Awaken_9203001=El reloj mejorado de Lupa llevó al descubrimiento de este laberinto.<br>Ni el laberinto del pasado ni uno del presente, este espacio increíblemente extraño no puede encontrarse en ningún otro lugar. ¿Cuál es la verdadera naturaleza de este mundo?<br><font color='#FDD889'>La dificultad aumenta aún más a partir de la fase 51 del Lupa's Awakened Labyrinth, con monstruos de más de nivel 80 que empiezan a aparecer.</font>
 Dungeon_Title_9686001=Intensive Cultivation Room
 Dungeon_Desc_9686001=Después de que un sujeto de pruebas se descontrolara, una entidad desconocida trasladó esta instalación central del Área Restringida a otra dimensión.<br>Contiene pistas sobre la verdad que se esconde tras el accidente ocurrido en el Área Restringida 6-1 y la persona responsable del mismo.
 Dungeon_Title_9040803=Airship Defense
@@ -7201,12 +7201,12 @@ LS_ALTStepComplete_Contents=Terminado
 LS_ALTStepComplete_Warnning=La transferencia de nivel de Artefacto se ha completado.<br>El nivel del Artefacto de origen se ha reiniciado a 1, y el nivel del Artefacto de destino se ha incrementado.
 
 [MU2GFxSeasonMissionReward]
-LS_Caption=Recompensas de Misión de Temporada
-LS_MissionComplete=Recompensas por Completar Misión de Sesión
-LS_MissionReward=Serás recompensado cada vez que llenes el 25% del medidor de Misión de Sesión.
-LS_Confirm=Confirmar Misión de Sesión
-LS_SeasonOpen=Misión de sesión en curso.
-LS_SeasonFinish=La Misión se cierra el: DD/MM/AA (antes del mantenimiento).
+LS_Caption=Misiones de temporada
+LS_MissionComplete=Recompensas por completar misión de sesión
+LS_MissionReward=Serás recompensado cada vez que llenes el 25% del medidor de misión de sesión.
+LS_Confirm=Ver misiones
+LS_SeasonOpen=Temporada en curso
+LS_SeasonFinish=La temporada de misiones finaliza el: DD/MM/2025
 LS_SeasonOffCaption=Actualmente preparándose para la siguiente misión.
 LS_SeasonOffDescription=¡Te esperan abundantes recompensas<br>en la nueva temporada de Misiones de Sesión!
 LS_ProgressValue=%s_1%
@@ -7214,13 +7214,13 @@ LS_ProgressReward=Recompensa por alcanzar %s_1%
 
 [MU2GFxSeasonMission]
 LS_Caption=Misión de temporada
-LS_RewardButton=Reivindicar recompensa
+LS_RewardButton=Reclamar recompensa
 LS_TabMenu[0]=Misión de temporada
 LS_TabMenu[1]=Misión de temporada
 LS_TabDesc[0]=Comprueba la misión que puedes llevar a cabo durante esta temporada.
 LS_TabDesc[1]=Comprueba las recompensas de Ranking disponibles al final de la temporada.
 LS_MenuRate=%s_1%
-LS_ColTierName[0]=bBronce
+LS_ColTierName[0]=Bronce
 LS_ColTierName[1]=Plata
 LS_ColTierName[2]=Oro
 LS_ColTierName[3]=Esmeralda
