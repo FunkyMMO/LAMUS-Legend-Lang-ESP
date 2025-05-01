@@ -7242,8 +7242,8 @@ LS_RewardCount=(%s_1/%s_2)
 LS_SeasonCompleteMessage=Misiones de sesión de temporada %s_1 completadas.
 
 [MU2GFxSeasonMissionRewardList]
-LS_Caption=Recompensas de misión de sesión recogidas
-LS_CompleteMission=Misión de sesión completada
+LS_Caption=Recompensas
+LS_CompleteMission=Las recompensas serán entregadas por mail
 LS_Accept=OK
 LS_Recompensa=%s_2 %s_1
 
@@ -7746,9 +7746,9 @@ LS_Immediately=Al conectarse
 LS_ThirtyMinutes=30 m
 LS_OneHour=1 h
 LS_ExitBtn=Cerrar (Esc)
-LS_BronzeBuffToolTipText=<font color='#FDC243'>Salud de Djukan</font></b><br><font color='#999999'>botón activado al conectarse al juego¶presiona el botón para adquirir el efecto de buff. </font>¶La EXP de artefacto Awakened aumenta en <font color='#1CFD2D'>200%</font> dentro del laberinto<br>La EXP de alma aumenta en <font color='#1CFD2D'>100%</font> <br>La velocidad de movimiento aumenta en <font color='#1CFD2D'>5%</font> <br><font color='#999999'>El efecto dura 20 minutos.</font>
-LS_SilverBuffToolTipText=<font color='#FDC243'>Apoyo de Jonathan</font></b><br><font color='#999999'>botón activado 30 minutos después de conectarte al juego¶presiona el botón para adquirir el efecto de mejora. </font>¶La EXP de artefacto Awakened aumenta un <font color='#1CFD2D'>350%</font> dentro del laberinto<br>La EXP de alma aumenta un <font color='#1CFD2D'>150%</font> <br>La velocidad de movimiento aumenta un <font color='#1CFD2D'>10%</font> <br><font color='#999999'>efecto dura 20 minutos.</font>
-LS_GoldBuffToolTipText=<font color='#FDC243'>Gracia de Kundun</font></b><br><font color='#999999'>botón activado 1 hora después de conectarse al juego¶presiona el botón para adquirir el efecto de mejora. </font>¶La EXP de artefacto Awakened aumenta en <font color='#1CFD2D'>500%</font> <br>La EXP de alma aumenta en <font color='#1CFD2D'>200%</font> <br>La velocidad de movimiento aumenta en <font color='#1CFD2D'>15%</font> <br><font color='#999999'>El efecto dura 20 minutos.</font>
+LS_BronzeBuffToolTipText=<font color='#FDC243'>Salud de Djukan</font></b><br><font color='#999999'>botón activado al conectarse al juego¶presiona el botón para adquirir el efecto de buff. </font>¶La EXP de artefacto Awakened aumenta en <font color='#1CFD2D'>200%</font> dentro del laberinto<br>La EXP de alma aumenta en <font color='#1CFD2D'>100%</font> <br>La velocidad de movimiento aumenta en <font color='#1CFD2D'>5%</font> <br><font color='#999999'>El efecto dura 20 minutos</font>
+LS_SilverBuffToolTipText=<font color='#FDC243'>Apoyo de Jonathan</font></b><br><font color='#999999'>botón activado 30 minutos después de conectarte al juego¶presiona el botón para adquirir el efecto de mejora. </font>¶La EXP de artefacto Awakened aumenta un <font color='#1CFD2D'>350%</font> dentro del laberinto<br>La EXP de alma aumenta un <font color='#1CFD2D'>150%</font> <br>La velocidad de movimiento aumenta un <font color='#1CFD2D'>10%</font> <br><font color='#999999'>El efecto dura 20 minutos</font>
+LS_GoldBuffToolTipText=<font color='#FDC243'>Gracia de Kundun</font></b><br><font color='#999999'>botón activado 1 hora después de conectarse al juego¶presiona el botón para adquirir el efecto de mejora. </font>¶La EXP de artefacto Awakened aumenta en <font color='#1CFD2D'>500%</font> <br>La EXP de alma aumenta en <font color='#1CFD2D'>200%</font> <br>La velocidad de movimiento aumenta en <font color='#1CFD2D'>15%</font> <br><font color='#999999'>El efecto dura 20 minutos</font>
 LS_RewardBuff[0]=Animo de Dukan
 LS_RecompensaBuff[1]=Apoyo de Jonathan
 LS_RecompensaBuff[2]=Bendición de Kundun
