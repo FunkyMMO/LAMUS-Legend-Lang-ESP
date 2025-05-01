@@ -7202,7 +7202,7 @@ LS_ALTStepComplete_Warnning=La transferencia de nivel de Artefacto se ha complet
 
 [MU2GFxSeasonMissionReward]
 LS_Caption=Misiones de temporada
-LS_MissionComplete=Recompensas por completar misión de sesión
+LS_MissionComplete=Recompensa
 LS_MissionReward=Serás recompensado cada vez que llenes el 25% del medidor de misión de sesión.
 LS_Confirm=Ver misiones
 LS_SeasonOpen=Temporada en curso
