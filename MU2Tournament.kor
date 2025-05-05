@@ -181,20 +181,20 @@ Round_12=¡Ahora salida para el partido final!
 Round_13=Partido final
 
 [Tournament_Schedule]
-Schedule_1=Inicio de aplicación 1ª ronda
-Schedule_2=Final de aplicación 1ª ronda
-Schedule_3=Inicio de inscripción 2ª ronda
-Schedule_4=Final de inscripción 2ª ronda
-Schedule_5=Inicio de creación de unidades
-Schedule_6=Inicio salida preliminar 1ª ronda
-Schedule_7=Inicio de preliminares 1ª ronda
-Schedule_8=Inicio salida preliminar 2ª ronda
-Schedule_9=Inicio preliminares 2ª ronda
-Schedule_10=Inicio salida preliminar 3ª ronda
-Schedule_11=Inicio de preliminares 3ª ronda
-Schedule_12=Comienza la partida para batalla fianl
-Schedule_13=Inicio batalla final
-Schedule_14=Finalización de torneo
+Schedule_1= Comienza la aplicación 1ªR
+Schedule_2= Fin de la aplicación 1ªR
+Schedule_3= Comienza el registro 2ªR
+Schedule_4= Fin del registro 2ªR
+Schedule_5= Crear unidades
+Schedule_6= Fase preliminar 1ªR
+Schedule_7= Partidos preliminares 1ªR
+Schedule_8= Fase preliminar 2ªR
+Schedule_9= Partidos preliminares 2ªR
+Schedule_10=Fase preliminar 3ªR
+Schedule_11=Partidos preliminares 3ªR
+Schedule_12=Preparación del partido final
+Schedule_13=Comienza la batalla final
+Schedule_14=Fin del torneo
 
 [TournamentMap_ScheduleText]
 ScheduleTitle_1=Comienza inscripción de 1ª ronda!
