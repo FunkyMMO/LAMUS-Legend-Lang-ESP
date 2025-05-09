@@ -445,7 +445,7 @@ CancelString=Cancelar
 LS_Tab_Buy=Comprar
 LS_Tab_SellAll=Vender
 LS_Tab_Rebuy=Volver a comprar
-LS_Tab_Knights=Miembro del Guild
+LS_Tab_Knights=Miembro
 LS_Tab_Follower=Seguidor
 LS_Title_Normal=Tienda
 LS_Title_BlackMarket=Mercado negro
@@ -484,7 +484,7 @@ LS_Buy=Comprar
 LS_ReBuy=Volver a comprar
 LS_CapitalTerritory=Grado de Territorio Capital
 LS_AdjacentTerritory=Nivel de territorio vecino
-LS_CapitalTerritoryGoods=Productos
+LS_CapitalTerritoryGoods= Items
 LS_AdjacentTerritoryDiscount=En oferta
 LS_RepairSelected=Reparar
 LS_RepairStop=Parar reparación de items
@@ -1893,6 +1893,7 @@ RuneShop=Usar tienda de habilidades de cresta
 ChangeAppearance=Cambiar apariencia
 CreateAmpStone=Crear piedra de intensificación
 AmplifcateTranStone=Piedra de Intensificación Trascendente
+T_StoneRecon=Reconstruir Piedra Trascendental
 Storehouse=Utilizar Baúl
 RVR=Añadir ranura de equipo
 Desk=Guía
@@ -6869,7 +6870,7 @@ LS_TournamentWatingDesc=¡Consulta el calendario de la primera guerra de faccion
 [MU2GFxWeaponFusion]
 LS_WeaponFusion=Equipo fusible
 LS_MaterialCost=Material
-LS_DominionGradeBenefit=El número de equipos necesarios para la fusión varía en función del Grado del Territorio Capital.
+LS_DominionGradeBenefit=Los equipos necesarios para la fusión varían segun el Grado de la Capital
 LS_Fusion=Fusible
 LS_Cancle=Cancelar
 LS_OtherWeaponFusion=Fusionar equipo diferente
@@ -7036,18 +7037,18 @@ BenefitDesc_3_1_3=Permite comprar Items de Seguidor en la Tienda de Contribució
 
 [MU2GFxDominionAdministration]
 LS_UITitle=Administrar Territorio
-LS_SetUp=Cambiar Capital del Territorio
+LS_SetUp=Cambiar Capital
 LS_SetUpDesc1=Tu territorio capital afecta a todos tus beneficios.
 LS_SetUpDesc2=Sólo los territorios conectados a tu territorio capital cuentan como territorios vecinos.<br>Disfruta de los beneficios de tener un territorio capital.
 LS_SetUpDesc3=- Los beneficios de tu territorio varían dependiendo del grado de tu territorio-capital.<br><br>- El nivel de territorio vecino sólo se tiene en cuenta cuando el territorio está conectado al territorio-capital.<br><br>- Cambiar tu territorio-capital hará que todos los personajes del territorio se muevan fuera del territorio.<br><br><font color='#ff0000'>¡Precaución! Cambiar tu territorio capital a un grado inferior puede hacer que tu producción de Piedra de Intensificación en curso desaparezca.</font>
-LS_CapitalDominionTab=Seleccionar Capital
+LS_CapitalDominionTab=Elegir Capital
 LS_BuffType=Tipo deuff
 LS_BuffEffect=Fuerza del efecto
 LS_BuffTime=Duración
 LS_CostTrophy=Coste de trofeo
-LS_BuffProvide=Proporcionar buff
-LS_WorldBuffTab=Proporcionar buff mundial
-LS_NoneCapitalID=No se ha designado ninguna capital.
+LS_BuffProvide=Dar buff
+LS_WorldBuffTab=Buff mundial
+LS_NoneCapitalID=No se designo ninguna capital
 LS_ProvideCount=Cuento de uso: %s_1/%s_2
 LS_BuffTimeValue=%s_1 m
 LS_HelpDesc=Buff de Mundo de Guild<br>- Requisitos del Proveedor de Buff: Maestros de Guild que tengan Territorios de 3 estrellas.<br>- Objetivos de buff: Todos los usuarios en línea durante el período buff.<br>- Cómo proporcionar Buff: Selecciona un tipo de buff, una fuerza de efecto y una duración para proporcionar un buff a costa de algunos Trofeos. El buff se aplica instantáneamente.<br>- Recuento de provisión de buff: Se cuenta desde el final de una Guerra de facciones hasta el comienzo de la siguiente, y se reinicia después.<br>- Precauciones: Los buff del mismo tipo no se pueden usar conjuntamente. Sus efectos no se acumulan.
@@ -7405,7 +7406,7 @@ LS_BattleWin=¡Felicidades, has ganado!
 LS_BattleLose=Has perdido.
 LS_Win=Ganado
 LS_Lose=Perdido
-LS_WaitTime=Tiempo restante hasta que comience la partida
+LS_WaitTime=Tiempo restante para la batalla
 LS_GuideBtn=Comprobar reglas de la partida
 LS_RemainTime=Tiempo restante
 LS_GoleScoreTitle=Puntuación de gol
@@ -8662,14 +8663,14 @@ LS_LockValue=%s_1 reencarnación, nivel de alma %s_2, nivel de personaje %s_3 o 
 
 [MU2GFxT_StoneRecon]
 LS_UITitle=Reconstruir Piedra Trascendental
-LS_ReconMaterial=Reconstruir material
+LS_ReconMaterial=Material de reconstrucción
 LS_ReconHelp=Reconstruye la Piedra Trascendental para obtener una Piedra Trascendental que proporciona diferentes estadísticas.<br><br><font color='#3d91e9'>La Piedra Trascendental básica tiene un 100% de posibilidades de ser reconstruida con éxito, pero la En este caso, la reconstrucción puede fallar.</font>
 LS_Recon=Reconstruir
 LS_Cancel=Cancelar
-LS_StateNone=Elegir una piedra trascendental para reconstruir.
-LS_StateNormal=Reconstruir la piedra trascendental para cambiar sus estadísticas.
-LS_Success=Ha reconstruido con éxito la Piedra Trascendental.
-LS_Fail=Ha fallado la reconstrucción de la Piedra Trascendental.
+LS_StateNone=Elige una piedra para reconstruir
+LS_StateNormal=Reconstruye la piedra para cambiar sus stats
+LS_Success=Éxito al reconstruir la Piedra Trascendental
+LS_Fail=Fracaso la reconstrucción de la Piedra Trascendental
 
 [MU2GFxSetCollection]
 LS_Card_Equip=Usado
