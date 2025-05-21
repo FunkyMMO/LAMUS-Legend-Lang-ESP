@@ -800,8 +800,8 @@ LS_Title_106=Tienda de misión diaria
 LS_ShopDesc_106=Tienda de misión diaria.
 LS_BuyCount_106=Límite de compra
 LS_NoLimit_106=Sin límites
-LS_TokenCount_106=Prueba de Platcher
-LS_ToolTipText_106=Disponible al canjear <b><font color='#FDC243'>Prueba de Platcher</font></b>.
+LS_TokenCount_106=Fletcher's Proof
+LS_ToolTipText_106=Disponible al canjear <b><font color='#FDC243'>Fletcher's Proof</font></b>.
 LS_LimitedBuy_106=(Límite de compra restablecido tras %s_1 días)
 LS_Title_19595=Tienda del mercader de piedras de trascendencia Rarva
 LS_ShopDesc_19595=Esta tienda está abierta sólo durante el periodo del evento.
@@ -877,8 +877,8 @@ LS_Title_19637=Tienda misión diaria
 LS_ShopDesc_19637=Tienda de misión diaria.
 LS_BuyCount_19637=Límite de compra
 LS_NoLimit_19637=Sin límites
-LS_TokenCount_19637=Prueba de Kundun
-LS_ToolTipText_19637=Disponible al canjear <b><font color='#FDC243'>Prueba de Kundun</font></b>.
+LS_TokenCount_19637=Kundun Proof
+LS_ToolTipText_19637=Disponible al canjear <b><font color='#FDC243'>Kundun Proof</font></b>.
 LS_LimitedBuy_19637=(Límite de compra restablecido tras %s_1 días)
 LS_Title_19638=Tienda misión diaria
 LS_ShopDesc_19638=Tienda misión diaria.
