@@ -2599,7 +2599,7 @@ ConditionIcon_700=<font color='#fce7b0'>Poder de Combate</font><br><font color='
 ConditionIcon_60000=<font color='#fce7b0'>Items Requeridos</font><br><font color='#ffffff'>Se requiere 1 Piedra de Sabio para entrar.</font>
 ConditionIcon_800=<font color='#fce7b0'>Nivel de Alma Requerido</font><br><font color='#ffffff'>Tienes que alcanzar cierto Nivel de Alma para entrar.</font>
 ConditionIcon_900=<font color='#fce7b0'>Requisito de Nivel de Alma</font><br><font color='#ffffff'>Debes estar por debajo del Nivel de Alma especificado para entrar.</font>
-ConditionIcon_59999=<font color='#fce7b0'>Cómo Conseguir</font><br><font color='#FFBB00'>Dracansor: Proof Key</font><br><font color='#fce7b0'>Consumibles</font><br><font color='#ffffff'>Cambiar usando <font color='#FFBB00'>Perseverance Tokens</font>, que se pueden adquirir completando la misión en Realm of Perseverance: Pruebas y recogiendo botín. Dirígete al <font color='#FFBB00'>Mercader de la facción</font> para intercambiar las fichas por la Llave de Prueba.
+ConditionIcon_59999=<font color='#fce7b0'>Cómo Conseguir</font><br><font color='#FFBB00'>Dracansor: Proof Key</font><br><font color='#fce7b0'>Consumibles</font><br><font color='#ffffff'>Cambiar usando <font color='#FFBB00'>Perseverance Tokens</font>, que se pueden adquirir completando la misión en Realm of Perseverance: Trials y recogiendo botín. Dirígete al <font color='#FFBB00'>Mercader de la facción</font> para intercambiar las fichas por la Llave de Prueba.
 ConditionIcon_59998=<font color='#fce7b0'>Items Requeridos</font><br><font color='#ffffff'>Se requieren Fragmentos Awakened para entrar.</font>
 ConditionIcon_90108=<font color='#fce7b0'>Items Requeridos</font><br><font color='#ffffff'>15 entradas para la fiesta del foso están disponibles.</font>
 LS_PlatinumService=El efecto Servicio Premium ha aumentado su número máximo de entradas en %s_1.
@@ -8383,7 +8383,7 @@ LS_Exit=Cerrar
 LS_DungeonInfoTitle=Dungeon de evento
 LS_Dungeon0=Área Restringida 6-1
 LS_Dungeon1=Antiguo Arca Kanturiana
-LS_Dungeon2=Reino de la Perseverancia: Prueba
+LS_Dungeon2=Realm of Perseverance: Prueba
 LS_CoinInfoTitle=Moneda del evento
 LS_CoinInfoReward0=Recompensa regular
 LS_CoinInfoReward1=Recompensa exclusiva de Net Cafe

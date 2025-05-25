@@ -2958,7 +2958,7 @@ ContentsDesc_20=Rugard y Bulcan pondrán a prueba vuestra fuerza y trabajo en eq
 ContentsDesc_21=50 personajes luchan por convertirse en el único superviviente. <br><br>- El emparejamiento se realiza cada 5 minutos entre las 14:00 y las 15:00 y entre las 22:00 y las 23:00.<br>- Si mueres aunque sea una vez, quedarás fuera del juego y se decidirá tu rango.<br>- Cuanto más tiempo sobrevivas en el Campo de Batalla Ardiente, mayor será tu rango.<br>- Tu rango determina la cantidad y calidad de tus recompensas.
 ContentsDesc_22=La Antigua Arca Kanturiana es un lugar misterioso donde yacen latentes la gloria de una antigua civilización y su tecnología. Es mucho más difícil que la dificultad Mítica.<br><br>- Las Dungeons Épicas tienen un nivel de dificultad muy alto.<br><font color='#FE6D03'>- Solo los personajes con al menos 500.000 de Poder de Combate pueden entrar en ellas.<br></font>- Te recomendamos que entrenes en las Dungeons Míticas y en Lupa's Labyrinth hasta que cumplas el requisito de Poder de Combate de las Dungeons Épicas.
 ContentsDesc_23=La quintaesencia de la ingeniería mágica diseñada por Kundun y Etramu. En los pisos superiores de la torre aguardan enemigos más formidables.<br><br>- Accesible a través de Room of Duty en Ohrdor.<br>- Si superas una fase con la suficiente rapidez, podrás saltarte varias fases.<br>Mientras estás parado tras superar una fase, puedes usar el conductor de ingeniería mágica para experimentar el poder de la ingeniería mágica.
-ContentsDesc_10000=Reino de la Perseverancia: Proof es una cueva oscura donde se encuentra Death Roar, el dragón guardián. <br>Quien demuestre su valía derrotando a Rugido de la Muerte en esta última etapa de Reino de la Perseverancia se hará merecedor de entrar en el Salón de la Sabiduría oculto tras la guarida de Rugido de la Muerte. <br>Reino de la Perseverancia: La prueba es extremadamente difícil.
+ContentsDesc_10000=Realm of Perseverance: Proof es una cueva oscura donde se encuentra Death Roar, el dragón guardián. <br>Quien demuestre su valía derrotando a Rugido de la Muerte en esta última etapa de Realm of Perseverance se hará merecedor de entrar en el Salón de la Sabiduría oculto tras la guarida de Rugido de la Muerte. <br>Realm of Perseverance: La prueba es extremadamente difícil.
 ContentsDesc_24=God of Corridor es un evento en solitario en el que puedes luchar contra oleadas de enemigos durante un tiempo determinado.<br>La batalla termina inmediatamente cuando se acaba el tiempo o si mueres. Usa la habilidad Liberación de Tiza cuando estés en peligro. Te otorgará un poder más allá de tu imaginación.<br><font color='#FE6D03'>- Se requiere el 1er Renacimiento.<br></font>
 ContentLevel_1=Nivel requerido
 ContentLevelDesc_1=%s_1
@@ -3265,7 +3265,7 @@ DailySubMission_3_1000_1=Contenido Talismán: Supera 6 fases de defensa de aeron
 DailySubMission_3_1000_2=Consigue el Talismán: Blood Castle
 DailySubMission_4_2000_0=Contenido Talismán: Completa 13 fases de Airship Defense
 DailySubMission_4_2000_1=Despejar Sleighbowa, fase mítica 1
-DailySubMission_4_2000_2=Despeja el reino de la perseverancia: Prueba
+DailySubMission_4_2000_2=Despeja el Realm of Perseverance: Prueba
 DailySubMission_4_2000_3=Despejar Antigua Arca de Kanturia, Fase 1
 DailySubMission_4_2000_4=Despejar Endless Tower, Etapa 5
 DailySubMission_99_9999_0=Despejar Lupa's Labyrinth, nivel 1 o superior
@@ -3811,7 +3811,7 @@ MemImp_CategoryName_31=El desastre finalmente arreglado 2
 [MemoryImprint_MissionContents]
 MemImp_MissionContents_11_1=Subyugar Área Restringida 6-1, Etapa 3 %s_1
 MemImp_MissionContents_11_2=Defender Defensa Dirigible, Etapa 12 %s_1
-MemImp_MissionContents_11_3=Subyugar Reino de la Perseverancia: Prueba, Etapa 1 %s_1
+MemImp_MissionContents_11_3=Subyugar Realm of Perseverance: Prueba, Etapa 1 %s_1
 MemImp_MissionContents_11_4=Despejar Antigua Arca Kanturiana, Etapa 1 %s_1
 MemImp_MissionContents_12_1=Conquistar la Cueva de los Susurros, Etapa Mítica 2 %s_1
 MemImp_MissionContents_12_2=Conquistar Reposo del Peregrino, Etapa Mítica 2 %s_1
@@ -3837,7 +3837,7 @@ MemImp_MissionContents_17_1=Al Campo de Batalla %s_1
 MemImp_MissionContents_17_2=Al campo de batalla una vez más %s_1
 MemImp_MissionContents_17_3=Sólo uno de esos días %s_1
 MemImp_MissionContents_17_4=Objetivo significativo %s_1
-MemImp_MissionContents_18_1=Claro reino de la perseverancia: Prueba, Etapa 1 %s_1
+MemImp_MissionContents_18_1=Claro Realm of Perseverance: Prueba, Etapa 1 %s_1
 MemImp_MissionContents_18_2=Completar Área Restringida 6-1, Etapa 3 %s_1
 MemImp_MissionContents_18_3=Defiende la Defensa del Dirigible, Etapa 20 %s_1
 MemImp_MissionContents_18_4=Despeja el Arca Antigua de Kanturia, Etapa 3 %s_1
@@ -3897,7 +3897,7 @@ MemImp_MissionContents_33_5=33 Categoría 5 Contenido de la misión %s_1
 [MemoryImprint_ScenarioName]
 MemImp_ScenarioName_11_1=Registro del explorador - Área restringida
 MemImp_ScenarioName_11_2=Registro del explorador - Airship Defense
-MemImp_ScenarioName_11_3=Registro del Explorador - Reino de la Perseverancia: Prueba
+MemImp_ScenarioName_11_3=Registro del Explorador - Realm of Perseverance: Prueba
 MemImp_ScenarioName_11_4=Diario del explorador - Antigua Arca Kanturiana
 MemImp_ScenarioName_12_1=Suspiro de Iris, Comandante Fantasma de las Sombras
 MemImp_ScenarioName_12_2=Notificación de Pilgrim's Rest
@@ -3983,7 +3983,7 @@ MemImp_ScenarioName_33_5=33 Categoría 5 Título del escenario
 [MemoryImprint_ScenarioContents]
 MemImp_ScenarioContents_11_1=He estado en muchos lugares en mi vida, pero el más brutal fue sin duda el Área Restringida. No hay duda de que esos monstruos terriblemente desfigurados solían ser seres humanos. Arrastrando sus mórbidamente extraños cuerpos fusionados con materia vegetal, estas criaturas sólo se dejan llevar por su instinto de matar y devorar. No sé qué ha pasado aquí, pero estoy seguro de que es algo inimaginable y que ha sido causado por los humanos. Que dios, cualquier dios, se apiade de estas pobres almas.
 MemImp_ScenarioContents_11_2=Para un explorador, subir a una aeronave para encontrar Pandemonium sería la máxima emoción. Sin embargo, siempre hay peligro al embarcarse en aventuras así. Todas esas grandes esperanzas de descubrir el mundo desconocido se convierten rápidamente en terror y miedo cuando la aeronave y su motor son completamente destruidos por los demonios poco después del despegue. Ahora que lo pienso, fue un milagro que alguien consiguiera volver con vida.
-MemImp_ScenarioContents_11_3=He tenido la suerte de visitar un lugar llamado Reino de la Perseverancia: Proof, aunque sólo por un ratito, gracias a un amigo mío que una vez fue Caballero Dracans. Es el hogar de un malvado dragón gigante que amenazaba a los dracanos, y apesta a muerte. Incluso desde la distancia, el furioso rugido del dragón nos hizo paralizarnos de miedo. En ese momento, mi instinto me dijo: «Algo no va bien aquí», y me vi corriendo hacia la salida.
+MemImp_ScenarioContents_11_3=He tenido la suerte de visitar un lugar llamado Realm of Perseverance: Proof, aunque sólo por un ratito, gracias a un amigo mío que una vez fue Caballero Dracans. Es el hogar de un malvado dragón gigante que amenazaba a los dracanos, y apesta a muerte. Incluso desde la distancia, el furioso rugido del dragón nos hizo paralizarnos de miedo. En ese momento, mi instinto me dijo: «Algo no va bien aquí», y me vi corriendo hacia la salida.
 MemImp_ScenarioContents_11_4=Creo que nunca olvidaré el shock que sentí al entrar en este lugar por primera vez. Para empezar, no podía entender cómo una estructura tan gigantesca se mantenía a flote en el mar. ¿Y todo lo que había dentro? Nunca había visto tanto metal y material, todo entretejido de colores. Y todo mantenido por alguna energía mística. El futuro siempre había estado ahí, en esa arca, habiendo permanecido latente durante una eternidad.
 MemImp_ScenarioContents_12_1=Miren... fue mi maestra. Todo lo que sé, lo aprendí de ella. Era amiga y fiel sirviente de la Reina Cara. Poseía un espíritu tan implacable e inquebrantable... Siempre me enorgullecía decir que «Ella es mi maestra». No puedo creer que alguien tan magnífica como ella tuviera un final tan... sombrío. Realmente me siento deprimida cuando pienso en eso. Espero... que Sapientia perdone sus pecados y la abrace.
 MemImp_ScenarioContents_12_2=Si eres un Ashas, debes, por supuesto, honrar a tus ancestros. Incluso si no eres miembro de los Ashas, por la presente se te ordena obedecer nuestras leyes. Este es el lugar de descanso final de nuestros grandes ancestros. Aunque no eran más que nómadas que abandonaron su patria desaparecida, los cimientos que construyeron nos permitieron mantenernos firmes sobre nuestros pies. Por ello, es deber de todos los que visitan este Reposo del Peregrino transmitir su máximo respeto por el sacrificio y los nobles esfuerzos de nuestros antepasados.

@@ -1114,7 +1114,7 @@ Mission_Target1=Derrotar a los Monstruos que tienen los Morteros.
 [Quest_170]
 Name=Volver a la Luna
 Occur_String1=Una vez creí que podía ir a la luna si tenía morteros. Era tan joven, lleno de imaginación.<br>Ahora sé que necesito una nave espacial para llegar a la luna, una gran y fuerte nave espacial. El problema es que solo ciertos monstruos tienen las piezas que necesito.
-Occur_String2=¿Podrías encargarte de ellos, para que pueda recolectar los componentes? Puedes encontrarlos en las mazmorras en Noria y en la parte sur del Reino de la Perseverancia: Valía.<br>Entonces, contaré contigo.
+Occur_String2=¿Podrías encargarte de ellos, para que pueda recolectar los componentes? Puedes encontrarlos en las mazmorras en Noria y en la parte sur del Realm of Perseverance: Valía.<br>Entonces, contaré contigo.
 Doing_String=No recuerdo por qué pensé que podría ir a la luna si tenía morteros.<br>Quizás perdí ese recuerdo junto con mi inocencia infantil.
 Completable_String1=Gracias a ti, ahora puedo construir la nave espacial para ir a la luna más rápido de lo que pensaba. Gracias. ¿Te importaría volver mañana y ayudarme de nuevo?<br>Oh, y si tienes piezas de nave espacial, puedo intercambiarlas por lo que tengo. Será útil para ti.
 Completable_String2=Y aquí, recogí este mortero. ¿Por qué no se lo das al niño a mi lado? Le encantará.<br>Me siento demasiado tímido para dárselo yo mismo, y tengo la sensación de que no le gusto... De todos modos, gracias.
@@ -33237,11 +33237,11 @@ Mission_Target1=Hablar con Quadro
 
 [Quest_5603]
 Name=Odio Profundo
-Occur_String1=El Comandante de los Caballeros de Dracans, Chaisong, vino a verte, Presidente. Por favor, permite que este guerrero desafíe el Reino de la Perseverancia conmigo.
+Occur_String1=El Comandante de los Caballeros de Dracans, Chaisong, vino a verte, Presidente. Por favor, permite que este guerrero desafíe el Realm of Perseverance conmigo.
 Occur_String2=¡Chaisong! ¡Tú y ese guerrero cooperaron con esos canallas de Lorencia que devastaron nuestra tierra! ¿Creías que no sabía eso?
 Occur_String3=Presidente, ese hombre, Adrian de la Alianza Noble, fue responsable de lo que pasó entonces. Se alió con los Demonios. Si no fuera por los Deviases y este guerrero, habríamos sido borrados de la faz de la tierra.
 Occur_String4=Deviases, Alianza Noble: ¡son la misma cosa! Lo que pasó entonces confirmó mi creencia de que cualquiera de Lorencia no es de fiar. ¡Así que deja de intentar engañarme con tus palabras, Chaisong!
-Occur_String5=...De acuerdo, pero sé que no podemos pasar todas las pruebas en el Reino de la Perseverancia sin la ayuda de este guerrero. No puedo obligarte a permitirlo, pero me aseguraré de que seas responsable de las consecuencias de tu decisión.
+Occur_String5=...De acuerdo, pero sé que no podemos pasar todas las pruebas en el Realm of Perseverance sin la ayuda de este guerrero. No puedo obligarte a permitirlo, pero me aseguraré de que seas responsable de las consecuencias de tu decisión.
 Occur_String6=¿Me estás amenazando ahora, Chaisong?
 Occur_String7=No es una amenaza. Solo quiero que mi asistente, Kainan, vuelva a trabajar. Por favor, reconsidera tu decisión.
 Occur_String8=...¡Esto más te vale que lleve a algo bueno! ¿Entendido?
@@ -33269,7 +33269,7 @@ Name=Dracansor
 Occur_String1=Aquí tienes mi permiso.
 Occur_String2=Debes ser ese famoso forastero. He oído que ayudaste al Comandante Chaisong a lidiar con todo tipo de problemas.<br>Dracansor, al cual estás a punto de entrar, es el lugar más sagrado para nosotros los Dracanses. Generalmente está prohibido para extranjeros como tú. Por favor, mantén el respeto mientras estés aquí.
 Occur_String3=Lo tendré en cuenta.
-Occur_String4=Bien. Y cuando entres en Dracansor, deberías pasar por el Centro de Mando de los Caballeros de Dracans y ver al Maestro Guerrero primero. Como forastero, necesitarás su aprobación para entrar en el Reino de la Perseverancia.
+Occur_String4=Bien. Y cuando entres en Dracansor, deberías pasar por el Centro de Mando de los Caballeros de Dracans y ver al Maestro Guerrero primero. Como forastero, necesitarás su aprobación para entrar en el Realm of Perseverance.
 Doing_String=Todos los Dracanses te agradecen por tu heroísmo.
 Completable_String1=¡Ja ja ja! ¿Eres ese famoso Asesino Extraño, verdad?<br>Chaisong no puede dejar de elogiar tus hazañas. ¡Bienvenido a Dracansor!
 Complete_String=Le mostré a Gonchi el permiso que recibí de Chaisong y entré en Dracansor. Ahora debería pasar por el Centro de Mando de los Caballeros de Dracans y encontrarme con el Maestro Guerrero.
@@ -33282,13 +33282,13 @@ Mission_Target1=Hablar con el Maestro Guerrero
 Name=Maestro Guerrero
 Occur_String1=Creo que no estaba muy lejos de ti. Yakan, hermano mío. Este es el nuevo hermano del que te hablé. Trátalo como me tratarías a mí.
 Occur_String2=¡Ja, ja, ja! ¿Quién diría que el gran Chaisong diría algo así? Muy bien, excelente. A partir de hoy, tengo un hermano más. ¡Oye, Chaisong! ¿Listo para beber toda la noche?
-Occur_String3=Siempre... Pero no puedo ahora. Nuestro hermano y yo debemos entrar al Reino de la Perseverancia.<br>Como habrás oído, el Subcomandante Kainan no está en buen estado. Esperamos encontrar una solución en la Cámara de la Sabiduría, más allá del Reino de la Perseverancia.
+Occur_String3=Siempre... Pero no puedo ahora. Nuestro hermano y yo debemos entrar al Realm of Perseverance.<br>Como habrás oído, el Subcomandante Kainan no está en buen estado. Esperamos encontrar una solución en la Cámara de la Sabiduría, más allá del Realm of Perseverance.
 Occur_String4=¿La Cámara de la Sabiduría? ¡Es suicida! ¿Por qué no me llevas a mí en su lugar? Con nuestra experiencia, podría ser posible.
 Occur_String5=Aprecio tu oferta, pero no. Si ambos morimos, ¿quién cuidará de los demás? Esto es lo mejor, hermano.
 Occur_String6=¡Ja, ja, ja! Supongo que tienes razón. Entiendo. Oye, nuevo hermano. Aquí tienes tu permiso. Buena suerte a ambos. La necesitarán.
 Doing_String=Espera... Creo que me falta algo...
 Completable_String1=¡Oh, cierto! Chaisong, casi olvidé decirte que ha llegado un invitado importante para verte.
-Complete_String=Chaisong llegó al Centro de Mando de los Caballeros de Dracans poco después de mí. Me presentó al Maestro Guerrero Yakan y le pidió que me tratara como a él. El Maestro Guerrero aceptó de buen grado la petición de Chaisong y me dio un permiso para entrar al Reino de la Perseverancia.
+Complete_String=Chaisong llegó al Centro de Mando de los Caballeros de Dracans poco después de mí. Me presentó al Maestro Guerrero Yakan y le pidió que me tratara como a él. El Maestro Guerrero aceptó de buen grado la petición de Chaisong y me dio un permiso para entrar al Realm of Perseverance.
 List_String=(Misión Principal de Dracansor) (7/44)<br>Visita el Centro de Mando de los Caballeros de Dracans en Dracansor y habla con el Maestro Guerrero.
 Mission_String=Habla con el Maestro Guerrero en el Centro de Mando de los Caballeros de Dracans en Dracansor
 Mission_Target1=Hablar con el Maestro Guerrero
@@ -33298,16 +33298,16 @@ Name=Príncipe Bryant
 Occur_String1=El Comandante de los Caballeros de Dracans, Chaisong, vino a verte, Alteza.
 Occur_String2=C-Chaisong... V-Vine aquí... p-porque tengo un favor que pedirte...
 Occur_String3=Alteza, soy tu súbdito. Ni siquiera tienes que pedirlo. Por favor, dime lo que deseas. Tus deseos son mi mandato.
-Occur_String4=¡Ja, ja, ja! Hoy estoy viendo muchas facetas interesantes de tu personalidad, Chaisong. ¡Nunca te había visto tan desconcertado antes! Oye, Chaisong. Su Alteza desea entrar al Reino de la Perseverancia contigo.
+Occur_String4=¡Ja, ja, ja! Hoy estoy viendo muchas facetas interesantes de tu personalidad, Chaisong. ¡Nunca te había visto tan desconcertado antes! Oye, Chaisong. Su Alteza desea entrar al Realm of Perseverance contigo.
 Occur_String5=¿Qué? ¿Pero por qué...?
 Occur_String6=Escucha. Por si no lo sabes, Su Alteza ha sido desterrado de la Familia Real. Ya sabes cómo es Su Majestad. Las cosas iban bien hasta que el antiguo Príncipe Heredero, Woongpam, fue deshonrado y desheredado por la familia por la vergüenza que les trajo.
 Occur_String7=Su Majestad valora mucho a los guerreros. No hace excepciones para nadie, ni siquiera para sus propios hijos. De hecho, es más estricto con ellos porque deben llevar adelante su legado. Quiere ver si el Príncipe Bryant tiene lo necesario para ser su heredero.
-Occur_String8=En otras palabras, ha declarado que no permitirá que el Príncipe Bryant regrese al palacio a menos que pase la Prueba del Reino de la Perseverancia: Dignidad. Cuando vino aquí por primera vez, intenté emparejarlo con otro instructor e incluso conmigo mismo. Insistió en que debía ser contigo, Chaisong.
-Occur_String9=...Entiendo, Alteza. Es un honor para mí escoltarlo al Reino de la Perseverancia. Alteza, por favor prepárese para partir.
-Occur_String10=Lo siento, hermano. Resulta que tú y yo tendremos que movernos por separado en el Reino de la Perseverancia: Dignidad. Aquí, lleva este permiso de Yakan a las Puertas de la Gloria. El instructor allí te dirá qué hacer.
+Occur_String8=En otras palabras, ha declarado que no permitirá que el Príncipe Bryant regrese al palacio a menos que pase la Prueba del Realm of Perseverance: Dignidad. Cuando vino aquí por primera vez, intenté emparejarlo con otro instructor e incluso conmigo mismo. Insistió en que debía ser contigo, Chaisong.
+Occur_String9=...Entiendo, Alteza. Es un honor para mí escoltarlo al Realm of Perseverance. Alteza, por favor prepárese para partir.
+Occur_String10=Lo siento, hermano. Resulta que tú y yo tendremos que movernos por separado en el Realm of Perseverance: Dignidad. Aquí, lleva este permiso de Yakan a las Puertas de la Gloria. El instructor allí te dirá qué hacer.
 Doing_String=Lo siento que las cosas resultaran así, hermano. Pero esto también me tomó por sorpresa.
 Completable_String1=¡Detente! Solo los Dracanses pueden entrar en este sagrado campo de pruebas.
-Complete_String=El plan de viajar con Chaisong se vino abajo en el momento en que apareció el Príncipe Bryant. Ahora Chaisong tuvo que acompañar al Príncipe, y yo quedé solo. ¿Podré realmente explorar este lugar desconocido, el Reino de la Perseverancia, por mí mismo?
+Complete_String=El plan de viajar con Chaisong se vino abajo en el momento en que apareció el Príncipe Bryant. Ahora Chaisong tuvo que acompañar al Príncipe, y yo quedé solo. ¿Podré realmente explorar este lugar desconocido, el Realm of Perseverance, por mí mismo?
 List_String=(Misión Principal de Dracansor) (8/44)<br>Habla con el Instructor frente a las Puertas de la Gloria en Dracansor.
 Mission_String=Habla con el Instructor frente a las Puertas de la Gloria en Dracansor
 Mission_Target1=Hablar con el Instructor Zeren
@@ -33316,15 +33316,15 @@ Mission_Target1=Hablar con el Instructor Zeren
 Name=Puertas de la Gloria
 Occur_String1=Aquí tienes mi permiso del Maestro Guerrero. Tu comandante Chaisong dijo que me dirías qué hacer si te lo entrego. ¿Correcto?
 Occur_String2=Mm... Juzgando por el mensaje, realmente fuiste enviado por el Comandante Chaisong. Muy bien, dado que esta debe ser tu primera vez aquí, permíteme darte una breve introducción.
-Occur_String3=El Reino de la Perseverancia es un inmenso desfiladero que se descubrió durante la era del antiguo Imperio Wallkreiger. Es extremadamente peligroso, plagado de monstruos provenientes de una gran Rift que se formó hace eones.
+Occur_String3=El Realm of Perseverance es un inmenso desfiladero que se descubrió durante la era del antiguo Imperio Wallkreiger. Es extremadamente peligroso, plagado de monstruos provenientes de una gran Rift que se formó hace eones.
 Occur_String4=Pero nosotros los Dracanses, siendo la raza guerrera que somos, lo hemos usado como campo de entrenamiento para transformar a nuestros jóvenes en excelentes combatientes desde que alcanzan la mayoría de edad. Los más talentosos son seleccionados para convertirse en Caballeros de Dracans.
 Occur_String5=Eso es suficiente explicación. Básicamente, estás diciendo que es un campo de entrenamiento para ustedes, ¿verdad? Entonces, ¿dónde está la primera área de entrenamiento?
-Occur_String6=El Reino de la Perseverancia es tan vasto que es difícil describir verbalmente dónde está cada cosa. Así que estamos dando a todos los que entran aquí un mapa que los Caballeros de Dracans crearon. Muestra la ubicación de cada área de prueba. Puedes usarlo para orientarte en este lugar.
+Occur_String6=El Realm of Perseverance es tan vasto que es difícil describir verbalmente dónde está cada cosa. Así que estamos dando a todos los que entran aquí un mapa que los Caballeros de Dracans crearon. Muestra la ubicación de cada área de prueba. Puedes usarlo para orientarte en este lugar.
 Doing_String=Estas Puertas de la Gloria son una estructura simbólica construida para celebrar la victoria de las fuerzas aliadas que conquistaron este lugar. Se ven magníficas, ¿no?
-Complete_String=Entregué el permiso del Maestro Guerrero al instructor frente a las Puertas de la Gloria. Me dio una breve introducción al Reino de la Perseverancia junto con un mapa que mostraba todas las áreas de prueba.
-List_String=(Misión Principal de Dracansor) (9/44)<br>Antes de entrar al Reino de la Perseverancia, debería pasar por la terraza al otro lado de las Puertas de la Gloria y verificar la estructura en general.
-Mission_String=Obtén una vista panorámica del Reino de la Perseverancia en la Terraza al otro lado de las Puertas de la Gloria
-Mission_Target1=Obtener una vista panorámica del Reino de la Perseverancia en la Terraza
+Complete_String=Entregué el permiso del Maestro Guerrero al instructor frente a las Puertas de la Gloria. Me dio una breve introducción al Realm of Perseverance junto con un mapa que mostraba todas las áreas de prueba.
+List_String=(Misión Principal de Dracansor) (9/44)<br>Antes de entrar al Realm of Perseverance, debería pasar por la terraza al otro lado de las Puertas de la Gloria y verificar la estructura en general.
+Mission_String=Obtén una vista panorámica del Realm of Perseverance en la Terraza al otro lado de las Puertas de la Gloria
+Mission_Target1=Obtener una vista panorámica del Realm of Perseverance en la Terraza
 
 
 [Quest_5609]
@@ -33343,13 +33343,13 @@ Occur_String2=El equipo de suministros debería estar aquí pronto. Les pediré 
 Occur_String3=Que se ocupen ellos de eso. Primero, cuéntame sobre la prueba.
 Occur_String4=Ah, claro. Llegaste en el momento justo. Debiste ver que la mayoría de nuestras barricadas están rotas en tu camino aquí.<br>Arréglalas primero, ¿quieres?
 Occur_String5=¿Por qué no pueden hacerlo ustedes mismos?<br>Esos quehaceres no pueden ser parte de la prueba.
-Occur_String6=¡Ja, ja, ja! Si vas a tener esa actitud, será mejor que regreses. Seleccionamos a los Caballeros de Dracans a través del Reino de la Perseverancia, y para eso, los soldados deben obedecer nuestras órdenes.
+Occur_String6=¡Ja, ja, ja! Si vas a tener esa actitud, será mejor que regreses. Seleccionamos a los Caballeros de Dracans a través del Realm of Perseverance, y para eso, los soldados deben obedecer nuestras órdenes.
 Occur_String7=Como extranjero, tal vez no necesites saber todo eso, pero ya que estás aquí, deberías hacer lo que hacemos nosotros, los Dracans. ¿No estás de acuerdo?
 Occur_String8=...Entiendo. Me disculpo por lo que acabo de decir. Yo también fui soldado una vez. Estoy de acuerdo contigo.
 Occur_String9=Bien. Ahora que nos entendemos, pongámonos a trabajar, ¿de acuerdo?<br>Gracias de antemano.
 Doing_String=¿Qué estás haciendo? ¿No ves que tenemos mucho trabajo por hacer?
 Completable_String1=Hmm... Bien, las arreglaste bastante bien.
-Complete_String=Según el primer instructor, el Reino de la Perseverancia sirve como un campo de entrenamiento militar. Aquí, producimos soldados bien entrenados a través de batallas simuladas repetidas contra monstruos. Ese es el propósito de Dracansor.
+Complete_String=Según el primer instructor, el Realm of Perseverance sirve como un campo de entrenamiento militar. Aquí, producimos soldados bien entrenados a través de batallas simuladas repetidas contra monstruos. Ese es el propósito de Dracansor.
 List_String=(Misión Principal de Dracansor) (11/44)<br>Repara las barricadas de madera rotas alrededor de la Línea de Defensa Sur.
 Mission_String=Reparar las barricadas de madera rotas alrededor de la Línea de Defensa Sur
 Mission_Target1=Reparar Barricadas de Madera
@@ -33511,9 +33511,9 @@ Mission_Target3=Entrega las hierbas a los soldados Dracans heridos
 
 [Quest_5623]
 Name=Estabilizar Rift
-Occur_String1=Mmm... Antes de hablar de mi próxima misión, déjame ser honesto contigo. Creo que hay problemas serios aquí en el Reino de la Perseverancia. El equipo de suministros no viene a menudo, los esquemas de la máquina de asedio fueron robados del Primer Área... No sé qué está pensando tu cuartel general.
+Occur_String1=Mmm... Antes de hablar de mi próxima misión, déjame ser honesto contigo. Creo que hay problemas serios aquí en el Realm of Perseverance. El equipo de suministros no viene a menudo, los esquemas de la máquina de asedio fueron robados del Primer Área... No sé qué está pensando tu cuartel general.
 Occur_String2=Estoy completamente de acuerdo contigo. Hablando de eso, ¿no eres cercano al Comandante? ¿No podrías hablar con él en nuestro nombre?
-Occur_String3=Pensé que el Guerrero Maestro estaba a cargo del Reino de la Perseverancia. Por lo que escuché de Chaisong, parece confiar en la gestión de este lugar por parte del Guerrero Maestro.
+Occur_String3=Pensé que el Guerrero Maestro estaba a cargo del Realm of Perseverance. Por lo que escuché de Chaisong, parece confiar en la gestión de este lugar por parte del Guerrero Maestro.
 Occur_String4=Pero ese es el problema. Intentamos hablar con el Guerrero Maestro muchas veces, pero no nos escucha. Es hora de que el Comandante Chaisong sepa lo que realmente está pasando aquí.
 Occur_String5=Hasta donde sé, Chaisong ha entrado en este desfiladero con uno de tus príncipes, que parece no saber cómo pelear. Chaisong tiene mucho trabajo por delante.
 Occur_String6=¿Qué? ¿El Comandante Chaisong viene hacia aquí?<br>¡Oh, no! ¡No puede vernos en este estado!
@@ -33523,7 +33523,7 @@ Occur_String9=¿Los estabilizadores? ¿Se usan para debilitar a los monstruos al
 Occur_String10=Bueno, no sé exactamente cómo funcionan, pero creo que lo que dijiste es bastante cercano. Fueron desarrollados por un antiguo aliado nuestro, los Ashases, así que no conozco todos los detalles.
 Doing_String=Si no estás seguro de que puedes hacer esto, puedes rendirte. No necesito más cadáveres en mi conciencia.
 Completable_String1=¡Wow, buen trabajo! Para ser honesto, pensé que sería una tarea difícil para una sola persona, incluso para el Comandante Chaisong.
-Complete_String=Le di a Anan mi opinión honesta sobre el Reino de la Perseverancia. Anan estuvo completamente de acuerdo conmigo y me pidió que hablara con su comandante, Chaisong, en su nombre.
+Complete_String=Le di a Anan mi opinión honesta sobre el Realm of Perseverance. Anan estuvo completamente de acuerdo conmigo y me pidió que hablara con su comandante, Chaisong, en su nombre.
 List_String=(Misión Principal de Dracansor) (24/44)<br>Entra en Rift cerca del Área de Entrenamiento y elimina a todos los Demonios al otro lado.
 Mission_String=Entra en Rift cercana y elimina a los Demonios al otro lado
 Mission_Target1=Elimina a la Legión Thrasher
@@ -33615,7 +33615,7 @@ Name=Los Demonios que Amenazan la Base
 Occur_String1=Las cosas son peores de lo que pensé. Los Dientes de Sangre han sido impulsados hacia tu dirección por los Kunikuluses. Se han reunido alrededor de la entrada, preparándose para atacar este lugar. Para ellos, es la única salida.
 Occur_String2=Esto es malo. Estamos rodeados de enemigos, y la mayoría de nosotros está demasiado herido para pelear.<br>¿Alguna vez enviará el Cuartel General ayuda?
 Occur_String3=Dudo que lo hagan. Pasé por un par de otras bases de defensa en mi camino, y ninguna de ellas estaba recibiendo mucho apoyo del Cuartel General, tampoco.
-Occur_String4=El comandante debe estar pensando en esto. Probablemente solo no ha intervenido aún porque el Reino de la Perseverancia es la jurisdicción del Guerrero Maestro.
+Occur_String4=El comandante debe estar pensando en esto. Probablemente solo no ha intervenido aún porque el Realm of Perseverance es la jurisdicción del Guerrero Maestro.
 Occur_String5=Es bueno saberlo. ¿Esta fue la última misión para mí en esta Área?
 Occur_String6=Lo siento, pero el Comandante Chaisong quisiera que te ocupes de una misión más. Nos ha pedido a los soldados que defendamos esta base y que tú elimines al enemigo afuera.
 Occur_String7=Él debe estar con tu príncipe, así que supongo que tendré que manejar esto.<br>Bien, ¿qué quieres que haga exactamente?
@@ -33637,9 +33637,9 @@ Occur_String3=¿Qué es?
 Occur_String4=Los Dientes de Sangre y los Kunikuluses están a la greña en este momento. Dañes a uno de ellos demasiado, y inclinarás la balanza a favor del otro bando.
 Occur_String5=Entendido. Quieres que dañe a los Dientes de Sangre lo suficiente para darles una advertencia, pero no tanto como para debilitarlos de manera que no puedan mantener a los Kunikuluses a raya.
 Occur_String6=Eres bastante astuto.<br>Entonces, contaré contigo.
-Doing_String=Espero que mantengas el equilibrio entre los Demonios de Rift y las tribus locales.<br>Es la función más importante del Reino de la Perseverancia.
+Doing_String=Espero que mantengas el equilibrio entre los Demonios de Rift y las tribus locales.<br>Es la función más importante del Realm of Perseverance.
 Completable_String1=¡Bienvenido de nuevo! Gracias a ti, esta base estará a salvo por un tiempo. El Comandante Chaisong ha preparado personalmente una recompensa para ti por tus heroicas hazañas en esta Área, guerrero.
-Complete_String=Después de encargarme de los thrashers y apaciguar el peligro inminente, BOrikh me pidió que dañara a los Dientes de Sangre sin inclinar la balanza a favor de los Kunikuluses. Mantener el equilibrio entre los Demonios de Rift y las tribus locales es la función más importante del Reino de la Perseverancia.
+Complete_String=Después de encargarme de los thrashers y apaciguar el peligro inminente, BOrikh me pidió que dañara a los Dientes de Sangre sin inclinar la balanza a favor de los Kunikuluses. Mantener el equilibrio entre los Demonios de Rift y las tribus locales es la función más importante del Realm of Perseverance.
 List_String=(Misión Principal de Dracansor) (31/44)<br>Daña a los Dientes de Sangre solo lo suficiente para mantenerlos alejados de la base de los Caballeros Dracans.
 Mission_String=Inflige daño adecuado a los Dientes de Sangre
 Mission_Target1=Derrota a los Dientes de Sangre alrededor de la entrada
@@ -33750,7 +33750,7 @@ Mission_Target2=Mueve a la Base Central de los Caballeros Dracans.
 [Quest_5637]
 Name=De Regreso a Dracansor
 Completable_String1=¡Hah hah hah! ¡Volviste más rápido de lo que pensaba! Y sin Chaisong. ¿Por qué, te estás rindiendo?
-Complete_String=Completé todas las misiones que recibí en el Reino de la Perseverancia: Dignidad y regresé al Centro de Comando de los Caballeros Dracans en Dracansor. El Guerrero Maestro se sorprendió porque regresé más rápido de lo que esperaba.
+Complete_String=Completé todas las misiones que recibí en el Realm of Perseverance: Dignidad y regresé al Centro de Comando de los Caballeros Dracans en Dracansor. El Guerrero Maestro se sorprendió porque regresé más rápido de lo que esperaba.
 List_String=(Misión Principal de Dracansor) (38/44)<br>Regresa al Centro de Comando de los Caballeros Dracans y relata las situaciones de las bases de los Caballeros Dracans al Guerrero Maestro.
 Mission_String=La situación de cada base
 Mission_Target1=Regresa a Dracansor y habla con el Guerrero Maestro
@@ -33762,7 +33762,7 @@ Occur_String1=No, completé todas las pruebas que me dieron en Dignidad. Volví 
 Occur_String2=¡Oooh, ¿pasaste todas las Áreas de Pruebas!? Nadie en la historia de los Caballeros Dracans ha sido tan rápido como tú. Apuesto a que incluso Chaisong tardó más que tú.
 Occur_String3=No trates de cambiar de tema. Voy a decir lo que tengo que decir. Es tu decisión escuchar o no.
 Occur_String4=¡Hah hah! Eres más brusco de lo que pensaba.<br>Está bien, ¿qué tienes que decir?
-Occur_String5=Todas las bases de defensa en el Reino de la Perseverancia han estado perdiendo apoyo del cuartel general. Algunas ya están completamente aisladas. No vas a decir que no lo sabías, ¿verdad?
+Occur_String5=Todas las bases de defensa en el Realm of Perseverance han estado perdiendo apoyo del cuartel general. Algunas ya están completamente aisladas. No vas a decir que no lo sabías, ¿verdad?
 Occur_String6=Por supuesto que no. He estado pensando en eso.
 Occur_String7=...Está bien, entonces una cosa más: dos de tus bases han sido ocupadas por los Demonios. Las investigué y descubrí señales de manipulación por alguien de adentro. ¿Tienes algo que decir al respecto?
 Occur_String8=¡Hah hah hah! Eres gracioso. Hermano, no sé qué te dio la idea de que podría hacer algo tan ridículo, pero afortunadamente tengo muchos hermanos que pueden testificar por mí. Para empezar, ¿por qué no hablas con Zeren en las Puertas de la Gloria?
@@ -33793,14 +33793,14 @@ Occur_String3=Creo que lo he visto, un par de veces. No estoy interesado en la r
 Occur_String4=La siguiente fase, Pruebas, solo es accesible a través de Rift donde están. Una cosa a tener en cuenta: dado que esta Rift es creada por el poder sagrado de los sacerdotes, puede desaparecer en cualquier momento.
 Occur_String5=Una Rift inestable, eh. Suena peculiar.<br>Gracias por esa información, pero esa no es la razón por la que vine.
 Occur_String6=Lo siento, debería haber preguntado primero.<br>Entonces, ¿qué es?
-Occur_String7=No es nada importante. Solo quiero saber si tu Guerrero Maestro ha entrado recientemente en el Reino de la Perseverancia.
+Occur_String7=No es nada importante. Solo quiero saber si tu Guerrero Maestro ha entrado recientemente en el Realm of Perseverance.
 Occur_String8=Mm... No que yo sepa. Solía visitar las bases de defensa para alentar a los miembros allí, pero eso fue hace mucho tiempo.
 Occur_String9=...Gracias por decírmelo. Entonces, sigue con el buen trabajo.
 Doing_String=Siéntete libre de volver si tienes más preguntas.
 Completable_String1=Finalmente, aquí estamos. ¡Es bueno verte de nuevo, hermano!
-Complete_String=Le pregunté al Instructor Zeren en las Puertas de la Gloria si había visto a Yakan entrar en el Reino de la Perseverancia. Él sacudió la cabeza y dijo que no. Yakan solía visitar las bases a veces para alentar a los miembros allí, pero eso fue hace mucho tiempo.
-List_String=(Misión Principal de Dracansor) (41/44)<br>Pasa a la siguiente fase a través de Rift en el Reino de la Perseverancia: Dignidad.
-Mission_String=Pasa a la siguiente fase a través de Rift en el Reino de la Perseverancia: Dignidad
+Complete_String=Le pregunté al Instructor Zeren en las Puertas de la Gloria si había visto a Yakan entrar en el Realm of Perseverance. Él sacudió la cabeza y dijo que no. Yakan solía visitar las bases a veces para alentar a los miembros allí, pero eso fue hace mucho tiempo.
+List_String=(Misión Principal de Dracansor) (41/44)<br>Pasa a la siguiente fase a través de Rift en el Realm of Perseverance: Dignidad.
+Mission_String=Pasa a la siguiente fase a través de Rift en el Realm of Perseverance: Dignidad
 Mission_Target1=Habla con Chaisong en Pruebas
 
 
@@ -33851,7 +33851,7 @@ Occur_String9=Tienes suerte de ser un hablador tan suave. Ah... Está bien, lo e
 Occur_String10=Solo puedes entrar a la última fase a través de la entrada en la primera fase, Dignidad. Pero antes de que te vayas, hay algunas cosas que debes hacer, y solo Quadro puede decirte cuáles son. Debe haber llegado al centro de mando ahora. Vamos a verlo.
 Doing_String=Debería haberte dado suficientes detalles de antemano. Una vez más, lo siento, hermano.
 Completable_String1=He oído lo que has hecho aquí.<br>Me equivoqué contigo.
-Complete_String=Según Chaisong, todo lo que hice en el Reino de la Perseverancia fue una especie de fase de verificación para ver si era lo suficientemente fuerte como para sobrevivir al dragón, Death Roar, en la última fase, Prueba.
+Complete_String=Según Chaisong, todo lo que hice en el Realm of Perseverance fue una especie de fase de verificación para ver si era lo suficientemente fuerte como para sobrevivir al dragón, Death Roar, en la última fase, Prueba.
 List_String=(Misión Principal de Dracansor) (44/44)<br>Consulta a Quadro en el Centro de Mando de los Caballeros Dracans.
 Mission_String=Habla con Quadro en el Centro de Mando de los Caballeros Dracans
 Mission_Target1=Habla con Quadro
@@ -33870,7 +33870,7 @@ Occur_String8=Está bien, pero ¿tiene que ser los Demonios al otro lado del Rif
 Occur_String9=No sé por qué, pero los Demonios pierden la mayor parte de su Evil Energy cuando salen del Rift. En otras palabras, los Demonios fuera del Rift son inútiles para ti.
 Doing_String=Puede que no sepas esto, pero las dimensiones están separadas por una poderosa barrera que mantiene alejados a los seres de otro mundo. Por alguna razón, la Evil Energy puede penetrar parcialmente esta barrera. Y queremos usar eso.
 Completable_String1=¿Eh? ¡Eres ese extraño aprendiz de antes! ¿Qué haces aquí?
-Complete_String=(Misión del Talisman Dracansor) (1/13)<br>Para entrar en la última fase, Prueba, necesitaba un dispositivo para penetrar las poderosas barreras alrededor de la entrada. Quadro, a quien conocí en el Centro de Comando de los Caballeros Dracans, me dijo que podía usar la Evil Energy de los Demonios en el Rift para crear una especie de túnel portátil de Evil Energy a través de incluso la barrera más gruesa. Ahora debo entrar en el Rift en el Reino de la Perseverancia y luchar contra Demonios hasta que mi recolector de Evil Energy esté lleno.
+Complete_String=(Misión del Talisman Dracansor) (1/13)<br>Para entrar en la última fase, Prueba, necesitaba un dispositivo para penetrar las poderosas barreras alrededor de la entrada. Quadro, a quien conocí en el Centro de Comando de los Caballeros Dracans, me dijo que podía usar la Evil Energy de los Demonios en el Rift para crear una especie de túnel portátil de Evil Energy a través de incluso la barrera más gruesa. Ahora debo entrar en el Rift en el Realm of Perseverance y luchar contra Demonios hasta que mi recolector de Evil Energy esté lleno.
 List_String=(Misión del Talisman Dracansor) (1/13)<br>Pasa por la Base de Defensa Sur de los Caballeros Dracans y habla con la Instructora Anan.
 Mission_String=Pasa por la Base de Defensa Sur de los Caballeros Dracans y habla con la Instructora Anan
 Mission_Target1=Habla con Anan
@@ -33954,23 +33954,23 @@ Mission_Target1=Habla con Zeren
 
 [Quest_202807]
 Name=(T) Quadro Secuestrado
-Occur_String1=No estoy exactamente seguro aún, así que no puedo decirte. Por cierto, déjame preguntarte algo. ¿Está el Maestro Guerrero en el Reino de la Perseverancia?
+Occur_String1=No estoy exactamente seguro aún, así que no puedo decirte. Por cierto, déjame preguntarte algo. ¿Está el Maestro Guerrero en el Realm of Perseverance?
 Occur_String2=Mm... Sí. No ha pasado mucho tiempo desde que se fue.<br>Pero...
 Occur_String3=¿Pero?
 Occur_String4=Estaba con el Presidente del Consejo de Ancianos Quadro,<br>y el Presidente estaba rodeado de Caballeros Dracans armados como si fuera un rehén o prisionero.
 Occur_String5=(Oh no, ¿Yakan tomó a Quadro como rehén?)<br>Está bien, gracias. Te veré de nuevo.
 Doing_String=No creo haber visto nunca al Maestro Guerrero irse tan apresuradamente antes.<br>Me pregunto si ha pasado algo...
 Complete_String=(Misión del Talisman Dracansor) (7/13)<br>Parece que Yakan ha tomado como rehén al Presidente del Consejo de Ancianos Quadro, probablemente para usarlo como ventaja en caso de que Chaisong todavía esté conmigo y quiera ayudarme.
-List_String=(Misión del Talisman Dracansor) (7/13)<br>Busca el pasaje al Reino de la Perseverancia: Prueba.
-Mission_String=Busca el pasaje al Reino de la Perseverancia: Prueba.
-Mission_Target1=Entra en el pasaje conectado al Reino de la Perseverancia: Prueba.
+List_String=(Misión del Talisman Dracansor) (7/13)<br>Busca el pasaje al Realm of Perseverance: Prueba.
+Mission_String=Busca el pasaje al Realm of Perseverance: Prueba.
+Mission_Target1=Entra en el pasaje conectado al Realm of Perseverance: Prueba.
 
 
 [Quest_5644]
 Name=(T) Rugido Mortal, el Dragón Guardián
-Complete_String=(Misión del Talisman Dracansor) (8/13)<br>Seguí las huellas hacia el Reino de la Perseverancia: Prueba, pero no encontré rastros de criaturas aparte de su dragón guardián, Rugido Mortal. Me preguntaba si Yakan me había tendido una trampa cuando Rugido Mortal salió del enorme cráter, rugiendo con furia. Logré derrotarlo, aunque con dificultad, y me dirigí al siguiente lugar donde sospechaba que podría estar Yakan.
-List_String=(Misión del Talisman Dracansor) (8/13)<br>Derrota a Rugido Mortal, el dragón guardián del Reino de la Perseverancia: Prueba
-Mission_String=Derrota a Rugido Mortal, el dragón guardián del Reino de la Perseverancia: Prueba
+Complete_String=(Misión del Talisman Dracansor) (8/13)<br>Seguí las huellas hacia el Realm of Perseverance: Prueba, pero no encontré rastros de criaturas aparte de su dragón guardián, Rugido Mortal. Me preguntaba si Yakan me había tendido una trampa cuando Rugido Mortal salió del enorme cráter, rugiendo con furia. Logré derrotarlo, aunque con dificultad, y me dirigí al siguiente lugar donde sospechaba que podría estar Yakan.
+List_String=(Misión del Talisman Dracansor) (8/13)<br>Derrota a Rugido Mortal, el dragón guardián del Realm of Perseverance: Prueba
+Mission_String=Derrota a Rugido Mortal, el dragón guardián del Realm of Perseverance: Prueba
 Mission_Target1=Derrota a Rugido Mortal
 
 [Quest_5645]
@@ -34276,7 +34276,7 @@ Name=Los Demonios Desenfrenados
 Occur_String1=No sé por qué, pero las Brechas cerca de nuestras bases se han vuelto inestables nuevamente, dejando entrar ejércitos de Demonios en nuestro reino. Si no te importa, me gustaría que restabilizaras estas Brechas. ¿Podrías hacerlo?
 Doing_String=Un Nuevo Guerrero Maestro debería ser nombrado pronto.
 Completable_String1=Eso me quita un gran peso de encima. ¡Gracias!
-Complete_String=Las Brechas cerca de la segunda base de defensa, donde Anan era el instructor, y la última base de defensa de los Caballeros Dracan estaban descontroladas, permitiendo que Demonios de otras dimensiones vinieran al Reino de la Perseverancia. Entré en estas Brechas y eliminé a los Demonios, para que no comenzaran una conmoción como esta de nuevo.
+Complete_String=Las Brechas cerca de la segunda base de defensa, donde Anan era el instructor, y la última base de defensa de los Caballeros Dracan estaban descontroladas, permitiendo que Demonios de otras dimensiones vinieran al Realm of Perseverance. Entré en estas Brechas y eliminé a los Demonios, para que no comenzaran una conmoción como esta de nuevo.
 List_String=Entra en las Brechas desenfrenadas y elimina a los monstruos del otro lado.
 Mission_String=Elimina a los monstruos del otro lado de las Brechas desenfrenadas.
 Mission_Target1=Eliminar a la Legión Thrasher
@@ -34317,7 +34317,7 @@ Name=Valor de la Lucha
 Occur_String1=Nosotros, los sirvientes de Bulcan, creemos que nuestra lucha física es el mejor regalo que podemos ofrecer a nuestro dios, Bulcan. Puede ser extremadamente difícil para extraños como tú entender y practicar este valor, pero si lo haces, serás recompensado más de lo que puedes imaginar.
 Doing_String=Admiro tu noble voluntad, forastero.
 Completable_String1=Querido Bulcan, por favor bendice a este valiente guerrero.
-Complete_String=Derroté a otros jugadores y demostré que valoraba la lucha en el Reino de la Perseverancia: Pruebas.
+Complete_String=Derroté a otros jugadores y demostré que valoraba la lucha en el Realm of Perseverance: Trials.
 List_String=(Esta es una misión diaria de evento y debe cumplirse antes de las 5 AM.)<br=Derrota a otro jugador en el "ordeal" de Pasos de resistencia.
 Mission_String=Mata a otros jugadores en el "ordeal" de Pasos de resistencia.
 Mission_Target1=Derrota a otros jugadores
@@ -34327,9 +34327,9 @@ Name=Experiencia Valiosa
 Occur_String1=Aquí en Pruebas, puedes encontrar sacerdotes de combate regulares, así como sacerdotes de alto rango que los lideran y guían. Si tienes la oportunidad, pide a estos sacerdotes de alto rango un combate. Al pelear con ellos, aprenderás muchos valores que no puedes aprender en ningún otro lugar.
 Doing_String=Estos sacerdotes de alto rango son verdaderos guerreros que no temen perder.
 Completable_String1=Cada sacerdote de alto rango que se enfrentó contigo no tiene más que elogios para ti.
-Complete_String=Luché contra los sacerdotes de alto rango que estaban aquí y allá en el Reino de la Perseverancia: Pruebas y gané experiencia valiosa.
-List_String=Lucha contra los sacerdotes de alto rango que están aquí y allá en el Reino de la Perseverancia: Pruebas y gana experiencia.
-Mission_String=Lucha contra los sacerdotes de alto rango que están aquí y allá en el Reino de la Perseverancia: Pruebas.
+Complete_String=Luché contra los sacerdotes de alto rango que estaban aquí y allá en el Realm of Perseverance: Trials y gané experiencia valiosa.
+List_String=Lucha contra los sacerdotes de alto rango que están aquí y allá en el Realm of Perseverance: Trials y gana experiencia.
+Mission_String=Lucha contra los sacerdotes de alto rango que están aquí y allá en el Realm of Perseverance: Trials.
 Mission_Target1=Eliminar sacerdotes de alto rango
 
 
@@ -34338,9 +34338,9 @@ Name=El Mineral con el Poder del Dragón
 Occur_String1=Este templo, construido durante el antiguo Reino Wallkreiger, fue destruido por el poderoso aliento y garras de Death Roar. Como si para probar que Death Roar estuvo aquí, hay minerales sustentados con la energía de su aliento en estas ruinas del templo. Recoge estos minerales y llévalos a mí. Te recompensaré en consecuencia.
 Doing_String=Se dice que el Palacio Drapia está construyendo poderosas armas con estos minerales en su forja para resistir al dragón.
 Completable_String1=¡Buen trabajo! Recoge unos pocos más y tendrás suficientes minerales para crear un arma.
-Complete_String=Extraje los depósitos minerales sustentados con la energía de Death Roar en el Reino de la Perseverancia: Pruebas.
-List_String=Extrae Dragoniums que se pueden encontrar aquí y allá en el Reino de la Perseverancia: Pruebas.
-Mission_String=Extrae Dragoniums que se pueden encontrar aquí y allá en el Reino de la Perseverancia: Pruebas.
+Complete_String=Extraje los depósitos minerales sustentados con la energía de Death Roar en el Realm of Perseverance: Trials.
+List_String=Extrae Dragoniums que se pueden encontrar aquí y allá en el Realm of Perseverance: Trials.
+Mission_String=Extrae Dragoniums que se pueden encontrar aquí y allá en el Realm of Perseverance: Trials.
 Mission_Target1=Dragonium
 
 [Quest_1834]
@@ -38109,147 +38109,147 @@ Mission_Target1=Matar %s_1_1
 
 [Quest_1002025]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios invasores en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Demonios invasores que han aparecido en el lado sur del Reino de la Perseverancia: Dignidad. Su deber es verificar y monitorear a los enemigos que entran en Dracansor.
+Mission_String=Derrota a los Demonios invasores en el lado sur del Realm of Perseverance: Dignidad
+List_String=Demonios invasores que han aparecido en el lado sur del Realm of Perseverance: Dignidad. Su deber es verificar y monitorear a los enemigos que entran en Dracansor.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002026]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios invasores en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Demonios invasores que han aparecido en el lado sur del Reino de la Perseverancia: Dignidad. Luchan en las primeras líneas de las batallas para todos los machacadores. Los Chakuas primordiales y los machacadores no se llevan bien.
+Mission_String=Derrota a los Demonios invasores en el lado sur del Realm of Perseverance: Dignidad
+List_String=Demonios invasores que han aparecido en el lado sur del Realm of Perseverance: Dignidad. Luchan en las primeras líneas de las batallas para todos los machacadores. Los Chakuas primordiales y los machacadores no se llevan bien.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002027]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Chakuas primordiales en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Chakuas primordiales que viven en el lado sur del Reino de la Perseverancia: Dignidad. Más tímidos de lo que parecen, a veces huyen de las batallas.
+Mission_String=Derrota a los Chakuas primordiales en el lado sur del Realm of Perseverance: Dignidad
+List_String=Chakuas primordiales que viven en el lado sur del Realm of Perseverance: Dignidad. Más tímidos de lo que parecen, a veces huyen de las batallas.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002028]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Chakuas primordiales en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Chakuas primordiales que viven en el lado sur del Reino de la Perseverancia: Dignidad. Pequeños y ágiles.
+Mission_String=Derrota a los Chakuas primordiales en el lado sur del Realm of Perseverance: Dignidad
+List_String=Chakuas primordiales que viven en el lado sur del Realm of Perseverance: Dignidad. Pequeños y ágiles.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002029]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Chakuas primordiales en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Chakuas primordiales que viven en el lado sur del Reino de la Perseverancia: Dignidad. Chakuas imprudentes y agresivos que se lanzan a los enemigos antes de que ellos lo hagan. Son demasiado tontos para pelear inteligentemente.
+Mission_String=Derrota a los Chakuas primordiales en el lado sur del Realm of Perseverance: Dignidad
+List_String=Chakuas primordiales que viven en el lado sur del Realm of Perseverance: Dignidad. Chakuas imprudentes y agresivos que se lanzan a los enemigos antes de que ellos lo hagan. Son demasiado tontos para pelear inteligentemente.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002030]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Chakuas primordiales en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Chakuas primordiales que viven en el lado sur del Reino de la Perseverancia: Dignidad. Soldados de élite armados con fuertes espadas, escudos y habilidades impresionantes.
+Mission_String=Derrota a los Chakuas primordiales en el lado sur del Realm of Perseverance: Dignidad
+List_String=Chakuas primordiales que viven en el lado sur del Realm of Perseverance: Dignidad. Soldados de élite armados con fuertes espadas, escudos y habilidades impresionantes.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002031]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a las criaturas en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Escorpiones en el lado sur del Reino de la Perseverancia: Dignidad. El aguijón al final de sus enormes colas puede infligir daño letal, pero sin veneno o solo con una pequeña cantidad.
+Mission_String=Derrota a las criaturas en el lado sur del Realm of Perseverance: Dignidad
+List_String=Escorpiones en el lado sur del Realm of Perseverance: Dignidad. El aguijón al final de sus enormes colas puede infligir daño letal, pero sin veneno o solo con una pequeña cantidad.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002032]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios invasores en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Demonios invasores que han aparecido en el lado sur del Reino de la Perseverancia: Dignidad. Atacan a los enemigos con duraderos martillos que encontraron en alguna parte. Será mejor que tenga cuidado de no ser golpeado por esos martillos que agitan salvajemente. Similar a los Vanguardia.
+Mission_String=Derrota a los Demonios invasores en el lado sur del Realm of Perseverance: Dignidad
+List_String=Demonios invasores que han aparecido en el lado sur del Realm of Perseverance: Dignidad. Atacan a los enemigos con duraderos martillos que encontraron en alguna parte. Será mejor que tenga cuidado de no ser golpeado por esos martillos que agitan salvajemente. Similar a los Vanguardia.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002033]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios invasores en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Demonios invasores que han aparecido en el lado sur del Reino de la Perseverancia: Dignidad. Machacadores que atacan a los enemigos con duraderos martillos. Son casi idénticos a los Invasores. ¿Por qué los machacadores dan nombres diferentes a los tipos idénticos?
+Mission_String=Derrota a los Demonios invasores en el lado sur del Realm of Perseverance: Dignidad
+List_String=Demonios invasores que han aparecido en el lado sur del Realm of Perseverance: Dignidad. Machacadores que atacan a los enemigos con duraderos martillos. Son casi idénticos a los Invasores. ¿Por qué los machacadores dan nombres diferentes a los tipos idénticos?
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002034]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios invasores en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Demonios invasores que han aparecido en el lado sur del Reino de la Perseverancia: Dignidad. Guardianes de los almacenes de los machacadores. No llevan armas, ya que deben mover cosas constantemente en cualquier momento.
+Mission_String=Derrota a los Demonios invasores en el lado sur del Realm of Perseverance: Dignidad
+List_String=Demonios invasores que han aparecido en el lado sur del Realm of Perseverance: Dignidad. Guardianes de los almacenes de los machacadores. No llevan armas, ya que deben mover cosas constantemente en cualquier momento.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002035]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios invasores en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Demonios invasores que han aparecido en el lado sur del Reino de la Perseverancia: Dignidad. Aparte de sus harapos y capuchas, no parecen mucho diferentes de los demás, pero son considerados guerreros reputados.
+Mission_String=Derrota a los Demonios invasores en el lado sur del Realm of Perseverance: Dignidad
+List_String=Demonios invasores que han aparecido en el lado sur del Realm of Perseverance: Dignidad. Aparte de sus harapos y capuchas, no parecen mucho diferentes de los demás, pero son considerados guerreros reputados.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002036]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios invasores en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Demonios invasores que han aparecido en el lado sur del Reino de la Perseverancia: Dignidad. Llevan armaduras toscas en sus cabezas y alrededor de sus extremidades, que probablemente sea la razón por la que se lanzan a los enemigos con tanta valentía.
+Mission_String=Derrota a los Demonios invasores en el lado sur del Realm of Perseverance: Dignidad
+List_String=Demonios invasores que han aparecido en el lado sur del Realm of Perseverance: Dignidad. Llevan armaduras toscas en sus cabezas y alrededor de sus extremidades, que probablemente sea la razón por la que se lanzan a los enemigos con tanta valentía.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002037]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios invasores en el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Demonios invasores que han aparecido en el lado norte del Reino de la Perseverancia: Dignidad. Son demasiado grandes y lentos para ser guardianes. No parecen estar interesados en el deber de guardia tampoco.
+Mission_String=Derrota a los Demonios invasores en el lado norte del Realm of Perseverance: Dignidad
+List_String=Demonios invasores que han aparecido en el lado norte del Realm of Perseverance: Dignidad. Son demasiado grandes y lentos para ser guardianes. No parecen estar interesados en el deber de guardia tampoco.
 Mission_Target1=Matar %s_1_1
 
 
 [Quest_1002038]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Dientes Sangrientos en el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Miembros de la tribu Diente Sangriento en el lado norte del Reino de la Perseverancia: Dignidad. Como su nombre lo sugiere, destrozan brutalmente a los enemigos.
+Mission_String=Derrota a los Dientes Sangrientos en el lado norte del Realm of Perseverance: Dignidad
+List_String=Miembros de la tribu Diente Sangriento en el lado norte del Realm of Perseverance: Dignidad. Como su nombre lo sugiere, destrozan brutalmente a los enemigos.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002039]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Dientes Sangrientos en el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Miembro de la tribu Diente Sangriento en el lado norte del Reino de la Perseverancia: Dignidad. Armados con armaduras duraderas, aplastan a los enemigos con espadas tachonadas.
+Mission_String=Derrota a los Dientes Sangrientos en el lado norte del Realm of Perseverance: Dignidad
+List_String=Miembro de la tribu Diente Sangriento en el lado norte del Realm of Perseverance: Dignidad. Armados con armaduras duraderas, aplastan a los enemigos con espadas tachonadas.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002040]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Dientes Sangrientos en el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Miembros de la tribu Diente Sangriento en el lado norte del Reino de la Perseverancia: Dignidad. Las mujeres Diente Sangriento son menos en número que los hombres, pero tienen físicos y habilidades de lucha superiores.
+Mission_String=Derrota a los Dientes Sangrientos en el lado norte del Realm of Perseverance: Dignidad
+List_String=Miembros de la tribu Diente Sangriento en el lado norte del Realm of Perseverance: Dignidad. Las mujeres Diente Sangriento son menos en número que los hombres, pero tienen físicos y habilidades de lucha superiores.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002041]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad. Son tan codiciosos que casi instintivamente son atraídos por los recursos naturales de la Tierra.
+Mission_String=Derrota a los Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad
+List_String=Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad. Son tan codiciosos que casi instintivamente son atraídos por los recursos naturales de la Tierra.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002042]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad. Aplasta a los enemigos con sus enormes puños de martillo. Mejor tener cuidado de no ser atrapado por ellos.
+Mission_String=Derrota a los Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad
+List_String=Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad. Aplasta a los enemigos con sus enormes puños de martillo. Mejor tener cuidado de no ser atrapado por ellos.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002043]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad. Fingen debilidad mientras crean en secreto un bastón mágico, y luego disparan maná con él, tomando a los enemigos por sorpresa.
+Mission_String=Derrota a los Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad
+List_String=Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad. Fingen debilidad mientras crean en secreto un bastón mágico, y luego disparan maná con él, tomando a los enemigos por sorpresa.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002044]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad. Mucho más grandes que otros gremlins, luchan en la línea del frente o mantienen la última línea de defensa para los suyos.
+Mission_String=Derrota a los Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad
+List_String=Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad. Mucho más grandes que otros gremlins, luchan en la línea del frente o mantienen la última línea de defensa para los suyos.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002045]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios que han ocupado el Reino de la Perseverancia: Pruebas
-List_String=Demonios que han ocupado el Reino de la Perseverancia: Pruebas. De repente emergen del suelo, emboscando a los enemigos. Será mejor estar en guardia en todo momento.
+Mission_String=Derrota a los Demonios que han ocupado el Realm of Perseverance: Trials
+List_String=Demonios que han ocupado el Realm of Perseverance: Trials. De repente emergen del suelo, emboscando a los enemigos. Será mejor estar en guardia en todo momento.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002046]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios que han ocupado el Reino de la Perseverancia: Pruebas
-List_String=Demonios que han ocupado el Reino de la Perseverancia: Pruebas. Golpean a los enemigos con un mayal. Sus extremidades son casi cómicamente delgadas para llevar un mayal tan grande, pero son más fuertes de lo que parecen.
+Mission_String=Derrota a los Demonios que han ocupado el Realm of Perseverance: Trials
+List_String=Demonios que han ocupado el Realm of Perseverance: Trials. Golpean a los enemigos con un mayal. Sus extremidades son casi cómicamente delgadas para llevar un mayal tan grande, pero son más fuertes de lo que parecen.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002047]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios que han ocupado el Reino de la Perseverancia: Pruebas
-List_String=Demonios que han ocupado el Reino de la Perseverancia: Pruebas. Destrozan a los enemigos con su gran y pesada lanza. Ninguno de los que ha sido empalado por sus lanzas ha vivido para contarlo.
+Mission_String=Derrota a los Demonios que han ocupado el Realm of Perseverance: Trials
+List_String=Demonios que han ocupado el Realm of Perseverance: Trials. Destrozan a los enemigos con su gran y pesada lanza. Ninguno de los que ha sido empalado por sus lanzas ha vivido para contarlo.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002048]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los comandantes Demonios que han ocupado el Reino de la Perseverancia: Pruebas
-List_String=Comandantes Demonios que han ocupado el Reino de la Perseverancia: Pruebas. Balancean enormes armas sin preocuparse por quién recibe el golpe. Son más crueles que la mayoría de los de su especie.
+Mission_String=Derrota a los comandantes Demonios que han ocupado el Realm of Perseverance: Trials
+List_String=Comandantes Demonios que han ocupado el Realm of Perseverance: Trials. Balancean enormes armas sin preocuparse por quién recibe el golpe. Son más crueles que la mayoría de los de su especie.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002049]
@@ -38303,27 +38303,27 @@ Mission_Target1=Terminar de explorar Sleighbowa
 
 [Quest_1002057]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Subyugar el Reino de la Perseverancia: Pruebas
-List_String=Debo exterminar a los monstruos peligrosos en el Reino de la Perseverancia: Pruebas antes de que decidan salir y amenazar a Litenberg.
-Mission_Target1=Derrotar a los monstruos del Reino de la Perseverancia: Pruebas
+Mission_String=Subyugar el Realm of Perseverance: Trials
+List_String=Debo exterminar a los monstruos peligrosos en el Realm of Perseverance: Trials antes de que decidan salir y amenazar a Litenberg.
+Mission_Target1=Derrotar a los monstruos del Realm of Perseverance: Trials
 
 [Quest_1002058]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Jefes de Campo del Reino de la Perseverancia: Pruebas
-List_String=Debo exterminar a los Jefes de Campo en el Reino de la Perseverancia: Pruebas, y asegurarme de que nunca salgan de ese lugar.
+Mission_String=Derrota a los Jefes de Campo del Realm of Perseverance: Trials
+List_String=Debo exterminar a los Jefes de Campo en el Realm of Perseverance: Trials, y asegurarme de que nunca salgan de ese lugar.
 Mission_Target1=Matar %s_1_1 y %s_1_2
 
 [Quest_1002059]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Entrar en el Reino de la Perseverancia: Prueba
-List_String=Para atrapar a un tigre, debo entrar en su guarida. Debería entrar en el Reino de la Perseverancia: Prueba para derrotar al Rugido de Muerte.
-Mission_Target1=Entrar en el Reino de la Perseverancia: Prueba
+Mission_String=Entrar en el Realm of Perseverance: Prueba
+List_String=Para atrapar a un tigre, debo entrar en su guarida. Debería entrar en el Realm of Perseverance: Prueba para derrotar al Rugido de Muerte.
+Mission_Target1=Entrar en el Realm of Perseverance: Prueba
 
 [Quest_1002060]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Explorar a fondo el Reino de la Perseverancia: Prueba
-List_String=Debo derrotar al Rugido de Muerte y explorar a fondo el Reino de la Perseverancia: Prueba. Soy el mejor explorador del continente MU.
-Mission_Target1=Terminar de explorar el Reino de la Perseverancia: Prueba
+Mission_String=Explorar a fondo el Realm of Perseverance: Prueba
+List_String=Debo derrotar al Rugido de Muerte y explorar a fondo el Realm of Perseverance: Prueba. Soy el mejor explorador del continente MU.
+Mission_Target1=Terminar de explorar el Realm of Perseverance: Prueba
 
 [PetQuest_11]
 Name=Atrapar al Ladrón
@@ -38565,148 +38565,148 @@ Mission_Target1=Matar %s_1_1
 
 [Quest_1002125]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios invasores en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Demonios invasores que han aparecido en el lado sur del Reino de la Perseverancia: Dignidad. Su deber es vigilar y controlar a los enemigos que ingresan a Dracansor.
+Mission_String=Derrota a los Demonios invasores en el lado sur del Realm of Perseverance: Dignidad
+List_String=Demonios invasores que han aparecido en el lado sur del Realm of Perseverance: Dignidad. Su deber es vigilar y controlar a los enemigos que ingresan a Dracansor.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002126]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios invasores en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Demonios invasores que han aparecido en el lado sur del Reino de la Perseverancia: Dignidad. Luchan en la primera línea de batalla para todos los devastadores. Los primigenios Chakuas y los devastadores están en malos términos.
+Mission_String=Derrota a los Demonios invasores en el lado sur del Realm of Perseverance: Dignidad
+List_String=Demonios invasores que han aparecido en el lado sur del Realm of Perseverance: Dignidad. Luchan en la primera línea de batalla para todos los devastadores. Los primigenios Chakuas y los devastadores están en malos términos.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002127]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Chakuas Primigenios en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Chakuas Primigenios que viven en el lado sur del Reino de la Perseverancia: Dignidad. Más tímidos de lo que parecen, a veces huyen de las batallas.
+Mission_String=Derrota a los Chakuas Primigenios en el lado sur del Realm of Perseverance: Dignidad
+List_String=Chakuas Primigenios que viven en el lado sur del Realm of Perseverance: Dignidad. Más tímidos de lo que parecen, a veces huyen de las batallas.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002128]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Chakuas Primigenios en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Chakuas Primigenios que viven en el lado sur del Reino de la Perseverancia: Dignidad. Pequeños y ágiles.
+Mission_String=Derrota a los Chakuas Primigenios en el lado sur del Realm of Perseverance: Dignidad
+List_String=Chakuas Primigenios que viven en el lado sur del Realm of Perseverance: Dignidad. Pequeños y ágiles.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002129]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Chakuas Primigenios en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Chakuas Primigenios que viven en el lado sur del Reino de la Perseverancia: Dignidad. Chakuas atrevidos y agresivos que se lanzan contra los enemigos antes de que lo hagan. Son demasiado tontos para luchar de manera inteligente.
+Mission_String=Derrota a los Chakuas Primigenios en el lado sur del Realm of Perseverance: Dignidad
+List_String=Chakuas Primigenios que viven en el lado sur del Realm of Perseverance: Dignidad. Chakuas atrevidos y agresivos que se lanzan contra los enemigos antes de que lo hagan. Son demasiado tontos para luchar de manera inteligente.
 Mission_Target1=Matar %s_1_1
 
 
 [Quest_1002130]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Chakuas Primigenios en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Chakuas Primigenios que viven en el lado sur del Reino de la Perseverancia: Dignidad. Soldados de élite armados con espadas fuertes, escudos y habilidades impresionantes.
+Mission_String=Derrota a los Chakuas Primigenios en el lado sur del Realm of Perseverance: Dignidad
+List_String=Chakuas Primigenios que viven en el lado sur del Realm of Perseverance: Dignidad. Soldados de élite armados con espadas fuertes, escudos y habilidades impresionantes.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002131]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a las criaturas en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Escorpiones en el lado sur del Reino de la Perseverancia: Dignidad. El aguijón al final de sus colas gigantes puede infligir daño letal, aunque sin veneno o con una cantidad mínima.
+Mission_String=Derrota a las criaturas en el lado sur del Realm of Perseverance: Dignidad
+List_String=Escorpiones en el lado sur del Realm of Perseverance: Dignidad. El aguijón al final de sus colas gigantes puede infligir daño letal, aunque sin veneno o con una cantidad mínima.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002132]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios invasores en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Demonios invasores que han aparecido en el lado sur del Reino de la Perseverancia: Dignidad. Atacan a los enemigos con martillos duraderos que encontraron en algún lugar. Mejor tener cuidado de no recibir un golpe de esos martillos que agitan salvajemente. Similares a la Vanguardia.
+Mission_String=Derrota a los Demonios invasores en el lado sur del Realm of Perseverance: Dignidad
+List_String=Demonios invasores que han aparecido en el lado sur del Realm of Perseverance: Dignidad. Atacan a los enemigos con martillos duraderos que encontraron en algún lugar. Mejor tener cuidado de no recibir un golpe de esos martillos que agitan salvajemente. Similares a la Vanguardia.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002133]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios invasores en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Demonios invasores que han aparecido en el lado sur del Reino de la Perseverancia: Dignidad. Azotadores que atacan a los enemigos con martillos duraderos. Son casi idénticos a los Invasores. ¿Por qué los azotadores les dan nombres diferentes a los mismos?
+Mission_String=Derrota a los Demonios invasores en el lado sur del Realm of Perseverance: Dignidad
+List_String=Demonios invasores que han aparecido en el lado sur del Realm of Perseverance: Dignidad. Azotadores que atacan a los enemigos con martillos duraderos. Son casi idénticos a los Invasores. ¿Por qué los azotadores les dan nombres diferentes a los mismos?
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002134]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios invasores en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Demonios invasores que han aparecido en el lado sur del Reino de la Perseverancia: Dignidad. Guardianes de los almacenes de los azotadores. No llevan armas, ya que deben mover cosas constantemente.
+Mission_String=Derrota a los Demonios invasores en el lado sur del Realm of Perseverance: Dignidad
+List_String=Demonios invasores que han aparecido en el lado sur del Realm of Perseverance: Dignidad. Guardianes de los almacenes de los azotadores. No llevan armas, ya que deben mover cosas constantemente.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002135]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios invasores en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Demonios invasores que han aparecido en el lado sur del Reino de la Perseverancia: Dignidad. Aparte de sus ropas raídas y capuchas, no se ven muy diferentes de los demás, pero son considerados guerreros de renombre.
+Mission_String=Derrota a los Demonios invasores en el lado sur del Realm of Perseverance: Dignidad
+List_String=Demonios invasores que han aparecido en el lado sur del Realm of Perseverance: Dignidad. Aparte de sus ropas raídas y capuchas, no se ven muy diferentes de los demás, pero son considerados guerreros de renombre.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002136]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios invasores en el lado sur del Reino de la Perseverancia: Dignidad
-List_String=Demonios invasores que han aparecido en el lado sur del Reino de la Perseverancia: Dignidad. Llevan armaduras rudimentarias en la cabeza y alrededor de sus extremidades, probablemente por eso atacan a los enemigos sin temor.
+Mission_String=Derrota a los Demonios invasores en el lado sur del Realm of Perseverance: Dignidad
+List_String=Demonios invasores que han aparecido en el lado sur del Realm of Perseverance: Dignidad. Llevan armaduras rudimentarias en la cabeza y alrededor de sus extremidades, probablemente por eso atacan a los enemigos sin temor.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002137]
 Name=Cuaderno de Expedición de Noria
 Mission_String=Etapa de resistencia: Matar al Demonio Invasor que apareció en el Norte de Jagyeok
-List_String=Demonios invasores que han aparecido en el lado norte del Reino de la Perseverancia: Dignidad. Son demasiado grandes y lentos para ser guardianes. Tampoco parecen interesados en hacer guardia.
+List_String=Demonios invasores que han aparecido en el lado norte del Realm of Perseverance: Dignidad. Son demasiado grandes y lentos para ser guardianes. Tampoco parecen interesados en hacer guardia.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002138]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Dientes Sangrientos en el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Miembros de la tribu Diente Sangriento en el lado norte del Reino de la Perseverancia: Dignidad. Como su nombre tribal sugiere, desgarran brutalmente a sus enemigos.
+Mission_String=Derrota a los Dientes Sangrientos en el lado norte del Realm of Perseverance: Dignidad
+List_String=Miembros de la tribu Diente Sangriento en el lado norte del Realm of Perseverance: Dignidad. Como su nombre tribal sugiere, desgarran brutalmente a sus enemigos.
 Mission_Target1=Matar %s_1_1
 
 
 [Quest_1002139]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Dientes Sangrientos en el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Miembros de la tribu Diente Sangriento en el lado norte del Reino de la Perseverancia: Dignidad. Armados con armaduras duraderas, aplastan a los enemigos con espadas con púas.
+Mission_String=Derrota a los Dientes Sangrientos en el lado norte del Realm of Perseverance: Dignidad
+List_String=Miembros de la tribu Diente Sangriento en el lado norte del Realm of Perseverance: Dignidad. Armados con armaduras duraderas, aplastan a los enemigos con espadas con púas.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002140]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Dientes Sangrientos en el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Miembros de la tribu Diente Sangriento en el lado norte del Reino de la Perseverancia: Dignidad. Las hembras Diente Sangriento son menos numerosas que los machos, pero poseen una constitución y habilidades de combate superiores.
+Mission_String=Derrota a los Dientes Sangrientos en el lado norte del Realm of Perseverance: Dignidad
+List_String=Miembros de la tribu Diente Sangriento en el lado norte del Realm of Perseverance: Dignidad. Las hembras Diente Sangriento son menos numerosas que los machos, pero poseen una constitución y habilidades de combate superiores.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002141]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad. Grandes y fuertes, estos Demonios agresivos atacan a los enemigos primero y piensan después.
+Mission_String=Derrota a los Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad
+List_String=Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad. Grandes y fuertes, estos Demonios agresivos atacan a los enemigos primero y piensan después.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002142]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad. Son tan codiciosos que casi instintivamente se sienten atraídos por los recursos naturales de la Tierra.
+Mission_String=Derrota a los Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad
+List_String=Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad. Son tan codiciosos que casi instintivamente se sienten atraídos por los recursos naturales de la Tierra.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002143]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad. Supervisan a los demás, ya que son más inteligentes que la mayoría. Se rumorea que también han malversado una cantidad significativa de recursos.
+Mission_String=Derrota a los Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad
+List_String=Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad. Supervisan a los demás, ya que son más inteligentes que la mayoría. Se rumorea que también han malversado una cantidad significativa de recursos.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002144]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad. Aplastan a los enemigos con sus enormes puños similares a martillos. Mejor tener cuidado de no ser atrapado por ellos.
+Mission_String=Derrota a los Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad
+List_String=Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad. Aplastan a los enemigos con sus enormes puños similares a martillos. Mejor tener cuidado de no ser atrapado por ellos.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002145]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios que han ocupado el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad. Pequeños, pero peligrosamente ágiles.
+Mission_String=Derrota a los Demonios que han ocupado el lado norte del Realm of Perseverance: Dignidad
+List_String=Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad. Pequeños, pero peligrosamente ágiles.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002146]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios que han ocupado el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad. Fingen debilidad para atacar a los enemigos cuando bajan la guardia.
+Mission_String=Derrota a los Demonios que han ocupado el lado norte del Realm of Perseverance: Dignidad
+List_String=Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad. Fingen debilidad para atacar a los enemigos cuando bajan la guardia.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002147]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios que han ocupado el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad. Arremeten contra los enemigos, blandiendo grandes y mortales armas.
+Mission_String=Derrota a los Demonios que han ocupado el lado norte del Realm of Perseverance: Dignidad
+List_String=Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad. Arremeten contra los enemigos, blandiendo grandes y mortales armas.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002148]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Derrota a los Demonios que han ocupado el lado norte del Reino de la Perseverancia: Dignidad
-List_String=Demonios que han invadido el lado norte del Reino de la Perseverancia: Dignidad. Es uno de los soldados Demonios más comunes, pero tan letal como los menos comunes.
+Mission_String=Derrota a los Demonios que han ocupado el lado norte del Realm of Perseverance: Dignidad
+List_String=Demonios que han invadido el lado norte del Realm of Perseverance: Dignidad. Es uno de los soldados Demonios más comunes, pero tan letal como los menos comunes.
 Mission_Target1=Matar %s_1_1
 
 [Quest_1002149]
@@ -38761,26 +38761,26 @@ Mission_Target1=Terminar de explorar Sleighbowa
 [Quest_1002157]
 Name=Cuaderno de Expedición de Noria
 Mission_String=Derrota a Karax, el dragón que amenaza Dracansor
-List_String=Debo exterminar a Karax, el cruel dragón que amenaza Dracansor.<br>(La ubicación de esta misión no se muestra. Karax aparece aleatoriamente en los lados norte/sur del Reino de la Perseverancia: Dignidad y en el Reino de la Perseverancia: Pruebas.)
+List_String=Debo exterminar a Karax, el cruel dragón que amenaza Dracansor.<br>(La ubicación de esta misión no se muestra. Karax aparece aleatoriamente en los lados norte/sur del Realm of Perseverance: Dignidad y en el Realm of Perseverance: Trials.)
 Mission_Target1=Derrotar a Karax
 
 [Quest_1002158]
 Name=Cuaderno de Expedición de Noria
 Mission_String=Derrota a Vritra, el dragón que amenaza Dracansor
-List_String=Debo exterminar a Vritra, el vil dragón que amenaza Dracansor.<br>(La ubicación de esta misión no se muestra. Vritra aparece aleatoriamente en los lados norte/sur del Reino de la Perseverancia: Dignidad y en el Reino de la Perseverancia: Pruebas.)
+List_String=Debo exterminar a Vritra, el vil dragón que amenaza Dracansor.<br>(La ubicación de esta misión no se muestra. Vritra aparece aleatoriamente en los lados norte/sur del Realm of Perseverance: Dignidad y en el Realm of Perseverance: Trials.)
 Mission_Target1=Derrotar a Vritra
 
 [Quest_1002159]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Entra en el Reino de la Perseverancia: Prueba
-List_String=Para atrapar a un tigre, debo entrar en su guarida. Debería entrar en el Reino de la Perseverancia: Prueba para derrotar a Rugido Mortal.
-Mission_Target1=Entrar en el Reino de la Perseverancia: Prueba
+Mission_String=Entra en el Realm of Perseverance: Prueba
+List_String=Para atrapar a un tigre, debo entrar en su guarida. Debería entrar en el Realm of Perseverance: Prueba para derrotar a Rugido Mortal.
+Mission_Target1=Entrar en el Realm of Perseverance: Prueba
 
 [Quest_1002160]
 Name=Cuaderno de Expedición de Noria
-Mission_String=Explora a fondo el Reino de la Perseverancia: Prueba
-List_String=Debería derrotar a Rugido Mortal y explorar a fondo el Reino de la Perseverancia: Prueba. Soy el mejor explorador del continente MU.
-Mission_Target1=Terminar de explorar el Reino de la Perseverancia: Prueba
+Mission_String=Explora a fondo el Realm of Perseverance: Prueba
+List_String=Debería derrotar a Rugido Mortal y explorar a fondo el Realm of Perseverance: Prueba. Soy el mejor explorador del continente MU.
+Mission_Target1=Terminar de explorar el Realm of Perseverance: Prueba
 
 
 [Quest_2601208]
