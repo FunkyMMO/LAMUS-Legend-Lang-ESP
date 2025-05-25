@@ -491,7 +491,7 @@ LS_RepairStop=Parar reparación de items
 LS_RepairAll=Reparar todo
 LS_BuyCount=Límite de compra
 LS_NoLimit=Ilimitado
-LS_KnightageUse=<font color='#ff0000'>Ocupar Guild</font>
+LS_KnightageUse=<font color='#ff0000'>Ocupado por</font>
 LS_KnightageFollowerUse=<font color='#ff0000'>Seguidor</font>
 LS_ToolTipText=<b><font color='#FDC243'>Consejo sobre la Tienda de Contribución</font></b><br>- Puedes comprar con los Puntos de Contribución que has ganado a través de las actividades del Guild y del juego en general.<br>- Cuanto mayor sea el grado de tu territorio, mejores Items encontrarás en la tienda.<br>- Cuanto mayor sea el nivel de tu territorio vecino, mayor será tu tasa de descuento (hasta un 20%).
 LS_LimitedBuy=(Se reinicia en %s_1 d)
@@ -800,8 +800,8 @@ LS_Title_106=Tienda de misión diaria
 LS_ShopDesc_106=Tienda de misión diaria.
 LS_BuyCount_106=Límite de compra
 LS_NoLimit_106=Sin límites
-LS_TokenCount_106=Prueba de Platcher
-LS_ToolTipText_106=Disponible al canjear <b><font color='#FDC243'>Prueba de Platcher</font></b>.
+LS_TokenCount_106=Fletcher's Proof
+LS_ToolTipText_106=Disponible al canjear <b><font color='#FDC243'>Fletcher's Proof</font></b>.
 LS_LimitedBuy_106=(Límite de compra restablecido tras %s_1 días)
 LS_Title_19595=Tienda del mercader de piedras de trascendencia Rarva
 LS_ShopDesc_19595=Esta tienda está abierta sólo durante el periodo del evento.
@@ -877,8 +877,8 @@ LS_Title_19637=Tienda misión diaria
 LS_ShopDesc_19637=Tienda de misión diaria.
 LS_BuyCount_19637=Límite de compra
 LS_NoLimit_19637=Sin límites
-LS_TokenCount_19637=Prueba de Kundun
-LS_ToolTipText_19637=Disponible al canjear <b><font color='#FDC243'>Prueba de Kundun</font></b>.
+LS_TokenCount_19637=Kundun Proof
+LS_ToolTipText_19637=Disponible al canjear <b><font color='#FDC243'>Kundun Proof</font></b>.
 LS_LimitedBuy_19637=(Límite de compra restablecido tras %s_1 días)
 LS_Title_19638=Tienda misión diaria
 LS_ShopDesc_19638=Tienda misión diaria.
@@ -2701,7 +2701,7 @@ RewardIcon_90044=Genera Fragmentos de Piedra Trascendente Inestable.
 RewardIcon_90045=Genera Rastro de destrucción.
 RewardIcon_90046=Crea una baja probabilidad de generar Núcleos de Talismán Kaizel Antiguo.
 RewardIcon_70703=Puedes recibir materiales relacionados con accesorios de clase de set.
-RewardIcon_60601=Puedes recibir armas de clase mito.
+RewardIcon_60601=Puedes recibir armas miticas.
 RewardIcon_60602=Puede recibir armaduras Legendarias con una opción aleatoria.
 RewardIcon_60604=Genera armadura Mítica con opciones fijas.
 RewardIcon_70603=Puede proporcionar materiales de craft para accesorios Legendarios.
@@ -2824,7 +2824,7 @@ RewardIcon_90102=Despierto: Puedes recibir piedra filosofal.
 RewardIcon_90103=Puedes recibir neutralizador de aura mágica Gavilán plateado.
 RewardIcon_90104=Puede recibir el token de aprobado.
 RewardIcon_90105=Puede recibir cubo de jefe adicional.
-RewardIcon_90106=Puede recibir el brazalete de clase mito.
+RewardIcon_90106=Puede recibir el brazalete mitico.
 RewardIcon_90107=Puede recibir la hoja de pedido del brazalete.
 LS_TeacherStudent_Help=Consejo:<br>Si el personaje de la cuenta es de Lv. 80 o superior, puedes usar el sistema de maestro y discípulo. Un maestro puede conectarse con un máximo de 2 discípulos, y un discípulo puede conectarse con un máximo de 1 maestro.<br>2. Si la persona conectada está en línea, puedes recibir un poderoso beneficio de apoyo a la mejora.
 LS_FamilyMirrorHelp=Este es el espejo del alma.
@@ -6593,7 +6593,7 @@ LS_UndoInfo=Deshacer
 LS_ConfirmInfo=Aplicar
 LS_Dissolve=Disolver
 LS_Auto=Construcción automática del equipo
-LS_OccupyNone=Ocupar Guild: None
+LS_OccupyNone=Ocupado por: None
 LS_OccupyKnightAge=Ocupando Guild: %s_1
 LS_MyOccupy=Ocupado
 LS_CompetitionRate=Tasa de competición: %s_1:1
@@ -6693,7 +6693,7 @@ LS_ApplyTrophyCountTitle=Oferta de trofeo:
 LS_NoApplyAlertTitle=No hay información de solicitud disponible
 LS_NoApplyAlertDesc=Los líderes de cada Guild pueden solicitar competir por el territorio que deseen
 LS_ApplyResultLabel=Comprobar solicitud de torneo
-LS_HaveKnightageTitle=Ocupar Guild
+LS_HaveKnightageTitle=Ocupado por
 LS_TournamentProgressTitle=Progreso:
 LS_MyDominionTitle=Ocupando territorio
 LS_DominionHaveKnightTitle=Guild ocupante
