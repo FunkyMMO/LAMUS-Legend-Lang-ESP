@@ -3738,7 +3738,7 @@ AmplifierDest=Objetivo de intensificación: %s_1
 AmplifierDest_62540=Piedra Trascendente Antigua
 AmplifierDest_62541=Piedra Mítica Trascendente
 AmplifierDest_62542=Piedra Trascendente Set
-EquipmentTranscend=Equipo Trascendencia +%d
+EquipmentTranscend=Equipo Trascendencia <br/>+%d
 
 [TournamentCompetition]
 UnderMinCompetition=%s_1 contra 1 o menos
