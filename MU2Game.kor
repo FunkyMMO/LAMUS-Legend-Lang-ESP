@@ -676,7 +676,7 @@ LS_Title_19537=Tienda de eventos de Luery
 LS_ShopDesc_19537=Esta tienda sólo abre durante un evento.
 LS_BuyCount_19537=Límite de compra
 LS_NoLimit_19537=Unlimited
-LS_TokenCount_19537=Alimentación de Beatriz
+LS_TokenCount_19537=Beatrice Feed
 LS_ToolTipText_19537=Cambiar por <b><font color='#FDC243'>Alimento de Beatriz</font></b>
 LS_LimitedBuy_19537=(Se reinicia en %s_1 d)
 LS_Title_9429=Tienda de Lupa
@@ -8378,15 +8378,15 @@ LS_PopupCloseBtn=Cerrar
 
 [MU2GFxLuerysTreasureReleaseEvent]
 LS_EventPeriod=Período del evento
-LS_BottomDesc=Puedes ganar monedas de evento al derrotar al boss de cada Dungeon del evento.<bront color='#FDC243'>Bonificación de net cafe 1: Puedes ganar monedas de evento como parte de la bonificación de net cafe.<br>Bonificación de net cafe 2: Puedes ganar recompensas extra por superar Dungeons de evento de net cafes.</font></b>
+LS_BottomDesc=Puedes ganar monedas de evento al derrotar al boss de cada Dungeon del evento.<bront color='#FDC243'></font></b>
 LS_Exit=Cerrar
 LS_DungeonInfoTitle=Dungeon del evento
 LS_Dungeon0=Restricted Area 6-1
 LS_Dungeon1=Ancient Kanturian Ark
 LS_Dungeon2=Realm of Perseverance: Proof
 LS_CoinInfoTitle=Moneda del evento
-LS_CoinInfoReward0=Recompensa regular
-LS_CoinInfoReward1=Recompensa exclusiva de Net Cafe
+LS_CoinInfoReward0=Recompensa
+LS_CoinInfoReward1=Recompensa
 LS_NPCShopInfoTitle=Recompensas en la tienda
 LS_NPCShopInfoReward0=Talismán Core Chest
 LS_NPCShopInfoReward1=3 tipos de mascotas
@@ -8395,15 +8395,15 @@ LS_NPCShopInfoReward3=Moisture Cream
 LS_NPCShopInfoReward4=Luery's White Scroll
 LS_NPCShopInfoReward5=Luery's Imprint Scroll
 LS_EventPeriod_S2= Visita nuestra web y discord para ver la duración del evento.
-LS_BottomDesc_S2=Puedes ganar monedas de evento al derrotar al boss de cada Dungeon del evento.<br>Puedes recibir monedas de evento como recompensa de carga de sello en el evento de recompensa de conexión.<br><font color='#FDC243'>Beneficio del cibercafé 1. Puedes recibir moneda de evento a través de la recompensa de conexión de cibercafé.<br>Beneficio de cibercafé 2. Puedes recibir monedas de evento como recompensa de carga de sello en el evento de recompensa de conexión.
+LS_BottomDesc_S2=Puedes ganar monedas de evento al derrotar al boss de cada Dungeon del evento.<br>
 LS_Exit_S2=Cerrar
 LS_DungeonInfoTitle_S2=Dungeon de evento
 LS_Dungeon0_S2=El viejo castillo famoso por sus cerezos en flor
-LS_Dungeon1_S2=Antiguo arca de Kantur
-LS_Dungeon2_S2=Pasos de resistencia: Prueba
+LS_Dungeon1_S2=Ancient Kanturian Ark
+LS_Dungeon2_S2=Realm of Perseverance: Proof
 LS_CoinInfoTitle_S2=Moneda de evento
-LS_CoinInfoReward0_S2=Recompensa normal
-LS_CoinInfoReward1_S2=Recompensa exclusiva del café internet
+LS_CoinInfoReward0_S2=Recompensa
+LS_CoinInfoReward1_S2=Recompensa
 LS_NPCShopInfoTitle_S2=Recompensas en la tienda
 LS_NPCShopInfoReward0_S2=Nuevo material de piedra de alma
 LS_NPCShopInfoReward1_S2=Nueva esencia de artefacto
